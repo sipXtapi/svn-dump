@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-10-02T15:10:40.384851Z
+K 7
+svn:log
+V 59
+Log when ALSA device is removed from set of active devices
+
+END

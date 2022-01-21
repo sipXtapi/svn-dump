@@ -1,0 +1,85 @@
+id: dk.2m.r669/0
+type: dir
+pred: dk.0.r667/1353
+count: 63
+text: 667 367 973 973 c69ba0091e0b2eaecd15c580c6152a76
+props: 664 0 296 0 9b4207c15bc7574f659f45f45a74f7fb
+cpath: /old/sipXtackLib/branches/post-2.6.1
+copyfrom: 668 /old/sipXtackLib/main
+
+PLAIN
+K 10
+post-2.6.1
+V 16
+dir dk.2m.r669/0
+END
+ENDREP
+id: kz.0.r669/301
+type: dir
+pred: kz.0.r668/0
+count: 1
+text: 669 246 42 42 e650d248d41809318e5267487263650b
+cpath: /old/sipXtackLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 17
+dir kz.0.r669/301
+K 4
+main
+V 18
+dir dk.0.r667/1353
+K 4
+tags
+V 18
+dir kr.0.r641/2057
+END
+ENDREP
+id: dj.0.r669/576
+type: dir
+pred: dj.0.r668/200
+count: 70
+text: 669 457 106 106 801abf3ed43acc95c14334cb8cc5d9d0
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 17
+dir dj.0.r669/576
+END
+ENDREP
+id: 1.0.r669/825
+type: dir
+pred: 1.0.r668/449
+count: 668
+text: 669 728 84 84 05353b00af109f638431f225c07907c2
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 16
+dir 1.0.r669/825
+END
+ENDREP
+id: 0.0.r669/1009
+type: dir
+pred: 0.0.r668/634
+count: 669
+text: 669 962 34 34 5ad57010b28aaaa95952ddec64a4546d
+cpath: /
+copyroot: 0 /
+
+dk._0.t668-1 add false false /old/sipXtackLib/branches/post-2.6.1
+668 /old/sipXtackLib/main
+
+1009 1144

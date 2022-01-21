@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-13T22:04:21.705061Z
+K 7
+svn:log
+V 302
+sipXmediaLib: Fix audio quality problems on Windows.
+Windows output driver is a bursty man and we need to iron out resulting jitter. This code allows to do this by slightly increase of latency in mixer buffer in case burst. For good conditions (e.g. Linux) it does nothing and does not affect latency.
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-18T20:06:46.436668Z
+K 7
+svn:log
+V 177
+Changes needed to build sipXcommserverLib w/ sipXportLib.  This project
+will not compile until jira bug # XPL-13 "UtlContainer should inherit from
+UtlContainable" is resolved.
+
+
+END

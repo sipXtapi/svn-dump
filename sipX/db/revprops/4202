@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-09-27T21:12:49.741819Z
+K 7
+svn:log
+V 45
+create configuration directory during install
+END

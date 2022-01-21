@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-20T22:37:14.930757Z
+K 7
+svn:log
+V 117
+Use intptr_t instead of plain int in OsNotification and its successors to allow passing pointers as their arguments.
+
+END

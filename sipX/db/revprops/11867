@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-02-06T05:13:23.128897Z
+K 7
+svn:log
+V 184
+To check if message is in INVITE dialog only check callId, to & From tags
+  Ignore To and From userId and host
+  Use SipDialog matching methods
+  We falsely ignored some BYE messages
+
+
+END

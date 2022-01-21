@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-16T15:31:59.822273Z
+K 7
+svn:log
+V 112
+Partial fix for [XSL-149]: SipMessage::getContactField() should be used instead of SipMessage::getContactUri().
+
+END

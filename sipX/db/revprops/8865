@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-02-22T01:50:25.471508Z
+K 7
+svn:log
+V 98
+Adding TestOsLogListener to other unit test projects.
+(TestOsLogListener merged from main branch)
+
+END

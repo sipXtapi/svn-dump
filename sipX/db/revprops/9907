@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-07-28T13:22:54.977106Z
+K 7
+svn:log
+V 198
+Realm in sipxLineAddCredential isn't mandatory anymore. If realm is NULL, sipXtacklib uses supplied credentials with any realm. This has always been the case, only sipxtapi was a little too strict.
+
+END

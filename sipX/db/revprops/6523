@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-04-05T21:34:20.503349Z
+K 7
+svn:log
+V 290
+Fix XPB-548: only successful calls were generating CDRs.  The mistake was that I was only handling the case call request, then call setup, then call failure.  But often there is a call request followed immediately by a call failure.  Added a test case to enforce that this now works right.
+
+END

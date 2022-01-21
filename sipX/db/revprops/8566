@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-17T00:01:32.225570Z
+K 7
+svn:log
+V 128
+Fix unittests build under VS2003.
+
+* sipXsdpLib/include added to unittests includes paths.
+* sipXtapiTest depend on sipXsdpLib.
+
+END

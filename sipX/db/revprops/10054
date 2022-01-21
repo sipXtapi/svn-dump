@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-06T20:06:17.773202Z
+K 7
+svn:log
+V 303
+Move NameValueTokenize class from sipXtackLib to sipXportLib and rename it to UtlNameValueTokenize.
+This is the natural place for it. Also this make it available from all libs, not only sipXtackLib.
+
+I think all other NameValue* classes should be moved to sipXportLib too, but I leave this off for now.
+
+END

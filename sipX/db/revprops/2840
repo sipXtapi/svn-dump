@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2004-11-05T20:31:38.563672Z
+K 7
+svn:log
+V 40
+Removed unused format_wcs2str function.
+
+END

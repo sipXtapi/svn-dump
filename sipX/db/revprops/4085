@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-06-26T15:35:40.445876Z
+K 7
+svn:log
+V 66
+XCF-431 - use template .ini file to generate mediant configuration
+END

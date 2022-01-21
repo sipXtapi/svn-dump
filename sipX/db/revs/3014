@@ -1,0 +1,316 @@
+PLAIN
+K 13
+svn:externals
+V 75
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.8-export-O/config
+
+K 10
+svn:ignore
+V 169
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxvxml-*.tar.gz
+sipxvxml.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 52
+https://scm.sipfoundry.org/rep/sipXvxml/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 25
+1-141,144-145,153,160,188
+K 18
+svnmerge-main-head
+V 44
+https://scm.sipfoundry.org/rep/sipXvxml/main
+K 18
+svnmerge-main-revs
+V 5
+1-225
+END
+ENDREP
+id: 22d.h4.r3014/552
+type: dir
+pred: 22d.gm.r2992/3813
+count: 175
+text: 2992 3084 716 716 ff1aed5f568a93c472048ea3bada6e7c
+props: 3014 0 539 0 434ba8c42c1a1177b791221b46e5cc44
+cpath: /old/sipXvxml/tags/2.8-export-O
+copyfrom: 3013 /old/sipXvxml/branches/2.8
+
+PLAIN
+K 5
+2.5.1
+V 22
+dir 22d.fe.r2743/17467
+K 5
+2.5.2
+V 21
+dir 22d.fg.r2758/1215
+K 12
+2.6-export-A
+V 20
+dir 22d.fy.r2846/520
+K 12
+2.6-export-B
+V 20
+dir 22d.fz.r2849/520
+K 12
+2.6-export-C
+V 20
+dir 22d.g1.r2856/520
+K 12
+2.6-export-D
+V 20
+dir 22d.g2.r2857/520
+K 12
+2.6-export-E
+V 20
+dir 22d.g3.r2858/520
+K 12
+2.6-export-F
+V 20
+dir 22d.g4.r2861/520
+K 12
+2.6-export-G
+V 20
+dir 22d.g6.r2868/406
+K 12
+2.6-export-H
+V 20
+dir 22d.g7.r2869/406
+K 12
+2.6-export-J
+V 20
+dir 22d.g8.r2873/406
+K 12
+2.6-export-K
+V 20
+dir 22d.g9.r2879/410
+K 12
+2.6-export-L
+V 20
+dir 22d.ga.r2880/410
+K 12
+2.6-export-M
+V 20
+dir 22d.gb.r2881/410
+K 12
+2.6-export-N
+V 20
+dir 22d.gc.r2882/410
+K 12
+2.6-export-O
+V 20
+dir 22d.gd.r2894/410
+K 12
+2.6-export-P
+V 20
+dir 22d.ge.r2895/410
+K 12
+2.6-export-Q
+V 20
+dir 22d.gf.r2897/410
+K 12
+2.6-export-R
+V 20
+dir 22d.gg.r2898/410
+K 12
+2.6-export-S
+V 20
+dir 22d.gh.r2902/410
+K 12
+2.6-export-T
+V 20
+dir 22d.gi.r2905/410
+K 12
+2.6-export-U
+V 20
+dir 22d.gk.r2908/410
+K 5
+2.6.1
+V 20
+dir 22d.g5.r2863/513
+K 5
+2.6.2
+V 21
+dir 22d.gl.r2922/3240
+K 12
+2.8-export-A
+V 20
+dir 22d.gn.r2966/552
+K 12
+2.8-export-B
+V 20
+dir 22d.go.r2976/552
+K 12
+2.8-export-C
+V 20
+dir 22d.gq.r2987/552
+K 12
+2.8-export-D
+V 20
+dir 22d.gs.r2993/552
+K 12
+2.8-export-E
+V 20
+dir 22d.gt.r2994/552
+K 12
+2.8-export-F
+V 20
+dir 22d.gv.r2997/552
+K 12
+2.8-export-G
+V 20
+dir 22d.gw.r2998/552
+K 12
+2.8-export-H
+V 20
+dir 22d.gx.r2999/552
+K 12
+2.8-export-I
+V 20
+dir 22d.gy.r3000/552
+K 12
+2.8-export-J
+V 20
+dir 22d.gz.r3001/552
+K 12
+2.8-export-K
+V 20
+dir 22d.h0.r3002/552
+K 12
+2.8-export-L
+V 20
+dir 22d.h1.r3006/552
+K 12
+2.8-export-M
+V 20
+dir 22d.h2.r3010/552
+K 12
+2.8-export-N
+V 20
+dir 22d.h3.r3011/552
+K 12
+2.8-export-O
+V 20
+dir 22d.h4.r3014/552
+K 13
+main-export-B
+V 20
+dir 22d.fv.r2838/407
+K 13
+main-export-C
+V 20
+dir 22d.fw.r2844/407
+END
+ENDREP
+id: 2gd.0.r3014/2605
+type: dir
+pred: 2gd.0.r3011/2561
+count: 49
+text: 3014 810 1782 1782 e952d339e75a90d35076901b3951719c
+cpath: /old/sipXvxml/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 2h1.0.r3004/4257
+K 4
+main
+V 20
+dir 22d.0.r3013/6338
+K 4
+tags
+V 20
+dir 2gd.0.r3014/2605
+END
+ENDREP
+id: 22c.0.r3014/2894
+type: dir
+pred: 22c.0.r3013/6683
+count: 281
+text: 3014 2768 113 113 a14c0da02cda50998e61e50e75c23320
+cpath: /old/sipXvxml
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3014/2894
+END
+ENDREP
+id: 1.0.r3014/3454
+type: dir
+pred: 1.0.r3013/7243
+count: 3013
+text: 3014 3052 389 389 e18ec81e3bc12f4609bcc15152df6323
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3014/3454
+END
+ENDREP
+id: 0.0.r3014/3649
+type: dir
+pred: 0.0.r3013/7438
+count: 3014
+text: 3014 3600 36 36 a3bdb6f9f671104fbbc0ddde0307f5ae
+cpath: /
+copyroot: 0 /
+
+22d._0.t3013-1 add false true /old/sipXvxml/tags/2.8-export-O
+3013 /old/sipXvxml/branches/2.8
+
+3649 3790

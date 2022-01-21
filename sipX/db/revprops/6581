@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-04-13T18:13:02.542843Z
+K 7
+svn:log
+V 64
+XPR-143: Strip port number from IPv4 addresses before validation
+END

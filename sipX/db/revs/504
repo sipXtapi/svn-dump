@@ -1,0 +1,124 @@
+PLAIN
+K 10
+svn:ignore
+V 217
+BUILDSTAMP
+Debug
+Makefile
+Makefile.in
+Release
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxportlib-*.rpm
+sipxportlib-*.tar.gz
+sipxportlib.spec
+stamp-h1
+textfiles
+
+K 17
+svnmerge-2.6-head
+V 55
+https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 41
+1-311,338-339,344,358,360,362,369-373,396
+K 17
+svnmerge-2.8-head
+V 55
+https://scm.sipfoundry.org/rep/sipXportLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 21
+1-430,435,444,453,477
+K 22
+svnmerge-user_pin-head
+V 60
+https://scm.sipfoundry.org/rep/sipXportLib/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-501
+K 23
+svnmerge-user_ping-head
+V 61
+https://scm.sipfoundry.org/rep/sipXportLib/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-484
+END
+ENDREP
+id: 3.0.r504/812
+type: dir
+pred: 3.0.r502/4421
+count: 404
+text: 502 3624 784 784 1327a12d30a060979b6a1400ea598c26
+props: 504 0 799 0 cf78d62244ec8298a0967c43438ea7b8
+cpath: /old/sipXportLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir ar.0.r503/1191
+K 4
+main
+V 16
+dir 3.0.r504/812
+K 4
+tags
+V 18
+dir an.0.r501/1637
+END
+ENDREP
+id: 2.0.r504/1140
+type: dir
+pred: 2.0.r503/1474
+count: 502
+text: 504 1022 105 105 2460658125a36a8c8cb5ba1fa56152c1
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r504/1140
+END
+ENDREP
+id: 1.0.r504/1351
+type: dir
+pred: 1.0.r503/1685
+count: 503
+text: 504 1294 44 44 81c341637343dfded462ef8600298c4e
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r504/1351
+END
+ENDREP
+id: 0.0.r504/1539
+type: dir
+pred: 0.0.r503/1873
+count: 504
+text: 504 1491 35 35 1aa4a09834d4159aed6ad20790c3dea6
+cpath: /
+copyroot: 0 /
+
+3.0.t503-1 modify false true /old/sipXportLib/main
+
+
+1539 1676

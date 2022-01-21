@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-05-31T21:20:09.981196Z
+K 7
+svn:log
+V 101
+Initialize uninitialized member variables, add audio format enum name/value for uninitialized state.
+
+END

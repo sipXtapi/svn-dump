@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-07-05T20:21:38.792918Z
+K 7
+svn:log
+V 224
+Merged revisions 6974 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r6974 | bob | 2006-06-17 00:16:44 +0400 | 3 lines
+  
+  Updated Stun Message to better reflect rfc3489bis-03
+........
+
+END

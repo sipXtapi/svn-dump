@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-10-12T17:14:28.330520Z
+K 7
+svn:log
+V 187
+minor changes to build process to simplify automated builds
+- clover.report can now be called on a project level (and not just in web or neoconf directory)
+- remove unused javadoc checks
+
+END

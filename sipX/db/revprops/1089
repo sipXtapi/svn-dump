@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-07-31T14:53:30.270355Z
+K 7
+svn:log
+V 84
+Fixed a build error under windows: OsBSem was used by this class, but not #included.
+END

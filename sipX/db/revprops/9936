@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-08-10T17:33:14.318251Z
+K 7
+svn:log
+V 109
+No need to include "MpResNotificationMsg.h" in "MpResource.h". MpResNotificationMsg is not used here at all.
+
+END

@@ -1,0 +1,188 @@
+PLAIN
+K 9
+svk:merge
+V 227
+753b6353-b8fa-0310-b9e5-93f878b9c26c:/pingtel/main/sipXconfig:6900
+ecada2a1-f43d-4c34-8217-77ef9caec149:/local:1336
+ecada2a1-f43d-4c34-8217-77ef9caec149:/remote:1346
+ecada2a1-f43d-4c34-8217-77ef9caec149:/sipfoundry/plugins:1329
+K 10
+svn:ignore
+V 302
+BUILDSTAMP
+Makefile
+Makefile.in
+SVN-VERSION
+aclocal.m4
+autom4te.cache
+bin.eclipse
+build
+build.maven
+build.properties
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxconfig-*.rpm
+sipxconfig-*.tar.gz
+sipxconfig.spec
+spy.log
+stamp-h1
+top.build.dir
+velocity.log
+config.OLD
+jsetup
+setup
+
+K 16
+svnmerge-blocked
+V 29
+/branches/3.6/sipXconfig:8803
+K 19
+svnmerge-integrated
+V 367
+/branches/2.6:1-204,218,223-251,265,314,459 /branches/2.8:1-829,837-855,1016 /branches/3.0/sipXconfig:1-6144 /branches/3.2/sipXconfig:1-6508 /branches/3.4/sipXconfig:1-7071,7077-7079 /branches/3.6/sipXconfig:1-8258 /branches/lowcarb:1-1002 /branches/sipXconfig/3.3:1-6033 /branches/user_pin:1-732 /main/sipXconfig:1-6697 /pingtel/main/sipXconfig:1-6584,6690,6733,6736
+END
+ENDREP
+id: 2hf.1i7.r8954/1046
+type: dir
+pred: 2hf.1i7.r8952/3410
+count: 2226
+text: 8952 2034 1363 1363 9643ea9dda80328f350d8b0fe04ddfde
+props: 8954 0 1033 0 4e600c06b6345a6450ac0045279c0630
+cpath: /main/sipXconfig
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 11
+Makefile.in
+V 23
+file d0m.421.r8463/2590
+K 5
+build
+V 22
+file d5a.0.r7664/15661
+K 14
+buildmsvs6.bat
+V 20
+file dm4.683.r8357/0
+K 6
+config
+V 21
+dir 91.1i4.r8922/2027
+K 12
+configure.ac
+V 21
+file d0n.0.r8471/1110
+K 16
+dependencies.mak
+V 20
+file dxw.0.r8471/894
+K 3
+lib
+V 20
+dir cyn.0.r8852/9225
+K 4
+meta
+V 20
+dir e8u.0.r8922/1019
+K 9
+sipXb2bua
+V 21
+dir dau.0.r7967/44454
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r8672/8278
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r8852/12469
+K 10
+sipXconfig
+V 22
+dir 2hf.1i7.r8954/1046
+K 19
+sipXmediaAdapterLib
+V 21
+dir 89s.0.r8363/16089
+K 12
+sipXmediaLib
+V 23
+dir mz.1i8.r8539/196231
+K 7
+sipXpbx
+V 23
+dir 5g6.1i9.r8950/11690
+K 11
+sipXportLib
+V 21
+dir 3.1ib.r8949/28637
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r8852/4225
+K 13
+sipXpublisher
+V 24
+dir 20n.1id.r8539/123536
+K 12
+sipXregistry
+V 22
+dir 1y5.1ie.r8877/3105
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r8891/10109
+K 9
+sipXtools
+V 21
+dir dtl.0.r8921/10410
+K 8
+sipXvxml
+V 23
+dir 22d.1ig.r8539/14682
+K 10
+top.mak.in
+V 21
+file d5l.0.r7330/2797
+END
+ENDREP
+id: 7q4.0.r8954/2306
+type: dir
+pred: 7q4.0.r8952/4674
+count: 2487
+text: 8954 1286 1007 1007 e1eddcdcdbd630b63b0964e289938872
+props: 8949 29893 2738 0 49e455f83023e0a16aa6ae1766e12500
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r8953/18296
+K 4
+main
+V 20
+dir 7q4.0.r8954/2306
+K 4
+tags
+V 20
+dir 7q5.0.r8544/3180
+END
+ENDREP
+id: 0.0.r8954/2644
+type: dir
+pred: 0.0.r8953/18583
+count: 8954
+text: 8954 2517 114 114 0ec0ce6c89a4b9412d6df94a01e636aa
+cpath: /
+copyroot: 0 /
+
+2hf.1i7.t8953-1 modify false true /main/sipXconfig
+
+
+2644 2788

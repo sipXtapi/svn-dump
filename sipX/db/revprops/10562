@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-31T01:58:32.544390Z
+K 7
+svn:log
+V 84
+Revert rev10540. It changed behaviour of UtlString::resize(), which we do not want.
+
+END

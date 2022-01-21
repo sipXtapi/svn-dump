@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2015-07-21T21:25:19.643629Z
+K 7
+svn:log
+V 49
+Added basic unit test fro MprToneDetect resource
+
+END

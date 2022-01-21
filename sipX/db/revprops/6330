@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-03-09T21:26:08.730507Z
+K 7
+svn:log
+V 482
+Possible fix for semget problem in RegistryDBTest. Contrary to
+comments in the code the database was never closed when calling
+removeDatabase(). 
+
+Added an extra function SIPDBManager::closeDatabase. Added a boolean
+parameter to RegistrationDB::releaseInstance to close database,
+defaulting to false for backward compatibility.
+
+Set that parameter to true in cleanup code of RegistryDBTest. The
+database will now be closed after every test, hopefully elimination
+the semget errors.
+
+END

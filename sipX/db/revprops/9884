@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-22T23:17:51.235649Z
+K 7
+svn:log
+V 109
+Use int16_t instead of int_fast16_t in MprBridge - we're not ready yet for variable size calculations in it.
+
+END

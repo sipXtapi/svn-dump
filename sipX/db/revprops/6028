@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-02-02T05:05:28.835312Z
+K 7
+svn:log
+V 442
+Create replication thread objects earlier because they are needed early on.
+Fix RegistrarPeer::markUnReachable so that it notifies the RegistrarTest thread on a peer transition to UnReachable from any other state, not just from Reachable.  Previously the RegistrarTest timer never got started because the peer was transitioning from SyncStateUnknown to UnReachable in the initial sync thread -- this should have started the timer but didn't.
+
+END

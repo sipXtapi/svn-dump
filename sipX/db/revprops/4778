@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-01T19:30:21.677971Z
+K 7
+svn:log
+V 55
+changes required to build & run sipXphone under linux
+
+
+END

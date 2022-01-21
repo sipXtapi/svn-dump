@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-30T04:42:13.022687Z
+K 7
+svn:log
+V 275
+mergefrom pingtel-main 5580
+
+[XPS-36] Update subscription db rows rather than creating new ones on
+         a refresh request.
+         reclassify routine log message from WARNING to DEBUG
+         add expire-spread to display distribution of registrations and subscriptions
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-10-02T13:28:39.247958Z
+K 7
+svn:log
+V 31
+fix ssl cert directory creation
+END

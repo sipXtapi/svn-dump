@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-04-05T19:16:59.569595Z
+K 7
+svn:log
+V 48
+Add default parameters to callresolver-config.in
+END

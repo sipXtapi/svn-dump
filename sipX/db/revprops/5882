@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-01-17T15:45:02.798909Z
+K 7
+svn:log
+V 87
+XCF-684 Look at server timezone for default timezone settings for phone models. (Hannu)
+END

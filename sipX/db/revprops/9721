@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-22T21:16:12.403344Z
+K 7
+svn:log
+V 195
+Add static functions (new style messaging API) to MprBridge to set gains in mix matrix.
+Also issue in old style API fixed - we have to copy gains data to temporary array to avoid race condition.
+
+END

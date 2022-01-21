@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-29T19:58:11.232395Z
+K 7
+svn:log
+V 59
+Fix sosme warning about mixing bool and UtlBoolean values.
+
+END

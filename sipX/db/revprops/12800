@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2021-01-18T04:35:52.544075Z
+K 7
+svn:log
+V 219
+Register with Windows media subsystem to get device state changes and propagate a message when an active device goes away.
+Added MpOutputDeviceManager as member of MpodWinMM as its used to post messages  to dispatcher.
+
+END

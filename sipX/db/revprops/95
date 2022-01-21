@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-06-25T14:44:37.173947Z
+K 7
+svn:log
+V 323
+Clean up almost all the compiler warnings.
+There are a couple of unused variable warnings in the unit tests
+that looked to me as though there might be something missing from
+the test, so I left them in as markers.
+
+It's possible that these changes will trigger problems in
+Windows builds; I've only checked them on Linux.
+
+
+END

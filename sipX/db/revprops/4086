@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-06-26T15:37:38.496276Z
+K 7
+svn:log
+V 165
+XCF-431 - dynamically register gateway subclasses with hibernate
+it is no longer necessary to modify any of the hibernate mapping files when adding new gateway types
+END

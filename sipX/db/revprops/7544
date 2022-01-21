@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-09-22T17:21:55.575665Z
+K 7
+svn:log
+V 112
+Remove port numbers from registration addresses, as many UAs will
+choose random port numbers when they restart.
+
+END

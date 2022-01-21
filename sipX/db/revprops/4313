@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-11-01T15:28:30.991460Z
+K 7
+svn:log
+V 191
+XCF-54: Separated the end user config web interface from voicemail web interface, there is a link to voicemail on end user page that opens up a new webpage that let's you log into voicemail. 
+END

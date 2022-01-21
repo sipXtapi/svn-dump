@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-29T18:42:17.703331Z
+K 7
+svn:log
+V 202
+VS2003 build: Fix warning C4805: '==' : unsafe mix of type 'UtlBoolean' and type 'bool' in operation.
+UtlBoolean is a typedef int, so TRUE and FALSE should have int type too. Or better UtlBoolean type.
+
+END

@@ -1,0 +1,294 @@
+PLAIN
+K 11
+Makefile.am
+V 23
+file 8wt.1ic.r5846/3743
+K 22
+call_detail_record.xsd
+V 21
+file 1xo.1ic.r6253/70
+K 14
+call_event.xsd
+V 21
+file 1xj.0.r2236/1632
+K 38
+sipx_main_fc2_bldno.configure-switches
+V 21
+file 1y1.0.r2249/1360
+K 38
+sipx_main_fc3_bldno.configure-switches
+V 21
+file 1y2.0.r2249/1678
+K 39
+sipx_main_rhe3_bldno.configure-switches
+V 21
+file 1y3.0.r2249/1996
+K 17
+sipxproxy-3.0.tgz
+V 23
+file 8wu.1ic.r5846/3427
+END
+ENDREP
+id: 1xi.2p5.r6311/431
+type: dir
+pred: 1xi.2p5.r6310/918
+count: 12
+text: 6311 0 418 418 a329130b7326dd77a13f16bb1c0082b8
+props: 5846 4399 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /branches/cdr/sipXproxy/meta
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1vu.0.r2221/14695
+K 9
+ChangeLog
+V 20
+file 1vv.0.r2238/425
+K 7
+INSTALL
+V 22
+file 1vw.0.r2221/19180
+K 7
+LICENSE
+V 19
+file 1vx.0.r2221/82
+K 11
+Makefile.am
+V 23
+file 1vy.1ic.r5846/4939
+K 4
+NEWS
+V 22
+file 1vz.0.r2221/22868
+K 6
+README
+V 22
+file 1w0.0.r2221/14388
+K 4
+TODO
+V 22
+file 1w1.0.r2221/18875
+K 9
+acsite.m4
+V 21
+file 1w2.0.r2221/1636
+K 3
+bin
+V 21
+dir 1w3.1ic.r5540/876
+K 12
+configure.ac
+V 23
+file 1w9.1ic.r5846/4690
+K 3
+doc
+V 22
+dir 1xb.1ic.r6255/3704
+K 3
+etc
+V 22
+dir 1wa.2p5.r6309/2585
+K 4
+meta
+V 21
+dir 1xi.2p5.r6311/431
+K 17
+sipXauthproxy.dsp
+V 26
+file 1x5.1ic.r4884/5502003
+K 20
+sipXforkingProxy.dsp
+V 26
+file 1x6.1ic.r4884/5501742
+K 17
+sipxproxy.spec.in
+V 23
+file 1x9.1ic.r6038/4327
+K 3
+src
+V 22
+dir 1wn.1ic.r5797/3732
+END
+ENDREP
+id: 1vt.2p5.r6311/1445
+type: dir
+pred: 1vt.2p5.r6310/1935
+count: 153
+text: 6311 674 758 758 6ab8024ad8563f36a3b5ee339ea3c183
+props: 6297 1817 894 0 d4fac472ddbcb483c4cb5efaa4411bcc
+cpath: /branches/cdr/sipXproxy
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 7
+bbridge
+V 22
+dir 8dl.2oy.r6297/5525
+K 5
+build
+V 23
+file 7ve.0.r6259/115402
+K 6
+config
+V 21
+dir 91.1i4.r6284/1507
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 14
+resiprocateLib
+V 20
+dir 8g8.0.r5655/3734
+K 11
+sipXcallLib
+V 21
+dir va.2oz.r6297/7817
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.2p0.r6297/12920
+K 10
+sipXconfig
+V 22
+dir 2hf.2p1.r6297/8740
+K 19
+sipXmediaAdapterLib
+V 23
+dir 89s.2oy.r6297/10516
+K 12
+sipXmediaLib
+V 21
+dir mz.2p2.r6297/9990
+K 7
+sipXpbx
+V 22
+dir 5g6.2p3.r6297/5005
+K 9
+sipXphone
+V 22
+dir 6qk.1ia.r5262/5130
+K 11
+sipXportLib
+V 20
+dir 3.2p4.r6297/1574
+K 9
+sipXproxy
+V 22
+dir 1vt.2p5.r6311/1445
+K 13
+sipXpublisher
+V 22
+dir 20n.2p6.r6297/6585
+K 12
+sipXregistry
+V 23
+dir 1y5.2p7.r6297/11777
+K 11
+sipXtackLib
+V 22
+dir dk.2p8.r6297/14575
+K 8
+sipXvxml
+V 22
+dir 22d.2p9.r6297/3823
+END
+ENDREP
+id: 7q4.2oy.r6311/2500
+type: dir
+pred: 7q4.2oy.r6310/2991
+count: 1084
+text: 6311 1689 798 798 155d690bd1255c7b3cc332773d46d1fc
+props: 6299 0 149 0 b689dbbc066ac43f2104223995e48fd0
+cpath: /branches/cdr
+copyroot: 6295 /branches/cdr
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6300/5377
+K 3
+cdr
+V 22
+dir 7q4.2oy.r6311/2500
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 7
+restful
+V 21
+dir 7q0.0.r4813/15683
+K 10
+sipXconfig
+V 21
+dir 8q1.0.r6307/47330
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r6311/3263
+type: dir
+pred: 7pt.0.r6310/3754
+count: 412
+text: 6311 2731 519 519 1f96a621a62343e13567097a1d8f19ae
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r6311/3263
+K 4
+main
+V 20
+dir 7q4.0.r6305/4949
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6311/3544
+type: dir
+pred: 0.0.r6310/4035
+count: 6311
+text: 6311 3417 114 114 d3323b625df53ac20e03c3c16497f4df
+cpath: /
+copyroot: 0 /
+
+9ft.2p5.r6310/219 delete false false /branches/cdr/sipXproxy/meta/call_event_database.pg
+
+
+3544 3687

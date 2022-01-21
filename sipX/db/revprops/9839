@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-16T19:50:12.112472Z
+K 7
+svn:log
+V 268
+Remove _DISABLE_MULTIPLE_INTERFACE_SUPPORT preprocessor definition, defined as workaround for MacOs X bind() problems.
+This problems was here due to the fact that MacOs have more members in sockaddr structure then Linux have and, so they have to be zeroed before use.
+
+END

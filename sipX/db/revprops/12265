@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2014-12-10T06:06:45.944515Z
+K 7
+svn:log
+V 110
+Wait for RTCP message handler thread to construct message queue before try to delete or operate on the queue.
+
+END

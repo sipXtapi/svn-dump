@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-08T22:02:27.027523Z
+K 7
+svn:log
+V 73
+Change UtlLongLongInt to use C99 int64_t instead of homebrew Int64 type.
+
+END

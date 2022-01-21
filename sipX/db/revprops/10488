@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-23T23:34:15.924692Z
+K 7
+svn:log
+V 669
+sipXmediaAdapterLib API change for allowing maximum sample rate to be specified.
+Default sample rate to 16kHz now.
+Due to this change, sipXmediaLib needed to change -- as MpInputDeviceManager and MpOutputDeviceManager was initialized with 16kHz default sample rate, which devices currently use by default.
+
+That change means that devices can (and are currently in unit tests) running at different rates from the internal flowgraph rate.  So, to support this, MprFromInputDevice and MprToOutputDevice have been changed so they resample audio data if the internal sample rate and device rate differs.
+
+This has been tested well under windows XP with builds done by MSVC8.
+END

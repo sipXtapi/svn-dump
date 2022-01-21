@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-12-23T16:20:30.150713Z
+K 7
+svn:log
+V 193
+Relent and make things nicer if doxygen is not there.
+  The default is to enable doxygen,
+  but if it is explicitly disabled or not found, then
+  the 'doc' directory is omitted from the build
+
+
+END

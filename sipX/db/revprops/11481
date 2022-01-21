@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2009-12-30T17:54:14.716945Z
+K 7
+svn:log
+V 144
+Reviewed/checked in changes:
+ - Expand OsRegistry support to MacOS/Linux
+ - Don't assert if unable to find turn binding (legit race condition)
+
+
+END

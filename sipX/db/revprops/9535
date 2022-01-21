@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-13T20:13:36.298188Z
+K 7
+svn:log
+V 122
+Fix memory leak in CpTopologyGraphInterface: RTP input and output connections should be deleted after removal from graph.
+
+END

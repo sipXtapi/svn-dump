@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-02-01T22:48:00.747792Z
+K 7
+svn:log
+V 79
+XCF-880 Denote schema is on version 2 after a successful upgrade from version 1
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-12-11T12:24:19.867736Z
+K 7
+svn:log
+V 231
+Checking in patch to enable use of native pthreads' semaphores and mutexes instead of sipX re-implementation of them, caused by lack of timed wait in 
+LinuxThreads implementation of pthreads. With NPTL this problem does not exist.
+
+END

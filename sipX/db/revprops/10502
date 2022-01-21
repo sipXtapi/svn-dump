@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-28T11:59:43.350685Z
+K 7
+svn:log
+V 115
+Switch on ability to link Speex and GSM codecs. Add placeholders for defines to turn on static compilation for VS.
+
+END

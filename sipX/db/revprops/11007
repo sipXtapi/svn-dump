@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-03T05:45:10.651250Z
+K 7
+svn:log
+V 256
+Checking in OsAtomics.h header.
+At this point this is a real mess. I will split it to several files and implement real atomics a bit later.
+In this state it's still very much useful and API shouldn't change later, because it closely follow C++0x standard.
+
+END

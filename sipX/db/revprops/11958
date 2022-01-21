@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-09-17T10:30:27.136482Z
+K 7
+svn:log
+V 108
+Made XmlRpcDispatch::cleanUp public and static so that it can be used to free XML RPC UtlContainable trees.
+
+END

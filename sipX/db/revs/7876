@@ -1,0 +1,135 @@
+id: 7q4.5ja.r7876/0
+type: dir
+pred: 7q4.0.r7875/10640
+count: 1992
+text: 7875 9618 1009 1009 831bb964ba3ef331723cdf3257545a2b
+props: 7870 19349 2244 0 3de307d7fd8adc84759a0c1b5ceede9e
+cpath: /branches/user_dworley_redirectors_merge
+copyfrom: 7875 /main
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r7819/13302
+K 3
+3.6
+V 23
+dir 7q4.50x.r7868/20913
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 16
+proxy_simple_cdr
+V 22
+dir 1vt.5hb.r7859/8981
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 21
+dir 9wi.0.r7794/23342
+K 21
+sipXtapi-media-update
+V 22
+dir 9wi.3ke.r7871/8308
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 21
+dir 7q4.4t1.r7562/240
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 24
+user_dworley_redirectors
+V 22
+dir 7q4.3xw.r7858/7806
+K 30
+user_dworley_redirectors_merge
+V 19
+dir 7q4.5ja.r7876/0
+K 14
+virtual-domain
+V 22
+dir 7q4.4t6.r7863/5241
+END
+ENDREP
+id: 7pt.0.r7876/1269
+type: dir
+pred: 7pt.0.r7871/9534
+count: 1061
+text: 7876 253 1003 1003 c12391b15a8b4bb1cac8dab756ec8a83
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r7876/1269
+K 4
+main
+V 21
+dir 7q4.0.r7875/10640
+K 4
+tags
+V 20
+dir 7q5.0.r7874/3088
+END
+ENDREP
+id: 0.0.r7876/1552
+type: dir
+pred: 0.0.r7875/10979
+count: 7876
+text: 7876 1425 114 114 7256dafba55b4b2aabdea1a6e89eeecd
+cpath: /
+copyroot: 0 /
+
+7q4._0.t7875-1 add false false /branches/user_dworley_redirectors_merge
+7875 /main
+
+1552 1696

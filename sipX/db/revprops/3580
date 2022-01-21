@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-02-24T17:32:20.567354Z
+K 7
+svn:log
+V 98
+Testing for empty rules table properly (by counting rows, not by comparing to empty String table).
+END

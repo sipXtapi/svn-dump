@@ -1,0 +1,169 @@
+PLAIN
+K 10
+svn:ignore
+V 35
+Doxyfile
+Makefile
+Makefile.in
+html
+
+END
+ENDREP
+id: ur.0.r1202/74
+type: dir
+pred: ur.0.r1196/3272
+count: 4
+text: 1196 3079 180 180 1252e377b5df4321434d3a6b34bcdf26
+props: 1202 0 61 0 0fce077ff8295d6e995ce2cbf9bb0693
+cpath: /old/sipXmediaLib/main/doc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file n0.0.r1180/110990
+K 9
+ChangeLog
+V 19
+file n1.0.r1193/125
+K 7
+INSTALL
+V 22
+file n2.0.r1180/113962
+K 7
+LICENSE
+V 20
+file n3.0.r1180/9504
+K 11
+Makefile.am
+V 22
+file n4.0.r1180/115194
+K 4
+NEWS
+V 22
+file n5.0.r1180/115507
+K 6
+README
+V 22
+file n6.0.r1180/110684
+K 4
+TODO
+V 22
+file n7.0.r1180/113653
+K 9
+acsite.m4
+V 21
+file n8.0.r1180/65533
+K 3
+bin
+V 19
+dir uy.0.r1196/3792
+K 12
+configure.ac
+V 20
+file n9.0.r1196/2367
+K 3
+doc
+V 17
+dir ur.0.r1202/74
+K 7
+include
+V 19
+dir na.0.r1200/8533
+K 3
+lib
+V 21
+dir rf.0.r1068/744020
+K 4
+meta
+V 17
+dir v0.0.r1126/48
+K 16
+sipXmediaLib.dsp
+V 22
+file up.0.r1180/111305
+K 20
+sipxmedialib.spec.in
+V 19
+file uw.0.r1190/511
+K 3
+src
+V 19
+dir rg.0.r1201/7379
+END
+ENDREP
+id: mz.0.r1202/1016
+type: dir
+pred: mz.0.r1201/8329
+count: 87
+text: 1202 291 712 712 d05186a8d6cd962d6735deda6b129725
+props: 1193 1085 568 0 b835302b7fe08524343c83030fb7b7f8
+cpath: /old/sipXmediaLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir ux.0.r1191/1682
+K 4
+main
+V 19
+dir mz.0.r1202/1016
+K 4
+tags
+V 19
+dir uq.0.r1192/3161
+END
+ENDREP
+id: my.0.r1202/1358
+type: dir
+pred: my.0.r1201/8673
+count: 135
+text: 1202 1235 110 110 91eadc074ca50a817f645bb8dc00f644
+cpath: /old/sipXmediaLib
+copyroot: 0 /
+
+PLAIN
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1202/1358
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1202/1661
+type: dir
+pred: 1.0.r1201/8977
+count: 1201
+text: 1202 1518 130 130 e1625128b78a052ee3e74fb2e65ed75a
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1202/1661
+END
+ENDREP
+id: 0.0.r1202/1856
+type: dir
+pred: 0.0.r1201/9173
+count: 1202
+text: 1202 1807 36 36 6543109d8a4057e0cd13e770cfc50d14
+cpath: /
+copyroot: 0 /
+
+ur.0.t1201-1 modify false true /old/sipXmediaLib/main/doc
+
+
+1856 1997

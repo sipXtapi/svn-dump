@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-02-23T19:52:58.598712Z
+K 7
+svn:log
+V 108
+XCF-1508 Fix OK, Apply, Cancel behavior on EditEmergencyRouting page: callback property was not persistent.
+
+END

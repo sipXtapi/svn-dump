@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-02-14T04:25:42.649653Z
+K 7
+svn:log
+V 532
+Revise how Call-IDs are generated so that multiple applications on a
+single host cannot produce duplicate Call-IDs.
+This is issue http://track.sipfoundry.org/browse/XCL-51.
+This includes importing the UtlLongLongInt implementation.
+
+Make the generated Call-IDs a little shorter by hashing all the fixed
+fields with MD5 and using only the first 16 hex characters.
+Make CpCallManager::getNewCallId(const char*, UtlString*) static,
+since it doesn't depend on any member variables, and it could be used
+by anybody to generate Call-IDs.
+
+END

@@ -1,0 +1,105 @@
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 183
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxcommserverlib-*.tar.gz
+sipxcommserverlib.spec
+stamp-h1
+
+END
+ENDREP
+id: 1qo.0.r1852/310
+type: dir
+pred: 1qo.0.r1851/1029
+count: 50
+text: 1851 237 779 779 a010e65ee2c5306719f3d8a7d89d4c0a
+props: 1852 0 297 0 24430ce0b22a120bd22a7be77f91071c
+cpath: /old/sipXcommserverLib/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 19
+dir 1qo.0.r1852/310
+K 4
+tags
+V 20
+dir 1uu.0.r1825/1623
+END
+ENDREP
+id: 1qn.0.r1852/618
+type: dir
+pred: 1qn.0.r1851/1342
+count: 55
+text: 1852 532 73 73 ee044c4a8f01a091b99fa281455d5df1
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 19
+dir 1qn.0.r1852/618
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1852/1013
+type: dir
+pred: 1.0.r1851/1740
+count: 1851
+text: 1852 780 220 220 916e3ca225edcd18bd3e5d5d07aeb712
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1852/1013
+END
+ENDREP
+id: 0.0.r1852/1207
+type: dir
+pred: 0.0.r1851/1935
+count: 1852
+text: 1852 1158 36 36 13d19cf8b8730f21c36618e8a691e3c8
+cpath: /
+copyroot: 0 /
+
+1qo.0.t1851-1 modify false true /old/sipXcommserverLib/main
+
+
+1207 1348

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-09-14T14:14:43.030695Z
+K 7
+svn:log
+V 200
+Create user_dworley_URI_parsing branch by copying SIPfoundry Main rev 7473.
+To be loaded with the changes from Pingtel branch dworley-URI-parsing
+to continue its development based on SIPfoundry Main.
+
+END

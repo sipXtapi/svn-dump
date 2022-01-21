@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-16T21:50:01.157592Z
+K 7
+svn:log
+V 217
+XCF-753 added FlexiblePropertySelection component
+In Tapestry4 property selection component does not use customized renderers. We need this functionality to support our action drop-downs that render as option groups.
+
+END

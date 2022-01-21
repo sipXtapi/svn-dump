@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-17T22:38:10.224630Z
+K 7
+svn:log
+V 280
+Conditionally build/include sipXtapi depending on SIPXTAPI_EXCLUDE #define.  By default, SIPXTAPI is disabled, however can be including by running ./configure with --enable-tapi.  You will need to enable table on both the sipXcallLib project and sipXtackLib project for events.
+
+
+
+END

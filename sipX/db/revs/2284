@@ -1,0 +1,285 @@
+PLAIN
+K 13
+svn:externals
+V 75
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.8-export-J/config
+
+K 10
+svn:ignore
+V 187
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxproxy-*.rpm
+sipxproxy-*.tar.gz
+sipxproxy.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 53
+https://scm.sipfoundry.org/rep/sipXproxy/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 24
+1-95,101,115,118,132,138
+K 18
+svnmerge-main-head
+V 45
+https://scm.sipfoundry.org/rep/sipXproxy/main
+K 18
+svnmerge-main-revs
+V 5
+1-153
+END
+ENDREP
+id: 1vt.b8.r2284/571
+type: dir
+pred: 1vt.av.r2269/2408
+count: 107
+text: 2269 1660 735 735 b5a5c74f92eb473a1d5e4403a55aad45
+props: 2284 0 558 0 2492cebd5af58ed204a8fc115d4a763a
+cpath: /old/sipXproxy/tags/2.8-export-J
+copyfrom: 2283 /old/sipXproxy/branches/2.8
+
+PLAIN
+K 5
+2.5.1
+V 21
+dir 1vt.9s.r2107/1819
+K 5
+2.5.2
+V 21
+dir 1vt.9t.r2121/1172
+K 12
+2.6-export-A
+V 20
+dir 1vt.a8.r2170/488
+K 12
+2.6-export-B
+V 20
+dir 1vt.a9.r2172/488
+K 12
+2.6-export-C
+V 20
+dir 1vt.aa.r2179/488
+K 12
+2.6-export-D
+V 20
+dir 1vt.ab.r2180/488
+K 12
+2.6-export-E
+V 20
+dir 1vt.ac.r2181/488
+K 12
+2.6-export-F
+V 20
+dir 1vt.ad.r2184/488
+K 12
+2.6-export-G
+V 20
+dir 1vt.af.r2189/374
+K 12
+2.6-export-H
+V 20
+dir 1vt.ag.r2190/374
+K 12
+2.6-export-J
+V 20
+dir 1vt.ah.r2193/374
+K 12
+2.6-export-K
+V 20
+dir 1vt.ai.r2198/377
+K 12
+2.6-export-L
+V 20
+dir 1vt.aj.r2202/377
+K 12
+2.6-export-M
+V 20
+dir 1vt.ak.r2203/377
+K 12
+2.6-export-N
+V 20
+dir 1vt.al.r2205/377
+K 12
+2.6-export-O
+V 20
+dir 1vt.am.r2215/377
+K 12
+2.6-export-P
+V 20
+dir 1vt.an.r2216/377
+K 12
+2.6-export-Q
+V 20
+dir 1vt.ao.r2218/377
+K 12
+2.6-export-R
+V 20
+dir 1vt.ap.r2219/377
+K 12
+2.6-export-S
+V 20
+dir 1vt.aq.r2220/377
+K 12
+2.6-export-T
+V 20
+dir 1vt.ar.r2224/377
+K 12
+2.6-export-U
+V 20
+dir 1vt.at.r2230/377
+K 5
+2.6.1
+V 20
+dir 1vt.ae.r2186/481
+K 5
+2.6.2
+V 21
+dir 1vt.au.r2235/1977
+K 12
+2.8-export-A
+V 20
+dir 1vt.aw.r2256/571
+K 12
+2.8-export-B
+V 20
+dir 1vt.ax.r2264/571
+K 12
+2.8-export-C
+V 20
+dir 1vt.az.r2267/571
+K 12
+2.8-export-D
+V 20
+dir 1vt.b1.r2274/571
+K 12
+2.8-export-E
+V 20
+dir 1vt.b2.r2275/571
+K 12
+2.8-export-F
+V 20
+dir 1vt.b4.r2278/571
+K 12
+2.8-export-G
+V 20
+dir 1vt.b5.r2279/571
+K 12
+2.8-export-H
+V 20
+dir 1vt.b6.r2280/571
+K 12
+2.8-export-I
+V 20
+dir 1vt.b7.r2281/571
+K 12
+2.8-export-J
+V 20
+dir 1vt.b8.r2284/571
+K 13
+main-export-B
+V 20
+dir 1vt.a5.r2167/375
+K 13
+main-export-C
+V 20
+dir 1vt.a6.r2168/375
+END
+ENDREP
+id: 1x7.0.r2284/2405
+type: dir
+pred: 1x7.0.r2281/2361
+count: 43
+text: 2284 831 1561 1561 49eb0fa34dd66662e12313378af26588
+cpath: /old/sipXproxy/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1x8.0.r2276/1263
+K 4
+main
+V 20
+dir 1vt.0.r2283/2359
+K 4
+tags
+V 20
+dir 1x7.0.r2284/2405
+END
+ENDREP
+id: 1vs.0.r2284/2695
+type: dir
+pred: 1vs.0.r2283/2702
+count: 188
+text: 2284 2569 113 113 efb018493875ce9c36c5fa69606ed259
+cpath: /old/sipXproxy
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2284/2695
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2284/3128
+type: dir
+pred: 1.0.r2283/3135
+count: 2283
+text: 2284 2854 261 261 c40d5f88e2bac19e8ee7909f580daa25
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2284/3128
+END
+ENDREP
+id: 0.0.r2284/3323
+type: dir
+pred: 0.0.r2283/3330
+count: 2284
+text: 2284 3274 36 36 f22831e8362b4f1c13c3a221169c1728
+cpath: /
+copyroot: 0 /
+
+1vt._0.t2283-1 add false true /old/sipXproxy/tags/2.8-export-J
+2283 /old/sipXproxy/branches/2.8
+
+3323 3464

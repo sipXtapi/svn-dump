@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-04-11T21:00:24.277323Z
+K 7
+svn:log
+V 181
+XCF-1548 - Make minor voicemail string changes, except explicit delete button on saved and inbox page.  that would leave 'move to' choice box with one 1 element which would be silly
+END

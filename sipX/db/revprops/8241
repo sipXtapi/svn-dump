@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-12-12T21:05:47.916777Z
+K 7
+svn:log
+V 212
+XCF-1387 configuration for ENUM plugin
+At the moment the following functionality is supported:
+- enabling/disabling ENUM dialing (enabling ENUM dialing selects e164.arpa tree)
+- configuring Add and Drop prefixes
+
+END

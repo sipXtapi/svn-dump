@@ -1,0 +1,46 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-05-04T15:47:51.986549Z
+K 7
+svn:log
+V 1395
+Merged revisions 231,234,251,259 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXvxml/branches/2.8
+    ------------------------------------------------------------------------
+    r231 | mardy | 2005-03-11 16:49:46 -0500 (Fri, 11 Mar 2005) | 3 lines
+    Changed paths:
+       M /branches/2.8/src/prompt/PromptCache.cpp
+       M /branches/2.8/src/prompt/PromptCache.h
+    
+    If unable to find a requested prompt from the "stdprompts" directory,
+    substitute with the "prompt_not_found.wav" prompt.
+    
+    ------------------------------------------------------------------------
+    r234 | mardy | 2005-03-15 12:11:48 -0500 (Tue, 15 Mar 2005) | 2 lines
+    Changed paths:
+       M /branches/2.8/src/prompt/PromptCache.cpp
+    
+    Fix memory leak. Me bad!
+    
+    ------------------------------------------------------------------------
+    r251 | mardy | 2005-03-25 10:15:00 -0500 (Fri, 25 Mar 2005) | 2 lines
+    Changed paths:
+       M /branches/2.8/sipxvxml.spec.in
+    
+    Ensure that the existing mediaserver-config.in file is replaced with the new version.
+    
+    ------------------------------------------------------------------------
+    r259 | mardy | 2005-03-29 16:09:27 -0500 (Tue, 29 Mar 2005) | 2 lines
+    Changed paths:
+       M /branches/2.8/src/client/ivr/clientMain.cpp
+       M /branches/2.8/src/trd/OSBtrdPthreads.cpp
+    
+    Remove modification of UID.
+    
+
+END

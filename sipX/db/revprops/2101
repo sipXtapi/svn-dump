@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-23T14:22:15.550935Z
+K 7
+svn:log
+V 137
+Generated .dsp files (MSVC 6 project/makefiles) for the sipXauthproxy and sipXforking projects.
+
+Fixed any windows-specific build errors.
+END

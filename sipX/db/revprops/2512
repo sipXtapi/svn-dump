@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-08T16:16:29.944491Z
+K 7
+svn:log
+V 189
+Log the delay between sending SUBSCRIBE and receiving NOTIFY.
+This will allow us to properly tune the delay we allow between getting
+a pick-up request and deciding which dialog to pick up.
+
+END

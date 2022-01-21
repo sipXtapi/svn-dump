@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-12-20T00:34:29.441069Z
+K 7
+svn:log
+V 98
+Check in Scott's RegistarPeer header file with some tweaks, and a preliminary implementation file
+
+END

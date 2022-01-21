@@ -1,0 +1,138 @@
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r8066/42815
+K 3
+3.6
+V 22
+dir 7q4.50x.r8622/6238
+K 7
+bbridge
+V 22
+dir 7q4.68z.r8427/2781
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 10
+freeswitch
+V 22
+dir 7q4.6ae.r8669/8346
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 25
+media-server-localization
+V 21
+dir 7q4.6da.r8655/129
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 22
+dir 9wi.0.r8679/125976
+K 21
+sipXtapi-media-update
+V 22
+dir 9wi.3ke.r8661/7478
+K 14
+sipXtapi.wince
+V 24
+dir 9wi.662.r8313/638537
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 21
+dir 7q4.4t1.r7562/240
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 24
+user_dworley_redirectors
+V 22
+dir 7q4.3xw.r7858/7806
+K 30
+user_dworley_redirectors_merge
+V 22
+dir 7q4.5ja.r7925/6442
+K 14
+virtual-domain
+V 24
+dir 7q4.4t6.r8010/314955
+END
+ENDREP
+id: 7pt.0.r8686/1163
+type: dir
+pred: 7pt.0.r8679/127359
+count: 1489
+text: 8686 0 1150 1150 76413d9e281e939ed0e0eb9f71b49113
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r8686/1163
+K 4
+main
+V 21
+dir 7q4.0.r8685/27981
+K 4
+tags
+V 20
+dir 7q5.0.r8544/3180
+END
+ENDREP
+id: 0.0.r8686/1446
+type: dir
+pred: 0.0.r8685/28323
+count: 8686
+text: 8686 1319 114 114 422862b3dc3fbd5716aa326f57479666
+cpath: /
+copyroot: 0 /
+
+1vt.5hb.r7955/13127 delete false false /branches/proxy_simple_cdr
+
+
+1446 1590

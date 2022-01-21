@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-07-21T20:08:54.633621Z
+K 7
+svn:log
+V 70
+Build/Usage fixes for Stun unit tests (part of sipXtapi unit tests).
+
+
+END

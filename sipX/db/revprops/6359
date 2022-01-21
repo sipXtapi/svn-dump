@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-03-15T19:21:37.274889Z
+K 7
+svn:log
+V 140
+Fixed some linux compiler errors and warnings and added
+the SIP Subscribe Clinet, Server and RefreshManager unit
+tests to the linux build.
+
+
+END

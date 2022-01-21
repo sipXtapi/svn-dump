@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-10-05T18:22:51.904728Z
+K 7
+svn:log
+V 160
+One more small tweak: for the sipXconfig configtest, print out a success message if everything is OK, rather than being silent, to give the user some feedback.
+
+END

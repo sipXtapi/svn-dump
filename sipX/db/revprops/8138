@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-28T17:24:03.039377Z
+K 7
+svn:log
+V 70
+BUGFIX: Video capture was not stopped due to typo in condition check.
+
+END

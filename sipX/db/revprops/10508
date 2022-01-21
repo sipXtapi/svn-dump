@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-28T19:34:45.079379Z
+K 7
+svn:log
+V 183
+Add parameter to UtlString::resize() allowing it to just set length without filling memory with zeros.
+This is useful if you want to use UtlString as simple buffer (resizable array).
+
+END

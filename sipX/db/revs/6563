@@ -1,0 +1,113 @@
+PLAIN
+K 3
+3.3
+V 24
+dir 2hf.2iy.r6325/196732
+K 11
+replication
+V 23
+dir 7q4.2dh.r5710/13873
+END
+ENDREP
+id: 8q1.0.r6563/101
+type: dir
+pred: 8q1.0.r6325/197137
+count: 139
+text: 6563 0 88 88 124ddb5b1cde73996f9d453ccfaedabc
+cpath: /branches/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r6531/4210
+K 3
+cdr
+V 23
+dir 7q4.2oy.r6492/12311
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 19
+dir 8q1.0.r6563/101
+K 8
+sipXtapi
+V 24
+dir 9wi.0.r6469/22163876
+K 12
+solaris_port
+V 22
+dir 7q4.39l.r6540/1815
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r6563/879
+type: dir
+pred: 7pt.0.r6562/620
+count: 551
+text: 6563 262 604 604 745a5ef2bc63848d3ca5c187937d7948
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 7pt.0.r6563/879
+K 4
+main
+V 20
+dir 7q4.0.r6561/4855
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6563/1156
+type: dir
+pred: 0.0.r6562/896
+count: 6563
+text: 6563 1030 113 113 89f8fe184de94ffff325709c24712a71
+cpath: /
+copyroot: 0 /
+
+2hf.2nn.r6250/0 delete false false /branches/sipXconfig/3.3-nopbx
+
+
+1156 1298

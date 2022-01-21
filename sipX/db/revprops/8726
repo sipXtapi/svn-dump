@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-08T15:05:33.339560Z
+K 7
+svn:log
+V 103
+Implemented MprEncde::enableDTX() function to enable and disable MprEncode internal DTX functionality.
+
+END

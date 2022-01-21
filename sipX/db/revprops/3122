@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-10-22T19:17:15.617317Z
+K 7
+svn:log
+V 183
+LoggingEvent.getRenderedMessage used (instead of getMessage + cast) to retrieve message in format method
+this eliminated possibility of ClassCastException when message is not a String
+END

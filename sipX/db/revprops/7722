@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-10T17:53:48.963825Z
+K 7
+svn:log
+V 261
+mergefrom pingtel-main 7359-7360,7374,7380-7382
+
+Cross-merges from Pingtel Main.
+
+mergefrom-incremental pingtel-main 7385
+
+Copy interop.pingtel.com changes from SIPfoundry.
+
+mergefrom-incremental pingtel-main 7389
+
+Reactivate dialog events for the Park Server.
+
+END

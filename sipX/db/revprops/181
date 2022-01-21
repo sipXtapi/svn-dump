@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-08-18T13:56:25.677487Z
+K 7
+svn:log
+V 232
+Fix http://track.sipfoundry.org/browse/XPL-64
+
+Add a removeReference method to UtlHashBag that removes a specific
+element rather than by using the key comparison.
+Change the UtlHashBagIterator remove method to use removeReference.
+
+
+END

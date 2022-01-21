@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-04-30T05:57:08.608536Z
+K 7
+svn:log
+V 350
+XCF-306 Initial support for Cisco 7960, 7940, 7912, 7905 and ata18x devices in neoconf library.  Integrated contribution from Hannu Strang.  Still a lot of work to do to replace support for cisco devices in old model including group support.  Stilll need to refactor to reuse code between polycom, add encryption support and fix settings losing order
+END

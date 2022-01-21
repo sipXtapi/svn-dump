@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-20T11:46:59.941910Z
+K 7
+svn:log
+V 174
+Added STUN support to the SipUdpServer and plumbed control/accessors methods through SipUserAgent.  By default, the OsStunDatagramSocket is used, however, STUN is disabled.
+
+
+END

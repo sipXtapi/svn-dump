@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-04-06T20:09:20.075149Z
+K 7
+svn:log
+V 104
+mergefrom pingtel-main 8148
+
+Remove some preprocessor symbol definitions that are no longer being used.
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-05-18T21:24:43.126372Z
+K 7
+svn:log
+V 326
+Fixes to make unit test build work with portable unit test framework (instead of CPPUNIT).
+  Removed duplicate entry of UltRegEx test suite.
+  Conditional use of CPPUNIT vs. portable unit test framework
+  Temporarily removed stun and turn unit tests as they have not been ported to portable unit test framework completely yet
+
+END

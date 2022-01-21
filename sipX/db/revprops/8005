@@ -1,0 +1,36 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-16T15:45:09.517096Z
+K 7
+svn:log
+V 889
+Manually merged revisions 7994,7995,7996,7997 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+Also sipXmediaLib unittest fixed.
+
+........
+  r7994 | bob | 2006-11-15 17:20:26 +0300 | 2 lines
+  
+  Added missing projects to sipXtapi.sln (unit tests, examples, etc)
+........
+  r7995 | bob | 2006-11-15 17:34:41 +0300 | 2 lines
+  
+  Removed DialogEventPublisher, LinePresence*, and SipPrecenseMonitor from liunx build. I copied these over from the last version of main, however,  need to merge more recent changes from main before I can enable these.
+........
+  r7996 | bob | 2006-11-15 17:44:19 +0300 | 2 lines
+  
+  Removed sipx-upgrade-testsuite from the sipXportLib make check -- this does not belong here -- it is PBX specific.
+........
+  r7997 | bob | 2006-11-15 18:57:31 +0300 | 2 lines
+  
+  Enabled more (almost all) of the sipXtapi tests under Linux
+........
+
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-02-12T21:12:51.542463Z
+K 7
+svn:log
+V 185
+Fix EVC section in PortLib INSTALL document - add info indicating free EVC is needed, along with SP2, and a hotfix.
+
+Added Unit Test running capabilities to msvc6 full build batch file.
+END

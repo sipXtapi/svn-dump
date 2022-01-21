@@ -1,0 +1,129 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2004-11-15T17:41:26.517627Z
+K 7
+svn:log
+V 6653
+svncopy.pl: creating branch 2.6-export-A
+	Copying from https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6 287
+		to https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-A
+	Copying from https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.6 97
+		to https://scm.sipfoundry.org/rep/sipXtackLib/tags/2.6-export-A
+	Copying from https://scm.sipfoundry.org/rep/sipXmediaLib/branches/2.6 54
+		to https://scm.sipfoundry.org/rep/sipXmediaLib/tags/2.6-export-A
+	Copying from https://scm.sipfoundry.org/rep/sipXcallLib/branches/2.6 66
+		to https://scm.sipfoundry.org/rep/sipXcallLib/tags/2.6-export-A
+	Copying from https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.6 110
+		to https://scm.sipfoundry.org/rep/sipXcommserverLib/tags/2.6-export-A
+	Copying from https://scm.sipfoundry.org/rep/sipXvxml/branches/2.6 112
+		to https://scm.sipfoundry.org/rep/sipXvxml/tags/2.6-export-A
+	Copying from https://scm.sipfoundry.org/rep/sipXconfig/branches/2.6 138
+		to https://scm.sipfoundry.org/rep/sipXconfig/tags/2.6-export-A
+	Copying from https://scm.sipfoundry.org/rep/sipXregistry/branches/2.6 63
+		to https://scm.sipfoundry.org/rep/sipXregistry/tags/2.6-export-A
+	Copying from https://scm.sipfoundry.org/rep/sipXproxy/branches/2.6 73
+		to https://scm.sipfoundry.org/rep/sipXproxy/tags/2.6-export-A
+	Copying from https://scm.sipfoundry.org/rep/sipXpublisher/branches/2.6 69
+		to https://scm.sipfoundry.org/rep/sipXpublisher/tags/2.6-export-A
+	Copying from https://scm.sipfoundry.org/rep/sipXpbx/branches/2.6 266
+		to https://scm.sipfoundry.org/rep/sipXpbx/tags/2.6-export-A
+
+ * https://scm.sipfoundry.org/rep/sipXregistry/tags/2.6-export-A: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-A/config'
+
+ * https://scm.sipfoundry.org/rep/sipXproxy/tags/2.6-export-A: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-A/config'
+
+ * https://scm.sipfoundry.org/rep/sipXpbx/tags/2.6-export-A: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-A/config'
+
+ * https://scm.sipfoundry.org/rep/sipXpublisher/tags/2.6-export-A: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-A/config'
+
+ * https://scm.sipfoundry.org/rep/sipXcommserverLib/tags/2.6-export-A: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-A/config'
+
+ * https://scm.sipfoundry.org/rep/sipXmediaLib/tags/2.6-export-A: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-A/config'
+
+ * https://scm.sipfoundry.org/rep/sipXcallLib/tags/2.6-export-A: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-A/config'
+
+ * https://scm.sipfoundry.org/rep/sipXvxml/tags/2.6-export-A: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-A/config'
+
+ * https://scm.sipfoundry.org/rep/sipXtackLib/tags/2.6-export-A: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-A/config'
+
+ * https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-A: update svnmerge-2.6-head
+   to 'https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6'
+
+ * https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-A: update svnmerge-2.6-revs
+   to '1-287'
+
+ * https://scm.sipfoundry.org/rep/sipXtackLib/tags/2.6-export-A: update svnmerge-2.6-head
+   to 'https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.6'
+
+ * https://scm.sipfoundry.org/rep/sipXtackLib/tags/2.6-export-A: update svnmerge-2.6-revs
+   to '1-97'
+
+ * https://scm.sipfoundry.org/rep/sipXmediaLib/tags/2.6-export-A: update svnmerge-2.6-head
+   to 'https://scm.sipfoundry.org/rep/sipXmediaLib/branches/2.6'
+
+ * https://scm.sipfoundry.org/rep/sipXmediaLib/tags/2.6-export-A: update svnmerge-2.6-revs
+   to '1-54'
+
+ * https://scm.sipfoundry.org/rep/sipXcallLib/tags/2.6-export-A: update svnmerge-2.6-head
+   to 'https://scm.sipfoundry.org/rep/sipXcallLib/branches/2.6'
+
+ * https://scm.sipfoundry.org/rep/sipXcallLib/tags/2.6-export-A: update svnmerge-2.6-revs
+   to '1-66'
+
+ * https://scm.sipfoundry.org/rep/sipXcommserverLib/tags/2.6-export-A: update svnmerge-2.6-head
+   to 'https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.6'
+
+ * https://scm.sipfoundry.org/rep/sipXcommserverLib/tags/2.6-export-A: update svnmerge-2.6-revs
+   to '1-110'
+
+ * https://scm.sipfoundry.org/rep/sipXvxml/tags/2.6-export-A: update svnmerge-2.6-head
+   to 'https://scm.sipfoundry.org/rep/sipXvxml/branches/2.6'
+
+ * https://scm.sipfoundry.org/rep/sipXvxml/tags/2.6-export-A: update svnmerge-2.6-revs
+   to '1-112'
+
+ * https://scm.sipfoundry.org/rep/sipXconfig/tags/2.6-export-A: update svnmerge-2.6-head
+   to 'https://scm.sipfoundry.org/rep/sipXconfig/branches/2.6'
+
+ * https://scm.sipfoundry.org/rep/sipXconfig/tags/2.6-export-A: update svnmerge-2.6-revs
+   to '1-138'
+
+ * https://scm.sipfoundry.org/rep/sipXregistry/tags/2.6-export-A: update svnmerge-2.6-head
+   to 'https://scm.sipfoundry.org/rep/sipXregistry/branches/2.6'
+
+ * https://scm.sipfoundry.org/rep/sipXregistry/tags/2.6-export-A: update svnmerge-2.6-revs
+   to '1-63'
+
+ * https://scm.sipfoundry.org/rep/sipXproxy/tags/2.6-export-A: update svnmerge-2.6-head
+   to 'https://scm.sipfoundry.org/rep/sipXproxy/branches/2.6'
+
+ * https://scm.sipfoundry.org/rep/sipXproxy/tags/2.6-export-A: update svnmerge-2.6-revs
+   to '1-73'
+
+ * https://scm.sipfoundry.org/rep/sipXpublisher/tags/2.6-export-A: update svnmerge-2.6-head
+   to 'https://scm.sipfoundry.org/rep/sipXpublisher/branches/2.6'
+
+ * https://scm.sipfoundry.org/rep/sipXpublisher/tags/2.6-export-A: update svnmerge-2.6-revs
+   to '1-69'
+
+ * https://scm.sipfoundry.org/rep/sipXpbx/tags/2.6-export-A: update svnmerge-2.6-head
+   to 'https://scm.sipfoundry.org/rep/sipXpbx/branches/2.6'
+
+ * https://scm.sipfoundry.org/rep/sipXpbx/tags/2.6-export-A: update svnmerge-2.6-revs
+   to '1-266'
+
+END

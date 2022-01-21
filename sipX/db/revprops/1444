@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-12-23T18:52:26.377994Z
+K 7
+svn:log
+V 133
+Added the ability to set authentication criteria and enable rport from
+PlaceCall.  Added the ability to enable rport from sipXtapi.
+
+
+END

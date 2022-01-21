@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-09-07T23:04:22.266038Z
+K 7
+svn:log
+V 499
+Remove uses of UtlNameValueTokenizer::frontBackTrim, as this has been removed,
+and users should use UtlString::strip(UtlString::both) -- it performs nearly
+the same functionality.
+
+In this case, uses of frontBackTrim could be swapped without any other changes with calls to UtlString::strip(UtlString::both).
+
+The one other use of old NameValueTokenizer was just changed to reflect the new name and home of NameValueTokenizer -- now in the portability library under the name UtlNameValueTokenizer.
+
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-09T16:44:13.767060Z
+K 7
+svn:log
+V 145
+adjust css stylesheet to allow for multiple quick help and quick links components on one page
+added quick link to JobStatus page from Import page
+END

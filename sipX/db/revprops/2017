@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-03-24T22:28:11.589428Z
+K 7
+svn:log
+V 52
+improve logging of mapping rules config file reading
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-07-29T18:03:20.552860Z
+K 7
+svn:log
+V 54
+preserve timestamp on header files during make install
+END

@@ -1,0 +1,40 @@
+id: 2.0.r2/0
+type: dir
+count: 0
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 12
+dir 2.0.r2/0
+END
+ENDREP
+id: 1.0.r2/123
+type: dir
+pred: 1.0.r1/0
+count: 1
+text: 2 71 39 39 b4d5538b323f5ce7054fc520f9b6341e
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 14
+dir 1.0.r2/123
+END
+ENDREP
+id: 0.0.r2/294
+type: dir
+pred: 0.0.r1/102
+count: 2
+text: 2 249 32 32 a3e74bf9aa0fba962de5bcce2842cc21
+cpath: /
+copyroot: 0 /
+
+_0.0.t1-1 add false false /old/sipXportLib
+
+
+294 420

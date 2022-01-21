@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-02-02T23:26:11.353089Z
+K 7
+svn:log
+V 61
+Remove references to unused and removed Spring XML factories.
+END

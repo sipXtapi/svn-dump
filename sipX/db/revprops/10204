@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-17T07:30:54.676477Z
+K 7
+svn:log
+V 59
+Fix Linux build: enum Mode is not available in PlgAmrWB.c.
+
+END

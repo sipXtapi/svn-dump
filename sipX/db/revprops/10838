@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-10-17T22:40:35.595193Z
+K 7
+svn:log
+V 72
+Bugfix: Don't enter infinite loop if first received RTP packet is DTMF.
+
+END

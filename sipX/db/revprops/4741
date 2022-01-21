@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-01-25T14:10:21.382441Z
+K 7
+svn:log
+V 46
+fix for XPH-12 - avoiding use of null objects
+
+END

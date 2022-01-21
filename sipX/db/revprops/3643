@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-03-10T17:40:22.394203Z
+K 7
+svn:log
+V 179
+XCF-182 - fixed types in SQL query
+
+remove and simplify exception handling codo
+properly initialize CreateExtensionPoolBean fields (so that we do not display NULL) on the screen
+
+
+END

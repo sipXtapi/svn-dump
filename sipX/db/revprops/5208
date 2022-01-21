@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 5
+jason
+K 8
+svn:date
+V 27
+2005-09-27T17:39:57.871952Z
+K 7
+svn:log
+V 135
+clean up the CpMediaInterface when last participant leaves the conference
+removed the refcount since there is a set of participants 
+
+
+
+END

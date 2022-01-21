@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-05-19T15:00:05.369821Z
+K 7
+svn:log
+V 66
+Linux build: Add switches to enable external PLC and JBE modules.
+
+END

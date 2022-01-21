@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2018-01-28T00:34:17.278326Z
+K 7
+svn:log
+V 120
+Make libg729a a SUBDIR in automake so that it gets installed.
+It is a dependency that needs to be installed for plgg729
+
+END

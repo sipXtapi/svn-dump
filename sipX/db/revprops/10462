@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-15T13:38:34.854867Z
+K 7
+svn:log
+V 85
+Fix preprocessor test for C++ - we should test for __cplusplus instead of cplusplus.
+
+END

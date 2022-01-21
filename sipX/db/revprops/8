@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-05-24T17:43:23.149370Z
+K 7
+svn:log
+V 82
+Additional changes from Raghu / UtlString 
+(new editor -- didn't save all buffer)
+
+END

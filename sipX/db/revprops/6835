@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-05-19T20:54:01.102852Z
+K 7
+svn:log
+V 282
+XCF-1044 workaround for http://issues.apache.org/jira/browse/LANG-76 that prevents EnumUserType from correctly loading Enum types in some situations. It's only triggered if:
+- code is compiled with 1.5 as a target JVM
+- Enum class has not been used before we try to load it from DB
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-05-12T17:18:55.273421Z
+K 7
+svn:log
+V 107
+Fixed default outbound line URL in PlaceCall example -- it was missing the angle brackets around the URL.
+
+
+END

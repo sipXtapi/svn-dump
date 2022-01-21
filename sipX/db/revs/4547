@@ -1,0 +1,199 @@
+PLAIN
+K 10
+svn:ignore
+V 55
+Doxyfile
+Makefile
+Makefile.in
+html
+sipxpbx
+sipxpbx.tag
+
+END
+ENDREP
+id: 5gm.0.r4547/94
+type: dir
+pred: 5gm.0.r4546/1809
+count: 85
+text: 4546 1539 257 257 b722e56345b6f2dc198f19bd13b0f708
+props: 4547 0 81 0 9d2955fa11968b67f44f1f2a3ba894df
+cpath: /old/sipXpbx/main/doc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4454/288397
+K 9
+ChangeLog
+V 20
+file 5g8.0.r4488/735
+K 7
+INSTALL
+V 23
+file 5g9.0.r4454/289610
+K 7
+LICENSE
+V 19
+file 5ga.0.r4454/82
+K 11
+Makefile.am
+V 21
+file 5gb.0.r4521/2973
+K 4
+NEWS
+V 23
+file 5gc.0.r4454/299658
+K 6
+README
+V 23
+file 5gd.0.r4454/288092
+K 4
+TODO
+V 23
+file 5ge.0.r4454/289304
+K 9
+acsite.m4
+V 21
+file 5gf.0.r4454/4092
+K 3
+bin
+V 20
+dir 5gg.0.r4544/1330
+K 12
+configure.ac
+V 21
+file 5gl.0.r4535/1462
+K 3
+doc
+V 18
+dir 5gm.0.r4547/94
+K 3
+etc
+V 20
+dir 5gp.0.r4522/1609
+K 7
+include
+V 20
+dir 5h2.0.r4454/3129
+K 4
+meta
+V 21
+dir 6of.z4.r4521/2317
+K 15
+sipxpbx.spec.in
+V 21
+file 6mo.0.r4535/1229
+K 3
+src
+V 21
+dir 5hb.0.r4542/52788
+END
+ENDREP
+id: 5g6.0.r4547/994
+type: dir
+pred: 5g6.0.r4546/2715
+count: 351
+text: 4547 309 672 672 2b7362d281964bfc3ba82ce76a216173
+props: 4542 53698 710 0 4a8f068a90d1841d6fc86f3a5338b91e
+cpath: /old/sipXpbx/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 6o1.0.r4545/3329
+K 4
+main
+V 19
+dir 5g6.0.r4547/994
+K 4
+tags
+V 20
+dir 5kn.0.r4536/2035
+END
+ENDREP
+id: 5g5.0.r4547/1336
+type: dir
+pred: 5g5.0.r4546/3060
+count: 454
+text: 4547 1211 112 112 325b4d1e95b9625326e055561c17449e
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4547/1336
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4547/1976
+type: dir
+pred: 1.0.r4546/3700
+count: 4545
+text: 4547 1493 470 470 a5efa68bed3d3c0dfffd7ec49983f6b4
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4547/1976
+END
+ENDREP
+id: 0.0.r4547/2171
+type: dir
+pred: 0.0.r4546/3895
+count: 4547
+text: 4547 2122 36 36 723edce7194f6fbf9f8bb966d62957fc
+cpath: /
+copyroot: 0 /
+
+5gm.0.t4546-1 modify false true /old/sipXpbx/main/doc
+
+
+2171 2312

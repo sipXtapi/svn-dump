@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-05T22:08:33.187021Z
+K 7
+svn:log
+V 306
+http://track.sipfoundry.org/browse/XVX-77
+The test "if( requestIsFromWebUI )" at line 1018 was inverted.  To
+preserve the parallel with the code below it, I switched the two
+blocks of code rather than inverting the test.
+This still doesn't make the error message very useful, but it is now
+human readable.
+
+END

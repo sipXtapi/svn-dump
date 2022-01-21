@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-23T18:35:24.367254Z
+K 7
+svn:log
+V 90
+change output of update numbers to use hex (to match now they are written in rpc and logs)
+END

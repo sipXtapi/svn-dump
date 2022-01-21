@@ -1,0 +1,95 @@
+id: 2h1.0.r2799/0
+type: dir
+count: 0
+cpath: /old/sipXvxml/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 17
+dir 2h1.0.r2799/0
+K 4
+main
+V 20
+dir 22d.0.r2798/1171
+K 4
+tags
+V 20
+dir 2gd.0.r2758/1557
+END
+ENDREP
+id: 22c.0.r2799/205
+type: dir
+pred: 22c.0.r2798/1474
+count: 66
+text: 2799 82 110 110 506368f2e83f0a4ede35c349be680b67
+cpath: /old/sipXvxml
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 19
+dir 22c.0.r2799/205
+END
+ENDREP
+id: 1.0.r2799/760
+type: dir
+pred: 1.0.r2798/2031
+count: 2798
+text: 2799 359 388 388 1ea42d915bb10963f2dd9bdebb65c3ce
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r2799/760
+END
+ENDREP
+id: 0.0.r2799/952
+type: dir
+pred: 0.0.r2798/2226
+count: 2799
+text: 2799 904 35 35 76103009a84206df52762f02755be019
+cpath: /
+copyroot: 0 /
+
+_0.0.t2798-1 add false false /old/sipXvxml/branches
+
+
+952 1091

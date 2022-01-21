@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-15T15:27:15.267338Z
+K 7
+svn:log
+V 106
+sipXmediaLib: Fix Linux build - we should define DISABLE_LOCAL_AUDIO define if we don't need local audio.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-07T22:25:23.213255Z
+K 7
+svn:log
+V 180
+MprBridge: Added special case for processing one-to-one case. Bridge should not suppress silence in this case. Someday smarter processing even for n-to-n case will be implemented.
+
+END

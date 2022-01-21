@@ -1,0 +1,103 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-05-02T15:58:58.299209Z
+K 7
+svn:log
+V 4122
+Merged revisions 338 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.8
+    ------------------------------------------------------------------------
+    r338 | mardy | 2005-05-02 11:44:31 -0400 (Mon, 02 May 2005) | 64 lines
+    Changed paths:
+       M /branches/2.8
+       M /branches/2.8/include/Makefile.am
+       M /branches/2.8/include/resparse/bzero.h
+       M /branches/2.8/include/resparse/ns_name.h
+       M /branches/2.8/include/resparse/res_config.h
+       D /branches/2.8/include/resparse/sys
+       M /branches/2.8/include/resparse/types.h
+       M /branches/2.8/include/resparse/wnt/arpa/inet.h
+       M /branches/2.8/include/resparse/wnt/arpa/nameser.h
+       M /branches/2.8/include/resparse/wnt/crypt.h
+       M /branches/2.8/include/resparse/wnt/inet_aton.h
+       M /branches/2.8/include/resparse/wnt/netinet/in.h
+       M /branches/2.8/include/resparse/wnt/nterrno.h
+       M /branches/2.8/include/resparse/wnt/resolv/resolv.h
+       D /branches/2.8/include/resparse/wnt/sol_search.h
+       M /branches/2.8/include/resparse/wnt/sys/param.h
+       M /branches/2.8/include/resparse/wnt/sysdep.h
+       M /branches/2.8/sipXtackLib.dsp
+       M /branches/2.8/src/resparse/bzero.c
+       M /branches/2.8/src/resparse/wnt/writev.c
+    
+    Merged revisions 321-328 via svnmerge from
+    https://scm.sipfoundry.org/rep/sipXtackLib/main
+        ------------------------------------------------------------------------
+        r321 | bob | 2005-04-27 14:49:13 -0400 (Wed, 27 Apr 2005) | 1 line
+        Changed paths:
+           M /main/src/resparse/wnt/writev.c
+        
+        Transmogrified so as to be O.S. conformant.
+        ------------------------------------------------------------------------
+        r322 | bob | 2005-04-27 15:07:39 -0400 (Wed, 27 Apr 2005) | 1 line
+        Changed paths:
+           M /main/include/resparse/bzero.h
+           M /main/include/resparse/ns_name.h
+           M /main/include/resparse/res_config.h
+           M /main/include/resparse/types.h
+           M /main/include/resparse/wnt/arpa/inet.h
+           M /main/include/resparse/wnt/crypt.h
+           M /main/include/resparse/wnt/inet_aton.h
+           M /main/include/resparse/wnt/netinet/in.h
+           M /main/include/resparse/wnt/sys/param.h
+           M /main/src/resparse/bzero.c
+        
+        Update copyright notice.
+        ------------------------------------------------------------------------
+        r323 | bob | 2005-04-27 15:09:04 -0400 (Wed, 27 Apr 2005) | 1 line
+        Changed paths:
+           M /main/include/resparse/wnt/sysdep.h
+        
+        Remove include of sol_search.h
+        ------------------------------------------------------------------------
+        r324 | bob | 2005-04-27 15:13:57 -0400 (Wed, 27 Apr 2005) | 1 line
+        Changed paths:
+           M /main/include/resparse/wnt/nterrno.h
+        
+        Distilled to minimal required set.
+        ------------------------------------------------------------------------
+        r325 | bob | 2005-04-27 15:46:37 -0400 (Wed, 27 Apr 2005) | 1 line
+        Changed paths:
+           M /main/include/resparse/wnt/arpa/nameser.h
+           M /main/include/resparse/wnt/resolv/resolv.h
+        
+        Alligned with BIND 4.9.5-P1
+        ------------------------------------------------------------------------
+        r326 | bob | 2005-04-27 15:51:49 -0400 (Wed, 27 Apr 2005) | 1 line
+        Changed paths:
+           M /main/sipXtackLib.dsp
+        
+        Removed includes of sys/isa_defs.h wnt/sol_search.h
+        ------------------------------------------------------------------------
+        r327 | mardy | 2005-04-27 16:11:59 -0400 (Wed, 27 Apr 2005) | 2 lines
+        Changed paths:
+           D /main/include/resparse/sys
+           D /main/include/resparse/wnt/sol_search.h
+        
+        Deprecated.
+        
+        ------------------------------------------------------------------------
+        r328 | mardy | 2005-04-27 16:52:56 -0400 (Wed, 27 Apr 2005) | 2 lines
+        Changed paths:
+           M /main/include/Makefile.am
+        
+        Updated dependency list.
+        
+    
+
+END

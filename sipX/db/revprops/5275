@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-10-04T21:56:23.420021Z
+K 7
+svn:log
+V 272
+Added ability to mark settings group as hidden - hidden groups do not show up in the UI.
+Mark call pick-up configuration group as hidden - it's not shown in the UI anymore (apparently most SIP phones do not support necessary functionality to properly handle call pick-up)
+
+END

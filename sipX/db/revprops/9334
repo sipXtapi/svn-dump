@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-11T23:07:02.444095Z
+K 7
+svn:log
+V 667
+Many changes in MpInputDeviceManagerTest unittest. Now it corectly behave in more timing conditions.
+
+* Use OsEvent to wait for reader task to finish.
+* "Retry" code removed, as it is not really needed.
+* Implemented code to advance reader's frameTime pointer if reader missed too much frames (more then mNumBufferedFrames). Without this code reader will try to fetch frame already pushed out of device buffer, fail, try again and so on. This code simply recognise such situation and search for next available buffer.
+* More debug printfs.
+* Calculate lapse time in milliseconds instead of microseconds.
+* Use MpFrameTime as frame time type.
+* Fix some indentations.
+
+END

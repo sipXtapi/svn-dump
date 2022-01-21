@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-09T21:49:20.581953Z
+K 7
+svn:log
+V 73
+XCF-1142 custom dial rule allows for specifying ranges using [] notation
+
+END

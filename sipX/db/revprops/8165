@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-30T18:59:03.886741Z
+K 7
+svn:log
+V 337
+Merged revisions 8146-8147 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8146 | bob | 2006-11-29 18:40:47 +0300 | 2 lines
+  
+  Fixes required to build sipXportLib under MacOS
+........
+  r8147 | bob | 2006-11-29 19:05:13 +0300 | 3 lines
+  
+  Tweaked typedef declarations in IStunSocket.h.
+........
+
+END

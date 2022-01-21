@@ -1,0 +1,36 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-31T05:01:22.188184Z
+K 7
+svn:log
+V 2332
+Porting changes to sipXregistry on sipx-main into the merge branch.
+
+The files that were moved in the redirector branch, and thus copied
+into the merge branch, are:
+
+r7445 | dworley | 2006-09-11 00:44:47 -0400 (Mon, 11 Sep 2006) | 2 lines
+Changed paths:
+   A /branches/user_dworley_redirectors/sipXregistry/include/registry/RedirectPlugin.h (from /branches/user_dworley_redirectors/sipXregistry/src/SipRedirector.h:7443)
+   A /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins (from /branches/user_dworley_redirectors/sipXregistry/lib/plugin:7443)
+   A /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins/SipRedirectorRegDB.cpp (from /branches/user_dworley_redirectors/sipXregistry/src/SipRedirectorRegDB.cpp:7443)
+   A /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins/SipRedirectorRegDB.h (from /branches/user_dworley_redirectors/sipXregistry/src/SipRedirectorRegDB.h:7443)
+   A /branches/user_dworley_redirectors/sipXregistry/lib/register_plugins (from /branches/user_dworley_redirectors/sipXregistry/lib/plugin:7443)
+   A /branches/user_dworley_redirectors/sipXregistry/src/RedirectPlugin.cpp (from /branches/user_dworley_redirectors/sipXregistry/src/SipRedirector.cpp:7443)
+
+The merge operations to bring forward changes from sipx-main are:
+
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/lib/plugin sipXregistry/lib/register_plugins
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/SipRedirector.h sipXregistry/include/registry/RedirectPlugin.h 
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/SipRedirectorRegDB.cpp sipXregistry/lib/redirect_plugins/SipRedirectorRegDB.cpp 
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/SipRedirectorRegDB.h sipXregistry/lib/redirect_plugins/SipRedirectorRegDB.h
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/SipRedirectorRegDB.x sipXregistry/lib/redirect_plugins/SipRedirectorRegDB.h
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/SipRedirector.cpp sipXregistry/lib/redirect_plugins/RedirectPlugin.cpp
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/SipRedirector.cpp sipXregistry/src/RedirectPlugin.cpp 
+
+END

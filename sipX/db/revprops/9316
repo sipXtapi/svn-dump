@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-11T13:31:59.222878Z
+K 7
+svn:log
+V 131
+MpInputDeviceManagerTest: fix comment in printf() - mActualLapseTime and mLapseTime store value in microseconds, not milliseconds.
+
+END

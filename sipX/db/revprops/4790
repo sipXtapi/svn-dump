@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-28T13:16:21.637433Z
+K 7
+svn:log
+V 309
+sipxphone migration support for the UDP/TCP port/configuration changes.
+If blank ports are found for UDP and TCP, assume the user wants port
+5060 on both UDP and TCP.  Otherwise, the application crashes (more
+work is still needed here).  Ideally, the installer will fix this
+instead of the application code.
+
+
+END

@@ -1,0 +1,44 @@
+PLAIN
+K 10
+svn:ignore
+V 10
+build.err
+
+END
+ENDREP
+id: 7q4.0.r4819/49
+type: dir
+pred: 7q4.0.r4818/3279
+count: 5
+text: 4818 2694 572 572 3df89e3ff1d6f792f44e2f5c6aa58544
+props: 4819 0 36 0 7f7837a88a598584dcd9896164d1c688
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r4813/32382
+K 4
+main
+V 18
+dir 7q4.0.r4819/49
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r4819/374
+type: dir
+pred: 0.0.r4818/3556
+count: 4819
+text: 4819 247 114 114 046047db026883b7db61c8fbc074132e
+cpath: /
+copyroot: 0 /
+
+7q4.0.t4818-1 modify false true /main
+
+
+374 515

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-09-28T16:06:29.125427Z
+K 7
+svn:log
+V 64
+XCF-1244,XCF-1109 Redo DST settings for SNTP to enumerated lists
+END

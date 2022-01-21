@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-02-24T00:47:36.661716Z
+K 7
+svn:log
+V 225
+XCF-185: fallbackrules.xml and mappingrules.xml namespace declarations added.
+
+XML unit test are using parser that ignores namespace declarations for now, it's virtually impossible to use correct XPath expressions otherwise.
+
+END

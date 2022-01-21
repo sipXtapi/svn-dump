@@ -1,0 +1,34 @@
+K 10
+svn:author
+V 4
+szuk
+K 8
+svn:date
+V 27
+2006-11-01T22:44:33.385663Z
+K 7
+svn:log
+V 1230
+Make it possible for status server and voicemail to work with multiple domains
+(TUI only).
+
+- Modified mailbox manager to use the correct realm when looking up mailbox
+identities for virtual domains.
+- Modified the mailbox storage functions to create separate subdirectories under
+the root mailstore directory for each domain.  User mailboxes are now stored in
+the  directory of the domain they belong to, not the top level mailstore, eg.
+mailstore/example.com/200 instead of mailstore/200
+- Added additional domain parameter to login VXML and CGIs so the voicemail app
+can determine which domain to log in and retrieve messages for.
+- Changed subscribe server to challenge subscribe requests with the realm
+corresponding to the domain of the resource in the request uri.  Modified
+message waiting plugin to use the address in the subscribe request uri and not
+the auth user when creating subscriptions for mailbox identities.  This makes it
+possible to subscribe to and send notifications for the mailbox state of any
+configured domain.
+- Changed vxml scripts to not quote comparisons to javascript undefined property
+
+TODO: Make more of the voicemail functions work for multiple domains (only
+deposit and retrieve work so far).
+
+END

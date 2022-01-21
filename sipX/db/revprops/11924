@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-05-04T21:14:57.815769Z
+K 7
+svn:log
+V 52
+Fix parsing of ICE candidate attribute from SdpBody
+
+END

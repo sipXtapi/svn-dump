@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-05T00:05:06.376892Z
+K 7
+svn:log
+V 449
+http://track.sipfoundry.org/browse/XVX-80
+The functions that insert new values into XML files will now work if
+the value they are replacing is null or all whitespace.
+In addition:
+Fix spelling in some comments.
+Add various logging messages.
+Write the contents of any unparsable message XML file into the log so
+we can diagnose the problem later.
+Improve error reporting in some cases.
+Do not choke if an expected text value in an XML file is empty.
+
+END

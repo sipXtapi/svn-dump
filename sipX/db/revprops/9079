@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-03-13T21:24:43.131645Z
+K 7
+svn:log
+V 122
+Fixed bug identified in unit test where MpInputDeviceManager was only
+copying half the frame.
+
+Removed some printf noise.
+
+END

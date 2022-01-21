@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-17T21:30:56.755985Z
+K 7
+svn:log
+V 267
+http://track.sipfoundry.org/browse/XVX-34
+Changes needed to build sipXvxml RPM.
+Add sipxvxml.spec.in.
+Fix include/Makefile.am so that headers are not installed.
+(This will need to change if we produce a devel RPM of sipXvxml.)
+Add 'make rpm' commands to Makefile.am.
+
+END

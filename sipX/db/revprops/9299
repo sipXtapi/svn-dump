@@ -1,0 +1,35 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2007-04-09T22:19:27.239747Z
+K 7
+svn:log
+V 883
+Fixed XPB-867 Media Server crashes when receives an INVITE with multipart/mixed content type SDP
+
+Merged contribution from Huijun Yang.  He writes:
+
+By adding the following line in SipMessageTest::testMultipartBody(), ( please
+see attached patch for details), I was able to reproduce the crash. 
+
+sdpBody->findMediaType("audio", 0); 
+
+Here is the cause: 
+
+- In SipMessage::getSdpBody, it forcely cast the pointer to object of
+  MimeBodyPart to SdpBody*. It is wrong, as an object of MimeBodyPart is NOT
+an object of SdpBody. It caused an invalid memory access and resulted in the
+crash. 
+
+- Also, MimeBodyPart is a subclass of HttpBody. Because HttpBody has
+  user-defined constructor, according C++ rule, MimeBodyPart MUST invoke
+HttpBody constructor during base initialization. 
+
+Verified the fix, and the modified test case SipMessageTest::testMultipartBody
+passed without crash.
+
+END

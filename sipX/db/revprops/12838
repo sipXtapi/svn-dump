@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2021-06-25T14:33:13.691691Z
+K 7
+svn:log
+V 73
+Use a new device iterator for each Windows audio device, not static one.
+
+END

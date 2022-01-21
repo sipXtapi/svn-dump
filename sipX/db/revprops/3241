@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-12-07T21:33:19.068335Z
+K 7
+svn:log
+V 80
+XCF-45:Add note about postgres startup script (documentation patch from Dorn H.)
+END

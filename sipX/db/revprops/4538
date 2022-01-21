@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-15T18:53:18.596061Z
+K 7
+svn:log
+V 61
+Fix the install-sipXvxml-no-setuid command block so it works.
+END

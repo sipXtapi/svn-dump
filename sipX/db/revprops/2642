@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-12-07T17:16:23.832687Z
+K 7
+svn:log
+V 187
+Merged revisions 73 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXpublisher/main
+Raise logging level of "caught signal" messages to CRIT.
+http://track.sipfoundry.org/browse/XVX-86
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-05-23T13:38:05.279036Z
+K 7
+svn:log
+V 73
+XCF-325 - Add business objects, db adn web ui for daily scheduled backups
+END

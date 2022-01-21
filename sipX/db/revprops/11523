@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-01-23T17:46:41.269430Z
+K 7
+svn:log
+V 65
+Minor header file/include tweeks so mediaLib compiles on Android
+
+END

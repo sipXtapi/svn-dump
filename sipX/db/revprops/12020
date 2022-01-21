@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2013-01-23T17:28:58.510171Z
+K 7
+svn:log
+V 238
+Gave OsNotifications a signal timeout value and use that in OsQueuedEvent.
+Default timeout is still infinite.  
+This is to enable the ability to have OsQueuedEvents drop on the floor rather than
+block forever (e.g. if the queue is full).
+
+END

@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-23T12:55:06.823720Z
+K 7
+svn:log
+V 433
+Merged revisions 444 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXportLib/branches/2.8
+    ------------------------------------------------------------------------
+    r444 | dworley | 2005-03-17 09:59:04 -0500 (Thu, 17 Mar 2005) | 3 lines
+    Changed paths:
+       M /branches/2.8/src/os/shared/OsMsgQShared.cpp
+    
+    Log CRIT message if OsMsgQShared::doSend cannot add message to the destination
+    message queue.
+    
+
+END

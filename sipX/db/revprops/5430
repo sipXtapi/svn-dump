@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-10-29T00:13:33.908970Z
+K 7
+svn:log
+V 338
+Check in work on XCF-598 (extension uniqueness).  Define AliasOwner interface, to be implemented by all interfaces that manage aliases, e.g., CoreContext.  Create AliasManager class that asks all AliasOwners about extension usage.  Test that AliasOwners are doing the right thing, and that they are properly registered with AliasManager.
+
+END

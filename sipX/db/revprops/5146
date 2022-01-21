@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-09-23T20:43:01.473327Z
+K 7
+svn:log
+V 40
+configure and link works under autotools
+END

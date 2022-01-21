@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-08-09T11:16:18.741895Z
+K 7
+svn:log
+V 76
+Move LINEAR_COMPLEXITY_BRIDGE define to the MprBridge.cpp from MprBridge.h.
+
+END

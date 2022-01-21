@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-08-04T23:54:17.033181Z
+K 7
+svn:log
+V 95
+Fixed wav file header to correctly set ByteRate which is dependent upon the number of channels
+
+END

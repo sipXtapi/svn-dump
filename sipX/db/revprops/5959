@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-01-25T14:04:24.358875Z
+K 7
+svn:log
+V 91
+Indicate failure in OsFileSystem::createDir if creating a parent directory
+actually fails.
+
+END

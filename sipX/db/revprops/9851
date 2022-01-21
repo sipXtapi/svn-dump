@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-17T08:31:04.225236Z
+K 7
+svn:log
+V 172
+Fix wrong condition in res_init_ip() function.
+localIp should be checked for NULL, not opposite.
+First part of second condition is always true, so could be safely removed.
+
+END

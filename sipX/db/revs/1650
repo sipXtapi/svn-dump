@@ -1,0 +1,283 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1oi.0.r1650/82
+type: file
+pred: 1oi.0.r1546/1275
+count: 1
+text: 1546 0 157 206 aace7db6ba913a93b877f46467d075e2
+props: 1650 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcallLib/main/examples/ReceiveCall/src/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 19
+file 1oi.0.r1650/82
+K 15
+ReceiveCall.cpp
+V 21
+file 165.0.r1644/5252
+END
+ENDREP
+id: 164.0.r1650/438
+type: dir
+pred: 164.0.r1644/5624
+count: 13
+text: 1650 331 94 94 bfac6e8bc615684e61fde7065098f1ec
+cpath: /old/sipXcallLib/main/examples/ReceiveCall/src
+copyroot: 0 /
+
+PLAIN
+K 15
+ReceiveCall.dsp
+V 21
+file 161.0.r1593/8379
+K 7
+include
+V 21
+dir 163.0.r1398/95233
+K 3
+src
+V 19
+dir 164.0.r1650/438
+END
+ENDREP
+id: 160.0.r1650/761
+type: dir
+pred: 160.0.r1644/5951
+count: 16
+text: 1650 624 124 124 318943732b6ddacd37608c3959fe92b3
+cpath: /old/sipXcallLib/main/examples/ReceiveCall
+copyroot: 0 /
+
+PLAIN
+K 10
+CallScript
+V 21
+dir 15w.6n.r1638/4628
+K 11
+Makefile.am
+V 22
+file vm.0.r1491/180828
+K 9
+PlaceCall
+V 20
+dir 15w.0.r1644/5069
+K 11
+ReceiveCall
+V 19
+dir 160.0.r1650/761
+K 11
+musicServer
+V 18
+dir vn.0.r1633/771
+K 11
+sipXezPhone
+V 20
+dir 174.0.r1648/5603
+END
+ENDREP
+id: vl.0.r1650/1216
+type: dir
+pred: vl.0.r1648/6064
+count: 114
+text: 1650 945 258 258 93989aab6689d432d02850aeab21d4af
+props: 1356 1849 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXcallLib/main/examples
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file vb.0.r1491/159931
+K 9
+ChangeLog
+V 19
+file vc.0.r1534/115
+K 7
+INSTALL
+V 22
+file vd.0.r1491/169400
+K 7
+LICENSE
+V 21
+file ve.0.r1491/42834
+K 11
+Makefile.am
+V 20
+file vf.0.r1602/2588
+K 4
+NEWS
+V 22
+file vg.0.r1491/170627
+K 6
+README
+V 22
+file vh.0.r1491/159626
+K 4
+TODO
+V 22
+file vi.0.r1491/169087
+K 9
+acsite.m4
+V 21
+file vj.0.r1491/97655
+K 3
+bin
+V 20
+dir 15f.0.r1545/5590
+K 12
+configure.ac
+V 19
+file vk.0.r1649/274
+K 3
+doc
+V 21
+dir 158.0.r1643/45619
+K 8
+examples
+V 19
+dir vl.0.r1650/1216
+K 7
+include
+V 19
+dir vt.0.r1646/9738
+K 4
+meta
+V 20
+dir 16r.0.r1602/1943
+K 15
+sipXcallLib.dsp
+V 22
+file 155.0.r1616/10743
+K 18
+sipXcallLib.vcproj
+V 21
+file 1ow.0.r1618/3221
+K 8
+sipXtapi
+V 20
+dir 1p0.0.r1623/3258
+K 12
+sipXtapi.dsp
+V 21
+file 16a.0.r1621/1066
+K 12
+sipXtapi.dsw
+V 21
+file 16b.0.r1593/7616
+K 12
+sipXtapi.sln
+V 20
+file 1ok.0.r1614/208
+K 15
+sipXtapi.vcproj
+V 21
+file 1ox.0.r1618/2984
+K 16
+sipXtapiTest.dsp
+V 21
+file 16c.0.r1593/4628
+K 19
+sipXtapiTest.vcproj
+V 22
+file 1oy.0.r1640/23554
+K 19
+sipxcalllib.spec.in
+V 20
+file 15d.0.r1649/504
+K 3
+src
+V 20
+dir 10q.0.r1647/3625
+END
+ENDREP
+id: va.0.r1650/2551
+type: dir
+pred: va.0.r1649/2571
+count: 274
+text: 1650 1443 1095 1095 4b6f15507a81c364a216ebcc3a992d08
+props: 1649 1853 705 0 f06b0e4148704c2e2b80559f738b13d6
+cpath: /old/sipXcallLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 15e.0.r1639/2279
+K 4
+main
+V 19
+dir va.0.r1650/2551
+K 4
+tags
+V 20
+dir 156.0.r1529/3173
+END
+ENDREP
+id: v9.0.r1650/2898
+type: dir
+pred: v9.0.r1649/2917
+count: 329
+text: 1650 2773 112 112 2cd6d3ee70ccb79cf3679733f43a4160
+cpath: /old/sipXcallLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1650/2898
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1650/3242
+type: dir
+pred: 1.0.r1649/3261
+count: 1649
+text: 1650 3057 172 172 a6ac38ebde4686bfd28d519078d5266b
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1650/3242
+END
+ENDREP
+id: 0.0.r1650/3437
+type: dir
+pred: 0.0.r1649/3456
+count: 1650
+text: 1650 3388 36 36 462df8579e86997fc1aaba85c968d4d5
+cpath: /
+copyroot: 0 /
+
+1oi.0.t1649-1 modify false true /old/sipXcallLib/main/examples/ReceiveCall/src/Makefile.am
+
+
+3437 3578

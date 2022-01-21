@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-30T20:31:41.163699Z
+K 7
+svn:log
+V 88
+XCF-138 Increase log level to WARN  and document how to alter it in troubleshooting page
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-23T23:00:28.635803Z
+K 7
+svn:log
+V 120
+Fix for defect: http://track.sipfoundry.org/browse/XSL-57
+
+Thanks to Rafal Lindemann for finding and suggesting a fix.
+
+
+END

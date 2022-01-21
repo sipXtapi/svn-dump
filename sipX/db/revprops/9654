@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-02T23:07:58.366659Z
+K 7
+svn:log
+V 164
+Comment out setsockopt(IP_TOS) under Windows. It should be implemented other way under Windows, this call will work under Win2000 only and not recommended for use.
+
+END

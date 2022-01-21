@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-11-02T21:11:15.282479Z
+K 7
+svn:log
+V 199
+minor improvements for large number of users
+- populateUsers added to TestPage
+- daemon threads now catch Throwable and not just Exceptions
+- XML user settings are only read once (not once per user)
+
+END

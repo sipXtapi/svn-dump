@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-09-07T18:31:28.519899Z
+K 7
+svn:log
+V 171
+Rename log file to be more clear.
+Log all enviroment variables (at DEBUG level) at startup.
+Remove UDP debug log mechanism put in for debugging IMDB
+  (which didn't help)
+
+END

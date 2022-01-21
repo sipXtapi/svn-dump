@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-11-23T12:01:06.754784Z
+K 7
+svn:log
+V 106
+Partial implementation of limit codecs on per call bases, handling of MI notifications for H264 SPS & PPS
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-06-08T15:36:38.919100Z
+K 7
+svn:log
+V 131
+XCF-420 Change ownership of configuration files to sipxchange so sipXconfig can edit them.  sds-config.in was file at this juncture
+END

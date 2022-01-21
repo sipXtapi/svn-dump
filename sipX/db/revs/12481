@@ -1,0 +1,1794 @@
+PLAIN
+K 25
+as-gcc-inline-assembly.m4
+V 26
+file ohh.7n5.r12461/617459
+K 12
+ltoptions.m4
+V 26
+file mr1.7n5.r12461/618085
+K 10
+ltsugar.m4
+V 26
+file mlt.7n5.r12461/616797
+K 12
+ltversion.m4
+V 26
+file mlx.7n5.r12461/617239
+K 14
+lt~obsolete.m4
+V 26
+file mmn.7n5.r12461/617862
+K 18
+opus-intrinsics.m4
+V 26
+file ocs.7n5.r12461/617665
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 11
+libtool.m4
+
+END
+ENDREP
+id: mbg.7n5.r12481/386
+type: dir
+pred: mbg.7n5.r12469/904
+count: 4
+text: 12481 0 323 323 37a07b789e47a2053dbf3b033587d565
+props: 12481 336 37 0 e4bb24f702ddbd14cd6b69d75cb33982
+cpath: /main/sipXmediaLib/contrib/libopus/opus/m4
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 6
+.deps
+
+END
+ENDREP
+id: oaz.7n5.r12481/680
+type: dir
+pred: oaz.7n5.r12461/624616
+count: 1
+text: 12461 623613 990 990 48948a9d06c4199733bf355a64fce06d
+props: 12481 636 31 0 2174dc3044360e901d26d78b8a35acaf
+cpath: /main/sipXmediaLib/contrib/libopus/opus/celt/arm
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 16
+.deps
+.dirstamp
+
+END
+ENDREP
+id: mbc.7n5.r12481/999
+type: dir
+pred: mbc.7n5.r12461/629125
+count: 3
+text: 12461 628660 452 452 b96ea80244ad510d268f965780ef912c
+props: 12481 944 42 0 e8c3fbf6ba205208d7d78140d6f5745e
+cpath: /main/sipXmediaLib/contrib/libopus/opus/celt/tests
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 6
+.deps
+
+END
+ENDREP
+id: ob1.7n5.r12481/1309
+type: dir
+pred: ob1.7n5.r12461/631840
+count: 1
+text: 12461 631505 322 322 3cb4d40340a7fb17c719e32131e9b708
+props: 12481 1265 31 0 2174dc3044360e901d26d78b8a35acaf
+cpath: /main/sipXmediaLib/contrib/libopus/opus/celt/mips
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 16
+.deps
+.dirstamp
+
+END
+ENDREP
+id: ob2.7n5.r12481/1631
+type: dir
+pred: ob2.7n5.r12461/636298
+count: 1
+text: 12461 635744 541 541 a7c65ddf1fa6779d8e27b376c20da403
+props: 12481 1576 42 0 e8c3fbf6ba205208d7d78140d6f5745e
+cpath: /main/sipXmediaLib/contrib/libopus/opus/celt/x86
+copyroot: 10815 /main
+
+PLAIN
+K 16
+_kiss_fft_guts.h
+V 26
+file ml7.7n5.r12461/638027
+K 6
+arch.h
+V 26
+file mrx.7n5.r12461/638696
+K 3
+arm
+V 22
+dir oaz.7n5.r12481/680
+K 7
+bands.c
+V 26
+file mf3.7n5.r12461/640207
+K 7
+bands.h
+V 26
+file mfe.7n5.r12461/641079
+K 6
+celt.c
+V 26
+file mkh.7n5.r12461/632025
+K 6
+celt.h
+V 26
+file mkn.7n5.r12461/632876
+K 12
+celt.vcxproj
+V 27
+file mll.7n5.r12197/1036056
+K 20
+celt.vcxproj.filters
+V 27
+file mi6.7n5.r12197/1037224
+K 14
+celt_decoder.c
+V 26
+file oby.7n5.r12461/626146
+K 14
+celt_encoder.c
+V 26
+file oiq.7n5.r12461/639789
+K 10
+celt_lpc.c
+V 26
+file mez.7n5.r12461/629839
+K 10
+celt_lpc.h
+V 26
+file mf7.7n5.r12461/632654
+K 13
+cpu_support.h
+V 26
+file omt.7n5.r12461/632244
+K 6
+cwrs.c
+V 26
+file md1.7n5.r12461/638255
+K 6
+cwrs.h
+V 26
+file mdb.7n5.r12461/638915
+K 10
+ecintrin.h
+V 26
+file mqv.7n5.r12461/626567
+K 9
+entcode.c
+V 26
+file mjn.7n5.r12461/626788
+K 9
+entcode.h
+V 26
+file mjr.7n5.r12461/630062
+K 8
+entdec.c
+V 26
+file mi0.7n5.r12461/625243
+K 8
+entdec.h
+V 27
+file mi8.7n5.r12197/1037031
+K 8
+entenc.c
+V 26
+file mhg.7n5.r12461/637370
+K 8
+entenc.h
+V 27
+file mhk.7n5.r12197/1045041
+K 13
+fixed_debug.h
+V 26
+file mgo.7n5.r12461/636923
+K 15
+fixed_generic.h
+V 26
+file mln.7n5.r12461/633095
+K 12
+float_cast.h
+V 26
+file mex.7n5.r12461/629615
+K 10
+kiss_fft.c
+V 26
+file me8.7n5.r12461/625687
+K 10
+kiss_fft.h
+V 26
+file men.7n5.r12461/626345
+K 9
+laplace.c
+V 27
+file mq7.7n5.r12197/1042506
+K 9
+laplace.h
+V 27
+file mqj.7n5.r12197/1042906
+K 9
+mathops.c
+V 26
+file mig.7n5.r12461/637150
+K 9
+mathops.h
+V 26
+file mix.7n5.r12461/638475
+K 6
+mdct.c
+V 26
+file mnh.7n5.r12461/639989
+K 6
+mdct.h
+V 26
+file mnp.7n5.r12461/640862
+K 10
+mfrngcod.h
+V 27
+file mqf.7n5.r12197/1036836
+K 4
+mips
+V 23
+dir ob1.7n5.r12481/1309
+K 7
+modes.c
+V 26
+file mi4.7n5.r12461/636482
+K 7
+modes.h
+V 26
+file mii.7n5.r12461/637589
+K 18
+opus_custom_demo.c
+V 27
+file mgs.7n5.r12197/1040939
+K 12
+os_support.h
+V 26
+file mc7.7n5.r12461/629391
+K 7
+pitch.c
+V 26
+file mql.7n5.r12461/636702
+K 7
+pitch.h
+V 26
+file mqp.7n5.r12461/637807
+K 13
+quant_bands.c
+V 26
+file mox.7n5.r12461/624800
+K 13
+quant_bands.h
+V 26
+file mp7.7n5.r12461/625462
+K 6
+rate.c
+V 26
+file mpv.7n5.r12461/640428
+K 6
+rate.h
+V 26
+file mq3.7n5.r12461/625026
+K 13
+stack_alloc.h
+V 26
+file mkd.7n5.r12461/639132
+K 20
+static_modes_fixed.h
+V 26
+file mjb.7n5.r12461/633322
+K 29
+static_modes_fixed_arm_ne10.h
+V 26
+file onj.7n5.r12461/639357
+K 20
+static_modes_float.h
+V 26
+file mia.7n5.r12461/625911
+K 29
+static_modes_float_arm_ne10.h
+V 26
+file oe3.7n5.r12461/632441
+K 5
+tests
+V 22
+dir mbc.7n5.r12481/999
+K 4
+vq.c
+V 26
+file mdi.7n5.r12461/639571
+K 4
+vq.h
+V 26
+file mdk.7n5.r12461/640646
+K 3
+x86
+V 23
+dir ob2.7n5.r12481/1631
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 17
+.deps
+.dirstamp
+
+
+END
+ENDREP
+id: mba.7n5.r12481/4584
+type: dir
+pred: mba.7n5.r12461/643939
+count: 3
+text: 12481 1897 2618 2618 a69c7126ae35665bdfdf4738361f7e01
+props: 12481 4528 43 0 98a2b6b47578fb4479a310b7ea6c12c7
+cpath: /main/sipXmediaLib/contrib/libopus/opus/celt
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 16
+.deps
+.dirstamp
+
+END
+ENDREP
+id: mbl.7n5.r12481/4901
+type: dir
+pred: mbl.7n5.r12461/648919
+count: 3
+text: 12461 647799 1107 1107 dd7b865f1b4897794f61b4151413e2aa
+props: 12481 4846 42 0 e8c3fbf6ba205208d7d78140d6f5745e
+cpath: /main/sipXmediaLib/contrib/libopus/opus/src
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 6
+.deps
+
+END
+ENDREP
+id: ob5.7n5.r12481/5208
+type: dir
+pred: ob5.7n5.r12461/657810
+count: 1
+text: 12461 657647 150 150 b0a0bfefec7ed1aabc72cd903f111085
+props: 12481 5164 31 0 2174dc3044360e901d26d78b8a35acaf
+cpath: /main/sipXmediaLib/contrib/libopus/opus/silk/fixed/arm
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 6
+.deps
+
+END
+ENDREP
+id: ob7.7n5.r12481/5524
+type: dir
+pred: ob7.7n5.r12461/660487
+count: 1
+text: 12461 660326 148 148 2061df137796b81b826be4ea9f6d8c74
+props: 12481 5480 31 0 2174dc3044360e901d26d78b8a35acaf
+cpath: /main/sipXmediaLib/contrib/libopus/opus/silk/fixed/mips
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 6
+.deps
+
+END
+ENDREP
+id: ob8.7n5.r12481/5841
+type: dir
+pred: ob8.7n5.r12461/662676
+count: 1
+text: 12461 662540 123 123 1ddf21e3829be2b2af6697f050f8c0f6
+props: 12481 5797 31 0 2174dc3044360e901d26d78b8a35acaf
+cpath: /main/sipXmediaLib/contrib/libopus/opus/silk/fixed/x86
+copyroot: 10815 /main
+
+PLAIN
+K 25
+LTP_analysis_filter_FIX.c
+V 26
+file mpp.7n5.r12461/663803
+K 20
+LTP_scale_ctrl_FIX.c
+V 26
+file mcv.7n5.r12461/658228
+K 23
+apply_sine_window_FIX.c
+V 26
+file mfw.7n5.r12461/661157
+K 3
+arm
+V 23
+dir ob5.7n5.r12481/5208
+K 14
+autocorr_FIX.c
+V 26
+file mph.7n5.r12461/658465
+K 19
+burg_modified_FIX.c
+V 26
+file mpj.7n5.r12461/663097
+K 16
+corrMatrix_FIX.c
+V 26
+file mee.7n5.r12461/661397
+K 18
+encode_frame_FIX.c
+V 26
+file mod.7n5.r12461/663566
+K 14
+find_LPC_FIX.c
+V 26
+file mhy.7n5.r12461/659636
+K 14
+find_LTP_FIX.c
+V 26
+file mc2.7n5.r12461/662866
+K 21
+find_pitch_lags_FIX.c
+V 26
+file mnr.7n5.r12461/664531
+K 21
+find_pred_coefs_FIX.c
+V 26
+file mnj.7n5.r12461/664046
+K 9
+k2a_FIX.c
+V 26
+file mh2.7n5.r12461/659410
+K 13
+k2a_Q16_FIX.c
+V 26
+file mg4.7n5.r12461/663335
+K 10
+main_FIX.h
+V 26
+file mfs.7n5.r12461/658000
+K 4
+mips
+V 23
+dir ob7.7n5.r12481/5524
+K 26
+noise_shape_analysis_FIX.c
+V 26
+file mpl.7n5.r12461/658933
+K 25
+pitch_analysis_core_FIX.c
+V 26
+file mqb.7n5.r12461/664770
+K 15
+prefilter_FIX.c
+V 27
+file mlv.7n5.r12197/1062825
+K 19
+process_gains_FIX.c
+V 26
+file mqt.7n5.r12461/658697
+K 29
+regularize_correlations_FIX.c
+V 26
+file mjj.7n5.r12461/661631
+K 23
+residual_energy16_FIX.c
+V 26
+file mcq.7n5.r12461/660917
+K 21
+residual_energy_FIX.c
+V 26
+file mh4.7n5.r12461/660678
+K 13
+schur64_FIX.c
+V 26
+file mpf.7n5.r12461/661877
+K 11
+schur_FIX.c
+V 26
+file mgi.7n5.r12461/665249
+K 18
+silk_fixed.vcxproj
+V 27
+file me4.7n5.r12197/1067225
+K 26
+silk_fixed.vcxproj.filters
+V 27
+file mqn.7n5.r12197/1062609
+K 14
+solve_LS_FIX.c
+V 27
+file ml3.7n5.r12197/1067434
+K 13
+structs_FIX.h
+V 26
+file mgy.7n5.r12461/659179
+K 16
+vector_ops_FIX.c
+V 26
+file mjf.7n5.r12461/665015
+K 28
+warped_autocorrelation_FIX.c
+V 26
+file moj.7n5.r12461/664285
+K 3
+x86
+V 23
+dir ob8.7n5.r12481/5841
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 6
+.deps
+
+END
+ENDREP
+id: mbi.7n5.r12481/7925
+type: dir
+pred: mbi.7n5.r12461/667252
+count: 3
+text: 12481 6113 1755 1755 e9f1f470fd12a15ef06e3ae5e3ebf7e4
+props: 12481 7881 31 0 2174dc3044360e901d26d78b8a35acaf
+cpath: /main/sipXmediaLib/contrib/libopus/opus/silk/fixed
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 6
+.deps
+
+END
+ENDREP
+id: ob3.7n5.r12481/8237
+type: dir
+pred: ob3.7n5.r12461/679510
+count: 1
+text: 12461 678715 782 782 fcb1fa8cfcb1e0f648492e8c8f5a9dfe
+props: 12481 8193 31 0 2174dc3044360e901d26d78b8a35acaf
+cpath: /main/sipXmediaLib/contrib/libopus/opus/silk/arm
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 44
+.deps
+.dirstamp
+test_unit_LPC_inv_pred_gain
+
+END
+ENDREP
+id: oba.7n5.r12481/8586
+type: dir
+pred: oba.7n5.r12461/681981
+count: 1
+text: 12461 681897 71 71 4e9b25561387c76f4d7d36b9db00266f
+props: 12481 8503 70 0 38857748654693f498d6b55c77698ef2
+cpath: /main/sipXmediaLib/contrib/libopus/opus/silk/tests
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 6
+.deps
+
+END
+ENDREP
+id: ob9.7n5.r12481/8896
+type: dir
+pred: ob9.7n5.r12461/684565
+count: 1
+text: 12461 684379 173 173 13f5b7b5a4790ce9f22079c7a1e969ba
+props: 12481 8852 31 0 2174dc3044360e901d26d78b8a35acaf
+cpath: /main/sipXmediaLib/contrib/libopus/opus/silk/mips
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 16
+.deps
+.dirstamp
+
+END
+ENDREP
+id: obb.7n5.r12481/9218
+type: dir
+pred: obb.7n5.r12461/688582
+count: 1
+text: 12461 688209 360 360 d6063353f8b022029935caa00d94d517
+props: 12481 9163 42 0 e8c3fbf6ba205208d7d78140d6f5745e
+cpath: /main/sipXmediaLib/contrib/libopus/opus/silk/x86
+copyroot: 10815 /main
+
+PLAIN
+K 8
+A2NLSF.c
+V 26
+file mkt.7n5.r12461/673810
+K 5
+API.h
+V 26
+file mkl.7n5.r12461/689669
+K 5
+CNG.c
+V 26
+file mj1.7n5.r12461/672452
+K 20
+HP_variable_cutoff.c
+V 26
+file mhw.7n5.r12461/682396
+K 9
+Inlines.h
+V 26
+file miz.7n5.r12461/672004
+K 21
+LPC_analysis_filter.c
+V 26
+file me0.7n5.r12461/669322
+K 9
+LPC_fit.c
+V 26
+file oi3.7n5.r12461/681485
+K 19
+LPC_inv_pred_gain.c
+V 26
+file mo3.7n5.r12461/686340
+K 20
+LP_variable_cutoff.c
+V 26
+file me2.7n5.r12461/683297
+K 12
+MacroCount.h
+V 26
+file mhs.7n5.r12461/681037
+K 12
+MacroDebug.h
+V 26
+file mjx.7n5.r12461/656736
+K 8
+NLSF2A.c
+V 26
+file mge.7n5.r12461/668663
+K 9
+NLSF_VQ.c
+V 26
+file ml9.7n5.r12461/655363
+K 24
+NLSF_VQ_weights_laroia.c
+V 26
+file mgk.7n5.r12461/669555
+K 13
+NLSF_decode.c
+V 26
+file mqx.7n5.r12461/671590
+K 20
+NLSF_del_dec_quant.c
+V 26
+file mnb.7n5.r12461/655810
+K 13
+NLSF_encode.c
+V 26
+file mnn.7n5.r12461/681260
+K 16
+NLSF_stabilize.c
+V 26
+file mo7.7n5.r12461/672669
+K 13
+NLSF_unpack.c
+V 26
+file mqr.7n5.r12461/671146
+K 5
+NSQ.c
+V 26
+file mik.7n5.r12461/670690
+K 5
+NSQ.h
+V 26
+file okr.7n5.r12461/671815
+K 13
+NSQ_del_dec.c
+V 26
+file mcz.7n5.r12461/654242
+K 5
+PLC.c
+V 26
+file moh.7n5.r12461/689886
+K 5
+PLC.h
+V 26
+file mot.7n5.r12461/690779
+K 13
+SigProc_FIX.h
+V 26
+file mdo.7n5.r12461/667741
+K 5
+VAD.c
+V 26
+file mhm.7n5.r12461/656043
+K 12
+VQ_WMat_EC.c
+V 26
+file mdu.7n5.r12461/682627
+K 17
+ana_filt_bank_1.c
+V 26
+file mkx.7n5.r12461/702021
+K 3
+arm
+V 23
+dir ob3.7n5.r12481/8237
+K 12
+biquad_alt.c
+V 26
+file md7.7n5.r12461/679914
+K 12
+bwexpander.c
+V 26
+file mrn.7n5.r12461/654019
+K 15
+bwexpander_32.c
+V 26
+file mc0.7n5.r12461/686571
+K 21
+check_control_input.c
+V 26
+file mha.7n5.r12461/702699
+K 12
+code_signs.c
+V 26
+file mpr.7n5.r12461/680814
+K 9
+control.h
+V 26
+file mds.7n5.r12461/668883
+K 13
+control_SNR.c
+V 26
+file mpb.7n5.r12461/654469
+K 25
+control_audio_bandwidth.c
+V 26
+file mdq.7n5.r12461/668427
+K 15
+control_codec.c
+V 26
+file mld.7n5.r12461/656960
+K 7
+debug.c
+V 26
+file mq5.7n5.r12461/669104
+K 7
+debug.h
+V 26
+file mqh.7n5.r12461/670013
+K 9
+dec_API.c
+V 26
+file mov.7n5.r12461/700876
+K 13
+decode_core.c
+V 26
+file mfq.7n5.r12461/675378
+K 14
+decode_frame.c
+V 26
+file mjh.7n5.r12461/703161
+K 16
+decode_indices.c
+V 26
+file mol.7n5.r12461/673122
+K 19
+decode_parameters.c
+V 26
+file mg2.7n5.r12461/680138
+K 14
+decode_pitch.c
+V 26
+file mm7.7n5.r12461/688766
+K 15
+decode_pulses.c
+V 26
+file mof.7n5.r12461/689443
+K 16
+decoder_set_fs.c
+V 26
+file mn7.7n5.r12461/655583
+K 8
+define.h
+V 26
+file mcx.7n5.r12461/679694
+K 9
+enc_API.c
+V 26
+file mgm.7n5.r12461/685666
+K 16
+encode_indices.c
+V 26
+file mlp.7n5.r12461/685439
+K 15
+encode_pulses.c
+V 26
+file mbo.7n5.r12461/684750
+K 8
+errors.h
+V 26
+file mga.7n5.r12461/667522
+K 5
+fixed
+V 23
+dir mbi.7n5.r12481/7925
+K 5
+float
+V 25
+dir mbk.7n5.r12461/700606
+K 12
+gain_quant.c
+V 26
+file mp1.7n5.r12461/674031
+K 14
+init_decoder.c
+V 26
+file mmp.7n5.r12461/701796
+K 14
+init_encoder.c
+V 26
+file mej.7n5.r12461/686114
+K 20
+inner_prod_aligned.c
+V 26
+file mhu.7n5.r12461/682165
+K 13
+interpolate.c
+V 26
+file mnx.7n5.r12461/683073
+K 9
+lin2log.c
+V 26
+file md9.7n5.r12461/654921
+K 9
+log2lin.c
+V 26
+file mpn.7n5.r12461/655142
+K 8
+macros.h
+V 26
+file mp5.7n5.r12461/674936
+K 6
+main.h
+V 26
+file mmr.7n5.r12461/702249
+K 4
+mips
+V 23
+dir ob9.7n5.r12481/8896
+K 19
+pitch_est_defines.h
+V 26
+file mpx.7n5.r12461/667968
+K 18
+pitch_est_tables.c
+V 26
+file mf1.7n5.r12461/689215
+K 15
+process_NLSFs.c
+V 26
+file mcf.7n5.r12461/690552
+K 17
+quant_LTP_gains.c
+V 26
+file mrh.7n5.r12461/674706
+K 11
+resampler.c
+V 26
+file mrj.7n5.r12461/675156
+K 17
+resampler_down2.c
+V 26
+file mpd.7n5.r12461/654693
+K 19
+resampler_down2_3.c
+V 26
+file mkr.7n5.r12461/701098
+K 19
+resampler_private.h
+V 26
+file mh8.7n5.r12461/702469
+K 23
+resampler_private_AR2.c
+V 26
+file mfk.7n5.r12461/674472
+K 27
+resampler_private_IIR_FIR.c
+V 26
+file mp3.7n5.r12461/701558
+K 28
+resampler_private_down_FIR.c
+V 26
+file mnd.7n5.r12461/656261
+K 26
+resampler_private_up2_HQ.c
+V 26
+file mby.7n5.r12461/670909
+K 15
+resampler_rom.c
+V 26
+file mm3.7n5.r12461/672225
+K 15
+resampler_rom.h
+V 26
+file mmf.7n5.r12461/672896
+K 19
+resampler_structs.h
+V 26
+file mck.7n5.r12461/701329
+K 13
+shell_coder.c
+V 26
+file mfg.7n5.r12461/673349
+K 10
+sigm_Q15.c
+V 26
+file mq1.7n5.r12461/682852
+K 19
+silk_common.vcxproj
+V 27
+file mon.7n5.r12197/1083451
+K 27
+silk_common.vcxproj.filters
+V 27
+file ml1.7n5.r12197/1095286
+K 6
+sort.c
+V 26
+file mkv.7n5.r12461/674255
+K 17
+stereo_LR_to_MS.c
+V 26
+file mic.7n5.r12461/670233
+K 17
+stereo_MS_to_LR.c
+V 26
+file mec.7n5.r12461/670463
+K 20
+stereo_decode_pred.c
+V 26
+file mrb.7n5.r12461/690102
+K 20
+stereo_encode_pred.c
+V 26
+file mqd.7n5.r12461/684977
+K 23
+stereo_find_predictor.c
+V 26
+file mho.7n5.r12461/656502
+K 19
+stereo_quant_pred.c
+V 26
+file mkp.7n5.r12461/690995
+K 9
+structs.h
+V 26
+file mg6.7n5.r12461/680592
+K 15
+sum_sqr_shift.c
+V 26
+file mk3.7n5.r12461/683529
+K 15
+table_LSF_cos.c
+V 26
+file mo1.7n5.r12461/685888
+K 8
+tables.h
+V 26
+file mf5.7n5.r12461/690332
+K 12
+tables_LTP.c
+V 26
+file mk5.7n5.r12461/669790
+K 22
+tables_NLSF_CB_NB_MB.c
+V 26
+file ml5.7n5.r12461/675604
+K 19
+tables_NLSF_CB_WB.c
+V 26
+file mgg.7n5.r12461/685207
+K 13
+tables_gain.c
+V 26
+file mrz.7n5.r12461/680368
+K 14
+tables_other.c
+V 26
+file mj3.7n5.r12461/688991
+K 18
+tables_pitch_lag.c
+V 26
+file mgc.7n5.r12461/668198
+K 25
+tables_pulses_per_block.c
+V 26
+file mmj.7n5.r12461/673574
+K 5
+tests
+V 23
+dir oba.7n5.r12481/8586
+K 19
+tuning_parameters.h
+V 26
+file mco.7n5.r12461/702931
+K 9
+typedef.h
+V 26
+file mqz.7n5.r12461/671370
+K 3
+x86
+V 23
+dir obb.7n5.r12481/9218
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 16
+.deps
+.dirstamp
+
+END
+ENDREP
+id: mbh.7n5.r12481/15000
+type: dir
+pred: mbh.7n5.r12461/708858
+count: 3
+text: 12481 9484 5448 5448 c252f7cc80b9964e22733fa3fa5257b5
+props: 12481 14945 42 0 e8c3fbf6ba205208d7d78140d6f5745e
+cpath: /main/sipXmediaLib/contrib/libopus/opus/silk
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 82
+.deps
+.dirstamp
+test_opus_api
+test_opus_decode
+test_opus_encode
+test_opus_padding
+
+END
+ENDREP
+id: mbm.7n5.r12481/15385
+type: dir
+pred: mbm.7n5.r12461/653756
+count: 3
+text: 12461 652950 793 793 6b30b0fae893eeb1c4e883ecb88e93e6
+props: 12481 15264 108 0 aadf2499190ccc5260cf46d1b5286211
+cpath: /main/sipXmediaLib/contrib/libopus/opus/tests
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Doxyfile.in
+V 26
+file mr5.7n5.r12461/710628
+K 11
+Makefile.am
+V 26
+file mp9.7n5.r12461/710852
+K 4
+TODO
+V 26
+file oed.7n5.r12461/710243
+K 17
+customdoxygen.css
+V 26
+file ms3.7n5.r12461/709344
+K 11
+footer.html
+V 26
+file mch.7n5.r12461/709574
+K 11
+header.html
+V 27
+file mlf.7n5.r12197/1103171
+K 13
+opus_logo.svg
+V 26
+file mdw.7n5.r12461/710019
+K 17
+trivial_example.c
+V 26
+file oid.7n5.r12461/710428
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 36
+.deps
+Makefile
+Makefile.in
+Doxyfile
+
+END
+ENDREP
+id: mbe.7n5.r12481/16142
+type: dir
+pred: mbe.7n5.r12461/711539
+count: 3
+text: 12481 15651 403 403 8ce7ed91beb4dbcb94ad9f107ecc3682
+props: 12481 16067 62 0 3470a4361d94c3a4b812a6bf296aee30
+cpath: /main/sipXmediaLib/contrib/libopus/opus/doc
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 6
+.deps
+
+END
+ENDREP
+id: mbf.7n5.r12481/16448
+type: dir
+pred: mbf.7n5.r12461/714158
+count: 2
+text: 12461 713889 256 256 d7a6f1f0327f1d025fda4de116d42574
+props: 12481 16404 31 0 2174dc3044360e901d26d78b8a35acaf
+cpath: /main/sipXmediaLib/contrib/libopus/opus/include
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 6
+.deps
+
+END
+ENDREP
+id: obc.7n5.r12481/16759
+type: dir
+pred: obc.7n5.r12461/718708
+count: 1
+text: 12461 717980 715 715 e0342f2e99475b5b13fb9423062d9a4c
+props: 12481 16715 31 0 2174dc3044360e901d26d78b8a35acaf
+cpath: /main/sipXmediaLib/contrib/libopus/opus/win32/VS2015
+copyroot: 10815 /main
+
+PLAIN
+K 6
+VS2015
+V 24
+dir obc.7n5.r12481/16759
+K 8
+config.h
+V 26
+file mmd.7n5.r12461/719122
+K 14
+genversion.bat
+V 26
+file miq.7n5.r12461/718896
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 6
+.deps
+
+END
+ENDREP
+id: mbn.7n5.r12481/17230
+type: dir
+pred: mbn.7n5.r12461/719498
+count: 2
+text: 12481 17031 142 142 46857a6bcd6a73000947009f2a964fba
+props: 12481 17186 31 0 2174dc3044360e901d26d78b8a35acaf
+cpath: /main/sipXmediaLib/contrib/libopus/opus/win32
+copyroot: 10815 /main
+
+PLAIN
+K 7
+AUTHORS
+V 27
+file mep.7n5.r12197/1035382
+K 7
+COPYING
+V 26
+file mfi.7n5.r12461/712308
+K 9
+ChangeLog
+V 27
+file mn1.7n5.r12197/1106136
+K 7
+INSTALL
+V 26
+file mor.7n5.r12461/711802
+K 11
+Makefile.am
+V 26
+file mq9.7n5.r12461/720202
+K 13
+Makefile.mips
+V 26
+file oen.7n5.r12461/714370
+K 13
+Makefile.unix
+V 26
+file mkj.7n5.r12461/650664
+K 4
+NEWS
+V 27
+file mfm.7n5.r12197/1104291
+K 6
+README
+V 26
+file mlb.7n5.r12461/714782
+K 4
+celt
+V 23
+dir mba.7n5.r12481/4584
+K 15
+celt_headers.mk
+V 26
+file mkb.7n5.r12461/649182
+K 15
+celt_sources.mk
+V 26
+file mr7.7n5.r12461/651103
+K 7
+compile
+V 26
+file mc5.7n5.r12461/649403
+K 11
+config.h.in
+V 26
+file mjv.7n5.r12461/715214
+K 12
+configure.ac
+V 26
+file mrd.7n5.r12461/709123
+K 7
+depcomp
+V 26
+file mit.7n5.r12461/619401
+K 3
+doc
+V 24
+dir mbe.7n5.r12481/16142
+K 7
+include
+V 24
+dir mbf.7n5.r12481/16448
+K 2
+m4
+V 22
+dir mbg.7n5.r12481/386
+K 7
+missing
+V 26
+file mdy.7n5.r12461/719929
+K 22
+opus-uninstalled.pc.in
+V 26
+file mfo.7n5.r12461/712521
+K 7
+opus.m4
+V 27
+file mrf.7n5.r12197/1101805
+K 10
+opus.pc.in
+V 26
+file mgu.7n5.r12461/649955
+K 8
+opus.sln
+V 27
+file mea.7n5.r12197/1035000
+K 15
+opus_headers.mk
+V 26
+file md3.7n5.r12461/714562
+K 15
+opus_sources.mk
+V 26
+file mjt.7n5.r12461/714995
+K 15
+package_version
+V 26
+file mr9.7n5.r12461/650884
+K 4
+silk
+V 24
+dir mbh.7n5.r12481/15000
+K 15
+silk_headers.mk
+V 26
+file mlj.7n5.r12461/719708
+K 15
+silk_sources.mk
+V 26
+file mbq.7n5.r12461/720421
+K 3
+src
+V 23
+dir mbl.7n5.r12481/4901
+K 11
+test-driver
+V 26
+file ocu.7n5.r12461/712061
+K 5
+tests
+V 24
+dir mbm.7n5.r12481/15385
+K 10
+version.mk
+V 27
+file mcb.7n5.r12197/1054066
+K 5
+win32
+V 24
+dir mbn.7n5.r12481/17230
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 215
+.deps
+aclocal.m4
+autom4te.cache
+config.guess
+config.h
+config.log
+config.status
+config.sub
+configure
+instal-sh
+ltmain.sh
+libtool
+Makefile
+Makefile.in
+opus.pc
+opus-uninstalled.pc
+opus_demo
+repacketizer_demo
+stamp-h1
+
+
+END
+ENDREP
+id: mb8.7n5.r12481/19390
+type: dir
+pred: mb8.7n5.r12469/3034
+count: 6
+text: 12481 17494 1628 1628 e65bfa5f9f8e7db60303ec449bce7faf
+props: 12481 19135 242 0 514115815dc31d79ce42644402df2e84
+cpath: /main/sipXmediaLib/contrib/libopus/opus
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file lwa.7n5.r12192/730
+K 10
+README.TXT
+V 26
+file lw7.7n5.r12461/723433
+K 4
+opus
+V 24
+dir mb8.7n5.r12481/19390
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 6
+.deps
+
+END
+ENDREP
+id: lw5.7n5.r12481/19842
+type: dir
+pred: lw5.7n5.r12469/3440
+count: 7
+text: 12481 19649 136 136 c4479e28c80cd2aa83be6383d6abf36e
+props: 12481 19798 31 0 2174dc3044360e901d26d78b8a35acaf
+cpath: /main/sipXmediaLib/contrib/libopus
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file f69.7n5.r12460/239
+K 7
+android
+V 25
+dir g9q.7n5.r12196/415625
+K 14
+buildFFmpeg.sh
+V 23
+file h4u.7n5.r11741/652
+K 8
+libamrnb
+V 22
+dir f32.7n5.r12479/381
+K 8
+libamrwb
+V 23
+dir f41.7n5.r12477/1608
+K 6
+libgsm
+V 25
+dir ebx.7n5.r12361/118167
+K 7
+libilbc
+V 22
+dir ezs.7n5.r12480/598
+K 7
+libopus
+V 24
+dir lw5.7n5.r12481/19842
+K 10
+libspandsp
+V 25
+dir f50.7n5.r12361/109423
+K 8
+libspeex
+V 23
+dir fz0.7n5.r12478/2055
+END
+ENDREP
+id: ebw.7n5.r12481/20544
+type: dir
+pred: ebw.7n5.r12480/1294
+count: 100
+text: 12481 20093 438 438 6e57a48ad4ffef99917fca410fa381fb
+props: 12208 0 48 0 86168c69db02cf3306494c6df91bc2ed
+cpath: /main/sipXmediaLib/contrib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 22
+file g92.7n5.r12289/56
+K 12
+CONTRIBUTORS
+V 25
+file b41.0.r6469/22054157
+K 9
+ChangeLog
+V 25
+file b42.0.r6469/22025314
+K 7
+INSTALL
+V 24
+file b43.0.r6955/1728056
+K 11
+Makefile.am
+V 24
+file b44.7n5.r12466/9317
+K 4
+NEWS
+V 25
+file b45.0.r6469/22058814
+K 6
+README
+V 24
+file b46.0.r6955/1727035
+K 4
+TODO
+V 25
+file b47.0.r6469/22057442
+K 9
+acsite.m4
+V 24
+file b48.0.r6955/1726702
+K 17
+autoconf259.patch
+V 23
+file fxj.7n5.r10953/747
+K 3
+bin
+V 22
+dir b49.7n5.r11821/958
+K 12
+configure.ac
+V 25
+file b4k.7n5.r12472/10895
+K 7
+contrib
+V 24
+dir ebw.7n5.r12481/20544
+K 3
+doc
+V 22
+dir b4l.7n5.r11821/663
+K 26
+dtmf5_48khz_16b_signed.wav
+V 23
+file f7a.0.r10516/48478
+K 7
+include
+V 24
+dir b4p.7n5.r12470/16696
+K 3
+lib
+V 24
+dir b8u.0.r6469/22057603
+K 4
+meta
+V 24
+dir b8v.0.r6469/22024982
+K 25
+sipXmediaLib-msvc8.vcproj
+V 24
+file e76.7n5.r11952/3545
+K 16
+sipXmediaLib.dsp
+V 24
+file up.7nl.r11401/19813
+K 16
+sipXmediaLib.vcp
+V 22
+file e6i.0.r9956/38866
+K 19
+sipXmediaLib.vcproj
+V 24
+file b92.7n5.r12138/5904
+K 20
+sipXmediaLib.vcxproj
+V 26
+file nqq.7n5.r12361/119245
+K 29
+sipXmediaLibTest-msvc8.vcproj
+V 24
+file e77.7n5.r12273/3350
+K 20
+sipXmediaLibTest.dsp
+V 23
+file mh.7nm.r12273/3109
+K 20
+sipXmediaLibTest.sln
+V 24
+file eaj.7n5.r12138/5652
+K 20
+sipXmediaLibTest.vcp
+V 22
+file e6j.0.r8865/20512
+K 23
+sipXmediaLibTest.vcproj
+V 24
+file eak.7n5.r12273/3560
+K 24
+sipXmediaLibTest.vcxproj
+V 26
+file nqo.7n5.r12361/119064
+K 20
+sipxmedialib.spec.in
+V 24
+file b93.7n5.r10867/5783
+K 3
+src
+V 24
+dir b94.7n5.r12472/10654
+END
+ENDREP
+id: b40.7n5.r12481/22310
+type: dir
+pred: b40.7n5.r12480/3055
+count: 1848
+text: 12481 20785 1512 1512 7b9e0ce1ca5a92b4fddad8769d79c53b
+props: 12332 3448 1828 0 9538f009da0d305e6e1bb316bb7369dd
+cpath: /main/sipXmediaLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g8y.7n5.r12172/315
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 22
+dir 9wj.7n5.r12476/893
+K 15
+configure.patch
+V 23
+file o60.7n5.r12434/574
+K 10
+readme.txt
+V 23
+file 9ws.7n5.r12464/516
+K 7
+scripts
+V 23
+dir fxk.7n5.r12171/1617
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r12467/3757
+K 19
+sipXmediaAdapterLib
+V 24
+dir b2p.7n5.r12466/13170
+K 12
+sipXmediaLib
+V 24
+dir b40.7n5.r12481/22310
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r12471/5414
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r12466/6703
+K 11
+sipXtackLib
+V 24
+dir boq.7n5.r12466/15876
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r12481/23260
+type: dir
+pred: 9wi.7n5.r12480/4002
+count: 3419
+text: 12481 22551 696 696 8b8cffb0052fb92494ab4095044a4ff4
+props: 12114 59175 76 0 1dd3880c3272b32f88d1700b38908223
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r12113/17441
+K 4
+main
+V 24
+dir 9wi.7n5.r12481/23260
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r12481/23658
+type: dir
+pred: 0.0.r12480/4397
+count: 12481
+text: 12481 23485 160 160 d31178c070a345fa042425d4eca0c8a4
+cpath: /
+copyroot: 0 /
+
+ob1.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/celt/mips
+
+mb8.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus/opus
+
+mbi.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/silk/fixed
+
+mbh.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/silk
+
+mbm.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/tests
+
+obc.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/win32/VS2015
+
+mbn.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/win32
+
+mf9.7n5.r12469/311 delete false false /main/sipXmediaLib/contrib/libopus/opus/m4/libtool.m4
+
+oba.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/silk/tests
+
+mbe.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/doc
+
+oaz.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/celt/arm
+
+ob7.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/silk/fixed/mips
+
+ob9.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/silk/mips
+
+lw5.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus
+
+ob2.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/celt/x86
+
+mlr.7n5.r12461/720862 delete false false /main/sipXmediaLib/contrib/libopus/opus/install-sh
+
+mbg.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/m4
+
+ob5.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/silk/fixed/arm
+
+mk9.7n5.r12461/618900 delete false false /main/sipXmediaLib/contrib/libopus/opus/configure
+
+ob3.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/silk/arm
+
+mbf.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/include
+
+ob8.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/silk/fixed/x86
+
+mhi.7n5.r12461/709795 delete false false /main/sipXmediaLib/contrib/libopus/opus/doc/Makefile.in
+
+mba.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/celt
+
+obb.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/silk/x86
+
+mbl.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/src
+
+mbc.7n5.t12480-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/celt/tests
+
+mc9.7n5.r12461/649675 delete false false /main/sipXmediaLib/contrib/libopus/opus/config.guess
+
+mm5.7n5.r12203/3443 delete false false /main/sipXmediaLib/contrib/libopus/opus/config.h
+
+mm9.7n5.r12461/650171 delete false false /main/sipXmediaLib/contrib/libopus/opus/ltmain.sh
+
+mo9.7n5.r12461/650391 delete false false /main/sipXmediaLib/contrib/libopus/opus/config.sub
+
+
+23658 23807

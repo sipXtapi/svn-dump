@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-20T17:57:08.804398Z
+K 7
+svn:log
+V 119
+http://track.sipfoundry.org/browse/XCF-28
+Update the documentation to tell the relationship between sipX and
+Postgres.
+
+END

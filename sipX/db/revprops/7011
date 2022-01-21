@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-06-28T20:41:17.460025Z
+K 7
+svn:log
+V 131
+Add a test for the readFile SOAP method to check that a WAV file can be read properly, as an example of a file with binary content
+
+END

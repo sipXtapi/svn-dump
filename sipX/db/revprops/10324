@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-10-15T14:16:55.342994Z
+K 7
+svn:log
+V 107
+Separate definition from implementation in MpGenericResourceTest class, update all projects for the change.
+END

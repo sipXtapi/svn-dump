@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-30T17:16:39.735883Z
+K 7
+svn:log
+V 102
+Bugfix - use .data() method to get const char* out of a UtlString when substituting in format strings!
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-06-13T15:01:40.293513Z
+K 7
+svn:log
+V 71
+XCF-1088 trim spaces in Manufacturer and Model when importing CSV data
+
+END

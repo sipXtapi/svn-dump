@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-08T18:30:56.037437Z
+K 7
+svn:log
+V 55
+FIX BUILD: make mailstore upgrade unit tests executable
+END

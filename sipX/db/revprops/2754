@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-07-25T20:36:44.691469Z
+K 7
+svn:log
+V 560
+Updated configuration to location of prompts, .vxml scripts etc.  
+You will also find some commented out configuration changes related
+to file:/// urls.   See voicemail.xml.in.in in my next check-in for
+more changes.  I spent way too much time attempting to convert from
+http:// urls to file:/// urls for performance reasons.  SBinetURL.cpp
+half handles relatively file URLs (looks like by mistake) -- Either we
+will need to switch to full file:// urls for root.vxml or I need to
+spend more timing to understand if changing SBinetURL is the correct
+approach.
+
+
+END

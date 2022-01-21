@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-11-08T18:54:21.446708Z
+K 7
+svn:log
+V 149
+Add HAVE_SPEEX to sipXmediaLibTest-msvc8, for future tests that may use SPEEX.
+Doesn't change much, since speex is needed for sipXmediaLibTest now.
+
+
+END

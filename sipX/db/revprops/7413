@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2006-09-05T16:07:46.569209Z
+K 7
+svn:log
+V 134
+Correct Time-based AutoAttendent algorithm
+Adjust for 12 AM (0 hours), and 1-11 PM (13-23 hours), but not 12 PM
+Fixes XMR-72.
+--Woof!
+
+END

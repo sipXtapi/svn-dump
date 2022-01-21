@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-03-02T20:26:26.814404Z
+K 7
+svn:log
+V 129
+Added sipxConfigSetSubscribeTimeout and sipxConfigSetRegisterPeriod methods to the
+SipRefreshMgr.  To be used by sipXtapi layer.
+
+END

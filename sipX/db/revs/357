@@ -1,0 +1,247 @@
+PLAIN
+K 10
+svn:ignore
+V 35
+Doxyfile
+Makefile
+Makefile.in
+html
+
+END
+ENDREP
+id: ac.0.r357/74
+type: dir
+pred: ac.0.r347/1625
+count: 8
+text: 347 1441 171 171 4b20523f3bc312c6dc6ac26f40c5e4b6
+props: 357 0 61 0 0fce077ff8295d6e995ce2cbf9bb0693
+cpath: /old/sipXportLib/main/doc
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 154
+config.guess
+config.sub
+depcomp
+install-sh
+ltmain.sh
+missing
+mkinstalldirs
+sipX-config
+sipXcommon.mak
+sipxportlib-buildstamp.cpp
+sipxportlib-buildstamp.h
+
+END
+ENDREP
+id: 91.0.r357/480
+type: dir
+pred: 91.0.r356/1116
+count: 88
+text: 356 727 376 376 136a1b7814eb22e453e730a7d9482025
+props: 357 286 181 0 d91faeffcb59d0bdb61d986dbe0db8ba
+cpath: /old/sipXportLib/main/config
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 40
+Makefile
+Makefile.in
+sipxportlib-config
+
+END
+ENDREP
+id: as.0.r357/778
+type: dir
+pred: as.0.r356/1662
+count: 8
+text: 356 1562 87 87 53ab55efe96b33b88e9c768d8eaf7671
+props: 357 699 66 0 79ca9674fde76e6cd98a47b034acc3de
+cpath: /old/sipXportLib/main/bin
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 19
+file 4.0.r22/520744
+K 9
+ChangeLog
+V 17
+file 5.0.r310/497
+K 7
+INSTALL
+V 18
+file 6.0.r343/1277
+K 7
+LICENSE
+V 19
+file 7.0.r22/418615
+K 11
+Makefile.am
+V 18
+file 8.0.r355/1362
+K 4
+NEWS
+V 19
+file 9.0.r22/520483
+K 6
+README
+V 16
+file a.0.r99/462
+K 4
+TODO
+V 18
+file b.0.r25/34332
+K 9
+acsite.m4
+V 19
+file c.0.r22/469495
+K 3
+bin
+V 17
+dir as.0.r357/778
+K 6
+config
+V 17
+dir 91.0.r357/480
+K 12
+configure.ac
+V 17
+file d.0.r347/987
+K 3
+doc
+V 16
+dir ac.0.r357/74
+K 7
+include
+V 17
+dir e.0.r353/4135
+K 15
+sipXportLib.dsp
+V 19
+file 4c.0.r237/2071
+K 19
+sipxportlib.spec.in
+V 19
+file aq.0.r355/1584
+K 3
+src
+V 18
+dir 4d.0.r352/2188
+K 12
+syslogviewer
+V 18
+dir 8y.0.r337/1290
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 217
+BUILDSTAMP
+Debug
+Makefile
+Makefile.in
+Release
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxportlib-*.rpm
+sipxportlib-*.tar.gz
+sipxportlib.spec
+stamp-h1
+textfiles
+
+K 17
+svnmerge-2.6-head
+V 55
+https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 9
+1-311,344
+END
+ENDREP
+id: 3.0.r357/2060
+type: dir
+pred: 3.0.r356/2572
+count: 307
+text: 357 991 678 678 f7d2b836ab04e97b6a7112817b4040f4
+props: 357 1682 365 0 862097bfe4573ca428fdadce097781b4
+cpath: /old/sipXportLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir ar.0.r346/2871
+K 4
+main
+V 17
+dir 3.0.r357/2060
+K 4
+tags
+V 18
+dir an.0.r336/1000
+END
+ENDREP
+id: 2.0.r357/2392
+type: dir
+pred: 2.0.r356/2902
+count: 355
+text: 357 2273 106 106 f6a609c4893146c0228da3f4fab59555
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r357/2392
+END
+ENDREP
+id: 1.0.r357/2603
+type: dir
+pred: 1.0.r356/3113
+count: 356
+text: 357 2546 44 44 bdd3971a63701a984ee6184ecf36a500
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r357/2603
+END
+ENDREP
+id: 0.0.r357/2791
+type: dir
+pred: 0.0.r356/3301
+count: 357
+text: 357 2743 35 35 6146be081f9e53f851728d6a498483ec
+cpath: /
+copyroot: 0 /
+
+3.0.t356-1 modify false true /old/sipXportLib/main
+
+91.0.t356-1 modify false true /old/sipXportLib/main/config
+
+ac.0.t356-1 modify false true /old/sipXportLib/main/doc
+
+as.0.t356-1 modify false true /old/sipXportLib/main/bin
+
+
+2791 2928

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-08-28T20:42:29.709174Z
+K 7
+svn:log
+V 68
+XCF-861 Put users in chroot jail, restore vsftpd config on uninstall
+END

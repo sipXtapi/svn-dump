@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-02-15T17:20:58.894831Z
+K 7
+svn:log
+V 98
+XCF-1066 - remove links and content to mediaserver web ui portal. direct users to sipxconfig login
+END

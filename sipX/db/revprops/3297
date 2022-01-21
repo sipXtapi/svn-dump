@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-12-28T21:17:36.335974Z
+K 7
+svn:log
+V 89
+Dial plan list page defined in JSF (to be moved to WEB project and rewritten in Tapestry)
+END

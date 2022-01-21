@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-07-02T00:17:23.617642Z
+K 7
+svn:log
+V 346
+Huge update jitter juffer, decoder and surrounding stuff.
+This check in introduce new APIs and ways to work for such things as JB, PLC and VAD.
+At this moment it implements simple fixed length jitter buffer with primitive silence substitution PLC and real VAD. This will be improved over time, but do not expect this to work perfectly right now.
+
+END

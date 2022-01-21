@@ -1,0 +1,1336 @@
+PLAIN
+K 13
+svn:externals
+V 72
+config https://scm.sipfoundry.org/rep/sipX/branches/solaris_port/config
+
+K 10
+svn:ignore
+V 149
+BUILDSTAMP
+Makefile
+Makefile.in
+SVN-VERSION
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 55
+https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 41
+1-311,338-339,344,358,360,362,369-373,396
+K 17
+svnmerge-2.8-head
+V 55
+https://scm.sipfoundry.org/rep/sipXportLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 49
+1-430,435,437-438,444,453,463,477,489,492-493,579
+K 20
+svnmerge-noglib-head
+V 69
+https://paradise.pingtel.com/rep/sipXportLib/branches/sipxtapi-noglib
+K 20
+svnmerge-noglib-revs
+V 5
+1-162
+K 24
+svnmerge-noresparse-head
+V 73
+https://paradise.pingtel.com/rep/sipXportLib/branches/sipxtapi-noresparse
+K 24
+svnmerge-noresparse-revs
+V 5
+1-158
+K 22
+svnmerge-sipxtapi-head
+V 62
+https://paradise.pingtel.com/rep/sipXportLib/branches/sipxtapi
+K 28
+svnmerge-sipxtapi-port0-head
+V 62
+https://paradise.pingtel.com/rep/sipXportLib/branches/sipxtapi
+K 28
+svnmerge-sipxtapi-port0-revs
+V 5
+1-209
+K 22
+svnmerge-sipxtapi-revs
+V 5
+1-204
+K 22
+svnmerge-user_pin-head
+V 60
+https://scm.sipfoundry.org/rep/sipXportLib/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-535
+K 23
+svnmerge-user_ping-head
+V 61
+https://scm.sipfoundry.org/rep/sipXportLib/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-484
+K 19
+svnmerge-video-head
+V 81
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/sipxtapi-video/sipXportLib
+K 19
+svnmerge-video-revs
+V 6
+1-3142
+END
+ENDREP
+id: 3.39s.r6459/1583
+type: dir
+pred: 3.1ib.r6433/14579
+count: 563
+text: 6433 13661 905 905 3a7aaadbaba589db980304ee459a1f83
+props: 6459 0 1570 0 84dc5f3ffe471f109d32041e494cb6c4
+cpath: /branches/solaris_port/sipXportLib
+copyroot: 4813 /main/sipXportLib
+
+PLAIN
+K 13
+svn:externals
+V 72
+config https://scm.sipfoundry.org/rep/sipX/branches/solaris_port/config
+
+K 10
+svn:ignore
+V 241
+BUILDSTAMP
+Makefile
+Makefile.in
+SVN-VERSION
+aclocal.m4
+authproxy-config.in.tmp
+authrules.xml.in.tmp
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+forwardingrules.xml.in.tmp
+libtool
+proxy-config.in.tmp
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 53
+https://scm.sipfoundry.org/rep/sipXproxy/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 24
+1-95,101,115,118,132,138
+K 17
+svnmerge-2.8-head
+V 53
+https://scm.sipfoundry.org/rep/sipXproxy/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 29
+1-154,157,161-162,166,173,200
+K 22
+svnmerge-user_pin-head
+V 58
+https://scm.sipfoundry.org/rep/sipXproxy/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-180
+K 23
+svnmerge-user_ping-head
+V 59
+https://scm.sipfoundry.org/rep/sipXproxy/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-174
+END
+ENDREP
+id: 1vt.39t.r6459/2753
+type: dir
+pred: 1vt.1ic.r6322/6795
+count: 151
+text: 6322 6024 758 758 567ea1055bfbee795f88a8fafbbbe671
+props: 6459 1837 903 0 154710f0a7aa56c7e7569afc6f964e41
+cpath: /branches/solaris_port/sipXproxy
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 13
+svn:externals
+V 72
+config https://scm.sipfoundry.org/rep/sipX/branches/solaris_port/config
+
+K 10
+svn:ignore
+V 171
+BUILDSTAMP
+Makefile
+Makefile.in
+SVN-VERSION
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+mediaserver-config.in
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 52
+https://scm.sipfoundry.org/rep/sipXvxml/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 25
+1-141,144-145,153,160,188
+K 17
+svnmerge-2.8-head
+V 52
+https://scm.sipfoundry.org/rep/sipXvxml/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 45
+1-226,230-231,234-237,239,241,244,251,259,287
+K 22
+svnmerge-user_pin-head
+V 57
+https://scm.sipfoundry.org/rep/sipXvxml/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-273
+K 23
+svnmerge-user_ping-head
+V 58
+https://scm.sipfoundry.org/rep/sipXvxml/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-256
+END
+ENDREP
+id: 22d.39x.r6459/3866
+type: dir
+pred: 22d.1ig.r6322/8280
+count: 216
+text: 6322 7535 732 732 5dece0fbd7617504a18e89131af68c30
+props: 6459 3007 846 0 ebe79e04b45008981cba61b0b787395a
+cpath: /branches/solaris_port/sipXvxml
+copyroot: 4813 /main/sipXvxml
+
+PLAIN
+K 13
+svn:externals
+V 72
+config https://scm.sipfoundry.org/rep/sipX/branches/solaris_port/config
+
+K 10
+svn:ignore
+V 176
+BUILDSTAMP
+Makefile
+Makefile.in
+SVN-VERSION
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+httpd-sipxchange-config.sh
+libtool
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 51
+https://scm.sipfoundry.org/rep/sipXpbx/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 61
+1-307,310-311,316-317,321-324,326,337,341,343,351,366-367,391
+K 17
+svnmerge-2.8-head
+V 51
+https://scm.sipfoundry.org/rep/sipXpbx/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 97
+1-434,437-441,444,447,450,452,458,461,463,466,471,474,484,489-490,503-504,508,514,517,547-548,573
+K 22
+svnmerge-user_pin-head
+V 56
+https://scm.sipfoundry.org/rep/sipXpbx/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-530
+K 23
+svnmerge-user_ping-head
+V 57
+https://scm.sipfoundry.org/rep/sipXpbx/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-479
+END
+ENDREP
+id: 5g6.39q.r6459/5066
+type: dir
+pred: 5g6.1i9.r6437/5972
+count: 529
+text: 6437 5078 881 881 0b27c7f00160d92a4a281d5614cdb2c5
+props: 6459 4118 935 0 7e2403d20d0938ee2329f57b30e15541
+cpath: /branches/solaris_port/sipXpbx
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 13
+svn:externals
+V 72
+config https://scm.sipfoundry.org/rep/sipX/branches/solaris_port/config
+
+K 10
+svn:ignore
+V 151
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+bbridge.spec
+stamp-h1
+
+
+END
+ENDREP
+id: 8dl.39l.r6459/5604
+type: dir
+pred: 8dl.0.r6135/2208
+count: 82
+text: 6135 1778 417 417 7fa7eed5055cd1c50ae2e0b36c4a6864
+props: 6459 5316 275 0 2852391b2532a717de1212f405bcd6e5
+cpath: /branches/solaris_port/bbridge
+copyroot: 6454 /branches/solaris_port
+
+PLAIN
+K 13
+svn:externals
+V 72
+config https://scm.sipfoundry.org/rep/sipX/branches/solaris_port/config
+
+K 10
+svn:ignore
+V 149
+BUILDSTAMP
+Makefile
+Makefile.in
+SVN-VERSION
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 57
+https://scm.sipfoundry.org/rep/sipXpublisher/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 19
+1-91,95,108,110,127
+K 17
+svnmerge-2.8-head
+V 57
+https://scm.sipfoundry.org/rep/sipXpublisher/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 25
+1-139,141,147,157,172,181
+K 22
+svnmerge-user_pin-head
+V 62
+https://scm.sipfoundry.org/rep/sipXpublisher/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-162
+K 23
+svnmerge-user_ping-head
+V 63
+https://scm.sipfoundry.org/rep/sipXpublisher/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-154
+END
+ENDREP
+id: 20n.39u.r6459/6691
+type: dir
+pred: 20n.1id.r6433/24352
+count: 138
+text: 6433 23584 755 755 1e2af58890c48a9270c970d928ce71d4
+props: 6459 5860 818 0 3e881154fb041724df6dcc24757c63ac
+cpath: /branches/solaris_port/sipXpublisher
+copyroot: 4813 /main/sipXpublisher
+
+PLAIN
+K 13
+svn:externals
+V 72
+config https://scm.sipfoundry.org/rep/sipX/branches/solaris_port/config
+
+K 10
+svn:ignore
+V 149
+BUILDSTAMP
+Makefile
+Makefile.in
+SVN-VERSION
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 55
+https://scm.sipfoundry.org/rep/sipXcallLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 24
+1-75,120,130,143,156,207
+K 17
+svnmerge-2.8-head
+V 55
+https://scm.sipfoundry.org/rep/sipXcallLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 37
+1-314,318,335-336,346,352,358-359,464
+K 22
+svnmerge-user_pin-head
+V 60
+https://scm.sipfoundry.org/rep/sipXcallLib/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-391
+K 23
+svnmerge-user_ping-head
+V 61
+https://scm.sipfoundry.org/rep/sipXcallLib/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-372
+K 19
+svnmerge-video-head
+V 81
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/sipxtapi-video/sipXtackLib
+K 19
+svnmerge-video-revs
+V 6
+1-3142
+END
+ENDREP
+id: va.39m.r6459/7943
+type: dir
+pred: va.1i5.r6365/9543
+count: 437
+text: 6365 8185 1345 1345 b405e1979878583761477b9cac93f82b
+props: 6459 6955 975 0 9d4a3d7f5bb39ebcbcf106e8807e99f4
+cpath: /branches/solaris_port/sipXcallLib
+copyroot: 4813 /main/sipXcallLib
+
+PLAIN
+K 13
+svn:externals
+V 147
+config         https://scm.sipfoundry.org/rep/sipX/branches/solaris_port/config
+resiprocate    https://scm.sipfoundry.org/rep/resiprocate/main
+
+
+
+
+
+K 10
+svn:ignore
+V 54
+build
+configure
+autom4te.cache
+aclocal.m4
+Makefile.in
+
+END
+ENDREP
+id: 8g8.39l.r6459/8467
+type: dir
+pred: 8g8.0.r5655/3734
+count: 9
+text: 5655 3515 206 206 cc9242b11d5a02e9bf6552b8d9675ae6
+props: 6459 8201 253 0 bb4a22f2858974ef904cffe20dda3729
+cpath: /branches/solaris_port/resiprocateLib
+copyroot: 6454 /branches/solaris_port
+
+PLAIN
+K 13
+svn:externals
+V 72
+config https://scm.sipfoundry.org/rep/sipX/branches/solaris_port/config
+
+K 10
+svn:ignore
+V 302
+BUILDSTAMP
+Makefile
+Makefile.in
+SVN-VERSION
+aclocal.m4
+autom4te.cache
+bin.eclipse
+build
+build.maven
+build.properties
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxconfig-*.rpm
+sipxconfig-*.tar.gz
+sipxconfig.spec
+spy.log
+stamp-h1
+top.build.dir
+velocity.log
+config.OLD
+jsetup
+setup
+
+K 19
+svnmerge-integrated
+V 222
+/branches/2.6:1-204,218,223-251,265,314,459
+/branches/2.8:1-829,837-855,1016
+/branches/3.0/sipXconfig:1-6144
+/branches/lowcarb:1-1002
+/branches/sipXconfig/3.3:1-6033
+/branches/user_pin:1-732
+/pingtel/main/sipXconfig:1-5651
+END
+ENDREP
+id: 2hf.39o.r6459/9422
+type: dir
+pred: 2hf.1i7.r6451/5983
+count: 1520
+text: 6451 4718 1252 1252 2f624deed84dd9722ceec0d4a017adb8
+props: 6459 8729 680 0 96b09e4a409ab4974faac0724e649160
+cpath: /branches/solaris_port/sipXconfig
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:externals
+V 72
+config https://scm.sipfoundry.org/rep/sipX/branches/solaris_port/config
+
+K 10
+svn:ignore
+V 149
+BUILDSTAMP
+Makefile
+Makefile.in
+SVN-VERSION
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 56
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 12
+1-75,104,124
+K 17
+svnmerge-2.8-head
+V 56
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 29
+1-183,185,197,201,207,217,249
+K 28
+svnmerge-sipxtapi-port0-head
+V 63
+https://paradise.pingtel.com/rep/sipXmediaLib/branches/sipxtapi
+K 28
+svnmerge-sipxtapi-port0-revs
+V 5
+1-120
+K 22
+svnmerge-sipxtapi-revs
+V 5
+1-118
+K 22
+svnmerge-user_pin-head
+V 61
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-222
+K 23
+svnmerge-user_ping-head
+V 62
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-212
+END
+ENDREP
+id: mz.39p.r6459/10690
+type: dir
+pred: mz.1i8.r6365/10871
+count: 194
+text: 6365 10066 792 792 38a9589d5725f0ecd690bcc06b2a5c08
+props: 6459 9681 996 0 108334e56e89459350c803c7a4fbf982
+cpath: /branches/solaris_port/sipXmediaLib
+copyroot: 4813 /main/sipXmediaLib
+
+PLAIN
+K 13
+svn:externals
+V 72
+config https://scm.sipfoundry.org/rep/sipX/branches/solaris_port/config
+
+K 10
+svn:ignore
+V 149
+BUILDSTAMP
+Makefile
+Makefile.in
+SVN-VERSION
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+
+END
+ENDREP
+id: 89s.39l.r6459/11237
+type: dir
+pred: 89s.0.r6365/12147
+count: 19
+text: 6365 11424 710 710 c9512cec21c235ff25a01c623f1d1c36
+props: 6459 10951 273 0 2d43360207221696461a67a153346085
+cpath: /branches/solaris_port/sipXmediaAdapterLib
+copyroot: 6454 /branches/solaris_port
+
+PLAIN
+K 13
+svn:externals
+V 72
+config https://scm.sipfoundry.org/rep/sipX/branches/solaris_port/config
+
+K 10
+svn:ignore
+V 149
+BUILDSTAMP
+Makefile
+Makefile.in
+SVN-VERSION
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 56
+https://scm.sipfoundry.org/rep/sipXregistry/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 30
+1-63,65,72,77,79,83,89,104,130
+K 17
+svnmerge-2.8-head
+V 56
+https://scm.sipfoundry.org/rep/sipXregistry/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 33
+1-144,146,150,153,156-157,237,239
+K 35
+svnmerge-user_dworley_redirect-head
+V 74
+https://scm.sipfoundry.org/rep/sipXregistry/branches/user_dworley_redirect
+K 35
+svnmerge-user_dworley_redirect-revs
+V 5
+1-221
+K 22
+svnmerge-user_pin-head
+V 61
+https://scm.sipfoundry.org/rep/sipXregistry/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-169
+K 23
+svnmerge-user_ping-head
+V 62
+https://scm.sipfoundry.org/rep/sipXregistry/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-162
+END
+ENDREP
+id: 1y5.39v.r6459/12527
+type: dir
+pred: 1y5.1ie.r6433/28147
+count: 212
+text: 6433 27344 790 790 02fc26809e1bd7427378d1da99397704
+props: 6459 11509 1005 0 95113837f3234077e3ae72a16fe02212
+cpath: /branches/solaris_port/sipXregistry
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 13
+svn:externals
+V 72
+config https://scm.sipfoundry.org/rep/sipX/branches/solaris_port/config
+
+K 10
+svn:ignore
+V 135
+configure
+build
+config.h.in
+autom4te.cache
+aclocal.m4
+Makefile.in
+Debug
+Release
+sipXphone.plg
+sipXphone.opt
+sipXphone.ncb
+applayer.iws
+
+END
+ENDREP
+id: 6qk.39r.r6459/13064
+type: dir
+pred: 6qk.1ia.r6366/8398
+count: 139
+text: 6366 7392 993 993 3c9dec987edc8877c7d498f1dd2c5029
+props: 6459 12792 259 0 0c259a393ee1f897a00767444203e243
+cpath: /branches/solaris_port/sipXphone
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 13
+svn:externals
+V 72
+config https://scm.sipfoundry.org/rep/sipX/branches/solaris_port/config
+
+K 10
+svn:ignore
+V 149
+BUILDSTAMP
+Makefile
+Makefile.in
+SVN-VERSION
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 61
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 25
+1-135,148,157,164,167,184
+K 17
+svnmerge-2.8-head
+V 61
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 69
+1-199,202-203,206-207,210,214,217,219,222,230,234,239,260,262-263,293
+K 22
+svnmerge-user_pin-head
+V 66
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-267
+K 23
+svnmerge-user_ping-head
+V 67
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-226
+END
+ENDREP
+id: 1qo.39n.r6459/14217
+type: dir
+pred: 1qo.1i6.r6379/21421
+count: 241
+text: 6379 20605 803 803 4e30b5dea9ac6a6286d2d61eb29eccd2
+props: 6459 13320 884 0 0d1c9d13b431a889e21d254368f777d4
+cpath: /branches/solaris_port/sipXcommserverLib
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 13
+svn:externals
+V 89
+tapi https://scm.sipfoundry.org/rep/sipX/branches/solaris_port/sipXcallLib/include/tapi
+
+
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: e5.39w.r6459/14665
+type: dir
+pred: e5.1if.r6433/39146
+count: 153
+text: 6433 39004 129 129 9a6a80efb6ec3dc3ce0d61cece927a9a
+props: 6459 14491 161 0 ac08db0efbef6e168c92959524023c78
+cpath: /branches/solaris_port/sipXtackLib/include
+copyroot: 4813 /main/sipXtackLib
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 20
+file dl.0.r772/70283
+K 9
+ChangeLog
+V 21
+file dm.0.r891/128130
+K 7
+INSTALL
+V 21
+file dn.0.r891/155358
+K 7
+LICENSE
+V 21
+file do.0.r891/111455
+K 11
+Makefile.am
+V 23
+file dp.1if.r5459/14429
+K 4
+NEWS
+V 20
+file dq.0.r772/79111
+K 6
+README
+V 20
+file dr.0.r772/69980
+K 4
+TODO
+V 20
+file ds.0.r772/75936
+K 9
+acsite.m4
+V 20
+file dt.0.r772/28655
+K 14
+ant-targets.am
+V 21
+file du.0.r891/127031
+K 15
+ant-targets.xml
+V 18
+file dv.0.r1039/83
+K 17
+basicimclient.dsp
+V 23
+file le.20v.r6363/18781
+K 3
+bin
+V 20
+dir l0.0.r891/155979
+K 20
+config.properties.in
+V 20
+file dz.0.r772/75620
+K 12
+configure.ac
+V 23
+file e0.1if.r6322/21649
+K 3
+doc
+V 22
+dir e1.1if.r5586/26540
+K 8
+examples
+V 23
+dir lf.1if.r6259/175057
+K 7
+include
+V 22
+dir e5.39w.r6459/14665
+K 3
+lib
+V 20
+dir gh.0.r650/115439
+K 4
+meta
+V 22
+dir l6.1if.r4899/81809
+K 15
+sipXtackLib.dsp
+V 23
+file gj.20w.r6365/12377
+K 18
+sipXtackLib.vcproj
+V 22
+file ld.1if.r6252/1316
+K 19
+sipXtackLibTest.dsp
+V 21
+file mh.21h.r5255/163
+K 19
+sipXtackLibTest.sln
+V 25
+file 8b5.1if.r4939/417652
+K 22
+sipXtackLibTest.vcproj
+V 25
+file 8b6.1if.r4939/396677
+K 15
+siplog2siptrace
+V 23
+dir gk.1if.r5457/208818
+K 7
+siptest
+V 23
+dir gn.1if.r5457/206595
+K 11
+siptest.dsp
+V 23
+file kv.36c.r6363/19055
+K 9
+sipviewer
+V 21
+dir hn.1if.r4916/2889
+K 19
+sipxtacklib.spec.in
+V 23
+file kw.1if.r6322/21902
+K 3
+src
+V 22
+dir i8.1if.r6433/33567
+K 15
+syslog2siptrace
+V 23
+dir kk.1if.r4939/417393
+K 16
+tcpdump2siptrace
+V 19
+file mb.0.r1047/729
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 72
+config https://scm.sipfoundry.org/rep/sipX/branches/solaris_port/config
+
+K 10
+svn:ignore
+V 167
+BUILDSTAMP
+Makefile
+Makefile.in
+SVN-VERSION
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.properties
+config.status
+configure
+libtool
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 55
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 41
+1-131,137,147,152,155-157,159,169,188,197
+K 17
+svnmerge-2.8-head
+V 55
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 37
+1-230,233,238,251,258,279,319,338,436
+K 18
+svnmerge-main-revs
+V 13
+1-229,321-328
+K 24
+svnmerge-noresparse-head
+V 73
+https://paradise.pingtel.com/rep/sipXtackLib/branches/sipxtapi-noresparse
+K 24
+svnmerge-noresparse-revs
+V 5
+1-188
+K 28
+svnmerge-sipxtapi-port0-head
+V 62
+https://paradise.pingtel.com/rep/sipXtackLib/branches/sipxtapi
+K 28
+svnmerge-sipxtapi-port0-revs
+V 5
+1-221
+K 22
+svnmerge-sipxtapi-revs
+V 5
+1-217
+K 22
+svnmerge-user_pin-head
+V 60
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-342
+K 23
+svnmerge-user_ping-head
+V 61
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-277
+K 19
+svnmerge-video-head
+V 81
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/sipxtapi-video/sipXtackLib
+K 19
+svnmerge-video-revs
+V 6
+1-3146
+END
+ENDREP
+id: dk.39w.r6459/17805
+type: dir
+pred: dk.1if.r6433/40870
+count: 466
+text: 6459 14933 1460 1460 ae6d484714c0be4f7567deb9b0105bf2
+props: 6459 16406 1386 0 51c75f97b1f8fd8b21fa594165cf1d37
+cpath: /branches/solaris_port/sipXtackLib
+copyroot: 4813 /main/sipXtackLib
+
+PLAIN
+K 7
+bbridge
+V 22
+dir 8dl.39l.r6459/5604
+K 5
+build
+V 23
+file 7ve.0.r6259/115402
+K 6
+config
+V 21
+dir 91.1i4.r6284/1507
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 14
+resiprocateLib
+V 22
+dir 8g8.39l.r6459/8467
+K 11
+sipXcallLib
+V 21
+dir va.39m.r6459/7943
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.39n.r6459/14217
+K 10
+sipXconfig
+V 22
+dir 2hf.39o.r6459/9422
+K 19
+sipXmediaAdapterLib
+V 23
+dir 89s.39l.r6459/11237
+K 12
+sipXmediaLib
+V 22
+dir mz.39p.r6459/10690
+K 7
+sipXpbx
+V 22
+dir 5g6.39q.r6459/5066
+K 9
+sipXphone
+V 23
+dir 6qk.39r.r6459/13064
+K 11
+sipXportLib
+V 20
+dir 3.39s.r6459/1583
+K 9
+sipXproxy
+V 22
+dir 1vt.39t.r6459/2753
+K 13
+sipXpublisher
+V 22
+dir 20n.39u.r6459/6691
+K 12
+sipXregistry
+V 23
+dir 1y5.39v.r6459/12527
+K 11
+sipXtackLib
+V 22
+dir dk.39w.r6459/17805
+K 8
+sipXvxml
+V 22
+dir 22d.39x.r6459/3866
+END
+ENDREP
+id: 7q4.39l.r6459/18883
+type: dir
+pred: 7q4.39l.r6456/2505
+count: 1134
+text: 6459 18068 802 802 388da4e26a0c0a0c579a96393092c058
+props: 6456 0 2492 0 eba574f2f4562d46340438cff5ac881e
+cpath: /branches/solaris_port
+copyroot: 6454 /branches/solaris_port
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 23
+dir 7q4.2pk.r6444/44513
+K 3
+cdr
+V 22
+dir 7q4.2oy.r6458/6111
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 7
+restful
+V 21
+dir 7q0.0.r4813/15683
+K 10
+sipXconfig
+V 22
+dir 8q1.0.r6325/197137
+K 12
+solaris_port
+V 23
+dir 7q4.39l.r6459/18883
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r6459/19752
+type: dir
+pred: 7pt.0.r6458/6964
+count: 509
+text: 6459 19135 604 604 f55ff78c3009b4f6d60068ba711b26b2
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r6459/19752
+K 4
+main
+V 20
+dir 7q4.0.r6455/2522
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6459/20036
+type: dir
+pred: 0.0.r6458/7245
+count: 6459
+text: 6459 19908 115 115 908b1100bfd95e30ea054c33569c4944
+cpath: /
+copyroot: 0 /
+
+5g6._4.t6458-1 modify false true /branches/solaris_port/sipXpbx
+
+8dl.39l.t6458-1 modify false true /branches/solaris_port/bbridge
+
+e5._a.t6458-1 modify false true /branches/solaris_port/sipXtackLib/include
+
+20n._8.t6458-1 modify false true /branches/solaris_port/sipXpublisher
+
+va._0.t6458-1 modify false true /branches/solaris_port/sipXcallLib
+
+8g8.39l.t6458-1 modify false true /branches/solaris_port/resiprocateLib
+
+2hf._2.t6458-1 modify false true /branches/solaris_port/sipXconfig
+
+mz._3.t6458-1 modify false true /branches/solaris_port/sipXmediaLib
+
+89s.39l.t6458-1 modify false true /branches/solaris_port/sipXmediaAdapterLib
+
+1y5._9.t6458-1 modify false true /branches/solaris_port/sipXregistry
+
+dk._a.t6458-1 modify false true /branches/solaris_port/sipXtackLib
+
+6qk._5.t6458-1 modify false true /branches/solaris_port/sipXphone
+
+1qo._1.t6458-1 modify false true /branches/solaris_port/sipXcommserverLib
+
+3._6.t6458-1 modify false true /branches/solaris_port/sipXportLib
+
+1vt._7.t6458-1 modify false true /branches/solaris_port/sipXproxy
+
+22d._b.t6458-1 modify false true /branches/solaris_port/sipXvxml
+
+
+20036 20181

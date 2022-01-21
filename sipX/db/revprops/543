@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-05-04T14:35:21.215106Z
+K 7
+svn:log
+V 105
+Changed temp variable scoping so as to be more palatable for old
+brain damaged Windblows VC++ compilers.
+
+END

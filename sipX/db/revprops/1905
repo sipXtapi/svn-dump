@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-11T16:30:32.363215Z
+K 7
+svn:log
+V 95
+Add :TODO: comment to remind us to flesh out the description of how to
+change the domain name.
+
+END

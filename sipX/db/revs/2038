@@ -1,0 +1,143 @@
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 218
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxcommserverlib-*.rpm
+sipxcommserverlib-*.tar.gz
+sipxcommserverlib.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 61
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 25
+1-135,148,157,164,167,184
+K 17
+svnmerge-2.8-head
+V 61
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 37
+1-199,202,207,210,214,217,219,230,234
+K 22
+svnmerge-user_pin-head
+V 66
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-240
+K 23
+svnmerge-user_ping-head
+V 67
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-226
+END
+ENDREP
+id: 1qo.0.r2038/924
+type: dir
+pred: 1qo.0.r2033/2658
+count: 155
+text: 2033 1085 774 774 4b9247e50e10423b61df0c6382594368
+props: 2038 0 911 0 d0a8f1275dfb7f3321f8128cd407c3f0
+cpath: /old/sipXcommserverLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1v5.0.r2037/1350
+K 4
+main
+V 19
+dir 1qo.0.r2038/924
+K 4
+tags
+V 20
+dir 1uu.0.r2035/2248
+END
+ENDREP
+id: 1qn.0.r2038/1273
+type: dir
+pred: 1qn.0.r2037/1651
+count: 241
+text: 2038 1148 112 112 67ded89263a3af6d5bc8fef1d60269d1
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2038/1273
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2038/1674
+type: dir
+pred: 1.0.r2037/2052
+count: 2037
+text: 2038 1440 221 221 00d482b02bd81d9f44dc7b20856e2785
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2038/1674
+END
+ENDREP
+id: 0.0.r2038/1869
+type: dir
+pred: 0.0.r2037/2247
+count: 2038
+text: 2038 1820 36 36 9190318e99326c6db611751429d159db
+cpath: /
+copyroot: 0 /
+
+1qo.0.t2037-1 modify false true /old/sipXcommserverLib/main
+
+
+1869 2010

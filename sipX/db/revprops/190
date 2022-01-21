@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-09-02T20:00:16.155078Z
+K 7
+svn:log
+V 356
+Change JBOSS_HOME to point to where Jboss in unzipped, NOT including the additional '/jboss' and NOT require TOMCAT_HOME to be defined.  It's more constant with other packages, removes possiblity they point to different locations AND help simplfy install process.  NOTE: If you only read one thing
+
+  export JBOSS_HOME=<somedir>/JBoss-2.4.10_Tomcat-4.0.6
+
+
+END

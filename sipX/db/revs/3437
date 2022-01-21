@@ -1,0 +1,324 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4uw.0.r3437/82
+type: file
+pred: 4uw.0.r3436/102
+count: 1
+text: 3436 0 89 83 fcffca450ee5133b6f137f81157f5397
+props: 3437 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/meta/sipx_main_fc3.configure-switches
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 22
+file 4ed.0.r3393/17177
+K 16
+ant-gentoo.patch
+V 22
+file 4gu.0.r3393/18478
+K 30
+checkstyle-noframes-sorted.xsl
+V 22
+file 4ee.0.r3393/18801
+K 19
+checkstyle-text.xsl
+V 22
+file 4gr.0.r3393/17497
+K 14
+checkstyle.xml
+V 22
+file 4ef.0.r3393/19514
+K 26
+eclipse.code-formatter.xml
+V 22
+file 4eb.0.r3393/19835
+K 19
+jasper-compiler.jar
+V 22
+file 4he.mn.r3229/4005
+K 11
+java.header
+V 22
+file 4ge.0.r3393/17824
+K 27
+sipx-jboss4-configure.patch
+V 22
+file 4ir.0.r3393/16839
+K 39
+sipx-svn-incremental.configure-switches
+V 22
+file 4jn.0.r3393/20170
+K 32
+sipx_main_fc2.configure-switches
+V 22
+file 4jo.0.r3393/18141
+K 32
+sipx_main_fc3.configure-switches
+V 19
+file 4uw.0.r3437/82
+K 33
+sipx_main_rhe3.configure-switches
+V 22
+file 4jp.0.r3393/16501
+K 10
+ssl.pkcs12
+V 21
+file 4nm.0.r3331/1865
+K 16
+tomcat_401.patch
+V 23
+file 4gq.md.r3393/19145
+END
+ENDREP
+id: 4ea.0.r3437/1183
+type: dir
+pred: 4ea.0.r3436/1131
+count: 16
+text: 3437 328 842 842 ab23067513f84e8d476b85b2f1848370
+cpath: /old/sipXconfig/main/meta
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 23
+file 4do.ia.r3393/22413
+K 8
+.project
+V 23
+file 4dp.ib.r3393/15834
+K 12
+CONTRIBUTORS
+V 22
+file 2hg.0.r3393/21790
+K 9
+ChangeLog
+V 23
+file 2hh.0.r3393/884062
+K 7
+INSTALL
+V 22
+file 2hi.0.r3393/61972
+K 7
+LICENSE
+V 23
+file 2hj.0.r3393/851332
+K 11
+Makefile.am
+V 23
+file 2hk.0.r3393/926572
+K 4
+NEWS
+V 23
+file 2hl.0.r3393/808567
+K 6
+README
+V 23
+file 2hm.0.r3393/925626
+K 4
+TODO
+V 23
+file 2hn.0.r3393/925939
+K 9
+acsite.m4
+V 22
+file 2ho.0.r3393/21475
+K 14
+ant-targets.am
+V 20
+file 2hp.0.r3396/365
+K 15
+ant-targets.xml
+V 20
+file 2hq.0.r3429/123
+K 3
+bin
+V 22
+dir 4bz.0.r3393/808265
+K 9
+build.xml
+V 22
+file 4h8.0.r3393/22103
+K 6
+common
+V 20
+dir 2hs.0.r3401/4732
+K 20
+config.properties.in
+V 23
+file 2jf.0.r3431/257657
+K 12
+configure.ac
+V 24
+file 2jg.0.r3394/7972182
+K 3
+doc
+V 22
+dir 2jh.0.r3431/257428
+K 3
+etc
+V 22
+dir 4b7.0.r3393/927179
+K 3
+lib
+V 23
+dir 2jy.0.r3432/1045370
+K 4
+meta
+V 20
+dir 4ea.0.r3437/1183
+K 7
+neoconf
+V 21
+dir 4eo.0.r3435/16815
+K 16
+profilegenerator
+V 20
+dir 2kj.0.r3428/9482
+K 23
+profilepub_sipagent.dsp
+V 22
+file 4b5.0.r3393/16177
+K 16
+profilepublisher
+V 21
+dir 485.0.r3419/40180
+K 13
+profilewriter
+V 20
+dir 4a9.0.r3401/5770
+K 12
+sipagent-jni
+V 23
+dir 48h.h9.r3393/888174
+K 26
+sipx-jboss-configure.patch
+V 23
+file 4bi.0.r3393/927483
+K 18
+sipxconfig.spec.in
+V 23
+file 4bh.0.r3393/926250
+K 18
+subant-targets.xml
+V 22
+file 4h9.0.r3393/22758
+K 3
+web
+V 21
+dir 4l5.0.r3435/11061
+END
+ENDREP
+id: 2hf.0.r3437/2770
+type: dir
+pred: 2hf.0.r3436/2719
+count: 324
+text: 3437 1351 1406 1406 516453eb5200dd6ebf46661d77847f33
+props: 3419 41841 462 0 dde518193724f824407f5dba0b1205f0
+cpath: /old/sipXconfig/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 4c1.0.r3344/10857
+K 4
+main
+V 20
+dir 2hf.0.r3437/2770
+K 4
+tags
+V 20
+dir 4b6.0.r3434/1345
+END
+ENDREP
+id: 2he.0.r3437/3121
+type: dir
+pred: 2he.0.r3436/3071
+count: 412
+text: 3437 2994 114 114 daefe5e9297b9fa509972c213b867e45
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 20
+dir 2he.0.r3437/3121
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3437/3725
+type: dir
+pred: 1.0.r3436/3676
+count: 3435
+text: 3437 3281 431 431 78a0b4b113109191389c2ead1a8e311a
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3437/3725
+END
+ENDREP
+id: 0.0.r3437/3920
+type: dir
+pred: 0.0.r3436/3872
+count: 3437
+text: 3437 3871 36 36 f6be6ca94d0f451e4c3b0aac3daf9a63
+cpath: /
+copyroot: 0 /
+
+4uw.0.t3436-1 modify false true /old/sipXconfig/main/meta/sipx_main_fc3.configure-switches
+
+
+3920 4061

@@ -1,0 +1,48 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-06T17:28:48.324444Z
+K 7
+svn:log
+V 1300
+Merged revisions 169-209 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXregistry/main
+    ------------------------------------------------------------------------
+    r170 | ajorde | 2005-04-06 13:59:09 -0400 (Wed, 06 Apr 2005) | 3 lines
+    Changed paths:
+       M /main
+    
+    Initialized merge tracking via svnmerge with revisions 1-169 from
+    https://scm.sipfoundry.org/rep/sipXregistry/branches/user_pin
+    
+    ------------------------------------------------------------------------
+    r171 | dworley | 2005-04-06 14:39:54 -0400 (Wed, 06 Apr 2005) | 2 lines
+    Changed paths:
+       M /main/ChangeLog
+       M /main/LICENSE
+    
+    Clean up tabs.
+    
+    ------------------------------------------------------------------------
+    r183 | dpetrie | 2005-04-12 15:45:35 -0400 (Tue, 12 Apr 2005) | 4 lines
+    Changed paths:
+       M /main/sipXregistry.dsp
+    
+    Remove the link dependency on glib for the windows platform.
+    The parts of glib that we need are now in sipXportLib.
+    
+    
+    ------------------------------------------------------------------------
+    r204 | dhsu | 2005-05-02 16:31:23 -0400 (Mon, 02 May 2005) | 3 lines
+    Changed paths:
+       M /main/etc/mappingrules.xml.in
+    
+    Change the default of AA menu from internal to operator.
+    
+    
+
+END

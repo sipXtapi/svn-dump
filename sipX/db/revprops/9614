@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-29T22:25:19.713383Z
+K 7
+svn:log
+V 212
+Bugfix: MpToneGen_getNextBuff() should return OS_NO_MORE_DATA if no data is generated.
+With this bug you may hear you echo, noise, or some other audible artifacts, as unitialized data may be mixed in the stream.
+
+END

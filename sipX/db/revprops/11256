@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-02-05T23:14:55.149924Z
+K 7
+svn:log
+V 191
+sipXcallLib: Hooking up new sipXmediaLib notifications system up to sipXcallLib/sipXtapi level.
+Now basic infrastructure is here and implementation for DTMF events is here too as an example.
+
+END

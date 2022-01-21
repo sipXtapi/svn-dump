@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-03-17T23:06:04.868713Z
+K 7
+svn:log
+V 162
+Temporatily take the Subscribe client, server and refresh manager
+tests out of the unit test suite as they are crashing with no
+ccpunit output on some platforms.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-10T15:55:12.698429Z
+K 7
+svn:log
+V 136
+sipXtapi documentation for AEC, AGC and Noise Reduction updated. They are supported with Speex library in addition to GIPS VoiceEngine.
+
+END

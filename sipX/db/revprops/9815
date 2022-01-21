@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-10T01:01:49.741477Z
+K 7
+svn:log
+V 147
+Using topology graph interface, on windows, use mixer mode for the time being, as direct write mode is having some issues with the new bridge code.
+END

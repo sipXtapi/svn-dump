@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-10-12T19:14:28.071542Z
+K 7
+svn:log
+V 260
+Fix configuration file installation to work with srcdir == .
+(this is what happens with RPM builds)
+These files were being pushed through an edit step that was
+not needed, so eliminating it solved the problem.
+  http://paradise.pingtel.com:8080/browse/ENG-11
+
+
+END

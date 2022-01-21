@@ -1,0 +1,101 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-27T19:59:52.406848Z
+K 7
+svn:log
+V 3675
+Add Registration State Replication for High Availability calling service.
+
+    In large systems, high availability (HA) is essential; a system with
+    more than a few dozen users generally must not have any unexpected
+    outages for basic calling. In sipXpbx, basic calling depends on three components:
+    the two proxies and the registry/redirect service. The proxies can
+    be replicated, using DNS SRV records to share load and provide for
+    failover. The registry/redirect service, however, can not currently
+    be deployed on multiple servers because the 'soft' state in the
+    registry database (mappings from registered Addresses to Contacts)
+    cannot be shared. While replicating the proxies alone does help with
+    scaling, the registry is a single point of failure for basic calling
+    service.
+
+    See the design document at
+         http://scm.sipfoundry.org/rep/sipX/main/sipXregistry/doc/SyncDesign.html
+    and the installation document at
+         http://scm.sipfoundry.org/rep/sipX/main/sipXregistry/doc/HaSetup.pdf
+
+    Development was on the branch
+         http://scm.sipfoundry.org/rep/sipX/branches/registry_ha
+         revisions  5847 through 6248
+
+Other changes along the way from that branch:
+
+    Add queue limit to OsServerTask startup debug log
+
+    Clarify log message for SSL handshake errors
+
+    Remove the ability to load the registration database from sipdbtest.
+
+    Take the hardwired URL path for XML-RPC, "/RPC2", and make it a
+    public string constant, XmlRpcDispatch::DEFAULT_URL_PATH
+
+    Add framework for unit tests of commserver components that need to
+    read and write files, including subclasses for SipDb tests and
+    RegistrationDb tests.
+
+    Take out some bad info on certificate installation.
+
+    Improve documentation of SSL setup using a well-known CA.
+
+    Added boolean parameter to OsFileSystem::createDir to force creation of
+    non-existing parent directories.
+
+    Add SmartDbAccessor class for sipdb databases, which ensures that
+    the DB is attached at the beginning and detached at the end.
+
+    Adding simple XmlRpc test server and client.
+
+    Improve logging for connection setup, especially listening sockets.
+    Don't attempt to initialize SSL on a socket when the connect failed.
+
+    Fix test for locating openssl library path
+      It was always adding /usr/local/lib to the path rather than the
+      right place.
+
+    Added persistent connections to HttpMessage and HttpServer. On the
+    client side a connection is kept in a connection map and existing
+    connections can be looked up and reused. On the server side a
+    connection is kept open and runs as an OsTask until it is closed
+    by the peer.
+
+    Loosen up the schema for uri and contact fields.  The patterns in
+    sip_types.xsd don't work for some reason.  Include TODO comments
+    to fix that.
+
+    Added sipx-dns script for generating DNS configuration records.
+
+    Added validation of watchdog.xml
+
+    Fixed a bug in xml file validation that caused some errors to be lost.
+
+    Clean up logging of XML-RPC messages.
+
+    Change the newlines in the XML-RPC messages to make them take fewer
+    lines and make the structures easier to read.
+
+    Fix XSL-116: XML-RPC must escape special chars in string values.
+    This should also fix XRR-100 and XRR-101, since it is the underlying cause.
+    Also fix an incorrect XML-RPC fault message.
+
+    Change adding the daemon account to the fedora standard test
+
+    Add validation of the ProcessDefinitions.xml configuration.
+
+    [XPB-523] Test for incorrect names in /etc/hosts for the localhost address
+              http://track.sipfoundry.org/browse/XPB-523
+
+END

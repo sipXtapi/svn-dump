@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-20T21:44:49.037194Z
+K 7
+svn:log
+V 351
+Add unified support for C99 <stdint.h> and <inttypes.h>.
+If you want use one of these you should include <os/OsIntTypes.h>. This file is a dispatcher, which include correct implementation for platform/compiler combination you're using.
+
+NOTE: Do NOT inlcude <stdint.h> or <inttypes.h> in any source files, as they are not supported by some compilers.
+
+END

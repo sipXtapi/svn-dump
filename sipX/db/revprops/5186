@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-09-25T03:10:36.263923Z
+K 7
+svn:log
+V 34
+Initialize plain pointer members.
+
+END

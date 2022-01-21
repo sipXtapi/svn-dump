@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-19T00:37:30.526921Z
+K 7
+svn:log
+V 70
+dmaTaskPosix: original message is copied to pool, so should be freed.
+
+END

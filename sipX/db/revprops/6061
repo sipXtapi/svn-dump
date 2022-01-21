@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-08T00:14:03.606013Z
+K 7
+svn:log
+V 283
+initial pom.xml for web module
+- wsdl2java generation is still handled by ant task (ant is called automatically during generate-source phase) - there is maven plugin in developement to handle wsdl2java but I had problems configuring it
+- web unit tests are not yet part of the build
+
+END

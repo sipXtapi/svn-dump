@@ -1,0 +1,46 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-09T20:11:01.327004Z
+K 7
+svn:log
+V 2351
+Merged revisions 7644-7711 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/3.6/sipXconfig
+
+........
+  r7695 | dkrzemin | 2006-10-07 12:19:23 -0400 (Sat, 07 Oct 2006) | 4 lines
+  
+  XCF-1196 nasty problem in Group.inheritSettingsForEdit: If bean from which settings to be inherited were retrieved happened to be the member of the group that we were editing, than changing the value of the setting was also changing the default value of the settings. Since the default value was the same as the value, subsequent  edits were removing the setting. It lead to strange UI behavior with default group values randomly reverting to previous defaults.
+  Fixed by simplifying GroupSettingModel and cleaning the model in the settings that serve as base settings for the group.
+........
+  r7704 | dkrzemin | 2006-10-09 11:07:43 -0400 (Mon, 09 Oct 2006) | 2 lines
+  
+  Clarification of Music on Hold support requested by Martin.
+........
+  r7706 | dkrzemin | 2006-10-09 13:03:48 -0400 (Mon, 09 Oct 2006) | 3 lines
+  
+  XCF-1302 clicking on a link to Caller Sensitive dialing did not save current page - it caused exceptions if the rule has never been save by the user (i.e. when creating a new emergency rule)
+  reorgainzed the page to display the link only when "Use Caller Sensitive Routing" box is selected, hide the list of gateways when caller sensitive routing is used
+........
+  r7708 | dkrzemin | 2006-10-09 13:48:11 -0400 (Mon, 09 Oct 2006) | 3 lines
+  
+  XCF-1085 add "required" validator to alias and alias domain
+  fix ManageDomain.commit to actually use validators
+........
+  r7709 | dkrzemin | 2006-10-09 14:01:57 -0400 (Mon, 09 Oct 2006) | 2 lines
+  
+  XCF-1085 implement excluding certain text fields from the index, added pintoken and sip password to list of sensitive field
+........
+  r7710 | dkrzemin | 2006-10-09 15:10:23 -0400 (Mon, 09 Oct 2006) | 4 lines
+  
+  XCF-1099 Fixed Hibernate exception when saving user who is supervising its own group.
+  Changed cascade parameter on user->supervised groups associations from "save-update" to "none" - the drawback is that you have to pass saved groups to User.addSupervisorForGroup method, but it this function only worked reliable if saved groups were passed.
+  Added "saveNew" parameter to SettingDao.getGroupsByString to allow for one step adding and saving of groups. 
+........
+
+END

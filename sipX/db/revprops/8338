@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-12-21T21:07:39.311458Z
+K 7
+svn:log
+V 513
+mergefrom pingtel-main 7607-7618
+
+Generate sipxrls.sh correctly.
+
+Activate preprocessing of sipXrls's Makefile.am's.
+Add RlsSubscribe to filter subscription requests for "Supported: eventlist".
+Get subscribe client machinery working.
+
+Alphabetize entries in Makefile.am.
+
+Add sipXpbx/sipXrls to EXTRA_DIST so that it will be included in the tarballs,
+because sipXpbx/configure.ac mentions the Makefile.am's in sipXpbx/sipXrls.
+sipXrls should be moved from EXTRA_DIST to SUBDIRS when the code is ready
+for others.
+
+END

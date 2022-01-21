@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-01-19T15:20:13.224260Z
+K 7
+svn:log
+V 136
+XCF-863 WSDL definition that used abstract base class does not build constructor with all params on ruby 1.8.4, so set params explicitly
+END

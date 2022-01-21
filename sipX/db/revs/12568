@@ -1,0 +1,242 @@
+PLAIN
+K 10
+svn:ignore
+V 17
+.deps
+.dirstamp
+
+
+END
+ENDREP
+id: e8h.7n5.r12568/56
+type: dir
+pred: e8h.7n5.r12567/994
+count: 76
+text: 12567 562 419 419 f66c1b30846737a564ec9272d4c19c2b
+props: 12568 0 43 0 98a2b6b47578fb4479a310b7ea6c12c7
+cpath: /main/sipXsdpLib/src/sdp
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file e8g.7n5.r12562/94
+K 3
+sdp
+V 21
+dir e8h.7n5.r12568/56
+K 4
+test
+V 23
+dir e8p.7n5.r11947/1546
+END
+ENDREP
+id: e8f.7n5.r12568/423
+type: dir
+pred: e8f.7n5.r12567/1311
+count: 93
+text: 12568 288 122 122 c32efeb4c7d96018508af139e35ddb44
+props: 11826 739 54 0 9e8708e9b4786ab3c7ff09e372496a63
+cpath: /main/sipXsdpLib/src
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g90.7n5.r11848/273
+K 7
+LICENSE
+V 22
+file e7w.0.r8460/74523
+K 11
+Makefile.am
+V 24
+file e7x.7n5.r12466/5399
+K 9
+acsite.m4
+V 22
+file e7y.0.r8460/77483
+K 20
+config.properties.in
+V 21
+file e8t.0.r8461/1704
+K 12
+configure.ac
+V 22
+file e7z.7n5.r12561/58
+K 3
+doc
+V 23
+dir e80.7n5.r11826/1099
+K 7
+include
+V 23
+dir e81.7n5.r12566/1323
+K 23
+sipXsdpLib-msvc8.vcproj
+V 24
+file ebs.7n5.r11227/4921
+K 14
+sipXsdpLib.dsp
+V 24
+file ebq.7n5.r11289/7871
+K 14
+sipXsdpLib.vcp
+V 22
+file ebh.0.r8574/48089
+K 17
+sipXsdpLib.vcproj
+V 24
+file e8b.7n5.r12128/2552
+K 18
+sipXsdpLib.vcxproj
+V 25
+file nps.7n5.r12361/75566
+K 27
+sipXsdpLibTest-msvc8.vcproj
+V 23
+file ebt.0.r10789/10571
+K 18
+sipXsdpLibTest.dsp
+V 24
+file ebr.7n5.r11289/7680
+K 18
+sipXsdpLibTest.sln
+V 24
+file e8c.7n5.r12128/2745
+K 18
+sipXsdpLibTest.vcp
+V 22
+file ebm.0.r8918/15566
+K 21
+sipXsdpLibTest.vcproj
+V 24
+file e8d.7n5.r12128/2357
+K 22
+sipXsdpLibTest.vcxproj
+V 25
+file npv.7n5.r12361/75738
+K 18
+sipxsdplib.spec.in
+V 23
+file e8e.7n5.r10867/814
+K 3
+src
+V 22
+dir e8f.7n5.r12568/423
+END
+ENDREP
+id: e7v.7n5.r12568/1715
+type: dir
+pred: e7v.7n5.r12567/2605
+count: 159
+text: 12568 655 1047 1047 ce26c9eee333ac247a722acdeaa1476e
+props: 12332 2525 223 0 7827b28c1d506c8c8fc464f454d88943
+cpath: /main/sipXsdpLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g8y.7n5.r12172/315
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 23
+dir 9wj.7n5.r12564/1207
+K 15
+configure.patch
+V 23
+file o60.7n5.r12434/574
+K 10
+readme.txt
+V 23
+file 9ws.7n5.r12464/516
+K 7
+scripts
+V 23
+dir fxk.7n5.r12171/1617
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r12532/5469
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r12515/3151
+K 12
+sipXmediaLib
+V 24
+dir b40.7n5.r12565/14762
+K 11
+sipXportLib
+V 24
+dir bcf.7n5.r12560/10608
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r12568/1715
+K 11
+sipXtackLib
+V 24
+dir boq.7n5.r12544/16652
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r12568/2659
+type: dir
+pred: 9wi.7n5.r12567/3550
+count: 3506
+text: 12568 1949 697 697 1e3c7916e055f4406953eb0cb420465e
+props: 12114 59175 76 0 1dd3880c3272b32f88d1700b38908223
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r12113/17441
+K 4
+main
+V 23
+dir 9wi.7n5.r12568/2659
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r12568/3054
+type: dir
+pred: 0.0.r12567/3945
+count: 12568
+text: 12568 2882 159 159 9e3d52ed092ceec15b88015e1b1fda38
+cpath: /
+copyroot: 0 /
+
+e8h.7n5.t12567-1 modify false true /main/sipXsdpLib/src/sdp
+
+
+3054 3201

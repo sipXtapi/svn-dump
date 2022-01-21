@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-11-03T22:29:30.689061Z
+K 7
+svn:log
+V 109
+Bug XPB-103: Add index page for http://hostname,   also fix html blank page formatting issue (XCF-54 related)
+END

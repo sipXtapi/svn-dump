@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-01-23T18:52:16.357211Z
+K 7
+svn:log
+V 80
+XCF-1457 - Ignore autoattendant aliases if none were set when migrating database
+END

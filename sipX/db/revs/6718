@@ -1,0 +1,230 @@
+PLAIN
+K 13
+svn:externals
+V 81
+config https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi-media-update/config
+
+END
+ENDREP
+id: bcf.3ke.r6718/123
+type: dir
+pred: bcf.0.r6713/1059
+count: 3
+text: 6713 0 936 936 26374910fe0579fe8fcc2fc65b26ab1b
+props: 6718 0 110 0 d239bb82cadefea8ebc85ad6b3eed562
+cpath: /branches/sipXtapi-media-update/sipXportLib
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+K 13
+svn:externals
+V 81
+config https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi-media-update/config
+
+END
+ENDREP
+id: 9wt.3ke.r6718/516
+type: dir
+pred: 9wt.0.r6713/2502
+count: 3
+text: 6713 1286 1093 1093 66e316abf0e1ea57a739e67bfa108cfe
+props: 6718 393 110 0 d239bb82cadefea8ebc85ad6b3eed562
+cpath: /branches/sipXtapi-media-update/sipXcallLib
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+K 13
+svn:externals
+V 81
+config https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi-media-update/config
+
+END
+ENDREP
+id: b40.3ke.r6718/916
+type: dir
+pred: b40.0.r6713/3604
+count: 4
+text: 6713 2735 746 746 87bfb76479d107d779ab4795e907b174
+props: 6718 793 110 0 d239bb82cadefea8ebc85ad6b3eed562
+cpath: /branches/sipXtapi-media-update/sipXmediaLib
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+K 13
+svn:externals
+V 81
+config https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi-media-update/config
+
+END
+ENDREP
+id: b2p.3ke.r6718/1315
+type: dir
+pred: b2p.0.r6713/4566
+count: 3
+text: 6713 3834 609 609 2b829c9f952d2188225e3c5bb33102d5
+props: 6718 1192 110 0 d239bb82cadefea8ebc85ad6b3eed562
+cpath: /branches/sipXtapi-media-update/sipXmediaAdapterLib
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+K 13
+svn:externals
+V 81
+config https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi-media-update/config
+
+END
+ENDREP
+id: boq.3ke.r6718/1723
+type: dir
+pred: boq.0.r6713/6553
+count: 3
+text: 6713 4805 1625 1625 a3a6b817d0810c7506765577feb7f998
+props: 6718 1600 110 0 d239bb82cadefea8ebc85ad6b3eed562
+cpath: /branches/sipXtapi-media-update/sipXtackLib
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+K 6
+config
+V 24
+dir 9wj.0.r6469/21603218
+K 10
+readme.txt
+V 25
+file 9ws.0.r6469/22059939
+K 11
+sipXcallLib
+V 21
+dir 9wt.3ke.r6718/516
+K 19
+sipXmediaAdapterLib
+V 22
+dir b2p.3ke.r6718/1315
+K 12
+sipXmediaLib
+V 21
+dir b40.3ke.r6718/916
+K 11
+sipXportLib
+V 21
+dir bcf.3ke.r6718/123
+K 11
+sipXtackLib
+V 22
+dir boq.3ke.r6718/1723
+END
+ENDREP
+id: 9wi.3ke.r6718/2338
+type: dir
+pred: 9wi.3ke.r6715/0
+count: 6
+text: 6718 2002 323 323 77cda432f968a00fd71b457f6bf99df7
+cpath: /branches/sipXtapi-media-update
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r6684/6307
+K 3
+3.4
+V 22
+dir 7q4.3ib.r6708/3157
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 20
+dir 9wi.0.r6713/7115
+K 21
+sipXtapi-media-update
+V 22
+dir 9wi.3ke.r6718/2338
+K 12
+solaris_port
+V 24
+dir 7q4.39l.r6666/116324
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r6718/3214
+type: dir
+pred: 7pt.0.r6715/858
+count: 590
+text: 6718 2546 655 655 264478decfb49bf93b6d9e4295309468
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r6718/3214
+K 4
+main
+V 20
+dir 7q4.0.r6717/1150
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6718/3494
+type: dir
+pred: 0.0.r6717/1483
+count: 6718
+text: 6718 3367 114 114 8315f18bc9b1f29a716167457f28f938
+cpath: /
+copyroot: 0 /
+
+boq.3ke.t6717-1 modify false true /branches/sipXtapi-media-update/sipXtackLib
+
+bcf.3ke.t6717-1 modify false true /branches/sipXtapi-media-update/sipXportLib
+
+9wt.3ke.t6717-1 modify false true /branches/sipXtapi-media-update/sipXcallLib
+
+b40.3ke.t6717-1 modify false true /branches/sipXtapi-media-update/sipXmediaLib
+
+b2p.3ke.t6717-1 modify false true /branches/sipXtapi-media-update/sipXmediaAdapterLib
+
+
+3494 3637

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-11-20T05:04:09.008944Z
+K 7
+svn:log
+V 177
+XCF-767 - Build framework to load setting files based on a hierarchy.  manufact/firmware_model_version_... .xml
+
+Also fix web services, unit test, include path issue on windows.
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2004-11-08T20:41:12.662256Z
+K 7
+svn:log
+V 149
+http://track.sipfoundry.org/browse/XPB-116
+
+Added a check to verify that watchdog process is not already running
+before attempting to start up sipX.
+
+END

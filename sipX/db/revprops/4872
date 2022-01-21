@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-07-21T19:01:20.446638Z
+K 7
+svn:log
+V 141
+Generalize PluginHooks to allow multiple hook types in a single
+  library.
+Add RegisterHook to be called on successful registration change.
+
+
+END

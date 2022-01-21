@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-08-20T19:22:56.262109Z
+K 7
+svn:log
+V 482
+[XCS-66] fix shared memory and semaphore leaks
+         The sipXcommserverLib and sipXregistry unit tests leaked
+         system shared memory and shared semaphore references.  This
+         sometimes caused repeated builds to either hang or fail.
+         A registrar restart could also cause a similar leak, but in a
+         running system this is rare enough not to be a problem unless
+         the registrar was deliberately restarted many times (not a
+         normal event).
+
+END

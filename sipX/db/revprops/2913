@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-01-28T20:25:17.486584Z
+K 7
+svn:log
+V 50
+Added the ability to specify which CODECS to use.
+
+END

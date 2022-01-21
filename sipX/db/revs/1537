@@ -1,0 +1,300 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1oh.6n.r1537/82
+type: file
+pred: 1oh.6n.r1536/137
+count: 1
+text: 1536 0 124 113 215c8ef10089ad7d481e576dd6b1a99a
+props: 1537 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcallLib/main/examples/CallScript/src/hanging-call
+copyroot: 1422 /old/sipXcallLib/main/examples/CallScript
+
+PLAIN
+K 14
+CallScript.cpp
+V 24
+file 15z.6o.r1491/172117
+K 19
+CallScriptDriver.pl
+V 24
+file 16l.6n.r1491/172937
+K 11
+Makefile.am
+V 24
+file 16j.6n.r1491/173721
+K 6
+README
+V 21
+file 16w.6n.r1520/262
+K 15
+TestingProtocol
+V 24
+file 16x.6n.r1491/171334
+K 8
+driver-1
+V 24
+file 16y.6n.r1491/174108
+K 8
+driver-2
+V 24
+file 16z.6n.r1491/174492
+K 12
+hanging-call
+V 20
+file 1oh.6n.r1537/82
+K 13
+leave-message
+V 24
+file 170.6n.r1491/175259
+K 14
+leave-retrieve
+V 24
+file 171.6n.r1491/171727
+K 11
+log-analyze
+V 24
+file 172.6n.r1491/172550
+K 16
+retrieve-message
+V 24
+file 173.6n.r1491/173330
+END
+ENDREP
+id: 15y.6n.r1537/961
+type: dir
+pred: 15y.6n.r1536/943
+count: 13
+text: 1537 375 573 573 e89460e889930de7c47a1465e65bf4e0
+props: 1431 10794 77 0 5a7c31a34a6db0baf7693974e8116718
+cpath: /old/sipXcallLib/main/examples/CallScript/src
+copyroot: 1422 /old/sipXcallLib/main/examples/CallScript
+
+PLAIN
+K 14
+CallScript.dsp
+V 24
+file 15x.6q.r1491/170935
+K 3
+src
+V 20
+dir 15y.6n.r1537/961
+END
+ENDREP
+id: 15w.6n.r1537/1349
+type: dir
+pred: 15w.6n.r1536/1332
+count: 13
+text: 1537 1248 88 88 6e703705dc8bde3eebe671beacdc3043
+cpath: /old/sipXcallLib/main/examples/CallScript
+copyroot: 1422 /old/sipXcallLib/main/examples/CallScript
+
+PLAIN
+K 10
+CallScript
+V 21
+dir 15w.6n.r1537/1349
+K 11
+Makefile.am
+V 22
+file vm.0.r1491/180828
+K 9
+PlaceCall
+V 20
+dir 15w.0.r1533/4653
+K 11
+ReceiveCall
+V 20
+dir 160.0.r1533/5238
+K 11
+musicServer
+V 19
+dir vn.0.r1498/3442
+K 11
+sipXezPhone
+V 21
+dir 174.0.r1519/11307
+END
+ENDREP
+id: vl.0.r1537/1851
+type: dir
+pred: vl.0.r1536/1834
+count: 57
+text: 1537 1577 261 261 00e78943ab85d17d9318a10f0c999f5e
+props: 1356 1849 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXcallLib/main/examples
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file vb.0.r1491/159931
+K 9
+ChangeLog
+V 19
+file vc.0.r1534/115
+K 7
+INSTALL
+V 22
+file vd.0.r1491/169400
+K 7
+LICENSE
+V 21
+file ve.0.r1491/42834
+K 11
+Makefile.am
+V 22
+file vf.0.r1491/170313
+K 4
+NEWS
+V 22
+file vg.0.r1491/170627
+K 6
+README
+V 22
+file vh.0.r1491/159626
+K 4
+TODO
+V 22
+file vi.0.r1491/169087
+K 9
+acsite.m4
+V 21
+file vj.0.r1491/97655
+K 3
+bin
+V 22
+dir 15f.0.r1491/170007
+K 12
+configure.ac
+V 22
+file vk.0.r1491/160565
+K 3
+doc
+V 21
+dir 158.0.r1530/35946
+K 8
+examples
+V 19
+dir vl.0.r1537/1851
+K 7
+include
+V 20
+dir vt.0.r1530/27136
+K 4
+meta
+V 20
+dir 16r.0.r1490/1197
+K 15
+sipXcallLib.dsp
+V 23
+file 155.0.r1491/159302
+K 12
+sipXtapi.dsp
+V 19
+file 16a.0.r1532/90
+K 12
+sipXtapi.dsw
+V 22
+file 16b.0.r1530/30998
+K 16
+sipXtapiTest.dsp
+V 22
+file 16c.0.r1530/27596
+K 19
+sipxcalllib.spec.in
+V 20
+file 15d.0.r1512/130
+K 3
+src
+V 20
+dir 10q.0.r1535/1953
+END
+ENDREP
+id: va.0.r1537/2960
+type: dir
+pred: va.0.r1536/2943
+count: 163
+text: 1537 2078 869 869 ddaf4f4e572858b0199cbbaf95dca088
+props: 1534 1222 501 0 36d886eb28a2e293658126a260aef4a5
+cpath: /old/sipXcallLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 15e.0.r1528/1696
+K 4
+main
+V 19
+dir va.0.r1537/2960
+K 4
+tags
+V 20
+dir 156.0.r1529/3173
+END
+ENDREP
+id: v9.0.r1537/3305
+type: dir
+pred: v9.0.r1536/3288
+count: 216
+text: 1537 3180 112 112 8b45310ce10765ad3c25201237081454
+cpath: /old/sipXcallLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1537/3305
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1537/3649
+type: dir
+pred: 1.0.r1536/3632
+count: 1536
+text: 1537 3464 172 172 9a7f39a1e219e530d320f549b9fc23e6
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1537/3649
+END
+ENDREP
+id: 0.0.r1537/3844
+type: dir
+pred: 0.0.r1536/3827
+count: 1537
+text: 1537 3795 36 36 acabc37a56698cb86d1f078cebc68a7d
+cpath: /
+copyroot: 0 /
+
+1oh.6n.t1536-1 modify false true /old/sipXcallLib/main/examples/CallScript/src/hanging-call
+
+
+3844 3985

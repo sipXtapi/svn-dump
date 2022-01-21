@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-03-13T05:34:05.390892Z
+K 7
+svn:log
+V 52
+added method to open and write binary data to file
+
+
+END

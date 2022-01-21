@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-12-16T20:52:31.841385Z
+K 7
+svn:log
+V 55
+Add missing files to Speex codec plugin's Makefile.am.
+
+END

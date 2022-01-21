@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-04T20:54:23.135885Z
+K 7
+svn:log
+V 99
+Add ability to locally turn on/off debug output in MprFromInputDevice and MpAudioOutputConnection.
+
+END

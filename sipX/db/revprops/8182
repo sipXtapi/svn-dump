@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-12-01T15:33:00.085595Z
+K 7
+svn:log
+V 75
+Do not start sending video RTP stream if remote party does not support it.
+
+END

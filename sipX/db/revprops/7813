@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-10-24T10:45:27.664470Z
+K 7
+svn:log
+V 230
+Merged revisions 7774 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7774 | bob | 2006-10-18 02:05:42 +0400 | 2 lines
+  
+  Added accessor for the socketDescriptor for OsServerSocket
+........
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-24T17:14:28.967450Z
+K 7
+svn:log
+V 236
+XCF-1458 minor changes in Polycom BLF support
+- do not add BLF-enabled buttons to directory file (seems that phone is doing this automatically)
+- subscribe to "consolidated" resource list from Polycom phones ('c' appendened to list id)
+
+END

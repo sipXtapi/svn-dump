@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-20T16:20:40.262743Z
+K 7
+svn:log
+V 325
+Merged revisions 8063 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+
+........
+  r8063 | xmlscott | 2006-11-22 00:15:44 +0300 | 16 lines
+  
+  TLS Improvements
+   - Improve logging in TLS/SSL Http server connections
+   - Cache peer status for TLS connections to avoid parsing cert many times
+........
+
+END

@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-11-14T16:01:22.185822Z
+K 7
+svn:log
+V 155
+XCF-756 global search for users, phones, call groups, etc.
+Merged sipxconfig-lucene branch
+svn merge -r 5515:HEAD ~/sipx/sipfoundry/lucene/sipXconfig/ .
+
+
+
+END

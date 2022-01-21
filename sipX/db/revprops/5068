@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-19T18:40:07.923404Z
+K 7
+svn:log
+V 48
+Restore testGenerateAliases per Damian's request
+END

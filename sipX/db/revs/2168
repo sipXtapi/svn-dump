@@ -1,0 +1,145 @@
+PLAIN
+K 13
+svn:externals
+V 76
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/main-export-C/config
+
+K 10
+svn:ignore
+V 126
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+
+K 18
+svnmerge-main-head
+V 45
+https://scm.sipfoundry.org/rep/sipXproxy/main
+K 18
+svnmerge-main-revs
+V 4
+1-68
+END
+ENDREP
+id: 1vt.a6.r2168/375
+type: dir
+pred: 1vt.0.r2164/950
+count: 60
+text: 2164 276 661 661 c2e80b43c5a7300d04d46bc2818f5dc4
+props: 2168 0 362 0 6918da4323260b2c5a0621ff0e484963
+cpath: /old/sipXproxy/tags/main-export-C
+copyfrom: 2167 /old/sipXproxy/main
+
+PLAIN
+K 5
+2.5.1
+V 21
+dir 1vt.9s.r2107/1819
+K 5
+2.5.2
+V 21
+dir 1vt.9t.r2121/1172
+K 13
+main-export-B
+V 20
+dir 1vt.a5.r2167/375
+K 13
+main-export-C
+V 20
+dir 1vt.a6.r2168/375
+END
+ENDREP
+id: 1x7.0.r2168/805
+type: dir
+pred: 1x7.0.r2167/760
+count: 6
+text: 2168 624 168 168 7372f6f5b20d45a15c577936a5b4365a
+cpath: /old/sipXproxy/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 1x8.0.r2166/13454
+K 4
+main
+V 19
+dir 1vt.0.r2164/950
+K 4
+tags
+V 19
+dir 1x7.0.r2168/805
+END
+ENDREP
+id: 1vs.0.r2168/1089
+type: dir
+pred: 1vs.0.r2167/1045
+count: 72
+text: 2168 964 112 112 70933bf7a58cae008dce0f93b10c70bd
+cpath: /old/sipXproxy
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2168/1089
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2168/1520
+type: dir
+pred: 1.0.r2167/1477
+count: 2167
+text: 2168 1246 261 261 90f9ccb3d88414d8448a031cec0a5590
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2168/1520
+END
+ENDREP
+id: 0.0.r2168/1715
+type: dir
+pred: 0.0.r2167/1673
+count: 2168
+text: 2168 1666 36 36 9d409b401eca8d94dbae845857d53e12
+cpath: /
+copyroot: 0 /
+
+1vt._0.t2167-1 add false true /old/sipXproxy/tags/main-export-C
+2167 /old/sipXproxy/main
+
+1715 1856

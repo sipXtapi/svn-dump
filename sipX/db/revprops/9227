@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-04-03T21:18:59.988629Z
+K 7
+svn:log
+V 123
+XCF-1554 - Call function to pull pin from page variable into user object before saving user instead of on page render phase
+END

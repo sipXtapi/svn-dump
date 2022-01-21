@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-09-11T16:01:38.119049Z
+K 7
+svn:log
+V 298
+Increase DTMF notification duration value to 32 bit signed,
+add DURATION_NOT_APPLICABLE value (-1),
+assert if one creates a DTMF KEY_DOWN notification with a duration other than DURATION_NOT_APPLICABLE,
+Change sending of DTMF KEY_DOWN notification to use default duration (DURATION_NOT_APPLICABLE).
+END

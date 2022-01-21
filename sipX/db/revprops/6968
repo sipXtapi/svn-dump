@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-06-14T15:45:54.629391Z
+K 7
+svn:log
+V 203
+XCF-1088 trim spaces in Manufacturer and Model when importing CSV data
+- this is a slightly different fix than in mainline: code in mainline has be changed quite significantly to accomodate LDAP imports
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-05-08T15:42:24.101949Z
+K 7
+svn:log
+V 120
+XCF-1026 prevent call to get to voice mail if the last member of the hunt group sequence is configured as parallel fork
+
+END

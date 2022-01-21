@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-01T21:24:52.300639Z
+K 7
+svn:log
+V 126
+Enable basic blind transfer unit/regression tests (more work needed).  Also,
+replaced "localhost" references with 127.0.0.1.
+
+
+END

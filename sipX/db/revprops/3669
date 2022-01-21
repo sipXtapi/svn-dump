@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-17T23:27:02.286332Z
+K 7
+svn:log
+V 85
+XCF-167 Make lifecycle on even-odd style class generator to reset on each page render
+END

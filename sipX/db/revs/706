@@ -1,0 +1,154 @@
+PLAIN
+K 13
+svn:externals
+V 75
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-C/config
+
+K 10
+svn:ignore
+V 196
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.properties
+config.status
+configure
+libtool
+sipxtacklib-*.tar.gz
+sipxtacklib.spec
+stamp-h1
+Debug
+Release
+
+K 17
+svnmerge-2.6-head
+V 55
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 5
+1-106
+K 18
+svnmerge-main-head
+V 47
+https://scm.sipfoundry.org/rep/sipXtackLib/main
+K 18
+svnmerge-main-revs
+V 4
+1-96
+END
+ENDREP
+id: dk.2x.r706/563
+type: dir
+pred: dk.2u.r705/22489
+count: 87
+text: 705 21474 1002 1002 82fbc4ff6ffc2fba2c91e827c1238fbe
+props: 706 0 550 0 9cb7a806bb7d089859df2a826ccf4564
+cpath: /old/sipXtackLib/tags/2.6-export-C
+copyfrom: 705 /old/sipXtackLib/branches/2.6
+
+PLAIN
+K 5
+2.5.1
+V 19
+dir dk.2k.r622/2796
+K 5
+2.5.2
+V 19
+dir dk.2l.r641/1720
+K 12
+2.6-export-A
+V 18
+dir dk.2v.r697/562
+K 12
+2.6-export-B
+V 18
+dir dk.2w.r699/562
+K 12
+2.6-export-C
+V 18
+dir dk.2x.r706/563
+K 13
+main-export-B
+V 18
+dir dk.2s.r692/447
+K 13
+main-export-C
+V 18
+dir dk.2t.r694/447
+END
+ENDREP
+id: kr.0.r706/1122
+type: dir
+pred: kr.0.r699/1074
+count: 9
+text: 706 823 286 286 ad721333c950869bf330831c069281ee
+cpath: /old/sipXtackLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir kz.0.r705/22796
+K 4
+main
+V 18
+dir dk.0.r702/1429
+K 4
+tags
+V 18
+dir kr.0.r706/1122
+END
+ENDREP
+id: dj.0.r706/1401
+type: dir
+pred: dj.0.r705/23079
+count: 107
+text: 706 1280 108 108 2a6804483b0d697fc17d80b5f6ee77a0
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 18
+dir dj.0.r706/1401
+END
+ENDREP
+id: 1.0.r706/1656
+type: dir
+pred: 1.0.r705/23335
+count: 705
+text: 706 1558 85 85 46ee56e05772a85acc7688e4858ada6c
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r706/1656
+END
+ENDREP
+id: 0.0.r706/1845
+type: dir
+pred: 0.0.r705/23525
+count: 706
+text: 706 1797 35 35 cd3f7c021eb5743c92507b5547588d3f
+cpath: /
+copyroot: 0 /
+
+dk._0.t705-1 add false true /old/sipXtackLib/tags/2.6-export-C
+705 /old/sipXtackLib/branches/2.6
+
+1845 1983

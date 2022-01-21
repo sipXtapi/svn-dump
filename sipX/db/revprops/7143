@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-08-01T13:30:02.547631Z
+K 7
+svn:log
+V 329
+A few os lib tweaks:
+
+1) STUN: When creating an XOR_MAPPED address, XOR the data in network byte ordering (was XORing with host byte ordering)
+2) STUN: Removed debug strings in OsNatAgentTask
+3) OsTimerTask: If you receive a request to stop a timer on your own thread context, process the event directly instead of deadlocking.
+
+
+END

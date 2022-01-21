@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-20T15:36:08.992808Z
+K 7
+svn:log
+V 106
+http://track.sipfoundry.org/browse/XCF-28
+Add SIPX_BINDIR to the set of edits because sipxpbx.in uses it.
+
+END

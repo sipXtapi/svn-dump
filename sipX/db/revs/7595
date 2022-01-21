@@ -1,0 +1,152 @@
+PLAIN
+K 10
+svn:ignore
+V 54
+build
+configure
+autom4te.cache
+aclocal.m4
+Makefile.in
+
+END
+ENDREP
+id: 8g8.0.r7595/93
+type: dir
+pred: 8g8.0.r7593/2169
+count: 14
+text: 7462 704 245 245 e07c81addc5cee501a5d0ea0430f6e77
+props: 7595 0 80 0 0e53655cd4a6389d03c7e9dd0690fb27
+cpath: /main/resiprocateLib
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.in
+V 22
+file d0m.421.r7476/352
+K 7
+bbridge
+V 21
+dir 8dl.0.r7320/66517
+K 5
+build
+V 22
+file d5a.0.r7320/66775
+K 6
+config
+V 20
+dir 91.1i4.r7594/575
+K 12
+configure.ac
+V 22
+file d0n.0.r7375/40114
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 3
+lib
+V 20
+dir cyn.0.r7587/4615
+K 14
+resiprocateLib
+V 18
+dir 8g8.0.r7595/93
+K 9
+sipXb2bua
+V 22
+dir dau.0.r7443/443096
+K 11
+sipXcallLib
+V 22
+dir va.1i5.r7585/39619
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r7586/22333
+K 10
+sipXconfig
+V 22
+dir 2hf.1i7.r7593/3983
+K 19
+sipXmediaAdapterLib
+V 20
+dir 89s.0.r7592/2266
+K 12
+sipXmediaLib
+V 22
+dir mz.1i8.r7585/46747
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r7581/5134
+K 9
+sipXphone
+V 24
+dir 6qk.1ia.r7320/116868
+K 11
+sipXportLib
+V 20
+dir 3.1ib.r7586/9540
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r7587/2904
+K 13
+sipXpublisher
+V 23
+dir 20n.1id.r7545/41310
+K 12
+sipXregistry
+V 23
+dir 1y5.1ie.r7586/16387
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r7586/29210
+K 8
+sipXvxml
+V 23
+dir 22d.1ig.r7545/21876
+K 10
+top.mak.in
+V 21
+file d5l.0.r7330/2797
+END
+ENDREP
+id: 7q4.0.r7595/1325
+type: dir
+pred: 7q4.0.r7594/1822
+count: 1836
+text: 7595 306 1006 1006 7deec1cd775656f30f2d966d7f4a1760
+props: 7593 5248 1802 0 058b2c003e5804a770bf9bff12b2c665
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r7591/5594
+K 4
+main
+V 20
+dir 7q4.0.r7595/1325
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r7595/1661
+type: dir
+pred: 0.0.r7594/2158
+count: 7595
+text: 7595 1534 114 114 a5276d2cf05bc945d6f70d0708ea1b0e
+cpath: /
+copyroot: 0 /
+
+8g8.0.t7594-1 modify false true /main/resiprocateLib
+
+
+1661 1804

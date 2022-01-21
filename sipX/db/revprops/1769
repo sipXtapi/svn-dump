@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-13T23:23:02.919584Z
+K 7
+svn:log
+V 99
+Parse URIs in the correct mode (addr-spec vs. name-addr)
+http://track.sipfoundry.org/browse/XSL-85
+
+END

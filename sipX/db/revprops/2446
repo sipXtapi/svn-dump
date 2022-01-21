@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-03-11T06:50:40.307754Z
+K 7
+svn:log
+V 245
+Fixed a compiler problem on MSVC for the registry.
+
+Set the definition in the MSVC dsp so that the registry
+will build without the versionbuild.h.
+
+Removed a SipRefreshMgr include in the registry code.
+where it should not have been referenced.
+
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-03-04T04:01:19.504844Z
+K 7
+svn:log
+V 64
+XCF-938 Allow script that finds java to find and work w/ibms jvm
+END

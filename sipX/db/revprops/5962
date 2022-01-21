@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-25T15:37:18.060030Z
+K 7
+svn:log
+V 86
+XCF-892 fix importing so that user and phones groups with empty names are not created
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2013-10-15T23:27:41.109046Z
+K 7
+svn:log
+V 61
+Fixed use of OsTaskId type.  Compile error on Android NDK 8.
+
+END

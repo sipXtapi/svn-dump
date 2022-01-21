@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2006-08-11T19:47:55.948871Z
+K 7
+svn:log
+V 89
+Linux Build Fix (corrected SipXtapiEventDispatcher.h to SipXEventDispatcher.h)
+
+--Woof!
+
+
+END

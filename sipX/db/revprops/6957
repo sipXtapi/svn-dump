@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-06-12T21:51:33.724479Z
+K 7
+svn:log
+V 283
+Remove the stop and restart flags from the process configuration per info from Scott that those flags were never implemented in the existing process manager, so this is just baggage that we should not carry forward.
+Check in partial WSDL for the read/write/delete file SOAP methods.
+
+END

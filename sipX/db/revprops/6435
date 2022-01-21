@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-03-25T23:46:19.438857Z
+K 7
+svn:log
+V 255
+Only generate src/cse/test/Makefile if local database tests are
+enabled. Override the src/cse DIST_SUBDIRS variable to only 
+include the current directory, not the test subdirectory.
+
+This should fix a build failure that only showed up in the 
+RPM build.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-02-17T18:13:44.493976Z
+K 7
+svn:log
+V 63
+Added preCodecJitterBufferSize parameter value to MpCodecInfo.
+
+END

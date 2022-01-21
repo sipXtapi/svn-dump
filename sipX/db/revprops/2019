@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-03-25T15:17:59.384363Z
+K 7
+svn:log
+V 67
+Added support for upgrading version 2.6.1 & 2.6.2 of media server.
+
+END

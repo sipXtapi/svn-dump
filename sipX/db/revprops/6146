@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-15T13:30:17.031675Z
+K 7
+svn:log
+V 34
+fix build rule for watchdog schema
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-02-08T19:55:01.715168Z
+K 7
+svn:log
+V 61
+add version info to callLib, makefile for ReceiveCall example
+END

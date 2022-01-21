@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-08-04T21:00:37.927598Z
+K 7
+svn:log
+V 639
+mergefrom pingtel-main 5123
+
+Add latest improvements to siptrace-merge.
+
+mergefrom pingtel-main 5836 (partial)
+
+mergefrom pingtel-cml 5511,5530,5552,5558,5622,5624,5625,5635,5647,5650
+Add code to handle the --before and --after switches, as the overall
+processing time of merge-logs is dramatically faster if --before and
+--after are handled in syslog2siptrace rather than in siptrace-merge.
+Pass the --before and --after options to syslog2siptrace, now that it
+supports them.
+Use "--" rather than "-" as the end-of-options marker.
+
+mergefrom pingtel-main 6538
+
+Improve comment in merge-logs so it describes the current state of the code.
+
+END

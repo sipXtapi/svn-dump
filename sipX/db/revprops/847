@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-20T11:41:59.541364Z
+K 7
+svn:log
+V 869
+BugFix in client authentication/line management found while using the sipXtapi placecall example.   When receiving a 408/proxy authentication request, the SipUserAgent must ask the SipLineMgr for the corresponding line because the line acts as a container for the authentication criteria.   The logic for selecting a line looks at a number of factors including the line definition, line id, and URIs within SIP message.  
+
+In the line manager code, the logic uses the "To" address to compare against the line URI.  The "To" address may be interesting when REGISTERing, but definitely not when placing an outbound call.  To avoid breaking some corner case or something that I’m conceptually missing, I added another check for the "From" address immediately after the "To" check.  This solves my case, although, I question why/if the "To" address should be consulted.
+
+
+END

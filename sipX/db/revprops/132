@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-07-09T17:17:50.702031Z
+K 7
+svn:log
+V 576
+Fix XPL-33
+
+This was actually a unit test bug.  The test assumed that it was
+creating the OsNameDb and that therefor it would be initially empty.
+Because OsNameDb is a singleton, it could have been created by any
+earlier test and have contents left over from those tests (which
+explains why the test passed when built in a test suite of its own but
+failed when run after timer tests).
+
+The test is modified now to remove that assumption.  It also does not
+delete the OsNameDb at the end, since that's not something that
+happens in the normal usage except at system shutdown.
+
+
+END

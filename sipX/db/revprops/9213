@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-04-02T18:56:19.469677Z
+K 7
+svn:log
+V 62
+Optimized locking code in MpInputDeviceManager::removeDevice.
+
+END

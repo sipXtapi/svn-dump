@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-04-20T22:24:40.844346Z
+K 7
+svn:log
+V 166
+Added basic support for ACME gateway. It is intended to be a reference implementation (similar to KPhone for phones) to help with adding support for other gateways. 
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-12T19:58:51.526333Z
+K 7
+svn:log
+V 163
+Fix part of XCF-357: if the user attempts to add a gateway with a duplicate name, respond gently but insistently rather than blowing out rudely with an exception.
+
+END

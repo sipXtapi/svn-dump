@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-18T08:19:29.293475Z
+K 7
+svn:log
+V 206
+Remove ackShutdown() call from OsTimerTask::run() and OsServerTask::run().
+It's not safe to call ackShutdown() here, it should be called (and it's called) from outside run(), when run() method is finished.
+
+END

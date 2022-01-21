@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-01-20T15:13:28.223860Z
+K 7
+svn:log
+V 114
+XCF-863 - Remove using wsdl extension complexTypes altogether for now until SOAP4R release on FC4 is more uptodate
+END

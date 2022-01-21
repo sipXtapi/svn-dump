@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-09-22T18:03:45.926975Z
+K 7
+svn:log
+V 155
+sipXmediaLib: Implement better state machine for MprFromFile.
+Now it always responds with a notification to action request - whether it succeeds or fails.
+
+END

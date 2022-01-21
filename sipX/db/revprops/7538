@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-22T02:57:26.511729Z
+K 7
+svn:log
+V 98
+XCF-1215 added "None" as a valid choice in permission dropdown list for long distance permissions
+
+END

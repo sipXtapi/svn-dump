@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 8
+cypromis
+K 8
+svn:date
+V 27
+2006-09-06T14:19:41.040048Z
+K 7
+svn:log
+V 240
+Configuration works now.
+Todo are: New Unit test
+Ringer regex to specify which lines are internal/external etc ..
+Provisioning setup
+Daylight Savings Time start/stop day (seems to be a bug in sipxconfig)
+presence server address
+mwi address
+
+END

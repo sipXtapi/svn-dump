@@ -1,0 +1,37 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-12-19T19:15:00.501527Z
+K 7
+svn:log
+V 1283
+Rewrite speex detection and usage code.
+Now add separate enable/disable for speex usage in main sipXmediaLib code 
+(dsp routines like resampling, VAD, etc..), and in building speex codec
+plugin.
+
+Usage of contrib libspeex code is also made clearer -- if you want to make
+sure that contrib code is used, specify --enable-contrib-speex.  Otherwise, if
+the proper version of speex is detected installed on your system, it will use
+that.  If no installed speex of proper version or above is detected, it will
+always configure to build and use contrib code.
+
+Here is a summary of the related configure options to this patch:
+--enable-contrib-speex -- force usage of speex contained in contrib dir over all else. (NEW)
+--enable-codec-speex -- Build and install the speex codec plugin.
+--enable-speex-dsp -- enable use of speex in main sipXmediaLib code (just the speex dsp routines like resampling, etc) (NEW)
+
+CAUTION:
+This does have a slight drawback in the way it is engineered -- if contrib
+libspeex ends up being selected (by forcing it, or just by falling back to it), it will currently be installed if you 'make install' sipXmediaLib.
+Beware of this, as, if you have an installed speex, it will overwrite your
+installed speex libs and includes.
+
+A patch forthcoming will fix this.
+
+
+END

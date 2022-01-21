@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-08-15T14:54:57.459047Z
+K 7
+svn:log
+V 139
+r7239 caused some instability (crash on startup) due to a change in behavior in  getAllLocalHostIps -- this should resolved this problem.
+
+
+END

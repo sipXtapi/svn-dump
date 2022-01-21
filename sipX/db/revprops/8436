@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-04T19:29:20.455624Z
+K 7
+svn:log
+V 173
+Merging minor fixes from 3.6 branch:
+- Do not check max users when making edits to a user, only when creating a new user
+- ACD calls fail if the Line Name contains a space 
+
+END

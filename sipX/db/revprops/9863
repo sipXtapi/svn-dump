@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-17T21:16:54.770173Z
+K 7
+svn:log
+V 50
+Fix several warning, related to UtlBoolean usage.
+
+END

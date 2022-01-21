@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-15T14:42:43.851904Z
+K 7
+svn:log
+V 44
+FIX RPM BUILD : merge 8051 from pingtel main
+END

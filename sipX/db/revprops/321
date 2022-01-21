@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-12-12T14:42:08.790565Z
+K 7
+svn:log
+V 72
+CHECK_JBOSS requires JBoss 4.0 and checks for JBOSS_SERVER_CONF as well
+
+END

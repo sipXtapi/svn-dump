@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-27T17:02:02.101513Z
+K 7
+svn:log
+V 249
+XCF-682 default values are not displayed for passwords
+default values are not displayed if they are empty either
+We use FieldEdit in SettingEditor now - trying to ensure that the exactly the same HTML is generated for Settings and for other fields.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-12-21T17:33:00.644920Z
+K 7
+svn:log
+V 60
+Ignore constructed make files in sipXmediaLib/src/mp/codecs
+
+END

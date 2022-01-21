@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-15T01:05:11.360527Z
+K 7
+svn:log
+V 327
+XCF-753 yet another fix for settings pages: 
+new TextField component's value parameter has to be bound to specific type of object (in tapestry 3 you could always bind it to string)
+we already had getTypedValue function for our settings, I have added setTypedValue and I use this in SettingEditor for Numeric and Boolean values
+
+END

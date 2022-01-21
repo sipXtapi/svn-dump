@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-10-19T22:55:51.808255Z
+K 7
+svn:log
+V 139
+A few TURN tweaks:
+
+1) Don't fail to parase on TURN_REQUESTED_PORT (not yet used)
+2) Don't require fingerprint attribute (no longer used)
+
+
+END

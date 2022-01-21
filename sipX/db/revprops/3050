@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-08-17T17:44:18.670424Z
+K 7
+svn:log
+V 107
+Use Makefiles in root and root's of respective projects, include junit doesn't come w/all ant distrobutions
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-02-11T12:33:02.468941Z
+K 7
+svn:log
+V 103
+XPR-217 add unit tests for generating stunnel config
+simplify launching and closing stunnel connection
+
+END

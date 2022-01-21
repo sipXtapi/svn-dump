@@ -1,0 +1,454 @@
+id: 7mn.11o.r4749/0
+type: dir
+pred: 7mn.10t.r4748/349
+count: 4
+text: 4748 291 45 45 a0eaa87a3a071849894c37ad5500312e
+cpath: /old/sipXphone/branches/tmp/kbrose_identity/javacore/src/test/org
+copyfrom: 4748 /old/sipXphone/branches/tmp/kbrose_identity/javacore/src/test/com
+
+PLAIN
+K 23
+AppClassLoaderTest.java
+V 25
+file 7dw.10t.r4746/155434
+K 21
+PingerConfigMock.java
+V 25
+file 7dx.10t.r4746/155099
+K 3
+org
+V 19
+dir 7mn.11o.r4749/0
+END
+ENDREP
+id: 7dv.10t.r4749/440
+type: dir
+pred: 7dv.10t.r4748/772
+count: 6
+text: 4749 272 155 155 5253aad5d3315680d439a234553ca646
+cpath: /old/sipXphone/branches/tmp/kbrose_identity/javacore/src/test
+copyroot: 4745 /old/sipXphone/branches/tmp/kbrose_identity
+
+id: 6zx.11n.r4749/690
+type: dir
+pred: 6zx.10t.r4747/4650
+count: 9
+text: 4747 4589 48 48 48e786666acc80f99c19fbe91e25163f
+cpath: /old/sipXphone/branches/tmp/kbrose_identity/javacore/src/org
+copyfrom: 4748 /old/sipXphone/branches/tmp/kbrose_identity/javacore/src/com
+
+PLAIN
+K 21
+DefaultJtapiPeer.java
+V 25
+file 6zw.10t.r4746/158918
+K 4
+java
+V 23
+dir 7d3.0.r4673/7439390
+K 5
+javax
+V 23
+dir 7d6.0.r4673/7448860
+K 3
+org
+V 21
+dir 6zx.11n.r4749/690
+K 4
+test
+V 21
+dir 7dv.10t.r4749/440
+END
+ENDREP
+id: 6zv.10t.r4749/1179
+type: dir
+pred: 6zv.10t.r4748/1247
+count: 12
+text: 4749 956 210 210 2791f075bcfb4b176de7bd2bd5f02159
+cpath: /old/sipXphone/branches/tmp/kbrose_identity/javacore/src
+copyroot: 4745 /old/sipXphone/branches/tmp/kbrose_identity
+
+PLAIN
+K 10
+.classpath
+V 21
+file 7mg.0.r4721/1039
+K 8
+.project
+V 21
+file 7mh.0.r4721/1196
+K 11
+Makefile.am
+V 24
+file 6tb.0.r4673/7628219
+K 20
+build-wnt.properties
+V 21
+file 6tc.0.r4685/6661
+K 13
+build-wnt.xml
+V 25
+file 6td.10t.r4746/142652
+K 9
+build.xml
+V 21
+file 6te.0.r4685/7162
+K 7
+classes
+V 23
+dir 6tf.0.r4673/7628711
+K 4
+dist
+V 23
+dir 6th.0.r4673/7353150
+K 12
+javacore.iml
+V 21
+file 7me.0.r4692/3048
+K 4
+meta
+V 24
+dir 6tj.10t.r4746/154847
+K 3
+src
+V 22
+dir 6zv.10t.r4749/1179
+K 12
+test-results
+V 23
+dir 7dy.0.r4673/7629166
+K 5
+tests
+V 23
+dir 7dz.0.r4673/7352893
+END
+ENDREP
+id: 6ta.10t.r4749/2003
+type: dir
+pred: 6ta.10t.r4748/2072
+count: 18
+text: 4749 1427 563 563 8e78df33cfbda014a3085d532b3694dc
+props: 4691 2492 42 0 36e19d5208d6fe4b81b1977390a5e6b2
+cpath: /old/sipXphone/branches/tmp/kbrose_identity/javacore
+copyroot: 4745 /old/sipXphone/branches/tmp/kbrose_identity
+
+id: 7hm.11p.r4749/2303
+type: dir
+pred: 7hm.10t.r4748/2721
+count: 6
+text: 4748 2660 48 48 18fa3d6d30cb295f70113b7d6c59318b
+cpath: /old/sipXphone/branches/tmp/kbrose_identity/softphone/src/org
+copyfrom: 4748 /old/sipXphone/branches/tmp/kbrose_identity/softphone/src/com
+
+PLAIN
+K 3
+org
+V 22
+dir 7hm.11p.r4749/2303
+END
+ENDREP
+id: 7hl.10t.r4749/2625
+type: dir
+pred: 7hl.10t.r4748/3025
+count: 6
+text: 4749 2572 40 40 5d9a492200c9d93ef220c35e422384eb
+cpath: /old/sipXphone/branches/tmp/kbrose_identity/softphone/src
+copyroot: 4745 /old/sipXphone/branches/tmp/kbrose_identity
+
+PLAIN
+K 10
+.classpath
+V 21
+file 7mi.0.r4721/2149
+K 8
+.project
+V 21
+file 7mj.0.r4721/2309
+K 11
+Makefile.am
+V 21
+file 7f4.0.r4679/1222
+K 3
+bin
+V 24
+dir 7f5.10t.r4746/360836
+K 20
+build-wnt.properties
+V 21
+file 7f7.0.r4685/8548
+K 13
+build-wnt.xml
+V 25
+file 7f8.10t.r4746/356575
+K 9
+build.xml
+V 22
+file 7f9.0.r4685/12414
+K 4
+dist
+V 23
+dir 7fa.0.r4673/7643476
+K 4
+meta
+V 20
+dir 7fd.0.r4691/2872
+K 13
+softphone.iml
+V 21
+file 7mf.0.r4692/3923
+K 3
+src
+V 22
+dir 7hl.10t.r4749/2625
+K 12
+test-results
+V 23
+dir 7i0.0.r4673/7680356
+K 5
+tests
+V 23
+dir 7i1.0.r4673/7642867
+END
+ENDREP
+id: 7f3.10t.r4749/3440
+type: dir
+pred: 7f3.10t.r4748/3840
+count: 14
+text: 4749 2872 555 555 9c231645b8fb3f95fc8e620c27c233c5
+props: 4691 3540 42 0 36e19d5208d6fe4b81b1977390a5e6b2
+cpath: /old/sipXphone/branches/tmp/kbrose_identity/softphone
+copyroot: 4745 /old/sipXphone/branches/tmp/kbrose_identity
+
+PLAIN
+K 7
+AUTHORS
+V 24
+file 6ql.0.r4673/7300081
+K 7
+COPYING
+V 24
+file 6qm.0.r4673/7684481
+K 9
+ChangeLog
+V 24
+file 6qn.0.r4673/7300581
+K 7
+INSTALL
+V 25
+file 6qo.10t.r4746/361962
+K 11
+Makefile.am
+V 22
+file 6qp.0.r4685/13691
+K 4
+NEWS
+V 24
+file 6qq.0.r4673/7685022
+K 6
+README
+V 21
+file 6qr.0.r4704/5629
+K 9
+acsite.m4
+V 24
+file 6qs.0.r4673/7300329
+K 14
+ant-targets.am
+V 24
+file 6qt.0.r4673/7299822
+K 15
+ant-targets.xml
+V 20
+file 6qu.0.r4698/428
+K 12
+applayer.ipr
+V 21
+file 7md.0.r4692/4793
+K 20
+config.properties.in
+V 21
+file 6qv.0.r4685/8304
+K 12
+configure.ac
+V 20
+file 6qw.0.r4707/271
+K 3
+doc
+V 23
+dir 6qx.0.r4673/7642148
+K 7
+include
+V 24
+dir 6r2.10t.r4746/118367
+K 8
+javacore
+V 22
+dir 6ta.10t.r4749/2003
+K 3
+lib
+V 22
+dir 7e0.0.r4687/165534
+K 13
+sipXphone.dsp
+V 21
+file 7m7.0.r4704/5857
+K 13
+sipXphone.dsw
+V 21
+file 7mc.0.r4691/3869
+K 9
+softphone
+V 22
+dir 7f3.10t.r4749/3440
+K 3
+src
+V 24
+dir 7i2.10t.r4746/142355
+END
+ENDREP
+id: 6qk.10t.r4749/4662
+type: dir
+pred: 6qk.10t.r4748/5062
+count: 60
+text: 4749 3741 908 908 6bda972c168a5ad7286d9bfec604121e
+props: 4692 5859 492 0 de69476469c1781d770f4b6bf6a326bd
+cpath: /old/sipXphone/branches/tmp/kbrose_identity
+copyroot: 4745 /old/sipXphone/branches/tmp/kbrose_identity
+
+PLAIN
+K 15
+kbrose_identity
+V 22
+dir 6qk.10t.r4749/4662
+END
+ENDREP
+id: 7n4.0.r4749/5020
+type: dir
+pred: 7n4.0.r4748/5420
+count: 5
+text: 4749 4954 53 53 3d83d4a250b3e70c1718027997415821
+cpath: /old/sipXphone/branches/tmp
+copyroot: 0 /
+
+PLAIN
+K 3
+tmp
+V 20
+dir 7n4.0.r4749/5020
+END
+ENDREP
+id: 7n3.0.r4749/5239
+type: dir
+pred: 7n3.0.r4748/5640
+count: 6
+text: 4749 5188 38 38 a5332cf8d043fc7ea34d9cf1349b1008
+cpath: /old/sipXphone/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7n3.0.r4749/5239
+K 4
+main
+V 20
+dir 6qk.0.r4742/1919
+END
+ENDREP
+id: 6qj.0.r4749/5494
+type: dir
+pred: 6qj.0.r4748/5896
+count: 77
+text: 4749 5403 78 78 d7449beae048507f2bc97f9c3f3989cb
+cpath: /old/sipXphone
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4671/3383
+K 9
+sipXphone
+V 20
+dir 6qj.0.r4749/5494
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4749/6173
+type: dir
+pred: 1.0.r4748/6576
+count: 4747
+text: 4749 5650 510 510 f62b03b462bec1d2045233c2654caa16
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4749/6173
+END
+ENDREP
+id: 0.0.r4749/6368
+type: dir
+pred: 0.0.r4748/6772
+count: 4749
+text: 4749 6319 36 36 27cd45d02440b188d84ab203377f87c6
+cpath: /
+copyroot: 0 /
+
+7hm._2.t4748-1 add false false /old/sipXphone/branches/tmp/kbrose_identity/softphone/src/org
+4748 /old/sipXphone/branches/tmp/kbrose_identity/softphone/src/com
+7mn._1.t4748-1 add false false /old/sipXphone/branches/tmp/kbrose_identity/javacore/src/test/org
+4748 /old/sipXphone/branches/tmp/kbrose_identity/javacore/src/test/com
+6zx._0.t4748-1 add false false /old/sipXphone/branches/tmp/kbrose_identity/javacore/src/org
+4748 /old/sipXphone/branches/tmp/kbrose_identity/javacore/src/com
+7hm.10t.r4748/2721 delete false false /old/sipXphone/branches/tmp/kbrose_identity/softphone/src/com
+
+7mn.10t.r4748/349 delete false false /old/sipXphone/branches/tmp/kbrose_identity/javacore/src/test/com
+
+6zx.10t.r4747/4650 delete false false /old/sipXphone/branches/tmp/kbrose_identity/javacore/src/com
+
+
+6368 6509

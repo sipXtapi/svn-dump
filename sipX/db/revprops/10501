@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-28T11:55:03.930613Z
+K 7
+svn:log
+V 82
+Update Linux build of G.722 and G.726 to always link with libspandsp dynamically.
+
+END

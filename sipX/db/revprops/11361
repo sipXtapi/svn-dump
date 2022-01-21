@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-06-12T09:21:38.408125Z
+K 7
+svn:log
+V 156
+sipXmediaLib: Fix return values of MpAudioOutputConnection::pushFrame() in case empty buffer is pushed.
+Also add more RTL to easier debug problems with it.
+
+END

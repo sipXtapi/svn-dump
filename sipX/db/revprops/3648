@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-11T20:00:33.081177Z
+K 7
+svn:log
+V 201
+XCF-174 Send SIP to sipproxy and let it deliver to phone's URI, potentially sipproxy but not nec.   XCF-224 obsolete buildVersion.properties by loading sipxconfig.properties from etc/sipXpbx directory.
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-12-04T01:14:31.146333Z
+K 7
+svn:log
+V 141
+IMDB replication: permission, credential and extension datasets now support injecting SIP domain name through DataSetGenerator.setSipDomain.
+
+END

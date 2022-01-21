@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-08-29T17:37:22.692705Z
+K 7
+svn:log
+V 153
+Add a test to check that a user with no aliases can be loaded.  This wasn't working earlier, need test coverage to ensure that this bug doesn't reappear.
+END

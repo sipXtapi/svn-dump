@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-10T00:24:56.818079Z
+K 7
+svn:log
+V 182
+jetty6 plugin configured
+you can start jetty by typing (in web project):
+ mvn jetty6:run
+unfortunately it still requires manual copying of sipxconfig.properties to classes directory
+
+END

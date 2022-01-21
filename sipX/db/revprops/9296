@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-09T21:42:12.126542Z
+K 7
+svn:log
+V 205
+Add new audio output framework to build on VS6, VS2003, VS2005 and Linux.
+Following classes was added to build:
+* MpAudioOutputConnection
+* MpOutputDeviceDriver
+* MpOutputDeviceManager
+* MprToOutputDevice
+
+END

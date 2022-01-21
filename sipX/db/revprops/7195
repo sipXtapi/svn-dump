@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-08-05T03:11:18.146019Z
+K 7
+svn:log
+V 127
+Linux build fix (added SipXEventDispatcher.cpp/.h to various Makefile.am files and fixed a case sensitive include file issue)
+
+
+END

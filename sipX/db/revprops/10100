@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-09-13T18:29:51.759885Z
+K 7
+svn:log
+V 87
+Added additional parameterization for signal generator in output driver
+manager test.
+
+
+END

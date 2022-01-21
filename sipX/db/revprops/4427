@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-12-29T14:17:46.817996Z
+K 7
+svn:log
+V 277
+Revise the sipXpbx/doc/developer/Makefile.*'s so they do substitutions
+correctly for the configuration command groups.  Add reasonably
+complete instructions on how to use them.  Update
+install-fix-apache-modules so it works even if there are no LoadModule
+lines to be removed.
+
+END

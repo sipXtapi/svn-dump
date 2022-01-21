@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-10T20:09:45.569447Z
+K 7
+svn:log
+V 109
+Fix URL on link "Show Voicemail Inbox" in VM notification e-mail.
+http://track.sipfoundry.org/browse/XPB-121
+
+END

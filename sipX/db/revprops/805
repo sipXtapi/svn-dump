@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-23T19:04:11.967034Z
+K 7
+svn:log
+V 272
+When making changes for sending udp traffic on the server socket port, I sent udp SIP traffic down a slightly different code path resulting in different behavior when the outbound socket was not ready to write.  Now, we will wait some amount of time instead of aborting.
+
+
+END

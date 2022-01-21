@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-18T20:42:02.122319Z
+K 7
+svn:log
+V 83
+Fix usage of LDFLAGS, LDADD, and LIBADD.
+http://track.sipfoundry.org/browse/XVX-40
+
+END

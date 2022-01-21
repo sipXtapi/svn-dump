@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-12-21T19:54:20.618481Z
+K 7
+svn:log
+V 112
+sipxtapi bug fix: set outbound line in sipxCallConnect.  This bug was
+identified by Rafal Lindemann -- thanks!
+
+
+END

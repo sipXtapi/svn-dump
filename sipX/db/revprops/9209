@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-03-30T23:08:14.650991Z
+K 7
+svn:log
+V 254
+XCF-1603 remove the circular reference betten LdapManager and LdapImportManager beans
+LdapImportTrigger is now responsible for setting up the timer that triggers LDAP import. Timer is set when application starts and reset every time schedule is changed.
+
+END

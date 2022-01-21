@@ -1,0 +1,44 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2004-07-01T18:08:22.367218Z
+K 7
+svn:log
+V 1296
+Fix sipXmediaLib unit tests.  All 32 now complete successfully,
+and none are disabled.
+
+
+mp/MpMisc.cpp
+  Fix runtime warning encountered in unit tests
+
+mp/MpMediaTask.cpp
+  Fix unit test problems: method numHandledMesgErrs() always
+    returned 0, now returns count and clears count to 0.
+
+test/mp/MpFlowGraphTest.cpp
+  Fix unit test problem:  Add a call to mpStartUp(), which fixed
+    the fatal segmentation fault, remove call to "KNOWN_FATAL_BUG"
+    since that was fixed.
+  Remove unused variables to eliminate some compiler warnings.
+
+test/mp/MpMediaTaskTest.cpp
+  Fix unit test problems.
+    Add calls to pMediaTask->numHandledMsgErrs(), to clear the counter
+      before each test.
+    Re-enabled a few test that had been commented out, now that various
+      fixes made them work.  In some cases, changed expected error count
+      that was being tested against to reflect reality.
+    Removed comment and test: "Need to understand why the following test
+      fails on vxWorks" -- no, just get rid of it.
+  Cleaned up testCreators(), it was assuming newly created MpMediaTask
+    (not true because of our singleton task).
+  Remove calls to KNOWN_BUG, now that problems are fixed.
+  Remove unused variables to eliminate some compiler warnings.
+  Remove 'printf("CRASHES RIGHT HERE!!!");'
+
+END

@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-18T21:30:32.501802Z
+K 7
+svn:log
+V 358
+First revision of documentation build script (for gnu-based systems)
+
+Builds and packages documentation up through sipXtackLib, however, doxygen
+kicks back some errors in sipXsdpLib documentation, but does not exit with
+nonzero errorcode, so we don't know it err'ed out...
+
+Documentation is packaged in sipxtapi_doc.zip at the root of the working
+directory.
+
+END

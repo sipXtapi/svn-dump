@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-02-16T21:34:18.047420Z
+K 7
+svn:log
+V 206
+Start cleaning up svn:eol-style and EOLs in files.
+Note that text and program files that can be used on both Un*x and Windows
+should have svn:eol-style=native so they check out correctly on both
+platforms.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-23T22:41:48.675971Z
+K 7
+svn:log
+V 57
+sipXmediaLib: Better comment in MpJitterBuffer::reset().
+
+END

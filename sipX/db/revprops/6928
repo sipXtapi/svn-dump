@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-06-07T18:44:28.829306Z
+K 7
+svn:log
+V 244
+XCF-829 Minor UI changes after review:
+- LDAP default group name is not editable now through UI - you can still change it using sipxconfig.properties.in file
+- LDAP Test changed to LDAP Preview
+- labels and layout corrected for schedule editor
+
+END

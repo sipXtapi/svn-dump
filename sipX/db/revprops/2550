@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-21T14:28:17.961508Z
+K 7
+svn:log
+V 102
+Added config directory as an external reference to 
+https://scm.sipfoundry.org/rep/sipXportLib/config
+
+END

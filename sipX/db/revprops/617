@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-06-29T13:48:27.050031Z
+K 7
+svn:log
+V 107
+Add more instructions for setting up java and related components (so even a C++ person could understand it)
+END

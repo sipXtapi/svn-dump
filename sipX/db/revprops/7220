@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-08-08T13:38:36.226046Z
+K 7
+svn:log
+V 311
+Merged revisions 7202 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7202 | bob | 2006-08-06 21:21:07 +0400 | 3 lines
+  
+  sipXtapi/refresh manager bug found with free world dialup: If we received a 100 TRYING to a REGISTER, we need processed/handled the 200 OK.
+........
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-10-14T17:09:25.433210Z
+K 7
+svn:log
+V 122
+Uncommented codec setting in PlaceCall.
+Accidently disabled coded setting instead of post call setup audio device change.
+
+END

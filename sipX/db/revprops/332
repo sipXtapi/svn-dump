@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2004-12-14T13:22:53.211621Z
+K 7
+svn:log
+V 19
+Require pcre >= 4.5
+END

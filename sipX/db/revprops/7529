@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-20T19:05:13.942082Z
+K 7
+svn:log
+V 72
+XCF-1255 test error messages after adding gateways with duplicate names
+
+END

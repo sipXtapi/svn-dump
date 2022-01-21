@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-02-24T02:48:12.372759Z
+K 7
+svn:log
+V 81
+XCF-1537 - interpret UTC dated in acd history db and display in server local time
+END

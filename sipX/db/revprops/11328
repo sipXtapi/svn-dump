@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-05-06T09:03:23.430143Z
+K 7
+svn:log
+V 161
+sipXmediaLib: Add workaround for G.722 clockrate, as described in RFC 3551 section 4.5.2.
+This workaround is enabled by default, but may be disabled at runtime.
+
+END

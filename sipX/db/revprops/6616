@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-04-19T20:43:59.113785Z
+K 7
+svn:log
+V 53
+Do not require sipx-config to be in PATH to find java
+END

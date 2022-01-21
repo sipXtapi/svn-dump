@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-22T14:18:41.995670Z
+K 7
+svn:log
+V 523
+Merged revisions 239 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.8
+    ------------------------------------------------------------------------
+    r239 | dworley | 2005-04-05 16:34:55 -0400 (Tue, 05 Apr 2005) | 6 lines
+    Changed paths:
+       M /branches/2.8/bin/sipx-upgrade
+    
+    Correct the directory in which we look for huntgroup.xml.
+    Use variable assignment to avoid repeating the name of every file five
+    times.
+    
+    http://track.sipfoundry.org/browse/XCF-158
+    
+
+END

@@ -1,0 +1,142 @@
+PLAIN
+K 13
+svn:externals
+V 70
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6/config
+
+K 10
+svn:ignore
+V 144
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxregistry.spec
+stamp-h1
+
+K 18
+svnmerge-main-head
+V 48
+https://scm.sipfoundry.org/rep/sipXregistry/main
+K 18
+svnmerge-main-revs
+V 4
+1-61
+END
+ENDREP
+id: 1y5.bo.r2362/390
+type: dir
+pred: 1y5.0.r2360/1631
+count: 51
+text: 2360 975 643 643 e35d15390f412f71e9b6aa7cb7f93e3e
+props: 2362 0 377 0 fcfcb79b34234e453c2b085e2478e2b3
+cpath: /old/sipXregistry/branches/2.6
+copyfrom: 2361 /old/sipXregistry/main
+
+PLAIN
+K 3
+2.6
+V 20
+dir 1y5.bo.r2362/390
+K 10
+post-2.6.1
+V 21
+dir 1y5.bk.r2358/7469
+END
+ENDREP
+id: 1zf.0.r2362/734
+type: dir
+pred: 1zf.0.r2358/7806
+count: 5
+text: 2362 640 81 81 6bec8ec8217b0e879ad30a47e63c1d6d
+cpath: /old/sipXregistry/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 1zf.0.r2362/734
+K 4
+main
+V 20
+dir 1y5.0.r2360/1631
+K 4
+tags
+V 19
+dir 1z5.0.r2361/832
+END
+ENDREP
+id: 1y4.0.r2362/1023
+type: dir
+pred: 1y4.0.r2361/1119
+count: 63
+text: 2362 899 111 111 13fc2fa14c4e3fd26dd5d16770295a1f
+cpath: /old/sipXregistry
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2362/1023
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2362/1501
+type: dir
+pred: 1.0.r2361/1597
+count: 2361
+text: 2362 1183 305 305 216f231dec8a2060d388e91774702532
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2362/1501
+END
+ENDREP
+id: 0.0.r2362/1696
+type: dir
+pred: 0.0.r2361/1792
+count: 2362
+text: 2362 1647 36 36 218ee5f3420085c923bba3367e47ce30
+cpath: /
+copyroot: 0 /
+
+1y5._0.t2361-1 add false true /old/sipXregistry/branches/2.6
+2361 /old/sipXregistry/main
+
+1696 1837

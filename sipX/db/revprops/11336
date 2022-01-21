@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-05-13T16:43:40.583152Z
+K 7
+svn:log
+V 154
+sipXmediaLib: Fix out-of-bounds access in MprSpeakerSelector::getOldestOutput().
+It's harmless, as it just reads a value, but valgrind complain about it.
+
+END

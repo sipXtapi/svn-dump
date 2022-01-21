@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-01-12T18:55:53.775444Z
+K 7
+svn:log
+V 147
+XCF-1443 - Grandstream Gx models have an additional parameter to make accout acitve, only enable (by default) lines that are configured with a user
+END

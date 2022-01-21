@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-03-08T22:38:26.789835Z
+K 7
+svn:log
+V 308
+Added infrastructure to only build databse unit tests when a
+configure switch --enable-dbtests is specified. This will keep
+database unit tests from being run during the automated builds
+on build machines where we have no control over Postgres.
+
+Also added a bit more functionality to the OdbcWrapper layer.
+
+END

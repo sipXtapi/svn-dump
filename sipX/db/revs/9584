@@ -1,0 +1,130 @@
+id: 9wi.7jw.r9584/0
+type: dir
+pred: 9wi.0.r7340/14509
+count: 68
+text: 7340 14180 316 316 a8bc7111c46cdf3be1880162948a8222
+cpath: /branches/sipXtapi-AOL
+copyfrom: 7343 /branches/sipXtapi
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r8066/42815
+K 3
+3.6
+V 22
+dir 7q4.50x.r8955/2083
+K 7
+bbridge
+V 22
+dir 7q4.68z.r8427/2781
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 8
+sipXtapi
+V 21
+dir 9wi.0.r9581/21191
+K 12
+sipXtapi-AOL
+V 19
+dir 9wi.7jw.r9584/0
+K 21
+sipXtapi-media-update
+V 23
+dir 9wi.3ke.r8871/11907
+K 14
+sipXtapi.wince
+V 24
+dir 9wi.662.r8313/638537
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 21
+dir 7q4.4t1.r7562/240
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 14
+virtual-domain
+V 24
+dir 7q4.4t6.r8010/314955
+END
+ENDREP
+id: 7pt.0.r9584/1129
+type: dir
+pred: 7pt.0.r9583/899
+count: 2033
+text: 9584 187 929 929 a7805502af7f5ec325391e5e47364098
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r9584/1129
+K 4
+main
+V 20
+dir 7q4.0.r9374/1770
+K 4
+tags
+V 20
+dir 7q5.0.r9367/2658
+END
+ENDREP
+id: 0.0.r9584/1408
+type: dir
+pred: 0.0.r9583/1175
+count: 9584
+text: 9584 1282 113 113 2764367f5392bb77e2127f5e5d7c6c13
+cpath: /
+copyroot: 0 /
+
+9wi._0.t9583-1 add false false /branches/sipXtapi-AOL
+7343 /branches/sipXtapi
+
+1408 1551

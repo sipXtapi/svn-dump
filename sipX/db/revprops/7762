@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-16T20:36:41.278658Z
+K 7
+svn:log
+V 72
+Change httpd.conf to work with Apache 2.2.2.
+Move relocatability fixes.
+
+END

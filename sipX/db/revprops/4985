@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-06T21:25:09.549761Z
+K 7
+svn:log
+V 152
+Improve the usability of the New User and Edit User pages by adding help text.  On the New User page, include a link to the Extension Pool config page.
+
+END

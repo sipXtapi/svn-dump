@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-08-20T20:31:04.356117Z
+K 7
+svn:log
+V 121
+Fix use of compareTo so non-default port designations are recognized as such.
+http://track.sipfoundry.org/browse/XPL-125
+
+END

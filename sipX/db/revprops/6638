@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-04-24T18:22:20.144614Z
+K 7
+svn:log
+V 190
+XPB-562, XPB-563: Use stunnel to connect to distributed CSE databases. Call resolver
+reads remote CSE hosts and forwarded ports from configuration file and generates
+stunnel configuration.
+
+
+END

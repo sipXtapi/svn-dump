@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-02-24T20:04:10.652699Z
+K 7
+svn:log
+V 591
+XCF-923 When SOAP starts up on first API call, it sends a Spring Application Refesh event to all Spring Application Event listeners, only the application context is the soap context, not the web context.  Replication and Alias collection receive these events and get pointed to wrong context and cannot find appropriate data.   Fix was to effectively ignore application context events and only clear state when new applicationcontext is injected.  Unsure if this is what spring engineering intended, but this is a common strategy used in other places in application can addresses this issue.
+END

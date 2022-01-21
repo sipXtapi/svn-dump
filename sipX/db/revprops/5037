@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+prikov
+K 8
+svn:date
+V 27
+2005-09-13T22:48:22.880733Z
+K 7
+svn:log
+V 104
+Merged revisions 3807 via svnmerge from
+XCF-615 stop looking for jdk, look for jre which can be jdk BTW
+
+END

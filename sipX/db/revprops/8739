@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-02-09T17:10:48.287337Z
+K 7
+svn:log
+V 461
+Merged revisions 7837 via svnmerge from
+https://scm.sipfoundry.org/rep/sipX/branches/3.6
+  | ................................
+  | r7837 | dkrzemin | 2006-10-26 13:14:13 -0400 (Thu, 26 Oct 2006) | 5 lines
+  | XPR-196 fix problem with dropping CDR database
+  | fix script to remove redirecting standard error and standard output to /dev/null
+  | -use --quiet option to prevent "welcome" message
+  | -set 'client_min_messages' to 'error' to suppress NOTICE output
+
+END

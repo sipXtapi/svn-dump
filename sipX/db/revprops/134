@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-07-09T19:08:39.146790Z
+K 7
+svn:log
+V 122
+Bug XPL-12: Final installment, Process Management tests where failing 
+because of unitialized pointer in file iterator.
+ 
+
+END

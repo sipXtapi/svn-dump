@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-06-02T17:09:58.041540Z
+K 7
+svn:log
+V 104
+sipXmediaLib: Small optimization - decrease number of copies of RTP packet when pushing it to Dejitter.
+
+END

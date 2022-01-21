@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-03-29T21:10:39.834056Z
+K 7
+svn:log
+V 162
+Add test files to the Makefile.  This will provide a useful way to sanity-check an installed Call Resolver while increasing the install size by a minimal amount.
+
+END

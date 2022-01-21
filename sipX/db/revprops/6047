@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-02T23:46:02.531832Z
+K 7
+svn:log
+V 776
+Addtional merges from main:
+    Initialized merge tracking via svnmerge with revisions 1-6033 from
+    https://scm.sipfoundry.org/rep/sipX/branches/sipXconfig/3.3
+
+    Roll kingkonf into sipXcommserverLib
+
+    XPB-500 new attendant schedule file name and format - is: /schedules/autoattendant (used to be: /organizationprefs/schedule)
+    also file name suffix is now -schedule.xml (used to be _schedule.xml)
+
+    sipxconfig startup error byproduct of freezing db schema
+
+    Do not check sipx db revision in configtest, no guarontee db has been upgraded yet.  Add check to make sure db is running though
+
+    Fixed the date format to be in sync with config server.
+
+    Add 'create-label' command group to make links from the sipX*/meta directories
+    to the top directory.
+
+END

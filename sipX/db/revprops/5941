@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-01-23T23:42:51.624762Z
+K 7
+svn:log
+V 115
+XCF-888 Broke some unit tests, may call upon SuperLucene man to help me find issue assuming he can dig out his car.
+END

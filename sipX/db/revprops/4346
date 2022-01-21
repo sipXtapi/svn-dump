@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-11T18:07:58.342081Z
+K 7
+svn:log
+V 102
+Remove mention of the deleted directory from configure.ac.
+http://track.sipfoundry.org/browse/XPB-124
+
+END

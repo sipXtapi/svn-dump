@@ -1,0 +1,355 @@
+PLAIN
+K 10
+svn:ignore
+V 52
+Makefile
+Makefile.in
+PlaceCall
+PlaceCall.log
+.deps
+
+
+END
+ENDREP
+id: a03.7n5.r11866/91
+type: dir
+pred: a03.7n5.r11830/3019
+count: 24
+text: 10831 780 331 331 80ef0ba6953e7282c3637660344fb597
+props: 11866 0 78 0 b459d19e5254b2b514e9aab3a0ddaf18
+cpath: /main/sipXcallLib/examples/PlaceCall
+copyroot: 10815 /main
+
+PLAIN
+K 10
+CallScript
+V 23
+dir 9zi.7n5.r11830/2761
+K 10
+CheckVMail
+V 22
+dir 9zx.0.r10789/14071
+K 11
+Makefile.am
+V 22
+file a02.0.r9285/51281
+K 9
+PlaceCall
+V 21
+dir a03.7n5.r11866/91
+K 11
+ReceiveCall
+V 23
+dir a0d.7n5.r11830/3975
+K 21
+SampleGrabberCallback
+V 23
+dir a0n.0.r6711/4647056
+K 3
+bin
+V 24
+dir a13.0.r6469/21907817
+K 7
+include
+V 20
+dir a1c.0.r9705/1758
+K 3
+lib
+V 23
+dir akd.0.r6929/8100735
+K 11
+musicServer
+V 23
+dir al3.7n5.r11830/3336
+K 11
+sipXezPhone
+V 23
+dir ald.7n5.r11830/3653
+K 14
+sipXtapiDriver
+V 22
+dir apu.0.r8484/469504
+END
+ENDREP
+id: 9zh.7n5.r11866/883
+type: dir
+pred: 9zh.7n5.r11830/4837
+count: 35
+text: 11866 336 534 534 c9549dce422e572c3c740eb8c240d630
+props: 11830 4776 48 0 86168c69db02cf3306494c6df91bc2ed
+cpath: /main/sipXcallLib/examples
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g93.7n5.r11699/277
+K 12
+CONTRIBUTORS
+V 25
+file 9wu.0.r6469/21689575
+K 9
+ChangeLog
+V 25
+file 9wv.0.r6469/21643511
+K 7
+INSTALL
+V 24
+file 9ww.0.r6955/1431648
+K 11
+Makefile.am
+V 22
+file 9wx.0.r9285/46774
+K 4
+NEWS
+V 25
+file 9wy.0.r6469/21715635
+K 6
+README
+V 24
+file 9wz.0.r6955/1430153
+K 4
+TODO
+V 25
+file 9x0.0.r6469/21714560
+K 9
+acsite.m4
+V 24
+file 9x1.0.r6955/1426469
+K 3
+bin
+V 23
+dir 9x2.7n5.r11830/1852
+K 12
+configure.ac
+V 24
+file 9xd.7n5.r11161/1473
+K 3
+doc
+V 23
+dir 9xe.7n5.r11830/1555
+K 8
+examples
+V 22
+dir 9zh.7n5.r11866/883
+K 7
+include
+V 23
+dir aso.7n5.r11830/2144
+K 4
+meta
+V 23
+dir aww.7n5.r10859/1089
+K 10
+resource.h
+V 24
+file ax6.0.r6711/4638971
+K 24
+sipXcallLib-msvc8.vcproj
+V 24
+file eq7.7n5.r11190/4218
+K 15
+sipXcallLib.dsp
+V 24
+file 155.7o0.r11289/9722
+K 15
+sipXcallLib.vcp
+V 20
+file ebn.0.r8568/556
+K 18
+sipXcallLib.vcproj
+V 21
+file ax7.0.r9625/3585
+K 28
+sipXcallLibTest-msvc8.vcproj
+V 23
+file eq8.0.r10791/11692
+K 19
+sipXcallLibTest.dsp
+V 24
+file 80p.7nz.r11289/9481
+K 19
+sipXcallLibTest.vcp
+V 22
+file ebo.0.r10400/8524
+K 8
+sipXtapi
+V 24
+dir ax8.7n5.r11289/10298
+K 21
+sipXtapi-msvc8.vcproj
+V 23
+file exd.0.r10789/12306
+K 12
+sipXtapi.def
+V 23
+file axe.0.r7339/293346
+K 12
+sipXtapi.dsw
+V 23
+file ebp.7n5.r11290/548
+K 11
+sipXtapi.rc
+V 23
+file axf.0.r8484/461623
+K 12
+sipXtapi.sln
+V 24
+file axg.7n5.r11405/2605
+K 15
+sipXtapi.vcproj
+V 23
+file axh.7n5.r11359/296
+K 25
+sipXtapiTest-msvc8.vcproj
+V 23
+file eq9.0.r10791/11487
+K 16
+sipXtapiTest.dsp
+V 24
+file 16c.7ny.r11289/9189
+K 19
+sipXtapiTest.vcproj
+V 21
+file axi.0.r9919/8426
+K 19
+sipxcalllib.spec.in
+V 24
+file axj.7n5.r10867/2358
+K 3
+src
+V 23
+dir axk.7n5.r11860/2621
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 55
+config https://scm.sipfoundry.org/rep/sipX/main/config
+
+K 10
+svn:ignore
+V 83
+aclocal.m4
+config.h
+config.h.in
+configure
+libtool
+BUILDSTAMP
+Makefile
+Makefile.in
+
+
+END
+ENDREP
+id: 9wt.7n5.r11866/2993
+type: dir
+pred: 9wt.7n5.r11860/4528
+count: 342
+text: 11866 1122 1656 1656 888729edc14b8f1fed13a1624946ad70
+props: 11866 2791 189 0 fc2176e41cb888027d2d509c7ecf896d
+cpath: /main/sipXcallLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 24
+file g8y.7n5.r11608/2763
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 22
+dir 9wj.7n5.r11864/445
+K 10
+readme.txt
+V 24
+file 9ws.7n5.r11483/5210
+K 7
+scripts
+V 23
+dir fxk.7n5.r11663/1205
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r11866/2993
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r11859/4598
+K 12
+sipXmediaLib
+V 23
+dir b40.7n5.r11857/2464
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r11862/3171
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r11865/1830
+K 11
+sipXtackLib
+V 23
+dir boq.7n5.r11853/3114
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r11866/3887
+type: dir
+pred: 9wi.7n5.r11865/2720
+count: 2859
+text: 11866 3229 645 645 6c9fd58940dfac215cd9fefd6c07c6e2
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r11666/17573
+K 4
+main
+V 23
+dir 9wi.7n5.r11866/3887
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r11866/4225
+type: dir
+pred: 0.0.r11865/3058
+count: 11866
+text: 11866 4053 159 159 aaa85412819a0b5e02779c48b68e28d8
+cpath: /
+copyroot: 0 /
+
+a03.7n5.t11865-1 modify false true /main/sipXcallLib/examples/PlaceCall
+
+9wt.7n5.t11865-1 modify false true /main/sipXcallLib
+
+
+4225 4372

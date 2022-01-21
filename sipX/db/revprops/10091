@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-12T21:22:43.456270Z
+K 7
+svn:log
+V 106
+cpDefaultMediaFactoryFactory() is not needed if DISABLE_DEFAULT_PHONE_MEDIA_INTERFACE_FACTORY is defined.
+
+END

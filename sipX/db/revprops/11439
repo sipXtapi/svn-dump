@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2009-08-09T15:46:19.431182Z
+K 7
+svn:log
+V 143
+Logging fixes:
+  Media processing logging was dropped on the floor.  It is now sent
+  the the sipXtapi OsSysLog instance for filtering/logging
+
+END

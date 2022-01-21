@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-03-12T14:36:43.254909Z
+K 7
+svn:log
+V 308
+[XSL-156] Checking in contributed code for SipPimClient.
+
+From issue description, this patch include workarounds for the following issues:
+- failure on proxy authorization (ignoring the 407 response) 
+- added "callback user data" pointer 
+- support for "Subject" header in both inbound and outbound messages
+
+END

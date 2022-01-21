@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-05-31T17:39:06.569913Z
+K 7
+svn:log
+V 98
+XPB-625 (new process manager): fix a race condition that was causing a test to fail unpredictably
+
+END

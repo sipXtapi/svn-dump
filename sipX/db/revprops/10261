@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-04T04:53:23.094185Z
+K 7
+svn:log
+V 78
+Update MprSpeexPreProcess.h to compile correctly by VS2003 with latest Speex.
+
+END

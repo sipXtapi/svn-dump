@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-12-09T18:21:51.873904Z
+K 7
+svn:log
+V 135
+Fix db unittest, make test-db and test-all recursive targets, fix clover warnings, update clover doc, remove subant prject name warning
+END

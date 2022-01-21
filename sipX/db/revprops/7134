@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-07-28T19:14:12.285505Z
+K 7
+svn:log
+V 115
+Add success logging of configtest
+Add timestamps to configtest.log
+remove use of the (trademarked) name SIPxchange
+
+END

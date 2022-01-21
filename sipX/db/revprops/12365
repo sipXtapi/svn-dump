@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-05-24T04:24:58.320950Z
+K 7
+svn:log
+V 109
+Define sipXtapi interface for retrieving INVITE header values.
+Note: interface defined, not implemented yet.
+
+END

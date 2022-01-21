@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-03-01T12:09:27.582502Z
+K 7
+svn:log
+V 217
+Bugfix: Fix crash in SipRefreshManager destructor. dialogKey should not be removed from mRefreshes in SipRefreshManager::stopAllRefreshes(), because it is removed in SipRefreshManager::stopRefresh() and then deleted.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-01-16T03:19:49.674014Z
+K 7
+svn:log
+V 168
+A boatload of changes for registry HA.  The most important one is a not-yet-tested implementation of the XML-RPC method "pullUpdates" used in registry synchronization.
+
+END

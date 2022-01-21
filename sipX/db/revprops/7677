@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-06T17:24:14.015795Z
+K 7
+svn:log
+V 169
+mergefrom pingtel-main 5496
+
+Ensure that mpSubscriptionMgr and mpSubscribeServer are initialized even when
+mToBePublished is FALSE.
+Add assertions and warning messages.
+
+END

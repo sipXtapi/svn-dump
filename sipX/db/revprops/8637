@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-27T22:15:22.594522Z
+K 7
+svn:log
+V 261
+XCF-1475 workaround for ruby-postgres problems on CentOS
+ruby-postgress RPM installs postgres.so in /usr/lib/site_ruby/1.8/i386-linux 
+however on CentOS ruby 'sitearchdir' is /usr/lib/site_ruby/1.8/i386-linux-gnu
+we try to load postgres driver from both places
+
+END

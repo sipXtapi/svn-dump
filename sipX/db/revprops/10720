@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-07-04T04:44:56.646865Z
+K 7
+svn:log
+V 130
+* Fix decoding of RFC2833/4733 DTMF digits.
+* Some style fixes.
+* Fixed behaviour of non-PLC adjustment in case of silent frames.
+
+END

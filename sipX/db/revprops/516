@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-04-13T22:32:40.672094Z
+K 7
+svn:log
+V 147
+Progress toward TLS support.
+Add some certificate handling and validation infrastructure
+Continue refactoring SSL/TLS common code into OsSSL class
+
+END

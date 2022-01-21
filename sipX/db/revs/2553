@@ -1,0 +1,205 @@
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 215.0.r2553/51
+type: dir
+pred: 215.0.r2551/7414
+count: 2
+text: 2551 7308 93 93 81e8ff2efdf6b7bda660fad47bd6a02f
+props: 2553 0 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXpublisher/main/include
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 21i.0.r2553/324
+type: dir
+pred: 21i.0.r2552/3330
+count: 3
+text: 2552 3225 92 92 1ab6bf7ad5db1127f5f2c802f0f83a5c
+props: 2553 273 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXpublisher/main/src
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 20o.0.r2549/69753
+K 9
+ChangeLog
+V 22
+file 20p.0.r2549/63562
+K 7
+INSTALL
+V 22
+file 20q.0.r2549/63354
+K 7
+LICENSE
+V 22
+file 20r.0.r2549/58651
+K 11
+Makefile.am
+V 22
+file 20s.0.r2549/68166
+K 4
+NEWS
+V 22
+file 20t.0.r2549/69606
+K 6
+README
+V 22
+file 20u.0.r2549/69955
+K 4
+TODO
+V 22
+file 20v.0.r2549/63160
+K 9
+acsite.m4
+V 22
+file 20w.0.r2549/63712
+K 3
+bin
+V 21
+dir 20x.0.r2549/67972
+K 12
+configure.ac
+V 21
+file 20z.0.r2551/4546
+K 3
+etc
+V 21
+dir 210.0.r2549/69457
+K 7
+include
+V 18
+dir 215.0.r2553/51
+K 17
+sipXpublisher.dsp
+V 21
+file 21u.0.r2552/2092
+K 3
+src
+V 19
+dir 21i.0.r2553/324
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 66
+configure
+Makefile.in
+build
+config.h.in
+autom4te.cache
+aclocal.m4
+
+END
+ENDREP
+id: 20n.0.r2553/1356
+type: dir
+pred: 20n.0.r2552/4121
+count: 4
+text: 2553 545 606 606 f577ec394b54996759cbb5434b39f45e
+props: 2553 1164 179 0 f8780b9f6aac5ad15bff91396ce83e96
+cpath: /old/sipXpublisher/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 20
+dir 20n.0.r2553/1356
+END
+ENDREP
+id: 20m.0.r2553/1629
+type: dir
+pred: 20m.0.r2552/4392
+count: 5
+text: 2553 1577 39 39 e17b9d3f13b38e7ff6dacba3d1f206d3
+cpath: /old/sipXpublisher
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2553/1629
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2553/2151
+type: dir
+pred: 1.0.r2552/4915
+count: 2552
+text: 2553 1788 350 350 5805d6a3222e1da5d1deb5d4685751c4
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2553/2151
+END
+ENDREP
+id: 0.0.r2553/2346
+type: dir
+pred: 0.0.r2552/5111
+count: 2553
+text: 2553 2297 36 36 7ca677936f1311f8f58956a2d2afc263
+cpath: /
+copyroot: 0 /
+
+20n.0.t2552-1 modify false true /old/sipXpublisher/main
+
+215.0.t2552-1 modify false true /old/sipXpublisher/main/include
+
+21i.0.t2552-1 modify false true /old/sipXpublisher/main/src
+
+
+2346 2487

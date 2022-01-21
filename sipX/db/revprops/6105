@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-02-12T02:13:09.585256Z
+K 7
+svn:log
+V 189
+Revise crontab to run the analysis scripts directly from the
+Subversion check-out directory.  This may not be any better than
+running copies from ~/bin, but it is no worse, and is simpler.
+
+END

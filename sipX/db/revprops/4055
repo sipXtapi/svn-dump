@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-06-17T22:51:02.764794Z
+K 7
+svn:log
+V 287
+XCF-436 - authorization rules require translated number (not originally dialed number)
+added funcionality to custom rules to properly add translated number to authrules.xml
+improved the way local and long distance rules contributed to authrules.xml - only translated number is now added
+
+END

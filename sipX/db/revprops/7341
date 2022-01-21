@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-24T20:30:31.426086Z
+K 7
+svn:log
+V 102
+Modify DB patch not to use DEFAULT value when altering the table. It's not supported by Postgres 7.4.
+
+END

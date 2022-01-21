@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-16T17:09:21.728961Z
+K 7
+svn:log
+V 345
+sipXmediaLib update: Define WIN32_LEAN_AND_MEAN before inclusion of <windows.h> and change all <winsock.h> to <winsock2.h>.
+We really need winsock2 to support multicast, and it is impossible to switch to it without WIN32_LEAN_AND_MEAN. Read there for more inforamtion: http://blogs.msdn.com/wndp/archive/2006/12/18/winsock-header-weirdness.aspx
+
+END

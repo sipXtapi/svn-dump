@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-01-15T15:54:16.195135Z
+K 7
+svn:log
+V 56
+Added more stats to portable unit test framework output
+
+END

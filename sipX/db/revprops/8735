@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-09T10:03:56.766822Z
+K 7
+svn:log
+V 131
+Partial revert of r8711. MprEncode::mPayloadBytesUsed should be member variable, to maintain state between doPrimaryCodec() calls.
+
+END

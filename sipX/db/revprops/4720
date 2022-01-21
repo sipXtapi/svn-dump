@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2004-12-14T21:50:30.033297Z
+K 7
+svn:log
+V 244
+FIX for XPH-26: 
+
+Added two new pinger-config params:
+SIP_DNSSRV_RESOLVE_TIMEOUT (default = 1 second)
+SIP_DNSSRV_RESOLVE_RETRIES (default = 2)
+
+The timeout/retry code will do an exponential backoff,
+increasing the timeout wait for each retry.  
+END

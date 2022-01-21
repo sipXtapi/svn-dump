@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-28T23:23:10.609078Z
+K 7
+svn:log
+V 513
+XCF-932 Tapestry 4 does not provide the way to check if user readable message has been provided, instead if message is not found it returns modified key
+Since we sometimes dynamically create the keys and we do need a fallback mechanism if key is not found I implemented TapestryUtils.getMessage function that tries to replicate Tapestry 3 functionality.
+The test is used mostly to verify that Tapestry implementation of AbstractMessages class did not change, and not to validate our quite trivial implementation.
+
+END

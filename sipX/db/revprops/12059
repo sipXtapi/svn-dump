@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2013-02-22T16:06:24.837533Z
+K 7
+svn:log
+V 333
+Fixed major SDP bug where if same payload ID is used in multiple m lines, we do not match things up correctly.
+Also fixed non-standard compliance of missing c line for inactiv SDP m line
+Some refactoring of the video mediaLine code
+Properly scope a line fmpt and rtpmap getters so that they stay within the scope of a single m line
+
+
+END

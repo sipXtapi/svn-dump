@@ -1,0 +1,309 @@
+PLAIN
+K 10
+svn:ignore
+V 22
+Makefile
+Makefile.in
+
+
+END
+ENDREP
+id: b4p.7n5.r11821/61
+type: dir
+pred: b4p.7n5.r11818/465
+count: 678
+text: 11818 327 125 125 891aefb842e1c22d647029c970339816
+props: 11821 0 48 0 86168c69db02cf3306494c6df91bc2ed
+cpath: /main/sipXmediaLib/include
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 28
+Makefile
+Makefile.in
+.deps
+
+
+END
+ENDREP
+id: b94.7n5.r11821/363
+type: dir
+pred: b94.7n5.r11820/12608
+count: 1187
+text: 11820 12434 161 161 3333115d2193f68c9102b6aaa1bd9609
+props: 11821 296 54 0 9e8708e9b4786ab3c7ff09e372496a63
+cpath: /main/sipXmediaLib/src
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 22
+Makefile
+Makefile.in
+
+
+END
+ENDREP
+id: b4l.7n5.r11821/663
+type: dir
+pred: b4l.7n5.r11139/8114
+count: 9
+text: 11139 7959 142 142 862b19e91b074a407f5d620b37ee1d7f
+props: 11821 602 48 0 86168c69db02cf3306494c6df91bc2ed
+cpath: /main/sipXmediaLib/doc
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 22
+Makefile
+Makefile.in
+
+
+END
+ENDREP
+id: b49.7n5.r11821/958
+type: dir
+pred: b49.0.r10443/26912
+count: 4
+text: 10443 26849 50 50 65fcc870c3e51a5ba39e952e82120134
+props: 11821 897 48 0 86168c69db02cf3306494c6df91bc2ed
+cpath: /main/sipXmediaLib/bin
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g92.7n5.r11712/874
+K 12
+CONTRIBUTORS
+V 25
+file b41.0.r6469/22054157
+K 9
+ChangeLog
+V 25
+file b42.0.r6469/22025314
+K 7
+INSTALL
+V 24
+file b43.0.r6955/1728056
+K 11
+Makefile.am
+V 23
+file b44.0.r10281/14228
+K 4
+NEWS
+V 25
+file b45.0.r6469/22058814
+K 6
+README
+V 24
+file b46.0.r6955/1727035
+K 4
+TODO
+V 25
+file b47.0.r6469/22057442
+K 9
+acsite.m4
+V 24
+file b48.0.r6955/1726702
+K 17
+autoconf259.patch
+V 23
+file fxj.7n5.r10953/747
+K 3
+bin
+V 22
+dir b49.7n5.r11821/958
+K 12
+configure.ac
+V 24
+file b4k.7n5.r11426/1026
+K 7
+contrib
+V 23
+dir ebw.7n5.r11741/1281
+K 3
+doc
+V 22
+dir b4l.7n5.r11821/663
+K 26
+dtmf5_48khz_16b_signed.wav
+V 23
+file f7a.0.r10516/48478
+K 7
+include
+V 21
+dir b4p.7n5.r11821/61
+K 3
+lib
+V 24
+dir b8u.0.r6469/22057603
+K 4
+meta
+V 24
+dir b8v.0.r6469/22024982
+K 25
+sipXmediaLib-msvc8.vcproj
+V 25
+file e76.7n5.r11401/20105
+K 16
+sipXmediaLib.dsp
+V 24
+file up.7nl.r11401/19813
+K 16
+sipXmediaLib.vcp
+V 22
+file e6i.0.r9956/38866
+K 19
+sipXmediaLib.vcproj
+V 25
+file b92.7n5.r11401/20311
+K 29
+sipXmediaLibTest-msvc8.vcproj
+V 25
+file e77.7n5.r11246/25524
+K 20
+sipXmediaLibTest.dsp
+V 24
+file mh.7nm.r11405/14608
+K 20
+sipXmediaLibTest.sln
+V 23
+file eaj.0.r8484/543808
+K 20
+sipXmediaLibTest.vcp
+V 22
+file e6j.0.r8865/20512
+K 23
+sipXmediaLibTest.vcproj
+V 25
+file eak.7n5.r11246/25937
+K 20
+sipxmedialib.spec.in
+V 24
+file b93.7n5.r10867/5783
+K 3
+src
+V 22
+dir b94.7n5.r11821/363
+END
+ENDREP
+id: b40.7n5.r11821/2592
+type: dir
+pred: b40.7n5.r11820/14198
+count: 1573
+text: 11821 1190 1389 1389 39d4bacda85df179e2b24ee038ebe422
+props: 10826 1148 201 0 e49c2e30517c0b6eecea16b1c465f599
+cpath: /main/sipXmediaLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 24
+file g8y.7n5.r11608/2763
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 23
+dir 9wj.7n5.r11721/1537
+K 10
+readme.txt
+V 24
+file 9ws.7n5.r11483/5210
+K 7
+scripts
+V 23
+dir fxk.7n5.r11663/1205
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r11804/3720
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r11817/2904
+K 12
+sipXmediaLib
+V 23
+dir b40.7n5.r11821/2592
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r11761/5458
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r11811/2467
+K 11
+sipXtackLib
+V 24
+dir boq.7n5.r11813/10922
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r11821/3491
+type: dir
+pred: 9wi.7n5.r11820/15099
+count: 2814
+text: 11821 2831 647 647 9a60b2257e0cd8fc102754890c25b7b3
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r11666/17573
+K 4
+main
+V 23
+dir 9wi.7n5.r11821/3491
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r11821/3830
+type: dir
+pred: 0.0.r11820/15440
+count: 11821
+text: 11821 3658 159 159 0653d7c319790a1cbfc6b739e2aad66b
+cpath: /
+copyroot: 0 /
+
+b4p.7n5.t11820-1 modify false true /main/sipXmediaLib/include
+
+b4l.7n5.t11820-1 modify false true /main/sipXmediaLib/doc
+
+b94.7n5.t11820-1 modify false true /main/sipXmediaLib/src
+
+b49.7n5.t11820-1 modify false true /main/sipXmediaLib/bin
+
+
+3830 3978

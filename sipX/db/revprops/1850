@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-17T21:34:24.513736Z
+K 7
+svn:log
+V 116
+http://track.sipfoundry.org/browse/XVX-34
+List %{_bindir}/sipdbtest and %{_bindir}/sipdbtest.sh as installed files.
+
+END

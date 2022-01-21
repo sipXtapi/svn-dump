@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-02T14:40:03.267965Z
+K 7
+svn:log
+V 741
+XCF-1037 added new parameters to Voice Mail screen
+SIP_PROXY_DEFAULT_SERIAL_EXPIRES controls the default time that each phone in a sequential series is allowed to ring with no answer before the next alternative is tried. The most common case for this is a user with one phone and a voice mailbox - the phone will ring for this many seconds and then roll over to voice mail. Note that this is seconds, not rings; typically rings are about 6 seconds apart, but this may vary, since ring styles and durations are controlled by the phone.
+
+SIP_PROXY_DEFAULT_EXPIRES controls the maximum time a call is allowed to go unanswered; if this many seconds pass, the call request is returned with an error. The default value is 180 seconds (3 minutes).
+
+END

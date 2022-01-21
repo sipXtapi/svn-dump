@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-05-23T18:59:10.091199Z
+K 7
+svn:log
+V 72
+XCF-325 add logic for limited backup and write more ui and lib unittests
+END

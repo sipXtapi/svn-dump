@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+cypromis
+K 8
+svn:date
+V 27
+2006-09-03T12:19:42.834606Z
+K 7
+svn:log
+V 115
+Settings from phone.xml get done correctly. COmparison seems to work as well, but I cannot get the line settings in
+END

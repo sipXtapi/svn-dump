@@ -1,0 +1,241 @@
+PLAIN
+K 10
+svn:ignore
+V 33
+.deps
+.libs
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 174.0.r1795/72
+type: dir
+pred: 174.0.r1767/3440
+count: 80
+text: 1767 938 2489 2489 59d080c0cf6241aafb7a4679f1f8d147
+props: 1795 0 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /old/sipXcallLib/main/examples/sipXezPhone
+copyroot: 0 /
+
+PLAIN
+K 10
+CallScript
+V 21
+dir 15w.6n.r1753/1793
+K 11
+Makefile.am
+V 19
+file vm.0.r1794/159
+K 9
+PlaceCall
+V 20
+dir 15w.0.r1765/4337
+K 11
+ReceiveCall
+V 20
+dir 160.0.r1765/5437
+K 11
+musicServer
+V 20
+dir vn.0.r1755/10280
+K 11
+sipXezPhone
+V 18
+dir 174.0.r1795/72
+END
+ENDREP
+id: vl.0.r1795/578
+type: dir
+pred: vl.0.r1794/669
+count: 159
+text: 1795 309 256 256 00fd56d3d4e094f379e11b527c1fc9a1
+props: 1356 1849 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXcallLib/main/examples
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file vb.0.r1491/159931
+K 9
+ChangeLog
+V 22
+file vc.0.r1711/261331
+K 7
+INSTALL
+V 19
+file vd.0.r1766/716
+K 7
+LICENSE
+V 22
+file ve.0.r1711/229171
+K 11
+Makefile.am
+V 19
+file vf.0.r1786/108
+K 4
+NEWS
+V 22
+file vg.0.r1491/170627
+K 6
+README
+V 22
+file vh.0.r1491/159626
+K 4
+TODO
+V 22
+file vi.0.r1491/169087
+K 9
+acsite.m4
+V 21
+file vj.0.r1491/97655
+K 3
+bin
+V 22
+dir 15f.0.r1711/299696
+K 12
+configure.ac
+V 18
+file vk.0.r1789/93
+K 3
+doc
+V 21
+dir 158.0.r1768/38766
+K 8
+examples
+V 18
+dir vl.0.r1795/578
+K 7
+include
+V 19
+dir vt.0.r1793/2651
+K 4
+meta
+V 20
+dir 16r.0.r1744/9345
+K 15
+sipXcallLib.dsp
+V 21
+file 155.0.r1731/1462
+K 18
+sipXcallLib.vcproj
+V 21
+file 1ow.0.r1759/3039
+K 8
+sipXtapi
+V 21
+dir 1p0.0.r1744/13906
+K 12
+sipXtapi.dsp
+V 22
+file 16a.0.r1781/13814
+K 12
+sipXtapi.dsw
+V 21
+file 16b.0.r1593/7616
+K 12
+sipXtapi.sln
+V 21
+file 1ok.0.r1759/2318
+K 15
+sipXtapi.vcproj
+V 21
+file 1ox.0.r1759/2553
+K 16
+sipXtapiTest.dsp
+V 21
+file 16c.0.r1731/1224
+K 19
+sipXtapiTest.vcproj
+V 21
+file 1oy.0.r1759/2794
+K 19
+sipxcalllib.spec.in
+V 20
+file 15d.0.r1649/504
+K 3
+src
+V 20
+dir 10q.0.r1793/4736
+END
+ENDREP
+id: va.0.r1795/1912
+type: dir
+pred: va.0.r1794/2004
+count: 383
+text: 1795 803 1096 1096 88928a022e491ccb34ef7f207b6e7c5a
+props: 1786 1449 882 0 a348bfadd74648e5d2ef76a6dd73108d
+cpath: /old/sipXcallLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 15e.0.r1785/1914
+K 4
+main
+V 19
+dir va.0.r1795/1912
+K 4
+tags
+V 20
+dir 156.0.r1775/2832
+END
+ENDREP
+id: v9.0.r1795/2258
+type: dir
+pred: v9.0.r1794/2350
+count: 474
+text: 1795 2133 112 112 f3849d09c381b6164b0bfcdff14ac7c8
+cpath: /old/sipXcallLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1795/2258
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1795/2602
+type: dir
+pred: 1.0.r1794/2694
+count: 1794
+text: 1795 2417 172 172 54841a9ce58f3fe7734fce70ef618126
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1795/2602
+END
+ENDREP
+id: 0.0.r1795/2797
+type: dir
+pred: 0.0.r1794/2889
+count: 1795
+text: 1795 2748 36 36 91f216e8c033c152cc4bdd73a6a7309b
+cpath: /
+copyroot: 0 /
+
+174.0.t1794-1 modify false true /old/sipXcallLib/main/examples/sipXezPhone
+
+
+2797 2938

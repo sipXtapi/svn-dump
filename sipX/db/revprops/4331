@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-08T21:32:30.876063Z
+K 7
+svn:log
+V 69
+http://track.sipfoundry.org/browse/XPB-115
+Added "Requires: mod_ssl"
+
+END

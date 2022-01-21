@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-04-07T18:44:32.344623Z
+K 7
+svn:log
+V 177
+Default to using .WAV files instead of .RAW (8000 samples/sec PCM) files.
+This help switch between different sample rates without needing to touch
+the default ring files, etc.
+
+
+END

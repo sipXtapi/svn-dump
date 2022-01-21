@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-23T16:19:51.212137Z
+K 7
+svn:log
+V 92
+Several bugs and typos in MpVideoBuf fixed. Only really supported colorspaces kept enabled.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-08T22:30:44.984140Z
+K 7
+svn:log
+V 343
+Fix SdpCodecList::bindPayloadTypes() - now it really do what it is expected to do.
+Past version had all necesarry if's and loops, but they were mixed in wrong order, which led to unpredictable results. E.g. already used payload types may be given to different codecs, while codecs with the same MIME-subtype might get different payload types.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-27T15:03:39.408838Z
+K 7
+svn:log
+V 178
+Clarify return value for MpOutputDeviceDriver::pushFrame() method in documentation.
+Fix debug build: MpResource noe inherit from UtlString and do not have mName member variable.
+
+END

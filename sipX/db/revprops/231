@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-28T14:04:28.606423Z
+K 7
+svn:log
+V 164
+Delete the 'main' subdirectory of this directory (which is 'main' in the
+repository).  It was accidentally created as a copy of the entire sipXportLib
+main branch.
+
+END

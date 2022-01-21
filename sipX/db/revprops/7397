@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+cypromis
+K 8
+svn:date
+V 27
+2006-09-02T21:31:53.151851Z
+K 7
+svn:log
+V 120
+Added missing settings from DTMF group
+Added remaining differences between models settings (I hope all)
+Fixed some typos
+END

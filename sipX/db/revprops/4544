@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-03-17T17:05:37.176156Z
+K 7
+svn:log
+V 376
+Merged revisions 450 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXpbx/branches/2.8
+    ------------------------------------------------------------------------
+    r450 | xmlscott | 2005-03-17 12:01:39 -0500 (Thu, 17 Mar 2005) | 1 line
+    Changed paths:
+       M /branches/2.8/bin/sipx-snapshot.in
+    
+    [XPB-241] suppress errors about missing developer-only info
+
+END

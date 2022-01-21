@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2004-12-06T22:43:02.659647Z
+K 7
+svn:log
+V 105
+Corrected spelling of function testDeleteTimerBeforeExpires()
+
+http://track.sipfoundry.org/browse/XPL-78
+
+END

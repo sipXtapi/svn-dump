@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-07-09T19:07:09.080094Z
+K 7
+svn:log
+V 246
+Move 2 warning levels to CFLAGS instead of CXXFLAGS based on these 
+warning messages:
+
+  cc1plus: warning: "-Wnested-externs" is valid for C/ObjC but not for 
+C++
+  cc1plus: warning: "-Wmissing-declarations" is valid for C/ObjC but not 
+for C++
+
+
+END

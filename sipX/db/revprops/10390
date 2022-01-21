@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-12-10T05:58:53.929571Z
+K 7
+svn:log
+V 114
+OsMsgQShared: Doxify documentation, put variables used for debug into appropriate #ifdef's. No real code changes.
+
+END

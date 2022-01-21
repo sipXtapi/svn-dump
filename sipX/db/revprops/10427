@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-12-19T23:20:22.788468Z
+K 7
+svn:log
+V 650
+Remove sample rate and samples per frame settings from MpAudioResources.
+From sample rate and samples per frame are stored in flowgraph. Resources should ask flowgraph is they need to know. This allowed to remove pretty much of junk code and reduce complexity, but involved one more constrain. From now on MpAudioResource::processFrame() could not be called when resource is not associated with flowgraph. Also you could not use sampling rate and samples per frame in resource's constructor (and destructor). All such initialization could be done, e.g. in overriden MpResource::setFlowGraph() method.
+
+Affected unittests are fixed by this patch too.
+
+END

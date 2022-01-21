@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-20T22:44:39.908094Z
+K 7
+svn:log
+V 307
+XCF-786 Sorting phones by model fixed. It required implementing sorting by multiple fields both in database and in Lucene index since model is really a concatenation of beanId and modelId (roughly corresponding to manufacturer and model).
+We cannot really sort phones by lines effectively. I disabled that.
+
+END

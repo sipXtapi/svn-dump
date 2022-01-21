@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-14T22:26:27.266394Z
+K 7
+svn:log
+V 104
+Implemented SdpDefaultCodecFactory::getCodecType() method to get SDP codec type by MIME-type/fmtp pair.
+
+END

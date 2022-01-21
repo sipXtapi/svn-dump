@@ -1,0 +1,33 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-12T14:04:27.383049Z
+K 7
+svn:log
+V 844
+Merged revisions 210-219 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXregistry/main
+    ------------------------------------------------------------------------
+    r215 | xmlscott | 2005-05-09 18:05:19 -0400 (Mon, 09 May 2005) | 1 line
+    Changed paths:
+       M /main/src/SipRegistrarServer.cpp
+    
+    clarify and fix severity on register authentication logging
+    ------------------------------------------------------------------------
+    r216 | xmlscott | 2005-05-10 09:36:58 -0400 (Tue, 10 May 2005) | 4 lines
+    Changed paths:
+       M /main/doc/Doxyfile.in
+       M /main/doc/Makefile.am
+       M /main/doc/footer.html
+       D /main/doc/header.html
+    
+    Remove custom headers from generated html because the default one 
+    generates better page titles for bookmarks.
+    Move the home page link to the footer.
+    
+
+END

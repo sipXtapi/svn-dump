@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-11-01T16:22:11.480503Z
+K 7
+svn:log
+V 128
+Checking in full bunch of other changes to sipXmediaLib. At this point it's way too hard to split them into individual commits.
+
+END

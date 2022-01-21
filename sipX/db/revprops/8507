@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-01-11T05:07:36.392445Z
+K 7
+svn:log
+V 155
+Add basic functional tests so users can confirm that they've
+successfully communicated with the server.  Put "sip:" at the
+beginning of URIs that lack it.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-10-21T19:52:12.426447Z
+K 7
+svn:log
+V 129
+Fix XCF-715: After migration, no replication is triggered.
+Trigger replication every time the app starts up, not just migration.
+
+END

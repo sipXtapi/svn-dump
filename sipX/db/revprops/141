@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-07-13T17:17:05.296930Z
+K 7
+svn:log
+V 87
+increase allowed tolerance in timer tests to prevent intermittent failures (see XPL-39)
+END

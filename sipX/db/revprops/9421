@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-04-26T20:01:43.971605Z
+K 7
+svn:log
+V 164
+Conference code fixes. Now events should work fine even after conference split operation.
+
+Made strCallId in SIPX_CONF_DATA just a UtlString instead of UtlString* .
+END

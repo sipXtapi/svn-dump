@@ -1,0 +1,946 @@
+PLAIN
+K 10
+svn:ignore
+V 28
+Makefile
+Makefile.in
+.deps
+
+
+END
+ENDREP
+id: lwh.7n5.r12207/67
+type: dir
+pred: lwh.7n5.r12202/3811
+count: 2
+text: 12202 3703 95 95 a1dd0900b001e88129656b7e60132345
+props: 12207 0 54 0 9e8708e9b4786ab3c7ff09e372496a63
+cpath: /main/sipXmediaLib/src/mp/codecs/plgopus
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file f2w.7n5.r12202/3263
+K 6
+plgaac
+V 22
+dir h52.7n5.r11992/366
+K 6
+plgamr
+V 23
+dir f3x.7n5.r12133/9304
+K 8
+plgamrwb
+V 24
+dir f4w.7n5.r12133/15950
+K 7
+plgg722
+V 24
+dir f5r.7n5.r12133/10077
+K 7
+plgg726
+V 24
+dir f56.7n5.r12133/13408
+K 7
+plgg729
+V 24
+dir f5o.7n5.r12133/16590
+K 6
+plggsm
+V 24
+dir f25.7n5.r12133/15161
+K 7
+plgilbc
+V 24
+dir f28.7n5.r12133/18117
+K 6
+plgl16
+V 24
+dir fom.7n5.r12133/11418
+K 7
+plgopus
+V 21
+dir lwh.7n5.r12207/67
+K 11
+plgpcmapcmu
+V 24
+dir f2b.7n5.r12133/14377
+K 8
+plgspeex
+V 24
+dir f2e.7n5.r12133/12399
+K 8
+plgtones
+V 24
+dir f2o.7n5.r12133/17328
+END
+ENDREP
+id: f24.7n5.r12207/922
+type: dir
+pred: f24.7n5.r12202/4617
+count: 148
+text: 12207 314 595 595 018c821764730e1df27421389cc20533
+props: 11820 4073 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXmediaLib/src/mp/codecs
+copyroot: 10815 /main
+
+PLAIN
+K 10
+DSPlib.cpp
+V 22
+file b97.0.r9724/13361
+K 14
+FilterBank.cpp
+V 22
+file b99.0.r9727/32326
+K 21
+HandsetFilterBank.cpp
+V 22
+file b9a.0.r9727/33099
+K 16
+MicThreadWnt.cpp
+V 23
+file b9b.0.r10065/46929
+K 13
+MpAgcBase.cpp
+V 24
+file fui.7n5.r12137/2079
+K 15
+MpAgcSimple.cpp
+V 23
+file fug.7n5.r11208/282
+K 34
+MpAndroidAudioBindingInterface.cpp
+V 25
+file lsl.7n5.r12175/34855
+K 24
+MpAndroidAudioRecord.cpp
+V 25
+file gtj.7n5.r12175/33301
+K 23
+MpAndroidAudioTrack.cpp
+V 25
+file gtt.7n5.r12175/33509
+K 28
+MpAndroidX_XAudioBinding.cpp
+V 25
+file lsg.7n5.r12175/34238
+K 27
+MpAndroidX_XAudioRecord.cpp
+V 25
+file gte.7n5.r12175/34428
+K 26
+MpAndroidX_XAudioTrack.cpp
+V 25
+file gtp.7n5.r12175/34641
+K 14
+MpArrayBuf.cpp
+V 25
+file eal.7n5.r12069/16045
+K 19
+MpAudioAbstract.cpp
+V 25
+file b9c.7n5.r11523/28268
+K 14
+MpAudioBuf.cpp
+V 25
+file eam.7n5.r11238/10200
+K 25
+MpAudioFileDecompress.cpp
+V 22
+file b9d.0.r9426/55207
+K 19
+MpAudioFileOpen.cpp
+V 22
+file b9e.0.r9426/60923
+K 20
+MpAudioFileUtils.cpp
+V 22
+file b9f.0.r9426/78692
+K 27
+MpAudioOutputConnection.cpp
+V 23
+file erw.7n5.r12155/426
+K 19
+MpAudioResource.cpp
+V 23
+file eao.7n5.r11220/131
+K 16
+MpAudioUtils.cpp
+V 23
+file b9g.7n5.r12136/153
+K 23
+MpAudioWaveFileRead.cpp
+V 22
+file b9h.0.r9426/60544
+K 21
+MpBridgeAlgLinear.cpp
+V 25
+file fum.7n5.r11890/12834
+K 21
+MpBridgeAlgSimple.cpp
+V 25
+file fun.7n5.r10895/67259
+K 9
+MpBuf.cpp
+V 23
+file b9i.7n5.r11998/699
+K 13
+MpBufPool.cpp
+V 25
+file eap.7n5.r12072/11445
+K 15
+MpBufferMsg.cpp
+V 22
+file b9j.0.r9426/71918
+K 19
+MpCallFlowGraph.cpp
+V 26
+file b9k.7n5.r12043/228988
+K 11
+MpCodec.cpp
+V 25
+file b9l.7n5.r11523/26432
+K 18
+MpCodecFactory.cpp
+V 23
+file b9m.7n5.r12190/611
+K 18
+MpDTMFDetector.cpp
+V 25
+file f70.7n5.r11523/26690
+K 13
+MpDataBuf.cpp
+V 25
+file eaq.7n5.r11179/17441
+K 17
+MpDecoderBase.cpp
+V 25
+file b9p.7n5.r12166/11280
+K 23
+MpDecoderPayloadMap.cpp
+V 26
+file f7k.7n5.r12043/229516
+K 14
+MpDspUtils.cpp
+V 23
+file ey9.0.r10404/13034
+K 17
+MpEncoderBase.cpp
+V 24
+file b9q.7n5.r11907/1344
+K 19
+MpFlowGraphBase.cpp
+V 25
+file b9r.7n5.r12146/20275
+K 18
+MpFlowGraphMsg.cpp
+V 25
+file b9s.7n5.r10922/31257
+K 23
+MpInputDeviceDriver.cpp
+V 24
+file emd.7n5.r11047/5011
+K 24
+MpInputDeviceManager.cpp
+V 25
+file ekx.7n5.r12151/19524
+K 14
+MpJbeFixed.cpp
+V 25
+file fp6.7n5.r11205/11483
+K 18
+MpJitterBuffer.cpp
+V 24
+file b9t.7n5.r11977/2068
+K 28
+MpJitterBufferEstimation.cpp
+V 24
+file fp7.7n5.r12137/1807
+K 13
+MpMMTimer.cpp
+V 25
+file ey5.7n5.r11180/13790
+K 18
+MpMMTimerPosix.cpp
+V 23
+file fy8.7n5.r11969/325
+K 16
+MpMMTimerWnt.cpp
+V 25
+file ey6.7n5.r11179/17099
+K 15
+MpMediaTask.cpp
+V 25
+file b9u.7n5.r12153/11851
+K 18
+MpMediaTaskMsg.cpp
+V 22
+file b9v.0.r9426/89251
+K 10
+MpMisc.cpp
+V 23
+file b9w.7n5.r12008/155
+K 9
+MpOss.cpp
+V 24
+file ex3.7oe.r11766/5514
+K 18
+MpOssContainer.cpp
+V 25
+file ex4.7ml.r10430/27705
+K 24
+MpOutputDeviceDriver.cpp
+V 25
+file erx.7n5.r11541/20835
+K 25
+MpOutputDeviceManager.cpp
+V 24
+file etd.7n5.r12159/2051
+K 12
+MpPlayer.cpp
+V 22
+file b9x.0.r9426/63137
+K 17
+MpPlayerEvent.cpp
+V 22
+file b9y.0.r9426/64239
+K 13
+MpPlcBase.cpp
+V 24
+file f7q.7n5.r12137/2584
+K 16
+MpPlcSilence.cpp
+V 25
+file f7o.7n5.r11217/12793
+K 16
+MpPlgStaffV1.cpp
+V 23
+file f23.7n5.r12190/412
+K 20
+MpRawAudioBuffer.cpp
+V 24
+file dj1.7n5.r11374/4940
+K 24
+MpResNotificationMsg.cpp
+V 24
+file eym.7n5.r11374/5625
+K 15
+MpResampler.cpp
+V 24
+file f78.7n5.r11613/2440
+K 20
+MpResamplerSpeex.cpp
+V 25
+file f79.7n5.r11610/10533
+K 14
+MpResource.cpp
+V 24
+file b9z.7n5.r12185/2387
+K 21
+MpResourceFactory.cpp
+V 24
+file es2.73c.r9880/18185
+K 17
+MpResourceMsg.cpp
+V 22
+file ewn.0.r9426/68598
+K 21
+MpResourceSortAlg.cpp
+V 22
+file ba0.0.r9426/61300
+K 22
+MpResourceTopology.cpp
+V 25
+file etf.7n5.r11729/12601
+K 12
+MpRtpBuf.cpp
+V 25
+file ear.7n5.r11783/11450
+K 24
+MpRtpInputConnection.cpp
+V 25
+file b9o.7ni.r12106/49436
+K 25
+MpRtpOutputConnection.cpp
+V 25
+file b9o.7nn.r12110/41889
+K 35
+MpSineWaveGeneratorDeviceDriver.cpp
+V 25
+file emx.7o9.r11523/27413
+K 23
+MpSpeakerSelectBase.cpp
+V 23
+file fxh.7n5.r11195/153
+K 21
+MpStaticCodecInit.cpp
+V 23
+file f75.7n5.r12180/330
+K 18
+MpStreamFeeder.cpp
+V 25
+file ba2.7n5.r10847/38908
+K 15
+MpStreamMsg.cpp
+V 25
+file ba3.7n5.r10922/28677
+K 18
+MpStreamPlayer.cpp
+V 25
+file ba4.7n5.r10922/28933
+K 26
+MpStreamPlaylistPlayer.cpp
+V 25
+file ba5.7n5.r10922/29197
+K 23
+MpStreamQueuePlayer.cpp
+V 25
+file ba6.7n5.r10922/29729
+K 19
+MpTopologyGraph.cpp
+V 24
+file eir.7n5.r12185/2646
+K 11
+MpTypes.cpp
+V 23
+file fol.0.r10676/23137
+K 12
+MpUdpBuf.cpp
+V 25
+file eas.7n5.r11999/11188
+K 13
+MpVadBase.cpp
+V 24
+file fp8.7n5.r12137/2841
+K 15
+MpVadSimple.cpp
+V 23
+file fp9.7n5.r11208/537
+K 19
+MpVideoResource.cpp
+V 25
+file hcv.7n5.r11776/12949
+K 15
+MpidAndroid.cpp
+V 25
+file geo.7n5.r12175/33717
+K 17
+MpidCoreAudio.cpp
+V 25
+file g8m.7n5.r11421/34036
+K 11
+MpidOss.cpp
+V 24
+file ex5.7mm.r10653/1538
+K 13
+MpidWinMM.cpp
+V 25
+file eme.7or.r12151/18951
+K 15
+MpodAndroid.cpp
+V 25
+file gem.7n5.r12175/33979
+K 22
+MpodBufferRecorder.cpp
+V 23
+file ews.7n5.r11767/370
+K 17
+MpodCoreAudio.cpp
+V 25
+file g8p.7n5.r11421/34875
+K 11
+MpodOss.cpp
+V 25
+file ex6.7nu.r12069/16302
+K 13
+MpodWinMM.cpp
+V 24
+file eyc.7n5.r12185/2910
+K 23
+MprAudioFrameBuffer.cpp
+V 25
+file ekq.7m8.r10427/69346
+K 13
+MprBridge.cpp
+V 24
+file bar.7n5.r12185/3374
+K 13
+MprDecode.cpp
+V 25
+file bas.7n5.r12101/13176
+K 15
+MprDejitter.cpp
+V 25
+file bat.7n5.r11675/11557
+K 12
+MprDelay.cpp
+V 24
+file fwj.7n5.r10879/2511
+K 19
+MprEchoSuppress.cpp
+V 22
+file bau.0.r10729/8923
+K 13
+MprEncode.cpp
+V 24
+file bav.7n5.r11921/1255
+K 15
+MprFromFile.cpp
+V 23
+file baw.7n5.r11972/201
+K 22
+MprFromInputDevice.cpp
+V 23
+file emg.7n5.r12156/725
+K 14
+MprFromMic.cpp
+V 23
+file bax.0.r10676/24430
+K 14
+MprFromNet.cpp
+V 25
+file bay.7n5.r12106/50027
+K 17
+MprFromStream.cpp
+V 25
+file baz.7n5.r10847/38651
+K 11
+MprHook.cpp
+V 25
+file fyt.7n5.r11320/10607
+K 12
+MprMixer.cpp
+V 23
+file bb0.0.r10676/25471
+K 11
+MprNull.cpp
+V 23
+file ekq.0.r10427/71260
+K 14
+MprNullAec.cpp
+V 25
+file ekq.7m9.r10427/66319
+K 15
+MprRecorder.cpp
+V 25
+file bb1.7n5.r12188/11098
+K 20
+MprRtpDispatcher.cpp
+V 25
+file fwv.7n5.r11778/16159
+K 31
+MprRtpDispatcherActiveSsrcs.cpp
+V 25
+file fwz.7n5.r11778/15883
+K 30
+MprRtpDispatcherIpAffinity.cpp
+V 25
+file fwx.7n5.r12069/16599
+K 22
+MprSpeakerSelector.cpp
+V 22
+file fxt.7n5.r11341/50
+K 22
+MprSpeexEchoCancel.cpp
+V 24
+file eax.7n5.r11368/2138
+K 22
+MprSpeexPreProcess.cpp
+V 24
+file eay.7n5.r11405/4913
+K 15
+MprSplitter.cpp
+V 23
+file bb2.0.r10427/71000
+K 12
+MprToNet.cpp
+V 25
+file bb3.7n5.r12106/48921
+K 21
+MprToOutputDevice.cpp
+V 24
+file etm.7n5.r12185/3108
+K 13
+MprToSpkr.cpp
+V 22
+file bb4.7n5.r11502/93
+K 14
+MprToneGen.cpp
+V 25
+file bb5.7n5.r12106/49178
+K 10
+MprVad.cpp
+V 25
+file fwl.7n5.r10880/13562
+K 28
+MprVoiceActivityNotifier.cpp
+V 25
+file fwn.7n5.r11636/10588
+K 15
+MprnDTMFMsg.cpp
+V 25
+file ezr.7n5.r10895/65287
+K 14
+MprnIntMsg.cpp
+V 23
+file fwh.7n5.r10877/940
+K 19
+MprnProgressMsg.cpp
+V 23
+file ezp.0.r10004/18033
+K 28
+MprnRtpStreamActivityMsg.cpp
+V 24
+file fwi.7n5.r10878/1078
+K 17
+MprnStringMsg.cpp
+V 25
+file hch.7n5.r11774/12089
+K 13
+NetInTask.cpp
+V 24
+file bb6.7n5.r12137/2332
+K 20
+SpeakerThreadWnt.cpp
+V 25
+file bb7.7n5.r12146/20012
+K 26
+StreamBufferDataSource.cpp
+V 25
+file bb8.7n5.r10847/36264
+K 20
+StreamDataSource.cpp
+V 22
+file bb9.0.r9426/59415
+K 28
+StreamDataSourceListener.cpp
+V 22
+file bba.0.r9426/77159
+K 25
+StreamDecoderListener.cpp
+V 22
+file bbb.0.r9426/68249
+K 24
+StreamFileDataSource.cpp
+V 25
+file bbc.7n5.r10847/38387
+K 23
+StreamFormatDecoder.cpp
+V 22
+file bbd.0.r9426/56339
+K 24
+StreamHttpDataSource.cpp
+V 25
+file bbe.7n5.r10847/36798
+K 18
+StreamQueueMsg.cpp
+V 22
+file bbf.0.r9426/89628
+K 31
+StreamQueueingFormatDecoder.cpp
+V 22
+file bbg.0.r9426/94066
+K 26
+StreamRAWFormatDecoder.cpp
+V 25
+file bbh.7n5.r10847/37065
+K 26
+StreamWAVFormatDecoder.cpp
+V 25
+file bbi.7n5.r10847/36529
+K 6
+codecs
+V 22
+dir f24.7n5.r12207/922
+K 7
+dft.cpp
+V 22
+file bbj.0.r9426/71550
+K 16
+dmaTaskPosix.cpp
+V 25
+file bbk.7n5.r11421/34273
+K 14
+dmaTaskWnt.cpp
+V 23
+file bbl.7n5.r12143/209
+K 11
+dtmflib.cpp
+V 25
+file bbm.7n5.r11523/28011
+K 10
+mpG711.cpp
+V 22
+file bbn.0.r9426/66849
+K 8
+mpau.cpp
+V 25
+file bbo.7n5.r11523/27762
+END
+ENDREP
+id: b96.7n5.r12207/9187
+type: dir
+pred: b96.7n5.r12202/12885
+count: 1073
+text: 12207 1168 8006 8006 8a3c6d8f52cb4cead7ff125dae6a4f1c
+cpath: /main/sipXmediaLib/src/mp
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file b95.7n5.r11815/77
+K 2
+mp
+V 23
+dir b96.7n5.r12207/9187
+K 4
+rtcp
+V 23
+dir bbq.7n5.r12134/1362
+K 4
+test
+V 24
+dir bc7.7n5.r12175/33060
+END
+ENDREP
+id: b94.7n5.r12207/9551
+type: dir
+pred: b94.7n5.r12202/13251
+count: 1290
+text: 12207 9376 162 162 3f29b4406130e0e48c222eb46357591c
+props: 11821 296 54 0 9e8708e9b4786ab3c7ff09e372496a63
+cpath: /main/sipXmediaLib/src
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 24
+file g92.7n5.r12193/3058
+K 12
+CONTRIBUTORS
+V 25
+file b41.0.r6469/22054157
+K 9
+ChangeLog
+V 25
+file b42.0.r6469/22025314
+K 7
+INSTALL
+V 24
+file b43.0.r6955/1728056
+K 11
+Makefile.am
+V 23
+file b44.0.r10281/14228
+K 4
+NEWS
+V 25
+file b45.0.r6469/22058814
+K 6
+README
+V 24
+file b46.0.r6955/1727035
+K 4
+TODO
+V 25
+file b47.0.r6469/22057442
+K 9
+acsite.m4
+V 24
+file b48.0.r6955/1726702
+K 17
+autoconf259.patch
+V 23
+file fxj.7n5.r10953/747
+K 3
+bin
+V 22
+dir b49.7n5.r11821/958
+K 12
+configure.ac
+V 25
+file b4k.7n5.r12202/13492
+K 7
+contrib
+V 23
+dir ebw.7n5.r12206/3864
+K 3
+doc
+V 22
+dir b4l.7n5.r11821/663
+K 26
+dtmf5_48khz_16b_signed.wav
+V 23
+file f7a.0.r10516/48478
+K 7
+include
+V 24
+dir b4p.7n5.r12188/10856
+K 3
+lib
+V 24
+dir b8u.0.r6469/22057603
+K 4
+meta
+V 24
+dir b8v.0.r6469/22024982
+K 25
+sipXmediaLib-msvc8.vcproj
+V 24
+file e76.7n5.r11952/3545
+K 16
+sipXmediaLib.dsp
+V 24
+file up.7nl.r11401/19813
+K 16
+sipXmediaLib.vcp
+V 22
+file e6i.0.r9956/38866
+K 19
+sipXmediaLib.vcproj
+V 24
+file b92.7n5.r12138/5904
+K 29
+sipXmediaLibTest-msvc8.vcproj
+V 25
+file e77.7n5.r11246/25524
+K 20
+sipXmediaLibTest.dsp
+V 24
+file mh.7nm.r11405/14608
+K 20
+sipXmediaLibTest.sln
+V 24
+file eaj.7n5.r12138/5652
+K 20
+sipXmediaLibTest.vcp
+V 22
+file e6j.0.r8865/20512
+K 23
+sipXmediaLibTest.vcproj
+V 24
+file eak.7n5.r12138/6106
+K 20
+sipxmedialib.spec.in
+V 24
+file b93.7n5.r10867/5783
+K 3
+src
+V 23
+dir b94.7n5.r12207/9551
+END
+ENDREP
+id: b40.7n5.r12207/11196
+type: dir
+pred: b40.7n5.r12206/5508
+count: 1713
+text: 12207 9790 1393 1393 2bb344845dc6514adc05b4322fcd9602
+props: 12145 0 1813 0 58248c4af0182e106449432dd66c2042
+cpath: /main/sipXmediaLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g8y.7n5.r12172/315
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 23
+dir 9wj.7n5.r12202/3039
+K 10
+readme.txt
+V 26
+file 9ws.7n5.r12043/247879
+K 7
+scripts
+V 23
+dir fxk.7n5.r12171/1617
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r12195/5622
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r12191/4723
+K 12
+sipXmediaLib
+V 24
+dir b40.7n5.r12207/11196
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r12189/6789
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r12176/4629
+K 11
+sipXtackLib
+V 23
+dir boq.7n5.r12165/2856
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r12207/12094
+type: dir
+pred: 9wi.7n5.r12206/6404
+count: 3145
+text: 12207 11433 648 648 930bdd7d60b40654800354a1436accd2
+props: 12114 59175 76 0 1dd3880c3272b32f88d1700b38908223
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r12113/17441
+K 4
+main
+V 24
+dir 9wi.7n5.r12207/12094
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r12207/12492
+type: dir
+pred: 0.0.r12206/6799
+count: 12207
+text: 12207 12319 160 160 487ee44660c0b119f88d2d5a26b15121
+cpath: /
+copyroot: 0 /
+
+lwh.7n5.t12206-1 modify false true /main/sipXmediaLib/src/mp/codecs/plgopus
+
+
+12492 12641

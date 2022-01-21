@@ -1,0 +1,324 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1q7.6n.r1706/82
+type: file
+pred: 1q7.6n.r1697/208
+count: 1
+text: 1697 0 195 214 9afaaaf47dd801303ac96f5e830c7c54
+props: 1706 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcallLib/main/examples/CallScript/src/driver
+copyroot: 1422 /old/sipXcallLib/main/examples/CallScript
+
+PLAIN
+K 14
+CallScript.cpp
+V 22
+file 15z.6o.r1683/1252
+K 19
+CallScriptDriver.pl
+V 21
+file 16l.6n.r1684/697
+K 11
+Makefile.am
+V 22
+file 16j.6n.r1675/1249
+K 6
+README
+V 22
+file 16w.6n.r1684/1004
+K 15
+TestingProtocol
+V 24
+file 16x.6n.r1491/171334
+K 6
+driver
+V 20
+file 1q7.6n.r1706/82
+K 8
+driver-1
+V 24
+file 16y.6n.r1491/174108
+K 8
+driver-2
+V 24
+file 16z.6n.r1491/174492
+K 12
+hanging-call
+V 20
+file 1oh.6n.r1537/82
+K 13
+leave-message
+V 22
+file 170.6n.r1682/6220
+K 14
+leave-retrieve
+V 24
+file 171.6n.r1491/171727
+K 11
+log-analyze
+V 24
+file 172.6n.r1491/172550
+K 16
+retrieve-message
+V 22
+file 173.6n.r1682/5612
+END
+ENDREP
+id: 15y.6n.r1706/982
+type: dir
+pred: 15y.6n.r1697/1035
+count: 29
+text: 1706 369 600 600 5ea90b6d95784f875c5ddbbf9bff2ed1
+props: 1431 10794 77 0 5a7c31a34a6db0baf7693974e8116718
+cpath: /old/sipXcallLib/main/examples/CallScript/src
+copyroot: 1422 /old/sipXcallLib/main/examples/CallScript
+
+PLAIN
+K 14
+CallScript.dsp
+V 24
+file 15x.6q.r1491/170935
+K 3
+src
+V 20
+dir 15y.6n.r1706/982
+END
+ENDREP
+id: 15w.6n.r1706/1371
+type: dir
+pred: 15w.6n.r1697/1426
+count: 29
+text: 1706 1270 88 88 40c72103aab8d6afb05aeb5da6a7ca66
+cpath: /old/sipXcallLib/main/examples/CallScript
+copyroot: 1422 /old/sipXcallLib/main/examples/CallScript
+
+PLAIN
+K 10
+CallScript
+V 21
+dir 15w.6n.r1706/1371
+K 11
+Makefile.am
+V 22
+file vm.0.r1491/180828
+K 9
+PlaceCall
+V 21
+dir 15w.0.r1688/13655
+K 11
+ReceiveCall
+V 21
+dir 160.0.r1670/11480
+K 11
+musicServer
+V 18
+dir vn.0.r1633/771
+K 11
+sipXezPhone
+V 20
+dir 174.0.r1698/3103
+END
+ENDREP
+id: vl.0.r1706/1873
+type: dir
+pred: vl.0.r1698/3564
+count: 133
+text: 1706 1599 261 261 299d1c03a25900544e78a1c1910f0299
+props: 1356 1849 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXcallLib/main/examples
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file vb.0.r1491/159931
+K 9
+ChangeLog
+V 19
+file vc.0.r1534/115
+K 7
+INSTALL
+V 22
+file vd.0.r1491/169400
+K 7
+LICENSE
+V 21
+file ve.0.r1491/42834
+K 11
+Makefile.am
+V 19
+file vf.0.r1668/118
+K 4
+NEWS
+V 22
+file vg.0.r1491/170627
+K 6
+README
+V 22
+file vh.0.r1491/159626
+K 4
+TODO
+V 22
+file vi.0.r1491/169087
+K 9
+acsite.m4
+V 21
+file vj.0.r1491/97655
+K 3
+bin
+V 20
+dir 15f.0.r1545/5590
+K 12
+configure.ac
+V 18
+file vk.0.r1700/68
+K 3
+doc
+V 21
+dir 158.0.r1692/35544
+K 8
+examples
+V 19
+dir vl.0.r1706/1873
+K 7
+include
+V 19
+dir vt.0.r1691/3876
+K 4
+meta
+V 20
+dir 16r.0.r1602/1943
+K 15
+sipXcallLib.dsp
+V 22
+file 155.0.r1616/10743
+K 18
+sipXcallLib.vcproj
+V 20
+file 1ow.0.r1655/905
+K 8
+sipXtapi
+V 19
+dir 1p0.0.r1664/954
+K 12
+sipXtapi.dsp
+V 21
+file 16a.0.r1621/1066
+K 12
+sipXtapi.dsw
+V 21
+file 16b.0.r1593/7616
+K 12
+sipXtapi.sln
+V 20
+file 1ok.0.r1614/208
+K 15
+sipXtapi.vcproj
+V 21
+file 1ox.0.r1618/2984
+K 16
+sipXtapiTest.dsp
+V 21
+file 16c.0.r1593/4628
+K 19
+sipXtapiTest.vcproj
+V 22
+file 1oy.0.r1640/23554
+K 19
+sipxcalllib.spec.in
+V 20
+file 15d.0.r1649/504
+K 3
+src
+V 20
+dir 10q.0.r1704/1761
+END
+ENDREP
+id: va.0.r1706/3205
+type: dir
+pred: va.0.r1704/3089
+count: 312
+text: 1706 2101 1091 1091 8338cf475abcf947cb40b445d885dd6a
+props: 1694 0 746 0 70941ea4a88422d0fbc4c929068062d8
+cpath: /old/sipXcallLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 15e.0.r1693/1131
+K 4
+main
+V 19
+dir va.0.r1706/3205
+K 4
+tags
+V 20
+dir 156.0.r1705/2285
+END
+ENDREP
+id: v9.0.r1706/3549
+type: dir
+pred: v9.0.r1705/2576
+count: 385
+text: 1706 3424 112 112 6124316b05a26b3e679c5c093d871a70
+cpath: /old/sipXcallLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1706/3549
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1706/3893
+type: dir
+pred: 1.0.r1705/2920
+count: 1705
+text: 1706 3708 172 172 37b53e13682572fa9511c59bae08c1d8
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1706/3893
+END
+ENDREP
+id: 0.0.r1706/4088
+type: dir
+pred: 0.0.r1705/3115
+count: 1706
+text: 1706 4039 36 36 7ca457f31332766123621b720048a58b
+cpath: /
+copyroot: 0 /
+
+1q7.6n.t1705-1 modify false true /old/sipXcallLib/main/examples/CallScript/src/driver
+
+
+4088 4229

@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-06-30T17:35:25.156325Z
+K 7
+svn:log
+V 478
+XCF-1107 hide Audiocodes gateway support
+- until Audiocodes gateway configuration is properly supported it will not be accessible in sipXconfig 3.4 UI
+- one can still use Audiocodes gateway, but they have to be manually configured
+- the change only affects adding new gateways, if you had Audiocodes gateways installed before, their configuration will remain visible
+- this is 3.4 change only, 3.6 will have a better mechanism to select which gateways and phones are accessible
+
+END

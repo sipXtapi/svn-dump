@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-18T02:02:16.866412Z
+K 7
+svn:log
+V 310
+Rollback r9861, r9862 due to a bit of strangeness in the clock.
+Needs more investigation.
+
+r9862 was conversion of MpMMTimerTest to use platform independent OsDateTime::getCurTime for timings.
+r9861 was change in OsDateTime::getCurTime(Time&) to use higher resolution QueryPerformanceCounter to determine time.
+END

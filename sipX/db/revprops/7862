@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-28T22:19:12.280943Z
+K 7
+svn:log
+V 282
+mergefrom pingtel-main 5580,5718,5836,5853(all partial)
+
+Tidy up how SipRedirectorPrivateStorage is handled.
+
+mergefrom amazon 5698,5820
+Apply, to SipRedirectorMPT, Scott's fix to keep HTTP servers from
+accessing the local file system.
+Back-merge revs. 5445,5447 from Pingtel-main.
+
+END

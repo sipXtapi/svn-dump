@@ -1,0 +1,31 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-04-05T17:59:04.234790Z
+K 7
+svn:log
+V 368
+ Removed bRegister flag from sipxLineAdd.
+ Added a new method:  sipxLineRegister.
+
+This was needed to work around a race condition caused
+by calling sipxLineAdd (with bRegister = true), and then
+calling sipxLineAddCredential.
+
+This will break existing sipXtapi client code.
+
+The proper order is now:
+
+1.  sipxLineAdd
+2.  sipxLineAddCredential
+3.  sipxLineRegister
+
+
+
+
+
+END

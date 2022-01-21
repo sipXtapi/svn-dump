@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-05-13T18:15:47.981095Z
+K 7
+svn:log
+V 215
+Modified to reflect the current application state transitions.
+There are currently some problems with the state machine,
+specifically surrounding the REMOTE_BUSY state, that will
+be rectified in the next code merge.
+END

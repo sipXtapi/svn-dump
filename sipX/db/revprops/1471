@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-01-07T22:27:34.491888Z
+K 7
+svn:log
+V 71
+Added support for placing a call.
+The call goes through, but, no audio.
+END

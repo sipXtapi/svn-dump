@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-08-19T02:33:21.670894Z
+K 7
+svn:log
+V 171
+Bring uptodate w/main again r7279 (despite my earlier comments I had missing a few revs), get sipx rpm targets working again, cascading --configure switches the spec files
+END

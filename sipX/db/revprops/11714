@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-05-09T15:06:50.880766Z
+K 7
+svn:log
+V 57
+Fixed pcre search path to include paths used by mac port
+
+END

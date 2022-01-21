@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-25T16:11:24.950920Z
+K 7
+svn:log
+V 48
+Add MpMMTimer and its unittest to VS2003 build.
+
+END

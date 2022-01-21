@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-08T22:26:15.778783Z
+K 7
+svn:log
+V 130
+Change Makefile.in to Makefile.developer.in so as not to get deleted
+by the build loops, as if it was derived from a Makefile.am.
+
+END

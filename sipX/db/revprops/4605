@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-04-13T23:19:31.898879Z
+K 7
+svn:log
+V 133
+Make standard functions start_check and finish_check
+  to wrap around each configuration test.
+Emit details only for failed checks.
+
+
+END

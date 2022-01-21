@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-11-06T15:37:38.578347Z
+K 7
+svn:log
+V 62
+extract bean indexer - to be used when indexing existing data
+
+END

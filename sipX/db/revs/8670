@@ -1,0 +1,332 @@
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: e5k.1i9.r8670/51
+type: dir
+pred: e5k.1i9.r8335/21567
+count: 1
+text: 8335 21362 192 192 8674e94816dfddd665695e916a41196d
+props: 8670 0 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /main/sipXpbx/sipXrls/doc
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: e5h.1i9.r8670/341
+type: dir
+pred: e5h.1i9.r8338/3591
+count: 2
+text: 8338 3479 99 99 53dc548841be8d9a96ec032a6cd6720f
+props: 8670 290 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /main/sipXpbx/sipXrls/bin
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: e5p.1i9.r8670/630
+type: dir
+pred: e5p.1i9.r8344/9006
+count: 2
+text: 8344 8778 215 215 2db4e021c76a8bd2f33c4f245361d518
+props: 8670 579 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /main/sipXpbx/sipXrls/etc
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file e5g.1i9.r8335/24388
+K 3
+bin
+V 21
+dir e5h.1i9.r8670/341
+K 3
+doc
+V 20
+dir e5k.1i9.r8670/51
+K 3
+etc
+V 21
+dir e5p.1i9.r8670/630
+K 15
+sipxrls.spec.in
+V 24
+file e5u.1i9.r8335/20012
+K 3
+src
+V 22
+dir e5v.1i9.r8613/9477
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: e5f.1i9.r8670/1176
+type: dir
+pred: e5f.1i9.r8613/9979
+count: 4
+text: 8670 870 242 242 80643c4b06a93eecd581608dbe9801a9
+props: 8670 1125 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /main/sipXpbx/sipXrls
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4454/288397
+K 9
+ChangeLog
+V 21
+file 5g8.0.r4571/9011
+K 7
+INSTALL
+V 23
+file 5g9.0.r4454/289610
+K 7
+LICENSE
+V 21
+file 5ga.0.r4571/8791
+K 11
+Makefile.am
+V 23
+file 5gb.1i9.r8363/6425
+K 4
+NEWS
+V 23
+file 5gc.0.r4454/299658
+K 6
+README
+V 23
+file 5gd.0.r4454/288092
+K 4
+TODO
+V 23
+file 5ge.0.r4454/289304
+K 3
+bin
+V 22
+dir 5gg.1i9.r8636/3085
+K 6
+config
+V 24
+file d3o.1i9.r7274/13520
+K 12
+configure.ac
+V 23
+file 5gl.1i9.r8338/1810
+K 3
+doc
+V 22
+dir 5gm.1i9.r8621/3589
+K 3
+etc
+V 22
+dir 5gp.1i9.r8475/5951
+K 7
+include
+V 22
+dir 5h2.1i9.r7322/6844
+K 4
+meta
+V 23
+dir 6of.1z3.r8180/61682
+K 14
+sipXconference
+V 24
+dir 86e.1i9.r8539/120139
+K 10
+sipXdialog
+V 22
+dir 7vj.1i9.r7548/6621
+K 8
+sipXpark
+V 22
+dir 6pl.1i9.r8613/8085
+K 12
+sipXpresence
+V 23
+dir 7w9.1i9.r8180/66151
+K 7
+sipXrls
+V 22
+dir e5f.1i9.r8670/1176
+K 15
+sipxpbx.spec.in
+V 23
+file 6mo.1i9.r8463/5591
+K 3
+src
+V 22
+dir 5hb.1i9.r8584/5961
+END
+ENDREP
+id: 5g6.1i9.r8670/2342
+type: dir
+pred: 5g6.1i9.r8636/4250
+count: 691
+text: 8670 1413 916 916 c51e9673571b900e4b0832a272ad5b68
+props: 7274 14626 838 0 253428b826320ceabffbfa339b5e7dbb
+cpath: /main/sipXpbx
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 11
+Makefile.in
+V 23
+file d0m.421.r8463/2590
+K 5
+build
+V 22
+file d5a.0.r7664/15661
+K 14
+buildmsvs6.bat
+V 20
+file dm4.683.r8357/0
+K 6
+config
+V 21
+dir 91.1i4.r8642/5011
+K 12
+configure.ac
+V 21
+file d0n.0.r8471/1110
+K 16
+dependencies.mak
+V 20
+file dxw.0.r8471/894
+K 3
+lib
+V 20
+dir cyn.0.r8635/6492
+K 4
+meta
+V 20
+dir e8u.0.r8463/4227
+K 9
+sipXb2bua
+V 21
+dir dau.0.r7967/44454
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r8594/3977
+K 17
+sipXcommserverLib
+V 22
+dir 1qo.1i6.r8630/2572
+K 10
+sipXconfig
+V 22
+dir 2hf.1i7.r8668/6172
+K 19
+sipXmediaAdapterLib
+V 21
+dir 89s.0.r8363/16089
+K 12
+sipXmediaLib
+V 23
+dir mz.1i8.r8539/196231
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r8670/2342
+K 11
+sipXportLib
+V 20
+dir 3.1ib.r8597/9157
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r8642/3916
+K 13
+sipXpublisher
+V 24
+dir 20n.1id.r8539/123536
+K 12
+sipXregistry
+V 22
+dir 1y5.1ie.r8570/3100
+K 11
+sipXtackLib
+V 21
+dir dk.1if.r8582/4327
+K 9
+sipXtools
+V 20
+dir dtl.0.r8363/9820
+K 8
+sipXvxml
+V 23
+dir 22d.1ig.r8539/14682
+K 10
+top.mak.in
+V 21
+file d5l.0.r7330/2797
+END
+ENDREP
+id: 7q4.0.r8670/3591
+type: dir
+pred: 7q4.0.r8668/7430
+count: 2358
+text: 8670 2576 1002 1002 fd8466e2e9d5d7a99f7114ee0327361c
+props: 8613 12344 2708 0 608a9e63c9ca777be2c217e7b6946a3a
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r8669/9812
+K 4
+main
+V 20
+dir 7q4.0.r8670/3591
+K 4
+tags
+V 20
+dir 7q5.0.r8544/3180
+END
+ENDREP
+id: 0.0.r8670/3928
+type: dir
+pred: 0.0.r8669/10096
+count: 8670
+text: 8670 3802 113 113 952b9e95022970143ee2ddb20bb3f159
+cpath: /
+copyroot: 0 /
+
+e5p.1i9.t8669-1 modify false true /main/sipXpbx/sipXrls/etc
+
+e5f.1i9.t8669-1 modify false true /main/sipXpbx/sipXrls
+
+e5k.1i9.t8669-1 modify false true /main/sipXpbx/sipXrls/doc
+
+e5h.1i9.t8669-1 modify false true /main/sipXpbx/sipXrls/bin
+
+
+3928 4072

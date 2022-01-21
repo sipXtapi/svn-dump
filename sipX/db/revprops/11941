@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-05-25T05:16:49.455706Z
+K 7
+svn:log
+V 36
+Fixed SipMessageTest assertion type
+
+END

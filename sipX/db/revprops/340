@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-12-21T20:45:27.395334Z
+K 7
+svn:log
+V 155
+Correct the svn:mime-type and svn:eol-style properties of files that
+need it.  Remove CRs (in Unix-land) from files that should have
+svn:eol-style=native.
+
+END

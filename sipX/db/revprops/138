@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-07-12T18:21:04.083552Z
+K 7
+svn:log
+V 221
+All items related
+1. Add utility method to copy items from one hashmap into another
+2. (from Scott)Declare UtlIterator to take container as container
+3. Declare hashmap iterator to follow suit
+4. Testcase for new method
+
+
+END

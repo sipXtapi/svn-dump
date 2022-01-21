@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-01-31T20:06:29.654203Z
+K 7
+svn:log
+V 127
+Fix XCF-144 : new postgres db driver was more picky about SQL prepared statement arguments not matching java type in parameters
+END

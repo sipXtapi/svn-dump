@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-02-26T20:15:59.266999Z
+K 7
+svn:log
+V 262
+XCF-1500 - Bring back build number into web ui footer.  It was removed from build stamp because its a "live" field now that changes at any moment, so I try to keep that feature.  If you build purely from ant however, theres no attempt to display the build number
+END

@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-04-04T17:30:55.492126Z
+K 7
+svn:log
+V 424
+Changes to OsDir getFileInfo for Windows CE 6.0 (and prior)
+
+Prior to this, there was a Posix implementation in OsDirBase, 
+After this, Posix implementation moved to OsDirLinux, and new implementation is created in OsDirWnt.
+
+getFileInfo now is labeled as a const method.
+
+NOTE: This breaks VXWorks.  Correct method of implementation is probably to create OsDirPosix, and have any platforms that can use posix code use this.
+END

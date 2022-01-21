@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-10-18T19:51:33.447045Z
+K 7
+svn:log
+V 94
+Removed playing "please hold" message so to prevent the message being played twice.
+    
+    
+
+END

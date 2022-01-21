@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-02-07T18:40:01.323109Z
+K 7
+svn:log
+V 372
+Allow redirects to add headers in a redirect contact.
+  http://track.sipfoundry.org/browse/XPR-36
+
+It is possible that it would be better to determine when a
+header should be replaced (using setHeader rather than addHeader).
+This merits further study, but I'm checking this in now so that
+it can be used in testing some of the new redirection capabilities
+in sipXconfig.
+
+
+END

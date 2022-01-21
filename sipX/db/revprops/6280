@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-03-02T01:44:24.296098Z
+K 7
+svn:log
+V 205
+XCF-933 Create index locks in index directory and delete locks everytime system starts to avoid index timeouts.  This does not fix the crash w/quad processors.  Still need more testing before i commit that
+END

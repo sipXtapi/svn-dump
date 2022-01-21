@@ -1,0 +1,175 @@
+PLAIN
+K 10
+svn:ignore
+V 10
+build.err
+
+K 26
+svnmerge-pingtel-main-head
+V 50
+https://paradise.pingtel.com/rep/sipX/pingtel/main
+K 26
+svnmerge-pingtel-main-revs
+V 166
+1-5590,5645,5738,5954,5969,6041,6077,6139,6144,6156,6158,6187,6207-6208,6230,6285,6289,6292-6295,6298-6299,6301,6306,6308-6309,6311,6325-6327,6329,6333,6338,6342,6403
+K 22
+svnmerge-sipx-3.0-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.0
+K 22
+svnmerge-sipx-3.0-revs
+V 51
+1-5315,5348,5357,5382,5417,5451,5474-5478,5508,5621
+K 22
+svnmerge-sipx-3.2-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.2
+K 22
+svnmerge-sipx-3.2-revs
+V 41
+1-6323,6368-6370,6494,6521,6587-6588,6470
+K 22
+svnmerge-sipx-3.4-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.4
+K 22
+svnmerge-sipx-3.4-revs
+V 76
+1-6680,6748,6759,6763-6764,6773,6775,6777-6778,6784,6794-6795,6798,6803,6825
+K 23
+svnmerge-sipx-main-head
+V 40
+https://scm.sipfoundry.org/rep/sipX/main
+K 23
+svnmerge-sipx-main-revs
+V 6
+1-6845
+K 30
+svnmerge-sipx-replication-head
+V 67
+https://scm.sipfoundry.org/rep/sipX/branches/sipXconfig/replication
+K 30
+svnmerge-sipx-replication-revs
+V 6
+1-5723
+K 26
+svnmerge-solaris2main-head
+V 57
+https://scm.sipfoundry.org/rep/sipX/branches/solaris_port
+K 26
+svnmerge-solaris2main-revs
+V 6
+1-6454
+END
+ENDREP
+id: 7q4.3lm.r6848/1267
+type: dir
+pred: 7q4.3lm.r6846/18829
+count: 1387
+text: 6846 18016 800 800 d10386b73411a803a8e31c8cb1ed33ad
+props: 6848 0 1254 0 8d370a8bebf8e919c29e306b25fee276
+cpath: /branches/modularity
+copyroot: 6845 /branches/modularity
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r6684/6307
+K 3
+3.4
+V 23
+dir 7q4.3ib.r6841/17334
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r6848/1267
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 21
+dir 9wi.0.r6758/48068
+K 21
+sipXtapi-media-update
+V 23
+dir 9wi.3ke.r6829/33501
+K 12
+solaris_port
+V 22
+dir 7q4.39l.r6816/2732
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r6848/2228
+type: dir
+pred: 7pt.0.r6846/19788
+count: 644
+text: 6848 1515 700 700 dd95f867921b85950f77b6f8ca268b54
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r6848/2228
+K 4
+main
+V 20
+dir 7q4.0.r6847/1294
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6848/2510
+type: dir
+pred: 0.0.r6847/1629
+count: 6848
+text: 6848 2383 114 114 a30932bc8270cf1aae1aea30eca2b2ed
+cpath: /
+copyroot: 0 /
+
+7q4.3lm.t6847-1 modify false true /branches/modularity
+
+
+2510 2653

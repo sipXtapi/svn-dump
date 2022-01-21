@@ -1,0 +1,176 @@
+PLAIN
+K 5
+2.5.1
+V 19
+dir mz.4g.r1077/198
+K 5
+2.5.2
+V 20
+dir mz.4h.r1091/1003
+K 12
+2.6-export-A
+V 19
+dir mz.4o.r1122/555
+K 12
+2.6-export-B
+V 19
+dir mz.4p.r1124/555
+K 12
+2.6-export-C
+V 19
+dir mz.4r.r1131/555
+K 12
+2.6-export-D
+V 19
+dir mz.4s.r1132/555
+K 12
+2.6-export-E
+V 19
+dir mz.4t.r1133/555
+K 12
+2.6-export-F
+V 19
+dir mz.4u.r1136/555
+K 12
+2.6-export-G
+V 19
+dir mz.4w.r1140/438
+K 12
+2.6-export-H
+V 19
+dir mz.4x.r1141/438
+K 12
+2.6-export-J
+V 19
+dir mz.4y.r1144/438
+K 12
+2.6-export-K
+V 19
+dir mz.4z.r1150/438
+K 12
+2.6-export-L
+V 19
+dir mz.50.r1157/438
+K 12
+2.6-export-M
+V 19
+dir mz.51.r1158/438
+K 12
+2.6-export-N
+V 19
+dir mz.52.r1160/438
+K 12
+2.6-export-O
+V 19
+dir mz.53.r1172/438
+K 12
+2.6-export-P
+V 19
+dir mz.54.r1173/438
+K 12
+2.6-export-Q
+V 19
+dir mz.55.r1175/438
+K 12
+2.6-export-R
+V 19
+dir mz.56.r1176/438
+K 12
+2.6-export-S
+V 19
+dir mz.57.r1177/438
+K 12
+2.6-export-T
+V 19
+dir mz.58.r1181/438
+K 12
+2.6-export-U
+V 19
+dir mz.5a.r1184/438
+K 5
+2.6.1
+V 19
+dir mz.4v.r1138/548
+K 13
+main-export-B
+V 19
+dir mz.4l.r1119/439
+K 13
+main-export-C
+V 19
+dir mz.4m.r1120/439
+END
+ENDREP
+id: uq.0.r1185/1071
+type: dir
+pred: uq.0.r1184/1805
+count: 28
+text: 1185 0 1058 1058 b594a6f4e8f763320895026752c2cc70
+cpath: /old/sipXmediaLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir ux.0.r1171/2051
+K 4
+main
+V 18
+dir mz.0.r1182/576
+K 4
+tags
+V 19
+dir uq.0.r1185/1071
+END
+ENDREP
+id: my.0.r1185/1356
+type: dir
+pred: my.0.r1184/2092
+count: 118
+text: 1185 1234 109 109 982e95ac4a1298d2171cae7e1180647e
+cpath: /old/sipXmediaLib
+copyroot: 0 /
+
+PLAIN
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1185/1356
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1185/1659
+type: dir
+pred: 1.0.r1184/2395
+count: 1184
+text: 1185 1516 130 130 c8596e0c652b9f7581b193dc0b20604b
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1185/1659
+END
+ENDREP
+id: 0.0.r1185/1854
+type: dir
+pred: 0.0.r1184/2590
+count: 1185
+text: 1185 1805 36 36 f5421900446bc021326f7cc7a5ac6f9b
+cpath: /
+copyroot: 0 /
+
+mz.59.r1183/0 delete false false /old/sipXmediaLib/tags/2.6.2
+
+
+1854 1995

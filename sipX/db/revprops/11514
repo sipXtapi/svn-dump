@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-01-19T20:16:21.358987Z
+K 7
+svn:log
+V 102
+Fixed conflicting mutex definition on Android which was causing an overwrite. Some mutex debug tools.
+
+END

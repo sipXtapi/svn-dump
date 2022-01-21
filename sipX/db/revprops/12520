@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-10-14T19:06:41.898532Z
+K 7
+svn:log
+V 193
+Removed assert fromALSA container, making it tolerent of removing something that is not in the container.
+This can occur when there are multiple attempts to remove/shutdown the ALSA interface.
+
+END

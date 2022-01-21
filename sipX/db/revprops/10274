@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-04T20:58:18.911847Z
+K 7
+svn:log
+V 204
+Remove limitation of maximum audio frame size.
+It was set to 320 samples, which is 10ms at 32kHz, but we want to suppport higher sampling rates, e.g. 48kHz. And I see no reasons why should we limit this.
+
+END

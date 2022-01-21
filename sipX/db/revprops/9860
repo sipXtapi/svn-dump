@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-07-17T18:49:14.280084Z
+K 7
+svn:log
+V 272
+Fixed problem with TLS build of windows sipxportlib, where nss-3.9.1 couldn't find int32. nss-3.9.1 defines int32 if we use winsock1, but not if we use winsock2. As we can't touch nss-3.9.1 which is an obsolete version, this fix defines int32 as int32_t for windows build.
+END

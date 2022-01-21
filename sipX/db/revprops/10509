@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-28T20:05:38.222045Z
+K 7
+svn:log
+V 340
+Change behaviour of MprBufferRecorder::startRecording() and its high-level representation CpMediaInterface::recordMic().
+Now they take additional parameter to explicitely set recording length in milliseconds. Also they change capacity of buffer to match recording length, and length of buffer is set to match actually recorded data length.
+
+END

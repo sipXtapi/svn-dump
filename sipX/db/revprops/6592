@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-04-16T03:08:07.121201Z
+K 7
+svn:log
+V 171
+Rename the config param SIP_CALLRESOLVER_PURGE_AGE to SIP_CALLRESOLVER_PURGE_AGE_CDR since we are going to soon control purging for CSEs and CDRs separately, per XPR-147.
+
+END

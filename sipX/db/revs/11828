@@ -1,0 +1,306 @@
+PLAIN
+K 13
+svn:externals
+V 71
+tapi https://scm.sipfoundry.org/rep/sipX/main/sipXcallLib/include/tapi
+
+K 10
+svn:ignore
+V 22
+Makefile
+Makefile.in
+
+
+END
+ENDREP
+id: bq1.7n5.r11828/157
+type: dir
+pred: bq1.7n5.r11812/10732
+count: 80
+text: 11812 10587 132 132 075f765f2b19b8ba38cd971e7d3ff190
+props: 11828 0 144 0 362d9ab6e02fa54d85ec3f989567969c
+cpath: /main/sipXtackLib/include
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g91.7n5.r11703/506
+K 12
+CONTRIBUTORS
+V 25
+file bor.0.r6469/22114347
+K 9
+ChangeLog
+V 25
+file bos.0.r6469/22149247
+K 7
+INSTALL
+V 24
+file bot.0.r6955/1737850
+K 11
+Makefile.am
+V 22
+file bou.0.r9285/80469
+K 4
+NEWS
+V 25
+file bov.0.r6469/22121423
+K 6
+README
+V 24
+file bow.0.r6955/1738184
+K 4
+TODO
+V 25
+file box.0.r6469/22151942
+K 9
+acsite.m4
+V 24
+file boy.0.r6955/1731963
+K 14
+ant-targets.am
+V 24
+file boz.0.r6711/5226484
+K 15
+ant-targets.xml
+V 25
+file bp0.0.r6469/22149418
+K 3
+bin
+V 23
+dir bp1.7n5.r11827/2900
+K 8
+cert8.db
+V 25
+file bp3.0.r6469/22154413
+K 20
+config.properties.in
+V 24
+file bpd.0.r6955/1734502
+K 12
+configure.ac
+V 25
+file bpe.7n5.r10869/10757
+K 7
+contrib
+V 24
+dir gue.7n5.r11696/21117
+K 11
+dialogwatch
+V 21
+dir dsz.0.r9285/71995
+K 3
+doc
+V 23
+dir bpf.7n5.r11827/2602
+K 8
+examples
+V 23
+dir bpw.7n5.r11827/4872
+K 7
+include
+V 22
+dir bq1.7n5.r11828/157
+K 7
+key3.db
+V 25
+file bt7.0.r6469/22151521
+K 3
+lib
+V 24
+dir bt8.0.r6469/22119550
+K 22
+mcohen@pingtel.com.p12
+V 25
+file btb.0.r6469/22121180
+K 4
+meta
+V 21
+dir btc.7n5.r11827/61
+K 9
+secmod.db
+V 25
+file btj.0.r6469/22151225
+K 24
+sipXtackLib-msvc8.vcproj
+V 24
+file e7a.7n5.r11190/9941
+K 15
+sipXtackLib.dsp
+V 24
+file gj.7nw.r11289/28674
+K 15
+sipXtackLib.vcp
+V 24
+file e6m.0.r10056/144149
+K 18
+sipXtackLib.vcproj
+V 20
+file btk.0.r10645/50
+K 28
+sipXtackLibTest-msvc8.vcproj
+V 23
+file e7b.0.r10789/40829
+K 19
+sipXtackLibTest.dsp
+V 24
+file mh.7nx.r11289/28436
+K 19
+sipXtackLibTest.sln
+V 23
+file btl.0.r7990/285820
+K 19
+sipXtackLibTest.vcp
+V 22
+file e6n.0.r9041/21232
+K 22
+sipXtackLibTest.vcproj
+V 22
+file btm.0.r9919/14033
+K 29
+sipXtackLib_NoSecurity.vcproj
+V 24
+file btn.0.r10056/143934
+K 15
+siplog2siptrace
+V 23
+dir bto.7n5.r11827/3199
+K 7
+siptest
+V 23
+dir btr.7n5.r11827/2304
+K 9
+sipviewer
+V 23
+dir buv.7n5.r11827/3820
+K 19
+sipxtacklib.spec.in
+V 24
+file bvi.7n5.r10867/9415
+K 3
+src
+V 22
+dir bvj.7n5.r11827/845
+K 15
+syslog2siptrace
+V 23
+dir byz.7n5.r11827/3510
+K 16
+tcpdump2siptrace
+V 25
+file bz3.0.r6469/22149596
+K 32
+user_cert_mcohen@pingtel.com.der
+V 25
+file bz4.0.r6469/22150908
+END
+ENDREP
+id: boq.7n5.r11828/2473
+type: dir
+pred: boq.7n5.r11827/7535
+count: 272
+text: 11828 396 2064 2064 987dea0000ee5d5893e732c1e5a2e0a5
+props: 11827 7188 334 0 8afaf74078fedc5a625767094c3d3feb
+cpath: /main/sipXtackLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 24
+file g8y.7n5.r11608/2763
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 23
+dir 9wj.7n5.r11721/1537
+K 10
+readme.txt
+V 24
+file 9ws.7n5.r11483/5210
+K 7
+scripts
+V 23
+dir fxk.7n5.r11663/1205
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r11804/3720
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r11817/2904
+K 12
+sipXmediaLib
+V 24
+dir b40.7n5.r11822/20848
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r11825/4886
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r11826/2412
+K 11
+sipXtackLib
+V 23
+dir boq.7n5.r11828/2473
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r11828/3368
+type: dir
+pred: 9wi.7n5.r11827/8432
+count: 2821
+text: 11828 2708 647 647 0c498f366325624b8f30ddb6187a83d4
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r11666/17573
+K 4
+main
+V 23
+dir 9wi.7n5.r11828/3368
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r11828/3706
+type: dir
+pred: 0.0.r11827/8770
+count: 11828
+text: 11828 3534 159 159 2406e2f914da9e93b3a3d845bc1b38d6
+cpath: /
+copyroot: 0 /
+
+bq1.7n5.t11827-1 modify false true /main/sipXtackLib/include
+
+
+3706 3853

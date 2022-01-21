@@ -1,0 +1,434 @@
+PLAIN
+K 13
+svn:externals
+V 71
+tapi https://scm.sipfoundry.org/rep/sipX/main/sipXcallLib/include/tapi
+
+END
+ENDREP
+id: bde.7n5.r10827/113
+type: dir
+pred: bde.0.r10805/3359
+count: 147
+text: 10805 3135 211 211 8affaec803fd2b934261741cf491349b
+props: 10827 0 100 0 cbb22f5a85649f5a0c59d14366e623f9
+cpath: /main/sipXportLib/include
+copyroot: 10815 /main
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 25
+file bcg.0.r6469/21591964
+K 9
+ChangeLog
+V 25
+file bch.0.r6469/21535752
+K 7
+INSTALL
+V 22
+file bci.0.r10440/5721
+K 11
+Makefile.am
+V 22
+file bcj.0.r9285/35165
+K 4
+NEWS
+V 25
+file bck.0.r6469/21599943
+K 6
+README
+V 24
+file bcl.0.r6955/1419372
+K 4
+TODO
+V 25
+file bcm.0.r6469/21597743
+K 9
+acsite.m4
+V 24
+file bcn.0.r6955/1417808
+K 3
+bin
+V 21
+dir bco.0.r9285/34903
+K 12
+configure.ac
+V 24
+file bd3.0.r6711/4505206
+K 3
+doc
+V 20
+dir bd4.0.r9970/1198
+K 7
+include
+V 22
+dir bde.7n5.r10827/113
+K 4
+meta
+V 24
+dir bhw.0.r6469/21535422
+K 24
+sipXportLib-msvc8.vcproj
+V 22
+file e78.0.r10789/8345
+K 15
+sipXportLib.dsp
+V 24
+file 4c.672.r10714/14985
+K 15
+sipXportLib.vcp
+V 22
+file e6k.0.r8667/79650
+K 18
+sipXportLib.vcproj
+V 22
+file bi1.0.r10714/5849
+K 28
+sipXportLibTest-msvc8.vcproj
+V 22
+file e79.0.r10791/3988
+K 19
+sipXportLibTest.dsp
+V 21
+file ap.673.r9977/777
+K 19
+sipXportLibTest.sln
+V 25
+file bi2.0.r6469/21599763
+K 19
+sipXportLibTest.vcp
+V 22
+file e6l.0.r9027/28874
+K 22
+sipXportLibTest.vcproj
+V 22
+file bi3.0.r10714/6047
+K 29
+sipXportLib_NoSecurity.vcproj
+V 21
+file bi4.0.r10604/601
+K 30
+sipXunitTestSuite-msvc8.vcproj
+V 22
+file exf.0.r10789/8760
+K 24
+sipXunitTestSuite.vcproj
+V 21
+file eb6.0.r8855/8132
+K 19
+sipxportlib.spec.in
+V 24
+file bi5.0.r6955/1422006
+K 3
+src
+V 21
+dir bi6.0.r10804/4667
+K 12
+syslogviewer
+V 21
+dir bom.0.r9285/33145
+END
+ENDREP
+id: bcf.7n5.r10827/1713
+type: dir
+pred: bcf.7n5.r10826/262
+count: 317
+text: 10827 349 1351 1351 d86ccf3018d6da6a013839eb200bb3e3
+props: 10826 0 249 0 4dc921241e151c92556ecd0bcbddba88
+cpath: /main/sipXportLib
+copyroot: 10815 /main
+
+PLAIN
+K 13
+svn:externals
+V 71
+tapi https://scm.sipfoundry.org/rep/sipX/main/sipXcallLib/include/tapi
+
+END
+ENDREP
+id: bq1.7n5.r10827/2057
+type: dir
+pred: bq1.0.r10717/9692
+count: 57
+text: 10717 9553 126 126 97b348bcbd3567a7958169aac59461af
+props: 10827 1944 100 0 cbb22f5a85649f5a0c59d14366e623f9
+cpath: /main/sipXtackLib/include
+copyroot: 10815 /main
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 25
+file bor.0.r6469/22114347
+K 9
+ChangeLog
+V 25
+file bos.0.r6469/22149247
+K 7
+INSTALL
+V 24
+file bot.0.r6955/1737850
+K 11
+Makefile.am
+V 22
+file bou.0.r9285/80469
+K 4
+NEWS
+V 25
+file bov.0.r6469/22121423
+K 6
+README
+V 24
+file bow.0.r6955/1738184
+K 4
+TODO
+V 25
+file box.0.r6469/22151942
+K 9
+acsite.m4
+V 24
+file boy.0.r6955/1731963
+K 14
+ant-targets.am
+V 24
+file boz.0.r6711/5226484
+K 15
+ant-targets.xml
+V 25
+file bp0.0.r6469/22149418
+K 3
+bin
+V 21
+dir bp1.0.r9285/78161
+K 8
+cert8.db
+V 25
+file bp3.0.r6469/22154413
+K 20
+config.properties.in
+V 24
+file bpd.0.r6955/1734502
+K 12
+configure.ac
+V 22
+file bpe.0.r10042/8497
+K 11
+dialogwatch
+V 21
+dir dsz.0.r9285/71995
+K 3
+doc
+V 21
+dir bpf.0.r9285/77584
+K 8
+examples
+V 20
+dir bpw.0.r10110/741
+K 7
+include
+V 23
+dir bq1.7n5.r10827/2057
+K 7
+key3.db
+V 25
+file bt7.0.r6469/22151521
+K 3
+lib
+V 24
+dir bt8.0.r6469/22119550
+K 22
+mcohen@pingtel.com.p12
+V 25
+file btb.0.r6469/22121180
+K 4
+meta
+V 21
+dir btc.0.r9285/71316
+K 9
+secmod.db
+V 25
+file btj.0.r6469/22151225
+K 24
+sipXtackLib-msvc8.vcproj
+V 23
+file e7a.0.r10789/41040
+K 15
+sipXtackLib.dsp
+V 25
+file gj.674.r10056/143627
+K 15
+sipXtackLib.vcp
+V 24
+file e6m.0.r10056/144149
+K 18
+sipXtackLib.vcproj
+V 20
+file btk.0.r10645/50
+K 28
+sipXtackLibTest-msvc8.vcproj
+V 23
+file e7b.0.r10789/40829
+K 19
+sipXtackLibTest.dsp
+V 23
+file mh.675.r9919/14234
+K 19
+sipXtackLibTest.sln
+V 23
+file btl.0.r7990/285820
+K 19
+sipXtackLibTest.vcp
+V 22
+file e6n.0.r9041/21232
+K 22
+sipXtackLibTest.vcproj
+V 22
+file btm.0.r9919/14033
+K 29
+sipXtackLib_NoSecurity.vcproj
+V 24
+file btn.0.r10056/143934
+K 15
+siplog2siptrace
+V 21
+dir bto.0.r10063/5427
+K 7
+siptest
+V 21
+dir btr.0.r10063/4881
+K 9
+sipviewer
+V 21
+dir buv.0.r9285/81324
+K 19
+sipxtacklib.spec.in
+V 24
+file bvi.0.r6955/1738517
+K 3
+src
+V 22
+dir bvj.0.r10784/11147
+K 15
+syslog2siptrace
+V 21
+dir byz.0.r10063/6033
+K 16
+tcpdump2siptrace
+V 25
+file bz3.0.r6469/22149596
+K 32
+user_cert_mcohen@pingtel.com.der
+V 25
+file bz4.0.r6469/22150908
+END
+ENDREP
+id: boq.7n5.r10827/4268
+type: dir
+pred: boq.7n5.r10826/2365
+count: 195
+text: 10827 2296 1959 1959 41967db273f424e53e5264307392c487
+props: 10826 2062 290 0 af18c5380977f7e8c9368c33ba05b153
+cpath: /main/sipXtackLib
+copyroot: 10815 /main
+
+PLAIN
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 14
+build_evc4.bat
+V 21
+file e6c.0.r8504/2231
+K 14
+buildmsvs6.bat
+V 22
+file dm4.66u.r9234/175
+K 6
+config
+V 20
+dir 9wj.0.r10809/719
+K 10
+readme.txt
+V 20
+file 9ws.0.r9463/434
+K 14
+sipX-msvc8.sln
+V 22
+file e73.0.r10792/3629
+K 11
+sipXcallLib
+V 22
+dir 9wt.7n5.r10826/915
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r10826/1821
+K 12
+sipXmediaLib
+V 23
+dir b40.7n5.r10826/1362
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r10827/1713
+K 10
+sipXsdpLib
+V 22
+dir e7v.7n5.r10826/589
+K 11
+sipXtackLib
+V 23
+dir boq.7n5.r10827/4268
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r10827/5160
+type: dir
+pred: 9wi.7n5.r10826/3256
+count: 1878
+text: 10827 4504 643 643 1d08875f08f19e791d4956c9337823c0
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 21
+dir fuu.0.r10825/1930
+K 4
+main
+V 23
+dir 9wi.7n5.r10827/5160
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r10827/5497
+type: dir
+pred: 0.0.r10826/3590
+count: 10827
+text: 10827 5326 158 158 d88240ff00903e192fa0ce508e9e2899
+cpath: /
+copyroot: 0 /
+
+bq1.7n5.t10826-1 modify false true /main/sipXtackLib/include
+
+bde.7n5.t10826-1 modify false true /main/sipXportLib/include
+
+
+5497 5644

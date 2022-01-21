@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-29T16:40:50.946252Z
+K 7
+svn:log
+V 328
+Merged revisions 8572 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8572 | ipse | 2007-01-17 21:39:55 +0300 | 3 lines
+  
+  Bugfix: Remote audio stop playing when RTP sequence number wrapped to zero.
+  Should use compare() function to compare RTP sequence numbers and timestamps.
+........
+
+END

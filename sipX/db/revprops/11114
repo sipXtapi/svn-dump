@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-18T20:22:25.060265Z
+K 7
+svn:log
+V 166
+Fix bug in last commit.
+Make sure that all commands are chained with &&, or else check exit code and
+exit if failure after any chains of && (not including end line)
+
+
+END

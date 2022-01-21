@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-03-10T22:52:04.968203Z
+K 7
+svn:log
+V 340
+Finish up wrapping ODBC function calls in our own database
+layer, implement DSN-less database connections rather than
+DSN based connections, eliminating the need for a global
+odbc.ini configuration file.
+
+Unit testing for ODBC layer almost completed.
+
+Add two new OsSysLog facilities, FAC_ODBC and FAC_CDR to
+better separate log messages.
+
+
+END

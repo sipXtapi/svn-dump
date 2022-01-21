@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-11-08T20:17:18.040611Z
+K 7
+svn:log
+V 79
+XCF-52 fixed - updated reference to DTD. Moved XML elements to pass validation.
+END

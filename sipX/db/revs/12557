@@ -1,0 +1,709 @@
+PLAIN
+K 10
+svn:ignore
+V 37
+Makefile
+Makefile.in
+.deps
+.dirstamp
+
+END
+ENDREP
+id: bmc.7n5.r12557/76
+type: dir
+pred: bmc.7n5.r11825/462
+count: 24
+text: 11497 3342 670 670 aadd8569fa91f115bd52d3d4d3355c5a
+props: 12557 0 63 0 91c0ac13b43844499e40b2c5796b6697
+cpath: /main/sipXportLib/src/test/sipxunit
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 25
+file blj.7n5.r12293/11893
+K 6
+README
+V 24
+file blk.0.r6955/1418140
+K 2
+os
+V 21
+dir bll.7n5.r12555/56
+K 12
+sipxportunit
+V 23
+dir g99.7n5.r12534/1340
+K 8
+sipxunit
+V 21
+dir bmc.7n5.r12557/76
+K 15
+sipxunittests.h
+V 23
+file g98.7n5.r12346/192
+K 10
+testplugin
+V 23
+dir bmo.7n5.r11825/1096
+K 3
+utl
+V 22
+dir bmr.7n5.r12555/352
+END
+ENDREP
+id: bli.7n5.r12557/678
+type: dir
+pred: bli.7n5.r12555/1099
+count: 126
+text: 12557 320 345 345 eda6609e141ec6477d11d17106483f05
+props: 12555 957 129 0 257b99916cac6d925166f641a4a83e0a
+cpath: /main/sipXportLib/src/test
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 17
+.deps
+.dirstamp
+
+
+END
+ENDREP
+id: bko.7n5.r12557/974
+type: dir
+pred: bko.7n5.r12114/29236
+count: 34
+text: 12114 28180 1043 1043 fa30012a02841cd8550ec23ba51706e0
+props: 12557 918 43 0 98a2b6b47578fb4479a310b7ea6c12c7
+cpath: /main/sipXportLib/src/os/linux
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 17
+.deps
+.dirstamp
+
+
+END
+ENDREP
+id: bl9.7n5.r12557/1277
+type: dir
+pred: bl9.7n5.r11391/11599
+count: 10
+text: 11391 11421 165 165 827d73906b5d8570d495d4b387329882
+props: 12557 1221 43 0 98a2b6b47578fb4479a310b7ea6c12c7
+cpath: /main/sipXportLib/src/os/shared
+copyroot: 10815 /main
+
+PLAIN
+K 10
+NatMsg.cpp
+V 23
+file d5x.0.r7339/270366
+K 10
+OsAssert.c
+V 23
+file bid.0.r7701/399386
+K 14
+OsCSemBase.cpp
+V 24
+file bie.0.r6711/4472282
+K 14
+OsCallback.cpp
+V 22
+file bif.0.r9706/14281
+K 14
+OsConfigDb.cpp
+V 24
+file big.7n5.r11886/7266
+K 22
+OsConnectionSocket.cpp
+V 25
+file bih.7n5.r11413/28571
+K 13
+OsContact.cpp
+V 25
+file d5y.7n5.r10961/19950
+K 17
+OsContactList.cpp
+V 23
+file d5z.0.r7339/270679
+K 20
+OsDatagramSocket.cpp
+V 23
+file bii.7n5.r11745/561
+K 14
+OsDateTime.cpp
+V 23
+file bij.7n5.r12553/157
+K 13
+OsDirBase.cpp
+V 22
+file bik.0.r9241/14647
+K 16
+OsEncryption.cpp
+V 23
+file bil.7n5.r12443/207
+K 11
+OsEvent.cpp
+V 22
+file bim.0.r9706/13765
+K 14
+OsEventMsg.cpp
+V 25
+file bin.7n5.r10906/35549
+K 12
+OsExcept.cpp
+V 24
+file bio.0.r6711/4483104
+K 14
+OsFileBase.cpp
+V 21
+file bip.0.r9066/5789
+K 18
+OsFileInfoBase.cpp
+V 24
+file biq.0.r6711/4447634
+K 22
+OsFileIteratorBase.cpp
+V 24
+file bir.0.r6711/4481700
+K 16
+OsFileSystem.cpp
+V 20
+file bis.0.r10674/60
+K 15
+OsIntPtrMsg.cpp
+V 22
+file eyi.0.r9913/12125
+K 17
+OsLockingList.cpp
+V 25
+file bit.7n5.r10961/19687
+K 9
+OsMsg.cpp
+V 24
+file biu.7n5.r11039/9761
+K 19
+OsMsgDispatcher.cpp
+V 24
+file eyk.7n5.r11256/9235
+K 13
+OsMsgPool.cpp
+V 20
+file biv.0.r9465/121
+K 10
+OsMsgQ.cpp
+V 25
+file biw.7n5.r10906/30964
+K 21
+OsMulticastSocket.cpp
+V 25
+file bix.7n5.r11413/29874
+K 12
+OsNameDb.cpp
+V 25
+file biy.7n5.r10906/31725
+K 16
+OsNameDbInit.cpp
+V 22
+file exo.0.r9571/39149
+K 18
+OsNatAgentTask.cpp
+V 23
+file biz.7n5.r12551/480
+K 25
+OsNatConnectionSocket.cpp
+V 24
+file d60.7n5.r12552/2868
+K 23
+OsNatDatagramSocket.cpp
+V 23
+file bj0.7n5.r11880/406
+K 21
+OsNatServerSocket.cpp
+V 22
+file dv5.0.r8142/46816
+K 23
+OsNatSocketBaseImpl.cpp
+V 25
+file d61.7n5.r11413/24683
+K 14
+OsPathBase.cpp
+V 25
+file bj1.7n5.r10906/34259
+K 17
+OsProcessBase.cpp
+V 24
+file bj2.0.r6711/4445532
+K 25
+OsProcessIteratorBase.cpp
+V 24
+file bj3.0.r6711/4447276
+K 16
+OsProcessMgr.cpp
+V 23
+file bj4.0.r7701/408442
+K 18
+OsProtectEvent.cpp
+V 25
+file bj5.7n5.r10906/33999
+K 21
+OsProtectEventMgr.cpp
+V 22
+file bj6.0.r9571/39327
+K 25
+OsProtectEventMgrInit.cpp
+V 22
+file exp.0.r9571/39595
+K 12
+OsPtrMsg.cpp
+V 23
+file bj7.0.r7339/271844
+K 17
+OsQueuedEvent.cpp
+V 24
+file bj8.7n5.r12556/4478
+K 12
+OsRpcMsg.cpp
+V 24
+file bja.0.r6711/4476547
+K 9
+OsSSL.cpp
+V 24
+file bjb.7n5.r11108/1062
+K 25
+OsSSLConnectionSocket.cpp
+V 25
+file bjc.7n5.r11413/24150
+K 21
+OsSSLServerSocket.cpp
+V 24
+file bjd.7n5.r12454/1802
+K 18
+OsServerSocket.cpp
+V 23
+file bje.7n5.r12189/373
+K 16
+OsServerTask.cpp
+V 23
+file bjf.7n5.r11988/390
+K 18
+OsSharedLibMgr.cpp
+V 20
+file bjg.0.r9976/674
+K 12
+OsSocket.cpp
+V 23
+file bjh.7n5.r11985/570
+K 18
+OsSocketCrypto.cpp
+V 24
+file fw5.7n5.r11110/7427
+K 12
+OsSysLog.cpp
+V 23
+file bji.7n5.r12453/600
+K 22
+OsSysLogFacilities.cpp
+V 24
+file bjj.7n5.r11715/6060
+K 15
+OsSysLogMsg.cpp
+V 24
+file bjk.0.r6711/4467052
+K 16
+OsSysLogTask.cpp
+V 22
+file bjl.7n5.r12455/84
+K 9
+OsTLS.cpp
+V 21
+file bjn.0.r9860/5950
+K 31
+OsTLSClientConnectionSocket.cpp
+V 24
+file bjo.7n5.r11986/2277
+K 25
+OsTLSConnectionSocket.cpp
+V 21
+file bjp.0.r9860/6742
+K 31
+OsTLSServerConnectionSocket.cpp
+V 24
+file bjq.7n5.r11987/1941
+K 21
+OsTLSServerSocket.cpp
+V 23
+file bjr.7n5.r11984/114
+K 10
+OsTask.cpp
+V 23
+file bjs.7n5.r12550/263
+K 10
+OsTime.cpp
+V 24
+file bjt.7n5.r12005/6075
+K 13
+OsTimeLog.cpp
+V 23
+file bju.0.r7701/409520
+K 11
+OsTimer.cpp
+V 24
+file bjv.7n5.r12556/3709
+K 14
+OsTimerMsg.cpp
+V 23
+file bjx.0.r7701/410840
+K 15
+OsTimerTask.cpp
+V 24
+file bjy.7n5.r12556/4218
+K 15
+OsTokenizer.cpp
+V 24
+file bjz.0.r6711/4445883
+K 10
+OsUtil.cpp
+V 24
+file bk0.7n5.r12556/3964
+K 15
+StunMessage.cpp
+V 24
+file bk1.7n5.r12556/3447
+K 13
+StunUtils.cpp
+V 24
+file bk2.7n5.r10943/3178
+K 15
+TurnMessage.cpp
+V 25
+file bk3.7n5.r10926/14487
+K 5
+WinCE
+V 23
+dir dvv.67q.r9244/13641
+K 3
+Wnt
+V 23
+dir bk4.7n5.r12334/8332
+K 5
+linux
+V 22
+dir bko.7n5.r12557/974
+K 12
+osPrintf.cpp
+V 23
+file bl8.7n5.r11586/257
+K 6
+shared
+V 23
+dir bl9.7n5.r12557/1277
+K 4
+test
+V 21
+dir bld.0.r9839/18185
+END
+ENDREP
+id: bic.7n5.r12557/5450
+type: dir
+pred: bic.7n5.r12556/8720
+count: 246
+text: 12557 1525 3912 3912 e676394ab9a427f64dd5ee5ed7d2cf63
+props: 12556 8664 43 0 98a2b6b47578fb4479a310b7ea6c12c7
+cpath: /main/sipXportLib/src/os
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file bi7.7n5.r12437/164
+K 9
+hmac-sha1
+V 23
+dir bi8.7n5.r12556/9018
+K 2
+os
+V 23
+dir bic.7n5.r12557/5450
+K 4
+test
+V 22
+dir bli.7n5.r12557/678
+K 3
+utl
+V 23
+dir bnl.7n5.r12556/9317
+K 9
+xmlparser
+V 23
+dir bog.7n5.r12556/9614
+END
+ENDREP
+id: bi6.7n5.r12557/5951
+type: dir
+pred: bi6.7n5.r12556/10119
+count: 380
+text: 12557 5692 246 246 981431dc6c98fa030bdaf65b47f42f77
+props: 11862 627 54 0 9e8708e9b4786ab3c7ff09e372496a63
+cpath: /main/sipXportLib/src
+copyroot: 10815 /main
+
+PLAIN
+K 15
+Android-core.mk
+V 25
+file fxm.7o3.r12042/22695
+K 10
+Android.mk
+V 24
+file g8v.7n5.r11849/1736
+K 14
+Application.mk
+V 23
+file g8w.7n5.r11479/154
+K 12
+CONTRIBUTORS
+V 25
+file bcg.0.r6469/21591964
+K 9
+ChangeLog
+V 25
+file bch.0.r6469/21535752
+K 7
+INSTALL
+V 22
+file bci.0.r10440/5721
+K 11
+Makefile.am
+V 24
+file bcj.7n5.r12466/3267
+K 4
+NEWS
+V 25
+file bck.0.r6469/21599943
+K 6
+README
+V 24
+file bcl.0.r6955/1419372
+K 4
+TODO
+V 25
+file bcm.0.r6469/21597743
+K 9
+acsite.m4
+V 24
+file bcn.0.r6955/1417808
+K 3
+bin
+V 23
+dir bco.7n5.r11825/3124
+K 12
+configure.ac
+V 22
+file bd3.7n5.r12554/63
+K 3
+doc
+V 23
+dir bd4.7n5.r11825/2828
+K 7
+include
+V 23
+dir bde.7n5.r12420/7810
+K 4
+meta
+V 24
+dir bhw.0.r6469/21535422
+K 24
+sipXportLib-msvc8.vcproj
+V 23
+file e78.7n5.r12304/913
+K 15
+sipXportLib.dsp
+V 23
+file 4c.7ng.r11387/6906
+K 15
+sipXportLib.vcp
+V 22
+file e6k.0.r8667/79650
+K 18
+sipXportLib.vcproj
+V 24
+file bi1.7n5.r12304/1113
+K 19
+sipXportLib.vcxproj
+V 25
+file nre.7n5.r12361/73501
+K 28
+sipXportLibTest-msvc8.vcproj
+V 24
+file e79.7n5.r10871/4946
+K 19
+sipXportLibTest.dsp
+V 23
+file ap.7nh.r11289/5728
+K 19
+sipXportLibTest.sln
+V 25
+file bi2.7n5.r12127/10409
+K 19
+sipXportLibTest.vcp
+V 22
+file e6l.0.r9027/28874
+K 22
+sipXportLibTest.vcproj
+V 24
+file bi3.7n5.r12127/9544
+K 23
+sipXportLibTest.vcxproj
+V 25
+file nrh.7n5.r12361/73323
+K 29
+sipXportLib_NoSecurity.vcproj
+V 25
+file bi4.7n5.r12127/10198
+K 30
+sipXunitTestSuite-msvc8.vcproj
+V 22
+file exf.0.r10789/8760
+K 24
+sipXunitTestSuite.vcproj
+V 24
+file eb6.7n5.r12127/9945
+K 19
+sipxportlib.spec.in
+V 24
+file bi5.7n5.r11457/1633
+K 3
+src
+V 23
+dir bi6.7n5.r12557/5951
+K 12
+syslogviewer
+V 23
+dir bom.7n5.r11862/1008
+END
+ENDREP
+id: bcf.7n5.r12557/7840
+type: dir
+pred: bcf.7n5.r12556/12009
+count: 560
+text: 12557 6188 1639 1639 f501aa2924324950b076cd6236c82393
+props: 12332 1895 382 0 0f23bff704bfaa73ed4702b707744652
+cpath: /main/sipXportLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g8y.7n5.r12172/315
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 23
+dir 9wj.7n5.r12548/1251
+K 15
+configure.patch
+V 23
+file o60.7n5.r12434/574
+K 10
+readme.txt
+V 23
+file 9ws.7n5.r12464/516
+K 7
+scripts
+V 23
+dir fxk.7n5.r12171/1617
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r12532/5469
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r12515/3151
+K 12
+sipXmediaLib
+V 24
+dir b40.7n5.r12546/10820
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r12557/7840
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r12543/4824
+K 11
+sipXtackLib
+V 24
+dir boq.7n5.r12544/16652
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r12557/8786
+type: dir
+pred: 9wi.7n5.r12556/12957
+count: 3495
+text: 12557 8077 696 696 1f78175972722749de18b1fff73e418b
+props: 12114 59175 76 0 1dd3880c3272b32f88d1700b38908223
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r12113/17441
+K 4
+main
+V 23
+dir 9wi.7n5.r12557/8786
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r12557/9182
+type: dir
+pred: 0.0.r12556/13355
+count: 12557
+text: 12557 9010 159 159 af8bf898876a49a313c0d8eec0dabb11
+cpath: /
+copyroot: 0 /
+
+bl9.7n5.t12556-1 modify false true /main/sipXportLib/src/os/shared
+
+bko.7n5.t12556-1 modify false true /main/sipXportLib/src/os/linux
+
+bmc.7n5.t12556-1 modify false true /main/sipXportLib/src/test/sipxunit
+
+
+9182 9330

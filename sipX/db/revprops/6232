@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-23T19:52:28.636839Z
+K 7
+svn:log
+V 122
+XCF-753 EditUpload tests fixed after upgrading to Tapestry 4
+all the tests are passing now re-enabling regular UI testing
+
+END

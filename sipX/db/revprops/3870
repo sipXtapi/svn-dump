@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-05-02T17:17:06.081770Z
+K 7
+svn:log
+V 116
+Looking for the prompts from aa_promptsalias directory. Also, fixed the bug of loading another autoattendant menu.
+
+
+END

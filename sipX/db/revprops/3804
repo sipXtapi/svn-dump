@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-04-19T22:41:06.732912Z
+K 7
+svn:log
+V 85
+Fixed patches mechanism - set initial version explicitly (missed file in 779 commit)
+
+END

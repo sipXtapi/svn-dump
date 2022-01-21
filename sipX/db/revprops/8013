@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-11-17T18:33:04.407059Z
+K 7
+svn:log
+V 208
+1) Merged sipXmediaLib changes from main r7991
+2) Re-added OsConfigDb::clear (used by sipXezPhone, but deleted in main)
+3) Added some more delay when starting the mp tasks -- we need better synchronization.
+
+
+END

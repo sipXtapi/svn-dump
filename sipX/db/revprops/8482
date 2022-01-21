@@ -1,0 +1,51 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-10T00:29:18.566864Z
+K 7
+svn:log
+V 1164
+Merged revisions 8459,8460,8461,8465,8466,8468,8472 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8459 | sgodin | 2007-01-07 21:08:38 +0300 | 5 lines
+  
+  - added new Copyable Utl Containable
+    - allows creation of a SList or SortedList that can be copied
+      (deep copy is performed)
+    - all elements in the list must subclass from UtlCopyableContainable 
+      and implement a clone operator
+........
+  r8460 | sgodin | 2007-01-08 01:00:55 +0300 | 1 line
+  
+  - first pass at adding new sdpLibrary - probably won't build yet
+........
+  r8461 | sgodin | 2007-01-08 01:43:07 +0300 | 1 line
+  
+  fixed some compile issues on linux
+........
+  r8465 | sgodin | 2007-01-08 08:47:44 +0300 | 1 line
+  
+  sdpLib modifications for changes in sipXtapi branch - still more to do
+........
+  r8466 | sgodin | 2007-01-08 08:48:47 +0300 | 1 line
+  
+  added macro for new sipXsdpLib
+........
+  r8468 | sgodin | 2007-01-08 19:33:58 +0300 | 3 lines
+  
+  - fixes for VS6 builds
+  - fixed typo in SdpBody
+  - fixed compiler warning in res_comp.c
+........
+  r8472 | sgodin | 2007-01-08 23:35:03 +0300 | 1 line
+  
+  -code cleanup
+........
+
+END

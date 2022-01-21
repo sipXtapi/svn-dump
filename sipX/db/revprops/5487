@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-11-02T22:51:45.544979Z
+K 7
+svn:log
+V 161
+XCF-305 fix another build issues and ...  FINALLY GOT UNIT TESTS WORKING! I didnt realize i could go w/1 wsdl and this is much easier at least in the short term.
+END

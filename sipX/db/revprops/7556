@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+szuk
+K 8
+svn:date
+V 27
+2006-09-24T05:54:08.242057Z
+K 7
+svn:log
+V 190
+Added a new IMDB table for domains.  Used to read domains and associated realms from xml config.
+Also added a couple of table initializations to SIPDBManager that looked like were missing.
+
+
+END

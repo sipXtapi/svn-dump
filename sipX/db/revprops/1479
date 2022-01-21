@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-01-15T15:21:55.354667Z
+K 7
+svn:log
+V 51
+More checks to ensure creation of a valid
+Call-ID.
+
+END

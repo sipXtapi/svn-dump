@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-01-05T22:50:20.075272Z
+K 7
+svn:log
+V 117
+Correct logging and clean up comments and style; changed while debugging
+  http://track.sipfoundry.org/browse/XRR-30
+
+END

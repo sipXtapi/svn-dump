@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2021-05-19T18:31:15.455126Z
+K 7
+svn:log
+V 113
+-allow recording to WAV Mulaw and Alaw formats
+-missing header file from commit from MprRecorder silence trimming
+END

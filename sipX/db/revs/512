@@ -1,0 +1,375 @@
+id: cu.2a.r512/0
+type: file
+pred: cu.0.r510/208920
+count: 1
+text: 510 174317 280 445 fe0d51d216fa2870ecb73e2776330a76
+props: 510 208873 34 0 25e6c2f7558b7484000d4d090dea5b92
+cpath: /old/sipXportLib/main/include/glib/sipxglibstubs.h
+copyfrom: 510 /old/sipXportLib/main/include/sipxglibstubs.h
+
+id: ct.29.r512/293
+type: file
+pred: ct.0.r510/209190
+count: 1
+text: 510 172286 2018 5190 a45e8be63e2674644718f16d26e3c94b
+props: 510 209143 34 0 25e6c2f7558b7484000d4d090dea5b92
+cpath: /old/sipXportLib/main/include/glib/glibconfig.h
+copyfrom: 510 /old/sipXportLib/main/include/glibconfig.h
+
+id: bk.28.r512/584
+type: file
+pred: bk.0.r510/209459
+count: 1
+text: 510 0 3929 13252 340eb113e6b81a5917d864628702a178
+props: 510 209412 34 0 25e6c2f7558b7484000d4d090dea5b92
+cpath: /old/sipXportLib/main/include/glib/config.h
+copyfrom: 510 /old/sipXportLib/main/include/config.h
+
+PLAIN
+K 8
+config.h
+V 19
+file bk.28.r512/584
+K 8
+garray.h
+V 21
+file bm.0.r510/214558
+K 13
+gasyncqueue.h
+V 21
+file bn.0.r510/215642
+K 9
+gatomic.h
+V 21
+file bo.0.r510/214289
+K 12
+gbacktrace.h
+V 21
+file bp.0.r510/214826
+K 8
+gerror.h
+V 21
+file bs.0.r510/218309
+K 7
+ghash.h
+V 21
+file bt.0.r510/209720
+K 6
+glib.h
+V 21
+file bx.0.r510/220211
+K 12
+glibconfig.h
+V 19
+file ct.29.r512/293
+K 7
+glist.h
+V 18
+file bz.0.r511/212
+K 9
+gmacros.h
+V 21
+file c0.0.r510/216951
+K 6
+gmem.h
+V 18
+file c1.0.r511/922
+K 11
+gmessages.h
+V 21
+file c2.0.r510/213203
+K 7
+gnode.h
+V 18
+file c3.0.r511/447
+K 6
+gnulib
+V 20
+dir c4.0.r510/216468
+K 9
+gprimes.h
+V 21
+file c6.0.r510/211579
+K 8
+gquark.h
+V 21
+file c9.0.r510/215915
+K 8
+gslist.h
+V 18
+file ca.0.r511/684
+K 11
+gstrfuncs.h
+V 21
+file cb.0.r510/212931
+K 9
+gstring.h
+V 21
+file cc.0.r510/219664
+K 9
+gthread.h
+V 21
+file cd.0.r510/212660
+K 13
+gthreadinit.h
+V 21
+file ce.0.r510/210769
+K 7
+gtree.h
+V 21
+file ch.0.r510/211311
+K 8
+gtypes.h
+V 21
+file ci.0.r510/212390
+K 10
+gunicode.h
+V 21
+file cl.0.r510/218038
+K 8
+gutils.h
+V 21
+file cp.0.r510/211849
+K 8
+gwin32.h
+V 21
+file cq.0.r510/212120
+K 10
+libcharset
+V 20
+dir cr.0.r510/210558
+K 15
+sipxglibstubs.h
+V 17
+file cu.2a.r512/0
+END
+ENDREP
+id: bl.0.r512/2057
+type: dir
+pred: bl.0.r511/2889
+count: 2
+text: 512 863 1181 1181 aa13b23ec1a7e9b9608ed208e80374da
+cpath: /old/sipXportLib/main/include/glib
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 19
+file f.0.r497/12825
+K 4
+glib
+V 18
+dir bl.0.r512/2057
+K 2
+os
+V 17
+dir l.0.r499/7474
+K 3
+utl
+V 18
+dir 3n.0.r493/1484
+K 9
+xmlparser
+V 20
+dir 48.0.r444/129625
+END
+ENDREP
+id: e.0.r512/2424
+type: dir
+pred: e.0.r511/3392
+count: 123
+text: 512 2230 181 181 8075fe6b149eb1f19f465faa06fce1c3
+props: 187 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXportLib/main/include
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 20
+file 4.0.r381/145534
+K 9
+ChangeLog
+V 20
+file 5.0.r444/130192
+K 7
+INSTALL
+V 20
+file 6.0.r381/149407
+K 7
+LICENSE
+V 20
+file 7.0.r444/115426
+K 11
+Makefile.am
+V 17
+file 8.0.r456/117
+K 4
+NEWS
+V 20
+file 9.0.r381/150995
+K 6
+README
+V 20
+file a.0.r381/145234
+K 4
+TODO
+V 20
+file b.0.r381/149109
+K 9
+acsite.m4
+V 19
+file c.0.r381/72051
+K 3
+bin
+V 20
+dir as.0.r444/156183
+K 6
+config
+V 18
+dir 91.0.r481/1079
+K 12
+configure.ac
+V 19
+file d.0.r490/19311
+K 3
+doc
+V 20
+dir ac.0.r444/153746
+K 7
+include
+V 17
+dir e.0.r512/2424
+K 4
+meta
+V 18
+dir b6.0.r425/2853
+K 15
+sipXportLib.dsp
+V 21
+file 4c.0.r510/228519
+K 18
+sipXportLib.vcproj
+V 18
+file ba.0.r462/771
+K 19
+sipxportlib.spec.in
+V 18
+file aq.0.r442/445
+K 3
+src
+V 20
+dir 4d.0.r510/228296
+K 12
+syslogviewer
+V 20
+dir 8y.0.r381/146508
+END
+ENDREP
+id: 3.0.r512/3442
+type: dir
+pred: 3.0.r511/4412
+count: 407
+text: 512 2642 787 787 f9b185ad9ce98f0acf243605c2378a7b
+props: 510 229561 559 0 edee03f472300d2ec45d01bcd228f7bc
+cpath: /old/sipXportLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir ar.0.r508/4796
+K 4
+main
+V 17
+dir 3.0.r512/3442
+K 4
+tags
+V 18
+dir an.0.r509/1799
+END
+ENDREP
+id: 2.0.r512/3777
+type: dir
+pred: 2.0.r511/4749
+count: 510
+text: 512 3658 106 106 9f65110490f5afd6a8c6875322f2df86
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r512/3777
+END
+ENDREP
+id: 1.0.r512/3988
+type: dir
+pred: 1.0.r511/4962
+count: 511
+text: 512 3931 44 44 cce299574dc20cbfee5902ddb77f673b
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r512/3988
+END
+ENDREP
+id: 0.0.r512/4176
+type: dir
+pred: 0.0.r511/5152
+count: 512
+text: 512 4128 35 35 197ae4a323b6befa78a1643eb8315a07
+cpath: /
+copyroot: 0 /
+
+co.0.r510/216675 delete false false /old/sipXportLib/main/include/glib/gunidecomp.h
+
+bu.0.r510/209988 delete false false /old/sipXportLib/main/include/glib/gi18n-lib.h
+
+ck.0.r510/217221 delete false false /old/sipXportLib/main/include/glib/gunichartables.h
+
+br.0.r510/217769 delete false false /old/sipXportLib/main/include/glib/gdebug.h
+
+cu._2.t511-1 add false false /old/sipXportLib/main/include/glib/sipxglibstubs.h
+510 /old/sipXportLib/main/include/sipxglibstubs.h
+ct._1.t511-1 add false false /old/sipXportLib/main/include/glib/glibconfig.h
+510 /old/sipXportLib/main/include/glibconfig.h
+by.0.r510/211042 delete false false /old/sipXportLib/main/include/glib/glibintl.h
+
+bk._0.t511-1 add false false /old/sipXportLib/main/include/glib/config.h
+510 /old/sipXportLib/main/include/config.h
+cj.0.r510/218847 delete false false /old/sipXportLib/main/include/glib/gunibreak.h
+
+cf.0.r510/219121 delete false false /old/sipXportLib/main/include/glib/gthreadpool.h
+
+c7.0.r510/219395 delete false false /old/sipXportLib/main/include/glib/gprintf.h
+
+bq.0.r510/219934 delete false false /old/sipXportLib/main/include/glib/gbsearcharray.h
+
+cn.0.r510/213749 delete false false /old/sipXportLib/main/include/glib/gunicomp.h
+
+bw.0.r510/213476 delete false false /old/sipXportLib/main/include/glib/glib-object.h
+
+c8.0.r510/220478 delete false false /old/sipXportLib/main/include/glib/gprintfint.h
+
+cu.0.r510/208920 delete false false /old/sipXportLib/main/include/sipxglibstubs.h
+
+bv.0.r510/215098 delete false false /old/sipXportLib/main/include/glib/gi18n.h
+
+ct.0.r510/209190 delete false false /old/sipXportLib/main/include/glibconfig.h
+
+cg.0.r510/221018 delete false false /old/sipXportLib/main/include/glib/gtimer.h
+
+cm.0.r510/215365 delete false false /old/sipXportLib/main/include/glib/gunicodeprivate.h
+
+bk.0.r510/209459 delete false false /old/sipXportLib/main/include/config.h
+
+
+4176 4313

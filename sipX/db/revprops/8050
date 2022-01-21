@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-11-20T21:49:23.224481Z
+K 7
+svn:log
+V 253
+XCF-981 basic CDR view added
+- new page - Diagnostics->Calls
+- DataFormatting updating to take into accout page locale (it was using default locale bafore)
+- added caller and callee properties to Cdr object to enable user freindly display of AOR fields
+
+END

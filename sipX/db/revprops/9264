@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-06T15:05:15.858290Z
+K 7
+svn:log
+V 105
+Missed part of RFC2 for new audio output system for sipXmediaLib.
+MpOutputDeviceManager code checked in.
+
+END

@@ -1,0 +1,71 @@
+id: ux.0.r1105/0
+type: dir
+count: 0
+cpath: /old/sipXmediaLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 16
+dir ux.0.r1105/0
+K 4
+main
+V 18
+dir mz.0.r1104/901
+K 4
+tags
+V 19
+dir uq.0.r1091/1348
+END
+ENDREP
+id: my.0.r1105/204
+type: dir
+pred: my.0.r1104/1200
+count: 38
+text: 1105 85 106 106 b9bd7d3335595c09a45b5f8473b874c6
+cpath: /old/sipXmediaLib
+copyroot: 0 /
+
+PLAIN
+K 12
+sipXmediaLib
+V 18
+dir my.0.r1105/204
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1105/502
+type: dir
+pred: 1.0.r1104/1500
+count: 1104
+text: 1105 360 129 129 50f41d0a528e41bf560e3aba679ebc51
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r1105/502
+END
+ENDREP
+id: 0.0.r1105/694
+type: dir
+pred: 0.0.r1104/1695
+count: 1105
+text: 1105 646 35 35 954104fa9965487bc279d3f77883745f
+cpath: /
+copyroot: 0 /
+
+_0.0.t1104-1 add false false /old/sipXmediaLib/branches
+
+
+694 833

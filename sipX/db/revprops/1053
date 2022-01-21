@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-06-24T18:54:40.864370Z
+K 7
+svn:log
+V 114
+Added the lock for insert, remove, and iterate the event objects in SipDialogEvent and SipPresenceEvent classes.
+
+
+END

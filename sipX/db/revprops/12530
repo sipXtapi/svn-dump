@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-10-20T02:56:26.181501Z
+K 7
+svn:log
+V 200
+Increment codec count only when we add codec in SdpBody.
+This was sometimes incrementing the codec count and then
+blowing up in delete on a bad pointer.  Also initialize 
+codec pointer array to NULL.
+
+END

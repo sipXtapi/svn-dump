@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-11-03T18:50:28.281203Z
+K 7
+svn:log
+V 65
+Rescind rev. 5465, which should have been done on main, not 3.0.
+
+END

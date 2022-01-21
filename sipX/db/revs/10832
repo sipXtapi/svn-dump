@@ -1,0 +1,131 @@
+PLAIN
+K 13
+svn:externals
+V 81
+config https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi-media-update/config
+
+END
+ENDREP
+id: e7v.697.r10832/123
+type: dir
+pred: e7v.697.r10308/3945
+count: 16
+text: 10308 3027 905 905 b7b6d44a21d2ceef1f5d48a85ed52c58
+props: 10832 0 110 0 d239bb82cadefea8ebc85ad6b3eed562
+cpath: /branches/sipXtapi-media-update/sipXsdpLib
+copyroot: 8482 /branches/sipXtapi-media-update/sipXsdpLib
+
+PLAIN
+K 11
+LICENSE.txt
+V 24
+file dwx.66e.r8163/58801
+K 12
+Makefile.gnu
+V 25
+file ekr.6ky.r8869/259022
+K 14
+build_evc4.bat
+V 24
+file e6c.68g.r8644/65996
+K 14
+buildmsvs6.bat
+V 25
+file dm4.684.r8869/258780
+K 6
+config
+V 23
+dir 9wj.3ke.r8650/25052
+K 10
+readme.txt
+V 25
+file 9ws.3ke.r8869/297443
+K 11
+sipXcallLib
+V 24
+dir 9wt.3ke.r10027/19565
+K 19
+sipXmediaAdapterLib
+V 24
+dir b2p.3ke.r10278/47719
+K 12
+sipXmediaLib
+V 24
+dir b40.3ke.r10278/43938
+K 11
+sipXportLib
+V 24
+dir bcf.3ke.r8869/256696
+K 10
+sipXsdpLib
+V 22
+dir e7v.697.r10832/123
+K 11
+sipXtackLib
+V 24
+dir boq.3ke.r8869/319158
+K 11
+wcevars.bat
+V 25
+file e6o.68w.r8364/162568
+END
+ENDREP
+id: 9wi.7n7.r10832/1050
+type: dir
+pred: 9wi.7n7.r10818/0
+count: 289
+text: 10832 413 624 624 26d0ff0d85003834507329df0994e668
+props: 8869 320083 317 0 ec1827544b9c55d353dbb6c255177699
+cpath: /branches/sipXtapi-media-update
+copyroot: 10818 /branches/sipXtapi-media-update
+
+PLAIN
+K 12
+sipXtapi-AOL
+V 25
+dir 9wi.7n8.r10828/157016
+K 21
+sipXtapi-media-update
+V 23
+dir 9wi.7n7.r10832/1050
+END
+ENDREP
+id: fuu.0.r10832/1443
+type: dir
+pred: fuu.0.r10828/157392
+count: 9
+text: 10832 1321 109 109 964df14f0b7b3675d76a62b111826baf
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir fuu.0.r10832/1443
+K 4
+main
+V 23
+dir 9wi.7n5.r10831/4539
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r10832/1771
+type: dir
+pred: 0.0.r10831/4878
+count: 10832
+text: 10832 1600 158 158 e13bec9b978824cd60d2bc25ab192143
+cpath: /
+copyroot: 0 /
+
+e7v.697.t10831-1 modify false true /branches/sipXtapi-media-update/sipXsdpLib
+
+
+1771 1918

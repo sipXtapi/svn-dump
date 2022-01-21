@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-10-30T07:06:04.239398Z
+K 7
+svn:log
+V 88
+Remove Rtp* types definitions from mp/RtpHeader.h - they're now located in mp/MpTypes.h
+
+END

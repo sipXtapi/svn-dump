@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-11-04T07:56:40.957714Z
+K 7
+svn:log
+V 63
+Add proper speex library linkage to VC6 speex plugin project.
+
+
+END

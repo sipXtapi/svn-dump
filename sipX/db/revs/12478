@@ -1,0 +1,487 @@
+PLAIN
+K 10
+.cvsignore
+V 27
+file g5i.7n5.r11402/1483005
+K 10
+.gitignore
+V 27
+file g2q.7n5.r11402/1527353
+K 7
+AUTHORS
+V 27
+file g6h.7n5.r11402/1456695
+K 7
+COPYING
+V 27
+file g70.7n5.r11402/1476586
+K 9
+ChangeLog
+V 27
+file g1y.7n5.r11402/1489192
+K 8
+Doxyfile
+V 27
+file g61.7n5.r11402/1453336
+K 5
+IDEAS
+V 27
+file g2j.7n5.r11402/1456516
+K 11
+Makefile.am
+V 27
+file g29.7n5.r11402/1535465
+K 4
+NEWS
+V 27
+file g4a.7n5.r11402/1477124
+K 8
+OPTIMIZE
+V 27
+file g3k.7n5.r11402/1492804
+K 6
+README
+V 27
+file g6p.7n5.r11402/1492564
+K 13
+README.TI-DSP
+V 27
+file g4m.7n5.r11402/1462664
+K 15
+README.Trimedia
+V 27
+file g11.7n5.r11402/1491796
+K 15
+README.blackfin
+V 27
+file g39.7n5.r11402/1527164
+K 14
+README.symbian
+V 27
+file g69.7n5.r11402/1463043
+K 12
+README.win32
+V 27
+file g7f.7n5.r11402/1463233
+K 14
+Speex.kdevelop
+V 27
+file g12.7n5.r11402/1462853
+K 13
+Speex.spec.in
+V 27
+file g3g.7n5.r11402/1453088
+K 4
+TODO
+V 27
+file g5s.7n5.r11402/1526984
+K 12
+acinclude.m4
+V 27
+file g3o.7n5.r11402/1527645
+K 10
+autogen.sh
+V 27
+file g6f.7n5.r11402/1476878
+K 12
+configure.ac
+V 27
+file g6a.7n5.r11402/1463832
+K 3
+doc
+V 23
+dir fz1.7n5.r11822/4136
+K 4
+html
+V 26
+dir fz2.7n5.r11402/1466351
+K 7
+include
+V 22
+dir fz3.7n5.r12206/444
+K 8
+libspeex
+V 22
+dir fz5.7n5.r12206/827
+K 6
+macosx
+V 26
+dir fz6.7n5.r11402/1491616
+K 16
+regression-fixes
+V 26
+dir fza.7n5.r11402/1492294
+K 11
+regressions
+V 27
+file g6t.7n5.r11402/1464431
+K 8
+speex.m4
+V 27
+file g5b.7n5.r11402/1464188
+K 11
+speex.pc.in
+V 27
+file g7x.7n5.r11402/1462419
+K 11
+speexclient
+V 26
+dir fzb.7n5.r11402/1456331
+K 14
+speexdsp.pc.in
+V 27
+file g7h.7n5.r11402/1463502
+K 3
+src
+V 23
+dir fzc.7n5.r11822/3817
+K 7
+symbian
+V 24
+dir fzd.7n5.r11822/16066
+K 2
+ti
+V 23
+dir fze.7n5.r11822/6139
+K 3
+tmv
+V 26
+dir fzi.7n5.r11402/1535206
+K 5
+win32
+V 25
+dir fzj.7n5.r12361/115108
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 230
+aclocal.m4
+autom4te.cache
+compile
+configure
+config.log
+config.guess
+config.h
+config.sub
+config.status
+config.h.in
+depcomp
+INSTALL
+install-sh
+libtool
+ltmain.sh
+Makefile
+Makefile.in
+missing
+Speex.spec
+speex.pc
+speexdsp.pc
+stamp-h1
+
+
+END
+ENDREP
+id: fz0.7n5.r12478/2055
+type: dir
+pred: fz0.7n5.r12361/117196
+count: 8
+text: 12478 0 1772 1772 978516b19aad1ea215d9cbaebe350f5b
+props: 12478 1785 257 0 a80a29ada3125b1374295274ce5b2f56
+cpath: /main/sipXmediaLib/contrib/libspeex
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file f69.7n5.r12460/239
+K 7
+android
+V 25
+dir g9q.7n5.r12196/415625
+K 14
+buildFFmpeg.sh
+V 23
+file h4u.7n5.r11741/652
+K 8
+libamrnb
+V 23
+dir f32.7n5.r12477/3564
+K 8
+libamrwb
+V 23
+dir f41.7n5.r12477/1608
+K 6
+libgsm
+V 25
+dir ebx.7n5.r12361/118167
+K 7
+libilbc
+V 25
+dir ezs.7n5.r12361/110491
+K 7
+libopus
+V 23
+dir lw5.7n5.r12469/3440
+K 10
+libspandsp
+V 25
+dir f50.7n5.r12361/109423
+K 8
+libspeex
+V 23
+dir fz0.7n5.r12478/2055
+END
+ENDREP
+id: ebw.7n5.r12478/2760
+type: dir
+pred: ebw.7n5.r12477/4272
+count: 97
+text: 12478 2306 441 441 944a3afe3dc4df23cda800de635c2a8d
+props: 12208 0 48 0 86168c69db02cf3306494c6df91bc2ed
+cpath: /main/sipXmediaLib/contrib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 22
+file g92.7n5.r12289/56
+K 12
+CONTRIBUTORS
+V 25
+file b41.0.r6469/22054157
+K 9
+ChangeLog
+V 25
+file b42.0.r6469/22025314
+K 7
+INSTALL
+V 24
+file b43.0.r6955/1728056
+K 11
+Makefile.am
+V 24
+file b44.7n5.r12466/9317
+K 4
+NEWS
+V 25
+file b45.0.r6469/22058814
+K 6
+README
+V 24
+file b46.0.r6955/1727035
+K 4
+TODO
+V 25
+file b47.0.r6469/22057442
+K 9
+acsite.m4
+V 24
+file b48.0.r6955/1726702
+K 17
+autoconf259.patch
+V 23
+file fxj.7n5.r10953/747
+K 3
+bin
+V 22
+dir b49.7n5.r11821/958
+K 12
+configure.ac
+V 25
+file b4k.7n5.r12472/10895
+K 7
+contrib
+V 23
+dir ebw.7n5.r12478/2760
+K 3
+doc
+V 22
+dir b4l.7n5.r11821/663
+K 26
+dtmf5_48khz_16b_signed.wav
+V 23
+file f7a.0.r10516/48478
+K 7
+include
+V 24
+dir b4p.7n5.r12470/16696
+K 3
+lib
+V 24
+dir b8u.0.r6469/22057603
+K 4
+meta
+V 24
+dir b8v.0.r6469/22024982
+K 25
+sipXmediaLib-msvc8.vcproj
+V 24
+file e76.7n5.r11952/3545
+K 16
+sipXmediaLib.dsp
+V 24
+file up.7nl.r11401/19813
+K 16
+sipXmediaLib.vcp
+V 22
+file e6i.0.r9956/38866
+K 19
+sipXmediaLib.vcproj
+V 24
+file b92.7n5.r12138/5904
+K 20
+sipXmediaLib.vcxproj
+V 26
+file nqq.7n5.r12361/119245
+K 29
+sipXmediaLibTest-msvc8.vcproj
+V 24
+file e77.7n5.r12273/3350
+K 20
+sipXmediaLibTest.dsp
+V 23
+file mh.7nm.r12273/3109
+K 20
+sipXmediaLibTest.sln
+V 24
+file eaj.7n5.r12138/5652
+K 20
+sipXmediaLibTest.vcp
+V 22
+file e6j.0.r8865/20512
+K 23
+sipXmediaLibTest.vcproj
+V 24
+file eak.7n5.r12273/3560
+K 24
+sipXmediaLibTest.vcxproj
+V 26
+file nqo.7n5.r12361/119064
+K 20
+sipxmedialib.spec.in
+V 24
+file b93.7n5.r10867/5783
+K 3
+src
+V 24
+dir b94.7n5.r12472/10654
+END
+ENDREP
+id: b40.7n5.r12478/4522
+type: dir
+pred: b40.7n5.r12477/6034
+count: 1845
+text: 12478 2998 1511 1511 3212ff649f3d287196a1cddf3dd2fb56
+props: 12332 3448 1828 0 9538f009da0d305e6e1bb316bb7369dd
+cpath: /main/sipXmediaLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g8y.7n5.r12172/315
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 22
+dir 9wj.7n5.r12476/893
+K 15
+configure.patch
+V 23
+file o60.7n5.r12434/574
+K 10
+readme.txt
+V 23
+file 9ws.7n5.r12464/516
+K 7
+scripts
+V 23
+dir fxk.7n5.r12171/1617
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r12467/3757
+K 19
+sipXmediaAdapterLib
+V 24
+dir b2p.7n5.r12466/13170
+K 12
+sipXmediaLib
+V 23
+dir b40.7n5.r12478/4522
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r12471/5414
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r12466/6703
+K 11
+sipXtackLib
+V 24
+dir boq.7n5.r12466/15876
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r12478/5469
+type: dir
+pred: 9wi.7n5.r12477/6982
+count: 3416
+text: 12478 4761 695 695 d9811f2008cb034e067004e87ad825e0
+props: 12114 59175 76 0 1dd3880c3272b32f88d1700b38908223
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r12113/17441
+K 4
+main
+V 23
+dir 9wi.7n5.r12478/5469
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r12478/5864
+type: dir
+pred: 0.0.r12477/7377
+count: 12478
+text: 12478 5692 159 159 3454e0a1484f8c34f9eb9a5683f9f941
+cpath: /
+copyroot: 0 /
+
+fz0.7n5.t12477-1 modify false true /main/sipXmediaLib/contrib/libspeex
+
+g3n.7n5.r11822/4391 delete false false /main/sipXmediaLib/contrib/libspeex/INSTALL
+
+
+5864 6011

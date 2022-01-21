@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-06-07T15:38:14.634987Z
+K 7
+svn:log
+V 406
+XCF-997 - Default attendant was not saving values.  Wasnt using decorated settings
+XCF-823 trim leading and trailing spaces from external rules file names configured in sipxconfig.properties.in
+
+Make skinning web ui easier, ability to restrict visible phones, ability to limit max users for resource-bound machines (ENG-547)
+Add support for snom 300, same as other snom phones except 4 lines instead of 12
+
+END

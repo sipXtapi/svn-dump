@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-08-30T21:33:04.303038Z
+K 7
+svn:log
+V 321
+SdpCodecFactory class splitted to SdpCodecList class, used to store lists of SDP codecs information, and SdpDefaultCodecFactory class. used to create SdpCodec instances for given SdpCodec::SdpCodecTypes and map codec types to SdpCodec::SdpCodecTypes.
+File names are not changed yet - will be done in one of next commits.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-12T19:23:31.791901Z
+K 7
+svn:log
+V 77
+Fix build: add/remove files from rev9340 to VS2003 and VS2005 project files.
+
+END

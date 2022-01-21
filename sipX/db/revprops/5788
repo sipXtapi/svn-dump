@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-12-24T03:09:13.195610Z
+K 7
+svn:log
+V 39
+Relax majic numbers to float and double
+END

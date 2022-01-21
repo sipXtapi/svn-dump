@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-04-06T15:23:36.985271Z
+K 7
+svn:log
+V 525
+MpInputDeviceManager.h - 
+getDeviceId - change so it returns an OsStatus, improve docs a bit.
+Make isDeviceEnabled const.
+To clarify and simplify const methods that need to take the mutex, make mRwMutex mutable.
+
+MpInputDeviceManager.cpp - 
+Clean up unneeded syslogging to PRI_ERR, and instead to PRI_DEBUG
+Correct syslogging for removeDevice (copy paste error).
+No need for casting mutex member in const function now that it is mutable.
+getDeviceId -- take out read lock, not write lock, fix method so it returns
+OS_STATUS.
+
+END

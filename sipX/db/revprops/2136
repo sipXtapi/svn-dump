@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-09-23T15:32:33.556466Z
+K 7
+svn:log
+V 78
+FIX BUILD : comment all referneces to spec file as there is none at the moment
+END

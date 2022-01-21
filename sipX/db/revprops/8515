@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-11T21:24:53.701302Z
+K 7
+svn:log
+V 177
+XPR-204 added callresolver dependency on ruby-dbi package 
+Added ruby-postgres dependency on ruby(abi) since ruby-libs package available on RHEL does no provide this by default
+
+END

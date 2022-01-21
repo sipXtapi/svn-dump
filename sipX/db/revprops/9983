@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-08-21T16:25:46.697798Z
+K 7
+svn:log
+V 118
+Enable notifications in CpPhoneMediaInterfaceTest testRecordPlayback, as notifications are now sent only when enabled.
+END

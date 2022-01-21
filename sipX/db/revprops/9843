@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-16T21:13:46.179201Z
+K 7
+svn:log
+V 183
+Update MMTimerTest to output in CSV format for easy plotting.
+Collect failures as the test runs, and only assert once all test values are shown.
+(correct checkin - 9841 is incorrect).
+END

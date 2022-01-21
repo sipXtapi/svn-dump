@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-09-06T15:53:05.275585Z
+K 7
+svn:log
+V 143
+mv INSTALL.ssl to INSTALL.ssl.in to avoid confusing source modification svn status when running ./configure instead of ../configure or the like
+END

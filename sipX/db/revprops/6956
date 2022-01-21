@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-06-12T21:43:11.802847Z
+K 7
+svn:log
+V 90
+Add a note on being sure that comma is the column separator for data export to a CSV file
+
+END

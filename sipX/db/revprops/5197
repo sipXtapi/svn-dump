@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-26T21:03:03.971408Z
+K 7
+svn:log
+V 362
+XCF-667 remove JobManager, instead BackgroundTaskQueue as a base for JobQueue
+each phone job (propagate and restart) is treated now as a separate task and can be potentially executed in a separate thread, failure of a single job does not affect other jobs or sipXconfig itself
+XCF-677 fix for Generate All Profiles button - it was attached to the wrong listener
+
+END

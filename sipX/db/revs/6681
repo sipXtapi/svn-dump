@@ -1,0 +1,103 @@
+id: 7q4.3ib.r6681/0
+type: dir
+pred: 7q4.0.r6680/3645
+count: 1297
+text: 6680 1995 795 795 c23d7f16446212559a5683080028b130
+props: 6680 2803 829 0 9a71fcf44a8486d58901cd90975624b0
+cpath: /branches/3.4
+copyfrom: 6680 /main
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r6590/2591
+K 3
+3.4
+V 19
+dir 7q4.3ib.r6681/0
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 20
+dir 8q1.0.r6668/1134
+K 8
+sipXtapi
+V 24
+dir 9wi.0.r6469/22163876
+K 12
+solaris_port
+V 24
+dir 7q4.39l.r6666/116324
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r6681/837
+type: dir
+pred: 7pt.0.r6668/1880
+count: 567
+text: 6681 221 603 603 44bdc64cb3cd2613c68f7b33debf9d30
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 7pt.0.r6681/837
+K 4
+main
+V 20
+dir 7q4.0.r6680/3645
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6681/1115
+type: dir
+pred: 0.0.r6680/3980
+count: 6681
+text: 6681 989 113 113 c8605773188f105f1493b55f2c9245f3
+cpath: /
+copyroot: 0 /
+
+7q4._0.t6680-1 add false false /branches/3.4
+6680 /main
+
+1115 1257

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-08-30T22:06:06.595699Z
+K 7
+svn:log
+V 223
+Move inlined method implementations outside the class definition in some resource messages to fix Doxygen commenting.
+(Doxygen will not see comments specified after method implementations defined within a class definition.)
+END

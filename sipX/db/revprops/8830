@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-20T16:39:28.804380Z
+K 7
+svn:log
+V 259
+Merged revisions 8075 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+
+........
+  r8075 | woof | 2006-11-22 19:08:04 +0300 | 6 lines
+  
+  Plug a memory Leak in RegEx.
+  
+  Even malloc(0), if not freed, will leak!
+  
+  --Woof!
+........
+
+END

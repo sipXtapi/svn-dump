@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+cypromis
+K 8
+svn:date
+V 27
+2006-07-12T19:04:12.361357Z
+K 7
+svn:log
+V 88
+merge in fixes from main
+disabled tapi in sipXcallLib since it is not needed for sipXpbx
+END

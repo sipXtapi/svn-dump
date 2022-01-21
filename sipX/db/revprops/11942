@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-05-25T05:18:23.959518Z
+K 7
+svn:log
+V 97
+Many, many more unit tests and better coverage of SdpBody and new cases for new SdpBody methods.
+
+END

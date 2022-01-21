@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-03-14T21:34:02.214459Z
+K 7
+svn:log
+V 513
+More ugly hacks to work around InternetExplorer problems:
+IE does not compute Z-order properly which results in drop down menu displayed behind the tab navigation. Added _z-index: 500 which is only visible to IE (another bug makes IE to accept CSS properties starting with underscore).
+The net result is that FF, Opera et al. work OK even if screen is narrow and menu wraps. IE works correctly if menu is not wrapped.
+See: 
+http://wellstyled.com/css-underscore-hack.html
+http://annevankesteren.nl/2005/06/z-index
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-02-08T19:33:55.119679Z
+K 7
+svn:log
+V 81
+Add documentation for the
+    sipxconfig.sh --database reset-superadmin
+command.
+
+END

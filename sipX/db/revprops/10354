@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-11-04T08:52:50.476387Z
+K 7
+svn:log
+V 144
+Fix assert in UtlLongLongInt::stringToLongLong on Windows VC6.
+Base passed in to strtoll function is 0, which is the 'default' base - base 10.
+
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-16T23:57:49.586092Z
+K 7
+svn:log
+V 53
+Add libamrnb and its wrapper plugin to VS2003 build.
+
+END

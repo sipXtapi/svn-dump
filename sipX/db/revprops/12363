@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-03-31T21:52:33.504023Z
+K 7
+svn:log
+V 478
+When creating a new CpPeerCall for incoming call, yeild to be sure call state is fully created.
+CallManager created a new call for incoming INVITE, but did not yeild to let
+new call task initialize all call transaction state info needed to match 
+incoming messages in the same dialog.  If a CANCEL came in before the call task
+got time to finish initialization, the CANCEL was not matched to the call and
+sent 481.  Now we yeild until the call task initializes call state info.
+
+END

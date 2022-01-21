@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-06-15T16:42:59.397761Z
+K 7
+svn:log
+V 89
+Add doc/developer directory.
+Add Perl program for testing the quality of hash functions.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-02-14T02:35:50.096891Z
+K 7
+svn:log
+V 134
+bug fix for configpp introduced an extra double quote in config-defs command, surpress it.  affect sipxconfig-agent's ability to start
+END

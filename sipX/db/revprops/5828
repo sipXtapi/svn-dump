@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-09T21:22:42.708624Z
+K 7
+svn:log
+V 380
+XCF-843 bean adaptor now allows for specifying the exact subset of classes for which indexing is enabled
+this funtionality is used by IndexManager to only index classes that are directly laoded (and not the once that are loaded eagerly by hibernater to support associations)
+a better fix would disable eager loading (or: enable lazy loading) but I could not find a way to do that
+
+END

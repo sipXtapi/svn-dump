@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2009-03-30T19:40:12.095405Z
+K 7
+svn:log
+V 444
+Fix longstanding bug in testRecordPlayback -- buffer to record to was 500x bigger than it needed to be (5000 seconds, when it needed to be 10secs)
+Due to this:
+  * record was fine, as you pass in #millisecs to record
+  * Playback plays back audio
+  * Playback FINISHED event never occurs before the timeout we specify to look for it in (15secs), as MprFromFile is still playing back the end of the zeroed buffer.
+
+Now buffer is the proper size.
+END

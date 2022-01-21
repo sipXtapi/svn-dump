@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-02T01:15:10.116379Z
+K 7
+svn:log
+V 69
+Add ssl-cert/gen-ssl-keys.sh and ssl-cert/install-cert.sh to %files.
+
+END

@@ -1,0 +1,457 @@
+PLAIN
+K 10
+svn:ignore
+V 46
+.deps
+.libs
+Makefile
+Makefile.in
+libOSBinet.a
+
+END
+ENDREP
+id: 2ed.0.r2934/85
+type: dir
+pred: 2ed.0.r2930/5183
+count: 10
+text: 2930 3991 1179 1179 f66dc4f4a789e05e716444271ddd3d8e
+props: 2934 0 72 0 a0799ad182068cf4887a8d691fad6b07
+cpath: /old/sipXvxml/main/src/inet
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 45
+.deps
+.libs
+Makefile
+Makefile.in
+libOSBlog.a
+
+END
+ENDREP
+id: 2fe.0.r2934/392
+type: dir
+pred: 2fe.0.r2930/5852
+count: 10
+text: 2930 5649 190 190 8e68f6bd6c874081d9dc841a7051dde0
+props: 2934 308 71 0 afb852a0df13ca001db184e7b29ecc92
+cpath: /old/sipXvxml/main/src/log
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 48
+.deps
+.libs
+Makefile
+Makefile.in
+libOSBprompt.a
+
+END
+ENDREP
+id: 2fj.0.r2934/702
+type: dir
+pred: 2fj.0.r2933/6770
+count: 25
+text: 2933 6304 453 453 120f1e4904928472b7f726ac1b5f913c
+props: 2934 615 74 0 c1ba0f9f07bfffbf256def841c2b82f0
+cpath: /old/sipXvxml/main/src/prompt
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 45
+.deps
+.libs
+Makefile
+Makefile.in
+libOSBtel.a
+
+END
+ENDREP
+id: 2fx.0.r2934/1012
+type: dir
+pred: 2fx.0.r2930/7401
+count: 9
+text: 2930 7249 139 139 9b46e4fdcb5180ae8b1a70a2064c3397
+props: 2934 928 71 0 80c0cc5f973232ea8b6506e872677001
+cpath: /old/sipXvxml/main/src/tel
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 45
+.deps
+.libs
+Makefile
+Makefile.in
+libOSBjsi.a
+
+END
+ENDREP
+id: 2f2.0.r2934/1319
+type: dir
+pred: 2f2.0.r2930/8395
+count: 9
+text: 2930 7865 517 517 82a94feecb61d43868c90992ffcf8281
+props: 2934 1235 71 0 883ffc43b332f0422f2df1b5b5d4f0c0
+cpath: /old/sipXvxml/main/src/jsi
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 42
+.deps
+.libs
+Makefile
+Makefile.in
+libVXI.a
+
+END
+ENDREP
+id: 2cw.0.r2934/1624
+type: dir
+pred: 2cw.0.r2930/10377
+count: 12
+text: 2930 8858 1506 1506 5409571cd39202039fedcf73791c78fe
+props: 2934 1543 68 0 181be3b0133f03bdaf568968bf4fc959
+cpath: /old/sipXvxml/main/src/VXI
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 45
+.deps
+.libs
+Makefile
+Makefile.in
+libOSBrec.a
+
+END
+ENDREP
+id: 2fr.0.r2934/1936
+type: dir
+pred: 2fr.0.r2930/11097
+count: 12
+text: 2930 10846 238 238 e099fd8b39fd755cde63de714b468f9f
+props: 2934 1852 71 0 a4ee990d6c09dd6161b60e1fef872e10
+cpath: /old/sipXvxml/main/src/rec
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 45
+.deps
+.libs
+Makefile
+Makefile.in
+libOSBtrd.a
+
+END
+ENDREP
+id: 2g1.0.r2934/2247
+type: dir
+pred: 2g1.0.r2930/11728
+count: 10
+text: 2930 11565 150 150 0aaec8bfa2e4f4c97bec3d7f3da8933d
+props: 2934 2163 71 0 13932ac89668d39faa868373225237e7
+cpath: /old/sipXvxml/main/src/trd
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 47
+.deps
+.libs
+Makefile
+Makefile.in
+libOSBvalue.a
+
+END
+ENDREP
+id: 2g6.0.r2934/2560
+type: dir
+pred: 2g6.0.r2930/12443
+count: 10
+text: 2930 12197 233 233 dd5bff64a037feee9cf0a6d27eb81b74
+props: 2934 2474 73 0 ec7c2b0112f85bc89435c651c2325393
+cpath: /old/sipXvxml/main/src/value
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 2cv.0.r2903/53917
+K 3
+VXI
+V 20
+dir 2cw.0.r2934/1624
+K 6
+client
+V 20
+dir 2ds.0.r2931/1431
+K 4
+inet
+V 18
+dir 2ed.0.r2934/85
+K 3
+jsi
+V 20
+dir 2f2.0.r2934/1319
+K 3
+log
+V 19
+dir 2fe.0.r2934/392
+K 6
+prompt
+V 19
+dir 2fj.0.r2934/702
+K 3
+rec
+V 20
+dir 2fr.0.r2934/1936
+K 3
+tel
+V 20
+dir 2fx.0.r2934/1012
+K 3
+trd
+V 20
+dir 2g1.0.r2934/2247
+K 5
+value
+V 20
+dir 2g6.0.r2934/2560
+END
+ENDREP
+id: 2cu.0.r2934/3196
+type: dir
+pred: 2cu.0.r2933/7412
+count: 53
+text: 2934 2789 394 394 08ee8e1d1e926f288a392ed67bc94050
+props: 2763 3810 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXvxml/main/src
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 49
+.deps
+.libs
+Makefile
+Makefile.in
+libjavascript.a
+
+END
+ENDREP
+id: 23o.0.r2934/3505
+type: dir
+pred: 23o.0.r2930/15863
+count: 10
+text: 2930 15731 119 119 4c03165410b346829f3c02fd306fd9df
+props: 2934 3417 75 0 a6bdb43766d5f6c3fcc317d9636aae85
+cpath: /old/sipXvxml/main/js
+copyroot: 0 /
+
+PLAIN
+K 7
+AUTHORS
+V 22
+file 22e.0.r2903/20704
+K 12
+CONTRIBUTORS
+V 22
+file 2h3.0.r2903/68683
+K 7
+COPYING
+V 22
+file 22f.0.r2903/76394
+K 9
+ChangeLog
+V 20
+file 22g.0.r2924/344
+K 7
+INSTALL
+V 22
+file 22h.0.r2903/74726
+K 11
+Makefile.am
+V 19
+file 22i.0.r2914/50
+K 4
+NEWS
+V 23
+file 22j.0.r2903/186996
+K 6
+README
+V 22
+file 22k.0.r2903/68375
+K 9
+acsite.m4
+V 22
+file 22l.0.r2903/21604
+K 3
+bin
+V 19
+dir 22m.0.r2932/380
+K 12
+configure.ac
+V 22
+file 22o.0.r2930/14010
+K 3
+doc
+V 18
+dir 2gf.0.r2932/74
+K 3
+etc
+V 20
+dir 22p.0.r2913/4130
+K 7
+include
+V 21
+dir 22u.0.r2917/10153
+K 2
+js
+V 20
+dir 23o.0.r2934/3505
+K 4
+meta
+V 21
+dir 2cs.0.r2903/21353
+K 16
+sipxvxml.spec.in
+V 20
+file 2h0.0.r2919/185
+K 3
+src
+V 20
+dir 2cu.0.r2934/3196
+END
+ENDREP
+id: 22d.0.r2934/4446
+type: dir
+pred: 22d.0.r2933/8353
+count: 139
+text: 2934 3727 706 706 40235d63a885cb2bba5052d3774bf515
+props: 2932 1319 418 0 c2035da946f681180bb748715676b7fc
+cpath: /old/sipXvxml/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 2h1.0.r2921/3150
+K 4
+main
+V 20
+dir 22d.0.r2934/4446
+K 4
+tags
+V 20
+dir 2gd.0.r2922/4625
+END
+ENDREP
+id: 22c.0.r2934/4791
+type: dir
+pred: 22c.0.r2933/8698
+count: 201
+text: 2934 4665 113 113 80a75bbbf2d75ea7699fb36d5f907212
+cpath: /old/sipXvxml
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r2934/4791
+END
+ENDREP
+id: 1.0.r2934/5351
+type: dir
+pred: 1.0.r2933/9258
+count: 2933
+text: 2934 4949 389 389 5d5112533b8dbf85aae71d512bc7a18e
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2934/5351
+END
+ENDREP
+id: 0.0.r2934/5546
+type: dir
+pred: 0.0.r2933/9453
+count: 2934
+text: 2934 5497 36 36 60332b01277075995ab9a3391a8da923
+cpath: /
+copyroot: 0 /
+
+2ed.0.t2933-1 modify false true /old/sipXvxml/main/src/inet
+
+2fe.0.t2933-1 modify false true /old/sipXvxml/main/src/log
+
+2fj.0.t2933-1 modify false true /old/sipXvxml/main/src/prompt
+
+2fx.0.t2933-1 modify false true /old/sipXvxml/main/src/tel
+
+23o.0.t2933-1 modify false true /old/sipXvxml/main/js
+
+2f2.0.t2933-1 modify false true /old/sipXvxml/main/src/jsi
+
+2cw.0.t2933-1 modify false true /old/sipXvxml/main/src/VXI
+
+2fr.0.t2933-1 modify false true /old/sipXvxml/main/src/rec
+
+2g1.0.t2933-1 modify false true /old/sipXvxml/main/src/trd
+
+2g6.0.t2933-1 modify false true /old/sipXvxml/main/src/value
+
+
+5546 5687

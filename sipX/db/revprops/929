@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-28T13:37:39.103915Z
+K 7
+svn:log
+V 248
+Another revision of subscribe-dialog-test.
+Shorten the pause between tests to 3 seconds and make it configurable.
+Test SUBSCRIBE to sip:xxx.xxx.xxx.xxx.
+Remove all but the first NOTIFY for each SUBSCRIBE, which makes the
+output much more readable.
+
+END

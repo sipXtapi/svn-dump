@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2015-05-05T19:03:44.230448Z
+K 7
+svn:log
+V 61
+Added G711 alaw and m-law encoding test cases to MprRecorder
+
+END

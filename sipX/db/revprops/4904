@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-08-25T19:39:53.751953Z
+K 7
+svn:log
+V 809
+Add entries for sipXconverence, but do not activate them.
+
+Revamp handling of headers specified in URIs.
+http://track.sipfoundry.org/browse/XSL-107
+http://track.sipfoundry.org/browse/XSL-108
+
+Statics are not your friend -- fix for
+SipMessage::SipMessageFieldProps.  In SipMessage, replaced the
+static SipMessage::SipMessageFieldProps initializer with a pointer
+and initialize it in the constructor of SipMessage.  Also, renamed
+the variable to spSipMessageFieldProps instead of
+mSipMessageFieldProps.  SipMessage::SipMessageFieldProps touches
+the UtlChainPool (also a static) and blows up under Windows.
+Essentially, one cannot guarantee the order of static
+initialization.  In this case, SipMessage::SipMessageFieldProps
+was initialized before UtlChainPool resulting in a crash during
+static initialization.
+
+END

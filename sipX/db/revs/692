@@ -1,0 +1,130 @@
+PLAIN
+K 13
+svn:externals
+V 76
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/main-export-B/config
+
+K 10
+svn:ignore
+V 196
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.properties
+config.status
+configure
+libtool
+sipxtacklib-*.tar.gz
+sipxtacklib.spec
+stamp-h1
+Debug
+Release
+
+K 18
+svnmerge-main-head
+V 47
+https://scm.sipfoundry.org/rep/sipXtackLib/main
+K 18
+svnmerge-main-revs
+V 4
+1-92
+END
+ENDREP
+id: dk.2s.r692/447
+type: dir
+pred: dk.0.r691/9001
+count: 81
+text: 691 7991 997 997 096b99bfe1dc38bfeedb77b7cff19b9f
+props: 692 0 434 0 dbf159fb8f86425e4aa2dac570c8a448
+cpath: /old/sipXtackLib/tags/main-export-B
+copyfrom: 691 /old/sipXtackLib/main
+
+PLAIN
+K 5
+2.5.1
+V 19
+dir dk.2k.r622/2796
+K 5
+2.5.2
+V 19
+dir dk.2l.r641/1720
+K 13
+main-export-B
+V 18
+dir dk.2s.r692/447
+END
+ENDREP
+id: kr.0.r692/825
+type: dir
+pred: kr.0.r641/2057
+count: 5
+text: 692 695 117 117 0ae97bfa48787e6d399ec583f94e9f69
+cpath: /old/sipXtackLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir kz.0.r689/15430
+K 4
+main
+V 18
+dir dk.0.r691/9001
+K 4
+tags
+V 17
+dir kr.0.r692/825
+END
+ENDREP
+id: dj.0.r692/1102
+type: dir
+pred: dj.0.r691/9334
+count: 93
+text: 692 982 107 107 da8578bd3c219c20d4e02a8412ac7464
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 18
+dir dj.0.r692/1102
+END
+ENDREP
+id: 1.0.r692/1354
+type: dir
+pred: 1.0.r691/9587
+count: 691
+text: 692 1256 85 85 c13f88929f15ca7a62c9ccd38864e7af
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r692/1354
+END
+ENDREP
+id: 0.0.r692/1542
+type: dir
+pred: 0.0.r691/9775
+count: 692
+text: 692 1494 35 35 932c5ac19ea0a206f6a7e9a3dea53ddb
+cpath: /
+copyroot: 0 /
+
+dk._0.t691-1 add false true /old/sipXtackLib/tags/main-export-B
+691 /old/sipXtackLib/main
+
+1542 1679

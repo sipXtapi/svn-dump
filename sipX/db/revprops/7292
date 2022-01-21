@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-08-18T08:37:13.922412Z
+K 7
+svn:log
+V 232
+Merged revisions 7284 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7284 | bob | 2006-08-17 20:45:26 +0400 | 3 lines
+  
+  Enabled audio hooks within sipXtapi -- it was commented out.
+........
+
+END

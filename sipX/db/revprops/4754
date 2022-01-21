@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-02-09T13:27:53.629466Z
+K 7
+svn:log
+V 377
+Update configure and makefiles to work with the changes in the shared
+library configuration macros.
+
+This is a hack - the configuration of the libraries is not used, and
+future changes they require will (again) have to be propogated here
+manually.
+
+This change set appears to get the c++ part of the phone build
+working; my system does not appear to be able to build the java.
+
+END

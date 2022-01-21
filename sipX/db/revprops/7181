@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-08-04T15:37:25.484864Z
+K 7
+svn:log
+V 123
+Converted an assert to a #warning: We need code to enumerate the interface name under linux (needed for STUN/sipXtapi).  
+
+
+END

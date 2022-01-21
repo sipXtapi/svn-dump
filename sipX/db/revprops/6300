@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-03-06T23:21:29.732130Z
+K 7
+svn:log
+V 155
+XCF-941 Pick different setting names for line and phone dial plans.  THIS WILL remove all dial-plan line settings, but they didn't work right to begin with
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-09-19T22:58:39.727571Z
+K 7
+svn:log
+V 147
+XCF-602 - Apply patch from Hannu to create binary files for grandstream phones.  Note: not able to test on actual device due to lack of availablity
+END

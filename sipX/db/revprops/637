@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-07-29T12:25:59.171413Z
+K 7
+svn:log
+V 50
+Generate version.h based on project version number
+END

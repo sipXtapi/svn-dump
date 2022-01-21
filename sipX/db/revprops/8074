@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2006-11-22T15:51:22.378416Z
+K 7
+svn:log
+V 150
+Memory corruption bug in sipXportLib fixed
+
+Reported and fixed by ipse (Alexander Chemeris).
+
+Merged from branch/sipXtapi-media-update r8043
+
+--Woof!
+
+END

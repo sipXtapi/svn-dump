@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-10-26T13:43:21.387973Z
+K 7
+svn:log
+V 119
+XPB-822 - Make cdr depend on commserverlib so required uninstall script sipx-utils.sh from commserverlib is still there
+END

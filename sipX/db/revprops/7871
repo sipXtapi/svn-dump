@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-10-30T15:12:13.823350Z
+K 7
+svn:log
+V 129
+Solved error "unresolved external symbol _speex_nb_mode": speex_lib_get_mode() function used instead of external const variable.
+
+END

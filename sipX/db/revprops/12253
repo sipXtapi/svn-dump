@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2014-12-03T06:41:22.931461Z
+K 7
+svn:log
+V 70
+Fixed some wave header bugs and encoding for GSM wave file recordings
+
+END

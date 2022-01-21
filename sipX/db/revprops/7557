@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+szuk
+K 8
+svn:date
+V 27
+2006-09-24T06:58:44.054115Z
+K 7
+svn:log
+V 252
+Added some virtual domain support to proxy and authproxy.
+- authproxy and proxy load all virtual domains from IMDB and add them as host aliases
+- modified authproxy to send different realms when challanging for proxy authorization depending on domain
+
+
+END

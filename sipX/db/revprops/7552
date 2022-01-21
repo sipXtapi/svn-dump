@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-09-23T01:46:49.871659Z
+K 7
+svn:log
+V 112
+Merge Scott L. changes to supress output during RPM install and to initialize database in sipxpbx startup script
+END

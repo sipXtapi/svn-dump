@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-12T17:36:38.445825Z
+K 7
+svn:log
+V 97
+sipXmediaLib: Let SS algorithm know about maximum number of active speakers we're interested in.
+
+END

@@ -1,0 +1,35 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2021-04-20T17:39:18.873864Z
+K 7
+svn:log
+V 1769
+-reduced solution configurations to just Release and Debug - list got polluted over time, thanks to visual 
+ studio adding solution configurations whenever you add a new project to the solution
+-organized solution with solution directories
+-added x64 project configurations for all projects
+-made all projects use the same two settings for OutDir and IntDir - this avoids collisions when compiling with different configurations
+  <OutDir>$(SolutionDir)$(Platform)\$(Configuration)\</OutDir>
+  <IntDir>$(Platform)\$(Configuration)\</IntDir>
+  -this also simplifies the need to copy around dll files, since binaries end up in the same directory
+-removed -msvc16 from the target names of the projects to allow use of the following outputfile setting for all projects 
+  <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+-PCRE library inclusion improvements
+  -added sipXportLib/contrib/pcre - which greatly simplifies the windows build, since you don't need to manually go get pcre 
+  -removed include of pcre.h from header file, so that all projects do NOT need an include path the pcre header files, 
+   only sipXportLib and mstream need it now
+  -pcre is now statically linked to sipXportLib, removing the need to have pcreX.dll in your in directory, removed post build steps  
+   that were copying this file
+-added VS2019 project files for l16 and opus codecs 
+-modified the opus projects to be statically linked instead of dlls' to avoid need to copy around dll's 
+-use DLL versions of C-runtime for all projects
+-fixed build issue with missing forward declaration in MpodWinMM
+-removed linker settings from PlgGsm.c - use project dependencies to handle automatically instead
+-mstream.cpp now includes pcre.h, since it no longer comes along with UtlRegex.h
+
+END

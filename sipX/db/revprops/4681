@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-09-20T18:05:48.273425Z
+K 7
+svn:log
+V 117
+Fixed that Douglas/build machine noticed -- I had mismatched
+parameters in two functions (const char* vs char *).  
+
+
+END

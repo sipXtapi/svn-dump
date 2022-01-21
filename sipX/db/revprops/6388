@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-03-17T15:47:20.299994Z
+K 7
+svn:log
+V 80
+Add documentation for new Call Transfer event, extend documention of CSE logging
+END

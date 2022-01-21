@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-01-22T02:18:06.372294Z
+K 7
+svn:log
+V 96
+ipXtack port to Android.  Mostly a bunch of dynamic casts, a few ifdefs and resparse specifics.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-04-04T03:09:31.158485Z
+K 7
+svn:log
+V 62
+Fixed build script to get sipXtapi unit test result summary.
+
+
+END

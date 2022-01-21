@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-30T19:09:17.813630Z
+K 7
+svn:log
+V 477
+Merged revisions 8150-8151 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8150 | bob | 2006-11-29 20:10:19 +0300 | 3 lines
+  
+  Removed all of PTAPI and most of TAO from the windows build -- save a little in file size, but mostly helps build time.
+........
+  r8151 | bob | 2006-11-29 21:14:55 +0300 | 4 lines
+  
+  Removed PTAPI (included Phoneset) from linux build and most of TAO.
+  Fixed a compiler error under linux/gcc 3.3.6
+........
+
+END

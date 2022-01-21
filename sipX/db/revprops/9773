@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-06-29T21:11:37.920460Z
+K 7
+svn:log
+V 165
+Rename windows input device driver filename to fall in line with proper device driver wrapper naming.  This makes the filenames match the already changed class name.
+END

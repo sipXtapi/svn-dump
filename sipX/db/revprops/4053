@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-06-16T21:25:56.466224Z
+K 7
+svn:log
+V 65
+XCF-326  moved taglibs-xtags.tld to profilegenerator.war/WEB-INF
+
+END

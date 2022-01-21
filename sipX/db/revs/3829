@@ -1,0 +1,1567 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 55k.0.r3829/79
+type: file
+pred: 55k.0.r3790/1428
+count: 1
+text: 3790 0 1002 3430 139da7bdd5bbec296f8f811c52d0193f
+props: 3829 0 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXconfig/main/meta/eclipse.code-templates.xml
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 510.0.r3829/406
+type: file
+pred: 510.0.r3555/763
+count: 1
+text: 3555 0 280 349 a2bc1c6f38a670748f98b64bd621bf7c
+props: 3829 324 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/meta/hibernate.properties
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 22
+file 4ed.0.r3393/17177
+K 16
+ant-gentoo.patch
+V 22
+file 4gu.0.r3393/18478
+K 30
+checkstyle-noframes-sorted.xsl
+V 22
+file 4ee.0.r3393/18801
+K 19
+checkstyle-text.xsl
+V 22
+file 4gr.0.r3393/17497
+K 14
+checkstyle.xml
+V 22
+file 4ef.0.r3393/19514
+K 26
+eclipse.code-formatter.xml
+V 20
+file 4eb.0.r3485/174
+K 26
+eclipse.code-templates.xml
+V 19
+file 55k.0.r3829/79
+K 24
+eclipse.update-sites.xml
+V 21
+file 514.0.r3790/1600
+K 20
+hibernate.properties
+V 20
+file 510.0.r3829/406
+K 19
+jasper-compiler.jar
+V 22
+file 4he.mn.r3229/4005
+K 11
+java.header
+V 22
+file 4ge.0.r3393/17824
+K 27
+sipx-jboss4-configure.patch
+V 22
+file 4ir.0.r3742/49128
+K 39
+sipx-svn-incremental.configure-switches
+V 20
+file 4jn.0.r3550/933
+K 32
+sipx_main_fc2.configure-switches
+V 20
+file 4jo.0.r3550/432
+K 38
+sipx_main_fc2_bldno.configure-switches
+V 21
+file 51x.0.r3597/1241
+K 32
+sipx_main_fc3.configure-switches
+V 20
+file 4uw.0.r3550/686
+K 38
+sipx_main_fc3_bldno.configure-switches
+V 21
+file 51y.0.r3597/1560
+K 33
+sipx_main_rhe3.configure-switches
+V 20
+file 4jp.0.r3550/176
+K 39
+sipx_main_rhe3_bldno.configure-switches
+V 20
+file 51z.0.r3597/923
+K 10
+ssl.pkcs12
+V 21
+file 4nm.0.r3331/1865
+K 16
+tomcat_401.patch
+V 23
+file 4gq.md.r3393/19145
+END
+ENDREP
+id: 4ea.0.r3829/1872
+type: dir
+pred: 4ea.0.r3790/3080
+count: 25
+text: 3829 645 1214 1214 b86d1199913dda52a4ee29e3ceeb67c2
+cpath: /old/sipXconfig/main/meta
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 4xc.0.r3829/2121
+type: file
+pred: 4xc.0.r3469/568
+count: 1
+text: 3469 290 265 464 fff00a015f715bd16da24c507ed7633b
+props: 3829 2042 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXconfig/main/neoconf/.springBeansProject
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 55n.0.r3829/2448
+type: file
+pred: 55n.0.r3818/3581
+count: 2
+text: 3818 370 185 2488 ded1139bad739c34a282f49d04fbac31
+props: 3829 2366 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/neoconf/src/org/sipfoundry/sipxconfig/admin/callgroup/AbstractRing.java
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 55m.0.r3829/2821
+type: file
+pred: 55m.0.r3818/3818
+count: 2
+text: 3818 0 346 1834 98a96751cb3d9bd08af0d02667eafb04
+props: 3829 2739 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/neoconf/src/org/sipfoundry/sipxconfig/admin/callgroup/AbstractCallSequence.java
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 55o.0.r3829/3200
+type: file
+pred: 55o.0.r3825/6398
+count: 3
+text: 3825 0 296 1668 4beee968ac95103a0d50cdd93a846416
+props: 3829 3118 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/neoconf/src/org/sipfoundry/sipxconfig/admin/callgroup/CallGroup.java
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 55u.0.r3829/3565
+type: file
+pred: 55u.0.r3825/6630
+count: 2
+text: 3825 323 31 1550 ca596196f7abb98eaa6d392781098bb8
+props: 3829 3486 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXconfig/main/neoconf/src/org/sipfoundry/sipxconfig/admin/callgroup/callGroup.hbm.xml
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 55p.0.r3829/3937
+type: file
+pred: 55p.0.r3794/10815
+count: 1
+text: 3794 2454 503 843 3ce58b2d7ecc93010a14b3bf3275f730
+props: 3829 3855 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/neoconf/src/org/sipfoundry/sipxconfig/admin/callgroup/UserRing.java
+copyroot: 0 /
+
+PLAIN
+K 25
+AbstractCallSequence.java
+V 21
+file 55m.0.r3829/2821
+K 17
+AbstractRing.java
+V 21
+file 55n.0.r3829/2448
+K 14
+CallGroup.java
+V 21
+file 55o.0.r3829/3200
+K 21
+CallGroupContext.java
+V 22
+file 55s.0.r3801/26658
+K 25
+CallGroupContextImpl.java
+V 22
+file 55t.0.r3801/26356
+K 13
+UserRing.java
+V 21
+file 55p.0.r3829/3937
+K 17
+callGroup.hbm.xml
+V 21
+file 55u.0.r3829/3565
+END
+ENDREP
+id: 55l.0.r3829/4607
+type: dir
+pred: 55l.0.r3825/7249
+count: 6
+text: 3829 4225 369 369 a3f069dbff6829262bd27c6e609186d0
+cpath: /old/sipXconfig/main/neoconf/src/org/sipfoundry/sipxconfig/admin/callgroup
+copyroot: 0 /
+
+PLAIN
+K 18
+BackupContext.java
+V 24
+file 53j.t8.r3742/147905
+K 22
+BackupContextImpl.java
+V 24
+file 53k.t9.r3742/148367
+K 9
+callgroup
+V 20
+dir 55l.0.r3829/4607
+K 8
+dialplan
+V 21
+dir 4kp.0.r3827/11826
+K 10
+forwarding
+V 20
+dir 4zd.0.r3794/9948
+END
+ENDREP
+id: 4ko.0.r3829/5075
+type: dir
+pred: 4ko.0.r3827/12298
+count: 95
+text: 3829 4824 238 238 c84f99d61c8f30be2d2f4a4e91ce21d5
+cpath: /old/sipXconfig/main/neoconf/src/org/sipfoundry/sipxconfig/admin
+copyroot: 0 /
+
+PLAIN
+K 5
+admin
+V 20
+dir 4ko.0.r3829/5075
+K 33
+applicationContext-sipxconfig.xml
+V 22
+file 4iv.0.r3827/12508
+K 6
+common
+V 21
+dir 4zl.0.r3812/21567
+K 6
+legacy
+V 21
+dir 52j.0.r3767/44502
+K 5
+phone
+V 21
+dir 4iw.0.r3795/20033
+K 18
+rmi-sipxconfig.xml
+V 23
+file 521.0.r3742/158494
+K 7
+setting
+V 20
+dir 4qd.0.r3806/9178
+K 18
+sipxconfig.hbm.xml
+V 22
+file 4je.0.r3767/49573
+END
+ENDREP
+id: 4ey.0.r3829/5660
+type: dir
+pred: 4ey.0.r3827/13183
+count: 209
+text: 3829 5284 363 363 f1e0934270368f5b9f853fbd75480f13
+cpath: /old/sipXconfig/main/neoconf/src/org/sipfoundry/sipxconfig
+copyroot: 0 /
+
+PLAIN
+K 10
+sipxconfig
+V 20
+dir 4ey.0.r3829/5660
+END
+ENDREP
+id: 4ex.0.r3829/5923
+type: dir
+pred: 4ex.0.r3827/13448
+count: 209
+text: 3829 5864 46 46 e76376de88f2b16d61a573ba8b7d4611
+cpath: /old/sipXconfig/main/neoconf/src/org/sipfoundry
+copyroot: 0 /
+
+PLAIN
+K 10
+sipfoundry
+V 20
+dir 4ex.0.r3829/5923
+END
+ENDREP
+id: 4ew.0.r3829/6173
+type: dir
+pred: 4ew.0.r3827/13700
+count: 209
+text: 3829 6114 46 46 9a52bd60096c08495bec378a165132a3
+cpath: /old/sipXconfig/main/neoconf/src/org
+copyroot: 0 /
+
+PLAIN
+K 3
+org
+V 20
+dir 4ew.0.r3829/6173
+END
+ENDREP
+id: 4ev.0.r3829/6404
+type: dir
+pred: 4ev.0.r3827/13933
+count: 209
+text: 3829 6353 38 38 3ff0925199091afc7b598fd924272be8
+cpath: /old/sipXconfig/main/neoconf/src
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 22
+file 4ep.0.r3767/42998
+K 8
+.project
+V 20
+file 4eq.0.r3469/735
+K 19
+.springBeansProject
+V 21
+file 4xc.0.r3829/2121
+K 11
+Makefile.am
+V 23
+file 4er.0.r3393/880810
+K 9
+build.xml
+V 22
+file 4es.0.r3805/44845
+K 3
+etc
+V 21
+dir 4pz.0.r3827/14618
+K 3
+src
+V 20
+dir 4ev.0.r3829/6404
+K 4
+test
+V 20
+dir 4g2.0.r3828/3408
+END
+ENDREP
+id: 4eo.0.r3829/6924
+type: dir
+pred: 4eo.0.r3828/3928
+count: 245
+text: 3829 6580 331 331 43e7615f462a702de0ebfbfdc8677d35
+props: 3759 674 101 0 239e03791e25e0db51af6367844e70e8
+cpath: /old/sipXconfig/main/neoconf
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 9
+text/html
+END
+ENDREP
+id: 55a.0.r3829/7232
+type: file
+pred: 55a.0.r3779/4548
+count: 1
+text: 3779 1695 1949 6488 d3410fb43c476a02cc6c92a17b53cd9d
+props: 3829 7152 67 0 0c06cf5f4ba661b255b0e5ba6bcaaa80
+cpath: /old/sipXconfig/main/doc/src/neoconf-prototype/admin/edit-call-group.html
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 9
+text/html
+END
+ENDREP
+id: 559.0.r3829/7586
+type: file
+pred: 559.0.r3779/4358
+count: 1
+text: 3779 772 910 1992 1cab8c44e37883f98be3ae5e13d51e5c
+props: 3829 7506 67 0 0c06cf5f4ba661b255b0e5ba6bcaaa80
+cpath: /old/sipXconfig/main/doc/src/neoconf-prototype/admin/call-groups.html
+copyroot: 0 /
+
+PLAIN
+K 24
+activate-callgroups.html
+V 21
+file 558.0.r3779/4824
+K 23
+activate-dialplans.html
+V 22
+file 4pb.0.r3515/18253
+K 22
+add-dialplan-rule.html
+V 22
+file 4pc.0.r3515/15529
+K 20
+auto-attendants.html
+V 21
+file 554.0.r3779/5074
+K 20
+call-forwarding.html
+V 23
+file 4ye.q4.r3770/28864
+K 16
+call-groups.html
+V 21
+file 559.0.r3829/7586
+K 14
+dialplans.html
+V 23
+file 4n3.nd.r3515/18874
+K 20
+e911-forwarding.html
+V 22
+file 4yf.0.r3770/28155
+K 19
+edit-attendant.html
+V 22
+file 555.0.r3805/12345
+K 20
+edit-call-group.html
+V 21
+file 55a.0.r3829/7232
+K 25
+edit-custom-dialplan.html
+V 22
+file 4pd.0.r3515/15032
+K 18
+edit-dialplan.html
+V 23
+file 4n4.ne.r3515/18526
+K 28
+edit-emergency-dialplan.html
+V 22
+file 4pe.0.r3515/16368
+K 17
+edit-gateway.html
+V 23
+file 4n5.nf.r3515/16651
+K 27
+edit-internal-dialplan.html
+V 21
+file 4r3.0.r3778/4969
+K 32
+edit-international-dialplan.html
+V 22
+file 4pf.0.r3515/14175
+K 24
+edit-local-dialplan.html
+V 22
+file 4pg.0.r3515/17335
+K 31
+edit-longdistance-dialplan.html
+V 22
+file 4ph.0.r3515/14746
+K 32
+edit-longdistance2-dialplan.html
+V 22
+file 4pi.0.r3515/17614
+K 29
+edit-restricted-dialplan.html
+V 22
+file 4pj.0.r3515/14462
+K 27
+edit-tollfree-dialplan.html
+V 22
+file 4pk.0.r3515/15804
+K 13
+gateways.html
+V 23
+file 4n6.ng.r3515/16997
+K 20
+select-gateways.html
+V 23
+file 4n7.nh.r3515/17900
+END
+ENDREP
+id: 4nw.0.r3829/9175
+type: dir
+pred: 4nw.0.r3805/13938
+count: 14
+text: 3829 7854 1308 1308 9bb8db385e2a164f8e08d2fe938f91ea
+cpath: /old/sipXconfig/main/doc/src/neoconf-prototype/admin
+copyroot: 0 /
+
+PLAIN
+K 5
+admin
+V 20
+dir 4nw.0.r3829/9175
+K 12
+folders.html
+V 21
+file 556.0.r3778/7498
+K 12
+functions.js
+V 22
+file 4i3.0.r3393/33996
+K 4
+line
+V 21
+dir 4nx.0.r3538/43977
+K 14
+navigation.xml
+V 21
+file 4hu.0.r3779/6864
+K 11
+neoconf.xsl
+V 22
+file 4hv.0.r3393/46205
+K 13
+page-flow.dia
+V 22
+file 4mq.0.r3376/41660
+K 13
+page-flow.png
+V 22
+file 4mr.0.r3376/41394
+K 5
+phone
+V 20
+dir 4o4.0.r3778/8637
+K 15
+proto-stub.html
+V 21
+file 557.0.r3778/4731
+K 14
+sipxconfig.css
+V 21
+file 4hw.0.r3822/2086
+K 4
+user
+V 20
+dir 4pm.0.r3778/9796
+K 19
+user-navigation.xml
+V 22
+file 4yg.0.r3770/31010
+K 11
+user-portal
+V 21
+dir 4yh.0.r3770/32909
+K 10
+users.html
+V 22
+file 4i7.0.r3393/34336
+K 9
+users.png
+V 22
+file 4i9.0.r3243/17464
+END
+ENDREP
+id: 4hr.0.r3829/10089
+type: dir
+pred: 4hr.0.r3822/3062
+count: 39
+text: 3829 9374 702 702 913e0331494c110cd59aa866828b5d39
+cpath: /old/sipXconfig/main/doc/src/neoconf-prototype
+copyroot: 0 /
+
+PLAIN
+K 6
+manual
+V 20
+dir 4c7.0.r3771/1418
+K 17
+neoconf-prototype
+V 21
+dir 4hr.0.r3829/10089
+K 20
+polycom-progress.txt
+V 21
+file 4xt.0.r3563/5154
+K 11
+xml-catalog
+V 20
+dir 4cs.0.r3427/9950
+END
+ENDREP
+id: 4c6.0.r3829/10480
+type: dir
+pred: 4c6.0.r3822/3452
+count: 80
+text: 3829 10280 187 187 0960071ce28f8008929c2e81573214ee
+cpath: /old/sipXconfig/main/doc/src
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 23
+file 4ds.if.r3393/31511
+K 11
+Makefile.am
+V 22
+file 4c4.0.r3393/57527
+K 9
+build.xml
+V 22
+file 4c5.0.r3679/49266
+K 7
+license
+V 22
+dir 2ji.0.r3554/855694
+K 3
+src
+V 21
+dir 4c6.0.r3829/10480
+END
+ENDREP
+id: 2jh.0.r3829/10875
+type: dir
+pred: 2jh.0.r3822/3845
+count: 106
+text: 3829 10654 208 208 2fb8e970c6ddf3f862e5238846244e56
+props: 3759 0 100 0 b3e133322d8b30c4b4e9cfb34092576c
+cpath: /old/sipXconfig/main/doc
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 55y.0.r3829/11181
+type: file
+pred: 55y.0.r3825/9785
+count: 2
+text: 3825 572 34 789 b31a26aebbe9bb1caef174607fae72c7
+props: 3829 11099 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/profilegenerator/ejb/meta/patches/v9_mods.sql
+copyroot: 0 /
+
+PLAIN
+K 11
+v8_mods.sql
+V 22
+file 4hd.0.r3612/28935
+K 13
+v8_mods_2.sql
+V 22
+file 504.0.r3770/38848
+K 11
+v9_mods.sql
+V 22
+file 55y.0.r3829/11181
+K 13
+v9_mods_2.sql
+V 21
+file 56d.0.r3826/5668
+K 18
+version-tables.sql
+V 22
+file 2ml.0.r3393/75446
+END
+ENDREP
+id: 2m0.0.r3829/11698
+type: dir
+pred: 2m0.0.r3826/6184
+count: 37
+text: 3829 11446 239 239 78f186ad156eca14b7f016ba55f7a2d0
+cpath: /old/sipXconfig/main/profilegenerator/ejb/meta/patches
+copyroot: 0 /
+
+PLAIN
+K 8
+META-INF
+V 19
+dir 2lw.0.r3774/915
+K 7
+patches
+V 21
+dir 2m0.0.r3829/11698
+K 11
+patches.xml
+V 21
+file 2mm.0.r3809/4159
+K 22
+pgs-strings.properties
+V 22
+file 2mn.0.r3393/79714
+END
+ENDREP
+id: 2lv.0.r3829/12092
+type: dir
+pred: 2lv.0.r3826/6576
+count: 49
+text: 3829 11898 181 181 4e89a9a11df3021b88b74b8469df160e
+cpath: /old/sipXconfig/main/profilegenerator/ejb/meta
+copyroot: 0 /
+
+PLAIN
+K 9
+build.xml
+V 22
+file 2lu.0.r3599/16737
+K 4
+meta
+V 21
+dir 2lv.0.r3829/12092
+K 3
+src
+V 20
+dir 2mo.0.r3809/9825
+END
+ENDREP
+id: 2lt.0.r3829/12413
+type: dir
+pred: 2lt.0.r3826/6895
+count: 80
+text: 3829 12284 116 116 1e21eeb26b053bbcf46c62150275f904
+props: 3055 2104 58 0 9bd913181988d6d5d50f744ca439a2c9
+cpath: /old/sipXconfig/main/profilegenerator/ejb
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 23
+file 4dt.ij.r3742/53573
+K 8
+.project
+V 24
+file 4du.ik.r3393/201010
+K 11
+Makefile.am
+V 23
+file 4bd.0.r3393/209687
+K 14
+authentication
+V 20
+dir 2kk.0.r3582/2580
+K 9
+build.xml
+V 23
+file 2kv.0.r3393/806918
+K 10
+commserver
+V 21
+dir 2kw.0.r3679/63304
+K 6
+deploy
+V 21
+dir 2lh.0.r3767/22899
+K 3
+ejb
+V 21
+dir 2lt.0.r3829/12413
+K 4
+meta
+V 20
+dir 2sa.0.r3628/3504
+K 4
+soap
+V 22
+dir 2sv.0.r3393/200685
+K 5
+webui
+V 20
+dir 2to.0.r3802/4163
+END
+ENDREP
+id: 2kj.0.r3829/13119
+type: dir
+pred: 2kj.0.r3826/7599
+count: 130
+text: 3829 12655 451 451 15d3ee53edb574378a2d34aa3215dc56
+props: 3150 117388 59 0 cf767147ee0d0b2bf8fb1622b541bbec
+cpath: /old/sipXconfig/main/profilegenerator
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 9
+text/html
+END
+ENDREP
+id: 564.u5.r3829/13440
+type: file
+pred: 564.u5.r3825/14442
+count: 4
+text: 3825 633 116 6726 7d79f4b6d8ffc742b23e6ea56dc23f12
+props: 3829 13360 67 0 0c06cf5f4ba661b255b0e5ba6bcaaa80
+cpath: /old/sipXconfig/main/web/context/WEB-INF/admin/EditCallGroup.html
+copyroot: 3742 /old/sipXconfig/main/web/context/WEB-INF/admin
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 565.u5.r3829/13836
+type: file
+pred: 565.u5.r3825/15020
+count: 4
+text: 3825 773 302 3907 1baa6cf32db4b490f0ea869f5b58af1c
+props: 3829 13757 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXconfig/main/web/context/WEB-INF/admin/EditCallGroup.page
+copyroot: 3742 /old/sipXconfig/main/web/context/WEB-INF/admin
+
+PLAIN
+K 16
+AddUserRing.html
+V 23
+file 56j.u5.r3812/11305
+K 16
+AddUserRing.page
+V 21
+file 56k.u5.r3823/831
+K 15
+BackupPage.html
+V 24
+file 53n.u6.r3742/103770
+K 15
+BackupPage.page
+V 24
+file 53o.u7.r3742/104190
+K 18
+EditCallGroup.html
+V 23
+file 564.u5.r3829/13440
+K 18
+EditCallGroup.page
+V 23
+file 565.u5.r3829/13836
+K 19
+ListCallGroups.html
+V 23
+file 55z.u5.r3801/16553
+K 19
+ListCallGroups.page
+V 23
+file 560.u5.r3825/14702
+K 18
+UserRingTable.html
+V 22
+file 56l.u5.r3817/5266
+K 17
+UserRingTable.jwc
+V 22
+file 56m.u5.r3817/4746
+END
+ENDREP
+id: 53m.u5.r3829/14689
+type: dir
+pred: 53m.u5.r3825/15816
+count: 9
+text: 3829 14153 523 523 fd3d5e09bae5fc052321cc529807da70
+cpath: /old/sipXconfig/main/web/context/WEB-INF/admin
+copyroot: 3742 /old/sipXconfig/main/web/context/WEB-INF/admin
+
+PLAIN
+K 9
+Home.html
+V 22
+file 4le.0.r3767/31979
+K 9
+Home.page
+V 22
+file 4lf.0.r3767/32231
+K 13
+TestPage.html
+V 23
+file 54m.up.r3820/17209
+K 13
+TestPage.page
+V 23
+file 54n.uq.r3801/15446
+K 5
+admin
+V 22
+dir 53m.u5.r3829/14689
+K 6
+common
+V 22
+dir 4t5.0.r3742/103494
+K 8
+dialplan
+V 21
+dir 4t8.0.r3827/18252
+K 13
+jboss-web.xml
+V 24
+file 545.u8.r3742/106488
+K 14
+jmsContext.xml
+V 23
+file 520.qn.r3612/42860
+K 4
+line
+V 21
+dir 4pr.0.r3770/66350
+K 5
+phone
+V 20
+dir 4ps.0.r3823/3157
+K 7
+setting
+V 20
+dir 4y1.0.r3795/6939
+K 26
+sipXconfig-web.application
+V 22
+file 4li.0.r3820/21260
+K 4
+user
+V 20
+dir 4pt.0.r3823/4106
+K 11
+user_portal
+V 20
+dir 4zo.0.r3817/7074
+K 7
+web.xml
+V 23
+file 4lj.0.r3742/107068
+END
+ENDREP
+id: 4lb.0.r3829/15632
+type: dir
+pred: 4lb.0.r3827/19151
+count: 163
+text: 3829 14931 688 688 ece3fb36f62380bc188ee5f9403837ac
+props: 3290 9836 33 0 0b9ffe9c2207abc6de606bca15e0b43a
+cpath: /old/sipXconfig/main/web/context/WEB-INF
+copyroot: 0 /
+
+PLAIN
+K 7
+WEB-INF
+V 21
+dir 4lb.0.r3829/15632
+K 3
+css
+V 20
+dir 4mh.0.r3822/4386
+K 7
+include
+V 23
+dir 4m3.n8.r3393/819181
+K 10
+login.html
+V 24
+file 546.u9.r3742/109576
+K 16
+login_error.html
+V 23
+file 547.ua.r3742/97338
+END
+ENDREP
+id: 4la.0.r3829/16103
+type: dir
+pred: 4la.0.r3827/19622
+count: 167
+text: 3829 15875 215 215 da453712d80875210e53b3b72306ba7a
+cpath: /old/sipXconfig/main/web/context
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 566.uc.r3829/16365
+type: file
+pred: 566.uc.r3825/17409
+count: 4
+text: 3825 1960 226 4678 2260e05090816ca66dfaf99c48a6bced
+props: 3829 16283 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/web/src/org/sipfoundry/sipxconfig/site/admin/EditCallGroup.java
+copyroot: 3742 /old/sipXconfig/main/web/src/org/sipfoundry/sipxconfig/site/admin
+
+PLAIN
+K 16
+AddUserRing.java
+V 22
+file 56o.uc.r3817/9415
+K 15
+BackupPage.java
+V 24
+file 53q.ud.r3742/112609
+K 18
+EditCallGroup.java
+V 23
+file 566.uc.r3829/16365
+K 19
+ListCallGroups.java
+V 22
+file 561.uc.r3817/9711
+K 18
+UserRingTable.java
+V 22
+file 56p.uc.r3817/9117
+END
+ENDREP
+id: 53p.uc.r3829/16997
+type: dir
+pred: 53p.uc.r3825/17985
+count: 8
+text: 3829 16721 263 263 99f540919ce4fe38dd9763985f6eeb9b
+cpath: /old/sipXconfig/main/web/src/org/sipfoundry/sipxconfig/site/admin
+copyroot: 3742 /old/sipXconfig/main/web/src/org/sipfoundry/sipxconfig/site/admin
+
+PLAIN
+K 23
+BeanFactoryGlobals.java
+V 20
+file 4zb.0.r3798/436
+K 21
+SipxconfigEngine.java
+V 20
+file 4lv.0.r3798/156
+K 13
+TestPage.java
+V 23
+file 54o.us.r3801/19883
+K 5
+admin
+V 22
+dir 53p.uc.r3829/16997
+K 8
+dialplan
+V 21
+dir 4te.0.r3827/20882
+K 4
+line
+V 22
+dir 4pu.0.r3742/112314
+K 5
+phone
+V 21
+dir 4pv.0.r3748/15543
+K 7
+setting
+V 20
+dir 4yu.0.r3795/8840
+K 12
+tapestry.xml
+V 22
+file 4za.0.r3817/10922
+K 4
+user
+V 21
+dir 4pw.0.r3766/10492
+K 11
+user_portal
+V 20
+dir 4zt.0.r3780/4676
+END
+ENDREP
+id: 4lr.0.r3829/17765
+type: dir
+pred: 4lr.0.r3827/21585
+count: 158
+text: 3829 17277 475 475 30616c53e62857af7a1820021f2ee7ef
+cpath: /old/sipXconfig/main/web/src/org/sipfoundry/sipxconfig/site
+copyroot: 0 /
+
+PLAIN
+K 10
+components
+V 21
+dir 4nk.0.r3824/18489
+K 7
+setting
+V 21
+dir 4y4.0.r3501/26276
+K 4
+site
+V 21
+dir 4lr.0.r3829/17765
+END
+ENDREP
+id: 4lq.0.r3829/18107
+type: dir
+pred: 4lq.0.r3827/21927
+count: 161
+text: 3829 17972 122 122 2b5063d981b91385730673fb831e0e6d
+cpath: /old/sipXconfig/main/web/src/org/sipfoundry/sipxconfig
+copyroot: 0 /
+
+PLAIN
+K 10
+sipxconfig
+V 21
+dir 4lq.0.r3829/18107
+END
+ENDREP
+id: 4lp.0.r3829/18369
+type: dir
+pred: 4lp.0.r3827/22189
+count: 161
+text: 3829 18309 47 47 e82fbebdaec4920185e4ffe16c926a4c
+cpath: /old/sipXconfig/main/web/src/org/sipfoundry
+copyroot: 0 /
+
+PLAIN
+K 10
+sipfoundry
+V 21
+dir 4lp.0.r3829/18369
+END
+ENDREP
+id: 4lo.0.r3829/18618
+type: dir
+pred: 4lo.0.r3827/22438
+count: 161
+text: 3829 18558 47 47 d6da46a6ddbf6eed0d7e10be6eed514d
+cpath: /old/sipXconfig/main/web/src/org
+copyroot: 0 /
+
+PLAIN
+K 3
+org
+V 21
+dir 4lo.0.r3829/18618
+END
+ENDREP
+id: 4ln.0.r3829/18848
+type: dir
+pred: 4ln.0.r3827/22668
+count: 161
+text: 3829 18796 39 39 2213451a5f85574fc0a376db82e7e2e2
+cpath: /old/sipXconfig/main/web/src
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 22
+file 4l6.0.r3784/30824
+K 8
+.project
+V 20
+file 4l7.0.r3815/769
+K 19
+.springBeansProject
+V 20
+file 56r.0.r3815/552
+K 15
+.tapestryplugin
+V 23
+file 4l8.0.r3393/848791
+K 11
+Makefile.am
+V 23
+file 4mx.0.r3393/849117
+K 9
+build.xml
+V 20
+file 4l9.0.r3810/423
+K 7
+context
+V 21
+dir 4la.0.r3829/16103
+K 3
+etc
+V 20
+dir 4lk.0.r3601/3111
+K 3
+src
+V 21
+dir 4ln.0.r3829/18848
+K 4
+test
+V 21
+dir 4lw.0.r3825/14267
+END
+ENDREP
+id: 4l5.0.r3829/19453
+type: dir
+pred: 4l5.0.r3827/23273
+count: 221
+text: 3829 19022 418 418 2cc24fb9a2414438f88d240ee052d007
+props: 3759 335 101 0 239e03791e25e0db51af6367844e70e8
+cpath: /old/sipXconfig/main/web
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 2hg.0.r3393/21790
+K 9
+ChangeLog
+V 20
+file 2hh.0.r3490/576
+K 7
+INSTALL
+V 20
+file 2hi.0.r3772/466
+K 7
+LICENSE
+V 23
+file 2hj.0.r3393/851332
+K 11
+Makefile.am
+V 21
+file 2hk.0.r3826/7944
+K 4
+NEWS
+V 23
+file 2hl.0.r3393/808567
+K 6
+README
+V 21
+file 2hm.0.r3573/5968
+K 4
+TODO
+V 21
+file 2hn.0.r3573/6199
+K 9
+acsite.m4
+V 22
+file 2ho.0.r3393/21475
+K 14
+ant-targets.am
+V 23
+file 2hp.0.r3742/119328
+K 15
+ant-targets.xml
+V 20
+file 2hq.0.r3788/170
+K 3
+bin
+V 19
+dir 4bz.0.r3641/393
+K 9
+build.xml
+V 22
+file 4h8.0.r3393/22103
+K 6
+common
+V 21
+dir 2hs.0.r3821/11005
+K 20
+config.properties.in
+V 22
+file 2jf.0.r3784/27107
+K 12
+configure.ac
+V 19
+file 2jg.0.r3722/68
+K 3
+doc
+V 21
+dir 2jh.0.r3829/10875
+K 3
+etc
+V 22
+dir 4b7.0.r3393/927179
+K 3
+lib
+V 21
+dir 2jy.0.r3770/38592
+K 4
+meta
+V 20
+dir 4ea.0.r3829/1872
+K 7
+neoconf
+V 20
+dir 4eo.0.r3829/6924
+K 16
+profilegenerator
+V 21
+dir 2kj.0.r3829/13119
+K 23
+profilepub_sipagent.dsp
+V 22
+file 4b5.0.r3393/16177
+K 16
+profilepublisher
+V 22
+dir 485.0.r3679/157805
+K 13
+profilewriter
+V 22
+dir 4a9.0.r3679/154644
+K 12
+sipagent-jni
+V 21
+dir 48h.h9.r3826/5317
+K 26
+sipx-jboss-configure.patch
+V 23
+file 4bi.0.r3393/927483
+K 18
+sipxconfig.spec.in
+V 20
+file 4bh.0.r3650/477
+K 18
+subant-targets.xml
+V 21
+file 4h9.0.r3453/6142
+K 3
+web
+V 21
+dir 4l5.0.r3829/19453
+END
+ENDREP
+id: 2hf.0.r3829/20990
+type: dir
+pred: 2hf.0.r3828/5465
+count: 586
+text: 3829 19680 1297 1297 28fd854a66c111b6b38bfb2bbc2ed3be
+props: 3821 12546 910 0 85f67a693a224716a45876ee614ffb18
+cpath: /old/sipXconfig/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 4c1.0.r3816/3265
+K 4
+main
+V 21
+dir 2hf.0.r3829/20990
+K 4
+tags
+V 20
+dir 4b6.0.r3793/2546
+END
+ENDREP
+id: 2he.0.r3829/21343
+type: dir
+pred: 2he.0.r3828/5816
+count: 804
+text: 3829 21216 114 114 49fe0bdde25c91494290883f83b7d1dc
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r3829/21343
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3829/21950
+type: dir
+pred: 1.0.r3828/6421
+count: 3827
+text: 3829 21505 432 432 bb89207d145f6d8a76bf59f4607c270d
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 19
+dir 1.0.r3829/21950
+END
+ENDREP
+id: 0.0.r3829/22148
+type: dir
+pred: 0.0.r3828/6617
+count: 3829
+text: 3829 22098 37 37 4434793900885931ae92a3697f9cea7b
+cpath: /
+copyroot: 0 /
+
+4xc.0.t3828-1 modify false true /old/sipXconfig/main/neoconf/.springBeansProject
+
+55m.0.t3828-1 modify false true /old/sipXconfig/main/neoconf/src/org/sipfoundry/sipxconfig/admin/callgroup/AbstractCallSequence.java
+
+55o.0.t3828-1 modify false true /old/sipXconfig/main/neoconf/src/org/sipfoundry/sipxconfig/admin/callgroup/CallGroup.java
+
+559.0.t3828-1 modify false true /old/sipXconfig/main/doc/src/neoconf-prototype/admin/call-groups.html
+
+55a.0.t3828-1 modify false true /old/sipXconfig/main/doc/src/neoconf-prototype/admin/edit-call-group.html
+
+565.u5.t3828-1 modify false true /old/sipXconfig/main/web/context/WEB-INF/admin/EditCallGroup.page
+
+55u.0.t3828-1 modify false true /old/sipXconfig/main/neoconf/src/org/sipfoundry/sipxconfig/admin/callgroup/callGroup.hbm.xml
+
+55k.0.t3828-1 modify false true /old/sipXconfig/main/meta/eclipse.code-templates.xml
+
+55p.0.t3828-1 modify false true /old/sipXconfig/main/neoconf/src/org/sipfoundry/sipxconfig/admin/callgroup/UserRing.java
+
+566.uc.t3828-1 modify false true /old/sipXconfig/main/web/src/org/sipfoundry/sipxconfig/site/admin/EditCallGroup.java
+
+564.u5.t3828-1 modify false true /old/sipXconfig/main/web/context/WEB-INF/admin/EditCallGroup.html
+
+510.0.t3828-1 modify false true /old/sipXconfig/main/meta/hibernate.properties
+
+55y.0.t3828-1 modify false true /old/sipXconfig/main/profilegenerator/ejb/meta/patches/v9_mods.sql
+
+55n.0.t3828-1 modify false true /old/sipXconfig/main/neoconf/src/org/sipfoundry/sipxconfig/admin/callgroup/AbstractRing.java
+
+
+22148 22291

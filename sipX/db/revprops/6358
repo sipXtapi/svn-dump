@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-03-15T18:51:31.480887Z
+K 7
+svn:log
+V 106
+Add failure_reason text to the CDR.
+Move foreign key constraints into the table declarations for clarity.
+
+END

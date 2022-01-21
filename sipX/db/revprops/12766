@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2020-06-18T06:23:05.582741Z
+K 7
+svn:log
+V 62
+Added missing props files for opus project builds on MSVS2019
+
+END

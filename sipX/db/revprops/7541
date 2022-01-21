@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-22T16:52:27.546649Z
+K 7
+svn:log
+V 112
+XCF-1240 - test exposing the problem (commented out for now)
+need more info from registrar developers to fix it
+
+END

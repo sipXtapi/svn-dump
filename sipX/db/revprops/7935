@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-11-03T14:32:11.563585Z
+K 7
+svn:log
+V 587
+Merged revisions 7838-7934 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/3.6/sipXconfig
+
+........
+  r7904 | dkrzemin | 2006-10-31 16:43:24 -0500 (Tue, 31 Oct 2006) | 3 lines
+  
+  XCF-1356 "After hours" autoattendant which is installed by default by media server is nopw accessible from sipXconfig
+  XVX-170 When sipXconfig disables special autoattendant it leaves 'afterhour' name as default special autoattendant.
+........
+  r7934 | dkrzemin | 2006-11-03 08:26:41 -0500 (Fri, 03 Nov 2006) | 2 lines
+  
+  XCF-1355 fix description for daylightSavings.stop.date
+........
+
+END

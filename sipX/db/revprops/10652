@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2008-05-15T03:30:31.522660Z
+K 7
+svn:log
+V 83
+-modified FlowGraphBase::getType from pure virtual so that test programs will build
+END

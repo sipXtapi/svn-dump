@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-11-04T07:44:48.254449Z
+K 7
+svn:log
+V 72
+Add proper include paths and output path for VC6 plgtones codec plugin.
+
+END

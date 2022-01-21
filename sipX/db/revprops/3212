@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-11-26T04:57:01.895867Z
+K 7
+svn:log
+V 117
+ant conviences: run 'ant' from anywhere and separate tasks that call subant in ant-target.xml into subant-targets.xml
+END

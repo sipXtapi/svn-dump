@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-06-16T20:16:44.149131Z
+K 7
+svn:log
+V 54
+Updated Stun Message to better reflect rfc3489bis-03
+
+
+END

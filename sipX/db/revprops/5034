@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-13T19:20:50.661375Z
+K 7
+svn:log
+V 326
+Finish fixing XCF-357: Disallow gateways, auto attendants, and park orbits with duplicate names.  In this checkin, handle creating auto attendants with duplicate names gracefully.
+Also: rename DialPlanManager to DialPlanContextImpl for consistency with other context beans. Clean up a bunch of typos and confusion in UI text.
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-11-02T19:08:40.792471Z
+K 7
+svn:log
+V 191
+[XPB-413] limit the lifetime of Apache cgi processes
+  This seems to prevent the mediaserver.cgi from consuming all the
+  apache child processes.
+  http://track.sipfoundry.org/browse/XPB-413
+
+END

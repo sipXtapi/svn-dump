@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-02-13T18:53:05.068634Z
+K 7
+svn:log
+V 56
+XPB-882 Do not assume all *.in files end with a new line
+END

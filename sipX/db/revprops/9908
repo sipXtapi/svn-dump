@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-28T16:06:03.247047Z
+K 7
+svn:log
+V 136
+Change MpodWinMM::mpSilenceBuffer type from LPSTR to MpAudioSample*. This is more meaningful and remove all type casts required before.
+
+END

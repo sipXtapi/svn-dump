@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-10-03T04:38:35.466507Z
+K 7
+svn:log
+V 148
+Added a unit test for getting the Crypto field from
+the SDP body content.
+
+Fixed a bug in the accessor for getting the Crypto
+key in the SDP body.
+
+
+END

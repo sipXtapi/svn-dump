@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-12-23T19:56:53.753802Z
+K 7
+svn:log
+V 153
+Do not copy this change to 2.7!
+Lower the logging level of 'URI MAP' logging messages to INFO for
+release 2.6.
+http://track.sipfoundry.org/browse/XRR-26
+
+END

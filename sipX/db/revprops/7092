@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-07-17T22:01:29.908770Z
+K 7
+svn:log
+V 102
+For XCF-1114, draft schema changes. Not yet wired in, so does not yet represent a binding commitment.
+
+END

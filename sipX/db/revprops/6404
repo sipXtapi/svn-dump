@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-03-20T04:18:39.628701Z
+K 7
+svn:log
+V 107
+XCF-937 - Add groups and settings to autoattendant, move sipxvxml velocity template to meaningful directory
+END

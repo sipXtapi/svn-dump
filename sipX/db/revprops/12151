@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2013-09-10T19:29:07.309857Z
+K 7
+svn:log
+V 166
+Fixed Mpr{in,out}putDeviceManager and Mpr{FromIn,ToOut}putDevice to handle device changes after the initial device is set.
+Note: tested on Windows/Wave devices only.
+
+END

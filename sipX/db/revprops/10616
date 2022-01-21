@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-03-23T11:37:04.931946Z
+K 7
+svn:log
+V 53
+Use default PLC algorithm if other is not requested.
+
+END

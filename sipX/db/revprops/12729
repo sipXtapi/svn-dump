@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2019-10-05T01:12:04.212332Z
+K 7
+svn:log
+V 174
+Remove libogg/aclocal.m4 as it was generated on a plaform with newer autotools and 
+and was causing an artifical dependency on new versions of autotools than were necessary.
+
+END

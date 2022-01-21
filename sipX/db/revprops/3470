@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-02-01T23:17:30.890348Z
+K 7
+svn:log
+V 175
+Fixed problem with gateway edit pages returning to wrong pages.
+
+Added nextPage variable (backed up by hidden field) to retrieve the name of the page that launched Edit page.
+
+END

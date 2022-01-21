@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-29T17:03:20.264062Z
+K 7
+svn:log
+V 351
+Merged revisions 8627 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8627 | ipse | 2007-01-26 12:59:50 +0300 | 3 lines
+  
+  Fix Speex encoder behaviour in non sipXtapi-to-sipXtapi calls.
+  When creating Speex encoder it should not deduce bitrate from payload type. Internal type should be used instead.
+........
+
+END

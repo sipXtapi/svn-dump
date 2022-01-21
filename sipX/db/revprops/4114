@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-07-15T17:41:02.719968Z
+K 7
+svn:log
+V 402
+Bug fix for the media server cgi's:
+
+1) The SIPXCHANGE_HOME environment variable should be retrieved from 
+   the true environment (getenv) as opposed to the CgiValues wrapper.
+2) The mediaserver cgi dumped core on execution because it was
+   attempting to reference the CgiValue (gValues) before that
+   data structure was initialized (while setting up log).  This was
+   actually fixed by #1 above.
+
+
+END

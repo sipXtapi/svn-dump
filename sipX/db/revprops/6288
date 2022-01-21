@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-03-03T22:38:08.846483Z
+K 7
+svn:log
+V 199
+XCF-933 use read-only session (FLUSH_NEVER) when replicating (SipxReplicationManagerImpl)
+- since replication is now more efficient we may be able to work around problems in Sun JVM under heavy load
+
+END

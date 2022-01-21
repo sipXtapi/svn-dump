@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-03-16T20:10:49.585315Z
+K 7
+svn:log
+V 374
+Merged revisions 162 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXproxy/branches/2.8
+    ------------------------------------------------------------------------
+    r162 | xmlscott | 2005-03-16 13:09:05 -0500 (Wed, 16 Mar 2005) | 1 line
+    Changed paths:
+       M /branches/2.8/bin/sipproxy.sh.in
+    
+    [XPR-54] Detect mismatch between host name and sip domain
+
+END

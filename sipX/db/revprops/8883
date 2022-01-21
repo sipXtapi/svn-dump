@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-02-22T22:37:33.548617Z
+K 7
+svn:log
+V 111
+XCF-1453 Mark date field as required.
+Move DateField component to site.common, remove .jwc file for component.
+
+END

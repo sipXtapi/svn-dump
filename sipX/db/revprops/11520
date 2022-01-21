@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-01-22T02:24:00.927949Z
+K 7
+svn:log
+V 73
+sipXtack Makefile for Android which builds all source and the unit test.
+
+END

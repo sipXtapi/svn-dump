@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-10T13:28:25.213915Z
+K 7
+svn:log
+V 108
+ MpInputOutputFrameworkTest: Add several devices to output device manager, so they may be used at one time.
+
+END

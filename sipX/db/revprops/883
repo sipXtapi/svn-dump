@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-01T18:57:33.512943Z
+K 7
+svn:log
+V 309
+Revise subscribe-dialog-test to make output file names unique (so logs never
+write over older logs).
+Add TAG feature so logs can be labeled in a comprehensible way.
+Make names of temporary files start with "temp.".
+Add subscribe-dialog-test to the bin_SCRIPTS list so it will be put in the
+tarballs and RPMs.
+
+END

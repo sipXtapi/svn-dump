@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-09T13:38:49.425322Z
+K 7
+svn:log
+V 328
+Bridge mixer update:
+1) testDisabled updated to current bridge behaviour - it does not produce buffers at all when disabled.
+2) Simplify manual editing of mix matrix in testMixNormalWeights. Make it more fun with matrix, covering more mix cases.
+3) Modify testMixNormalWeights so it correctly test case with fully muted output.
+
+END

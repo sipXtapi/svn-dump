@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-06-29T20:55:24.277617Z
+K 7
+svn:log
+V 186
+XMR-99 - Full call record feature.
+
+This is the full call record feature from the latest XMR-99 patch.
+The patch was slightly modified (ENUM value of ON_MORRECORDER_EN/DISABLED changed).
+END

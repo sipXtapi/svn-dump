@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-03T15:02:46.408330Z
+K 7
+svn:log
+V 99
+Fix copy-paste error in MprBridge::setMixWeightsForInput(). It used to send message of wrong type.
+
+END

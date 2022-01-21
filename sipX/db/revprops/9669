@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-07T12:49:22.511086Z
+K 7
+svn:log
+V 147
+Bugfix: dmaTaskPosix hangs if started second time due to use of deinitialized mutex/cond.
+This caused hang on recent sipXmediaAdapterLib unittest.
+
+END

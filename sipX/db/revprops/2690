@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-03-10T21:12:41.091517Z
+K 7
+svn:log
+V 96
+Fixed the MSVS dps so that it builds the SIP status server.
+The build version was not defined.
+
+
+END

@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-10-17T22:35:11.064046Z
+K 7
+svn:log
+V 279
+[XSL-110] fix problem with compact form of Via header
+  http://track.sipfoundry.org/browse/XSL-110
+
+  The fix is actually in the routine that replaced the short form
+  in the stored headers with the long form, but the symptom showed
+  up only when trying to remove the last via.
+
+END

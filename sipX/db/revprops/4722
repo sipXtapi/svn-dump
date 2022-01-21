@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2004-12-16T15:06:18.589853Z
+K 7
+svn:log
+V 81
+FIX for XPH-27:
+If IllegalArgumentException is caught,
+only log the getMessage()
+
+END

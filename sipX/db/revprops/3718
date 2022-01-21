@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-03-28T18:55:55.600111Z
+K 7
+svn:log
+V 132
+XCF-218 removed enabled checkbox for caller sensitive routing - one switches is on/off through emergency dialing rule configuration
+
+END

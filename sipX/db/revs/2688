@@ -1,0 +1,144 @@
+PLAIN
+K 13
+svn:externals
+V 70
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.8/config
+
+K 10
+svn:ignore
+V 156
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+sipxpublisher.spec
+
+K 17
+svnmerge-2.6-head
+V 57
+https://scm.sipfoundry.org/rep/sipXpublisher/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 19
+1-91,95,108,110,127
+K 17
+svnmerge-2.8-head
+V 57
+https://scm.sipfoundry.org/rep/sipXpublisher/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 5
+1-139
+K 18
+svnmerge-main-head
+V 49
+https://scm.sipfoundry.org/rep/sipXpublisher/main
+K 18
+svnmerge-main-revs
+V 5
+1-138
+END
+ENDREP
+id: 20n.0.r2688/657
+type: dir
+pred: 20n.0.r2686/3580
+count: 89
+text: 2686 2847 720 720 97603d784885580bca0458aa8865918f
+props: 2688 0 644 0 a0e69a770a49430f1834158b657de8a2
+cpath: /old/sipXpublisher/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 221.0.r2687/877
+K 4
+main
+V 19
+dir 20n.0.r2688/657
+K 4
+tags
+V 20
+dir 21v.0.r2676/3398
+END
+ENDREP
+id: 20m.0.r2688/1000
+type: dir
+pred: 20m.0.r2687/1169
+count: 140
+text: 2688 876 111 111 300385910d16df17b897233aaf4ffd21
+cpath: /old/sipXpublisher
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2688/1000
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2688/1525
+type: dir
+pred: 1.0.r2687/1695
+count: 2687
+text: 2688 1162 350 350 9fd2790e28e501e1214a571a3b905e9a
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2688/1525
+END
+ENDREP
+id: 0.0.r2688/1720
+type: dir
+pred: 0.0.r2687/1890
+count: 2688
+text: 2688 1671 36 36 48c293b1afc32c4ec803b8914fab6399
+cpath: /
+copyroot: 0 /
+
+20n.0.t2687-1 modify false true /old/sipXpublisher/main
+
+
+1720 1861

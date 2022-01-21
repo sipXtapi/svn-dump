@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-03-13T23:29:00.334678Z
+K 7
+svn:log
+V 395
+sipXphone WebUI:
+Removed PHONESET_DEPLOYMENT_SERVER, PHONESET_ADMIN_DOMAIN, and PHONESET_LOGICAL_ID params.
+Moved PHONESET_EXTERNAL_IP_ADDRESS, PHONESET_HTTP_PROXY_HOST and PHONESET_HTTP_PROXY_PORT under the Network Settings.
+Removed Authenticate incoming calls section.
+Removed parameters are available in the Additional Settings section.
+Changed description for PHONESET_EXTERNAL_IP_ADDRESS.
+
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-11-04T22:30:35.620694Z
+K 7
+svn:log
+V 285
+More work on XCF-598, alias/extension uniqueness.
+Rework all the code that looks up objects by alias so that it returns object IDs rather than actual objects, to avoid nasty Hibernate problems where the same persistent database object gets loaded into multiple in-memory beans.  Whew!
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-05-31T21:11:24.265492Z
+K 7
+svn:log
+V 157
+Explicitly remove the input device from the input device manager, as this will cause an assertion failure when the manager is destroyed if it is not removed.
+END

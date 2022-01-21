@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-08T21:26:20.333981Z
+K 7
+svn:log
+V 216
+Change the set of test frequencies in MpWBInputOutputDeviceTest to better fit its purpose - test bounds of possible frequencies under given sampling rate.
+Also fix compiler warning about conversion of size_t to int.
+
+END

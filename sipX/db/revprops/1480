@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-01-17T19:28:50.738976Z
+K 7
+svn:log
+V 168
+fix for XPH-50.  This was not an erroneous error message.
+The TaoTerminalAdapter was not finding the pinger-config file.
+Added the directory name definition:  ..\meta\
+
+END

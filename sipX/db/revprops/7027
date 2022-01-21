@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-07-03T18:49:38.136424Z
+K 7
+svn:log
+V 98
+Add a cast to fix a compiler warning about a vararg argument, following a suggestion from Eclipse
+
+END

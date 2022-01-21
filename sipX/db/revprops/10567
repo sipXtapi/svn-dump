@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-31T13:16:50.451458Z
+K 7
+svn:log
+V 114
+More rearranging of MpCodecFactory methods. Un-friend all friend classes, as all required methods are public now.
+
+END

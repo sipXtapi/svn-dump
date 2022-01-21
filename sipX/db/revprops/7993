@@ -1,0 +1,28 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-15T13:42:39.695426Z
+K 7
+svn:log
+V 502
+Merged revisions 7990,7992 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7990 | bob | 2006-11-15 00:49:36 +0300 | 6 lines
+  
+  Merge sipXtack from main to sipXtapi branch (3 of N)
+  (Main branch 7799)
+  
+  This change includes a merge of all files (sipXtackLib tests pass along with sipXtapi test).  I need to fix mime-types and linux/macos build.
+........
+  r7992 | bob | 2006-11-15 01:26:03 +0300 | 2 lines
+  
+  Added missing UtlContainableAtomic.cpp
+........
+
+END

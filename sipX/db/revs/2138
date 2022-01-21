@@ -1,0 +1,101 @@
+id: 1vt.9u.r2138/0
+type: dir
+pred: 1vt.0.r2136/1308
+count: 35
+text: 2136 644 651 651 1d00928896f8be1752aec715de985604
+props: 2127 2330 240 0 c074b067f5accab778e10d7a0e2b211d
+cpath: /old/sipXproxy/branches/post-2.6.1
+copyfrom: 2137 /old/sipXproxy/main
+
+PLAIN
+K 10
+post-2.6.1
+V 18
+dir 1vt.9u.r2138/0
+END
+ENDREP
+id: 1x8.0.r2138/309
+type: dir
+pred: 1x8.0.r2137/0
+count: 1
+text: 2138 252 44 44 0eb29ad01df4bec2d4c498ec72157c97
+cpath: /old/sipXproxy/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 1x8.0.r2138/309
+K 4
+main
+V 20
+dir 1vt.0.r2136/1308
+K 4
+tags
+V 20
+dir 1x7.0.r2121/1515
+END
+ENDREP
+id: 1vs.0.r2138/593
+type: dir
+pred: 1vs.0.r2137/206
+count: 42
+text: 2138 468 112 112 58c84fa8a6d13d0bb467e7ed6436c614
+cpath: /old/sipXproxy
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 19
+dir 1vs.0.r2138/593
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2138/1021
+type: dir
+pred: 1.0.r2137/634
+count: 2137
+text: 2138 748 260 260 d80bb5016bf477949d52466741a26502
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2138/1021
+END
+ENDREP
+id: 0.0.r2138/1214
+type: dir
+pred: 0.0.r2137/826
+count: 2138
+text: 2138 1165 36 36 c2ba90289bf3b3181cf2b12f72f904df
+cpath: /
+copyroot: 0 /
+
+1vt._0.t2137-1 add false false /old/sipXproxy/branches/post-2.6.1
+2137 /old/sipXproxy/main
+
+1214 1354

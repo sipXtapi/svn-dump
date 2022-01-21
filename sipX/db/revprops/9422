@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-04-26T20:12:31.380160Z
+K 7
+svn:log
+V 136
+Minor improvements to SipPimClient - counter introduced to prevent infinite loop in SendPagerMessage and observer removal in destructor.
+END

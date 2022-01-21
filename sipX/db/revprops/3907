@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-05-13T22:14:06.216765Z
+K 7
+svn:log
+V 82
+Fix: ant test-ui in web module was failing: sipxconfig.properties related problem
+
+END

@@ -1,0 +1,111 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-09-22T19:16:44.086061Z
+K 7
+svn:log
+V 3390
+Set DISTCLEANFILES so 'make distclean' removes built files.
+Set up CONFIG_DISTCLEANFILES so components which include 'config' as
+an external can know what to put in DISTCLEANFILES.
+
+Fix use of compareTo so non-default port designations are recognized
+as such.  http://track.sipfoundry.org/browse/XPL-125
+
+Remove conflict marker inadvertently left in file.
+
+Document the invocation of autoreconf.
+
+Fix the build problem:
+config.status: error: cannot find input file: sipXconference/Makefile.in
+
+Fix the build problem:
+awk: fatal: can't open source file `./config/apache_version.awk' 
+	for reading (No such file or directory)
+
+Add entries for sipXconverence, but do not activate them.
+
+Revamp handling of headers specified in URIs.
+http://track.sipfoundry.org/browse/XSL-107
+http://track.sipfoundry.org/browse/XSL-108
+
+Statics are not your friend -- fix for
+SipMessage::SipMessageFieldProps.  In SipMessage, replaced the
+static SipMessage::SipMessageFieldProps initializer with a pointer
+and initialize it in the constructor of SipMessage.  Also, renamed
+the variable to spSipMessageFieldProps instead of
+mSipMessageFieldProps.  SipMessage::SipMessageFieldProps touches
+the UtlChainPool (also a static) and blows up under Windows.
+Essentially, one cannot guarantee the order of static
+initialization.  In this case, SipMessage::SipMessageFieldProps
+was initialized before UtlChainPool resulting in a crash during
+static initialization.
+
+Put parentheses around expression in #define.
+
+Improve copyright notices.
+
+Fix use of compareTo so non-default port designations are recognized as such.
+http://track.sipfoundry.org/browse/XPL-125
+
+Fix the sip*.sh.in scripts to check that the log files for their components
+are either absent or writable, so the components can log any problems they
+find.  Otherwise the components have no way of reporting problems.
+
+Add sipXmediaAdapterLib as a component.
+
+Start adjusting the command groups for the fact that all the code is in
+one repository.
+
+Link in a media subsystem.
+
+Move mediaAdaptorLib before callLib in the build order, as the
+dependencies have been rearranged.
+
+Remove special OpenSSL from code base.
+http://paradise:8080/browse/ENG-80
+
+Clean problems related to isReadyToRead().
+Remove call of isReadyToRead() from a debugging print, as that function blocks.
+
+Report "residual" bytes after a SIP message as an error in UDP, but as debug
+info in TCP and TLS.
+
+Add some debugging prints.
+
+Replace definition of "WD" in Makefile.
+
+Put all files that depend on the install directory into DISTCLEANFILES.
+
+Add an orbits.xml file to the test configuration.
+
+Remove erroneous element in ProcessDefinitions.xml.
+
+Use 'make' iterations to repeat command groups for different components.
+
+Add script for checking the svnmerge properties of the principal branches.
+
+Fix typo in .spec file:  RPM is sipxcommserverlib-devel, not sipxcommserver-devel.
+
+Add commentary based on an inquiry by Jerry Richards.
+
+Add a file describing call flows for the call pick-up features.
+
+Test fix for SipUserAgent/OsTimer/OsSysSoftTimer lockup:  Increase the message
+queue sizes from 1,000 to 10,000.
+
+Add more logging of transaction garbage collection.
+
+Parse URIs correctly -- field parameters have their own unique quoting
+system.
+
+Add function SipMessage::isInSupportedField to allow easy testing for tokens
+in the Supported header.
+
+Fix the properties on some files.
+
+END

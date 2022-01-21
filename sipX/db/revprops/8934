@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-02-28T21:18:35.871967Z
+K 7
+svn:log
+V 142
+Fixed the erroneously named MprSineWaveGeneratorDeviceDriver.  As it is
+not a resource it should be called: MpSineWaveGeneratorDeviceDriver.
+
+
+END

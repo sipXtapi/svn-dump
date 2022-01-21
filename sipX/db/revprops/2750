@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-07-22T14:48:16.675836Z
+K 7
+svn:log
+V 213
+Removed configuration files voicemail.xml, httpd-sipxchange-mediaserver*.conf 
+from the sipXvxml project -- these are conf files used by the auto attendant
+and various cgis (applications -- not the core engine).
+
+
+END

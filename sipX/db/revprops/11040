@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-05T22:55:28.941825Z
+K 7
+svn:log
+V 40
+Eliminate a 'signed/unsigned' warning.
+
+
+END

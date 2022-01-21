@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-08-09T13:44:32.937673Z
+K 7
+svn:log
+V 49
+Allow runtime selection of bridge mix algorithm.
+
+END

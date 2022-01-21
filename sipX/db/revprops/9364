@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-15T16:50:12.616596Z
+K 7
+svn:log
+V 114
+Background for callback for output device framework mixer mode have been wrote.
+Callback itself is not ready yet.
+
+END

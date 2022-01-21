@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-09-23T12:32:24.352681Z
+K 7
+svn:log
+V 74
+sipXportLib: Fixes for rpm generation.
+Thanks to John Wong for the patch.
+
+END

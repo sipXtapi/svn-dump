@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-07T21:29:42.249475Z
+K 7
+svn:log
+V 157
+trigger patch to convert unmanged phones in ver 5 of db not 4.  there was a window of time where sipx 3.6 would not have run this but bumped the version to 5
+END

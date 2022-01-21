@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-08-29T14:16:08.107494Z
+K 7
+svn:log
+V 48
+Fixed build under Linux/gcc 2.95 without Speex.
+
+END

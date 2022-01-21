@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-11-18T22:37:40.052568Z
+K 7
+svn:log
+V 261
+1) Manually merged some of the startup delays for media processing from the sipXtapi branch
+2) Added the ability to recordMic data from CpMediaInterface
+3) Added unit tests for recording/playback of mic data
+4) Added unit tests for playing tones (3 blind mice)
+
+END

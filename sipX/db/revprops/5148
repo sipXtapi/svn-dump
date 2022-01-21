@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-23T20:53:03.047054Z
+K 7
+svn:log
+V 154
+XCF-678  phone model is now created once per phone type (and not once per phone instance) which seems to resolve performance issues on Manage Phones page
+
+END

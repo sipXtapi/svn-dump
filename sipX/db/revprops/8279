@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-12-15T20:10:12.242145Z
+K 7
+svn:log
+V 126
+XCF-1404 stop selecting ring-type when generating directory and speed dial entries for Polycom (with thanks to Oliver Daudey)
+
+END

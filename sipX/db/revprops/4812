@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-05-17T23:26:06.323250Z
+K 7
+svn:log
+V 141
+Updated sipXphone.bat file that addresses XPH-92: Relative paths in sipXphone.bat causes jvm crash
+
+This fix only works under Windows 2000/XP
+END

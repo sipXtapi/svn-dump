@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-26T02:42:12.561850Z
+K 7
+svn:log
+V 255
+Merged revisions 8014 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8014 | bob | 2006-11-17 21:54:38 +0300 | 2 lines
+  
+  Merged main to sipXtapi (upto r7991).  Also, enabled more unit tests under Windows.
+........
+
+END

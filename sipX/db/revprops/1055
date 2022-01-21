@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-06-24T21:06:48.550349Z
+K 7
+svn:log
+V 105
+For the time being, don't run SipMessageTest::testCodecError.
+http://track.sipfoundry.org/browse/XSL-100
+
+END

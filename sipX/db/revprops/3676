@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-18T21:32:24.805174Z
+K 7
+svn:log
+V 236
+XCF-154 Fixed, New JDOM complained about adding the same cloned element to a DOM more than once.  Investigated other code that had similiar situations and marked w/comment.  Unclear if making similiar fix is destructive on constructive.
+END

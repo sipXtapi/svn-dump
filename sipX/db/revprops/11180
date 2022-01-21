@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-13T22:58:30.624474Z
+K 7
+svn:log
+V 108
+sipXmediaLib: Checking in the base for Posix MM timer.
+It does not work well yet, expect fixing patch soon.
+
+END

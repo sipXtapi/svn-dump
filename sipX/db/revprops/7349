@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-25T20:09:59.695522Z
+K 7
+svn:log
+V 129
+XCF-1032 move default template for dialplan to etc/dialplan/dialrules.beans.xml so that it can be modified by the administrator.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2006-11-25T19:49:48.127162Z
+K 7
+svn:log
+V 162
+sipXmediaAdapter and sipXmediaAdapterTest EVC projects now compile and link for ARM.
+
+NOTE: They have not been tested to run under ARM yet, just compile and link.
+END

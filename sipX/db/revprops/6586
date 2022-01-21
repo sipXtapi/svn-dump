@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-04-14T23:15:55.874503Z
+K 7
+svn:log
+V 107
+Check in call resolver design spec for HA support.
+Also add a section to the user guide about data export.
+
+END

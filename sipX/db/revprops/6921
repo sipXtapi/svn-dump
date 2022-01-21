@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-06-07T13:58:29.937338Z
+K 7
+svn:log
+V 253
+Clean warnings:
+- mostly unnecessary casts remaining after EasyMock upgrade
+- unused parameter warnings suppressed
+- the word "unused" will now be ignored by checkstyle MultipleStringLiterals check - it is required to apply @SuppressWarnigns annotation
+
+END

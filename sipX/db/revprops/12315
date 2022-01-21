@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2015-06-30T20:19:31.899150Z
+K 7
+svn:log
+V 68
+Added options to register and wait time before exiting to PlaceCall
+
+END

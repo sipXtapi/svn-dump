@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-09T15:57:32.574237Z
+K 7
+svn:log
+V 56
+Add H.263+ and H.263++ codecs MIME-types to sipXsdpLib.
+
+END

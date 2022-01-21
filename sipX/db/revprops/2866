@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2004-11-24T20:15:52.477878Z
+K 7
+svn:log
+V 73
+Disable HANDLE_NO_PLAY_URL until we find a better way to deal with this.
+
+END

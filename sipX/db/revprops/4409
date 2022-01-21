@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-12-15T22:28:03.442628Z
+K 7
+svn:log
+V 484
+Test whether the voice mail box has an e-mail notification address
+before testing whether SMTP_SERVER is set or not.  Thus, if no user
+has an e-mail notification address, mediaserver_cgi.log will not
+report that SMTP_SERVER is not set.  (And this should be the case --
+the Web UI will not let users set e-mail notification if SMTP_SERVER
+is not set.)
+Also, lower the logging level of "sendEmailNotification : End reached"
+to DEBUG from ERR.
+http://track.sipfoundry.org/browse/XPB-149
+
+END

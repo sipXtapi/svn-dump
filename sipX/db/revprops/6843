@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-05-22T21:20:56.099118Z
+K 7
+svn:log
+V 119
+XCF-1047 Accept null as valid value in config files, saved as empty string.  introduced as part of settings refactoring
+END

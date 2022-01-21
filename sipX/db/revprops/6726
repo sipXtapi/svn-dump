@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-05-04T03:22:27.516720Z
+K 7
+svn:log
+V 410
+In pursuit of XPR-144 (CDR performance): drop the parties table in SIPXCDR and put the caller and callee AORs directly in the CDRs table.  Simplify some queries.  Increment the SIPXCDR DB version to 2, incompatibly; since there are no production installs of the call resolver yet, an upgrade mechanism is not needed.
+Looks like these changes buy us a factor of 2 performance improvement, not to be sneezed at.
+
+END

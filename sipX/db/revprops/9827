@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-12T01:34:01.222737Z
+K 7
+svn:log
+V 71
+Provide audio log after receiving frame data from input device manager.
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-23T19:16:04.234541Z
+K 7
+svn:log
+V 149
+Fixed a problem in the SipRefreshManager where we weren't seeding
+the rand number generator.  A portion of this fix was include in r206 on mistake.
+
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-09T13:40:28.973729Z
+K 7
+svn:log
+V 73
+MprBridgeTest: use "%ld" printf specifier when printing long int values.
+
+END

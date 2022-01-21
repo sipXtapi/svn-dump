@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-09-21T17:36:50.083997Z
+K 7
+svn:log
+V 239
+Fixed a bug in UtlString::insert(int position, const char* szInsert) -- Inserting
+a string at position 0 when the source string was empty failed.  Likewise,
+inserting at the very last position also failed.  
+
+Code and unit tests updated.
+
+
+END

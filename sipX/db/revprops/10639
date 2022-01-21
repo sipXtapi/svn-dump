@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-04-15T21:29:58.553967Z
+K 7
+svn:log
+V 153
+Fix jitter buffer.
+Now it just works as fixed jitter buffer. Its size may be adjusted with MprDecode::JB_LENGTH_SAMPLES value.
+More updates coming soon.
+
+END

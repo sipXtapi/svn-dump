@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-10-19T06:16:31.810959Z
+K 7
+svn:log
+V 78
+Fixed a few non-FIXED_POINT compilation errors in MpBridgeAlg implementations
+
+END

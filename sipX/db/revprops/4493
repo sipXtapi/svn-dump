@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-02-07T17:26:38.089201Z
+K 7
+svn:log
+V 101
+Implementation of the feature request for e911 service.
+
+http://track.sipfoundry.org/browse/XPB-203
+
+
+END

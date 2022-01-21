@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-02-28T02:19:57.053734Z
+K 7
+svn:log
+V 68
+[XPB-226] eliminate Doxygen warning about missing examples directory
+END

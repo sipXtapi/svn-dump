@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-04-13T06:04:14.773299Z
+K 7
+svn:log
+V 109
+More refactoring, trimming and clean up of the scope and use of the 
+MpRtp*Connections and MpCallFlowGraph.
+
+
+END

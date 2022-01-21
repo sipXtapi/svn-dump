@@ -1,0 +1,143 @@
+PLAIN
+K 10
+svn:ignore
+V 441
+.deps
+.dirstamp
+compile
+config.guess
+config.sub
+depcomp
+install-sh
+ltmain.sh
+missing
+sipxportlib-buildstamp.cpp
+sipxsdplib-buildstamp.cpp
+sipxtacklib-buildstamp.cpp
+sipxmedialib-buildstamp.cpp
+sipxmediaadapterlib-buildstamp.cpp
+sipxcalllib-buildstamp.cpp
+sipxportlib-buildstamp.h
+sipxsdplib-buildstamp.h
+sipxtacklib-buildstamp.h
+sipxmedialib-buildstamp.h
+sipxmediaadapterlib-buildstamp.h
+sipxcalllib-buildstamp.h
+sipXcommon.mak
+test-driver
+
+
+END
+ENDREP
+id: 9wj.7n5.r12484/481
+type: dir
+pred: 9wj.7n5.r12476/893
+count: 82
+text: 12476 463 417 417 eae7f52136f6788b1870a863c32cd414
+props: 12484 0 468 0 cb409089c1a526fc12532b27b6988382
+cpath: /main/config
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g8y.7n5.r12172/315
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 22
+dir 9wj.7n5.r12484/481
+K 15
+configure.patch
+V 23
+file o60.7n5.r12434/574
+K 10
+readme.txt
+V 23
+file 9ws.7n5.r12464/516
+K 7
+scripts
+V 23
+dir fxk.7n5.r12171/1617
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r12467/3757
+K 19
+sipXmediaAdapterLib
+V 24
+dir b2p.7n5.r12466/13170
+K 12
+sipXmediaLib
+V 24
+dir b40.7n5.r12483/12896
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r12471/5414
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r12466/6703
+K 11
+sipXtackLib
+V 24
+dir boq.7n5.r12466/15876
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r12484/1412
+type: dir
+pred: 9wi.7n5.r12483/13847
+count: 3422
+text: 12484 703 696 696 494b9a8d4bba01bb497e144341bc30ed
+props: 12114 59175 76 0 1dd3880c3272b32f88d1700b38908223
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r12113/17441
+K 4
+main
+V 23
+dir 9wi.7n5.r12484/1412
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r12484/1807
+type: dir
+pred: 0.0.r12483/14246
+count: 12484
+text: 12484 1635 159 159 c3b576998a12433249cd913b1578d603
+cpath: /
+copyroot: 0 /
+
+9wj.7n5.t12483-1 modify false true /main/config
+
+
+1807 1955

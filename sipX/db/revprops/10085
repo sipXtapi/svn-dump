@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-12T07:33:42.640229Z
+K 7
+svn:log
+V 101
+Change MpdPtAvt to use signal DTMFs with getSignalingData() instead of direct firing of DTMF events.
+
+END

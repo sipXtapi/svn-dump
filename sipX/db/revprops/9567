@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-05-17T23:00:26.981089Z
+K 7
+svn:log
+V 50
+Make non-RTL builds of sipXmediaAdapterTest work.
+
+END

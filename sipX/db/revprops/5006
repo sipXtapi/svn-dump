@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-08T18:34:48.112549Z
+K 7
+svn:log
+V 456
+XCF-535 Change references to PDS database in backup and restore scripts to SIPXCONFIG. also call postgres db functions instead of obsoleted sipxdbmgr script
+Uninstall should drop SIPXCONFIG db, not PDS DB, also, remove reference to sipx-jboss rpm
+
+build infrastructure changes:
+- remove dependency on java from sipXtackLib rpm specification
+- remove JBOSS related environment variable processing
+- add standard location to look for java: /usr/lib/jvm/java
+
+END

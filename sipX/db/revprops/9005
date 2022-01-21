@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-03-08T15:51:04.143125Z
+K 7
+svn:log
+V 355
+[XSL-152] Fix sipXtackLib unittests under Linux.
+
+SipUserAgentTest::testShutdownBlocking() failed with error "threads not shutting down". This summary is totally wrong, as at the end we have less threads then on the beginning. This was caused by TimerTask and NatAgentTask, started by preceding tests. Shutting down this task before check fix this issue.
+
+END

@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2007-02-12T17:12:35.573332Z
+K 7
+svn:log
+V 295
+Plug memory leak in registrar.
+
+A very old, but slow leak in the registrar has suddenly started appearing
+in testing.  This turns out to be due to more testing calls have url and/or
+header parameters on them.  A leak in UrlMapping was exposed when
+there are many url/header parameters.
+
+--Woof!
+
+END

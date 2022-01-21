@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-01-18T23:25:32.605335Z
+K 7
+svn:log
+V 552
+[XRR-91] Return only contacts for the same call-id for REGISTER
+ We've seen too many phones that don't expect to see contacts other than the
+one they sent, and get upset by contact parameters meant for others In
+particular, when some other contact is about to expire, they think that
+they got a short time and try again - which loops until the other contact
+expires or is refreshed by someone else - not good.
+
+Return the contacts set by the same call-id if any were set.
+
+If the REGISTER did not contain contacts, it is a query - so return them all.
+
+
+END

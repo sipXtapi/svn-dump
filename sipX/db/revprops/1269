@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-23T12:54:38.691235Z
+K 7
+svn:log
+V 328
+Merged revisions 201 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/2.8
+    ------------------------------------------------------------------------
+    r201 | dworley | 2005-03-22 13:06:19 -0500 (Tue, 22 Mar 2005) | 1 line
+    Changed paths:
+       M /branches/2.8/doc
+    
+    Fix svn:ignore property.
+
+END

@@ -1,0 +1,463 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 80z.66t.r8291/82
+type: file
+pred: 80z.66t.r8290/3002
+count: 5
+text: 8290 0 2972 15725 18985b55b7cf306afcb59952d0f61cbe
+props: 8291 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXcallLib/src/test/tapi/SipSubscriptionTest.cpp
+copyroot: 8290 /main/sipXcallLib/src/test/tapi/SipSubscriptionTest.cpp
+
+PLAIN
+K 17
+EventRecorder.cpp
+V 25
+file 80u.1i5.r7122/148030
+K 15
+EventRecorder.h
+V 26
+file 80v.1i5.r4884/5568161
+K 18
+EventValidator.cpp
+V 24
+file 80w.1i5.r6999/23495
+K 16
+EventValidator.h
+V 24
+file 80x.1i5.r6999/24062
+K 11
+Makefile.am
+V 24
+file 80y.1i5.r7707/51103
+K 23
+SipSubscriptionTest.cpp
+V 21
+file 80z.66t.r8291/82
+K 17
+TestRegistrar.cpp
+V 26
+file 810.1i5.r4884/5565847
+K 15
+TestRegistrar.h
+V 26
+file 811.1i5.r4884/5567146
+K 26
+TestRegistryCollection.cpp
+V 26
+file 812.1i5.r4884/5569476
+K 24
+TestRegistryCollection.h
+V 26
+file 813.1i5.r4884/5570836
+K 20
+TestRegistryData.cpp
+V 26
+file 814.1i5.r4884/5565507
+K 18
+TestRegistryData.h
+V 26
+file 815.1i5.r4884/5566808
+K 13
+callbacks.cpp
+V 25
+file 816.1i5.r4939/313635
+K 11
+callbacks.h
+V 26
+file 817.1i5.r4884/5569145
+K 16
+sipXtapiTest.cpp
+V 25
+file 16h.1i5.r7122/147754
+K 14
+sipXtapiTest.h
+V 22
+file 16i.1i5.r8196/132
+K 20
+sipXtapiTestCall.cpp
+V 24
+file 818.1i5.r7429/17799
+K 26
+sipXtapiTestConference.cpp
+V 24
+file 819.1i5.r7571/12412
+K 29
+sipXtapiTestConferenceAdv.cpp
+V 24
+file 89r.1i5.r7429/17275
+K 22
+sipXtapiTestConfig.cpp
+V 24
+file 81a.1i5.r6999/23776
+K 20
+sipXtapiTestLine.cpp
+V 24
+file 81b.1i5.r7585/34619
+K 24
+sipXtapiTestTransfer.cpp
+V 26
+file 81c.1i5.r4884/5566462
+END
+ENDREP
+id: 16g.1i5.r8291/1632
+type: dir
+pred: 16g.1i5.r8290/4562
+count: 48
+text: 8291 392 1227 1227 c2ec14f8e5db4497a59993479070d5b9
+props: 5457 161113 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /main/sipXcallLib/src/test/tapi
+copyroot: 4813 /main/sipXcallLib
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 14d.1i5.r7854/7785
+K 2
+cp
+V 22
+dir 14e.1i5.r7854/7587
+K 13
+jnibutton.cpp
+V 23
+file 14i.0.r1491/103420
+K 2
+mp
+V 24
+dir 14j.1i5.r4939/312015
+K 5
+ptapi
+V 25
+dir 14s.1i5.r4884/5564944
+K 4
+tapi
+V 22
+dir 16g.1i5.r8291/1632
+END
+ENDREP
+id: 14c.1i5.r8291/2149
+type: dir
+pred: 14c.1i5.r8290/5080
+count: 69
+text: 8291 1888 248 248 3f5bc8d36c69684bd758473660a878e9
+props: 5457 161708 70 0 56dbabedb12513710d83c22ede037a57
+cpath: /main/sipXcallLib/src/test
+copyroot: 4813 /main/sipXcallLib
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 10r.1i5.r7852/3409
+K 2
+cp
+V 22
+dir 10s.1i5.r8177/8656
+K 2
+ps
+V 22
+dir 11a.1i5.r7189/7066
+K 5
+ptapi
+V 24
+dir 120.1i5.r4939/329360
+K 3
+tao
+V 24
+dir 13m.1i5.r7122/155765
+K 4
+tapi
+V 22
+dir 16d.1i5.r7699/5291
+K 4
+test
+V 22
+dir 14c.1i5.r8291/2149
+END
+ENDREP
+id: 10q.1i5.r8291/2684
+type: dir
+pred: 10q.1i5.r8290/5615
+count: 244
+text: 8291 2399 272 272 5deaf8b57a06493fdde81d332e8432ae
+props: 1356 835 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /main/sipXcallLib/src
+copyroot: 4813 /main/sipXcallLib
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file vb.0.r1491/159931
+K 9
+ChangeLog
+V 22
+file vc.0.r1711/261331
+K 7
+INSTALL
+V 22
+file vd.1i5.r4894/1011
+K 7
+LICENSE
+V 22
+file ve.0.r1711/229171
+K 11
+Makefile.am
+V 23
+file vf.1i5.r7616/10033
+K 4
+NEWS
+V 22
+file vg.0.r1491/170627
+K 6
+README
+V 22
+file vh.0.r1491/159626
+K 4
+TODO
+V 22
+file vi.0.r1491/169087
+K 3
+bin
+V 23
+dir 15f.1i5.r7320/75041
+K 6
+config
+V 24
+file d3j.1i5.r7274/20742
+K 12
+configure.ac
+V 23
+file vk.1i5.r7696/11406
+K 3
+doc
+V 23
+dir 158.1i5.r7320/74472
+K 8
+examples
+V 21
+dir vl.1i5.r7845/3067
+K 7
+include
+V 22
+dir vt.1i5.r7867/17321
+K 4
+meta
+V 23
+dir 16r.1i5.r4899/42945
+K 10
+resource.h
+V 26
+file 80o.1i5.r4884/5632542
+K 15
+sipXcallLib.dsp
+V 23
+file 155.367.r7761/4695
+K 18
+sipXcallLib.vcproj
+V 23
+file 1ow.1i5.r7102/5656
+K 19
+sipXcallLibTest.dsp
+V 23
+file 80p.368.r7761/4970
+K 8
+sipXtapi
+V 25
+dir 1p0.1i5.r4884/5620670
+K 12
+sipXtapi.def
+V 25
+file 80q.1i5.r4939/331760
+K 12
+sipXtapi.dsp
+V 23
+file 16a.369.r6365/4827
+K 12
+sipXtapi.dsw
+V 23
+file 16b.36d.r6365/5646
+K 11
+sipXtapi.rc
+V 26
+file 80r.1i5.r4884/5621920
+K 12
+sipXtapi.sln
+V 23
+file 8b8.1i5.r4940/3438
+K 15
+sipXtapi.vcproj
+V 22
+file 8b9.1i5.r5049/156
+K 16
+sipXtapiTest.dsp
+V 23
+file 16c.36a.r7761/4421
+K 19
+sipXtapiTest.vcproj
+V 23
+file 1oy.1i5.r5026/1173
+K 19
+sipxcalllib.spec.in
+V 24
+file 15d.1i5.r7636/10746
+K 3
+src
+V 22
+dir 10q.1i5.r8291/2684
+END
+ENDREP
+id: va.1i5.r8291/4284
+type: dir
+pred: va.1i5.r8290/7215
+count: 516
+text: 8291 2927 1344 1344 86d6c7af44b3055968c57aeddcd9eb07
+props: 7274 22324 878 0 059a3595df8660e1b46189039b90710e
+cpath: /main/sipXcallLib
+copyroot: 4813 /main/sipXcallLib
+
+PLAIN
+K 11
+Makefile.in
+V 23
+file d0m.421.r8194/1039
+K 7
+bbridge
+V 21
+dir 8dl.0.r8083/18422
+K 5
+build
+V 22
+file d5a.0.r7664/15661
+K 6
+config
+V 21
+dir 91.1i4.r8283/1405
+K 12
+configure.ac
+V 20
+file d0n.0.r8051/327
+K 16
+dependencies.mak
+V 19
+file dxw.0.r8252/81
+K 3
+lib
+V 20
+dir cyn.0.r8256/1166
+K 14
+msvs6build.bat
+V 21
+file dm4.0.r8177/4553
+K 14
+resiprocateLib
+V 21
+dir 8g8.0.r7696/13751
+K 9
+sipXb2bua
+V 21
+dir dau.0.r7967/44454
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r8291/4284
+K 17
+sipXcommserverLib
+V 22
+dir 1qo.1i6.r8261/2279
+K 10
+sipXconfig
+V 22
+dir 2hf.1i7.r8289/5288
+K 19
+sipXmediaAdapterLib
+V 21
+dir 89s.0.r8177/13233
+K 12
+sipXmediaLib
+V 21
+dir mz.1i8.r7761/7877
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r8272/2388
+K 11
+sipXportLib
+V 20
+dir 3.1ib.r8245/9746
+K 9
+sipXproxy
+V 23
+dir 1vt.1ic.r8180/58814
+K 13
+sipXpublisher
+V 23
+dir 20n.1id.r8180/70541
+K 12
+sipXregistry
+V 22
+dir 1y5.1ie.r8246/4097
+K 11
+sipXtackLib
+V 21
+dir dk.1if.r8274/5236
+K 9
+sipXtools
+V 20
+dir dtl.0.r8270/1278
+K 8
+sipXvxml
+V 22
+dir 22d.1ig.r8260/1937
+K 10
+top.mak.in
+V 21
+file d5l.0.r7330/2797
+END
+ENDREP
+id: 7q4.0.r8291/5588
+type: dir
+pred: 7q4.0.r8290/8519
+count: 2143
+text: 8291 4526 1049 1049 7cd54af4cb24c617dba7591336ac1843
+props: 8272 3685 2603 0 a1999adc31f4cb0d6e25eded50f24b53
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r8273/5736
+K 4
+main
+V 20
+dir 7q4.0.r8291/5588
+K 4
+tags
+V 20
+dir 7q5.0.r8275/3149
+END
+ENDREP
+id: 0.0.r8291/5924
+type: dir
+pred: 0.0.r8290/8855
+count: 8291
+text: 8291 5798 113 113 b05ee0ad5d2647e145d01d4e0e0e16a5
+cpath: /
+copyroot: 0 /
+
+80z.66t.t8290-1 modify false true /main/sipXcallLib/src/test/tapi/SipSubscriptionTest.cpp
+
+
+5924 6067

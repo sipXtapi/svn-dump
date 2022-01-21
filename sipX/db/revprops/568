@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2005-05-20T17:24:26.593272Z
+K 7
+svn:log
+V 88
+XPB-301: Fix sipx-config script to detect all project config scripts without using which
+END

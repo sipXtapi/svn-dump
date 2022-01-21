@@ -1,0 +1,183 @@
+id: 8g8.2mh.r6162/0
+type: dir
+pred: 8g8.0.r5655/3734
+count: 9
+text: 5655 3515 206 206 cc9242b11d5a02e9bf6552b8d9675ae6
+props: 5414 7951 233 0 494c2d12b2e7700d5440da8127c26add
+cpath: /branches/repro-proxy/resiprocateLib
+copyfrom: 6161 /main/resiprocateLib
+
+PLAIN
+K 7
+bbridge
+V 23
+dir 8dl.2lz.r6161/40383
+K 5
+build
+V 20
+file 7ve.0.r5295/585
+K 6
+config
+V 22
+dir 91.2m3.r6161/42447
+K 12
+dependencies
+V 24
+file 7rk.2lz.r6161/24557
+K 14
+resiprocateLib
+V 19
+dir 8g8.2mh.r6162/0
+K 11
+sipXcallLib
+V 22
+dir va.2m4.r6161/43747
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.2m5.r6161/53691
+K 10
+sipXconfig
+V 23
+dir 2hf.2m6.r6161/44622
+K 19
+sipXmediaAdapterLib
+V 23
+dir 89s.2lz.r6161/46418
+K 12
+sipXmediaLib
+V 22
+dir mz.2m7.r6161/45957
+K 7
+sipXpbx
+V 23
+dir 5g6.2m8.r6161/39844
+K 9
+sipXphone
+V 23
+dir 6qk.2ma.r6161/49960
+K 11
+sipXportLib
+V 21
+dir 3.2mb.r6161/23179
+K 9
+sipXproxy
+V 23
+dir 1vt.2mc.r6161/24302
+K 13
+sipXpublisher
+V 23
+dir 20n.2md.r6161/41476
+K 12
+sipXregistry
+V 23
+dir 1y5.2me.r6161/47708
+K 9
+sipXrepro
+V 23
+dir 91w.2lz.r6161/34815
+K 11
+sipXtackLib
+V 22
+dir dk.2mf.r6161/49428
+K 8
+sipXvxml
+V 23
+dir 22d.2mg.r6161/25671
+END
+ENDREP
+id: 7q4.2lz.r6162/1120
+type: dir
+pred: 7q4.2lz.r6161/54783
+count: 521
+text: 6162 256 851 851 a5d2d85b76807476038d9f336ecee810
+props: 5358 7443 3229 0 718763795ae8a722f746092c3cbae030
+cpath: /branches/repro-proxy
+copyroot: 6130 /branches/repro-proxy
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6133/5033
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 11
+registry_ha
+V 23
+dir 7q4.2eb.r6160/30054
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6162/1120
+K 7
+restful
+V 21
+dir 7q0.0.r4813/15683
+K 10
+sipXconfig
+V 21
+dir 8q1.0.r6159/16380
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r6162/1912
+type: dir
+pred: 7pt.0.r6161/55575
+count: 303
+text: 6162 1370 529 529 887c78c2a3f511115cc2a8c196e410ab
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r6162/1912
+K 4
+main
+V 20
+dir 7q4.0.r6145/6136
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6162/2194
+type: dir
+pred: 0.0.r6161/55860
+count: 6162
+text: 6162 2067 114 114 33cbf2443599679facaf3eb419cb5b73
+cpath: /
+copyroot: 0 /
+
+8g8._0.t6161-1 add false false /branches/repro-proxy/resiprocateLib
+6161 /main/resiprocateLib
+
+2194 2338

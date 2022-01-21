@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+szuk
+K 8
+svn:date
+V 27
+2005-05-03T01:02:05.339934Z
+K 7
+svn:log
+V 96
+Nabbed by The Subversion Police; adds properties svn:mime-type=text/plain; svn:eol-style=native
+
+END

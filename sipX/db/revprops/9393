@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-18T16:12:49.023786Z
+K 7
+svn:log
+V 70
+MpodBufferRecorder should advance buffer pointer in pushFrame() call.
+
+END

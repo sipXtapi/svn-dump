@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-03-24T15:37:55.115698Z
+K 7
+svn:log
+V 101
+Make the name of auto attendant rules case insensitive.
+
+http://track.sipfoundry.org/browse/XPB-248
+
+
+END

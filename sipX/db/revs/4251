@@ -1,0 +1,146 @@
+PLAIN
+K 13
+svn:externals
+V 77
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/post-2.6.1/config
+
+K 10
+svn:ignore
+V 139
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+sipxpbx.spec
+
+END
+ENDREP
+id: 5g6.y8.r4251/281
+type: dir
+pred: 5g6.y8.r4220/29858
+count: 114
+text: 4220 29202 643 643 6194dc3b4fbdae0ce36cbeac5474bedb
+props: 4251 0 268 0 4609a893357232af5b3b3f0c19509a14
+cpath: /old/sipXpbx/branches/post-2.6.1
+copyroot: 4205 /old/sipXpbx/branches/post-2.6.1
+
+PLAIN
+K 10
+post-2.6.1
+V 20
+dir 5g6.y8.r4251/281
+END
+ENDREP
+id: 6o1.0.r4251/607
+type: dir
+pred: 6o1.0.r4220/30191
+count: 12
+text: 4251 548 46 46 23e91fe697519b06857b45ea7a7a6f98
+cpath: /old/sipXpbx/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 6o1.0.r4251/607
+K 4
+main
+V 20
+dir 5g6.0.r4250/4278
+K 4
+tags
+V 20
+dir 5kn.0.r4134/2736
+END
+ENDREP
+id: 5g5.0.r4251/894
+type: dir
+pred: 5g5.0.r4250/4623
+count: 158
+text: 4251 769 112 112 c2cdbbe6184a0bd14b4cc611d45f654f
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 19
+dir 5g5.0.r4251/894
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4251/1531
+type: dir
+pred: 1.0.r4250/5263
+count: 4249
+text: 4251 1049 469 469 4991416104237a32d7f5e93ca3070554
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4251/1531
+END
+ENDREP
+id: 0.0.r4251/1726
+type: dir
+pred: 0.0.r4250/5458
+count: 4251
+text: 4251 1677 36 36 90f54a796370de2136a448f8865bf40a
+cpath: /
+copyroot: 0 /
+
+5g6.y8.t4250-1 modify false true /old/sipXpbx/branches/post-2.6.1
+
+
+1726 1867

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-01T02:43:23.425000Z
+K 7
+svn:log
+V 181
+First set of changes to interop.pingtel.com file installation to use a
+Makefile that will edit into the files the SIP domain name, rather
+than having it hard-coded into index.html.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-01-19T15:14:21.493710Z
+K 7
+svn:log
+V 51
+XCF-815 Check that validator is valid before saving
+END

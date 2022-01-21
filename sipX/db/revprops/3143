@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-11-08T23:06:51.132992Z
+K 7
+svn:log
+V 77
+FIX BUILD: add new cisco default phone conf files to tftp root in rpm package
+END

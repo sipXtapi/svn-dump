@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-03-14T00:26:25.653421Z
+K 7
+svn:log
+V 171
+Provide additional tables and views for computing call direction, a customer-specific requirement.  These are defined in a separate file to keep the base product generic.
+
+END

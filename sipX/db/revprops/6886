@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-06-02T13:52:14.698020Z
+K 7
+svn:log
+V 204
+Bring back easymock 2.1, turns out easymock 1.0 had issues w/generics so I need to upgrade.  this checkin work but uses many deprecated methods that i will be fixing momentarily (svn merge -r 6819:6820 .)
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-06-13T17:52:20.557481Z
+K 7
+svn:log
+V 184
+Updated version info in sipXtapi
+Updated the error handling/recovery capabilities for sipXtapi unit tests.  We can now fail a unit test without causing every subsequent test to fail.
+
+
+END

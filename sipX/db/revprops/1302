@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-04-21T20:10:13.239526Z
+K 7
+svn:log
+V 121
+fix for XCL-46 - checking the queue size before sending to it.
+This avoids generation of the "no room in queue" message.
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-10-20T12:55:56.474844Z
+K 7
+svn:log
+V 136
+XCF-40 fix: 
+- subant redefinition pulled out of subant-defs target and replaced with my.subant definition
+- subant-defs target removed
+
+END

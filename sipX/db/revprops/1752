@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-04-29T12:46:00.854771Z
+K 7
+svn:log
+V 124
+sipXphone will now use the address type (e.g. STUN/NAT_MAPPED or local) 
+for the default outbound line when placing calls.
+
+
+END

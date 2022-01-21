@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-23T17:49:06.837117Z
+K 7
+svn:log
+V 123
+Properly specify many methods in MpResampler as virtual.
+Add speex overrides for setting sample rates, and quality.
+Tested.
+END

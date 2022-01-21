@@ -1,0 +1,334 @@
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: vt.0.r1356/60
+type: dir
+pred: vt.0.r1354/1496
+count: 7
+text: 1354 1265 218 218 96b64f50555a34ed874bafd0908fc61c
+props: 1356 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXcallLib/main/include
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 54
+.deps
+.libs
+Makefile
+Makefile.in
+regression
+testsuite
+
+END
+ENDREP
+id: 14c.0.r1356/373
+type: dir
+pred: 14c.0.r1339/51264
+count: 8
+text: 1339 51053 198 198 d623edfd2601a22c4c6165bd0f9c2e74
+props: 1356 280 80 0 1986090cf4ed98243acab2ccd26aa954
+cpath: /old/sipXcallLib/main/src/test
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 10r.0.r1323/77760
+K 2
+cp
+V 20
+dir 10s.0.r1355/7890
+K 2
+ps
+V 20
+dir 11a.0.r1349/2371
+K 5
+ptapi
+V 21
+dir 120.0.r1339/69847
+K 3
+tao
+V 21
+dir 13m.0.r1339/65447
+K 4
+test
+V 19
+dir 14c.0.r1356/373
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 33
+.deps
+.libs
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 10q.0.r1356/907
+type: dir
+pred: 10q.0.r1355/8297
+count: 13
+text: 1356 601 221 221 7c6af97ff390789465290bd4cb8718a2
+props: 1356 835 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /old/sipXcallLib/main/src
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 30
+Doxyfile
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 158.0.r1356/1197
+type: dir
+pred: 158.0.r1353/12272
+count: 1
+text: 1353 12024 184 184 ad92da9bc9e9883f1236908e9f3bddf5
+props: 1356 1128 56 0 357a444bd6df82003e865df156c283e9
+cpath: /old/sipXcallLib/main/doc
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 45
+.deps
+.libs
+Makefile
+Makefile.in
+musicserver
+
+END
+ENDREP
+id: vn.0.r1356/1506
+type: dir
+pred: vn.0.r1352/3337
+count: 13
+text: 1352 3058 266 266 cf5f0076632f8a989c0d3c16b6d17062
+props: 1356 1422 71 0 470681d7ea2544ee0b61e695a0d33996
+cpath: /old/sipXcallLib/main/examples/musicServer
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file vm.0.r1322/796690
+K 11
+musicServer
+V 19
+dir vn.0.r1356/1506
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: vl.0.r1356/1909
+type: dir
+pred: vl.0.r1352/3680
+count: 13
+text: 1356 1745 91 91 6686aceedce6f740a601c11e57798443
+props: 1356 1849 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXcallLib/main/examples
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file vb.0.r1322/794377
+K 9
+ChangeLog
+V 19
+file vc.0.r1348/231
+K 7
+INSTALL
+V 21
+file vd.0.r1353/12475
+K 7
+LICENSE
+V 22
+file ve.0.r1322/684024
+K 11
+Makefile.am
+V 21
+file vf.0.r1353/12700
+K 4
+NEWS
+V 22
+file vg.0.r1322/794232
+K 6
+README
+V 19
+file vh.0.r1328/613
+K 4
+TODO
+V 22
+file vi.0.r1322/732281
+K 9
+acsite.m4
+V 22
+file vj.0.r1322/732833
+K 12
+configure.ac
+V 21
+file vk.0.r1353/10989
+K 3
+doc
+V 20
+dir 158.0.r1356/1197
+K 8
+examples
+V 19
+dir vl.0.r1356/1909
+K 7
+include
+V 17
+dir vt.0.r1356/60
+K 15
+sipXcallLib.dsp
+V 20
+file 155.0.r1351/289
+K 19
+sipxcalllib.spec.in
+V 22
+file 15d.0.r1353/11222
+K 3
+src
+V 19
+dir 10q.0.r1356/907
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 133
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+
+END
+ENDREP
+id: va.0.r1356/3056
+type: dir
+pred: va.0.r1355/9186
+count: 29
+text: 1356 2134 649 649 c9ca11223ba527e6d2f35e16a89a3072
+props: 1356 2796 247 0 ead6b2fa77ee12ecf35083947e407d9c
+cpath: /old/sipXcallLib/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 19
+dir va.0.r1356/3056
+K 4
+tags
+V 20
+dir 156.0.r1347/1356
+END
+ENDREP
+id: v9.0.r1356/3361
+type: dir
+pred: v9.0.r1355/9491
+count: 35
+text: 1356 3275 73 73 dc10122cf004bf307930539aca4e3768
+cpath: /old/sipXcallLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1356/3361
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1356/3702
+type: dir
+pred: 1.0.r1355/9832
+count: 1355
+text: 1356 3517 172 172 5121e0f38dc145b4fb06b2c80b64d8d5
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1356/3702
+END
+ENDREP
+id: 0.0.r1356/3897
+type: dir
+pred: 0.0.r1355/10027
+count: 1356
+text: 1356 3848 36 36 74e3c08b81632d65bc2e7534cbf194de
+cpath: /
+copyroot: 0 /
+
+vl.0.t1355-1 modify false true /old/sipXcallLib/main/examples
+
+va.0.t1355-1 modify false true /old/sipXcallLib/main
+
+vt.0.t1355-1 modify false true /old/sipXcallLib/main/include
+
+158.0.t1355-1 modify false true /old/sipXcallLib/main/doc
+
+vn.0.t1355-1 modify false true /old/sipXcallLib/main/examples/musicServer
+
+14c.0.t1355-1 modify false true /old/sipXcallLib/main/src/test
+
+10q.0.t1355-1 modify false true /old/sipXcallLib/main/src
+
+
+3897 4039

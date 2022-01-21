@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-12-11T21:28:44.696494Z
+K 7
+svn:log
+V 389
+[XPB-850] Always use local MTA to send email notices for voicemail
+          Voicemail notifications are blocked during a long timeout (3
+          mins) if the destination mailserver isn't accessible.
+          This change requires that the mail always be sent to a
+          localhost MTA, which can then take care of queuing and
+          retries when the real server is not available.
+
+END

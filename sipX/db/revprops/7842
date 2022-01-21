@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-27T03:31:33.438245Z
+K 7
+svn:log
+V 711
+mergefrom user_dworley_redirectors2main 7823-7824
+
+Fix signatures of OsConfDb methods so that non-modifying methods can
+apply to const objects.  Add mutable members and adjust method
+implementations.
+Fix routine that parses config file lines to allow whitespace (but not
+require it) where people expect.
+Allow comment lines (rather than just as a side effect of failing to
+parse them).
+Report config file line syntax errors at CRIT level.
+Add test for config file parsing method.
+Re-code OsConfigDb::getSubHash to be more efficient, and allow a const
+base object.
+
+In the sample code for using an iterator, put warning parens around
+assignments that appear in while clauses:
+    while ((pObj = itor())) { ... }
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-11T14:04:39.052108Z
+K 7
+svn:log
+V 88
+XCF-1187 changes in caller-alias schema: alias => caller_alias, domain => target_domain
+
+END

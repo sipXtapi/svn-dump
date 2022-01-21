@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-15T22:11:30.339564Z
+K 7
+svn:log
+V 166
+XCF-753 fix edit hunt group screen
+Table still needs a primary key converter to be passed: the name of the parameter has changed in T4 - it is now simply 'converter'
+
+END

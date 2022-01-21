@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+cypromis
+K 8
+svn:date
+V 27
+2006-06-28T08:47:16.806942Z
+K 7
+svn:log
+V 111
+Add return value to function as of http://track.sipfoundry.org/browse/XSL-129
+Fix wrong check in cppunit macro
+
+END

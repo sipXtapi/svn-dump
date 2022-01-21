@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-01T21:53:02.933511Z
+K 7
+svn:log
+V 241
+XCF-1170 use seconds instead of millis to specify Ring time
+XCF-1155 change default to 5 seconds (used to be 2 seconds)
+other minor changes after initial review: 
+- improved help text
+- alert info is now advanced parameter hidden by default
+
+END

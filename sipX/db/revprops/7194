@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-08-05T02:53:11.950908Z
+K 7
+svn:log
+V 400
+1) Added a fix for the age-old "cannot block the sipxtapi event callback thread".  We now startup a new thread to dispatch events to the application.
+
+2) Started beating the unit tests into submission -- so far, it  looks like the unit tests are broken -- not the code
+
+3) Reverted Dan's URL changes (didn't compile).
+
+
+.. more to come: additional unit tests tweaks and build fixes for linux/macos.
+
+
+END

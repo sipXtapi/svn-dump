@@ -1,0 +1,523 @@
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 5h4.0.r4096/51
+type: dir
+pred: 5h4.0.r4095/36300
+count: 2
+text: 4095 36135 152 152 1e7909b8430a3a13667934edf95f6c7e
+props: 4096 0 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXpbx/main/include/processcgi
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 5h8.0.r4096/333
+type: dir
+pred: 5h8.0.r4094/298466
+count: 1
+text: 4094 298357 96 96 775b201a24920c50fade005282888989
+props: 4096 282 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXpbx/main/include/sipxcgi
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 5h3.0.r4094/298668
+K 10
+processcgi
+V 18
+dir 5h4.0.r4096/51
+K 7
+sipxcgi
+V 19
+dir 5h8.0.r4096/333
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 5h2.0.r4096/755
+type: dir
+pred: 5h2.0.r4095/36629
+count: 2
+text: 4096 564 127 127 46e28095bee2880d2af398a44cde4b6b
+props: 4096 704 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXpbx/main/include
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 5k2.0.r4096/1027
+type: dir
+pred: 5k2.0.r4095/37328
+count: 2
+text: 4095 37057 258 258 682d61bc14bdd30e931697f331d599c8
+props: 4096 976 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXpbx/main/src/test/sipxcgi
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 5k1.0.r4094/303608
+K 7
+sipxcgi
+V 20
+dir 5k2.0.r4096/1027
+K 8
+sipxunit
+V 22
+dir 5k8.0.r4094/301571
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 5k0.0.r4096/1453
+type: dir
+pred: 5k0.0.r4095/37652
+count: 2
+text: 4096 1260 129 129 977fe6a72fc96ca6dd522c6562bd0ca2
+props: 4096 1402 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXpbx/main/src/test
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 5kc.0.r4096/1729
+type: dir
+pred: 5kc.0.r4095/40370
+count: 2
+text: 4095 39848 509 509 7bdca90da36e3fbc8a5e43cfbeb81ec4
+props: 4096 1678 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXpbx/main/src/watchdog
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 5hi.0.r4096/2010
+type: dir
+pred: 5hi.0.r4095/60995
+count: 2
+text: 4095 57336 3646 3646 ce1fd09791ec1f0b2ce8c8f432f91cd9
+props: 4096 1959 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXpbx/main/src/mailboxmgr
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 5jm.0.r4096/2295
+type: dir
+pred: 5jm.0.r4095/62393
+count: 2
+text: 4095 62187 193 193 3f5d4bf90ea8c07d8412ed4d1490565b
+props: 4096 2244 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXpbx/main/src/processcgi
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 5ji.0.r4096/2578
+type: dir
+pred: 5ji.0.r4095/63507
+count: 2
+text: 4095 63341 153 153 c7039810a699cf147e65702b718de5a0
+props: 4096 2527 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXpbx/main/src/mod_sipxauth
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 5jx.0.r4096/2863
+type: dir
+pred: 5jx.0.r4095/64044
+count: 2
+text: 4095 63934 97 97 6ad055696f39ebdfcde179d1f3b89d53
+props: 4096 2812 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXpbx/main/src/sipxcgi
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 5hd.0.r4096/3141
+type: dir
+pred: 5hd.0.r4095/65430
+count: 2
+text: 4095 65229 188 188 c0e121bf5bcc8a92ab282588dc994e67
+props: 4096 3090 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXpbx/main/src/emailnotifier
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 5jf.0.r4096/3427
+type: dir
+pred: 5jf.0.r4095/66220
+count: 2
+text: 4095 66117 90 90 8c08a16dc81167e44aef07d30ace61c4
+props: 4096 3376 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXpbx/main/src/mediaservercgi
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 5ju.0.r4096/3712
+type: dir
+pred: 5ju.0.r4095/67802
+count: 2
+text: 4095 67699 90 90 f2baf7a03303ff1282ef12f5b0e3e6bb
+props: 4096 3661 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXpbx/main/src/replicationcgi
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 5hc.0.r4094/335681
+K 13
+emailnotifier
+V 20
+dir 5hd.0.r4096/3141
+K 10
+mailboxmgr
+V 20
+dir 5hi.0.r4096/2010
+K 14
+mediaservercgi
+V 20
+dir 5jf.0.r4096/3427
+K 12
+mod_sipxauth
+V 20
+dir 5ji.0.r4096/2578
+K 10
+processcgi
+V 20
+dir 5jm.0.r4096/2295
+K 15
+replication.cgi
+V 21
+dir 5jr.0.r4095/67011
+K 14
+replicationcgi
+V 20
+dir 5ju.0.r4096/3712
+K 7
+sipxcgi
+V 20
+dir 5jx.0.r4096/2863
+K 4
+test
+V 20
+dir 5k0.0.r4096/1453
+K 8
+watchdog
+V 20
+dir 5kc.0.r4096/1729
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 5hb.0.r4096/4485
+type: dir
+pred: 5hb.0.r4095/68480
+count: 2
+text: 4096 3946 475 475 5f5b8e111a725159d1d432aa63ddbcf5
+props: 4096 4434 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXpbx/main/src
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4094/345033
+K 9
+ChangeLog
+V 23
+file 5g8.0.r4094/300277
+K 7
+INSTALL
+V 23
+file 5g9.0.r4094/300071
+K 7
+LICENSE
+V 23
+file 5ga.0.r4094/296233
+K 11
+Makefile.am
+V 23
+file 5gb.0.r4094/340518
+K 4
+NEWS
+V 23
+file 5gc.0.r4094/344891
+K 6
+README
+V 23
+file 5gd.0.r4094/345230
+K 4
+TODO
+V 23
+file 5ge.0.r4094/299180
+K 9
+acsite.m4
+V 23
+file 5gf.0.r4094/300422
+K 3
+bin
+V 22
+dir 5gg.0.r4094/340326
+K 12
+configure.ac
+V 22
+file 5gl.0.r4095/35387
+K 3
+doc
+V 22
+dir 5gm.0.r4094/299881
+K 3
+etc
+V 22
+dir 5gp.0.r4094/344746
+K 7
+include
+V 19
+dir 5h2.0.r4096/755
+K 3
+src
+V 20
+dir 5hb.0.r4096/4485
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 63
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+
+K 10
+svn:ignore
+V 66
+configure
+Makefile.in
+build
+config.h.in
+autom4te.cache
+aclocal.m4
+
+END
+ENDREP
+id: 5g6.0.r4096/5517
+type: dir
+pred: 5g6.0.r4095/69375
+count: 2
+text: 4096 4705 606 606 84b65b72d95fc43565c98df0af1f2097
+props: 4096 5324 180 0 12058b5d304b927b36c7896295e0d907
+cpath: /old/sipXpbx/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 20
+dir 5g6.0.r4096/5517
+END
+ENDREP
+id: 5g5.0.r4096/5786
+type: dir
+pred: 5g5.0.r4095/69648
+count: 3
+text: 4096 5734 39 39 ac15c24666a2e1366a71959e33bae5a0
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4096/5786
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4096/6423
+type: dir
+pred: 1.0.r4095/70289
+count: 4094
+text: 4096 5940 470 470 363f0e5c904d04a20355c6e1532f5e65
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4096/6423
+END
+ENDREP
+id: 0.0.r4096/6619
+type: dir
+pred: 0.0.r4095/70489
+count: 4096
+text: 4096 6570 36 36 e7bce1ad314597eb957657a9613da38c
+cpath: /
+copyroot: 0 /
+
+5h2.0.t4095-1 modify false true /old/sipXpbx/main/include
+
+5ju.0.t4095-1 modify false true /old/sipXpbx/main/src/replicationcgi
+
+5h4.0.t4095-1 modify false true /old/sipXpbx/main/include/processcgi
+
+5k0.0.t4095-1 modify false true /old/sipXpbx/main/src/test
+
+5hb.0.t4095-1 modify false true /old/sipXpbx/main/src
+
+5kc.0.t4095-1 modify false true /old/sipXpbx/main/src/watchdog
+
+5hi.0.t4095-1 modify false true /old/sipXpbx/main/src/mailboxmgr
+
+5jm.0.t4095-1 modify false true /old/sipXpbx/main/src/processcgi
+
+5h8.0.t4095-1 modify false true /old/sipXpbx/main/include/sipxcgi
+
+5ji.0.t4095-1 modify false true /old/sipXpbx/main/src/mod_sipxauth
+
+5k2.0.t4095-1 modify false true /old/sipXpbx/main/src/test/sipxcgi
+
+5jx.0.t4095-1 modify false true /old/sipXpbx/main/src/sipxcgi
+
+5hd.0.t4095-1 modify false true /old/sipXpbx/main/src/emailnotifier
+
+5g6.0.t4095-1 modify false true /old/sipXpbx/main
+
+5jf.0.t4095-1 modify false true /old/sipXpbx/main/src/mediaservercgi
+
+
+6619 6761

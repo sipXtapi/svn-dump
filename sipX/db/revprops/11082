@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-11T12:42:30.551666Z
+K 7
+svn:log
+V 155
+sipXmediaLib:Bugfix:Wrong error condition in mpStartTasks().
+dmaShutdown() was called in case NetInTask::getNetInTask() succeed, which is obviously wrong.
+
+END

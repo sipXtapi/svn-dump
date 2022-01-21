@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-01-22T02:21:48.520861Z
+K 7
+svn:log
+V 189
+Port of sipXtack unit test to use portable unit test framework which runs on Android.
+The test runs all the wa through, have a few aborts and failures, but a respectable first run through.
+
+END

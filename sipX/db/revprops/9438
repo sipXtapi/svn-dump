@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-04-28T11:53:12.766775Z
+K 7
+svn:log
+V 303
+XPL-202 was implemented. New member mWasFired was added to OsTimer, which will enable us to find out the reason why timer is stopped - whether it is due to the fact it was fired or stopped manually.
+
+It also fixes a race in OsTimer and OsTimerTask, when timer could fire just after it has been stopped.
+
+END

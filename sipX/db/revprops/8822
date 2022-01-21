@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-20T13:57:33.510965Z
+K 7
+svn:log
+V 167
+Documentation fix: there are no separate MEDIA_REMOTE_DTMF_START and MEDIA_REMOTE_DTMF_STOP events now. We have MEDIA_REMOTE_DTMF event with different causes instead.
+
+END

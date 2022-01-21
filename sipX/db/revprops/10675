@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-06-19T13:36:09.539162Z
+K 7
+svn:log
+V 101
+Fix Linux compilation of ReceiveCall. gbShutdown variable was wrongly placed inside of #ifdef WIN32.
+
+END

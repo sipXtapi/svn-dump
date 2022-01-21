@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-10-30T07:16:36.848218Z
+K 7
+svn:log
+V 169
+Add RtpDispatcher resource abstract base class and two implementations - IpAffinity for usual VoIP unicast scenario and ActiveSsrcs for multicast and similar scenarios.
+
+END

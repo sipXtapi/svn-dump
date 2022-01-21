@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-12-13T01:28:50.047483Z
+K 7
+svn:log
+V 75
+add XmlContent - routines to escape and unescape XML chardata in UtlStrings
+END

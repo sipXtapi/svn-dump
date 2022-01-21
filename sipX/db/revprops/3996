@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-06-02T17:31:00.147768Z
+K 7
+svn:log
+V 86
+obsolete sipxconfig.css in prototype, add last merge to web/context/css/sipxconfig.css
+END

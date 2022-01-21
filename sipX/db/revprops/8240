@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-12-12T20:51:23.823285Z
+K 7
+svn:log
+V 476
+Two fixes:
+
+1) SipClients used to give up after 8 'bad packet' reads.  In
+   testing, I found that sending a single INVITE (and then
+   exiting the sending app / closing the socket) resulted in
+   the SipClient closing w/ resends and attempting to cleanup
+   the INVITE.  I increased this to 12.  In cases where the
+   socket has gone bad, this will still exit fairly quickly.
+
+2) Don't crash/double delete if the m= line includes multiple
+   payloads (e.g. "0 8 97 97").
+   
+
+END

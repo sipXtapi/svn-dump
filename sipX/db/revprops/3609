@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-03-03T23:16:17.138773Z
+K 7
+svn:log
+V 165
+XCF-208 - save vs. update problem for dialing rules.
+
+Replaced 2 functions (save and update) with a single FlexibleDialPlan.storeRule function.
+Added more UI tests.
+
+END

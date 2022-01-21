@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-07T20:11:42.323783Z
+K 7
+svn:log
+V 186
+A few changes need to build under Java:
+
+- Remove the javacore/src/org/sipfoundry/xpressa directory (renamed to sipxphone)
+- build replaced import com.pingtel to import org.sipfoundry 
+
+
+END

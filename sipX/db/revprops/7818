@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-24T17:39:48.894886Z
+K 7
+svn:log
+V 82
+Download service is now using digest mechanism similar to Tapestry Asset service.
+
+END

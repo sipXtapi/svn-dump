@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-11-21T04:29:19.854212Z
+K 7
+svn:log
+V 88
+Add polycom-config util to flatten polycom xml configuration files into 1 value per line
+END

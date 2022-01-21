@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-20T14:12:48.569628Z
+K 7
+svn:log
+V 46
+Get the sed script to edit http.conf working.
+
+END

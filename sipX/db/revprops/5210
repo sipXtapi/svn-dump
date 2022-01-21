@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-27T20:48:10.461281Z
+K 7
+svn:log
+V 122
+FIX: add UI for configuring TollFree permission
+change defaults of dialing permissions to ENABLE (except for 900 dialing)
+
+END

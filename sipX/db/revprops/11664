@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2010-05-25T19:14:39.249309Z
+K 7
+svn:log
+V 69
+sipXmediaLib: CFLAGS should not be overriden in Speex under Android.
+
+END

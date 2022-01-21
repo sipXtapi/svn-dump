@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-04-15T21:18:04.301790Z
+K 7
+svn:log
+V 137
+Bugfix: codecs were freed twice when MprDecode::handleSelectCodecs() was called from MpRtpInputAudioConnection::handleStartReceiveRtp().
+
+END

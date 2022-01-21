@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-12-21T14:12:25.123842Z
+K 7
+svn:log
+V 106
+Added OsTimerTest to the MSVS6 build.
+
+Thanks Dale: for pointing out that it was not covered on Windows.
+
+
+END

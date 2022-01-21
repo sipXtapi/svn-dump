@@ -1,0 +1,27 @@
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r4813/32382
+K 4
+main
+V 19
+dir 7q4.0.r4815/993
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r4816/128
+type: dir
+pred: 0.0.r4815/1300
+count: 4816
+text: 4816 0 115 115 e4aadce6e71ba2d42d98660f807df575
+cpath: /
+copyroot: 0 /
+
+1.0.r4813/35374 delete false false /old
+
+
+128 267

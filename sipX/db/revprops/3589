@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-02-25T21:20:46.562758Z
+K 7
+svn:log
+V 112
+XCF-199 Fixed, start jetty on first test, share static instance will subsequent tests, shutdown w/VM shuts down.
+END

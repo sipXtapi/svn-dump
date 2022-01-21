@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-01-22T16:45:04.219915Z
+K 7
+svn:log
+V 66
+Fix for linux compilation errors caused by Android unit test port
+
+END

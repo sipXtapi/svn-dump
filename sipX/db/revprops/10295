@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-08T22:13:39.005803Z
+K 7
+svn:log
+V 60
+Use int64_t type in OsTimer instead of homebrew Int64 type.
+
+END

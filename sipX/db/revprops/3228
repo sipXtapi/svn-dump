@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-12-01T14:10:28.641358Z
+K 7
+svn:log
+V 90
+rearrange spring config files for better unittesting, rewrite some unittests to not use db
+END

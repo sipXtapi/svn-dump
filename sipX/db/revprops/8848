@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-21T15:41:18.039210Z
+K 7
+svn:log
+V 428
+Merged revisions 8326 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+
+........
+  r8326 | xmlscott | 2006-12-21 05:03:42 +0300 | 18 lines
+  
+  Made OsSocket a UtlContainable so that all sockets can be stored
+    in UtlContainers.
+  
+  Added documentation to UtlVoidPtr directing developers to
+    UtlContainableAtomic as a better alternative.
+  
+  Fixed a number of warnings under gcc4 on linux
+........
+
+END

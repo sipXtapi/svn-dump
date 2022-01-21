@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-09-28T13:42:43.925532Z
+K 7
+svn:log
+V 130
+Make the search for openssl libaries and includes
+separate (but use the same order)
+Fix it so that it finds where Fedora puts it.
+
+END

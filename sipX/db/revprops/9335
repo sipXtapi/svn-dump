@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-12T00:20:11.115631Z
+K 7
+svn:log
+V 239
+Bugfix: Fix memory corruption in MpInputDeviceDriverTest.
+Memory corruption occured in for loop (lines 141 to 158) when nMSecsToRecord is not multiple of nMSPerBuffer.
+I decided to round down nMSecsToRecord to be multiple of nMSPerBuffer.
+
+END

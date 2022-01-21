@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-03-21T03:21:23.895107Z
+K 7
+svn:log
+V 94
+mediaAdapterLib API changes to support method to set gain for all inputs to a specitic output
+
+END

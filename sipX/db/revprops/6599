@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-04-17T18:17:52.275881Z
+K 7
+svn:log
+V 128
+"unhide" Call Pickup configuration in sipXconfig
+see: http://article.gmane.org/gmane.comp.telephony.pbx.sipfoundry.general/3585
+
+END

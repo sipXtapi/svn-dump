@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-07-23T14:46:21.433058Z
+K 7
+svn:log
+V 236
+Merged revisions 7114 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7114 | bob | 2006-07-22 19:36:27 +0400 | 2 lines
+  
+  Added a  generic OsSysLog facility for application use (FAC_APP)
+........
+
+END

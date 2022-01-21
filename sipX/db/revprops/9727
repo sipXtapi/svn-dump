@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-23T22:07:33.416394Z
+K 7
+svn:log
+V 99
+Fix sipXmediaLib build under VS6: further propagation of C99 integer types and MpAudioSample type.
+
+END

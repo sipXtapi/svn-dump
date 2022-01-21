@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-05-26T19:36:34.570783Z
+K 7
+svn:log
+V 116
+Added UtlSortedList as a sorted list class and pulled common method
+across UtlSList and UtlSortedList into UtlList
+
+
+END

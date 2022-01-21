@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-04T23:01:07.244631Z
+K 7
+svn:log
+V 60
+Add Windows outptu driver support to MpOutputFrameworkTest.
+
+END

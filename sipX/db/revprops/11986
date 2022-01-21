@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-10-29T10:55:48.143439Z
+K 7
+svn:log
+V 61
+Removed superfluous setting of socket descriptor after close
+
+END

@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-12-07T22:22:24.018674Z
+K 7
+svn:log
+V 362
+Minor modifications to the SipUserAgent and SipSrvLookup objects.
+
+SipUserAgent: Added an accessor method to change the outbound
+proxy.  Also modified the task name (added "-%d") so that
+multiple instances can be coexist in the same process space.
+
+SipSrvLookup: Added a new "setDnsSrvTimeouts" method to tweak
+the timeout / retry settings for DNS SRV lookups.
+
+
+END

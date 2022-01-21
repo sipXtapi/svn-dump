@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-01-12T15:56:48.314289Z
+K 7
+svn:log
+V 193
+Turn off 64-bit file offsets in mod_sipxauth main code
+(SIPXAuthHandler.cpp), which seems to be needed for compatibility with
+Apache 2.0.46 on RHE 3.
+http://track.sipfoundry.org/browse/XPB-171
+
+END

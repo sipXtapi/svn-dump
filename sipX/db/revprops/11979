@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-10-15T11:18:58.183189Z
+K 7
+svn:log
+V 235
+Release video RTP socket ports in port manager, set return invalid media connection ID if create fails (e.g. no ports available).
+Video sockets were getting release and OsSocket getting deleted, but port manager did not know about it.
+
+END

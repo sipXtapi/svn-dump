@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-12-07T01:15:00.555345Z
+K 7
+svn:log
+V 56
+Fixed compiler warning of missing prototype for plgg722
+
+END

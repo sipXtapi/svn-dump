@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-11T20:40:53.613340Z
+K 7
+svn:log
+V 84
+Add simple test script to see what response is obtained from a CANCEL
+of an INVITE.
+
+END

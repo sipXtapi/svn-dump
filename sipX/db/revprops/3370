@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-01-14T18:44:24.713486Z
+K 7
+svn:log
+V 91
+XPB-125, XCF-131, XCF-132 Postgres driver jar filename changed and wasn't getting installed
+END

@@ -1,0 +1,175 @@
+id: 9wi.7n7.r10818/0
+type: dir
+pred: 9wi.3ke.r10308/4876
+count: 288
+text: 10308 4238 625 625 78e91954f744378f44057a135f5a540b
+props: 8869 320083 317 0 ec1827544b9c55d353dbb6c255177699
+cpath: /branches/sipXtapi-media-update
+copyfrom: 10817 /sipXecs.old/branches/sipXtapi-media-update
+
+PLAIN
+K 12
+sipXtapi-AOL
+V 20
+dir 9wi.7n6.r10817/0
+K 21
+sipXtapi-media-update
+V 20
+dir 9wi.7n7.r10818/0
+END
+ENDREP
+id: fuu.0.r10818/398
+type: dir
+pred: fuu.0.r10817/268
+count: 2
+text: 10818 284 101 101 da9a370933a091270f965d7f21dec329
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r8066/42815
+K 3
+3.6
+V 23
+dir 7q4.50x.r9677/12870
+K 29
+bandreasen-sipXtapi-AOL-merge
+V 23
+dir 9wi.7mo.r10787/8458
+K 7
+bbridge
+V 22
+dir 7q4.68z.r9829/4609
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 11
+sipXtapi-UC
+V 22
+dir 9wi.7jy.r9594/5049
+K 14
+sipXtapi.wince
+V 24
+dir 9wi.662.r8313/638537
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 23
+dir 7q4.4t1.r10445/8915
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 14
+virtual-domain
+V 24
+dir 7q4.4t6.r8010/314955
+END
+ENDREP
+id: 7pt.7n4.r10818/1465
+type: dir
+pred: 7pt.7n4.r10817/1387
+count: 3258
+text: 10818 550 902 902 bb9d38067637ed0c70f3afd26038f7e8
+cpath: /sipXecs.old/branches
+copyroot: 10814 /sipXecs.old/branches
+
+PLAIN
+K 8
+branches
+V 23
+dir 7pt.7n4.r10818/1465
+K 4
+main
+V 20
+dir 7q4.7n2.r10811/0
+K 4
+tags
+V 20
+dir 7q5.7n3.r10812/0
+END
+ENDREP
+id: fus.0.r10818/1791
+type: dir
+pred: fus.0.r10817/1713
+count: 6
+text: 10818 1662 116 116 ca747df590fe8a165f4ce331c630cc5f
+cpath: /sipXecs.old
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir fuu.0.r10818/398
+K 4
+main
+V 20
+dir 9wi.7n5.r10815/0
+K 11
+sipXecs.old
+V 21
+dir fus.0.r10818/1791
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r10818/2117
+type: dir
+pred: 0.0.r10817/2039
+count: 10818
+text: 10818 1949 155 155 27a0179e51e11ffa016b43f0585023d4
+cpath: /
+copyroot: 0 /
+
+9wi._0.t10817-1 add false false /branches/sipXtapi-media-update
+10817 /sipXecs.old/branches/sipXtapi-media-update
+9wi.3ke.r10308/4876 delete false false /sipXecs.old/branches/sipXtapi-media-update
+
+
+2117 2264

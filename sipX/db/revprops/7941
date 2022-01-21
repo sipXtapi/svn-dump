@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-11-04T07:41:02.781536Z
+K 7
+svn:log
+V 113
+Removed superfluous enum key word in class scoped enums as it was actually
+causing compiler failures on GCC 4.X
+
+
+END

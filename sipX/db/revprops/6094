@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-10T18:56:32.469705Z
+K 7
+svn:log
+V 98
+remove spindle configuration files from Eclipse project - spindle does not support Tapestry 4 yet
+
+END

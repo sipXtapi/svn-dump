@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-11-29T18:45:08.014237Z
+K 7
+svn:log
+V 231
+XCF-73 - jasper-compiler.jar:
+- for users/developers that do not use 3rd party .rpms published on sipfoundry, but do not want to compile Tomcat either
+Copy jasper-compiler.jar to $JBOSS_HOME/catalina/lib directory and restart sipx
+
+END

@@ -1,0 +1,239 @@
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 2hg.0.r3393/21790
+K 9
+ChangeLog
+V 22
+file 2hh.1i7.r5673/634
+K 7
+INSTALL
+V 24
+file 2hi.1i7.r5443/27201
+K 7
+LICENSE
+V 23
+file 2hj.0.r3393/851332
+K 11
+Makefile.am
+V 23
+file 2hk.1i7.r5483/4846
+K 4
+NEWS
+V 23
+file 2hl.0.r3393/808567
+K 6
+README
+V 24
+file 2hm.1i7.r5365/24861
+K 4
+TODO
+V 22
+file 2hn.0.r4025/58643
+K 9
+acsite.m4
+V 22
+file 2ho.0.r3393/21475
+K 14
+ant-targets.am
+V 25
+file 2hp.1i7.r4886/145328
+K 15
+ant-targets.xml
+V 24
+file 2hq.1i7.r5770/12365
+K 3
+bin
+V 21
+dir 4bz.1i7.r5836/102
+K 19
+build.properties.in
+V 23
+file 81e.1i7.r5736/7566
+K 9
+build.xml
+V 23
+file 4h8.1i7.r5469/1383
+K 12
+configure.ac
+V 22
+file 2jg.1i7.r5721/119
+K 16
+dependencies.xml
+V 24
+file 5d9.1i7.r5770/12112
+K 3
+doc
+V 22
+dir 2jh.1i7.r5744/4999
+K 3
+etc
+V 25
+dir 4b7.1i7.r4884/5840691
+K 6
+jsetup
+V 23
+dir 8sq.1i7.r5770/25942
+K 3
+lib
+V 23
+dir 2jy.1i7.r5787/75580
+K 14
+lib.properties
+V 24
+file 81m.1i7.r5787/70980
+K 4
+meta
+V 22
+dir 4ea.1i7.r5788/3411
+K 7
+neoconf
+V 22
+dir 4eo.1i7.r5835/4751
+K 23
+profilepub_sipagent.dsp
+V 22
+file 4b5.1i7.r4929/429
+K 5
+setup
+V 22
+dir 8qg.1i7.r5734/1011
+K 18
+sipxconfig.spec.in
+V 21
+file 4bh.1i7.r5606/43
+K 18
+subant-targets.xml
+V 23
+file 4h9.1i7.r5402/3659
+K 3
+web
+V 22
+dir 4l5.1i7.r5831/9769
+K 15
+web-targets.xml
+V 24
+file 8uq.1i7.r5770/11880
+END
+ENDREP
+id: 2hf.1i7.r5837/1289
+type: dir
+pred: 2hf.1i7.r5836/1669
+count: 1362
+text: 5837 0 1276 1276 cfca3478b039ce4fcdb5b70a9fa3aff0
+props: 5638 28909 606 0 75232b1661d6754472ef4cf809c492e0
+cpath: /main/sipXconfig
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 7
+bbridge
+V 20
+dir 8dl.0.r5764/1853
+K 5
+build
+V 20
+file 7ve.0.r5711/741
+K 6
+config
+V 21
+dir 91.1i4.r5833/1114
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 14
+resiprocateLib
+V 20
+dir 8g8.0.r5655/3734
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r5804/6355
+K 17
+sipXcommserverLib
+V 22
+dir 1qo.1i6.r5832/5032
+K 10
+sipXconfig
+V 22
+dir 2hf.1i7.r5837/1289
+K 19
+sipXmediaAdapterLib
+V 20
+dir 89s.0.r5622/5435
+K 12
+sipXmediaLib
+V 21
+dir mz.1i8.r5743/6768
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r5809/2810
+K 9
+sipXphone
+V 22
+dir 6qk.1ia.r5262/5130
+K 11
+sipXportLib
+V 21
+dir 3.1ib.r5763/15517
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r5797/4745
+K 13
+sipXpublisher
+V 23
+dir 20n.1id.r5657/28648
+K 12
+sipXregistry
+V 23
+dir 1y5.1ie.r5816/26214
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r5763/23466
+K 8
+sipXvxml
+V 23
+dir 22d.1ig.r5657/13904
+END
+ENDREP
+id: 7q4.0.r5837/2334
+type: dir
+pred: 7q4.0.r5836/2716
+count: 882
+text: 5837 1529 792 792 923045e6e3d83c5ce0df57777f4b85c3
+props: 5724 51036 2516 0 5ec742b4a0031e5e1afc6d05c731cfc6
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r5757/2197
+K 4
+main
+V 20
+dir 7q4.0.r5837/2334
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r5837/2669
+type: dir
+pred: 0.0.r5836/3051
+count: 5837
+text: 5837 2542 114 114 0ae254ba2dd76282d39a810f33a16c72
+cpath: /
+copyroot: 0 /
+
+8ur.1i7.r5770/18657 delete false false /main/sipXconfig/weblib
+
+
+2669 2812

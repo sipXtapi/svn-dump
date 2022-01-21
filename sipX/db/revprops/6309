@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-03-08T04:56:55.064313Z
+K 7
+svn:log
+V 45
+Check in the schema for the SIPXCDR database
+
+END

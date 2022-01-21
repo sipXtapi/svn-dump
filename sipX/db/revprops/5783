@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-12-22T21:21:12.380392Z
+K 7
+svn:log
+V 85
+XCF-636 Patch from Hannu to use conditional settings in cisco ata setting descriptors
+END

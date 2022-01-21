@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-12T17:50:36.223363Z
+K 7
+svn:log
+V 341
+GSM checked in (not enabled) and more sipXspdLib dependancies added.
+
+* libgsm checked in to "sipXmediaLib\contrib" directory. libgsm VS2003 project added to solution, sipXmediaLib is linked with it for now. Will use #pragma for conditional linking.
+* Added several missed dependancies to sipXsdpLib.
+* Removed SCC block from sipXtapi.sln.
+
+
+END

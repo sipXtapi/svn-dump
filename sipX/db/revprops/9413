@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-04-26T16:48:55.901926Z
+K 7
+svn:log
+V 348
+Fix for memory leak in sipxtapi. In SIPX_CALL_DATA, contactAddress was never deleted and was even assigned a new UtlString every time an event was fired.
+
+I will gradually check all functions in sipxtapi, and add
+// jaro: CHECKED
+before them to mark those that should be less buggy now. Once all functions are checked, I will remove those comments.
+END

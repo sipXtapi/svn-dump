@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2007-02-23T19:47:57.660556Z
+K 7
+svn:log
+V 70
+[XSL-171] Correct escaping of UTF-8 characters with high order 1 bits
+
+END

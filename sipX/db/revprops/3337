@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-01-06T20:19:29.097813Z
+K 7
+svn:log
+V 110
+checkstyle rules update:
+- allow _ suffix for unused parameters
+- allow s_ prefix for non final static fields
+
+END

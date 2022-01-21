@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-08T22:14:37.624031Z
+K 7
+svn:log
+V 225
+XCF-1438 - sipXconfig generates mapping rule for ~~mh~@example.org -> sip:moh@${ORBIT_SERVER_SIP_SRV_OR_HOSTPORT}
+- SNOM phones (and other phones supporting MOH) are configured with  ~~mh~@example.org as music on hold source
+
+END

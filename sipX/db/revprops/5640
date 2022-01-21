@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-11-23T20:54:35.940580Z
+K 7
+svn:log
+V 509
+[XSL-72] Validate peer certs and provide connection security attribute
+
+Adds methods to OsConnectionSocket and OsSSLConnectionSocket that
+allow access to the security characteristics of the connection.
+
+Records those attributes in the HttpRequestContext so that they are
+available to anything layered on top of HTTP.
+
+Adds checking of the security for the ConfigRPC mechanism for remote
+manipulation of an OsConfigDb.
+
+Use the security in the bbridge configuration.
+
+http://track.sipfoundry.org/browse/XSL-72
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-24T17:37:18.921051Z
+K 7
+svn:log
+V 381
+Correct static typecast for VS2005.  Under some compilers (VS2003 in particular), the previous behavior worked fine - and it implicitly cast to reference.  On VS2005, it does not implicitly cast, and throws an error like so:
+
+1>.\src\mp\MpPlgEncoderWrap.cpp(50) : error C2243: 'type cast' : conversion from 'MpCodecInfo *' to 'const MppCodecInfoV1_1 &' exists, but is inaccessible
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-10-25T05:36:40.122265Z
+K 7
+svn:log
+V 66
+Fix Linux build: OsTask::syslog() had wrong __attribute__ format.
+
+END

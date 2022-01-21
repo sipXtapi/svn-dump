@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-30T21:36:20.120300Z
+K 7
+svn:log
+V 186
+XCF-511 showing SIP password only if user clicks on Show Advanced Settings link
+since password is now generated automatically you only need to see it when you configure unmanaged phones
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-17T15:57:27.927310Z
+K 7
+svn:log
+V 114
+XCF-247 - When adding line, have cancel go back to page that launched it, obsolete spring/hibernate servlet fliter
+END

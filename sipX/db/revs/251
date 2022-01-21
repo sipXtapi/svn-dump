@@ -1,0 +1,89 @@
+PLAIN
+K 10
+svn:ignore
+V 192
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxportlib.spec
+sipxportlib-*.rpm
+sipxportlib-*.tar.gz
+stamp-h1
+textfiles
+
+END
+ENDREP
+id: 3.0.r251/232
+type: dir
+pred: 3.0.r250/2058
+count: 235
+text: 250 1366 679 679 f1e2998f170a69de689dde9a82df5eb9
+props: 251 0 219 0 47bde96060673af6fd7672463826f727
+cpath: /old/sipXportLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir ar.0.r240/1677
+K 4
+main
+V 16
+dir 3.0.r251/232
+K 4
+tags
+V 18
+dir an.0.r169/1799
+END
+ENDREP
+id: 2.0.r251/560
+type: dir
+pred: 2.0.r250/2391
+count: 249
+text: 251 442 105 105 47f1fee58e6e3470bf6810580fce5167
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 16
+dir 2.0.r251/560
+END
+ENDREP
+id: 1.0.r251/768
+type: dir
+pred: 1.0.r250/2602
+count: 250
+text: 251 712 43 43 7d5b851d6d6dc65433382f727d3a4213
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 16
+dir 1.0.r251/768
+END
+ENDREP
+id: 0.0.r251/953
+type: dir
+pred: 0.0.r250/2790
+count: 251
+text: 251 906 34 34 881aff910660b8fecefee1ba95550b99
+cpath: /
+copyroot: 0 /
+
+3.0.t250-1 modify false true /old/sipXportLib/main
+
+
+953 1088

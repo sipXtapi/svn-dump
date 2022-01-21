@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2006-11-22T04:22:05.967056Z
+K 7
+svn:log
+V 65
+Colin's fixes for wince socket support
+and impl of LoadLibraryA
+
+
+END

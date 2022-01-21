@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2004-12-13T16:52:08.069646Z
+K 7
+svn:log
+V 472
+- In ::realize(), send STREAM_REALIZE_BUFFER message when source==SourceBuffer.
+  This fix submitted by P. van Bruggen (pietvb@newbridges.nl)
+- In ::realize(), perform blocking wait on PlayListElements state change
+  after all of the STREAM_REALIZE messages have been sent.
+- In ::destroyEntry(), set status to OS_SUCCESS once index argement has been validated.
+- In ::handleMessage(), add case to handle FeederStreamAbortEvent which
+  sets Player state to PlayerStopped.
+
+END

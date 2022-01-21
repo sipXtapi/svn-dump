@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-03-09T14:00:34.810545Z
+K 7
+svn:log
+V 87
+Added requirements of unixODBC and unixODBC-devl >= 2.2 to sipXcommserverLib .spec file
+END

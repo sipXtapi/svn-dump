@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-12-19T21:01:19.421835Z
+K 7
+svn:log
+V 143
+FIX BUILD: Add sipx-stats.1 generated output.  BTW: I plan to convert all man pages to use asciidoc so we won't have to check in generated docs
+END

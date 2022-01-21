@@ -1,0 +1,32 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-08-25T22:19:19.070401Z
+K 7
+svn:log
+V 1186
+User pin token:
+Servlet to change pintoken to replace what was done thru SOAP function
+Add user permission to enable/disable ability to change PIN thru web ui.  Superadmin will have it OFF by default as extra security measure to guard against gaining unauthorized access
+
+Enhanced support for audiocodes gateways.
+- multiple models defined - per AudioCodes specification
+- template ini files checked in
+- sipXconfig infrastructure updates to support easier definition of gateways types
+- Support for AudioCodes digital gateways (TP260) added.
+- Support for automatical injection of SIP proxy IP address, port and SIP domain name.
+
+XCF-434, XCF-532 Fix bug where profiles for all phones exception polycom were getting generated into incorrect path with redundant path names
+
+XCF-433 if one job fails, do not take down entire job queue, also fix job error message throwing NPE when only exception gets passed to job.failure() method
+
+XCF-506 Use local org.hibernate.util.DTDEntityResolver and DOM4J (instead of XMLUnit) to test generation of mapping files.
+This test does not require Internet connectivity to succeed now.
+
+Removed leading / from LIB_SRC specification in .classpath files
+
+END

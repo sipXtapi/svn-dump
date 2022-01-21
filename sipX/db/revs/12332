@@ -1,0 +1,760 @@
+PLAIN
+K 13
+svn:externals
+V 37
+^/main/sipXcallLib/include/tapi tapi
+
+K 10
+svn:ignore
+V 22
+Makefile
+Makefile.in
+
+
+END
+ENDREP
+id: bde.7n5.r12332/123
+type: dir
+pred: bde.7n5.r12293/9404
+count: 236
+text: 12293 9175 216 216 8884e243cd2c95fca84b1cac60d87551
+props: 12332 0 110 0 f6548895badfc9fbad85e76e814820f1
+cpath: /main/sipXportLib/include
+copyroot: 10815 /main
+
+PLAIN
+K 15
+Android-core.mk
+V 25
+file fxm.7o3.r12042/22695
+K 10
+Android.mk
+V 24
+file g8v.7n5.r11849/1736
+K 14
+Application.mk
+V 23
+file g8w.7n5.r11479/154
+K 12
+CONTRIBUTORS
+V 25
+file bcg.0.r6469/21591964
+K 9
+ChangeLog
+V 25
+file bch.0.r6469/21535752
+K 7
+INSTALL
+V 22
+file bci.0.r10440/5721
+K 11
+Makefile.am
+V 22
+file bcj.0.r9285/35165
+K 4
+NEWS
+V 25
+file bck.0.r6469/21599943
+K 6
+README
+V 24
+file bcl.0.r6955/1419372
+K 4
+TODO
+V 25
+file bcm.0.r6469/21597743
+K 9
+acsite.m4
+V 24
+file bcn.0.r6955/1417808
+K 3
+bin
+V 23
+dir bco.7n5.r11825/3124
+K 12
+configure.ac
+V 23
+file bd3.7n5.r11718/775
+K 3
+doc
+V 23
+dir bd4.7n5.r11825/2828
+K 7
+include
+V 22
+dir bde.7n5.r12332/123
+K 4
+meta
+V 24
+dir bhw.0.r6469/21535422
+K 24
+sipXportLib-msvc8.vcproj
+V 23
+file e78.7n5.r12304/913
+K 15
+sipXportLib.dsp
+V 23
+file 4c.7ng.r11387/6906
+K 15
+sipXportLib.vcp
+V 22
+file e6k.0.r8667/79650
+K 18
+sipXportLib.vcproj
+V 24
+file bi1.7n5.r12304/1113
+K 28
+sipXportLibTest-msvc8.vcproj
+V 24
+file e79.7n5.r10871/4946
+K 19
+sipXportLibTest.dsp
+V 23
+file ap.7nh.r11289/5728
+K 19
+sipXportLibTest.sln
+V 25
+file bi2.7n5.r12127/10409
+K 19
+sipXportLibTest.vcp
+V 22
+file e6l.0.r9027/28874
+K 22
+sipXportLibTest.vcproj
+V 24
+file bi3.7n5.r12127/9544
+K 29
+sipXportLib_NoSecurity.vcproj
+V 25
+file bi4.7n5.r12127/10198
+K 30
+sipXunitTestSuite-msvc8.vcproj
+V 22
+file exf.0.r10789/8760
+K 24
+sipXunitTestSuite.vcproj
+V 24
+file eb6.7n5.r12127/9945
+K 19
+sipxportlib.spec.in
+V 24
+file bi5.7n5.r11457/1633
+K 3
+src
+V 23
+dir bi6.7n5.r12326/3107
+K 12
+syslogviewer
+V 23
+dir bom.7n5.r11862/1008
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 21
+^/main/config config
+
+K 10
+svn:ignore
+V 144
+aclocal.m4
+config.h
+config.h.in
+config.log
+configure
+libtool
+BUILDSTAMP
+Makefile
+Makefile.in
+SVN-VERSION
+config.status
+stamp-h1
+autom4te.cache
+
+
+K 16
+svnmerge-blocked
+V 37
+/main/sipXportLib:8363,8539,8597,8691
+K 19
+svnmerge-integrated
+V 69
+/main/sipXportLib:1-8362,8364-8538,8540-8596,8598-8690,8692-8860,8949
+END
+ENDREP
+id: bcf.7n5.r12332/2290
+type: dir
+pred: bcf.7n5.r12326/4878
+count: 528
+text: 12332 361 1521 1521 dcde4552862780e0da2971ad8143c818
+props: 12332 1895 382 0 0f23bff704bfaa73ed4702b707744652
+cpath: /main/sipXportLib
+copyroot: 10815 /main
+
+PLAIN
+K 13
+svn:externals
+V 21
+^/main/config config
+
+K 10
+svn:ignore
+V 150
+aclocal.m4
+config.h
+config.h.in
+configure
+libtool
+BUILDSTAMP
+Makefile
+Makefile.in
+config.log
+config.properties
+config.status
+stamp-h1
+autom4te.cache
+
+
+END
+ENDREP
+id: e7v.7n5.r12332/2761
+type: dir
+pred: e7v.7n5.r12259/2263
+count: 147
+text: 12259 1316 934 934 845c28b119f343edf73a00f410b7a062
+props: 12332 2525 223 0 7827b28c1d506c8c8fc464f454d88943
+cpath: /main/sipXsdpLib
+copyroot: 10815 /main
+
+PLAIN
+K 13
+svn:externals
+V 21
+^/main/config config
+
+K 10
+svn:ignore
+V 132
+aclocal.m4
+config.h
+config.h.in
+configure
+libtool
+BUILDSTAMP
+Makefile
+Makefile.in
+config.log
+config.status
+stamp-h1
+autom4te.cache
+
+
+END
+ENDREP
+id: 9wt.7n5.r12332/3212
+type: dir
+pred: 9wt.7n5.r12329/4314
+count: 397
+text: 12329 2636 1665 1665 7ecd5d1cc285f16b36e71559b5e05d2b
+props: 12332 2994 205 0 ef07c7183e7adf0960f2168bcfc4512d
+cpath: /main/sipXcallLib
+copyroot: 10815 /main
+
+PLAIN
+K 13
+svn:externals
+V 21
+^/main/config config
+
+K 10
+svn:ignore
+V 1564
+aclocal.m4
+config.h
+config.h.in
+configure
+libtool
+BUILDSTAMP
+Makefile
+Makefile.in
+Debug
+Debug_NoVideo
+Release_NoVideo
+config.log
+config.status
+stamp-h1
+autom4te.cache
+bin/codec_g722.dll
+bin/codec_g722.ilk
+bin/codec_g726.dll
+bin/codec_g726.ilk
+bin/codec_gsm.dll
+bin/codec_gsm.ilk
+bin/codec_ilbc.dll
+bin/codec_ilbc.ilk
+bin/codec_pcmapcmu.dll
+bin/codec_pcmapcmu.ilk
+bin/codec_speex.dll
+bin/codec_speex.ilk
+bin/codec_tones.dll
+bin/codec_tones.ilk
+bin/libspandsp.dll
+contrib/libamrnb/Debug
+contrib/libamrnb/Release
+contrib/libamrwb/Debug
+contrib/libamrwb/Release
+contrib/libgsm/Debug
+contrib/libgsm/Release
+contrib/libgsm/lib/gsmd.lib
+contrib/libilbc/VS2003/Debug
+contrib/libilbc/VS2003/Release
+contrib/libilbc/lib/libilbcd.lib
+contrib/libspandsp/Debug
+contrib/libspandsp/Release
+contrib/libspeex/bin
+contrib/libspeex/lib
+contrib/libspeex/win32/VS2003/libspeex/Debug
+contrib/libspeex/win32/VS2003/libspeex/Release_Dynamic_SSE
+contrib/libspeex/win32/VS2003/libspeexdsp/Debug
+contrib/libspeex/win32/VS2003/libspeexdsp/Release_Dynamic_SSE
+src/mp/codecs/plgamr/Debug
+src/mp/codecs/plgamr/Release
+src/mp/codecs/plgamrwb/Debug
+src/mp/codecs/plgamrwb/Release
+src/mp/codecs/plgg722/Debug
+src/mp/codecs/plgg722/Release
+src/mp/codecs/plgg726/Debug
+src/mp/codecs/plgg726/Release
+src/mp/codecs/plggsm/Debug
+src/mp/codecs/plggsm/Release
+src/mp/codecs/plgilbc/Debug
+src/mp/codecs/plgilbc/Release
+src/mp/codecs/plgpcmapcmu/Debug
+src/mp/codecs/plgpcmapcmu/Release
+src/mp/codecs/plgspeex/Debug
+src/mp/codecs/plgspeex/Release
+src/mp/codecs/plgtones/Debug
+src/mp/codecs/plgtones/Release
+
+
+K 13
+svn:mergeinfo
+V 48
+/branches/rtcp-reenable/sipXmediaLib:12014-12113
+K 16
+svnmerge-blocked
+V 28
+/main/sipXmediaLib:8363,8539
+K 19
+svnmerge-integrated
+V 30
+/main/sipXmediaLib:1-7992,8309
+END
+ENDREP
+id: b40.7n5.r12332/5289
+type: dir
+pred: b40.7n5.r12331/5339
+count: 1778
+text: 12331 3937 1389 1389 bd0621f2044babbddcd44a59a90f0eab
+props: 12332 3448 1828 0 9538f009da0d305e6e1bb316bb7369dd
+cpath: /main/sipXmediaLib
+copyroot: 10815 /main
+
+PLAIN
+K 13
+svn:externals
+V 21
+^/main/config config
+
+K 10
+svn:ignore
+V 132
+aclocal.m4
+config.h
+config.h.in
+configure
+libtool
+BUILDSTAMP
+Makefile
+Makefile.in
+config.log
+config.status
+stamp-h1
+autom4te.cache
+
+
+K 16
+svnmerge-blocked
+V 30
+/main/sipXmediaAdapterLib:8363
+K 19
+svnmerge-integrated
+V 37
+/main/sipXmediaAdapterLib:1-7992,8177
+END
+ENDREP
+id: b2p.7n5.r12332/5872
+type: dir
+pred: b2p.7n5.r12328/4306
+count: 448
+text: 12328 2851 1442 1442 070aab01ba42ae71e52e2161c8787d04
+props: 12332 5528 331 0 9b1d35d6b2ba1b5782b80d5604edc0c6
+cpath: /main/sipXmediaAdapterLib
+copyroot: 10815 /main
+
+PLAIN
+K 13
+svn:externals
+V 37
+^/main/sipXcallLib/include/tapi tapi
+
+K 10
+svn:ignore
+V 22
+Makefile
+Makefile.in
+
+
+END
+ENDREP
+id: bq1.7n5.r12332/6239
+type: dir
+pred: bq1.7n5.r12249/13192
+count: 96
+text: 12249 13049 130 130 09abd13810036d86d9959abc2dc29d45
+props: 12332 6116 110 0 f6548895badfc9fbad85e76e814820f1
+cpath: /main/sipXtackLib/include
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g91.7n5.r12165/585
+K 12
+CONTRIBUTORS
+V 25
+file bor.0.r6469/22114347
+K 9
+ChangeLog
+V 25
+file bos.0.r6469/22149247
+K 7
+INSTALL
+V 24
+file bot.0.r6955/1737850
+K 11
+Makefile.am
+V 22
+file bou.0.r9285/80469
+K 4
+NEWS
+V 25
+file bov.0.r6469/22121423
+K 6
+README
+V 24
+file bow.0.r6955/1738184
+K 4
+TODO
+V 25
+file box.0.r6469/22151942
+K 9
+acsite.m4
+V 24
+file boy.0.r6955/1731963
+K 14
+ant-targets.am
+V 24
+file boz.0.r6711/5226484
+K 15
+ant-targets.xml
+V 25
+file bp0.0.r6469/22149418
+K 3
+bin
+V 23
+dir bp1.7n5.r11827/2900
+K 8
+cert8.db
+V 25
+file bp3.0.r6469/22154413
+K 20
+config.properties.in
+V 24
+file bpd.0.r6955/1734502
+K 12
+configure.ac
+V 25
+file bpe.7n5.r10869/10757
+K 7
+contrib
+V 24
+dir gue.7n5.r11696/21117
+K 11
+dialogwatch
+V 21
+dir dsz.0.r9285/71995
+K 3
+doc
+V 23
+dir bpf.7n5.r11827/2602
+K 8
+examples
+V 23
+dir bpw.7n5.r11852/2855
+K 7
+include
+V 23
+dir bq1.7n5.r12332/6239
+K 7
+key3.db
+V 25
+file bt7.0.r6469/22151521
+K 3
+lib
+V 24
+dir bt8.0.r6469/22119550
+K 22
+mcohen@pingtel.com.p12
+V 25
+file btb.0.r6469/22121180
+K 4
+meta
+V 21
+dir btc.7n5.r11827/61
+K 9
+secmod.db
+V 25
+file btj.0.r6469/22151225
+K 24
+sipXtackLib-msvc8.vcproj
+V 24
+file e7a.7n5.r11190/9941
+K 15
+sipXtackLib.dsp
+V 24
+file gj.7nw.r11289/28674
+K 15
+sipXtackLib.vcp
+V 24
+file e6m.0.r10056/144149
+K 18
+sipXtackLib.vcproj
+V 24
+file btk.7n5.r12130/6189
+K 28
+sipXtackLibTest-msvc8.vcproj
+V 23
+file e7b.0.r10789/40829
+K 19
+sipXtackLibTest.dsp
+V 24
+file mh.7nx.r11289/28436
+K 19
+sipXtackLibTest.sln
+V 24
+file btl.7n5.r12130/6580
+K 19
+sipXtackLibTest.vcp
+V 22
+file e6n.0.r9041/21232
+K 22
+sipXtackLibTest.vcproj
+V 24
+file btm.7n5.r12130/6381
+K 29
+sipXtackLib_NoSecurity.vcproj
+V 24
+file btn.7n5.r12130/6776
+K 15
+siplog2siptrace
+V 22
+dir bto.7n5.r11852/818
+K 7
+siptest
+V 23
+dir btr.7n5.r11914/2930
+K 9
+sipviewer
+V 23
+dir buv.7n5.r11827/3820
+K 19
+sipxtacklib.spec.in
+V 24
+file bvi.7n5.r10867/9415
+K 3
+src
+V 23
+dir bvj.7n5.r12313/5876
+K 15
+syslog2siptrace
+V 23
+dir byz.7n5.r11852/1823
+K 16
+tcpdump2siptrace
+V 25
+file bz3.0.r6469/22149596
+K 32
+user_cert_mcohen@pingtel.com.der
+V 25
+file bz4.0.r6469/22150908
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 21
+^/main/config config
+
+K 10
+svn:ignore
+V 150
+aclocal.m4
+config.h
+config.h.in
+configure
+libtool
+BUILDSTAMP
+Makefile
+Makefile.in
+config.log
+config.properties
+config.status
+stamp-h1
+autom4te.cache
+
+
+K 16
+svnmerge-blocked
+V 37
+/main/sipXtackLib:8363,8539,8582,8758
+K 19
+svnmerge-integrated
+V 109
+/main/sipXtackLib:1-7992,8004,8063,8127,8232,8247,8274,8318,8326,8338-8340,8362,8431,8449,8526,8700,8806,8891
+END
+ENDREP
+id: boq.7n5.r12332/9009
+type: dir
+pred: boq.7n5.r12313/8198
+count: 340
+text: 12332 6482 2072 2072 71e99b8781139b68aa4abbb6ef9d4ad6
+props: 12332 8567 429 0 00d7c85717e743acad79703a17ddf8bf
+cpath: /main/sipXtackLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g8y.7n5.r12172/315
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 22
+dir 9wj.7n5.r12306/723
+K 10
+readme.txt
+V 23
+file 9ws.7n5.r12316/178
+K 7
+scripts
+V 23
+dir fxk.7n5.r12171/1617
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r12332/3212
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r12332/5872
+K 12
+sipXmediaLib
+V 23
+dir b40.7n5.r12332/5289
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r12332/2290
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r12332/2761
+K 11
+sipXtackLib
+V 23
+dir boq.7n5.r12332/9009
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r12332/9901
+type: dir
+pred: 9wi.7n5.r12331/6235
+count: 3270
+text: 12332 9245 643 643 ac56ae84b86d73e09135235f0f007df7
+props: 12114 59175 76 0 1dd3880c3272b32f88d1700b38908223
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r12113/17441
+K 4
+main
+V 23
+dir 9wi.7n5.r12332/9901
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r12332/10296
+type: dir
+pred: 0.0.r12331/6631
+count: 12332
+text: 12332 10124 159 159 6224e1e33275b359a2b6e3e6ec25a315
+cpath: /
+copyroot: 0 /
+
+boq.7n5.t12331-1 modify false true /main/sipXtackLib
+
+bcf.7n5.t12331-1 modify false true /main/sipXportLib
+
+bq1.7n5.t12331-1 modify false true /main/sipXtackLib/include
+
+e7v.7n5.t12331-1 modify false true /main/sipXsdpLib
+
+bde.7n5.t12331-1 modify false true /main/sipXportLib/include
+
+9wt.7n5.t12331-1 modify false true /main/sipXcallLib
+
+b40.7n5.t12331-1 modify false true /main/sipXmediaLib
+
+b2p.7n5.t12331-1 modify false true /main/sipXmediaAdapterLib
+
+
+10296 10445

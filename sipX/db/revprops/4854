@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-07-14T22:07:01.070756Z
+K 7
+svn:log
+V 117
+Initialized merge tracking via svnmerge with revisions 1-2282 from
+https://paradise.pingtel.com/rep/sipX/mirror/main
+
+END

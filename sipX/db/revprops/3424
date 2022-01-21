@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-01-26T16:24:06.945105Z
+K 7
+svn:log
+V 173
+ErrorMsg component added. 
+By default it displays first error from the validator defined on the page as 
+beans validator. One can pass a different validator as a parameter.
+
+END

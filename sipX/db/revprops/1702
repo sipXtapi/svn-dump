@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-03-30T23:34:20.871349Z
+K 7
+svn:log
+V 151
+ Added more unit tests for Line Events.
+ Added more Mutex goodness around the firing of
+ LINE_UNREGISTERING and LINE_UNREGISTERED
+ in sipxLineRemove.
+
+
+END

@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-01-24T04:24:12.018757Z
+K 7
+svn:log
+V 286
+mergefrom pingtel-main 7624,7666
+
+Next revision of the RLS.
+Generating the RLMI for some events, but not yet as MIME multipart.
+
+Next increment of the RLS.
+It has all the machinery needed to generate resource list notices, but
+the Polycom phone does not process the notices completely.
+
+END

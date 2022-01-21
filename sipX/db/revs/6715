@@ -1,0 +1,106 @@
+id: 9wi.3ke.r6715/0
+type: dir
+pred: 9wi.0.r6713/7115
+count: 5
+text: 6713 6786 316 316 28a1b8141decfebb362c01faf869119e
+cpath: /branches/sipXtapi-media-update
+copyfrom: 6714 /branches/sipXtapi
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r6684/6307
+K 3
+3.4
+V 22
+dir 7q4.3ib.r6708/3157
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 20
+dir 9wi.0.r6713/7115
+K 21
+sipXtapi-media-update
+V 19
+dir 9wi.3ke.r6715/0
+K 12
+solaris_port
+V 24
+dir 7q4.39l.r6666/116324
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r6715/858
+type: dir
+pred: 7pt.0.r6713/7890
+count: 589
+text: 6715 193 652 652 135a6d3ba23f73b6699353de85862dc7
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 7pt.0.r6715/858
+K 4
+main
+V 20
+dir 7q4.0.r6714/4251
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6715/1136
+type: dir
+pred: 0.0.r6714/4587
+count: 6715
+text: 6715 1010 113 113 dda6c355d26d588a0f97f807ffcca444
+cpath: /
+copyroot: 0 /
+
+9wi._0.t6714-1 add false false /branches/sipXtapi-media-update
+6714 /branches/sipXtapi
+
+1136 1279

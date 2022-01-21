@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2010-02-03T22:20:40.617845Z
+K 7
+svn:log
+V 50
+sipXmediaLib: Add assert about resampling result.
+
+END

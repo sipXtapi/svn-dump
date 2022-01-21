@@ -1,0 +1,167 @@
+PLAIN
+K 10
+svn:ignore
+V 47
+build.err
+configure
+autom4te.cache
+aclocal.m4
+
+
+K 19
+svnmerge-integrated
+V 12
+/main:1-8654
+END
+ENDREP
+id: 7q4.6da.r8655/129
+type: dir
+pred: 7q4.6da.r8653/0
+count: 2356
+text: 8642 9336 1002 1002 01702d258728c00abd309e1300dfdfca
+props: 8655 0 116 0 1c18787c50bd17c9fe2df8a6a00ca8a4
+cpath: /branches/media-server-localization
+copyroot: 8653 /branches/media-server-localization
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r8066/42815
+K 3
+3.6
+V 22
+dir 7q4.50x.r8622/6238
+K 7
+bbridge
+V 22
+dir 7q4.68z.r8427/2781
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 10
+freeswitch
+V 22
+dir 7q4.6ae.r8639/2971
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 25
+media-server-localization
+V 21
+dir 7q4.6da.r8655/129
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 16
+proxy_simple_cdr
+V 23
+dir 1vt.5hb.r7955/13127
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 20
+dir 9wi.0.r8649/7567
+K 21
+sipXtapi-media-update
+V 22
+dir 9wi.3ke.r8654/7376
+K 14
+sipXtapi.wince
+V 24
+dir 9wi.662.r8313/638537
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 21
+dir 7q4.4t1.r7562/240
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 24
+user_dworley_redirectors
+V 22
+dir 7q4.3xw.r7858/7806
+K 30
+user_dworley_redirectors_merge
+V 22
+dir 7q4.5ja.r7925/6442
+K 14
+virtual-domain
+V 24
+dir 7q4.4t6.r8010/314955
+END
+ENDREP
+id: 7pt.0.r8655/1614
+type: dir
+pred: 7pt.0.r8654/8856
+count: 1474
+text: 8655 402 1199 1199 63cd29c1515cceae9f473147f2de81bc
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r8655/1614
+K 4
+main
+V 21
+dir 7q4.0.r8642/10351
+K 4
+tags
+V 20
+dir 7q5.0.r8544/3180
+END
+ENDREP
+id: 0.0.r8655/1897
+type: dir
+pred: 0.0.r8654/9140
+count: 8655
+text: 8655 1770 114 114 c8e0a956793b6983f8e9b13c39ee8b64
+cpath: /
+copyroot: 0 /
+
+7q4.6da.t8654-1 modify false true /branches/media-server-localization
+
+
+1897 2040

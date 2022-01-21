@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-02-06T04:48:47.102906Z
+K 7
+svn:log
+V 67
+sipXtapi init did not set max calls for call manager or media task
+
+END

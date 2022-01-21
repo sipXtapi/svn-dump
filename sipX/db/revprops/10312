@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-10T16:41:33.445235Z
+K 7
+svn:log
+V 32
+Use C99 types in OsDateTimeWnt.
+
+END

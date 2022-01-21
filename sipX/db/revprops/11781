@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-11-23T10:59:55.619557Z
+K 7
+svn:log
+V 53
+Added new resource message type for setting sockets.
+
+END

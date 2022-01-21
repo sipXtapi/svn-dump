@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-05-08T20:40:27.191100Z
+K 7
+svn:log
+V 152
+Turn off SPEEX, GSM, ILBC 
+(but retain preprocessor defs for them prefixed with xx)
+
+_CRT_SECURE_NO_WARNINGS should be _CRT_SECURE_NO_DEPRECATE.
+Fixed.
+
+END

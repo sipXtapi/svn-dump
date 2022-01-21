@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2008-05-19T18:44:41.439923Z
+K 7
+svn:log
+V 138
+-fixed a bug in CpPhoneMediaInterface and CpTopologyGraphInterface when 
+ using Multicast sockets and first port selected is not available
+END

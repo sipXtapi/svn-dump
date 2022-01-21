@@ -1,0 +1,33 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-08-14T19:28:23.103113Z
+K 7
+svn:log
+V 753
+Forking proxy restructuring
+   [XPR-182] If authproxy is configured, ensure it is always used.
+   This allows Route header parameters in redirects without creating a
+   security problem, which is needed to support mappings that route to
+   a domain through a specified intermediary (such as an SBC).
+
+Add unit tests for more of the forking proxy.
+
+Add normalizeProxyRoutes to SipMessage to perform inbound route header
+normalization for proxies.  This is used now in the forking proxy, and
+is ready for use in the authproxy, but merging it in is too big a job
+right now.
+
+Add Url::fromString method to allow setting an existing Url object
+from a string value.
+
+Add documentation for forwardingrules.xml
+
+Clean up several compiler warnings from gcc 4.0
+
+
+END

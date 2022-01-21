@@ -1,0 +1,679 @@
+K 10
+svn:author
+V 4
+szuk
+K 8
+svn:date
+V 27
+2006-10-07T22:49:17.286279Z
+K 7
+svn:log
+V 29536
+Merged revisions 7553-7697 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main
+
+........
+  r7553 | lazyboy | 2006-09-23 22:16:32 -0600 (Sat, 23 Sep 2006) | 1 line
+  
+  XCF-1268 - Freeze sipxconfig db schema to version 4
+........
+  r7559 | lazyboy | 2006-09-24 18:20:27 -0600 (Sun, 24 Sep 2006) | 1 line
+  
+  XCF-1266 - Add domain alias rules before dialing rules in mappingrules.xml generation
+........
+  r7560 | dworley | 2006-09-25 08:36:56 -0600 (Mon, 25 Sep 2006) | 2 lines
+  
+  Remove debugging print that I accidentally checked in.
+........
+  r7566 | xmlscott | 2006-09-25 13:34:02 -0600 (Mon, 25 Sep 2006) | 10 lines
+  
+  [XPB-761] Correct problems with incorrect voicemail message counts
+    The problem appears to have been a result of the fact that the
+    summary.xml file in each folder cached the counts, but could under
+    some circumstances end up with the wrong counts.  Some mechansims
+    use the cached values, and others used the actual message files.
+    This change eliminates the summary.xml file mechansim, and just
+    counts the files in the (few) cases in which we need the numbers.
+  [XCF-1251] correct status report following purge of deleted messages
+  [XPB-777] fix delete all in mailbox
+........
+  r7567 | lazyboy | 2006-09-25 15:25:41 -0600 (Mon, 25 Sep 2006) | 1 line
+  
+  XCF-1241 Add access to domain name to SOAP
+........
+  r7568 | lazyboy | 2006-09-25 15:37:41 -0600 (Mon, 25 Sep 2006) | 1 line
+  
+  XCF-1269 typo in manage domain ui
+........
+  r7569 | lazyboy | 2006-09-25 15:43:14 -0600 (Mon, 25 Sep 2006) | 1 line
+  
+  sipxconfig startup script should be recognizing sipx database version 4 schemas now
+........
+  r7570 | dpetrie | 2006-09-25 22:30:58 -0600 (Mon, 25 Sep 2006) | 5 lines
+  
+  Added sipXtapi, callManager and CpMediaInterface methods to set properties on
+  a conference/CpPeerCall assocated CpMediaInterface and a call/SipConnection
+  assocated CpMediaInterface connection.
+........
+  r7571 | dpetrie | 2006-09-25 22:32:03 -0600 (Mon, 25 Sep 2006) | 5 lines
+  
+  Added sipXtapi, callManager and CpMediaInterface methods to set properties on
+  a conference/CpPeerCall assocated CpMediaInterface and a call/SipConnection
+  assocated CpMediaInterface connection.
+........
+  r7572 | lazyboy | 2006-09-25 22:58:20 -0600 (Mon, 25 Sep 2006) | 1 line
+  
+  Fix rpm build error with lib dir not interpretting rpm build dir correctly
+........
+  r7574 | lazyboy | 2006-09-26 13:37:26 -0600 (Tue, 26 Sep 2006) | 1 line
+  
+  XCF-1279 - Change verbiage for domain name value and move to sidebar
+........
+  r7576 | xmlscott | 2006-09-26 14:24:27 -0600 (Tue, 26 Sep 2006) | 2 lines
+  
+  fix upgrade pruning of summary.xml files
+........
+  r7581 | dworley | 2006-09-26 15:29:21 -0600 (Tue, 26 Sep 2006) | 3 lines
+  
+  Add information about retrieving voicemail (and use of RFC 2833 DTMF).
+  Add information about MOH source URI.
+........
+  r7582 | lazyboy | 2006-09-26 16:00:24 -0600 (Tue, 26 Sep 2006) | 1 line
+  
+  Mark Polycom line registation settings that are determined automatically by user information as advanced settings to guard against redundant and possible erroneous setting values
+........
+  r7583 | lazyboy | 2006-09-26 19:14:29 -0600 (Tue, 26 Sep 2006) | 1 line
+  
+  FIX BUILD: Unit test assumed polycom authid was first visible on page
+........
+  r7584 | lazyboy | 2006-09-26 20:22:30 -0600 (Tue, 26 Sep 2006) | 1 line
+  
+  XCF-1281 - Allow polycom phones to be bulked changed to 2.0/1.6 firmware and set default accordingly for new phones from command line
+........
+  r7585 | dworley | 2006-09-26 21:01:35 -0600 (Tue, 26 Sep 2006) | 4 lines
+  
+  Convert the code to use the Posix str(n)casecmp at all times.
+  Set #define's in OsDefs.h to adapt to Windows systems that only have
+  str(n)icmp.
+........
+  r7586 | dworley | 2006-09-26 21:52:11 -0600 (Tue, 26 Sep 2006) | 7 lines
+  
+  mergefrom pingtel-main 7293
+  
+  Fix problems found by Valgrind:  uninitialized variables and SipRouter
+  not removing from the SipUserAgent the message listener it attaches.
+  This appears to fix the intermittent crashes seen in the sipXproxy
+  tests.
+........
+  r7587 | lazyboy | 2006-09-26 22:58:08 -0600 (Tue, 26 Sep 2006) | 1 line
+  
+  XCF-1257 - Package CDRs into separate RPM, add build support for ruby(abi) only relevant for centos4 and rhe4 and used by cdrs
+........
+  r7589 | lazyboy | 2006-09-27 08:23:44 -0600 (Wed, 27 Sep 2006) | 1 line
+  
+  XCF-1143 Fix SNTP w/DHCP setting label and description for polycom phones, it was reversed
+........
+  r7592 | dworley | 2006-09-27 14:45:25 -0600 (Wed, 27 Sep 2006) | 2 lines
+  
+  Remove svn:executable attribute from .cpp file.
+........
+  r7593 | dworley | 2006-09-28 08:15:27 -0600 (Thu, 28 Sep 2006) | 9 lines
+  
+  mergefrom pingtel-main 7053,7199
+  
+  Merge changes to the config directory from Pingtel Main.
+  (Most of rev. 7199 is changes to sipXbuild, which is the Pingtel
+  rel. eng. system. and not included here.)
+  
+  Change the 'config' subdirectories from svn:externals to symbolic links
+    (get rid of acsite.m4 by folding it into configure.as where it belonged)
+........
+  r7594 | dworley | 2006-09-28 08:26:46 -0600 (Thu, 28 Sep 2006) | 3 lines
+  
+  Remove config/cppunit.m4, as it duplicates what should be a system
+  file.
+........
+  r7595 | dworley | 2006-09-28 08:48:47 -0600 (Thu, 28 Sep 2006) | 3 lines
+  
+  Remove svn:externals for 'resiprocate' accidentally recreated by the
+  merge of rev. 7593.
+........
+  r7596 | lazyboy | 2006-09-28 10:06:29 -0600 (Thu, 28 Sep 2006) | 1 line
+  
+  XCF-1244,XCF-1109 Redo DST settings for SNTP to enumerated lists
+........
+  r7597 | lazyboy | 2006-09-28 11:13:55 -0600 (Thu, 28 Sep 2006) | 1 line
+  
+  XCF-1244 - Allow 0 for DST start/stop dates to signify DST is not used. Validation for other DST fields to allow 0 were made on svn rev 7596 
+........
+  r7598 | dkrzemin | 2006-09-28 15:52:02 -0600 (Thu, 28 Sep 2006) | 5 lines
+  
+  XCF-1278 attempt to fix:
+  - fix generated XML (back to: domain, alias from target_domain, caller_alias)
+  - add generating caller-alias whenever gateway data is changed
+  - add caller-alias to resource map
+........
+  r7599 | dworley | 2006-09-28 21:22:10 -0600 (Thu, 28 Sep 2006) | 3 lines
+  
+  Use freenum.org as the ISN redirector, as that is what the ISN people
+  intend to use for the long term.
+........
+  r7600 | dkrzemin | 2006-09-29 12:27:20 -0600 (Fri, 29 Sep 2006) | 3 lines
+  
+  XCF-1287 displayName parameter needs to be set on a TextField for validation message to work properly.
+  Ideally TextLabel should hold this value and not text field (which would require Tapestry fix), or we could be more intelligent about setting this from our FieldPanel component. For now though I just added missing displayName declarations.
+........
+  r7601 | dkrzemin | 2006-09-29 12:50:51 -0600 (Fri, 29 Sep 2006) | 2 lines
+  
+  XCF-1286 - sipXconfig will now restart sipXproxy (in addition to restarting registrar and authproxy) when activating dial plans. Newly added support for domain aliases requires that changes to forwardingrules.xml are propagated, and this file is read by sipXproxy.
+........
+  r7602 | lazyboy | 2006-09-29 13:26:17 -0600 (Fri, 29 Sep 2006) | 1 line
+  
+  Remove obsolete sipXphone project per consensus on sipx-dev mailing list
+........
+  r7603 | dkrzemin | 2006-09-29 13:53:17 -0600 (Fri, 29 Sep 2006) | 2 lines
+  
+  XCF-1277 fix regular expresion responsible for validating user Caller ID - all characters valid in user part of SIP URIs should be accepted now
+........
+  r7604 | dworley | 2006-09-29 14:16:50 -0600 (Fri, 29 Sep 2006) | 12 lines
+  
+  mergefrom pingtel-main 6491
+  
+  Improve log message.
+  
+  mergefrom-incremental pingtel-main 6587 (partial)
+  
+  Merge revision 6518,6528,6550,6571 and 6581 from pingtel-3.4
+  to pingtel-main.
+  Implement parked call retrieval by having the park server transfer 
+  the original call to the executor.
+........
+  r7605 | lazyboy | 2006-09-29 14:46:33 -0600 (Fri, 29 Sep 2006) | 1 line
+  
+  Make CDRs in proxy depend on unixODBC-devel
+........
+  r7606 | dkrzemin | 2006-09-29 15:34:59 -0600 (Fri, 29 Sep 2006) | 2 lines
+  
+  XCF-1271 switched from submit links to standard links to work around IE problem - gateway page now behaves in the same way that user page behaves: you need to add gateway (Apply or OK) before you see additional links
+........
+  r7607 | dworley | 2006-09-29 16:35:39 -0600 (Fri, 29 Sep 2006) | 4 lines
+  
+  mergefrom pingtel-main 7062-7063,7065,7067,7069,7080
+  
+  Next batch of changes to align the Park Server codebases.
+........
+  r7608 | dworley | 2006-09-29 16:45:35 -0600 (Fri, 29 Sep 2006) | 4 lines
+  
+  Mark revs. 6830, 6981, and 7249 merged from 3.4.
+  Their content was already merged by other paths, but the merge
+  properties did not record that.
+........
+  r7609 | lazyboy | 2006-09-29 21:53:08 -0600 (Fri, 29 Sep 2006) | 1 line
+  
+  FIX BUILD: Rollback commit 7607
+........
+  r7610 | dkrzemin | 2006-09-29 21:53:55 -0600 (Fri, 29 Sep 2006) | 2 lines
+  
+  XCF-1255 checking for duplicates was only working properly if both objects were of the same class - fix DaoUtils.checkDuplicates
+........
+  r7611 | lazyboy | 2006-09-29 22:09:04 -0600 (Fri, 29 Sep 2006) | 1 line
+  
+  XCF-1226 Fix missing build numbers, typo in SVN_VERSION filename
+........
+  r7612 | dworley | 2006-09-30 05:44:20 -0600 (Sat, 30 Sep 2006) | 5 lines
+  
+  mergefrom pingtel-main 7062-7063,7065,7067,7069-7070,7080
+  
+  Next batch of changes to align the Park Server codebases -
+  Second try.  (The build machine is pickier than my gcc.)
+........
+  r7613 | dworley | 2006-09-30 06:59:53 -0600 (Sat, 30 Sep 2006) | 4 lines
+  
+  mergefrom pingtel-main 7087,7093,7105,7116,7164,7169-7170,7180
+  
+  Next set of changes to align versions of sipXpark.
+........
+  r7614 | dworley | 2006-09-30 08:25:32 -0600 (Sat, 30 Sep 2006) | 4 lines
+  
+  mergefrom pingtel-main 7241-7242,7274,7276,7280,7295
+  
+  Last batch of changes to aligh Park Serve sources.
+........
+  r7615 | dworley | 2006-09-30 08:42:17 -0600 (Sat, 30 Sep 2006) | 3 lines
+  
+  Fix "outgoingAddress" argument to CallManager that should have been
+  merged from pingtel-main rev. 5228.
+........
+  r7616 | lazyboy | 2006-09-30 11:30:55 -0600 (Sat, 30 Sep 2006) | 1 line
+  
+  XCF-1226 Change all EXTRA_DIST variables to include SVN-VERSION file, the file created by sipxget to fix buidl numbers and rpm names
+........
+  r7617 | lazyboy | 2006-09-30 20:22:53 -0600 (Sat, 30 Sep 2006) | 1 line
+  
+  FIX BUILD: remove another reference to obsoleted SVN_VERSION filename
+........
+  r7618 | dworley | 2006-09-30 20:43:23 -0600 (Sat, 30 Sep 2006) | 4 lines
+  
+  First set of changes to interop.pingtel.com file installation to use a
+  Makefile that will edit into the files the SIP domain name, rather
+  than having it hard-coded into index.html.
+........
+  r7619 | dworley | 2006-09-30 20:47:46 -0600 (Sat, 30 Sep 2006) | 2 lines
+  
+  Fix index.html so that it accepts substitutions for the SIP domain name.
+........
+  r7620 | dworley | 2006-09-30 21:07:54 -0600 (Sat, 30 Sep 2006) | 2 lines
+  
+  Add warning about changing the install directories.
+........
+  r7621 | lazyboy | 2006-09-30 23:12:52 -0600 (Sat, 30 Sep 2006) | 1 line
+  
+  XCF-1226 - FIX BUILD: incorrect reference to buildstamp file potentially exposed by build stamps getting activated again.  Made all references to buildstemp files the same and more resiliant to directory changes
+........
+  r7622 | lazyboy | 2006-10-01 07:33:17 -0600 (Sun, 01 Oct 2006) | 1 line
+  
+  FIX BUILD: OrbitFileReader.h was not accounted for in RPM spec file because first header file in root include dir
+........
+  r7624 | lazyboy | 2006-10-01 10:20:57 -0600 (Sun, 01 Oct 2006) | 1 line
+  
+  FIX BUILD: RPM cut/paste error - incorrect path to orbit header file. arrhh
+........
+  r7625 | dkrzemin | 2006-10-01 11:37:57 -0600 (Sun, 01 Oct 2006) | 2 lines
+  
+  XCF-1232 hibernate was complaining about non-unique object attached to the session when adding a newly created rule with added gateways - now gateways are added after the rule is saved, GatewayContext has new methods for adding and removing gateways to the rule
+........
+  r7626 | dkrzemin | 2006-10-01 12:38:40 -0600 (Sun, 01 Oct 2006) | 2 lines
+  
+  added link to setting.dtd to fix problems when building off-line (when http://www.sipfoundry.org/sipXconfig/dtd/setting_2_0.dtd is not available)
+........
+  r7627 | dkrzemin | 2006-10-01 17:45:42 -0600 (Sun, 01 Oct 2006) | 2 lines
+  
+  XCF-1232 DB tests and UI tests for adding existing gateways to newly created rules
+........
+  r7628 | lazyboy | 2006-10-01 21:11:58 -0600 (Sun, 01 Oct 2006) | 1 line
+  
+  XCF-1168 add ldap schedule into hibernate session by saving it first then allowing parent object to save it.  this gets around an annoying issue with hibernate session cache
+........
+  r7629 | lazyboy | 2006-10-01 21:39:04 -0600 (Sun, 01 Oct 2006) | 1 line
+  
+  merge 7350 from pingtel main replacing top_srcdir with top_builddir
+........
+  r7630 | lazyboy | 2006-10-02 06:32:49 -0600 (Mon, 02 Oct 2006) | 1 line
+  
+  FIX BUILD: Rollback edit to use top_builddir in reciprocate lib, appears to not work
+........
+  r7631 | dworley | 2006-10-02 09:41:37 -0600 (Mon, 02 Oct 2006) | 4 lines
+  
+  Relocate OrbitFileReader.* into sipXcommserverLib/.../filereader, so its
+  header goes into /usr/include/filereader, rather than /usr/include.
+  Clean up the related fixes in revs. 7622 and 7624.
+........
+  r7632 | dkrzemin | 2006-10-02 09:49:46 -0600 (Mon, 02 Oct 2006) | 1 line
+  
+  update for sipxconfig dev release 3.5.6
+........
+  r7634 | dworley | 2006-10-02 13:16:43 -0600 (Mon, 02 Oct 2006) | 2 lines
+  
+  Add the "Got ISN?" badge to the ISN section of index.html.
+........
+  r7636 | dkrzemin | 2006-10-02 17:23:33 -0600 (Mon, 02 Oct 2006) | 1 line
+  
+  Mainline version update 3.5 -> 3.7
+........
+  r7637 | dkrzemin | 2006-10-02 18:11:41 -0600 (Mon, 02 Oct 2006) | 3 lines
+  
+  Initialized merge tracking via svnmerge with revisions 1-7636 from
+  https://scm.sipfoundry.org/rep/sipX/branches/3.6
+........
+  r7638 | dworley | 2006-10-02 19:11:04 -0600 (Mon, 02 Oct 2006) | 2 lines
+  
+  Copy dialogwatch/dialogdisplay from Pingtel main.
+........
+  r7640 | cypromis | 2006-10-03 03:24:58 -0600 (Tue, 03 Oct 2006) | 3 lines
+  
+  fixes http://track.sipfoundry.org/browse/XPB-791
+  updates java-sun version to current 09
+........
+  r7642 | cypromis | 2006-10-03 05:04:20 -0600 (Tue, 03 Oct 2006) | 4 lines
+  
+  fix for http://track.sipfoundry.org/browse/XCF-1037
+  missing default value for SIP_PROXY_DEFAULT_SERIAL_EXPIRES
+........
+  r7644 | dkrzemin | 2006-10-03 14:30:16 -0600 (Tue, 03 Oct 2006) | 5 lines
+  
+  Merged revisions 7637-7643 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/branches/3.6/sipXconfig
+  
+  XCF-1293 ManageDomain page was not retrieving localized message from properties.
+........
+  r7647 | dworley | 2006-10-04 07:44:01 -0600 (Wed, 04 Oct 2006) | 2 lines
+  
+  Add forwarding prefixes to dial plan.
+........
+  r7649 | dworley | 2006-10-04 08:28:34 -0600 (Wed, 04 Oct 2006) | 2 lines
+  
+  Add sample mapping rule for a forwarding prefix (105) to another PBX.
+........
+  r7650 | dworley | 2006-10-04 12:42:24 -0600 (Wed, 04 Oct 2006) | 3 lines
+  
+  Add comment explaining why some of the WWW libraries occur in the -l list
+  more than once.
+........
+  r7656 | cypromis | 2006-10-05 10:03:48 -0600 (Thu, 05 Oct 2006) | 1 line
+  
+  First Polish and German translation files
+........
+  r7657 | cypromis | 2006-10-05 10:31:27 -0600 (Thu, 05 Oct 2006) | 1 line
+  
+  Translation to German and Polish of the User_Portal part of the sipXconfig WWW interface
+........
+  r7658 | cypromis | 2006-10-05 10:48:24 -0600 (Thu, 05 Oct 2006) | 1 line
+  
+  PL and DE translation of user part of sipXconfig Webinterface
+........
+  r7659 | cypromis | 2006-10-05 11:05:07 -0600 (Thu, 05 Oct 2006) | 1 line
+  
+  DE and PL translations of settings part of sipxconfig GUI
+........
+  r7660 | cypromis | 2006-10-05 12:13:36 -0600 (Thu, 05 Oct 2006) | 1 line
+  
+  DE + PL translations of search interface for sipxconfig
+........
+  r7661 | cypromis | 2006-10-05 12:14:51 -0600 (Thu, 05 Oct 2006) | 1 line
+  
+  cosmetics
+........
+  r7662 | dworley | 2006-10-05 12:49:16 -0600 (Thu, 05 Oct 2006) | 5 lines
+  
+  Merged revisions 4703 via svnmerge from
+  https://paradise.pingtel.com/rep/sipX/pingtel/main
+  
+  Delay for a few seconds before sending out the SUBSCRIBE.
+........
+  r7663 | dworley | 2006-10-05 13:18:20 -0600 (Thu, 05 Oct 2006) | 18 lines
+  
+  mergefrom-incremental pingtel-main 4943
+  
+  Added the check for dialog handle to prevent the crash of
+  unsubscribing due to the event of not being successfully subscribed at
+  the first place.
+  
+  Added some checks for the active agent pointer before using it to
+  prevent the crash.
+  
+  Fixed the issue of putting the routing call in the queue (ENG-346) and
+  also added stopAudio when a call is being dropped.
+  http://paradise.pingtel.com:8080/browse/ENG-346
+  
+  Cleaned up all the timers in the destructor.
+  
+  Fixed the issue of crash during the ACD shutdown.
+  http://paradise.pingtel.com:8080/browse/ENG-374
+........
+  r7664 | dworley | 2006-10-05 13:47:52 -0600 (Thu, 05 Oct 2006) | 19 lines
+  
+  mergefrom pingtel-main 5192
+  
+  Update how NOTIFY bodies are constructed to allow customized content
+  to be generated for events that have no published content.
+  Change how memory is managed in the event publisher interface to make
+  life easier for callers.
+  Revise the users of the SUBSCRIBE server (including sipXtapi) to use
+  the changed interface.
+  Fix dialog event publisher to use the new default content constructor
+  and not null out content when the last call terminates.
+  Fix destructor for SipPublishContentMgr to delete sub-structures, to
+  reduce memory leaks.
+  Add debugging method to HttpBody.
+  Extend the number of places where eventType is used along side of
+  eventTypeKey, in order to support new default content constructors, as
+  well as to make the interfaces more regular.
+  Update unit tests.
+  Improve comments in sipXtackLib/src/test/Makefile.am.
+........
+  r7665 | dworley | 2006-10-05 14:16:51 -0600 (Thu, 05 Oct 2006) | 32 lines
+  
+  mergefrom pingtel-main 5201
+  
+  Insert missing braces around scope of temporary variable.
+  
+  mergefrom pingtel-main 5459
+  
+  Fixed the RNA for ring all scenario.
+  http://track.pingtel.com/browse/ACD-64
+  Not to subscribe the presence information if presenceServerUrl is ill-formed.
+  There is a thread deadlock issue in LinePresenceMonitor component which definitely causes xmlrpc stop to respond in ACD server. Here is the attempt to fix the problem.
+  http://track.pingtel.com/browse/ACD-56
+  Output the agent sign-in and sign-out in the INFO level and do not send out unsubscribe message if mMonitorPresence is false.
+  Fixed the typo of PRI_INFO.
+  Fixed the issue of publishing the termination state on incoming lines.
+  Also need to publish the line state if agent hangs up the call first.
+  Accidentally broke the case of handling the overflow queue when the maximum queue time occurs.
+  Added some debugging statements to help tracking the issue of ENG-406.
+  http://paradise.pingtel.com:8080/browse/ENG-406
+  Included the port number as part of entity. Otherwise, nobody will receive the notifications.
+  Reverted back to version 5285. Handle variables for call object are still used in the call clean in ACDCallManager.
+  Make maximum connections become a configurable parameter from ACDServer and pass it down to media subsystem.
+  Added some debugging statements to help tracing the crash in ACD server.
+  Set the default value for time out as 5 seconds.
+  Accidentally broke a couple of things.
+  http://paradise.pingtel.com:8080/browse/ENG-418
+  http://paradise.pingtel.com:8080/browse/ENG-419
+  Added the feature of transfer mode in ACD.
+  Fixed the issue of delayed sign-in/sign-out from the presence server.
+  http://paradise.pingtel.com:8080/browse/ENG-377
+  Added some protections to what can be deleted during the runtime. However, there is more work need to be done to make full-bullet proof solution. Also, allow toset the maximum number of calls allowed in ACD from sipxacd.xml file.
+  Make the presence server hang up the call after 3 seconds instead of 1 second. And also pass the maximum connections to media subsystem.
+........
+  r7666 | cypromis | 2006-10-05 15:17:46 -0600 (Thu, 05 Oct 2006) | 1 line
+  
+  German translation files for sipxconfig
+........
+  r7667 | dworley | 2006-10-05 15:31:59 -0600 (Thu, 05 Oct 2006) | 18 lines
+  
+  mergefrom pingtel-main 5477
+  
+  Add protection against the caller starting a timer on one thread while
+  deleting it on another thread.
+  This version of the code aborts on an assert() violation when this
+  race condition is detected.  We may want to revise how this is
+  handled, but in the long run, any application which triggers this
+  assert() should be fixed.
+  Sharpen the check in OsTimer::doStartTimer.
+  Fix minor bugs in PlaceCall and ReceiveCall.
+  Correct the values returned by SipDialog::getStateString.
+  Allow siptest to receive NOTIFY requests.
+  Turn on console output in siptest.  (Otherwise it logs nothing.)
+  Add latest improvements to siptrace-merge.
+  Add merge-logs.
+  Improve comments.
+  Fix miscellaneous typos.
+........
+  r7674 | cypromis | 2006-10-06 08:51:26 -0600 (Fri, 06 Oct 2006) | 1 line
+  
+  more .pl and .de sipxconfig translations
+........
+  r7675 | cypromis | 2006-10-06 08:55:11 -0600 (Fri, 06 Oct 2006) | 1 line
+  
+  more german translations for sipXconfig
+........
+  r7676 | cypromis | 2006-10-06 08:56:41 -0600 (Fri, 06 Oct 2006) | 1 line
+  
+  more german translations for sipxconfig
+........
+  r7677 | dworley | 2006-10-06 11:24:14 -0600 (Fri, 06 Oct 2006) | 6 lines
+  
+  mergefrom pingtel-main 5496
+  
+  Ensure that mpSubscriptionMgr and mpSubscribeServer are initialized even when
+  mToBePublished is FALSE.
+  Add assertions and warning messages.
+........
+  r7678 | dworley | 2006-10-06 12:44:26 -0600 (Fri, 06 Oct 2006) | 30 lines
+  
+  mergefrom pingtel-main 5518
+  
+  Add code to properly signal and release the OsProtectedEvent allocated
+  in CallManager::bufferPlay.
+  Correct how the ending time of a re-SUBSCRIBE is calculate.
+  In getPublished, when the default constructor is missing, return NULL
+  via the appropriate argument, rather than leaving it un-defined.
+  Put the Subscription-State header in NOTIFYs, as required by RFC 3265.
+  Remove a call to SipPublishContentMgr::unpublish, as with the new
+  memory management scheme for that class, it is not needed.
+  Correct the presence status values to "open" and "closed", per RFC
+  3863 section 4.1.4.
+  Fix a use of SipPublishContentMgr::publish which is usually
+  conditionalized out, and so had suffered bit rot.
+  Generate Accept headers on SUBSCRIBEs to specify the media-type we
+  desire.  (Not mandatory under RFC 3265, but a good idea.)
+  Put the right content-type (application/dialog-info+xml) on dialog events.
+  Use the symbolic name SIP_DIALOG_EVENT_CONTENT_TYPE for that string.
+  Put a comment on the call that puts an Accept-Language on most requests,
+  noting what it means.
+  Fix SipMessage::setSubscribeData to set the Route header only if there
+  is a non-empty value for it.
+  Add a default content constructor to SipPresenceMonitor so we can
+  produce correct presence notifications for users that we know nothing
+  about, which is the state before the user signs in/out the first time.
+  Add an assert that will catch mis-used timers a little earlier than
+  they are now.
+  http://track.pingtel.com/browse/ACD-98
+  Improve tests and debugging prints.
+........
+  r7679 | dworley | 2006-10-06 13:32:34 -0600 (Fri, 06 Oct 2006) | 4 lines
+  
+  mergefrom pingtel-main 5560
+  
+  Merged the fix from Francis Joanis of CML for ACD-69, ACD-81, and ACD-82.
+........
+  r7680 | dpetrie | 2006-10-06 13:53:02 -0600 (Fri, 06 Oct 2006) | 4 lines
+  
+  Changed windows counting semaphore so that it returns consistent error 
+  return with what the unit test added in rev. 7423 now expects.
+........
+  r7681 | dworley | 2006-10-06 14:12:10 -0600 (Fri, 06 Oct 2006) | 12 lines
+  
+  mergefrom pingtel-main 5813
+  
+  Also, revamp SipSubscriptionMgr to create and use its own
+  SipDialogMgr, rather than accepting one from its creator.  The latter
+  policy appears to be more efficient, but is hard to make work well, as
+  the creator doesn't know when SipSubscriptionMgr is done with the
+  SipDialogMgr, and most of the time has to create a SipDialogMgr just
+  for SipSubscriptionMgr.
+  fixed crash in sipXtackLibTest.
+  SipDialogManager is owned by the Subscription Manager, so, it should
+  not be deleted.
+........
+  r7683 | dpetrie | 2006-10-06 15:12:25 -0600 (Fri, 06 Oct 2006) | 2 lines
+  
+  Use conssitant RTTI compilation for MSVS 6
+........
+  r7684 | dpetrie | 2006-10-06 15:13:25 -0600 (Fri, 06 Oct 2006) | 2 lines
+  
+  Use conssitant RTTI compilation for MSVS 6
+........
+  r7685 | dpetrie | 2006-10-06 15:13:59 -0600 (Fri, 06 Oct 2006) | 2 lines
+  
+  Use conssitant RTTI compilation for MSVS 6
+........
+  r7686 | dpetrie | 2006-10-06 15:14:41 -0600 (Fri, 06 Oct 2006) | 3 lines
+  
+  Use conssitant RTTI compilation for MSVS 6
+........
+  r7687 | dpetrie | 2006-10-06 15:15:18 -0600 (Fri, 06 Oct 2006) | 2 lines
+  
+  Use conssitant RTTI compilation for MSVS 6
+........
+  r7688 | dpetrie | 2006-10-06 15:15:56 -0600 (Fri, 06 Oct 2006) | 2 lines
+  
+  Use conssitant RTTI compilation for MSVS 6
+........
+  r7689 | dpetrie | 2006-10-06 15:16:24 -0600 (Fri, 06 Oct 2006) | 2 lines
+  
+  Use conssitant RTTI compilation for MSVS 6
+........
+  r7691 | dworley | 2006-10-06 16:23:19 -0600 (Fri, 06 Oct 2006) | 68 lines
+  
+  mergefrom pingtel-main 5840,5842,5914,5982
+  
+  Remove unused definition of assignment operator for
+  LinePresenceMonitor.
+  Correct "result = false" to "result = true".
+  Initialize LinePresenceMonitor::mpDialogMonitor.
+  Delete reinitialization of CpCallManager::mCallNum, which could cause
+    Call-IDs to be duplicated.
+  Add/improve/correct comments.
+  Align argument names in LinePresenceMonitor.cpp with those in
+    LinePresenceMonitor.h.
+  Qualify typedef name "Status" so it is clear what module it is from.
+  Remove unused #define.
+  Improve debugging messages.
+  Delete reinitialization of CpCallManager::mCallNum, which could cause
+     Call-IDs to be duplicated.
+  Fix indentation.
+  Oops, you can't dynamic_cast void* into anything.
+  Switch the order of two initializers to the order they will be
+  executed.
+  Clean up the machinery for Dialog and SipDialogEvent in preparation
+  for fixing SipDialogMonitor.
+  Dialogs are now identified by call-Id, to-tag, and from-tag, rather
+  than call-Id alone, as call-Id is not a unique identifier for dialogs.
+  SipDialogEvent::getDialog now looks up dialogs based on call-Id and
+  tags, rather than just tags.  This requires adjustments in
+  and DialogEventPublisher.cpp.
+  SipDialogEvent now stores dialogs in a UtlSList rather than a
+  UtlHashMap, as there are likely to be only a few of them.
+  Disabled the assignment and copy constructors for these classes, as
+  nobody seems to be using them, and the implementations were dubious.
+  Provide method to return an iterator over the dialogs in a
+  SipDialogEvent, rather than to copy the dialogs into a supplied
+  UtlHashMap, as this is more efficient and appears to suffice for all
+  the callers' needs.
+  Adjust tests.
+  Overhaul of SipDialogMonitor so it will handle partial updates of
+  dialog event packages.  Also, handle multiple dialogs reported in one
+  package, and multiple subscriptions established by one SUBSCRIBE.
+  Additional tests for SipDialogMonitor, and fixes for the bugs that
+  they revealed.
+  Conditionalize OsSysLog activation in SipDialogMonitorTest.
+  Update the pick-up server to add "?Require=replaces" to the
+  redirection address.  This will cause pick-ups from UAs that do not
+  support INVITE with Replaces to fail with a 420 rather than causing
+  strange behavior.
+  Adjust SipSubscribeClient::handleNotifyRequest so that it gives the
+  callback routines the early dialog handle even if there is an
+  established dialog handle.  This allows the callback routines to
+  correlate early dialogs with established ones.
+  Improve the description of addStateChangeNotifier.
+  Add test for the situation where a NOTIFY arrives after we've stopped
+  tracking the state for its subscription.
+  Improve comments on NotifyEventCallback type.
+  Fix the problem that caused the tests
+  SipUserAgentTest::testShutdownNonBlocking and
+  SipUserAgentTest::testShutdownBlocking to fail sometimes.
+  The threads started by the SipUserAgent et al. do not stop
+  synchronously with the calls to shut them down, so the test has to
+  wait a short time before checking whether there are any unexpected
+  threads running.
+  Generate the "target" URIs in dialog events correctly by not putting them
+  in <...>.  Using <...> is syntactically incorrect (they are not part of the
+  URI), and tinyXML doesn't escape them properly.
+  Revise LinePresenceMonitor to deal with asynchronous processing much
+  better.
+  http://paradise:8080/browse/ENG-490
+........
+  r7696 | xmlscott | 2006-10-07 12:20:15 -0600 (Sat, 07 Oct 2006) | 5 lines
+  
+  Allow the default installation directory to be set
+  with the environment variable SIPX_INSTALLDIR.
+  This restores a feature lost in the conversion to the
+  new (and better) build system.
+........
+  r7697 | xmlscott | 2006-10-07 12:23:26 -0600 (Sat, 07 Oct 2006) | 2 lines
+  
+  [XCF-1278] fix replication.cgi for caller-alias database
+........
+
+END

@@ -1,0 +1,42 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-24T23:41:41.380642Z
+K 7
+svn:log
+V 1279
+Merged revisions 8613-8617 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main
+
+........
+  r8613 | dworley | 2007-01-23 23:24:12 -0500 (Tue, 23 Jan 2007) | 9 lines
+  
+  mergefrom pingtel-main 7624,7666
+  
+  Next revision of the RLS.
+  Generating the RLMI for some events, but not yet as MIME multipart.
+  
+  Next increment of the RLS.
+  It has all the machinery needed to generate resource list notices, but
+  the Polycom phone does not process the notices completely.
+........
+  r8614 | lazyboy | 2007-01-24 07:15:55 -0500 (Wed, 24 Jan 2007) | 1 line
+  
+  Fix dependency for ruby-gems, was downloading each time
+........
+  r8615 | dkrzemin | 2007-01-24 12:14:28 -0500 (Wed, 24 Jan 2007) | 4 lines
+  
+  XCF-1458 minor changes in Polycom BLF support
+  - do not add BLF-enabled buttons to directory file (seems that phone is doing this automatically)
+  - subscribe to "consolidated" resource list from Polycom phones ('c' appendened to list id)
+........
+  r8617 | dkrzemin | 2007-01-24 18:36:16 -0500 (Wed, 24 Jan 2007) | 2 lines
+  
+  XPR-208 purging CDRs was incorectly removing newest CDRs - most of the time one could only see the CDRs processed in the latest iteration (run 'delete from cdrs' on on SIPXCDR database to recompute all CDRs since last CSE purge)
+........
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-07T13:22:12.475362Z
+K 7
+svn:log
+V 256
+Fix MpSineWaveGeneratorDeviceDriver: generated sine had fixed period and magnitude. Several small fixes too:
+* Initialize member variables in initialization section.
+* Use microseconds to specify sine period.
+* Typos in variables names and comments fixed.
+
+END

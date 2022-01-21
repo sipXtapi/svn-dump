@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-12-13T04:02:12.653868Z
+K 7
+svn:log
+V 222
+XCF-94 fix:
+- security manager properly initialized in profilegenerator.sh(.in)
+- RMIConnectionManager does not overwrite security manager now
+- MDBIInterceptor simplified
+- removed catching Exception in UserAdvocateBean 
+
+END

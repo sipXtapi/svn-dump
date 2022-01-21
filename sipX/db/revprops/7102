@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2006-07-20T14:42:43.782761Z
+K 7
+svn:log
+V 52
+- fixes to get bbridge to compile under window again
+END

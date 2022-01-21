@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2010-05-11T06:33:29.290227Z
+K 7
+svn:log
+V 107
+sipXmediaAdapterLib: Revert erronous change in CpTopologyGraphInterface::getNatedAddresses() return value.
+
+END

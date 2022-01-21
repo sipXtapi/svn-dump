@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-10T14:30:14.730807Z
+K 7
+svn:log
+V 124
+Fix test for locating openssl library path
+  It was always adding /usr/local/lib to the path rather than the
+  right place.
+
+END

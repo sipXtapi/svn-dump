@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-01-23T02:14:58.266342Z
+K 7
+svn:log
+V 258
+Add framework for unit tests of commserver components that need to
+read and write files, including subclasses for SipDb tests and RegistrationDb tests.
+
+Add the implementation of RegistrationDB::getMaxUpdateNumberForRegistrar
+and a partial unit test for it.
+
+END

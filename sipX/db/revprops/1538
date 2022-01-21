@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-02-06T17:36:32.408699Z
+K 7
+svn:log
+V 75
+addded #include of <windows.h>  required in VC7 for the definition of NULL
+
+END

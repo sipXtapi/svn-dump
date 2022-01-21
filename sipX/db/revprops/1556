@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-02-11T17:30:01.121620Z
+K 7
+svn:log
+V 65
+Added SipXHandleMap.cpp and sipXtapiInternal.cpp to source list.
+
+END

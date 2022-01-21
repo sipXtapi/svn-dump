@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-09-23T20:47:35.331001Z
+K 7
+svn:log
+V 109
+Update locally-pointed externals for 'tapi' resources to the new location of sipxtapi code on the mainline.
+
+
+END

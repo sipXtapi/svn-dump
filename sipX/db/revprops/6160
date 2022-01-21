@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-16T03:17:58.720812Z
+K 7
+svn:log
+V 189
+Clean up logging of XML-RPC messages and some other syncronization logging
+Change the newlines in the XML-RPC messages to make them take fewer
+lines and make the structures easier to read.
+
+END

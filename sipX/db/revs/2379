@@ -1,0 +1,186 @@
+PLAIN
+K 13
+svn:externals
+V 68
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6.1/config
+
+K 10
+svn:ignore
+V 144
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxregistry.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 56
+https://scm.sipfoundry.org/rep/sipXregistry/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 4
+1-79
+K 18
+svnmerge-main-head
+V 48
+https://scm.sipfoundry.org/rep/sipXregistry/main
+K 18
+svnmerge-main-revs
+V 4
+1-61
+END
+ENDREP
+id: 1y5.bw.r2379/505
+type: dir
+pred: 1y5.bo.r2378/1400
+count: 57
+text: 2378 741 646 646 6a1df54540713c140b1f5b4e243bc79c
+props: 2379 0 492 0 0e854562e09858ab2ae3e97a30cd036d
+cpath: /old/sipXregistry/tags/2.6.1
+copyfrom: 2378 /old/sipXregistry/branches/2.6
+
+PLAIN
+K 5
+2.5.1
+V 20
+dir 1y5.bg.r2308/198
+K 5
+2.5.2
+V 21
+dir 1y5.bh.r2316/1127
+K 12
+2.6-export-A
+V 20
+dir 1y5.bp.r2363/512
+K 12
+2.6-export-B
+V 20
+dir 1y5.bq.r2365/512
+K 12
+2.6-export-C
+V 20
+dir 1y5.bs.r2372/512
+K 12
+2.6-export-D
+V 20
+dir 1y5.bt.r2373/512
+K 12
+2.6-export-E
+V 20
+dir 1y5.bu.r2374/512
+K 12
+2.6-export-F
+V 20
+dir 1y5.bv.r2377/512
+K 5
+2.6.1
+V 20
+dir 1y5.bw.r2379/505
+K 13
+main-export-B
+V 20
+dir 1y5.bm.r2359/396
+K 13
+main-export-C
+V 20
+dir 1y5.bn.r2361/396
+END
+ENDREP
+id: 1z5.0.r2379/1242
+type: dir
+pred: 1z5.0.r2377/1220
+count: 12
+text: 2379 762 467 467 12fe017fa693c77dc0e51e3a25dbc775
+cpath: /old/sipXregistry/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1zf.0.r2378/1712
+K 4
+main
+V 19
+dir 1y5.0.r2368/959
+K 4
+tags
+V 20
+dir 1z5.0.r2379/1242
+END
+ENDREP
+id: 1y4.0.r2379/1532
+type: dir
+pred: 1y4.0.r2378/2005
+count: 80
+text: 2379 1407 112 112 0c6d50911cc07f004ce0f0c49feccb0f
+cpath: /old/sipXregistry
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2379/1532
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2379/2011
+type: dir
+pred: 1.0.r2378/2484
+count: 2378
+text: 2379 1693 305 305 2f57bbd5be2c6a7d80b24f569320e75d
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2379/2011
+END
+ENDREP
+id: 0.0.r2379/2206
+type: dir
+pred: 0.0.r2378/2679
+count: 2379
+text: 2379 2157 36 36 702a9b9e029235830745ecba580ab949
+cpath: /
+copyroot: 0 /
+
+1y5._0.t2378-1 add false true /old/sipXregistry/tags/2.6.1
+2378 /old/sipXregistry/branches/2.6
+
+2206 2347

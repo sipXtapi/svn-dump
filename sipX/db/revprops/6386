@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-03-16T23:42:29.837629Z
+K 7
+svn:log
+V 294
+Call Resolver now does initial load of events in specified time window.
+Adopt most of the standard Rails directory structure because it's hard to figure out how to make unit testing work without following the standard Rails pattern, even though we're just using the ActiveRecord part of Rails.
+
+END

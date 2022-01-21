@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-03-09T00:39:03.766888Z
+K 7
+svn:log
+V 131
+Shut down syslog logging for unit test after it completes.
+This fixes a  windows bug where removal of zero sized log files failed.
+
+END

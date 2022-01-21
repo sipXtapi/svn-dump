@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-31T12:53:41.182144Z
+K 7
+svn:log
+V 311
+mergefrom user_dworley_redirectors2main 7670,7671,7690
+
+Relocate test redirector to redirect_plugins, in preparation for
+making it into a plugin.
+Revise SipRedirectorTest to work as a plugin.
+Add join redirector.  (Actually, join redirector was added in rev
+7682, this rev modifies it and several other files.)
+
+END

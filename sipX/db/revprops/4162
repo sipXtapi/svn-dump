@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-11T02:03:18.984636Z
+K 7
+svn:log
+V 81
+Add necessary backslashes to sed commands.
+
+Remove the junk command group 'foo'.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-23T19:33:50.919663Z
+K 7
+svn:log
+V 137
+XCF-1335 sipXconfig automatically sets registrar-config.in/SIP_REGISTRAR_DOMAIN_ALIASES variable after list of domain aliases is changed
+
+END

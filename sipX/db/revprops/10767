@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-08-09T15:45:33.734614Z
+K 7
+svn:log
+V 103
+Fix MpBridgeAlgSimple to correctly apply AGC and to set speech type on produced audio frames corectly.
+
+END

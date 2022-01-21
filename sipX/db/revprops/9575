@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-05-18T15:30:18.208321Z
+K 7
+svn:log
+V 51
+Fixed bug in testPtime unittest introduced in 9574.
+END

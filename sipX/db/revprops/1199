@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-02-10T22:48:27.865885Z
+K 7
+svn:log
+V 95
+Making sure that if the gain level is set to the minimum, that audio is muted.
+(Windows-Only).
+
+END

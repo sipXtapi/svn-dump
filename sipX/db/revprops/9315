@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-04-11T13:00:24.801256Z
+K 7
+svn:log
+V 86
+XCF-1577 - Purge all but N backups on next backup, where N is the alotted backup count
+END

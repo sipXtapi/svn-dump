@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-06-23T01:15:03.661627Z
+K 7
+svn:log
+V 52
+FIX BUILD : remove JDK 1.5 string method in unittest
+END

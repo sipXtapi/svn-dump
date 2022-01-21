@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-01-27T18:08:55.983127Z
+K 7
+svn:log
+V 168
+XCF-1475 - Build SOAP4R rpms for sipXconfig-report. Ruby 1.8.1 (CentOS and RHEL4) comes with an older version that is not compatible and too old, so these rpms are nec.
+END

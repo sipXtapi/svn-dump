@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-02-14T15:14:19.437666Z
+K 7
+svn:log
+V 55
+XCF-753 Remove hive:spring syntax errors for t4 upgrade
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-18T13:30:34.397347Z
+K 7
+svn:log
+V 77
+BugFix in launchix.dsp -- release build target was overwriting debug target.
+
+END

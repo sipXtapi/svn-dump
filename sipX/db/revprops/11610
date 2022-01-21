@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2010-03-23T17:24:43.252229Z
+K 7
+svn:log
+V 62
+sipXmediaLib: Add HAVE_SPEEX_RESAMPLER ifdefs to source code.
+
+END

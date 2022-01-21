@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+msl
+K 8
+svn:date
+V 27
+2006-03-30T22:49:06.038788Z
+K 7
+svn:log
+V 182
+correct typo in variable name (withval/with_val)
+configure did not take into account path given to --with-xerces=PATH and would not find Xerces if installed in non-standard location
+
+END

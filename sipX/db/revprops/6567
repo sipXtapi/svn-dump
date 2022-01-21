@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2006-04-12T18:19:14.168463Z
+K 7
+svn:log
+V 112
+Added the termination character at the end of pDecodedPayLoadData. Otherwise, it could cause xml parsing error.
+
+END

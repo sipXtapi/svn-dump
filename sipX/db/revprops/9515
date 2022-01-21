@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-11T06:52:04.209169Z
+K 7
+svn:log
+V 102
+MpInputOutputFrameworkTest: Make short-circuit test even more resistant to failed CPPUnit assertions.
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-09-30T12:59:53.277383Z
+K 7
+svn:log
+V 115
+mergefrom pingtel-main 7087,7093,7105,7116,7164,7169-7170,7180
+
+Next set of changes to align versions of sipXpark.
+
+END

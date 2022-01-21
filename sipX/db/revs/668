@@ -1,0 +1,67 @@
+id: kz.0.r668/0
+type: dir
+count: 0
+cpath: /old/sipXtackLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 15
+dir kz.0.r668/0
+K 4
+main
+V 18
+dir dk.0.r667/1353
+K 4
+tags
+V 18
+dir kr.0.r641/2057
+END
+ENDREP
+id: dj.0.r668/200
+type: dir
+pred: dj.0.r667/1647
+count: 69
+text: 668 83 104 104 4f0b8701e2028f3bd92658a110abc27c
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 17
+dir dj.0.r668/200
+END
+ENDREP
+id: 1.0.r668/449
+type: dir
+pred: 1.0.r667/1898
+count: 667
+text: 668 352 84 84 64c37cfb30b66c2d87b7bc4772af9272
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 16
+dir 1.0.r668/449
+END
+ENDREP
+id: 0.0.r668/634
+type: dir
+pred: 0.0.r667/2086
+count: 668
+text: 668 587 34 34 2f18b1d729c00d6cc26c4eb072651c59
+cpath: /
+copyroot: 0 /
+
+_0.0.t667-1 add false false /old/sipXtackLib/branches
+
+
+634 769

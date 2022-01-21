@@ -1,0 +1,178 @@
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 1yq.0.r2305/51
+type: dir
+pred: 1yq.0.r2303/3660
+count: 3
+text: 2303 2979 668 668 7cad5d2b52165b21bec9316527d204b3
+props: 2305 0 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXregistry/main/src
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1y6.0.r2300/66299
+K 9
+ChangeLog
+V 22
+file 1y7.0.r2300/59231
+K 7
+INSTALL
+V 22
+file 1y8.0.r2300/59024
+K 7
+LICENSE
+V 22
+file 1y9.0.r2300/57828
+K 11
+Makefile.am
+V 22
+file 1ya.0.r2300/64478
+K 4
+NEWS
+V 22
+file 1yb.0.r2300/66153
+K 6
+README
+V 22
+file 1yc.0.r2300/66500
+K 4
+TODO
+V 22
+file 1yd.0.r2300/58245
+K 9
+acsite.m4
+V 22
+file 1ye.0.r2300/59380
+K 3
+bin
+V 21
+dir 1yf.0.r2300/64285
+K 12
+configure.ac
+V 21
+file 1yk.0.r2301/3643
+K 3
+etc
+V 21
+dir 1yl.0.r2300/66005
+K 16
+sipXregistry.dsp
+V 21
+file 1z4.0.r2304/1542
+K 3
+src
+V 18
+dir 1yq.0.r2305/51
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 66
+configure
+Makefile.in
+build
+config.h.in
+autom4te.cache
+aclocal.m4
+
+END
+ENDREP
+id: 1y5.0.r2305/1043
+type: dir
+pred: 1y5.0.r2304/2339
+count: 5
+text: 2305 270 568 568 acab1984004d90e95453f220897525d6
+props: 2305 851 179 0 f8780b9f6aac5ad15bff91396ce83e96
+cpath: /old/sipXregistry/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 20
+dir 1y5.0.r2305/1043
+END
+ENDREP
+id: 1y4.0.r2305/1314
+type: dir
+pred: 1y4.0.r2304/2610
+count: 6
+text: 2305 1262 39 39 ee8d7ac2a36c837862ba46e3009c5b17
+cpath: /old/sipXregistry
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2305/1314
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2305/1790
+type: dir
+pred: 1.0.r2304/3086
+count: 2304
+text: 2305 1472 305 305 9a47150c952bb576dba538890cab2820
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2305/1790
+END
+ENDREP
+id: 0.0.r2305/1985
+type: dir
+pred: 0.0.r2304/3281
+count: 2305
+text: 2305 1936 36 36 fec5bb58a2781d49ba6331094352defd
+cpath: /
+copyroot: 0 /
+
+1yq.0.t2304-1 modify false true /old/sipXregistry/main/src
+
+1y5.0.t2304-1 modify false true /old/sipXregistry/main
+
+
+1985 2126

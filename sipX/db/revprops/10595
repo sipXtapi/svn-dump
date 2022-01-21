@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-02-26T20:36:02.979725Z
+K 7
+svn:log
+V 289
+To correct callLib breakage that occurred when playBuffer was widebandified, currently hard-code the buffer play at the callLib level to play only 8kHz buffers.
+
+This behaviour remains the same as it was previously (as sipXmediaLib and sipXmediaAdapterLib used to only support 8kHz anyway)
+END

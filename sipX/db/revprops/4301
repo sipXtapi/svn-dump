@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-22T20:13:10.699834Z
+K 7
+svn:log
+V 174
+http://track.sipfoundry.org/browse/XVX-59
+Added the replytovoicemail.vxml script.  Added line to Makefile.am so
+replytovoicemail.vxml would be copied to installed directory.
+
+END

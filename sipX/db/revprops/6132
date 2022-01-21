@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-14T21:51:33.745596Z
+K 7
+svn:log
+V 403
+[XRR-83] Document configuration of High Availablity
+         Second draft of HA setup instructions
+         Added commented-out examples to the configuration files that
+           must be editted.
+         Added sipx-dns script for generating DNS configuration records.
+         Added validation of watchdog.xml
+         Fixed a bug in xml file validation that caused some errors to
+           be lost.
+
+END

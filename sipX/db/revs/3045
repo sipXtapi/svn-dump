@@ -1,0 +1,117 @@
+id: 2hf.h8.r3045/0
+type: dir
+pred: 2hf.0.r3044/2674
+count: 19
+text: 3044 1702 959 959 2b4c072055c488e8ee46e8161bf8efa6
+props: 3031 2430 180 0 12058b5d304b927b36c7896295e0d907
+cpath: /old/sipXconfig/tags/2.5.2
+copyfrom: 3044 /old/sipXconfig/main
+
+PLAIN
+K 5
+2.5.1
+V 20
+dir 2hf.h7.r3034/198
+K 5
+2.5.2
+V 18
+dir 2hf.h8.r3045/0
+END
+ENDREP
+id: 4b6.0.r3045/333
+type: dir
+pred: 4b6.0.r3034/494
+count: 1
+text: 3045 246 74 74 a38727ad25157b4b77ce2f5bf13d81e1
+cpath: /old/sipXconfig/tags
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 20
+dir 2hf.0.r3044/2674
+K 4
+tags
+V 19
+dir 4b6.0.r3045/333
+END
+ENDREP
+id: 2he.0.r3045/577
+type: dir
+pred: 2he.0.r3044/2980
+count: 21
+text: 3045 491 73 73 5be0930458c0846fc7b875655057f3de
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 19
+dir 2he.0.r3045/577
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3045/1175
+type: dir
+pred: 1.0.r3044/3581
+count: 3044
+text: 3045 732 430 430 b2ace854502e57a38e23f141a2f1cec5
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3045/1175
+END
+ENDREP
+id: 0.0.r3045/1369
+type: dir
+pred: 0.0.r3044/3776
+count: 3045
+text: 3045 1320 36 36 057aa74ff812d7718b5a1f802741b9e9
+cpath: /
+copyroot: 0 /
+
+2hf._0.t3044-1 add false false /old/sipXconfig/tags/2.5.2
+3044 /old/sipXconfig/main
+
+1369 1510

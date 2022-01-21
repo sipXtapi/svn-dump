@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-02-14T03:00:00.284634Z
+K 7
+svn:log
+V 129
+autoconf macros for ant targets (from previous checkin today) were ineffective, truly define convienent ant macros in general.m4
+
+END

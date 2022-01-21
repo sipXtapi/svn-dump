@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-21T15:53:15.885357Z
+K 7
+svn:log
+V 290
+XCF-920 problems with Javascript and Palette component on UserForm page
+turns out components that use Javascript cannot have id with a colon in it - ids in T4 are used to generate some Javascript names, if ID has a colon it renders invalid javascript preventing pages from working properly
+
+END

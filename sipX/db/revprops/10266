@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-04T17:06:50.241687Z
+K 7
+svn:log
+V 221
+Use mixer mode for new audio output device drivers by default.
+Direct write mode was shown to be unreliable, because it require that always exist at least (and at most) one feeder for device driver, or driver will stuck.
+
+END

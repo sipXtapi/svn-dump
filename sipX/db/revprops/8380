@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-12-26T18:37:56.753599Z
+K 7
+svn:log
+V 269
+Asserts in audio codecs decode() routines changed to osPrintf() warning. In current realization of MpJitterBuffer it is often situation to pass less buffer then really available space. This is due to circular structure of buffer and incorrect handling of its boundary.
+
+END

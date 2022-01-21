@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-06-15T17:07:20.453257Z
+K 7
+svn:log
+V 165
+HashMap and its iterator are now working.
+Notes:
+  the insert and findNext methods moved from UtlContainer to UtlList because
+  they don't make sense in UtlHashMap.
+
+END

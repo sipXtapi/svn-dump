@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-06-01T21:13:35.201231Z
+K 7
+svn:log
+V 292
+I believe silenceLength was meant to be 10 seconds when recording here, since the record length is 10 seconds.  It makes no sense for the silence length to be 1000x as long as the record length (though it is benign, since the intention was for the silence length to stop the recording early).
+END

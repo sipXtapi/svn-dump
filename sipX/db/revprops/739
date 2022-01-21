@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-12-22T19:16:13.086711Z
+K 7
+svn:log
+V 52
+remove use of strcasecmp by switching to a UtlString
+END

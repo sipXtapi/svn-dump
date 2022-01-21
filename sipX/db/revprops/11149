@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-29T11:06:00.991049Z
+K 7
+svn:log
+V 467
+sipXmediaLib: Bugfix: Audio stopped playing if MediaTask was descheduled for more then frame period.
+This was the case because MprToOutputDevice's internal frame time was advanced too far to the future and and audio frames were never accepted by an output driver.
+This fix just skips outdated frames - this leads to audioble skips in played audio, but maintains output latency.
+In future, to mask skipped frames we can use PLC-like method, repeating last few frames.
+
+END

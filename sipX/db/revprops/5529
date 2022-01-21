@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2005-11-07T21:20:49.175746Z
+K 7
+svn:log
+V 386
+- fixes to bbridge VS.NET project files to use resiprocate from sipX/resiprocateLib 
+- disable ConfigRPC for windows builds of bbridge, since this eventually pulls in 
+  osSSLxxxx stuff which does not yet build nicely under windows
+- removed bogus source control bindings from sipXMediaLib, sipXPortLib, and sipXStackLib projects
+- added some missing Utl files from sipXPortLib project
+
+END

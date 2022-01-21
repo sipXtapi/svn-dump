@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-02-24T20:36:33.381516Z
+K 7
+svn:log
+V 137
+Fix up how URL references are tested for absolute vs. relative so it
+won't stop working if we add another scheme.
+Add debugging message.
+
+END

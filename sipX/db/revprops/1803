@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-22T22:03:31.131626Z
+K 7
+svn:log
+V 47
+Added MSVC 6 projects for the sipXcommserverLib
+END

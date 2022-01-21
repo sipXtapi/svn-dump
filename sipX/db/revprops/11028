@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-05T01:21:01.709271Z
+K 7
+svn:log
+V 372
+Fix Linux breakage I introduced in r11025.
+While VC6 compiler was now happy - satisfied that the maximum() call was now
+unambiguous, Gnu GCC compiler now was confused and found ambiguity.
+
+This now should remove all ambiguity and make everyone happy.
+I think the problem lied in the negation -- the negation may have been taking
+an int16_t and making it something else.
+
+
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2006-12-12T23:34:21.445270Z
+K 7
+svn:log
+V 48
+Redirect expected stderr output to null device.
+
+END

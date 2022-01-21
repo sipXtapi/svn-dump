@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-09-24T23:17:50.085186Z
+K 7
+svn:log
+V 46
+First checkin of the SUBSCRIBE handling code.
+
+END

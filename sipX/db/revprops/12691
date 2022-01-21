@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2018-03-01T08:50:07.882955Z
+K 7
+svn:log
+V 84
+Add automake rules to get source audio recordings for MpCodecsQualityTest unit test
+
+END

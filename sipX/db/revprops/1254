@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-11T20:48:30.688506Z
+K 7
+svn:log
+V 256
+Add an error message in deletePayloadType (in place of an assert).
+If this message is printed and there is not a previous corresponding
+error message from addPayloadType, the race condition in XMR-29 has
+happened.
+http://track.sipfoundry.org/browse/XMR-29
+
+END

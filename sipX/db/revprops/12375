@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-05-31T05:49:38.580689Z
+K 7
+svn:log
+V 70
+Added unit test cases for MprRecorderResource multi-channel recording
+
+END

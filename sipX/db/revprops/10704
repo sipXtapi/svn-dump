@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-07-01T21:30:22.157133Z
+K 7
+svn:log
+V 341
+Better behaviour of MprToOutputDevice in case of high flowgraph processing or audio output jitter.
+This helps a lot when running on VM.
+This also may lead to audio stop in case of clock skew between flowgraph processing and audio output, but at the moment we always synchronize flowgraph processing with output device, so this can't happen.
+
+END

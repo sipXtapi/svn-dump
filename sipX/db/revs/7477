@@ -1,0 +1,466 @@
+PLAIN
+K 13
+svn:externals
+V 100
+tapi https://scm.sipfoundry.org/rep/sipX/branches/user_dworley_URI_parsing/sipXcallLib/include/tapi
+
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: e5.4t2.r7477/186
+type: dir
+pred: e5.1if.r7381/40103
+count: 170
+text: 7381 39962 128 128 ac8a29cd6fa025a97c1f7886d6ead0b9
+props: 7477 0 173 0 e3cad6affe73294533389f51a6a2ecd5
+cpath: /branches/user_dworley_URI_parsing/sipXtackLib/include
+copyroot: 4813 /main/sipXtackLib
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 20
+file dl.0.r772/70283
+K 9
+ChangeLog
+V 21
+file dm.0.r891/128130
+K 7
+INSTALL
+V 21
+file dn.0.r891/155358
+K 7
+LICENSE
+V 21
+file do.0.r891/111455
+K 11
+Makefile.am
+V 24
+file dp.1if.r7320/130683
+K 4
+NEWS
+V 20
+file dq.0.r772/79111
+K 6
+README
+V 20
+file dr.0.r772/69980
+K 4
+TODO
+V 20
+file ds.0.r772/75936
+K 14
+ant-targets.am
+V 21
+file du.0.r891/127031
+K 15
+ant-targets.xml
+V 18
+file dv.0.r1039/83
+K 17
+basicimclient.dsp
+V 23
+file le.20v.r6363/18781
+K 3
+bin
+V 23
+dir l0.1if.r7320/130444
+K 6
+config
+V 24
+file d3u.1if.r7274/40626
+K 20
+config.properties.in
+V 24
+file dz.1if.r7320/129056
+K 12
+configure.ac
+V 24
+file e0.1if.r7320/128800
+K 3
+doc
+V 23
+dir e1.1if.r7320/129877
+K 8
+examples
+V 23
+dir lf.1if.r6259/175057
+K 7
+include
+V 20
+dir e5.4t2.r7477/186
+K 3
+lib
+V 20
+dir gh.0.r650/115439
+K 4
+meta
+V 22
+dir l6.1if.r4899/81809
+K 15
+sipXtackLib.dsp
+V 23
+file gj.20w.r6813/72639
+K 18
+sipXtackLib.vcproj
+V 22
+file ld.1if.r6252/1316
+K 19
+sipXtackLibTest.dsp
+V 23
+file mh.21h.r6813/72414
+K 19
+sipXtackLibTest.sln
+V 25
+file 8b5.1if.r4939/417652
+K 22
+sipXtackLibTest.vcproj
+V 25
+file 8b6.1if.r4939/396677
+K 15
+siplog2siptrace
+V 23
+dir gk.1if.r6839/105189
+K 7
+siptest
+V 23
+dir gn.1if.r5457/206595
+K 11
+siptest.dsp
+V 23
+file kv.36c.r6363/19055
+K 9
+sipviewer
+V 21
+dir hn.1if.r4916/2889
+K 19
+sipxtacklib.spec.in
+V 20
+file kw.1if.r7246/75
+K 3
+src
+V 21
+dir i8.1if.r7383/4033
+K 15
+syslog2siptrace
+V 21
+dir kk.1if.r7188/4471
+K 16
+tcpdump2siptrace
+V 19
+file mb.0.r1047/729
+END
+ENDREP
+id: dk.4t2.r7477/1938
+type: dir
+pred: dk.1if.r7383/5755
+count: 510
+text: 7477 460 1465 1465 fbd0f83ef51df882196ce32d0a679e12
+props: 7274 42318 1289 0 b09d6d0faff42593cbd2dbea8b56a553
+cpath: /branches/user_dworley_URI_parsing/sipXtackLib
+copyroot: 4813 /main/sipXtackLib
+
+PLAIN
+K 11
+Makefile.in
+V 22
+file d0m.421.r7330/866
+K 7
+bbridge
+V 21
+dir 8dl.0.r7320/66517
+K 5
+build
+V 22
+file d5a.0.r7320/66775
+K 6
+config
+V 20
+dir 91.1i4.r7461/910
+K 12
+configure.ac
+V 22
+file d0n.0.r7375/40114
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 3
+lib
+V 20
+dir cyn.0.r7417/1603
+K 14
+resiprocateLib
+V 20
+dir 8g8.0.r7462/1081
+K 9
+sipXb2bua
+V 22
+dir dau.0.r7443/443096
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r7467/3022
+K 17
+sipXcommserverLib
+V 22
+dir 1qo.1i6.r7422/2172
+K 10
+sipXconfig
+V 23
+dir 2hf.1i7.r7473/30148
+K 19
+sipXmediaAdapterLib
+V 22
+dir 89s.0.r7320/109580
+K 12
+sipXmediaLib
+V 23
+dir mz.1i8.r7320/106978
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r7468/7710
+K 9
+sipXphone
+V 24
+dir 6qk.1ia.r7320/116868
+K 11
+sipXportLib
+V 21
+dir 3.1ib.r7423/10573
+K 9
+sipXproxy
+V 23
+dir 1vt.1ic.r7381/18419
+K 13
+sipXpublisher
+V 23
+dir 20n.1id.r7381/24622
+K 12
+sipXregistry
+V 23
+dir 1y5.1ie.r7414/20298
+K 11
+sipXtackLib
+V 21
+dir dk.4t2.r7477/1938
+K 8
+sipXvxml
+V 22
+dir 22d.1ig.r7431/3526
+K 10
+top.mak.in
+V 21
+file d5l.0.r7330/2797
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 46
+build.err
+configure
+autom4te.cache
+aclocal.m4
+
+K 43
+svnmerge-main2user_dworley_URI_parsing-head
+V 40
+https://scm.sipfoundry.org/rep/sipX/main
+K 43
+svnmerge-main2user_dworley_URI_parsing-revs
+V 6
+1-7473
+K 26
+svnmerge-pingtel-main-head
+V 50
+https://paradise.pingtel.com/rep/sipX/pingtel/main
+K 26
+svnmerge-pingtel-main-revs
+V 216
+1-5590,5645,5738,5954,5969,6041,6077,6139,6144,6156,6158,6187,6207-6208,6230,6285,6289,6292-6295,6298-6299,6301,6306,6308-6309,6311,6325-6327,6329,6333,6338,6342,6403,6538-6539,6551,6561,6937,6953,6960-6961,6997,7115
+K 22
+svnmerge-sipx-3.0-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.0
+K 22
+svnmerge-sipx-3.0-revs
+V 51
+1-5315,5348,5357,5382,5417,5451,5474-5478,5508,5621
+K 22
+svnmerge-sipx-3.2-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.2
+K 22
+svnmerge-sipx-3.2-revs
+V 16
+1-6588,6684,7229
+K 22
+svnmerge-sipx-3.4-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.4
+K 22
+svnmerge-sipx-3.4-revs
+V 151
+1-6680,6748,6759,6763-6764,6773,6775,6777-6778,6784,6794-6795,6798,6803,6825,6888,6894,6902,6905,6926,6947,6956,6966,6976,6978,6987,7000,7077-7079,7095
+K 29
+svnmerge-sipx-modularity-head
+V 55
+https://scm.sipfoundry.org/rep/sipX/branches/modularity
+K 29
+svnmerge-sipx-modularity-revs
+V 6
+1-6845
+K 30
+svnmerge-sipx-replication-head
+V 67
+https://scm.sipfoundry.org/rep/sipX/branches/sipXconfig/replication
+K 30
+svnmerge-sipx-replication-revs
+V 6
+1-5723
+K 26
+svnmerge-solaris2main-head
+V 57
+https://scm.sipfoundry.org/rep/sipX/branches/solaris_port
+K 26
+svnmerge-solaris2main-revs
+V 6
+1-6454
+K 43
+svnmerge-user_dworley_redirectors2main-head
+V 69
+https://scm.sipfoundry.org/rep/sipX/branches/user_dworley_redirectors
+K 43
+svnmerge-user_dworley_redirectors2main-revs
+V 6
+1-7213
+END
+ENDREP
+id: 7q4.4t1.r7477/5002
+type: dir
+pred: 7q4.0.r7473/31417
+count: 1750
+text: 7477 2209 1010 1010 176d757a12a1c80654ff396268503738
+props: 7477 3232 1757 0 827c3274641a6bde04ad348877e9e9f6
+cpath: /branches/user_dworley_URI_parsing
+copyfrom: 7473 /main
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r7355/19912
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 20
+dir 9wi.0.r7439/6300
+K 21
+sipXtapi-media-update
+V 22
+dir 9wi.3ke.r7453/9961
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 22
+dir 7q4.4t1.r7477/5002
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 24
+user_dworley_redirectors
+V 22
+dir 7q4.3xw.r7472/4138
+END
+ENDREP
+id: 7pt.0.r7477/6071
+type: dir
+pred: 7pt.0.r7472/5181
+count: 906
+text: 7477 5251 807 807 489dbe15d868ab9b052d070f772e5cbb
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r7477/6071
+K 4
+main
+V 20
+dir 7q4.0.r7476/2600
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r7477/6352
+type: dir
+pred: 0.0.r7476/2938
+count: 7477
+text: 7477 6225 114 114 18f7fb276df19c45b1530800478f541d
+cpath: /
+copyroot: 0 /
+
+7q4._0.t7476-1 add false true /branches/user_dworley_URI_parsing
+7473 /main
+e5._1.t7476-1 modify false true /branches/user_dworley_URI_parsing/sipXtackLib/include
+
+
+6352 6495

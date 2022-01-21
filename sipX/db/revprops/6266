@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-02-28T20:06:36.993581Z
+K 7
+svn:log
+V 285
+XCF-700 Allow setting types to control visual representations of values.  Used 'checked' and 'unchecked' for boolean types, t/f isn't most human friendly, and enabled and disable may not work for fields like 'DHCP Disabled'.  Boolean values are in resource bundle for different locales
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-05-17T20:28:00.603782Z
+K 7
+svn:log
+V 94
+Explicitly include syslog in SdpDefaultCodecFactory
+Seems it gets included on some platforms.
+
+END

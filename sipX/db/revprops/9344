@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-04-12T19:40:16.780745Z
+K 7
+svn:log
+V 89
+Fixed MpCallFlowGraph dependency change due to minimizing of 
+scope of MpCallFlowGraph.
+
+
+END

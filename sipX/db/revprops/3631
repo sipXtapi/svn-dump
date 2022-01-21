@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-03-08T18:06:49.991565Z
+K 7
+svn:log
+V 216
+XCF-227 support for multiple attendants
+
+internal rule name is added as a parameter for autoattendant
+v-mail related rules are not generated if v-mail fields are left empty, which allows for multiple auto attendants
+
+END

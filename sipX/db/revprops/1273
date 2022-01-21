@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-23T17:28:35.503799Z
+K 7
+svn:log
+V 216
+Minor clean-up of MpMediaTask.cpp:
+Move #include sys/time.h to below the include of mp/MpMediaTask.h.
+Fix indenting.
+Move call of MpCodec_doProcessFrame to after the profile gets the time
+of the start of processing.
+
+END

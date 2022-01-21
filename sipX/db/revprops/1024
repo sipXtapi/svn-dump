@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-05-31T16:41:33.895488Z
+K 7
+svn:log
+V 276
+Made subscriptions expire properly when sending 
+NOTIFY requests with updated state information.
+
+Added more unit tests for SIP subscribe server.
+Added some accessors to SipSubscribeServer,
+SipSubscriptionMgr and SipDialogMgr to better
+facilitate unit testing and debugging.
+
+
+END

@@ -1,0 +1,578 @@
+PLAIN
+K 10
+svn:ignore
+V 53
+Makefile
+Makefile.in
+classes
+dist
+test-results
+tests
+
+END
+ENDREP
+id: 2hs.0.r3055/92
+type: dir
+pred: 2hs.0.r3050/116305
+count: 4
+text: 3050 116051 241 241 655532b5b846c3a3eedf430f41dd0ff5
+props: 3055 0 79 0 770f954b82f9bb63c81549bfda4a0a7f
+cpath: /old/sipXconfig/main/common
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 48j.h9.r3055/376
+type: dir
+pred: 48j.0.r3042/1425
+count: 3
+text: 3042 1318 94 94 ba5bd9db1082834b2376fad397e62414
+props: 3055 316 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXconfig/main/sipagent-jni/include
+copyroot: 3049 /old/sipXconfig/main/sipagent-jni
+
+PLAIN
+K 10
+svn:ignore
+V 33
+.deps
+.libs
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 48n.h9.r3055/719
+type: dir
+pred: 48n.0.r3042/2406
+count: 6
+text: 3042 2226 167 167 b18359aad3215dfdcec54dc57ab91774
+props: 3055 647 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /old/sipXconfig/main/sipagent-jni/src
+copyroot: 3049 /old/sipXconfig/main/sipagent-jni
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 48i.0.r3025/8253277
+K 7
+include
+V 20
+dir 48j.h9.r3055/376
+K 3
+src
+V 20
+dir 48n.h9.r3055/719
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 48h.h9.r3055/1184
+type: dir
+pred: 48h.h9.r3049/1384
+count: 7
+text: 3055 988 123 123 e1e0a50c8560b6f417201e11bd6df3d3
+props: 3055 1124 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXconfig/main/sipagent-jni
+copyroot: 3049 /old/sipXconfig/main/sipagent-jni
+
+PLAIN
+K 10
+svn:ignore
+V 53
+Makefile
+Makefile.in
+classes
+dist
+test-results
+tests
+
+END
+ENDREP
+id: 4a9.0.r3055/1543
+type: dir
+pred: 4a9.0.r3050/117980
+count: 3
+text: 3050 117768 199 199 6ab00a375dbc41bb9092186ad7fbe718
+props: 3055 1451 79 0 770f954b82f9bb63c81549bfda4a0a7f
+cpath: /old/sipXconfig/main/profilewriter
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 32
+classes
+dist
+test-results
+tests
+
+END
+ENDREP
+id: 2kk.0.r3055/1850
+type: dir
+pred: 2kk.0.r3025/7553552
+count: 1
+text: 3025 7553454 85 85 dc8d0e96b529efc7bfd6c5f4f0147e1e
+props: 3055 1779 58 0 9bd913181988d6d5d50f744ca439a2c9
+cpath: /old/sipXconfig/main/profilegenerator/authentication
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 32
+classes
+dist
+test-results
+tests
+
+END
+ENDREP
+id: 2lt.0.r3055/2175
+type: dir
+pred: 2lt.0.r3025/7637007
+count: 1
+text: 3025 7636871 123 123 7ab050ad92d8366f23bd8f506a9dd918
+props: 3055 2104 58 0 9bd913181988d6d5d50f744ca439a2c9
+cpath: /old/sipXconfig/main/profilegenerator/ejb
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 32
+classes
+dist
+test-results
+tests
+
+END
+ENDREP
+id: 2kw.0.r3055/2491
+type: dir
+pred: 2kw.0.r3025/7644079
+count: 1
+text: 3025 7643981 85 85 b36373f1a6291876e44605d1782072e6
+props: 3055 2420 58 0 9bd913181988d6d5d50f744ca439a2c9
+cpath: /old/sipXconfig/main/profilegenerator/commserver
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 32
+classes
+dist
+test-results
+tests
+
+END
+ENDREP
+id: 2sv.0.r3055/2812
+type: dir
+pred: 2sv.0.r3025/7652290
+count: 1
+text: 3025 7652117 160 160 a155363df3cfcc84c79549bed76dd50a
+props: 3055 2741 58 0 9bd913181988d6d5d50f744ca439a2c9
+cpath: /old/sipXconfig/main/profilegenerator/soap
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 32
+classes
+dist
+test-results
+tests
+
+END
+ENDREP
+id: 2to.0.r3055/3129
+type: dir
+pred: 2to.0.r3053/963
+count: 4
+text: 3053 796 154 154 49f91b74977cce3edc846a4054e01bbe
+props: 3055 3058 58 0 9bd913181988d6d5d50f744ca439a2c9
+cpath: /old/sipXconfig/main/profilegenerator/webui
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 5
+dist
+
+END
+ENDREP
+id: 2lh.0.r3055/3411
+type: dir
+pred: 2lh.0.r3050/123050
+count: 3
+text: 3050 122879 158 158 bf364869848b050887957a9fe0fc8f5d
+props: 3055 3368 30 0 1288de712c9ad88a68d030b33bf70216
+cpath: /old/sipXconfig/main/profilegenerator/deploy
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 4bd.0.r3050/121840
+K 14
+authentication
+V 20
+dir 2kk.0.r3055/1850
+K 9
+build.xml
+V 24
+file 2kv.0.r3025/8229775
+K 10
+commserver
+V 20
+dir 2kw.0.r3055/2491
+K 6
+deploy
+V 20
+dir 2lh.0.r3055/3411
+K 3
+ejb
+V 20
+dir 2lt.0.r3055/2175
+K 4
+meta
+V 23
+dir 2sa.0.r3025/7658701
+K 4
+soap
+V 20
+dir 2sv.0.r3055/2812
+K 5
+webui
+V 20
+dir 2to.0.r3055/3129
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 2kj.0.r3055/4092
+type: dir
+pred: 2kj.0.r3053/1534
+count: 5
+text: 3055 3657 362 362 d43602be792ef96526b39d23183d848d
+props: 3055 4032 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXconfig/main/profilegenerator
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:externals
+V 60
+cert  https://scm.sipfoundry.org/rep/sipXpbx/main/etc/cert
+
+
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 4b7.0.r3055/4472
+type: dir
+pred: 4b7.0.r3040/136
+count: 2
+text: 3038 2285 48 48 96cf28c8e935be5c70bff81e037e627a
+props: 3055 4327 132 0 4e62c4f80e21f8a4dcba8aecabfb101c
+cpath: /old/sipXconfig/main/etc
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 53
+Makefile
+Makefile.in
+classes
+dist
+test-results
+tests
+
+END
+ENDREP
+id: 485.0.r3055/4784
+type: dir
+pred: 485.0.r3052/555
+count: 9
+text: 3052 305 237 237 f4434eeac57b56ae1002de88548edbca
+props: 3055 4692 79 0 770f954b82f9bb63c81549bfda4a0a7f
+cpath: /old/sipXconfig/main/profilepublisher
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 24
+file 2hg.0.r3025/7526700
+K 9
+ChangeLog
+V 20
+file 2hh.0.r3048/286
+K 7
+INSTALL
+V 21
+file 2hi.0.r3038/1568
+K 7
+LICENSE
+V 24
+file 2hj.0.r3025/7507227
+K 11
+Makefile.am
+V 23
+file 2hk.0.r3050/123813
+K 4
+NEWS
+V 24
+file 2hl.0.r3025/8230780
+K 6
+README
+V 20
+file 2hm.0.r3039/160
+K 4
+TODO
+V 24
+file 2hn.0.r3025/7543047
+K 9
+acsite.m4
+V 24
+file 2ho.0.r3025/7507648
+K 14
+ant-targets.am
+V 24
+file 2hp.0.r3025/7507430
+K 15
+ant-targets.xml
+V 23
+file 2hq.0.r3050/116479
+K 6
+common
+V 18
+dir 2hs.0.r3055/92
+K 20
+config.properties.in
+V 23
+file 2jf.0.r3050/120023
+K 12
+configure.ac
+V 20
+file 2jg.0.r3051/450
+K 3
+doc
+V 22
+dir 2jh.0.r3050/119851
+K 3
+etc
+V 20
+dir 4b7.0.r3055/4472
+K 3
+lib
+V 22
+dir 2jy.0.r3050/121617
+K 16
+profilegenerator
+V 20
+dir 2kj.0.r3055/4092
+K 23
+profilepub_sipagent.dsp
+V 20
+file 4b5.0.r3054/179
+K 16
+profilepublisher
+V 20
+dir 485.0.r3055/4784
+K 13
+profilewriter
+V 20
+dir 4a9.0.r3055/1543
+K 12
+sipagent-jni
+V 21
+dir 48h.h9.r3055/1184
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 63
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+
+K 10
+svn:ignore
+V 144
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.properties
+config.status
+configure
+libtool
+stamp-h1
+
+END
+ENDREP
+id: 2hf.0.r3055/6261
+type: dir
+pred: 2hf.0.r3054/1395
+count: 26
+text: 3055 5017 959 959 a03a2113f69e72d392838bfbf7c230d6
+props: 3055 5989 259 0 69df2b86f19c9537de805791a2312c9f
+cpath: /old/sipXconfig/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 20
+dir 2hf.0.r3055/6261
+K 4
+tags
+V 20
+dir 4b6.0.r3047/1810
+END
+ENDREP
+id: 2he.0.r3055/6568
+type: dir
+pred: 2he.0.r3054/1701
+count: 31
+text: 3055 6481 74 74 57d1a0b34fd0135bb4fe8861a0bb9261
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 20
+dir 2he.0.r3055/6568
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3055/7169
+type: dir
+pred: 1.0.r3054/2302
+count: 3054
+text: 3055 6725 431 431 1894732be6c80aa6f062784285688595
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3055/7169
+END
+ENDREP
+id: 0.0.r3055/7364
+type: dir
+pred: 0.0.r3054/2497
+count: 3055
+text: 3055 7315 36 36 52f6bb44bae7afb843e13210450aacfa
+cpath: /
+copyroot: 0 /
+
+2kk.0.t3054-1 modify false true /old/sipXconfig/main/profilegenerator/authentication
+
+2kj.0.t3054-1 modify false true /old/sipXconfig/main/profilegenerator
+
+2lt.0.t3054-1 modify false true /old/sipXconfig/main/profilegenerator/ejb
+
+2hs.0.t3054-1 modify false true /old/sipXconfig/main/common
+
+48h.h9.t3054-1 modify false true /old/sipXconfig/main/sipagent-jni
+
+2kw.0.t3054-1 modify false true /old/sipXconfig/main/profilegenerator/commserver
+
+2sv.0.t3054-1 modify false true /old/sipXconfig/main/profilegenerator/soap
+
+4b7.0.t3054-1 modify false true /old/sipXconfig/main/etc
+
+48j.h9.t3054-1 modify false true /old/sipXconfig/main/sipagent-jni/include
+
+4a9.0.t3054-1 modify false true /old/sipXconfig/main/profilewriter
+
+485.0.t3054-1 modify false true /old/sipXconfig/main/profilepublisher
+
+48n.h9.t3054-1 modify false true /old/sipXconfig/main/sipagent-jni/src
+
+2hf.0.t3054-1 modify false true /old/sipXconfig/main
+
+2to.0.t3054-1 modify false true /old/sipXconfig/main/profilegenerator/webui
+
+2lh.0.t3054-1 modify false true /old/sipXconfig/main/profilegenerator/deploy
+
+
+7364 7505

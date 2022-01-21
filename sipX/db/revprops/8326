@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-12-21T02:03:42.930538Z
+K 7
+svn:log
+V 663
+Fixed some sipXtackLib unit tests, masked off others for linux.
+  There is some difference between linux and windows that is
+  manifesting in the order of destructors and some other threading
+  problems.  Created XSL-150, XSL-151, and XSL-152 to track them.
+
+Changed OsStunDatagramSocket and OsStunAgentTask to prevent the
+  task object from being deleted while there are still sockets
+  that are holding pointers to it.
+
+Made OsSocket a UtlContainable so that all sockets can be stored
+  in UtlContainers.
+
+Added documentation to UtlVoidPtr directing developers to
+  UtlContainableAtomic as a better alternative.
+
+Fixed a number of warnings under gcc4 on linux
+
+
+END

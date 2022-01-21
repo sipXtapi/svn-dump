@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-01-17T21:02:56.454449Z
+K 7
+svn:log
+V 40
+fixed the #defines for linux... again...
+END

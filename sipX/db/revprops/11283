@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-02-25T20:13:04.640012Z
+K 7
+svn:log
+V 141
+sipXmediaLib: Fix use of uninitialized variable under Linux, causing immediate exit MpMedia task after startup and thus library misfunction.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-04-12T19:48:28.918543Z
+K 7
+svn:log
+V 111
+XCF-1645 Remove extraneous granstream configuration settings, gs was writing text files by default (not binary)
+END

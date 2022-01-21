@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-01-17T18:36:13.482955Z
+K 7
+svn:log
+V 102
+FIX BUILD: Unittest's were trying to connect to database now that spring config file includes db setup
+END

@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-04-26T14:23:33.462469Z
+K 7
+svn:log
+V 831
+Fixed a number of problems reported against the stun implementation:
+
+XPH-82: sipXphone will not take call off hold (http://track.sipfoundry.org/browse/XPH-82)
+XPH-85: no audio after NAT'ed call came off hold using STUN and symmetric SIP (http://track.sipfoundry.org/browse/XPH-85)
+(dev-list): One-way-audio after 20 seconds
+
+Essentially, the STUN integration in the OS abstraction layer transparently received STUN packets, passed them to a handler task, and then blocked waiting for more data.  This is the correct approach for many of the signaling server tasks, however, isn’t correct for media processing.  In NetInTask, the code selects on a bunch of sockets (control socket, all rtp sockets, and all rtcp sockets) and reads when data is available.  Causing the read() method to block effectively halted media processing.
+
+
+END

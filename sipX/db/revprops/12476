@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-09-30T07:14:46.041879Z
+K 7
+svn:log
+V 74
+Use correct autoconf varible target (not TARGET) to check for NE10 on arm
+
+END

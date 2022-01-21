@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-08-01T13:13:33.970379Z
+K 7
+svn:log
+V 78
+Show firmware version on manage phones page for phones that support versioning
+END

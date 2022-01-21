@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-10-05T17:35:50.960609Z
+K 7
+svn:log
+V 56
+ompile time option to disable/enable AEC in ReceiveCall
+
+END

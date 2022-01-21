@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-11-04T04:33:14.171153Z
+K 7
+svn:log
+V 271
+Add VC6 project for AMR Wideband codec, and for plugin for AMR Wideband codec.
+plgamrwb has unresolved external symbol errors (relating to libamrwb), but is a good start.
+libamrwb project currently generates a static library instead of a DLL - which may not be desired.
+
+
+END

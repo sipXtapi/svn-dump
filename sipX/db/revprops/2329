@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-09-17T22:00:07.090033Z
+K 7
+svn:log
+V 55
+fix RPM spec file problems found when testing publisher
+END

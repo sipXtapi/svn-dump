@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-31T05:03:38.413213Z
+K 7
+svn:log
+V 108
+mergefrom user_dworley_redirectors2main 7458
+
+Copy Apache modules into an architecture-dependent directory.
+
+END

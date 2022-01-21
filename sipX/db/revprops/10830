@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-10-11T02:14:01.180069Z
+K 7
+svn:log
+V 134
+Fix crash of ReceiveCall when wrong arguments are passed.
+SipXtapi uninitialization was called when sipXtapi is not initialized  yet.
+
+END

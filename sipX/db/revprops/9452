@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-29T19:57:01.527391Z
+K 7
+svn:log
+V 177
+Fix value returned from MpOutputDeviceManager::setFlowgraphTickerSource(), it always returned OS_NOT_FOUND.
+Clarify documentation about return values of several functions also.
+
+END

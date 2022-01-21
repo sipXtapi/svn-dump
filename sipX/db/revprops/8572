@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-17T18:39:55.041325Z
+K 7
+svn:log
+V 154
+Bugfix: Remote audio stop playing when RTP sequence number wrapped to zero.
+Should use compare() function to compare RTP sequence numbers and timestamps.
+
+END

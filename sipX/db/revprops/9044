@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-03-09T23:49:15.109017Z
+K 7
+svn:log
+V 121
+[XSL-176] Fix problem with missed Line Registered events.
+Patch aplied as suggested. Check tracker for more information.
+
+END

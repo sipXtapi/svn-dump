@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-05-29T14:34:06.721647Z
+K 7
+svn:log
+V 65
+Proper fix for getting default windows input/output device names.
+END

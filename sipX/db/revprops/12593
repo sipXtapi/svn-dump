@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-11-30T18:43:04.272814Z
+K 7
+svn:log
+V 41
+Pass through configure options to libamr
+
+END

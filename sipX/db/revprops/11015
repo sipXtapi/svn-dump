@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-03T09:48:54.368566Z
+K 7
+svn:log
+V 391
+MSVS automated build script
+
+fix runWithOutput function to copy over stderr and stdout at each 100ms
+interval we wait.
+If we don't do this, two things happen -
+* We don't see any output until the whole command finishes
+* Commands with lengthy output (msdev) hang.  I'm assuming this is because 
+  buffers get full and are waiting for someone to empty them before the 
+  process is resumed.
+
+
+END

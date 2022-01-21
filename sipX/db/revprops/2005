@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2005-03-17T14:25:51.800565Z
+K 7
+svn:log
+V 463
+Merged revisions 207 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.8
+    ------------------------------------------------------------------------
+    r207 | ajorde | 2005-03-16 11:50:16 -0500 (Wed, 16 Mar 2005) | 1 line
+    Changed paths:
+       M /branches/2.8/bin/Makefile.am
+       A /branches/2.8/bin/sipx-upgrade
+       M /branches/2.8/sipxcommserverlib.spec.in
+    
+    Adding universal upgrade script for use during install
+
+END

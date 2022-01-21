@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-06-28T19:04:07.453648Z
+K 7
+svn:log
+V 281
+Rename Windows input device driver wrapper class from MpInputDeviceDriverWnt to MpidWinMM, to be consistent with other naming, and to be more specific, indicating the windows audio API used.  This will make it less confusing if/when a DirectSound sipXmediaLib interface is written.
+END

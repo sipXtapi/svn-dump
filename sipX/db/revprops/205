@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-16T14:07:51.031869Z
+K 7
+svn:log
+V 269
+Beware that ${prefix} might only be set at make run-time, so this
+expression has to be quoted to prevent it from being interpreted until
+then.
+
+    AC_SUBST(SIPX_HOME, ['${prefix}'])
+    AC_SUBST(SIPXINC, ['${prefix}/include'])
+    AC_SUBST(SIPXLIB, ['${prefix}/lib'])
+
+END

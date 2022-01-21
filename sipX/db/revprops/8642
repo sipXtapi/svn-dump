@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-01-29T04:19:32.569125Z
+K 7
+svn:log
+V 185
+XCF-1475 - Install gems into dir separate from jars so satelite rpms (agent, report, cdr) can explicitly install gem files then subsequently the gems in respective post install sections
+END

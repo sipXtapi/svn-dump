@@ -1,0 +1,43 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-11T21:13:47.571725Z
+K 7
+svn:log
+V 1560
+Merged revisions 7712-7736 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/3.6/sipXconfig
+
+........
+  r7714 | dkrzemin | 2006-10-09 17:19:32 -0400 (Mon, 09 Oct 2006) | 2 lines
+  
+  XCF-1153 Implemented SipxServer.reset that clears setting cache and is called when Cancel button is pressed. Clean validation errors before calling cancel listener.
+........
+  r7725 | lazyboy | 2006-10-10 18:34:51 -0400 (Tue, 10 Oct 2006) | 1 line
+  
+  XCF-1281 Fix phone group edit page to default to polycom 2.0 v.s. 1.6
+........
+  r7732 | dkrzemin | 2006-10-11 10:41:13 -0400 (Wed, 11 Oct 2006) | 2 lines
+  
+  XCF-581 sipXconfig used to ignore error code reported by backup script - I changed it so that whenever at least one of the backup scripts reports error condition we log the error and display generic failure message on backup screen
+........
+  r7733 | dkrzemin | 2006-10-11 11:01:46 -0400 (Wed, 11 Oct 2006) | 2 lines
+  
+  XCF-1318 change log4j configuration to only log warings and errors once
+........
+  r7735 | dkrzemin | 2006-10-11 14:13:17 -0400 (Wed, 11 Oct 2006) | 2 lines
+  
+  XCF-1314 re-added explicit call to activateParkOrbits when saving a new orbit from UI and from SOAP service
+........
+  r7736 | dkrzemin | 2006-10-11 16:31:26 -0400 (Wed, 11 Oct 2006) | 4 lines
+  
+  XCF-1270 dojo library was missing (empty files) - because of that autocompleter did not work and JavaScript errors were displayed by IE and FF
+  - update to Tapestry 4.0.2
+  - use IE workaround described here: http://tacos.sourceforge.net/faq.html#faq-N100A2
+........
+
+END

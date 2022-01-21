@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-30T19:36:07.261179Z
+K 7
+svn:log
+V 183
+XCF-1456 round up duration to the next full second
+localization for the MillisDurationFormat: sipXconfig/web/src/org/sipfoundry/sipxconfig/components/MillisDurationFormat.properties
+
+
+END

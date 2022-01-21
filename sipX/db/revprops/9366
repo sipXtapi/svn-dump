@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-04-16T10:24:58.141523Z
+K 7
+svn:log
+V 39
+Made MpRtpInputConnection a resource.
+
+
+END

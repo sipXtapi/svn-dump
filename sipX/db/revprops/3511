@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-02-10T00:13:39.273534Z
+K 7
+svn:log
+V 370
+Simplified access to Spring beans from Tapestry pages.
+
+Instead of global.sipXconfigContext.getBean("dialPlanManager") one can just write global.dialPlanManager
+Also streamlined the way applicationContext gets injected into globals. 
+We are now overwriting createGlobal (which gets called once) functions instead of setupForRequest (which is called for every request).
+
+
+END

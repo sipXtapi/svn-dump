@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-12-01T03:44:46.035234Z
+K 7
+svn:log
+V 402
+Change the timing of the creation of media connections for
+incoming calls so that the media connections are not created
+until the call is accpeted.  This reduces the resource load and
+allows the ability to set properties and resources on the media
+connection before the call is set up.
+
+Added release and debug options to MSVC6 build script as the 
+MSVC6 project files all support release builds now.
+
+
+END

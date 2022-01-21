@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-12-22T00:55:27.598645Z
+K 7
+svn:log
+V 633
+Assorted code cleanups, make doxygen docs by default.
+Restructured queueMessageToInterestedObservers to be more
+  efficient and much easier to understand.
+  (This is why I was editing this in the first place -
+   I was originally going to add support for observing
+   sent packets, and trying to get proxied responses, but
+   those changes didn't work out.  But in trying to understand
+   how all this worked I ended up cleaning it up a bit.)
+Made branch ids a little easier to read by inserting '-' after 3261
+  cookie (and cleaned up construction a bit)
+Removed quite a bit of confusing commented-out code
+Removed tab characters.
+
+
+END

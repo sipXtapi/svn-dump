@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-03-09T19:00:36.103166Z
+K 7
+svn:log
+V 50
+Disabled precompiled headers in MSVS6 dsp files.
+
+
+END

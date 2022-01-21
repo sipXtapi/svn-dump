@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2005-04-12T15:21:32.035735Z
+K 7
+svn:log
+V 353
+Merged revisions 508 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXpbx/branches/2.8
+    ------------------------------------------------------------------------
+    r508 | ajorde | 2005-04-12 11:16:55 -0400 (Tue, 12 Apr 2005) | 1 line
+    Changed paths:
+       M /branches/2.8/bin/restore-configs.sh.in
+    
+    Possible fix for XCF-315, XPB-264
+
+END

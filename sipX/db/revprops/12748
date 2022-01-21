@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2020-02-04T23:30:13.035490Z
+K 7
+svn:log
+V 120
+Added OPUS_FLAGS to MediaLib unit tests so that MprRecorder Opus test cases are enabled if Opus is enabled in Recorder.
+
+END

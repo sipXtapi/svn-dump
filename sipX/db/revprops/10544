@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-29T21:49:33.802966Z
+K 7
+svn:log
+V 208
+Add a separate parameter when calling sipXmediaFactoryFactory to separate out initialization of buffers from initialization of device managers.
+
+Buffers use a maximum sample rate,
+Devices use a default rate.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-02-02T16:26:33.422677Z
+K 7
+svn:log
+V 63
+Remove proxy_simple_cdr branch - it's been merged to mainline.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-04T23:38:26.832244Z
+K 7
+svn:log
+V 215
+XCF-174 - implement final steps for phoen rebooting, make asynchronous along w/generating profiles. Only thing left is to test phone actualy reboots from ui, won't mark fixed until I verify this. all code unittested
+END

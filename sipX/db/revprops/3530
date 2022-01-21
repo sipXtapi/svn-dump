@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-02-12T01:12:16.250041Z
+K 7
+svn:log
+V 166
+Appending domain name to e911rules user patterns.
+
+Added CoreContext that contains Organization and User DAO. For now it's duplication of PhoneContext functionality.
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-06-27T17:33:52.442365Z
+K 7
+svn:log
+V 184
+Fix locking of the shared SSL context initialization
+Remove support for using a bundled CA certificate file
+  (support only a directory full of certificates - much easier to maintain)
+
+END

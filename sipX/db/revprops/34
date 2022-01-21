@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+raghu
+K 8
+svn:date
+V 27
+2004-06-03T02:40:29.573233Z
+K 7
+svn:log
+V 104
+MSVC doesn't seem to be happy with some constructs which work fine on linux. Castor reported some issues
+END

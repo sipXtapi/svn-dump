@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-02-10T23:55:41.146118Z
+K 7
+svn:log
+V 126
+Add timeouts to the various blocking points in the code.
+Added additional error case handling code.
+Added error logging code.
+
+END

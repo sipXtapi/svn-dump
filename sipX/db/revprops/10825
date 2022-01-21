@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2008-09-24T15:09:58.519851Z
+K 7
+svn:log
+V 58
+Enabled build of source tarbar and bin package by default
+
+END

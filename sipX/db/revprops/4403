@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-12-07T17:14:00.825028Z
+K 7
+svn:log
+V 166
+Add make-install command group.
+Add a variable to hold the "branch identification".
+Remove the install-allow-core command group, as it is now handled by
+config.defs.
+
+END

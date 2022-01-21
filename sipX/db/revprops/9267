@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-04-06T17:02:10.888429Z
+K 7
+svn:log
+V 201
+Fix compiler warnings relating to casting issues in sipXmediaLib.
+A few still remain, to be fixed by making doProcessFrame take unsigned parameters for those that are appropriate for it to do so with.
+
+END

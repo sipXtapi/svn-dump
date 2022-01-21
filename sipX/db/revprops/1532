@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-04T14:38:01.503132Z
+K 7
+svn:log
+V 65
+Added  SipXHandleMap.cpp and SipXHandleMap.h to sipXtapi project
+
+END

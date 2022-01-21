@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-11-27T22:19:43.269066Z
+K 7
+svn:log
+V 51
+Add test case for G.722.1 FMTP (bitrate parameter)
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-06-16T04:57:41.046457Z
+K 7
+svn:log
+V 108
+Wire up the start process method in the process manager to the SOAP method provided by the server (XPB-652)
+
+END

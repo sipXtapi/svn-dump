@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-04-28T17:50:20.112504Z
+K 7
+svn:log
+V 105
+XCF-354 generate a transform part of the mapping rules for custom dialing rules with no gateways defined
+
+END

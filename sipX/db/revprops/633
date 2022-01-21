@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-07-21T19:36:44.284881Z
+K 7
+svn:log
+V 203
+Fix for the streaming APIs (sipXvxml and sipXphone): Some code was commented
+out in HttpMessage in avoid a compiler warning (unused local variable) -- The
+local wasn't used, but the code was important.
+
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-09-06T00:25:07.839799Z
+K 7
+svn:log
+V 423
+Parent resources in recursive resource chains need to override MpResource::setFlowGraph() and pass on the flowgraph pointer to their resource children in order to function properly.
+MpResource::setFlowGraph moved from private to protected, and is now a virtual function in these changes.
+Specific recursive resource chain (the only one that I am aware of) that was changed is MpRtpInputAudioConnection with child MprDecode.
+END

@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-21T22:23:30.134108Z
+K 7
+svn:log
+V 262
+Merged revisions 8860 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+
+........
+  r8860 | lazyboy | 2007-02-22 01:03:43 +0300 | 1 line
+  
+  XPL-191 Move known bug tag to where the assertion in the library where it actually fails
+........
+
+END

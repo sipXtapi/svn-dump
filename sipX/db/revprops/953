@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-06T18:32:18.650733Z
+K 7
+svn:log
+V 41
+Finish rolling back main.cpp to rev 212.
+
+END

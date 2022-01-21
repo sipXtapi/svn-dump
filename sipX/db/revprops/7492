@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-09-16T03:40:44.819498Z
+K 7
+svn:log
+V 115
+XCF-1183 saves domain name change to config.defs, add unit tests, start adding support for dialing rules generation
+END

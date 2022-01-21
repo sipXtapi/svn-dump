@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-08T20:39:03.069838Z
+K 7
+svn:log
+V 157
+We have to use cos() instead of sin() when generating test tones, because sin() does not work at borderline case when sine have only two samples per period.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2008-03-13T14:47:48.432253Z
+K 7
+svn:log
+V 116
+Added the ability to build a single sipXtapi.so shared lib (instead of requiring call, stack, port, and media libs)
+
+END

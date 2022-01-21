@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-06-07T17:30:24.793078Z
+K 7
+svn:log
+V 161
+XCF-915 Surpress output during upgrade that tests ability to patch existing configuration.  Earier attempts to supress only stderr failed, not supressing stdout.
+END

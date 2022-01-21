@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-05-02T22:21:47.143502Z
+K 7
+svn:log
+V 519
+Fix bug in G.711 A-law encoder, causing annoying audible noise in case of very quite noise present in source.
+When sound itself is inaudible, but cause a lot of zero-crossing, a lot of audible clicks were produced,
+because values in [-7; -1] were coded to wrong value, decoded to -248 then.
+
+Interesting, that this bug seems to be very old and common - I found that it comes from original public
+domain code from Sun Microsystems Inc., and, I guess, may be found in many other open-source and proprietary
+applications.
+
+END

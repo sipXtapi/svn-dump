@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-10-29T20:38:49.577335Z
+K 7
+svn:log
+V 75
+Rename almost all files named *Context*.java to *Manager*.java for clarity
+
+END

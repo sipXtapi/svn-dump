@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+lbudnick
+K 8
+svn:date
+V 27
+2005-02-18T15:51:28.798027Z
+K 7
+svn:log
+V 385
+Fix incorrect RTP handling when NamedEvent RTP packets arrive with or without interleaved audio stream. Mark the MpdPtAVT decoder to show that it does not emit voice data. Verify by listening to audio when far end enters DTMF tones and is using RFC2833 RTP DTMF notification. Result during key press may be silence if far end does not also generate in-band DTMF tones at the same time.
+END

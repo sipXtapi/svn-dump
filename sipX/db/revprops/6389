@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-03-17T15:58:21.827234Z
+K 7
+svn:log
+V 393
+First checkin of CSE logging to database functionality.
+
+Added a CallStateEvenBuilder_DB class that generates SQL insert statements
+for writing events to a database.
+
+Added a general CallStateEventWriter class that encapsulates writing
+data to either a file or a database.
+
+Added detection of REFER request in authproxy - nothing is logged yet.
+
+Added unit tests for CallStateEventBuilder_DB.
+
+END

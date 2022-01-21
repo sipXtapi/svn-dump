@@ -1,0 +1,240 @@
+PLAIN
+K 8
+!README!
+V 21
+file 2gg.0.r2782/1209
+K 4
+HIPO
+V 22
+file 2gk.0.r2772/37423
+K 18
+INSTALLATION.NOTES
+V 20
+file 2gh.0.r2779/158
+K 8
+Makefile
+V 21
+file 2gi.0.r2783/1660
+K 9
+VXI-notes
+V 22
+file 2gl.0.r2772/39021
+K 11
+build-notes
+V 22
+file 2gj.0.r2772/38203
+K 12
+build-script
+V 21
+file 2gw.0.r2781/1186
+K 10
+call-setup
+V 22
+file 2gm.0.r2772/38545
+K 13
+call-teardown
+V 22
+file 2gn.0.r2772/39178
+K 15
+class-hierarchy
+V 22
+file 2go.0.r2772/37574
+K 10
+config-xml
+V 22
+file 2gp.0.r2772/38046
+K 13
+gen-config.sh
+V 21
+file 2gq.fh.r2782/989
+K 10
+port-usage
+V 22
+file 2gr.0.r2772/38386
+K 6
+prompt
+V 22
+file 2gs.0.r2772/37738
+K 7
+sipX.el
+V 20
+file 2gt.0.r2776/150
+K 12
+sipXvxml.ppt
+V 23
+file 2gv.0.r2777/103396
+K 7
+threads
+V 22
+file 2gu.0.r2772/38866
+END
+ENDREP
+id: 2gf.0.r2784/754
+type: dir
+pred: 2gf.0.r2783/2634
+count: 18
+text: 2784 0 741 741 306cc535c4bed5163776b7b62d917f7e
+cpath: /old/sipXvxml/main/doc
+copyroot: 0 /
+
+PLAIN
+K 7
+AUTHORS
+V 24
+file 22e.0.r2734/1740512
+K 7
+COPYING
+V 24
+file 22f.0.r2734/1778762
+K 9
+ChangeLog
+V 20
+file 22g.0.r2759/411
+K 7
+INSTALL
+V 21
+file 22h.0.r2746/4335
+K 11
+Makefile.am
+V 20
+file 22i.0.r2760/541
+K 4
+NEWS
+V 24
+file 22j.0.r2734/1781258
+K 6
+README
+V 24
+file 22k.0.r2734/1878221
+K 9
+acsite.m4
+V 24
+file 22l.0.r2734/1741479
+K 3
+bin
+V 19
+dir 22m.0.r2755/418
+K 12
+configure.ac
+V 19
+file 22o.0.r2778/46
+K 3
+doc
+V 19
+dir 2gf.0.r2784/754
+K 3
+etc
+V 19
+dir 22p.0.r2754/805
+K 7
+include
+V 21
+dir 22u.0.r2774/25134
+K 2
+js
+V 20
+dir 23o.0.r2763/4707
+K 4
+meta
+V 23
+dir 2cs.0.r2734/1741183
+K 3
+src
+V 21
+dir 2cu.0.r2774/46387
+END
+ENDREP
+id: 22d.0.r2784/1550
+type: dir
+pred: 22d.0.r2783/3435
+count: 44
+text: 2784 916 621 621 42b086e683f8bf4b7ce4f8038bdf0620
+props: 2763 5559 241 0 62cd57c97efeb37d89369c2aee464908
+cpath: /old/sipXvxml/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 20
+dir 22d.0.r2784/1550
+K 4
+tags
+V 20
+dir 2gd.0.r2758/1557
+END
+ENDREP
+id: 22c.0.r2784/1854
+type: dir
+pred: 22c.0.r2783/3740
+count: 51
+text: 2784 1767 74 74 eda7940b8ee87cf5c75c89751a67c496
+cpath: /old/sipXvxml
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r2784/1854
+END
+ENDREP
+id: 1.0.r2784/2411
+type: dir
+pred: 1.0.r2783/4297
+count: 2783
+text: 2784 2009 389 389 8a95964486a1406de17341b50a47d460
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2784/2411
+END
+ENDREP
+id: 0.0.r2784/2606
+type: dir
+pred: 0.0.r2783/4492
+count: 2784
+text: 2784 2557 36 36 2e034bf987baadeb14501466897ebef1
+cpath: /
+copyroot: 0 /
+
+2gq.0.r2772/38704 delete false false /old/sipXvxml/main/doc/gen-config.txt
+
+
+2606 2747

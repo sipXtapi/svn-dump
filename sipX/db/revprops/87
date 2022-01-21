@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-22T21:51:54.995762Z
+K 7
+svn:log
+V 249
+Changed required to build under Windows.  Changes include new INSTALL instructions, removal of protected/private contructors in the OsDir world, a needed cast in UtlHashMap and two new methods in UtlString (see jira XPL-20 and XPL-21 for unit tests)
+END

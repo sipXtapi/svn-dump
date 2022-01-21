@@ -1,0 +1,254 @@
+PLAIN
+K 13
+svn:externals
+V 72
+config https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi-AOL/config
+
+END
+ENDREP
+id: bcf.7jw.r9585/114
+type: dir
+pred: bcf.0.r7340/8949
+count: 27
+text: 7340 8015 921 921 01824491e0bdb6156c040a4782c82184
+props: 9585 0 101 0 f95f2b0f2e0e8887494e61a88826fae3
+cpath: /branches/sipXtapi-AOL/sipXportLib
+copyroot: 9584 /branches/sipXtapi-AOL
+
+PLAIN
+K 13
+svn:externals
+V 72
+config https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi-AOL/config
+
+END
+ENDREP
+id: 9wt.7jw.r9585/484
+type: dir
+pred: 9wt.0.r7340/13945
+count: 40
+text: 7340 12869 1063 1063 3be3a2bfda9787392a6ee822fa7c3ed1
+props: 9585 370 101 0 f95f2b0f2e0e8887494e61a88826fae3
+cpath: /branches/sipXtapi-AOL/sipXcallLib
+copyroot: 9584 /branches/sipXtapi-AOL
+
+PLAIN
+K 13
+svn:externals
+V 72
+config https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi-AOL/config
+
+END
+ENDREP
+id: b40.7jw.r9585/860
+type: dir
+pred: b40.0.r7198/24156
+count: 11
+text: 7198 23411 732 732 577b39c428ce0a5a2ba5953cc2d856fb
+props: 9585 746 101 0 f95f2b0f2e0e8887494e61a88826fae3
+cpath: /branches/sipXtapi-AOL/sipXmediaLib
+copyroot: 9584 /branches/sipXtapi-AOL
+
+PLAIN
+K 13
+svn:externals
+V 72
+config https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi-AOL/config
+
+END
+ENDREP
+id: b2p.7jw.r9585/1235
+type: dir
+pred: b2p.0.r7339/325726
+count: 11
+text: 7339 325110 603 603 db829e01686cfffce62d3929e920bf7b
+props: 9585 1121 101 0 f95f2b0f2e0e8887494e61a88826fae3
+cpath: /branches/sipXtapi-AOL/sipXmediaAdapterLib
+copyroot: 9584 /branches/sipXtapi-AOL
+
+PLAIN
+K 13
+svn:externals
+V 72
+config https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi-AOL/config
+
+END
+ENDREP
+id: boq.7jw.r9585/1621
+type: dir
+pred: boq.0.r7339/346428
+count: 15
+text: 7339 344804 1611 1611 e104a4c842f7c8ab76ed77eee66b47e8
+props: 9585 1507 101 0 f95f2b0f2e0e8887494e61a88826fae3
+cpath: /branches/sipXtapi-AOL/sipXtackLib
+copyroot: 9584 /branches/sipXtapi-AOL
+
+PLAIN
+K 6
+config
+V 23
+dir 9wj.0.r6955/1426209
+K 10
+readme.txt
+V 20
+file 9ws.0.r6962/878
+K 11
+sipXcallLib
+V 21
+dir 9wt.7jw.r9585/484
+K 19
+sipXmediaAdapterLib
+V 22
+dir b2p.7jw.r9585/1235
+K 12
+sipXmediaLib
+V 21
+dir b40.7jw.r9585/860
+K 11
+sipXportLib
+V 21
+dir bcf.7jw.r9585/114
+K 11
+sipXtackLib
+V 22
+dir boq.7jw.r9585/1621
+END
+ENDREP
+id: 9wi.7jw.r9585/2217
+type: dir
+pred: 9wi.7jw.r9584/0
+count: 69
+text: 9585 1887 317 317 5068073fa3ca01eea5c4aab2b2b8754d
+cpath: /branches/sipXtapi-AOL
+copyroot: 9584 /branches/sipXtapi-AOL
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r8066/42815
+K 3
+3.6
+V 22
+dir 7q4.50x.r8955/2083
+K 7
+bbridge
+V 22
+dir 7q4.68z.r8427/2781
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 8
+sipXtapi
+V 21
+dir 9wi.0.r9581/21191
+K 12
+sipXtapi-AOL
+V 22
+dir 9wi.7jw.r9585/2217
+K 21
+sipXtapi-media-update
+V 23
+dir 9wi.3ke.r8871/11907
+K 14
+sipXtapi.wince
+V 24
+dir 9wi.662.r8313/638537
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 21
+dir 7q4.4t1.r7562/240
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 14
+virtual-domain
+V 24
+dir 7q4.4t6.r8010/314955
+END
+ENDREP
+id: 7pt.0.r9585/3353
+type: dir
+pred: 7pt.0.r9584/1129
+count: 2034
+text: 9585 2408 932 932 03d4555b9e31235b2d8b447c3cfefa3c
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r9585/3353
+K 4
+main
+V 20
+dir 7q4.0.r9374/1770
+K 4
+tags
+V 20
+dir 7q5.0.r9367/2658
+END
+ENDREP
+id: 0.0.r9585/3634
+type: dir
+pred: 0.0.r9584/1408
+count: 9585
+text: 9585 3508 113 113 05a28f45e65bce1f2b4b13734167304d
+cpath: /
+copyroot: 0 /
+
+9wt.7jw.t9584-1 modify false true /branches/sipXtapi-AOL/sipXcallLib
+
+b40.7jw.t9584-1 modify false true /branches/sipXtapi-AOL/sipXmediaLib
+
+b2p.7jw.t9584-1 modify false true /branches/sipXtapi-AOL/sipXmediaAdapterLib
+
+boq.7jw.t9584-1 modify false true /branches/sipXtapi-AOL/sipXtackLib
+
+bcf.7jw.t9584-1 modify false true /branches/sipXtapi-AOL/sipXportLib
+
+
+3634 3777

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-10-18T16:49:49.684060Z
+K 7
+svn:log
+V 169
+Add an "api" target to the top-level build.xml for generating javadoc, in preparation for deleting the doc project, which currently contains build.xml with that target.
+
+END

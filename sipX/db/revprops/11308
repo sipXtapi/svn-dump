@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-03-12T23:26:15.241239Z
+K 7
+svn:log
+V 163
+sipXtapi: Update description for SIPX_MEDIA_INFO::idleTime. Now it holds number of recorded samples with MEDIA_RECORDFILE_STOP and MEDIA_RECORDBUFFER_STOP events.
+
+END

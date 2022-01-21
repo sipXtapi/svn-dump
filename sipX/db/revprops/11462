@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2009-09-27T18:10:15.518917Z
+K 7
+svn:log
+V 75
+Fixed OsRegistry read problem.  More descriptive key for UPnp availability.
+END

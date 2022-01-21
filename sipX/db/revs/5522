@@ -1,0 +1,80 @@
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 21
+dir 7pv.0.r4813/26770
+K 3
+3.0
+V 21
+dir 7q4.24b.r5508/951
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 7
+restful
+V 21
+dir 7q0.0.r4813/15683
+K 17
+sipXconfig-lucene
+V 23
+dir 2hf.2a8.r5521/14929
+K 23
+sipXconfig-multi-domain
+V 23
+dir 2hf.2aa.r5519/35767
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r5522/462
+type: dir
+pred: 7pt.0.r5521/15776
+count: 98
+text: 5522 0 449 449 3801a9f0ab9f4d446dd558600c219de4
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 7pt.0.r5522/462
+K 4
+main
+V 21
+dir 7q4.0.r5514/24813
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r5522/740
+type: dir
+pred: 0.0.r5521/16062
+count: 5522
+text: 5522 612 115 115 1b1f343c6ec584633cfd37b1cb1090d9
+cpath: /
+copyroot: 0 /
+
+2hf.20y.r5066/55100 delete false false /branches/sipXconfig_unique_sip_usernames
+
+2hf.20x.r5286/309278 delete false false /branches/sipXconfig-soap
+
+
+740 882

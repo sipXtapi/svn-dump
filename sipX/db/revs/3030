@@ -1,0 +1,181 @@
+PLAIN
+K 12
+CONTRIBUTORS
+V 24
+file 2hg.0.r3025/7526700
+K 9
+ChangeLog
+V 24
+file 2hh.0.r3025/7507801
+K 7
+INSTALL
+V 20
+file 2hi.0.r3029/378
+K 7
+LICENSE
+V 24
+file 2hj.0.r3025/7507227
+K 11
+Makefile.am
+V 24
+file 2hk.0.r3025/8230564
+K 4
+NEWS
+V 24
+file 2hl.0.r3025/8230780
+K 6
+README
+V 24
+file 2hm.0.r3025/7526489
+K 4
+TODO
+V 24
+file 2hn.0.r3025/7543047
+K 9
+acsite.m4
+V 24
+file 2ho.0.r3025/7507648
+K 14
+ant-targets.am
+V 24
+file 2hp.0.r3025/7507430
+K 15
+ant-targets.xml
+V 24
+file 2hq.0.r3025/7526061
+K 9
+build.xml
+V 24
+file 2hr.0.r3025/7537064
+K 6
+common
+V 23
+dir 2hs.0.r3025/7525861
+K 20
+config.properties.in
+V 24
+file 2jf.0.r3025/7542821
+K 12
+configure.ac
+V 20
+file 2jg.0.r3027/296
+K 3
+doc
+V 23
+dir 2jh.0.r3025/7542626
+K 3
+lib
+V 23
+dir 2jy.0.r3025/7550245
+K 16
+profilegenerator
+V 23
+dir 2kj.0.r3025/8230354
+K 23
+profilepub_sipagent.dsp
+V 21
+file 4b5.0.r3028/1912
+K 16
+profilepublisher
+V 20
+dir 485.0.r3027/2072
+K 13
+profilewriter
+V 23
+dir 4a9.0.r3025/7536857
+END
+ENDREP
+id: 2hf.0.r3030/961
+type: dir
+pred: 2hf.0.r3029/1616
+count: 5
+text: 3030 0 948 948 0284d73fbc18f8ee2bbcc9a0d53a9be6
+props: 3026 0 92 0 f993f2cd6b92fa47c25c6cf505866f29
+cpath: /old/sipXconfig/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 19
+dir 2hf.0.r3030/961
+END
+ENDREP
+id: 2he.0.r3030/1223
+type: dir
+pred: 2he.0.r3029/1882
+count: 6
+text: 3030 1172 38 38 a4ad14c758b31ab1892ebc534bd7bc94
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 20
+dir 2he.0.r3030/1223
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3030/1823
+type: dir
+pred: 1.0.r3029/2482
+count: 3029
+text: 3030 1379 431 431 efd00e1f6b8a3d41b8d6742054655a1c
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3030/1823
+END
+ENDREP
+id: 0.0.r3030/2018
+type: dir
+pred: 0.0.r3029/2677
+count: 3030
+text: 3030 1969 36 36 e1b990c74d51571aacce30b1612e67d7
+cpath: /
+copyroot: 0 /
+
+4b4.0.r3025/7526282 delete false false /old/sipXconfig/main/svn-commit.tmp
+
+
+2018 2159

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-09-27T00:22:57.174376Z
+K 7
+svn:log
+V 220
+Ignoring MSVCRTD despite a copy of the MS Visual CRT being linked into the
+SPEEX lib already does not work properly.  Reverting back to including it,
+which solves the link problem, but with a warning of duplicate CRTs.
+
+
+END

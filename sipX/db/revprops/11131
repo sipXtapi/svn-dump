@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-21T15:20:09.987686Z
+K 7
+svn:log
+V 223
+sipXmediaAdapterLib: Properly cleanup sockets if they were not created successfully.
+If socket bind fails, sockets were not cleaned up properly and program crashed on connection destroy, because sockets were deleted twice.
+
+END

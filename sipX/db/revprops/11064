@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-09T18:41:17.147112Z
+K 7
+svn:log
+V 185
+Add bulk resources and connections add ability to MpResourceTopology.
+Now you can describe topology in a resource and connection arrays and pass them in instead of one-by-one addition.
+
+END

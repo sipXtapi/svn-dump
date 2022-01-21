@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+lbudnick
+K 8
+svn:date
+V 27
+2005-09-08T12:05:19.454565Z
+K 7
+svn:log
+V 142
+Add Jitter Buffer functionality to sipX default media lib. Also, restructure the codec interface so that it will be easier to add new codecs. 
+END

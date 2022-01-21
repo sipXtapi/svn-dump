@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-10-28T18:17:24.606289Z
+K 7
+svn:log
+V 199
+Splitted the subscriptions for dialog and presence events.
+
+Publish the presence content to the notifier.
+
+Need to unsubscribe the event if no longer used.
+
+Change to set sign-in and sign-out state.
+
+END

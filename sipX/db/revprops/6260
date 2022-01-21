@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-27T20:40:57.962560Z
+K 7
+svn:log
+V 149
+XCF-924 allow for a longer sleep period for slower machines
+if API tests are failing try setting test-api.sleep property (it defaults to 10 seconds)
+
+END

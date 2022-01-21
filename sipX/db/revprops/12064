@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2013-02-23T16:42:50.721345Z
+K 7
+svn:log
+V 143
+Merge latest fixes from rtcp-reenable.  Only significant change is to remove reference counting (BaseClass) from RTPHeader; some cosmetic fixes
+END

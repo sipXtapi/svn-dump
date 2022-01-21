@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-18T20:49:48.664478Z
+K 7
+svn:log
+V 85
+Add "switch" command group.
+Improve "svnversion" command group to show the branches.
+
+END

@@ -1,0 +1,99 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-11-01T22:18:29.431211Z
+K 7
+svn:log
+V 4298
+Finish reverting rev. 3920, which was a complete mistake.
+sipXregistry/include/RegisterHook.h was deleted in rev. 3926.
+Add log-debug to the PHONIES list.
+Allow TiXmlBase::SkipWhiteSpace to work correctly when *p == '\0' by
+returning successfully.
+Revert rev 3891 (except for an improvement in a debugging print).
+That rev was to work around the bug in XPL-127.  Now that rev 4040 has fixed
+that bug, remove the workaround.
+Add test for TinyXML problem XPL-127.
+For the time being, force the "no early-only" behavior in all call
+pick-ups.
+Fix handling of parameters on the remote contact address in dialog
+event notices.
+Add workaround so Snom phones can pick up calls.
+Split SipClient::isReadyToRead into two functions:
+SipClient::isReadyToRead, which is a non-blocking test for socket-ready-to-read,
+and SipClient::waitForReadyToRead, which waits.
+http://track.sipfoundry.org/browse/XSL-111
+Fix use of compareTo so non-default port designations are recognized as such.
+Update DISTCLEANFILES.
+Document invocation of autoreconf.
+Add entries for sipXconference, but do not activate them.
+Revamp handling of headers specified in URIs.
+Statics are not your friend -- fix for SipMessage::SipMessageFieldProps.
+Put parentheses around expression in #define.
+Improve copyright notices.
+Fix the sip*.sh.in scripts to check that the log files for their components
+are either absent or writable, so the components can log any problems they
+find.  Otherwise the components have no way of reporting problems.
+Add sipXmediaAdapterLib as a component.
+Link in a media subsystem.
+Move mediaAdaptorLib before callLib in the build order, as the
+dependencies have been rearranged.
+Remove special OpenSSL from code base.
+Remove call of isReadyToRead() from a debugging print, as that function blocks.
+Report "residual" bytes after a SIP message as an error in UDP, but as debug
+info in TCP and TLS.
+Put files that depend on the install directory into DISTCLEANFILES.
+Add an orbits.xml file to the test configuration.
+Remove erroneous element in ProcessDefinitions.xml.
+Fix typo in .spec file:  RPM is sipxcommserverlib-devel, not sipxcommserver-devel.
+Add commentary based on an inquiry by Jerry Richards.
+Add a file describing call flows for the call pick-up features.
+Correct REPOSITORY for new repository structure.
+Test fix for SipUserAgent/OsTimer/OsSysSoftTimer lockup:  Increase the message
+queue sizes from 1,000 to 10,000.
+Add more logging of transaction garbage collection.
+Parse URIs correctly -- field parameters have their own unique quoting
+system.
+Add function SipMessage::isInSupportedField to allow easy testing for tokens
+in the Supported header.
+Add first cut of GRUU handling.
+Enable siptest to send OKs in response to NOTIFYs.
+Allow test configurations to use a realm that is different from the domain.
+Add workaround for putative TinyXML parsing bug.
+Add the code for the special Multi-Party Test redirector.
+This can be used for multi-party loop/fork/spiral tests, and also as a
+testbed for turning the redirectors into a proper set of hook
+components.
+Update the clean-check.sh script.
+Add the dialog event testing tool.
+Update svn:ignores properties.
+http://track.sipfoundry.org/browse/XSL-107
+http://track.sipfoundry.org/browse/XSL-108
+http://track.sipfoundry.org/browse/XPL-125
+http://track.sipfoundry.org/browse/XPB-137
+Implement Christian Stredicke's workaround so call pickup works with
+current Snom phones.
+http://paradise:8080/browse/ENG-319
+Overhaul OsFileLinux::getFileInfo, as it had 3 errors and was poorly
+coded as well.
+Also fix some formatting problems.
+Revamp SipRedirectorPickUp to re-read the orbits.xml file when it has changed.
+Allow mappings that send an extension into "retrieve messages for
+extension NNN".
+http://track.sipfoundry.org/browse/XPB-256
+http://paradise:8080/browse/ENG-245
+Update test configuration to take into account 3.0 configuration features.
+Fix test of requested expiration time vs. minimum allowed expiration time.
+Also, install workaround to allow the workaround of ENG-319 to work
+when retrieving calls from Park Server.  (Ugh.)
+http://track.sipfoundry.org/browse/XPB-399
+http://paradise:8080/browse/ENG-319
+Ignore NOTIFYs that do not contain bodies, so the Redirector doesn't
+crash when it receives one.
+http://track.sipfoundry.org/browse/XPB-406
+
+END

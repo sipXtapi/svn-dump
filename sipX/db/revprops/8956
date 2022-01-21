@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-02T20:34:39.180572Z
+K 7
+svn:log
+V 657
+Merged revisions 8259-8953 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/3.6/sipXconfig
+
+  
+  XCF-1400 Check sipx user write access to key configuration files that have been problematic
+  
+  XRR-129 workaround: restart registrar periodically (on Sundays around 3 AM) to prevent problems caused by memory leak
+  
+  XCF-1457 - Ignore autoattendant aliases if none were set when migrating database
+  
+  XCF-1466 - unmanaged phones with external lines was causing a page error.  Migrate unmanaged phones to generic phones, unmanaged isnt useful and even removed in 3.8
+    
+  XCF-1485 - Use UDP for registration for polycom 1.6 firmware only
+
+
+END

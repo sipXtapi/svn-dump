@@ -1,0 +1,275 @@
+PLAIN
+K 11
+Makefile.am
+V 25
+file 1vf.1i6.r7320/117111
+K 13
+authrules.xsd
+V 20
+file 1vg.0.r1970/677
+K 10
+regdisplay
+V 22
+file 1vr.1i6.r4927/923
+K 13
+setsipxpasswd
+V 25
+file 1v4.1i6.r6259/144346
+K 38
+sipx_main_fc2_bldno.configure-switches
+V 21
+file 1vl.0.r1994/1543
+K 38
+sipx_main_fc3_bldno.configure-switches
+V 21
+file 1vm.0.r1994/1869
+K 39
+sipx_main_rhe3_bldno.configure-switches
+V 21
+file 1vn.0.r1994/2195
+K 25
+sipxcommserverlib-3.0.tgz
+V 23
+file 8wo.1i6.r5832/2917
+K 10
+urlmap.xsd
+V 24
+file 1vh.1i6.r7159/15483
+END
+ENDREP
+id: 1v3.1i6.r8229/524
+type: dir
+pred: 1v3.1i6.r8057/1829
+count: 23
+text: 8229 0 511 511 ed7543aadecf0db4205df05be642de71
+props: 1972 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXcommserverLib/meta
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1qp.0.r1967/49607
+K 9
+ChangeLog
+V 20
+file 1qq.0.r1984/410
+K 7
+INSTALL
+V 21
+file 1qr.1i6.r6812/90
+K 7
+LICENSE
+V 19
+file 1qs.0.r1967/82
+K 11
+Makefile.am
+V 24
+file 1qt.1i6.r7616/17595
+K 4
+NEWS
+V 22
+file 1qu.0.r1967/60154
+K 6
+README
+V 22
+file 1qv.0.r1967/49287
+K 4
+TODO
+V 22
+file 1qw.0.r1967/53785
+K 3
+bin
+V 22
+dir 1qy.1i6.r8058/1921
+K 6
+config
+V 24
+file d3k.1i6.r7274/38226
+K 12
+configure.ac
+V 24
+file 1r5.1i6.r7696/19613
+K 3
+doc
+V 22
+dir 1uv.1i6.r7422/1096
+K 3
+etc
+V 23
+dir 1r6.1i6.r8180/74961
+K 7
+include
+V 23
+dir 1rc.1i6.r7967/51398
+K 4
+meta
+V 21
+dir 1v3.1i6.r8229/524
+K 21
+sipXcommserverLib.dsp
+V 22
+file 1us.1i6.r7687/832
+K 24
+sipXcommserverLib.vcproj
+V 24
+file dw0.1i6.r8083/18637
+K 13
+sipdbtest.dsp
+V 22
+file 1ut.1i6.r7687/570
+K 25
+sipxcommserverlib.spec.in
+V 23
+file 1v2.1i6.r7999/7074
+K 3
+src
+V 22
+dir 1t1.1i6.r8223/1240
+END
+ENDREP
+id: 1qo.1i6.r8229/1645
+type: dir
+pred: 1qo.1i6.r8223/2369
+count: 332
+text: 8229 773 859 859 c4fe2853a8f4be9969e42b89fdc410bb
+props: 7274 39275 787 0 e497fa16231625839aa9bf2abf36681b
+cpath: /main/sipXcommserverLib
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 11
+Makefile.in
+V 23
+file d0m.421.r8194/1039
+K 7
+bbridge
+V 21
+dir 8dl.0.r8083/18422
+K 5
+build
+V 22
+file d5a.0.r7664/15661
+K 6
+config
+V 21
+dir 91.1i4.r8194/2233
+K 12
+configure.ac
+V 20
+file d0n.0.r8051/327
+K 16
+dependencies.mak
+V 21
+file dxw.0.r8197/5783
+K 3
+lib
+V 20
+dir cyn.0.r8001/1865
+K 14
+msvs6build.bat
+V 21
+file dm4.0.r8177/4553
+K 14
+resiprocateLib
+V 21
+dir 8g8.0.r7696/13751
+K 9
+sipXb2bua
+V 21
+dir dau.0.r7967/44454
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r8196/4294
+K 17
+sipXcommserverLib
+V 22
+dir 1qo.1i6.r8229/1645
+K 10
+sipXconfig
+V 23
+dir 2hf.1i7.r8227/28482
+K 19
+sipXmediaAdapterLib
+V 21
+dir 89s.0.r8177/13233
+K 12
+sipXmediaLib
+V 21
+dir mz.1i8.r7761/7877
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r8211/3128
+K 11
+sipXportLib
+V 20
+dir 3.1ib.r8197/5531
+K 9
+sipXproxy
+V 23
+dir 1vt.1ic.r8180/58814
+K 13
+sipXpublisher
+V 23
+dir 20n.1id.r8180/70541
+K 12
+sipXregistry
+V 22
+dir 1y5.1ie.r8190/2565
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r8127/14938
+K 9
+sipXtools
+V 20
+dir dtl.0.r8228/8603
+K 8
+sipXvxml
+V 23
+dir 22d.1ig.r8180/60488
+K 10
+top.mak.in
+V 21
+file d5l.0.r7330/2797
+END
+ENDREP
+id: 7q4.0.r8229/2965
+type: dir
+pred: 7q4.0.r8228/9883
+count: 2096
+text: 8229 1898 1054 1054 d1f02654e9062ec0939fd84fbc1b9615
+props: 8223 3690 2563 0 a6c058d690a21b7eb898bf87605ac324
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r8226/6428
+K 4
+main
+V 20
+dir 7q4.0.r8229/2965
+K 4
+tags
+V 20
+dir 7q5.0.r8202/3118
+END
+ENDREP
+id: 0.0.r8229/3301
+type: dir
+pred: 0.0.r8228/10220
+count: 8229
+text: 8229 3175 113 113 541f81f01982a7db17e9b718471adefa
+cpath: /
+copyroot: 0 /
+
+drn.1i6.r8057/992 delete false false /main/sipXcommserverLib/meta/expire-spread
+
+
+3301 3445

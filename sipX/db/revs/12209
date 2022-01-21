@@ -1,0 +1,142 @@
+PLAIN
+K 13
+svn:externals
+V 55
+config https://scm.sipfoundry.org/rep/sipX/main/config
+
+K 10
+svn:ignore
+V 150
+aclocal.m4
+config.h
+config.h.in
+configure
+libtool
+BUILDSTAMP
+Makefile
+Makefile.in
+config.log
+config.properties
+config.status
+stamp-h1
+autom4te.cache
+
+
+K 16
+svnmerge-blocked
+V 37
+/main/sipXtackLib:8363,8539,8582,8758
+K 19
+svnmerge-integrated
+V 109
+/main/sipXtackLib:1-7992,8004,8063,8127,8232,8247,8274,8318,8326,8338-8340,8362,8431,8449,8526,8700,8806,8891
+END
+ENDREP
+id: boq.7n5.r12209/476
+type: dir
+pred: boq.7n5.r12165/2856
+count: 335
+text: 12165 770 2073 2073 203d18dfec0eeecb0b5b8c7e045fdd5f
+props: 12209 0 463 0 3706232ffc5bf4ccabf02b618dcadd70
+cpath: /main/sipXtackLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g8y.7n5.r12172/315
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 23
+dir 9wj.7n5.r12202/3039
+K 10
+readme.txt
+V 26
+file 9ws.7n5.r12043/247879
+K 7
+scripts
+V 23
+dir fxk.7n5.r12171/1617
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r12195/5622
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r12191/4723
+K 12
+sipXmediaLib
+V 23
+dir b40.7n5.r12208/3576
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r12189/6789
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r12176/4629
+K 11
+sipXtackLib
+V 22
+dir boq.7n5.r12209/476
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r12209/1366
+type: dir
+pred: 9wi.7n5.r12208/4475
+count: 3147
+text: 12209 707 646 646 0128d45e64e5536c3fc00d9e9bb43ef8
+props: 12114 59175 76 0 1dd3880c3272b32f88d1700b38908223
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r12113/17441
+K 4
+main
+V 23
+dir 9wi.7n5.r12209/1366
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r12209/1760
+type: dir
+pred: 0.0.r12208/4871
+count: 12209
+text: 12209 1588 159 159 f9dd02939982245b908b4af8322ab9c4
+cpath: /
+copyroot: 0 /
+
+boq.7n5.t12208-1 modify false true /main/sipXtackLib
+
+
+1760 1907

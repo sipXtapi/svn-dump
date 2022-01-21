@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-12-21T20:04:29.964497Z
+K 7
+svn:log
+V 73
+mergefrom pingtel-main 7606
+
+First version of Resource List Server code.
+
+END

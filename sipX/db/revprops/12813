@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2021-04-28T14:27:32.989064Z
+K 7
+svn:log
+V 1134
+-added API to CpTopologyGraphInterface to allow recording to start without automatically creating mixes
+-fixed a bug in the auto created mixes of recordChannelAudio API if local mic and speaker are not added to flow graph 
+-fixed a compiler warning that crops up many times in MpArrayBuf.h when building for 64-bit
+-reordered pre-processor defines in sipXmediaLib-msvc16.vcxproj and sipXmediaAdapterLib-msvc16.vcxproj to display better 
+ when showing grouped settings 
+-set default DEFAULT_BRIDGE_MAX_IN_OUTPUTS to 10 in MprBridgeConstructor.h and in sipXmediaAdapterLib and sipXmediaLib 
+ VS2019 project files 
+-set default MAXIMUM_RECORDER_CHANNELS to 1 in sipXmediaAdapterLib and sipXmediaLib VS2019 project files 
+  -added getMaximumRecoderChannels API to MprRecorder.h so that unit tests can query and don't need to define
+   MAXIMUM_RECORDER_CHANNELS that matches the media library when building
+-fixed a crash in MprRecorder when channel 0 has null input buffers
+-cleanup sipXmediaLibTest-msvc16.vcxproj to work correctly - still some compilation errors that need fixing in 
+ MpOutputDriverTest.cpp and MpOutputManagerTest.cpp
+
+END

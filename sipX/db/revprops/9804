@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-07-07T13:54:07.392586Z
+K 7
+svn:log
+V 61
+Enabled bridge mix unit test to support up to 15 in/outputs
+
+
+END

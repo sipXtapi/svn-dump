@@ -1,0 +1,525 @@
+PLAIN
+K 10
+svn:ignore
+V 46
+sandbox
+testsuite
+Makefile
+Makefile.in
+.deps
+
+
+END
+ENDREP
+id: by9.7n5.r11852/85
+type: dir
+pred: by9.7n5.r11827/357
+count: 47
+text: 11802 10493 144 144 d2031ba1c599875a0eff925a3f3c2552
+props: 11852 0 72 0 e79eb2b407737e580392438f94fe86c6
+cpath: /main/sipXtackLib/src/test
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file bvk.0.r10056/138135
+K 3
+net
+V 23
+dir bvl.7n5.r11841/5131
+K 8
+resparse
+V 23
+dir bxq.7n5.r11702/2319
+K 4
+test
+V 21
+dir by9.7n5.r11852/85
+END
+ENDREP
+id: bvj.7n5.r11852/500
+type: dir
+pred: bvj.7n5.r11841/5497
+count: 190
+text: 11852 321 166 166 058805107751f54ec500761c60540256
+props: 11827 778 54 0 9e8708e9b4786ab3c7ff09e372496a63
+cpath: /main/sipXtackLib/src
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 45
+siplog2siptrace
+Makefile
+Makefile.in
+.deps
+
+
+
+END
+ENDREP
+id: bto.7n5.r11852/818
+type: dir
+pred: bto.7n5.r11827/3199
+count: 7
+text: 10063 5324 90 90 85c7ae072c227c90dd50ba42e8ee9a6f
+props: 11852 734 71 0 32f36d6a0379af82d26c42bcea6710e9
+cpath: /main/sipXtackLib/siplog2siptrace
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 11
+version.h
+
+
+END
+ENDREP
+id: bq3.7n5.r11852/1111
+type: dir
+pred: bq3.7n5.r11812/10396
+count: 69
+text: 11812 6351 4032 4032 4a306e6cc03b681bbe791ac54b4a18a0
+props: 11852 1061 37 0 f94eb94c8d744c9b3e84e808bb26ff86
+cpath: /main/sipXtackLib/include/net
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file bq2.7n5.r11420/6713
+K 3
+net
+V 23
+dir bq3.7n5.r11852/1111
+K 8
+resparse
+V 24
+dir bs9.7n5.r11662/12008
+END
+ENDREP
+id: bq1.7n5.r11852/1502
+type: dir
+pred: bq1.7n5.r11828/157
+count: 81
+text: 11852 1358 131 131 4635a5418f3432afc161e505ce5361e1
+props: 11828 0 144 0 362d9ab6e02fa54d85ec3f989567969c
+cpath: /main/sipXtackLib/include
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 45
+syslog2siptrace
+Makefile
+Makefile.in
+.deps
+
+
+
+END
+ENDREP
+id: byz.7n5.r11852/1823
+type: dir
+pred: byz.7n5.r11827/3510
+count: 8
+text: 10912 84719 144 144 f2d18460b764eaef834631afd6d0a000
+props: 11852 1739 71 0 3e0a7038c1ed56b9ea0e897560face34
+cpath: /main/sipXtackLib/syslog2siptrace
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 42
+basicImClient
+Makefile
+Makefile.in
+.deps
+
+
+END
+ENDREP
+id: bpy.7n5.r11852/2152
+type: dir
+pred: bpy.7n5.r11827/4126
+count: 7
+text: 10110 315 97 97 8c713c721fca45c04eafab42fbf9c720
+props: 11852 2071 68 0 b3674807c27e40cfab009aff7ba060e0
+cpath: /main/sipXtackLib/examples/im
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 41
+xmlrpcClient
+Makefile
+Makefile.in
+.deps
+
+
+END
+ENDREP
+id: dsg.7n5.r11852/2472
+type: dir
+pred: dsg.7n5.r11827/4430
+count: 4
+text: 9285 82499 99 99 ee86148dd2fc910bce954f02eac50543
+props: 11852 2392 67 0 18df9924d67831c9d240a14a3bf8a7ca
+cpath: /main/sipXtackLib/examples/xmlrpc
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file bpx.0.r9285/82883
+K 2
+im
+V 23
+dir bpy.7n5.r11852/2152
+K 6
+xmlrpc
+V 23
+dir dsg.7n5.r11852/2472
+END
+ENDREP
+id: bpw.7n5.r11852/2855
+type: dir
+pred: bpw.7n5.r11827/4872
+count: 10
+text: 11852 2717 125 125 a063928f465ded6ead1de4d75af8d017
+props: 11827 4811 48 0 86168c69db02cf3306494c6df91bc2ed
+cpath: /main/sipXtackLib/examples
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g91.7n5.r11703/506
+K 12
+CONTRIBUTORS
+V 25
+file bor.0.r6469/22114347
+K 9
+ChangeLog
+V 25
+file bos.0.r6469/22149247
+K 7
+INSTALL
+V 24
+file bot.0.r6955/1737850
+K 11
+Makefile.am
+V 22
+file bou.0.r9285/80469
+K 4
+NEWS
+V 25
+file bov.0.r6469/22121423
+K 6
+README
+V 24
+file bow.0.r6955/1738184
+K 4
+TODO
+V 25
+file box.0.r6469/22151942
+K 9
+acsite.m4
+V 24
+file boy.0.r6955/1731963
+K 14
+ant-targets.am
+V 24
+file boz.0.r6711/5226484
+K 15
+ant-targets.xml
+V 25
+file bp0.0.r6469/22149418
+K 3
+bin
+V 23
+dir bp1.7n5.r11827/2900
+K 8
+cert8.db
+V 25
+file bp3.0.r6469/22154413
+K 20
+config.properties.in
+V 24
+file bpd.0.r6955/1734502
+K 12
+configure.ac
+V 25
+file bpe.7n5.r10869/10757
+K 7
+contrib
+V 24
+dir gue.7n5.r11696/21117
+K 11
+dialogwatch
+V 21
+dir dsz.0.r9285/71995
+K 3
+doc
+V 23
+dir bpf.7n5.r11827/2602
+K 8
+examples
+V 23
+dir bpw.7n5.r11852/2855
+K 7
+include
+V 23
+dir bq1.7n5.r11852/1502
+K 7
+key3.db
+V 25
+file bt7.0.r6469/22151521
+K 3
+lib
+V 24
+dir bt8.0.r6469/22119550
+K 22
+mcohen@pingtel.com.p12
+V 25
+file btb.0.r6469/22121180
+K 4
+meta
+V 21
+dir btc.7n5.r11827/61
+K 9
+secmod.db
+V 25
+file btj.0.r6469/22151225
+K 24
+sipXtackLib-msvc8.vcproj
+V 24
+file e7a.7n5.r11190/9941
+K 15
+sipXtackLib.dsp
+V 24
+file gj.7nw.r11289/28674
+K 15
+sipXtackLib.vcp
+V 24
+file e6m.0.r10056/144149
+K 18
+sipXtackLib.vcproj
+V 20
+file btk.0.r10645/50
+K 28
+sipXtackLibTest-msvc8.vcproj
+V 23
+file e7b.0.r10789/40829
+K 19
+sipXtackLibTest.dsp
+V 24
+file mh.7nx.r11289/28436
+K 19
+sipXtackLibTest.sln
+V 23
+file btl.0.r7990/285820
+K 19
+sipXtackLibTest.vcp
+V 22
+file e6n.0.r9041/21232
+K 22
+sipXtackLibTest.vcproj
+V 22
+file btm.0.r9919/14033
+K 29
+sipXtackLib_NoSecurity.vcproj
+V 24
+file btn.0.r10056/143934
+K 15
+siplog2siptrace
+V 22
+dir bto.7n5.r11852/818
+K 7
+siptest
+V 23
+dir btr.7n5.r11827/2304
+K 9
+sipviewer
+V 23
+dir buv.7n5.r11827/3820
+K 19
+sipxtacklib.spec.in
+V 24
+file bvi.7n5.r10867/9415
+K 3
+src
+V 22
+dir bvj.7n5.r11852/500
+K 15
+syslog2siptrace
+V 23
+dir byz.7n5.r11852/1823
+K 16
+tcpdump2siptrace
+V 25
+file bz3.0.r6469/22149596
+K 32
+user_cert_mcohen@pingtel.com.der
+V 25
+file bz4.0.r6469/22150908
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 55
+config https://scm.sipfoundry.org/rep/sipX/main/config
+
+K 10
+svn:ignore
+V 83
+aclocal.m4
+config.h
+config.h.in
+configure
+libtool
+BUILDSTAMP
+Makefile
+Makefile.in
+
+
+K 16
+svnmerge-blocked
+V 37
+/main/sipXtackLib:8363,8539,8582,8758
+K 19
+svnmerge-integrated
+V 109
+/main/sipXtackLib:1-7992,8004,8063,8127,8232,8247,8274,8318,8326,8338-8340,8362,8431,8449,8526,8700,8806,8891
+END
+ENDREP
+id: boq.7n5.r11852/5581
+type: dir
+pred: boq.7n5.r11841/7811
+count: 276
+text: 11852 3096 2064 2064 d1bdc6bd803b07bc7e68209bdca08ee1
+props: 11852 5173 395 0 357afc0c986253114091079cedff22e9
+cpath: /main/sipXtackLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 24
+file g8y.7n5.r11608/2763
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 23
+dir 9wj.7n5.r11721/1537
+K 10
+readme.txt
+V 24
+file 9ws.7n5.r11483/5210
+K 7
+scripts
+V 23
+dir fxk.7n5.r11663/1205
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r11830/6889
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r11851/1988
+K 12
+sipXmediaLib
+V 23
+dir b40.7n5.r11850/4652
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r11849/3453
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r11848/1393
+K 11
+sipXtackLib
+V 23
+dir boq.7n5.r11852/5581
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r11852/6476
+type: dir
+pred: 9wi.7n5.r11851/2890
+count: 2845
+text: 11852 5817 646 646 9bbd0da5e62469d718199b46ef4c7e94
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r11666/17573
+K 4
+main
+V 23
+dir 9wi.7n5.r11852/6476
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r11852/6814
+type: dir
+pred: 0.0.r11851/3228
+count: 11852
+text: 11852 6642 159 159 6564a9b3c01fce78f443da1c210e2199
+cpath: /
+copyroot: 0 /
+
+boq.7n5.t11851-1 modify false true /main/sipXtackLib
+
+bpy.7n5.t11851-1 modify false true /main/sipXtackLib/examples/im
+
+dsg.7n5.t11851-1 modify false true /main/sipXtackLib/examples/xmlrpc
+
+by9.7n5.t11851-1 modify false true /main/sipXtackLib/src/test
+
+bq3.7n5.t11851-1 modify false true /main/sipXtackLib/include/net
+
+bto.7n5.t11851-1 modify false true /main/sipXtackLib/siplog2siptrace
+
+byz.7n5.t11851-1 modify false true /main/sipXtackLib/syslog2siptrace
+
+
+6814 6961

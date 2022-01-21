@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-02-08T16:16:25.496336Z
+K 7
+svn:log
+V 139
+merged "identity" changes made by Karl Brose into main.
+  
+pingtel changed to sipfoundry
+com changed to org
+xpressa changed to sipxphone
+ 
+
+END

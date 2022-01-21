@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-22T22:59:32.884608Z
+K 7
+svn:log
+V 218
+sipXmediaLib: Reset MprDecode on disable.
+This is required because after disable-enable MprDecode will likely face new unrelated stream. This happens, e.g. when you put call on hold and then move it into a conference.
+
+END

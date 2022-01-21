@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-25T12:36:22.498664Z
+K 7
+svn:log
+V 147
+Fix build for sipXtackLib tests broken by previous commit: VS2003, VS2005, eVC 4.0 and VS6 project files updated to reflect tests filename change.
+
+END

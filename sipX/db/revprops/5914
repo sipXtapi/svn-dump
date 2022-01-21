@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-01-19T21:58:43.562633Z
+K 7
+svn:log
+V 331
+Remove these comments about the registration DB from Redirection.txt because this is no longer true:
+
+    You can read the in-memory database directly using the
+    sipdbtest utility found in the sipXcommserverLib.
+    file.
+
+We took this feature out of sipdbtest because it was an obstacle to implementing HA (high availability).
+
+END

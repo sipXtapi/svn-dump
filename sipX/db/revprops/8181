@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-12-01T15:08:04.597716Z
+K 7
+svn:log
+V 89
+Second pass of fixes: missed TAO files added to sipXcallLib. Compilation successful now.
+
+END

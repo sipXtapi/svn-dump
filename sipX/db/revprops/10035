@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-09-05T00:43:32.425007Z
+K 7
+svn:log
+V 179
+Remove MediaLib dependency from users of MediaAdapter message notification.
+Add translator to translate MediaLib notifications into abstract Media Interface notification messages.
+END

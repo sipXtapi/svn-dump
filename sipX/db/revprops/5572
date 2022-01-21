@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-11-13T23:54:01.923185Z
+K 7
+svn:log
+V 235
+Search results page now have links to edit pages.
+I cannot think about elegant way of identifying edit page for a found object. EnumEditPageProvider is responsible for that - we probably need a more generic and maintainable mechanism.
+
+END

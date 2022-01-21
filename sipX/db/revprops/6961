@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-06-13T13:20:19.653459Z
+K 7
+svn:log
+V 204
+XCF-1074 extended preview for LDAP import - added Next and Previous buttons
+by default you can preview up to 10 users - you can change this number by modifying 
+ldapImportManagerImpl.previewSize property
+
+END

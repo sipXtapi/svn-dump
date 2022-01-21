@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-26T02:39:58.413873Z
+K 7
+svn:log
+V 382
+Merged revisions 8013 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8013 | bob | 2006-11-17 21:33:04 +0300 | 5 lines
+  
+  1) Merged sipXmediaLib changes from main r7991
+  2) Re-added OsConfigDb::clear (used by sipXezPhone, but deleted in main)
+  3) Added some more delay when starting the mp tasks -- we need better synchronization.
+........
+
+END

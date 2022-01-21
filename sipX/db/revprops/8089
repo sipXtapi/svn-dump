@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-11-23T13:02:27.065354Z
+K 7
+svn:log
+V 461
+XCF-891 exporting CDRs to CSV file
+- new method (dumpCdrs) in CdrManager - using CsvWriter to directly stream CDRs to writer objects
+- new Tapestry service (ExportService) that works similary to direct service but does not render the page after listerner is invoked - it is used to implement export listener that is solely responsible for rendering entire response (for example creating response as CSV file)
+- modifications on CdrStatsPanel to add export link
+
+END

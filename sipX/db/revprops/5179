@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-09-25T00:41:07.440673Z
+K 7
+svn:log
+V 110
+Add code to allow conferences to terminate cleanly by terminating all
+subscriptions to that conference first.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-05T22:28:26.851636Z
+K 7
+svn:log
+V 33
+Fix OsAtomics.h build under VS6.
+
+END

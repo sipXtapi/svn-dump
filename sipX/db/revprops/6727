@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-05-04T04:14:18.921018Z
+K 7
+svn:log
+V 486
+More CDR performance tuning (XPR-144).  Per advice in the PostgreSQL manual, commit all the CDRs in one ginormous transaction, rather than using one transaction per CDR as before.  Appears to improve performance noticeably, but the times that I recorded vary by up to a factor of 2, so not clear what the impact is. However, the worst time I recorded was slightly better than the best time I recorded previously.  To get decent stats, I'll need to do longer runs with bigger data sets.
+
+END

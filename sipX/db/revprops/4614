@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-04-26T22:17:54.279425Z
+K 7
+svn:log
+V 175
+In the Web UI case, we want to display all the messages in chronicle order regardless whether the messages have been read or not.
+
+http://track.sipfoundry.org/browse/XVX-144
+
+
+END

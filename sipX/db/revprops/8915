@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-02-26T22:31:04.292938Z
+K 7
+svn:log
+V 63
+Cleanup and move SdpLib tests into standard testing framework.
+
+END

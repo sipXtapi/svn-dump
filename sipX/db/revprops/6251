@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-25T16:56:17.059523Z
+K 7
+svn:log
+V 128
+[XPB-523] Test for incorrect names in /etc/hosts for the localhost address
+          http://track.sipfoundry.org/browse/XPB-523
+
+END

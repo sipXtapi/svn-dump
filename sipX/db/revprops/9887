@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-22T23:29:02.320636Z
+K 7
+svn:log
+V 189
+Bugfix: Linear complexity bridge did not copied input to first output only in case one input have to be copied to several outputs.
+This is because MpBufPtr::swap() modify original pointer.
+
+END

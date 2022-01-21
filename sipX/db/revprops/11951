@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-06-15T14:40:55.236961Z
+K 7
+svn:log
+V 76
+Use explicit type for 64 bit constant int in SDP candidate priority offset.
+
+END

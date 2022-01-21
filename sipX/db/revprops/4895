@@ -1,0 +1,52 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-08-22T17:23:21.704637Z
+K 7
+svn:log
+V 1769
+Merged revisions 3218-3294 via svnmerge from
+https://paradise.pingtel.com/rep/sipX/mirror/main
+
+Replication fixes:
+==================
+
+Fix user permissions not replicating because of save v.s. update events from hibernate.  take different approach by writing aspect to watch for .save* or .delete* on Daos
+Replication context factored out from Process context.
+Replication context is always asynchronous, ProcessContext needs to be synchronous.
+lazy replication strategy - multiple replication request result in a single operation if exceuted within time window;
+default replication delay is set to 7 seconds; can be reconfigured through spring file 
+
+Even mechanism refactoring:
+========================== 
+- detecting events separated from publishing events - this is necessary since we have to support both AOP and manually generated events
+- all event related code moved into new package: org.sipfoundry.sipxconfig.common.event
+- fixed deleteUsers to manually send DAO notifications - it is not practical to intercept this method using AOP 
+
+Job Status:
+===========
+
+support for reporting on background job status
+Initial Job Status page implementation.
+Phone profile projection and restart is now using JobContext to record status of the operation.
+LazyDaemon factored out of replication context. To be used for house keeping in jobs contexts.
+
+
+XCF-81 Domain name change
+
+Misc:
+=====
+
+Added template for EasyMock generation.
+Go to Eclipse->Preferences->Editor->Templates and import meta/eclipse.java.editor-templates.xml
+Go one of your test (or any Java file) - type mc and prese Ctrl+Space
+
+TestPage.login is now using a first user to login rather than specific TEST_USER.
+It's important for all the test that see database by clicking on "seed test user" link.
+
+
+END

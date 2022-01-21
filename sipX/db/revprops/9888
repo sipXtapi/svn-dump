@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-07-24T15:12:25.414491Z
+K 7
+svn:log
+V 298
+Added a NULL AEC resource as a coposite of two resoruces.  One to buffer
+historical output to the speaker and the other to do the actual echo 
+cancelation calculation and removal.  This implementation does no actual 
+cancelation.  It is intended as a place holder to derive implementations 
+from.
+
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-03-30T19:36:20.625398Z
+K 7
+svn:log
+V 149
+Add CGI to report the historical registration information (from the
+logs) rather than the current registration information (from
+registrations.xml).
+
+END

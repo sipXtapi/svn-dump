@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-06-13T12:40:20.339403Z
+K 7
+svn:log
+V 139
+Fixed svn:eol-style and svn:mime-type on root-level readme.txt.  My scripts which search/fix these properties ignored the root directory.
+
+
+END

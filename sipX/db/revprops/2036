@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-05T20:34:55.791048Z
+K 7
+svn:log
+V 180
+Correct the directory in which we look for huntgroup.xml.
+Use variable assignment to avoid repeating the name of every file five
+times.
+
+http://track.sipfoundry.org/browse/XCF-158
+
+END

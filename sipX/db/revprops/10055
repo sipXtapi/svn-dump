@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-06T20:10:09.900136Z
+K 7
+svn:log
+V 82
+Remove one more (last) #ifdef from SdpCodecFactory.cpp. We do not need them here.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-10-19T22:08:51.235806Z
+K 7
+svn:log
+V 66
+FIX BUILD: add configserver's apache conf file to rpm distribution
+END

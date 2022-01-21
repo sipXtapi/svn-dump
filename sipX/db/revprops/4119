@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-07-22T14:51:12.576446Z
+K 7
+svn:log
+V 396
+Added the voicemail.xml and httpd-sipxchange-mediaserver*.conf files to the
+sipXpbx project.  They belong here -- not in sipXvxml.  The sipxchange-common
+configuration files (for apache) now include the appropriate  mediaserver conf
+files.
+
+I also fixed a pathing issue the location of the ssl certificates.  They are
+now located in PREFIX/etc/sipxpbx/ssl instead of PREFIX/etc/sipxpbx/etc/ssl.
+
+
+END

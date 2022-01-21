@@ -1,0 +1,166 @@
+PLAIN
+K 13
+svn:externals
+V 75
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-E/config
+
+K 10
+svn:ignore
+V 187
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxmedialib-*.tar.gz
+sipxmedialib.spec
+stamp-h1
+Debug
+Release
+
+K 17
+svnmerge-2.6-head
+V 56
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 4
+1-56
+K 18
+svnmerge-main-head
+V 48
+https://scm.sipfoundry.org/rep/sipXmediaLib/main
+K 18
+svnmerge-main-revs
+V 4
+1-51
+END
+ENDREP
+id: mz.4t.r1133/555
+type: dir
+pred: mz.4n.r1123/1944
+count: 44
+text: 1123 1257 674 674 a54d7272563c6e41dd247d3e0024fef1
+props: 1133 0 542 0 e0a9ed619d571133a0dfcb1cad83fbb1
+cpath: /old/sipXmediaLib/tags/2.6-export-E
+copyfrom: 1132 /old/sipXmediaLib/branches/2.6
+
+PLAIN
+K 5
+2.5.1
+V 19
+dir mz.4g.r1077/198
+K 5
+2.5.2
+V 20
+dir mz.4h.r1091/1003
+K 12
+2.6-export-A
+V 19
+dir mz.4o.r1122/555
+K 12
+2.6-export-B
+V 19
+dir mz.4p.r1124/555
+K 12
+2.6-export-C
+V 19
+dir mz.4r.r1131/555
+K 12
+2.6-export-D
+V 19
+dir mz.4s.r1132/555
+K 12
+2.6-export-E
+V 19
+dir mz.4t.r1133/555
+K 13
+main-export-B
+V 19
+dir mz.4l.r1119/439
+K 13
+main-export-C
+V 19
+dir mz.4m.r1120/439
+END
+ENDREP
+id: uq.0.r1133/1209
+type: dir
+pred: uq.0.r1132/1166
+count: 10
+text: 1133 818 378 378 b84cbdc8ca7434c6d25c58f584686d9e
+cpath: /old/sipXmediaLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 17
+dir ux.0.r1130/51
+K 4
+main
+V 18
+dir mz.0.r1129/425
+K 4
+tags
+V 19
+dir uq.0.r1133/1209
+END
+ENDREP
+id: my.0.r1133/1492
+type: dir
+pred: my.0.r1132/1448
+count: 66
+text: 1133 1372 107 107 d3915fb892cc99313857b977beb5cb13
+cpath: /old/sipXmediaLib
+copyroot: 0 /
+
+PLAIN
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1133/1492
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1133/1794
+type: dir
+pred: 1.0.r1132/1750
+count: 1132
+text: 1133 1651 130 130 e33b48963e4193811988018ada5cc8fd
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1133/1794
+END
+ENDREP
+id: 0.0.r1133/1989
+type: dir
+pred: 0.0.r1132/1945
+count: 1133
+text: 1133 1940 36 36 a14d3129d87754dcd5fd4228bc6363a8
+cpath: /
+copyroot: 0 /
+
+mz._0.t1132-1 add false true /old/sipXmediaLib/tags/2.6-export-E
+1132 /old/sipXmediaLib/branches/2.6
+
+1989 2130

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-09-17T18:04:40.332529Z
+K 7
+svn:log
+V 107
+XCF-1183 - Integrate domain aliasing w/dial plans. Replicate forwardingrules.xml and alter mappingrules.xml
+END

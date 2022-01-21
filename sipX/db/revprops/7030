@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-07-04T14:28:21.547677Z
+K 7
+svn:log
+V 157
+Recorded merge of revisions 6937 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+ProductName and Copyright changed in sipXtapi.rc
+
+
+END

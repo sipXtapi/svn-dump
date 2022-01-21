@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-07T17:48:53.504098Z
+K 7
+svn:log
+V 94
+BugFix: Recursive call in PtMetaEvent equal operator (thanks to Mike Cohen for finding this).
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-02-11T12:00:05.820783Z
+K 7
+svn:log
+V 68
+sipXmediaLib: Add more debug to MpMediaTask for profiling purposes.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-10-28T14:31:07.700838Z
+K 7
+svn:log
+V 49
+Fix svn:externals property for config directory.
+
+END

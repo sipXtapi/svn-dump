@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-03T22:30:57.292899Z
+K 7
+svn:log
+V 307
+msinttypes update:
+Explicitly cast to appropriate type INT8_MIN, INT16_MIN, INT32_MIN and INT64_MIN constants.
+Due to their unusual definition in Visual Studio headers (-_Ix_MAX-1) they are propagated to int and thus do not have expected type, causing VS6 strict compiler to claim about type inconsistency.
+
+END

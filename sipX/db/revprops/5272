@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-10-04T18:38:43.945483Z
+K 7
+svn:log
+V 121
+XCF-(JIRA DOWN) - Patch contributed by Hannu regarding Cisco reboot.  Include legend files for Cisco 7905 and ATA devices
+END

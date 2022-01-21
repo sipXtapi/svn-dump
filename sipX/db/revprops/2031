@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-03-31T17:26:10.572095Z
+K 7
+svn:log
+V 84
+fix paths for some of the config files editted by the upgrade (cut and paste errors)
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-03-22T15:29:17.675205Z
+K 7
+svn:log
+V 86
+XCF-267 UI component which allows specifying PSTN prefix was missing from the screen.
+
+END

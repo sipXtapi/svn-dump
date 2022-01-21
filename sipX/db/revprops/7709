@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-09T18:01:57.491244Z
+K 7
+svn:log
+V 124
+XCF-1085 implement excluding certain text fields from the index, added pintoken and sip password to list of sensitive field
+
+END

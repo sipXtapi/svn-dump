@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-03-20T18:50:15.127893Z
+K 7
+svn:log
+V 187
+AutoRefreshForm improvements: auto refresh checkbox and editing refresh interval implemented.
+In order to use AutoRefreshForm on a page you need to set Border's property useDojo to true 
+
+END

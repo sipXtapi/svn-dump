@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-29T21:34:59.075025Z
+K 7
+svn:log
+V 217
+XCF-1271 switched from submit links to standard links to work around IE problem - gateway page now behaves in the same way that user page behaves: you need to add gateway (Apply or OK) before you see additional links
+
+END

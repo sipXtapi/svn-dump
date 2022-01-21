@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-24T13:58:36.275332Z
+K 7
+svn:log
+V 120
+Implement unittest for MprBridge - it simulate simple sidebar conference case and check that bridge mix data correctly.
+
+END

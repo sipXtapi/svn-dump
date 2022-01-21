@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-29T14:37:36.210202Z
+K 7
+svn:log
+V 115
+Pass video preview window to sipXmediaLib through MpVideoCallFlowgraph static variable instead of global variable.
+
+END

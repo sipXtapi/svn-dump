@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-03-27T23:38:13.277409Z
+K 7
+svn:log
+V 140
+Log files should be empty. In fact, they probably shouldn't be in source control at all, but keep them there for now, just for convenience.
+
+END

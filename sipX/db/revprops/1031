@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-06-02T18:33:07.440697Z
+K 7
+svn:log
+V 176
+Put frame ID into message window titles.
+Remove CRs from header lines in message windows.
+Make viewport background black if the data panel is smaller.
+Add comments.  Fix tabs.
+
+END

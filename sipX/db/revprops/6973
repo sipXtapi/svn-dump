@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-06-16T19:23:23.784497Z
+K 7
+svn:log
+V 156
+Shorten the time for which the test process sleeps.  This appears to help avoid problems where the test can't be run repeatedly because the port is in use.
+
+END

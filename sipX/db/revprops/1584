@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-02-24T22:49:35.036572Z
+K 7
+svn:log
+V 87
+fix for XCL-33.  Only deleting the line handle after receiving the UNREGISTERED event.
+
+END

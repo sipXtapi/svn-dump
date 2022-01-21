@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-02-09T20:36:36.114130Z
+K 7
+svn:log
+V 44
+explicitly set to ruby-abi dependency >= 1.8
+END

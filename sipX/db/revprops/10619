@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-03-23T14:35:03.191931Z
+K 7
+svn:log
+V 69
+API for PLC method changing at runtime added to sipXmediaAdapterLib.
+
+END

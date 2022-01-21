@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+mdm2000
+K 8
+svn:date
+V 27
+2006-11-27T08:48:22.703613Z
+K 7
+svn:log
+V 85
+Make sure to zero out the struct sockaddr_in for systems that require it, like OS X.
+
+END

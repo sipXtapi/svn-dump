@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-09-01T20:13:17.469059Z
+K 7
+svn:log
+V 133
+Force uninstall of existing rpms in --rpmclean
+  this solves a problem with the current circular dependency
+  between the libraries.
+
+END

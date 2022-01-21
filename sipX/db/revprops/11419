@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2009-07-19T17:58:48.343992Z
+K 7
+svn:log
+V 48
+Fix memory corruption reported by BoundsChecker
+
+END

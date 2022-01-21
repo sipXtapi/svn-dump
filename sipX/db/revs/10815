@@ -1,0 +1,159 @@
+id: 9wi.7n5.r10815/0
+type: dir
+pred: 9wi.0.r10809/1539
+count: 1876
+text: 10809 890 636 636 efdecdd09cee7ced9a6b8861ecbe8733
+cpath: /main
+copyfrom: 10814 /sipXecs.old/branches/sipXtapi
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r8066/42815
+K 3
+3.6
+V 23
+dir 7q4.50x.r9677/12870
+K 29
+bandreasen-sipXtapi-AOL-merge
+V 23
+dir 9wi.7mo.r10787/8458
+K 7
+bbridge
+V 22
+dir 7q4.68z.r9829/4609
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 12
+sipXtapi-AOL
+V 23
+dir 9wi.7jw.r10605/3171
+K 11
+sipXtapi-UC
+V 22
+dir 9wi.7jy.r9594/5049
+K 21
+sipXtapi-media-update
+V 23
+dir 9wi.3ke.r10308/4876
+K 14
+sipXtapi.wince
+V 24
+dir 9wi.662.r8313/638537
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 23
+dir 7q4.4t1.r10445/8915
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 14
+virtual-domain
+V 24
+dir 7q4.4t6.r8010/314955
+END
+ENDREP
+id: 7pt.7n4.r10815/1203
+type: dir
+pred: 7pt.7n4.r10814/0
+count: 3256
+text: 10815 185 1005 1005 3818a264caac49dd5e54883a70f7cbc5
+cpath: /sipXecs.old/branches
+copyroot: 10814 /sipXecs.old/branches
+
+PLAIN
+K 8
+branches
+V 23
+dir 7pt.7n4.r10815/1203
+K 4
+main
+V 20
+dir 7q4.7n2.r10811/0
+K 4
+tags
+V 20
+dir 7q5.7n3.r10812/0
+END
+ENDREP
+id: fus.0.r10815/1528
+type: dir
+pred: fus.0.r10814/309
+count: 4
+text: 10815 1399 116 116 7758b86df416566d9d1f7b3dd618d925
+cpath: /sipXecs.old
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 20
+dir 9wi.7n5.r10815/0
+K 11
+sipXecs.old
+V 21
+dir fus.0.r10815/1528
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r10815/1814
+type: dir
+pred: 0.0.r10814/557
+count: 10815
+text: 10815 1685 116 116 d4578c2211b5a32c42d1aa27136f3887
+cpath: /
+copyroot: 0 /
+
+9wi.0.r10809/1539 delete false false /sipXecs.old/branches/sipXtapi
+
+9wi._0.t10814-1 add false false /main
+10814 /sipXecs.old/branches/sipXtapi
+
+1814 1960

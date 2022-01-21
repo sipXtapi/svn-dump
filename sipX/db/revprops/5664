@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-11-29T15:21:22.690759Z
+K 7
+svn:log
+V 141
+[XCS-52] Change ResultSet class to inherit from UtlSList rather than contain it
+   This allows ResultSet to be used as a parameter in XmlRpc
+
+END

@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-12-21T20:59:17.874903Z
+K 7
+svn:log
+V 217
+Do not copy this change to 2.7!
+Reduce the logging level of "StreamWAVFormatDecoder::nextDataChunk
+(RIFF not detected" to NOTICE from ERR for rev 2.6 to prevent log
+overflow.
+http://track.sipfoundry.org/browse/XMR-17
+
+END

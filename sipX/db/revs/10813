@@ -1,0 +1,33 @@
+id: fut.0.r10813/0
+type: dir
+count: 0
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r10809/2763
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10812/257
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r10813/199
+type: dir
+pred: 0.0.r10812/510
+count: 10813
+text: 10813 66 120 120 c1d9187296f0052b48481940d78f4400
+cpath: /
+copyroot: 0 /
+
+_0.0.t10812-1 add false false /tags
+
+
+199 342

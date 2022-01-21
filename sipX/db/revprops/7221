@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-08-08T16:11:26.442631Z
+K 7
+svn:log
+V 340
+mergefrom pingtel-main 6997
+
+Fetch the Call-Id, so the route-signature mechanism will work.
+Add debug message to show when route-signature authorization succeeds,
+as well as when it fails.
+Put the function name into logging messages.
+As a minor optimization, do not write route-signature parameters if
+the call does not need authorization.
+
+END

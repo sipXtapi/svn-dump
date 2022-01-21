@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2019-10-22T18:33:43.451868Z
+K 7
+svn:log
+V 95
+Added Opus include, lib and compile flags to be able to build MprRecorder with Opus recording.
+
+END

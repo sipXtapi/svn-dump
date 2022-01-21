@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-28T18:28:05.451010Z
+K 7
+svn:log
+V 281
+Added some flexibility to the CHECK_APACHE2 macro -- it will now find apache
+headers if installed in /usr/include/apache2 (default for gentoo emerge).  Also,
+the macro assumes the header files are located in an include subdirectory 
+(DIR/include) -- which is not always the case.
+
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-06-08T22:04:05.631747Z
+K 7
+svn:log
+V 180
+XCF-341 normalize serial numbers to lowercae
+added decorators for validation components
+implement ToLowerCase decorator
+use new decorator as validSerialNumber bean in tapestry.xml
+
+END

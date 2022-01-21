@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-17T20:36:23.112396Z
+K 7
+svn:log
+V 116
+Make timing code in MpMMTimerTest platform independent, now that OsDateTime::getCurTime(OsTime&) is accurate enough.
+END

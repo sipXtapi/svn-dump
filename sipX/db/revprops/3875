@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-05-04T17:28:48.787642Z
+K 7
+svn:log
+V 384
+XML snippets from the database were incorrectly incorporated in XML document, which caused problems if data contained some reserved cahracters (such as &, >, <).
+After this change we operate on JDOM XML trees directly. 
+This is a quick and dirty fix to elimate serious problem: the very concept of storing XML blobs in the database is flawed and needs to be removed from sipXconfig.
+
+
+END

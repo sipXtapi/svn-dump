@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-09-26T23:13:53.211038Z
+K 7
+svn:log
+V 102
+Fix for thread termination problem c/o Gordon W. Markham
+  http://track.sipfoundry.org/browse/XPL-63
+
+
+END

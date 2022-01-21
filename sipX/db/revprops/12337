@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2016-08-03T19:07:16.802676Z
+K 7
+svn:log
+V 117
+Fix snprintf macro scoping to older Windows compilers.  It was erroniously getting defined on non-Windows platforms.
+
+END

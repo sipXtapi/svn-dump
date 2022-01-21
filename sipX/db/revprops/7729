@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-11T13:58:53.442953Z
+K 7
+svn:log
+V 46
+Use *1 as the dialing prefix for ISN dialing.
+
+END

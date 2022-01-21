@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-31T13:45:46.323016Z
+K 7
+svn:log
+V 212
+Even more rearrangements of MpCodecFactory methods.
+Now initialization and de-initialization of static codecs are done inside getMpCodecFactory() and freeSingletonHandle() function, so no other calls are needed.
+
+END

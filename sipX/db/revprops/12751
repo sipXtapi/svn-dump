@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2020-02-25T06:04:21.078979Z
+K 7
+svn:log
+V 450
+Fixed a bunch of bugs identified by the MprRecorder unit test:
+  + Clear the Opus encoder stream when we drain it.
+  + Added Opus OGG validation for append case.
+  + Added method to validate Opus OGG file header.
+  + Added logging to track all opens and closes of recrod files.
+  + Set Opus OGG encoder family to 255 (non-standard mapping) for 3 and 4 channel recordings.
+  + Made Opus encoder stream buffer size proportional to number of channels.
+
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-09T23:45:13.510309Z
+K 7
+svn:log
+V 111
+running tests from maven fixed: they are now run in a separate JVM
+checkstyle moved from compile to test phase
+
+END

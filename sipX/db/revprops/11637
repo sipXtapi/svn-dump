@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2010-04-01T21:06:53.756201Z
+K 7
+svn:log
+V 76
+sipXmediaLib: Add ability to log audio data to files in MprFromInputDevice.
+
+END

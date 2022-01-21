@@ -1,0 +1,391 @@
+PLAIN
+K 8
+.project
+V 22
+file 4ed.0.r3393/17177
+K 11
+Makefile.am
+V 24
+file 8wq.1i7.r5844/85117
+K 16
+ant-gentoo.patch
+V 22
+file 4gu.0.r3393/18478
+K 20
+build.sipXconfig.xml
+V 21
+file 8fq.1i7.r5513/65
+K 9
+build.xml
+V 22
+file 8wr.1i7.r5856/129
+K 30
+checkstyle-noframes-sorted.xsl
+V 22
+file 4ee.0.r3393/18801
+K 19
+checkstyle-text.xsl
+V 22
+file 4gr.0.r3856/60774
+K 14
+checkstyle.xml
+V 21
+file 4ef.1i7.r5894/47
+K 10
+config.xml
+V 22
+file 8fr.1i7.r5324/971
+K 26
+eclipse.code-formatter.xml
+V 20
+file 4eb.0.r3853/353
+K 26
+eclipse.code-templates.xml
+V 22
+file 55k.0.r3856/61021
+K 33
+eclipse.java.editor-templates.xml
+V 24
+file 85e.1i7.r4895/44594
+K 24
+eclipse.update-sites.xml
+V 25
+file 514.1i7.r4886/145585
+K 20
+hibernate.properties
+V 25
+file 510.1i7.r5647/342548
+K 19
+jasper-compiler.jar
+V 22
+file 4he.mn.r3229/4005
+K 11
+java.header
+V 25
+file 4ge.1i7.r4886/145852
+K 39
+sipx-svn-incremental.configure-switches
+V 20
+file 4jn.0.r3550/933
+K 32
+sipx_main_fc2.configure-switches
+V 20
+file 4jo.0.r3550/432
+K 38
+sipx_main_fc2_bldno.configure-switches
+V 21
+file 51x.0.r3597/1241
+K 32
+sipx_main_fc3.configure-switches
+V 20
+file 4uw.0.r3550/686
+K 38
+sipx_main_fc3_bldno.configure-switches
+V 21
+file 51y.0.r3597/1560
+K 33
+sipx_main_rhe3.configure-switches
+V 20
+file 4jp.0.r3550/176
+K 39
+sipx_main_rhe3_bldno.configure-switches
+V 20
+file 51z.0.r3597/923
+K 18
+sipxconfig-3.0.tgz
+V 24
+file 8ws.1i7.r5844/85411
+K 10
+ssl.pkcs12
+V 21
+file 4nm.0.r3331/1865
+K 16
+tomcat_401.patch
+V 23
+file 4gq.md.r3393/19145
+END
+ENDREP
+id: 4ea.2iy.r6075/1489
+type: dir
+pred: 4ea.1i7.r5894/1839
+count: 54
+text: 6075 0 1476 1476 d601ced75bd81712c23737b535c2575a
+props: 5845 0 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /branches/sipXconfig/3.3/meta
+copyroot: 6033 /branches/sipXconfig/3.3
+
+PLAIN
+K 10
+.classpath
+V 25
+file 4ep.2iy.r6048/351446
+K 8
+.project
+V 20
+file 4eq.0.r3924/159
+K 12
+.springBeans
+V 24
+file 4xc.1wb.r5802/19587
+K 11
+Makefile.am
+V 24
+file 4er.1i7.r4821/25188
+K 9
+build.xml
+V 22
+file 4es.2iy.r6039/688
+K 3
+etc
+V 22
+dir 4pz.1i7.r6027/1845
+K 7
+pom.xml
+V 23
+file 90t.2iy.r6067/1689
+K 3
+src
+V 24
+dir 4ev.2iy.r6048/355607
+K 4
+test
+V 22
+dir 4g2.2iy.r6057/2735
+END
+ENDREP
+id: 4eo.2iy.r6075/2135
+type: dir
+pred: 4eo.2iy.r6067/2389
+count: 774
+text: 6075 1743 379 379 adaeb2c258432beca39e7cb9ce7a46ef
+props: 5457 169378 129 0 2df63e856771396430f23115acac5d8b
+cpath: /branches/sipXconfig/3.3/neoconf
+copyroot: 6033 /branches/sipXconfig/3.3
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 2hg.0.r3393/21790
+K 9
+ChangeLog
+V 23
+file 2hh.1i7.r6025/1856
+K 7
+INSTALL
+V 24
+file 2hi.1i7.r5443/27201
+K 7
+LICENSE
+V 23
+file 2hj.0.r3393/851332
+K 11
+Makefile.am
+V 24
+file 2hk.1i7.r5844/88348
+K 4
+NEWS
+V 23
+file 2hl.0.r3393/808567
+K 6
+README
+V 24
+file 2hm.1i7.r5365/24861
+K 4
+TODO
+V 22
+file 2hn.0.r4025/58643
+K 9
+acsite.m4
+V 22
+file 2ho.0.r3393/21475
+K 14
+ant-targets.am
+V 25
+file 2hp.1i7.r4886/145328
+K 15
+ant-targets.xml
+V 24
+file 2hq.1i7.r5923/49082
+K 3
+bin
+V 21
+dir 4bz.1i7.r5836/102
+K 19
+build.properties.in
+V 24
+file 81e.1i7.r6011/19893
+K 9
+build.xml
+V 23
+file 4h8.2iy.r6039/1613
+K 12
+configure.ac
+V 26
+file 2jg.2iy.r6068/2263651
+K 16
+dependencies.xml
+V 21
+file 5d9.1i7.r5994/45
+K 3
+doc
+V 23
+dir 2jh.1i7.r5923/53253
+K 3
+etc
+V 25
+dir 4b7.1i7.r4884/5840691
+K 3
+lib
+V 22
+dir 2jy.2iy.r6069/5345
+K 14
+lib.properties
+V 26
+file 81m.2iy.r6068/2263428
+K 4
+meta
+V 22
+dir 4ea.2iy.r6075/1489
+K 7
+neoconf
+V 22
+dir 4eo.2iy.r6075/2135
+K 7
+pom.xml
+V 22
+file 90w.2iy.r6070/535
+K 23
+profilepub_sipagent.dsp
+V 22
+file 4b5.1i7.r4929/429
+K 18
+sipxconfig.spec.in
+V 24
+file 4bh.2iy.r6042/15938
+K 18
+subant-targets.xml
+V 23
+file 4h9.1i7.r5402/3659
+K 3
+web
+V 22
+dir 4l5.2iy.r6070/1621
+K 15
+web-targets.xml
+V 24
+file 8uq.1i7.r5770/11880
+END
+ENDREP
+id: 2hf.2iy.r6075/3660
+type: dir
+pred: 2hf.2iy.r6070/3143
+count: 1473
+text: 6075 2400 1247 1247 ae5ee1ea66709a9cb5e508d4e564a996
+props: 6042 18999 643 0 768c71e8546ef65194ef81507fa19157
+cpath: /branches/sipXconfig/3.3
+copyroot: 6033 /branches/sipXconfig/3.3
+
+PLAIN
+K 3
+3.3
+V 22
+dir 2hf.2iy.r6075/3660
+K 11
+replication
+V 23
+dir 7q4.2dh.r5710/13873
+END
+ENDREP
+id: 8q1.0.r6075/4018
+type: dir
+pred: 8q1.0.r6070/3502
+count: 19
+text: 6075 3919 86 86 70046567b47a2be1e0436d7409b1ed12
+cpath: /branches/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 23
+dir 7q4.24b.r5866/18398
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 11
+registry_ha
+V 22
+dir 7q4.2eb.r6074/7159
+K 7
+restful
+V 21
+dir 7q0.0.r4813/15683
+K 10
+sipXconfig
+V 20
+dir 8q1.0.r6075/4018
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r6075/4676
+type: dir
+pred: 7pt.0.r6074/7906
+count: 227
+text: 6075 4180 483 483 58c346b2a886fec4b0eda114434bccff
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r6075/4676
+K 4
+main
+V 21
+dir 7q4.0.r6065/17198
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6075/4958
+type: dir
+pred: 0.0.r6074/8188
+count: 6075
+text: 6075 4830 115 115 d7cd3773563b7c5f8ec5662312fbe64f
+cpath: /
+copyroot: 0 /
+
+7v7.1i7.r4884/5720524 delete false false /branches/sipXconfig/3.3/meta/ivyconf.xml
+
+7v8.1i7.r4869/3283 delete false false /branches/sipXconfig/3.3/neoconf/ivy.xml
+
+
+4958 5101

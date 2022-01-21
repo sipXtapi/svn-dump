@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-12-02T21:19:31.143585Z
+K 7
+svn:log
+V 266
+[XRR-68] [XRR-7] [XRR-56] [XRR-65] [XRR-67] Make registry more tolerant of unknowns.
+Make the redirect server ignore methods, requires, and content encodings 
+that it does not recognize.  Since it is not going to create a dialog, none 
+of these are important to it.
+
+END

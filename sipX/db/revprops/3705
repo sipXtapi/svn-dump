@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-03-24T22:50:49.490810Z
+K 7
+svn:log
+V 169
+XCF-263 notification sent to neoconf module when new organization is created
+
+it allows for initializing default configuration for neoconf data (for example dialplans)
+
+
+END

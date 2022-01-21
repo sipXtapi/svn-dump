@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-07-13T21:30:43.389954Z
+K 7
+svn:log
+V 203
+Michał reported testConverUsDate failing
+looks like we were making assumptions about non US locales - I removed all the code that was using this functionality, we should not hardcode US locale anywhere
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-01-17T22:56:02.820669Z
+K 7
+svn:log
+V 118
+Check for unexpected attribute and element names that are
+alphabetically after all known ones, so VXI does not crash.
+
+END

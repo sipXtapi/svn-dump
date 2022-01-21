@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-04-07T21:53:16.453476Z
+K 7
+svn:log
+V 123
+Fix XPR-139: Call setup events are being logged with the caller contact, not the callee contact, breaks CDR call direction
+
+END

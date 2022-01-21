@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-14T17:32:16.895205Z
+K 7
+svn:log
+V 209
+Add manual MprMixer test (there is an automated one elsewhere) - this one depends on speex, and will be enabled if using speex, disabled if not.
+
+Increase magnitude of sineWaveGeneratorDeviceDriver to maximum.
+END

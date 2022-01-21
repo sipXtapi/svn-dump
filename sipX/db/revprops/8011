@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-11-17T16:40:55.154579Z
+K 7
+svn:log
+V 52
+Merging from main to sipXtapi.  Changes upto r7991
+
+
+END

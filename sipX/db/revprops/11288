@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2009-03-05T22:07:01.914678Z
+K 7
+svn:log
+V 184
+
+Visual Studio 6 doesn't like constructor-style reference initialization.
+This is a VC6 compiler bug.
+
+Bad:  Typename& ref(typenameVarOrRef);
+Good: Typename& ref = typenameVarOrRef;
+
+
+
+END

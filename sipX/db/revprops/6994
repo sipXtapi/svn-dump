@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-06-22T02:39:27.391570Z
+K 7
+svn:log
+V 233
+First step to incorporate D&D feedback: (1) remove status codes, that should be done through SOAP faults, (2) remove the yum method, we're not doing that for a while and it's bad to include code we're not going to finish for a while
+
+END

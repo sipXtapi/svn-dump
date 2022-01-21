@@ -1,0 +1,37 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-09-06T21:03:31.926194Z
+K 7
+svn:log
+V 1014
+-Use http message instead of soap message for now.
+
+-Modified the LinePresenceMonitor component to subscribe the presence event packages from the presence server.
+
+-Added the check for handling no presence server case.
+
+-Added Presence Server process to the list of processes being started and watched.
+
+-Modified SipPresenceMonitor to use domain name instead of local IP address.
+
+-Added the return to get rid of all the warnings it generates.
+
+-Get rid of unncessary include directories.
+
+-Added the call to endSubscription(), otherwise we might have memory leaks.
+
+-Added the ability for system admin to record the autoattendant prompts via TUI and resolved the confusion in TUI system greeting selection. Also, fixed the issue of tansferring to the operator in main menu.
+
+-Now we will not complain about the failure unless nothing got saved or forwarded.
+
+-Removed a benign error message while forwarding a voice message.
+
+-Fixed the issue of rotating the httpd log and also removed several unused logfiles.
+
+
+END

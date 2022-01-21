@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 6
+prikov
+K 8
+svn:date
+V 27
+2005-07-22T14:20:03.780484Z
+K 7
+svn:log
+V 628
+Merged revisions 2465 via svnmerge from
+https://paradise.pingtel.com/rep/sipX/mirror/main
+  | ................................
+  | r2465 | prikov | 2005-07-22 10:05:25 -0400 (Fri, 22 Jul 2005) | 9 lines
+  | Merged revisions 2429,2449 via svnmerge from
+  | https://paradise.pingtel.com/rep/sipX/pingtel/main
+  |   | ................................
+  |   | r2429 | prikov | 2005-07-21 13:11:31 -0400 (Thu, 21 Jul 2005) | 1 line
+  |   | Rename sipxbuild to build
+  |   | ................................
+  |   | r2449 | prikov | 2005-07-21 17:04:28 -0400 (Thu, 21 Jul 2005) | 1 line
+  |   | Incremental build handling is modified
+
+END

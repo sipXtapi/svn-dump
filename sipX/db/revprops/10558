@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-30T20:32:48.754359Z
+K 7
+svn:log
+V 157
+Erroneous comma in generation of -DHAVE_SPEEX added to CXXFLAGS.
+resulting in "-DHAVE_SPEEX," being added to the g++ command line instead of
+"-DHAVE_SPEEX"
+
+
+END

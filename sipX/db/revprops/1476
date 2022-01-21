@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-01-14T15:25:14.317698Z
+K 7
+svn:log
+V 279
+Added the ability to set the Proxy Server and / or the Registry Server when sipXinitialize is called.  Also, the Proxy Server can be set using the sipxConfigSetOutboundProxy method.  Both of these methods (sipXinitialize and sipxConfigSetOutboundProxy) modify the same variable. 
+END

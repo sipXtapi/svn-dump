@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-17T05:41:41.561377Z
+K 7
+svn:log
+V 184
+Checking in G.729 codec wrapper plugin.
+This version is based on VoiceAge Open G.729 binary version and is not very useful, because it could encode/decode only one stream at the time.
+
+END

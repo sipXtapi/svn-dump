@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-11-17T16:08:57.564043Z
+K 7
+svn:log
+V 66
+added check for System.out and System.err - just a warning for now
+END

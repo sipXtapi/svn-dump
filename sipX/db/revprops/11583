@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2010-03-04T04:48:31.160616Z
+K 7
+svn:log
+V 73
+sipXmediaLibTest: Adapt MpInputOutputFrameworkTest to run under Android.
+
+END

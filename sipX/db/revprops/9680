@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-14T22:01:42.051163Z
+K 7
+svn:log
+V 95
+Bugfix: Some variables in HttpBody copy constructor was not copied, causing crashes sometimes.
+
+END

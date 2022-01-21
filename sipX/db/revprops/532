@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-28T18:47:10.692931Z
+K 7
+svn:log
+V 287
+Add test for:
+       UtlString::append(char*, int)
+       UtlString::append(UtlString, int)
+       UtlString::append(UtlString, int, int)
+to make sure that they treat the int arguments as we want them to, and are
+not converted by the compiler to another method with different semantics.
+
+END

@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-08-30T13:19:17.984298Z
+K 7
+svn:log
+V 332
+[XSL-137] Fix comparison of Urls when port is implied
+          This restores the original default comparison:
+          an implied port is _not_ considered equal to 5060,
+          but adds an optional parameter that allows the caller
+          to specify a port number that _is_ considered equal
+          to an unspecified port.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-12T15:10:05.956330Z
+K 7
+svn:log
+V 176
+BBR-3 remove svn:externals defintion of resiprocate to speed up sipX builds
+- add INSTALL file that describes how to retrieve resiprocate manually if someone wants to build it
+
+END

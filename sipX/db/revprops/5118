@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-23T05:28:59.082804Z
+K 7
+svn:log
+V 344
+Changes related to XCF-643, although I have not succeeded in fixing that bug.
+Make all DB test classes descend from SipxDatabaseTestCase.
+Add a teardown method to SipxDatabaseTestCase that closes the connection, but comment it out for now because it is causing problems.
+Add commented-out DBCP config parameters for debugging connection leaks.
+
+END

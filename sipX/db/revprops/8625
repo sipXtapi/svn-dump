@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-25T22:38:32.892681Z
+K 7
+svn:log
+V 421
+XPR-211 fix patching mechanism for CDRs, rolled-in view_cdr patch, upgrade DB schema revision 2->3
+XPR-210 stop writing to sipcdrpatch during setup phase (exectued by root), make CDR logs writeable by world during setup
+also: other fixes to sipxcallresolver starting screen:
+- clean up logged errors
+- fix exit status for checkconfig option (now 0 really means success) to make sure that it plays well with sipx watchdog
+
+END

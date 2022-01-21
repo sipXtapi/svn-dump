@@ -1,0 +1,218 @@
+PLAIN
+K 13
+svn:externals
+V 75
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-T/config
+
+K 10
+svn:ignore
+V 196
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.properties
+config.status
+configure
+libtool
+sipxtacklib-*.tar.gz
+sipxtacklib.spec
+stamp-h1
+Debug
+Release
+
+K 18
+svnmerge-main-head
+V 47
+https://scm.sipfoundry.org/rep/sipXtackLib/main
+K 18
+svnmerge-main-revs
+V 4
+1-96
+END
+ENDREP
+id: dk.3g.r774/446
+type: dir
+pred: dk.2u.r768/17957
+count: 104
+text: 768 16935 1009 1009 c99b04f04ac77d9e25716230972d8da1
+props: 774 0 433 0 c1f777bb872be4c162ddac7ee967eba0
+cpath: /old/sipXtackLib/tags/2.6-export-T
+copyfrom: 773 /old/sipXtackLib/branches/2.6
+
+PLAIN
+K 5
+2.5.1
+V 19
+dir dk.2k.r622/2796
+K 5
+2.5.2
+V 19
+dir dk.2l.r641/1720
+K 12
+2.6-export-A
+V 18
+dir dk.2v.r697/562
+K 12
+2.6-export-B
+V 18
+dir dk.2w.r699/562
+K 12
+2.6-export-C
+V 18
+dir dk.2x.r706/563
+K 12
+2.6-export-D
+V 18
+dir dk.2y.r707/563
+K 12
+2.6-export-E
+V 18
+dir dk.2z.r708/563
+K 12
+2.6-export-F
+V 18
+dir dk.30.r713/563
+K 12
+2.6-export-G
+V 18
+dir dk.32.r718/446
+K 12
+2.6-export-H
+V 18
+dir dk.33.r719/446
+K 12
+2.6-export-J
+V 18
+dir dk.34.r722/446
+K 12
+2.6-export-K
+V 18
+dir dk.35.r725/446
+K 12
+2.6-export-L
+V 18
+dir dk.36.r728/446
+K 12
+2.6-export-M
+V 18
+dir dk.37.r730/446
+K 12
+2.6-export-N
+V 18
+dir dk.38.r732/446
+K 12
+2.6-export-O
+V 18
+dir dk.3b.r761/446
+K 12
+2.6-export-P
+V 18
+dir dk.3c.r762/446
+K 12
+2.6-export-Q
+V 18
+dir dk.3d.r764/446
+K 12
+2.6-export-R
+V 18
+dir dk.3e.r767/446
+K 12
+2.6-export-S
+V 18
+dir dk.3f.r769/446
+K 12
+2.6-export-T
+V 18
+dir dk.3g.r774/446
+K 5
+2.6.1
+V 18
+dir dk.31.r715/556
+K 9
+copy-test
+V 19
+dir dk.39.r757/7734
+K 13
+main-export-B
+V 18
+dir dk.2s.r692/447
+K 13
+main-export-C
+V 18
+dir dk.2t.r694/447
+END
+ENDREP
+id: kr.0.r774/1751
+type: dir
+pred: kr.0.r769/1709
+count: 27
+text: 774 707 1031 1031 d04f0a3f60a73774c96ba47dce0b4480
+cpath: /old/sipXtackLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir kz.0.r768/18265
+K 4
+main
+V 18
+dir dk.0.r773/8289
+K 4
+tags
+V 18
+dir kr.0.r774/1751
+END
+ENDREP
+id: dj.0.r774/2033
+type: dir
+pred: dj.0.r773/8629
+count: 175
+text: 774 1912 108 108 47151d98e0d92233239cb1c0caa8fcc3
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 18
+dir dj.0.r774/2033
+END
+ENDREP
+id: 1.0.r774/2287
+type: dir
+pred: 1.0.r773/8884
+count: 773
+text: 774 2189 85 85 d0adb494c37c7f1bfc668bda65e974e1
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r774/2287
+END
+ENDREP
+id: 0.0.r774/2475
+type: dir
+pred: 0.0.r773/9073
+count: 774
+text: 774 2427 35 35 4d66a84886e0fdf221f95d42bbe60d2a
+cpath: /
+copyroot: 0 /
+
+dk._0.t773-1 add false true /old/sipXtackLib/tags/2.6-export-T
+773 /old/sipXtackLib/branches/2.6
+
+2475 2612

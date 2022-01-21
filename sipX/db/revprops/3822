@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-04-21T21:24:13.052239Z
+K 7
+svn:log
+V 59
+Remove code that forces empty margin gor "body" component.
+
+END

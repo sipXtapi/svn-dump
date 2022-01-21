@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-11-08T01:45:00.019940Z
+K 7
+svn:log
+V 72
+Rationalize and align type names:
+64-bit integers are Int64 and UInt64.
+
+END

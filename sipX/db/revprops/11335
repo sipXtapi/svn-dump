@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-05-13T11:53:49.833313Z
+K 7
+svn:log
+V 360
+sipXmediaLib: Fix deadlock in Linux version of MpMMTimer.
+Now we use much safer implementation of MpMMTimerPosix, though with its own limmitations. E.g. there should be only one object of it and its precision is limited to scheduler precision. We try to set real-time priority for its thread, so precisioin loss shoudn't be noticable for a server environment.
+
+END

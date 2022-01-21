@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-08-07T04:22:53.272878Z
+K 7
+svn:log
+V 195
+Delete obsolete branch user_dworley_redirect.
+(The last rev merged from this branch to SF main is old rev 221, which
+is new rev 2520, which is after the last change to the branch, new rev
+2519.)
+
+END

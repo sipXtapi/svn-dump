@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-02-15T02:01:37.102645Z
+K 7
+svn:log
+V 567
+Fix XRR-97: HA: when multiple registrations occur, sometimes not all DB updates are replicated.  In RegistrarSync, we were looping over all the peers and sending one update if possible, and that was it.  Instead, we need to go around the loop until we're sure there is nothing left to send.
+Also:
+Add some more logging.
+Fix code in an error case that was causing an assert to fire.
+In RegistrarPeer::MarkReachable, notify the RegistrarSync thread not just if the previous state was previously UnReachable, but if the previous state was anything other than Reachable.
+
+END

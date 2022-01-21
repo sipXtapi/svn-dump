@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-12-25T18:03:26.314511Z
+K 7
+svn:log
+V 294
+Much better handling of incoming stream.
+
+* Timer is used to keep correct framerate. However more precise timer needed. Lip-sync is still missed too.
+* Dejitter could be asked for concrete timestamp.
+* First packet of incoming RTP stream is passed to decoder to initialize its stream handling.
+
+END

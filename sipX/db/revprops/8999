@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-03-07T21:32:33.634876Z
+K 7
+svn:log
+V 263
+Fix for windows input driver deadlock situation described in revision #8979.
+In windows device driver, one must unprepare headers *before* the device is closed.  This is done now.
+Improved doxygen documentation in MpInputDeviceDriverWnt and MpInputDeviceManager.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-18T08:38:01.491531Z
+K 7
+svn:log
+V 150
+Two test for new output framework added - one for driver testing and one for manager testing.
+Test are added to Linux, VS6, VS2003 and VS2005 builds.
+
+END

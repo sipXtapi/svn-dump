@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-03-30T00:37:13.933661Z
+K 7
+svn:log
+V 177
+Clean up some unstructured code that made the logic less than clear
+  (eliminate inappropriate use of 'break' and 'continue')
+Fix indenting and other coding convention issues.
+
+
+END

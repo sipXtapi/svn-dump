@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-08-02T19:55:06.427323Z
+K 7
+svn:log
+V 85
+Tweaks in StunUtils for logging purposes (given updates in StunMessage/TurnMessage)
+
+
+END

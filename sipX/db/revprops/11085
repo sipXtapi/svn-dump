@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-11T19:42:07.821471Z
+K 7
+svn:log
+V 321
+[backport rev. 11084]
+vsnprintf is defined by Visual Studio 2008
+(and not defined by earlier visual studio versions).
+
+This commit fixes an error compiling sipXportLib in visual studio 2008,
+while not disturbing compilability for other compilers.
+
+Thank you to Paul Whitfield for a followup patch fixing my initial fix.
+
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-11-05T16:20:54.605190Z
+K 7
+svn:log
+V 130
+Bug XCF57: Unassigning a device gives a page error.  moce redirect to top of page.   ALSO: documentation fix for SOAP javadoc href
+END

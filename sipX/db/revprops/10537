@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-29T18:28:47.092809Z
+K 7
+svn:log
+V 294
+This changes the interface for specifing frame size to ms instead of samples per frame.
+When creating a mediaInterface, frame size is no longer a parameter, and instead, the sample rate passed in is used, in conjunction with the frame size specified (in ms) when the factoryFactory was created.
+END

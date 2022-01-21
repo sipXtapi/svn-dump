@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-05-06T13:07:30.645060Z
+K 7
+svn:log
+V 375
+XCF-369 removing users fails in some cases (when users have Polycom lines or custom forwarding)
+- added onUserDelete notification that allows neoconf module to clean up user related artifacts when user is deleted
+- notification is called (via RMI) from UserAdvocate.deleteUser function
+- new "clean" methods in PhoneContext and FrowardingContext
+- relevant unit tests added
+
+
+END

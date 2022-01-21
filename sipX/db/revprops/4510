@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-02-15T20:26:36.606944Z
+K 7
+svn:log
+V 51
+Split usage of ivr-prompt-url and mediaserver-url.
+
+END

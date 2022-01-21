@@ -1,0 +1,31 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-04-01T21:42:08.940753Z
+K 7
+svn:log
+V 1034
+Check in incremental changes for TLS support - it is at least partly
+  working now, at least when specified using 'transport=tls'.
+
+  This is Not Fully Tested - my most profound apologies if I've broken
+  anything, but this laptop is about to get on an airplane, so having it be
+  the only repository for these changes didn't seem like a good idea.
+
+Refactored some of the SSL code into a new OsSSL module so that there is
+  one place to put the special handling for getting certificates and error
+  messages.  Right now, this also makes all SSL connections in
+  OsSSLServerSocket and OsSSLConnectionSocket use a single SSL contexts
+  (which is what it's for) through a singleton in OsSharedSSL.  A later
+  change will modify the interfaces to those classes to allow for multiple
+  SSL contexts and make using the singleton optional.
+
+Added quite a lot of logging - most of this will ultimately be
+  conditionally compiled, but for the moment it's on by default because
+  that's how I tested it and it may help if I've busted things.
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-18T20:16:47.019954Z
+K 7
+svn:log
+V 132
+Fix handling of URI parameters of all three types to be case
+insensitive in their names.
+
+http://track.sipfoundry.org/browse/XSL-77
+
+END

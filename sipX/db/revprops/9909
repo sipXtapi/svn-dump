@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-28T19:15:18.628678Z
+K 7
+svn:log
+V 104
+MprBridgeTest update - more cases tested with gain matrix, added ability to specify active input ports.
+
+END

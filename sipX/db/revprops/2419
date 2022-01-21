@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-01-26T20:42:51.002894Z
+K 7
+svn:log
+V 48
+Fix svn:mime-type and svn:eol-style properties.
+
+END

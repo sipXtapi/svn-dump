@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-03-16T18:37:07.170501Z
+K 7
+svn:log
+V 92
+XCF-949 Use copytruncate on sipxconfig.log only
+
+XCF-949 Comment typo
+
+XCF-949 Comment typo
+
+END

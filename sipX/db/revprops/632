@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-07-21T06:35:54.835190Z
+K 7
+svn:log
+V 130
+Fix some compiler problems for the windows MSVS platform.
+Thanks to Thien Nguyen for the patches to
+MailMessage and SipSrvLookup
+
+
+END

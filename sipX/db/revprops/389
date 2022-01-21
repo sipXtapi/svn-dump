@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-01-26T21:06:12.609963Z
+K 7
+svn:log
+V 112
+Changed localFileLocks to a static memeber variable, and added a lock in LockAliasFile() and UnlockAliasFile().
+
+END

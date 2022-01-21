@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-02T20:10:20.290038Z
+K 7
+svn:log
+V 195
+XPB-500 new attendant schedule file name and format - is: /schedules/autoattendant (used to be: /organizationprefs/schedule)
+also file name suffix is now -schedule.xml (used to be _schedule.xml)
+
+END

@@ -1,0 +1,445 @@
+PLAIN
+K 13
+svn:externals
+V 88
+tapi https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi-AOL/sipXcallLib/include/tapi
+
+END
+ENDREP
+id: bde.7jw.r9608/130
+type: dir
+pred: bde.0.r7339/266775
+count: 13
+text: 7339 266598 164 164 a3f933ad9283c09f30f9f13d37de866c
+props: 9608 0 117 0 596150b163864168bd726a8ba2bb05fb
+cpath: /branches/sipXtapi-AOL/sipXportLib/include
+copyroot: 9584 /branches/sipXtapi-AOL
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 25
+file bcg.0.r6469/21591964
+K 9
+ChangeLog
+V 25
+file bch.0.r6469/21535752
+K 7
+INSTALL
+V 24
+file bci.0.r6955/1421671
+K 11
+Makefile.am
+V 25
+file bcj.0.r6469/21599591
+K 4
+NEWS
+V 25
+file bck.0.r6469/21599943
+K 6
+README
+V 24
+file bcl.0.r6955/1419372
+K 4
+TODO
+V 25
+file bcm.0.r6469/21597743
+K 9
+acsite.m4
+V 24
+file bcn.0.r6955/1417808
+K 3
+bin
+V 24
+dir bco.0.r6469/21599429
+K 12
+configure.ac
+V 24
+file bd3.0.r6711/4505206
+K 3
+doc
+V 23
+dir bd4.0.r6955/1421402
+K 7
+include
+V 21
+dir bde.7jw.r9608/130
+K 4
+meta
+V 24
+dir bhw.0.r6469/21535422
+K 18
+sipXportLib.vcproj
+V 24
+file bi1.0.r6929/7878335
+K 19
+sipXportLibTest.sln
+V 25
+file bi2.0.r6469/21599763
+K 22
+sipXportLibTest.vcproj
+V 22
+file bi3.0.r7157/11445
+K 29
+sipXportLib_NoSecurity.vcproj
+V 23
+file bi4.0.r7339/277236
+K 19
+sipxportlib.spec.in
+V 24
+file bi5.0.r6955/1422006
+K 3
+src
+V 20
+dir bi6.0.r7340/7835
+K 12
+syslogviewer
+V 23
+dir bom.0.r6955/1420114
+END
+ENDREP
+id: bcf.7jw.r9608/1331
+type: dir
+pred: bcf.7jw.r9585/114
+count: 28
+text: 9608 398 920 920 f90db7ed7e432082af32945dbcc06bb4
+props: 9585 0 101 0 f95f2b0f2e0e8887494e61a88826fae3
+cpath: /branches/sipXtapi-AOL/sipXportLib
+copyroot: 9584 /branches/sipXtapi-AOL
+
+PLAIN
+K 13
+svn:externals
+V 88
+tapi https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi-AOL/sipXcallLib/include/tapi
+
+END
+ENDREP
+id: bq1.7jw.r9608/1718
+type: dir
+pred: bq1.0.r7339/344561
+count: 9
+text: 7339 344424 124 124 26c940f6f4bb511043897a36012a2643
+props: 9608 1588 117 0 596150b163864168bd726a8ba2bb05fb
+cpath: /branches/sipXtapi-AOL/sipXtackLib/include
+copyroot: 9584 /branches/sipXtapi-AOL
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 25
+file bor.0.r6469/22114347
+K 9
+ChangeLog
+V 25
+file bos.0.r6469/22149247
+K 7
+INSTALL
+V 24
+file bot.0.r6955/1737850
+K 11
+Makefile.am
+V 25
+file bou.0.r6469/22154175
+K 4
+NEWS
+V 25
+file bov.0.r6469/22121423
+K 6
+README
+V 24
+file bow.0.r6955/1738184
+K 4
+TODO
+V 25
+file box.0.r6469/22151942
+K 9
+acsite.m4
+V 24
+file boy.0.r6955/1731963
+K 14
+ant-targets.am
+V 24
+file boz.0.r6711/5226484
+K 15
+ant-targets.xml
+V 25
+file bp0.0.r6469/22149418
+K 3
+bin
+V 24
+dir bp1.0.r6469/22120299
+K 8
+cert8.db
+V 25
+file bp3.0.r6469/22154413
+K 20
+config.properties.in
+V 24
+file bpd.0.r6955/1734502
+K 12
+configure.ac
+V 24
+file bpe.0.r6711/5179318
+K 3
+doc
+V 23
+dir bpf.0.r6955/1737582
+K 8
+examples
+V 23
+dir bpw.0.r6711/5228221
+K 7
+include
+V 22
+dir bq1.7jw.r9608/1718
+K 7
+key3.db
+V 25
+file bt7.0.r6469/22151521
+K 3
+lib
+V 24
+dir bt8.0.r6469/22119550
+K 22
+mcohen@pingtel.com.p12
+V 25
+file btb.0.r6469/22121180
+K 4
+meta
+V 24
+dir btc.0.r6469/22073901
+K 9
+secmod.db
+V 25
+file btj.0.r6469/22151225
+K 18
+sipXtackLib.vcproj
+V 24
+file btk.0.r6929/8119588
+K 19
+sipXtackLibTest.sln
+V 24
+file btl.0.r6929/8129913
+K 22
+sipXtackLibTest.vcproj
+V 23
+file btm.0.r7339/325968
+K 29
+sipXtackLib_NoSecurity.vcproj
+V 24
+file btn.0.r6929/8137603
+K 15
+siplog2siptrace
+V 23
+dir bto.0.r6711/5181985
+K 7
+siptest
+V 22
+dir btr.0.r7339/338926
+K 9
+sipviewer
+V 23
+dir buv.0.r6955/1740007
+K 19
+sipxtacklib.spec.in
+V 24
+file bvi.0.r6955/1738517
+K 3
+src
+V 22
+dir bvj.0.r7339/336814
+K 15
+syslog2siptrace
+V 23
+dir byz.0.r6711/5227252
+K 16
+tcpdump2siptrace
+V 25
+file bz3.0.r6469/22149596
+K 32
+user_cert_mcohen@pingtel.com.der
+V 25
+file bz4.0.r6469/22150908
+END
+ENDREP
+id: boq.7jw.r9608/3613
+type: dir
+pred: boq.7jw.r9585/1621
+count: 16
+text: 9608 1989 1611 1611 ea708be00f3ce645ff1cb97ca9c03e07
+props: 9585 1507 101 0 f95f2b0f2e0e8887494e61a88826fae3
+cpath: /branches/sipXtapi-AOL/sipXtackLib
+copyroot: 9584 /branches/sipXtapi-AOL
+
+PLAIN
+K 11
+LICENSE.txt
+V 20
+file dwx.7jx.r9586/0
+K 6
+config
+V 23
+dir 9wj.0.r6955/1426209
+K 10
+readme.txt
+V 20
+file 9ws.0.r6962/878
+K 11
+sipXcallLib
+V 23
+dir 9wt.7jw.r9603/25426
+K 19
+sipXmediaAdapterLib
+V 22
+dir b2p.7jw.r9585/1235
+K 12
+sipXmediaLib
+V 21
+dir b40.7jw.r9585/860
+K 11
+sipXportLib
+V 22
+dir bcf.7jw.r9608/1331
+K 11
+sipXtackLib
+V 22
+dir boq.7jw.r9608/3613
+END
+ENDREP
+id: 9wi.7jw.r9608/4253
+type: dir
+pred: 9wi.7jw.r9603/26066
+count: 74
+text: 9608 3877 363 363 dd054e7b945287826da65d2dd8616ff9
+cpath: /branches/sipXtapi-AOL
+copyroot: 9584 /branches/sipXtapi-AOL
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r8066/42815
+K 3
+3.6
+V 22
+dir 7q4.50x.r8955/2083
+K 7
+bbridge
+V 22
+dir 7q4.68z.r8427/2781
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 8
+sipXtapi
+V 20
+dir 9wi.0.r9607/3890
+K 12
+sipXtapi-AOL
+V 22
+dir 9wi.7jw.r9608/4253
+K 11
+sipXtapi-UC
+V 22
+dir 9wi.7jy.r9594/5049
+K 21
+sipXtapi-media-update
+V 23
+dir 9wi.3ke.r8871/11907
+K 14
+sipXtapi.wince
+V 24
+dir 9wi.662.r8313/638537
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 21
+dir 7q4.4t1.r7562/240
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 14
+virtual-domain
+V 24
+dir 7q4.4t6.r8010/314955
+END
+ENDREP
+id: 7pt.0.r9608/5437
+type: dir
+pred: 7pt.0.r9607/5043
+count: 2057
+text: 9608 4448 976 976 db2e755136174bc2159c7845d5c9f06c
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r9608/5437
+K 4
+main
+V 20
+dir 7q4.0.r9374/1770
+K 4
+tags
+V 20
+dir 7q5.0.r9367/2658
+END
+ENDREP
+id: 0.0.r9608/5718
+type: dir
+pred: 0.0.r9607/5324
+count: 9608
+text: 9608 5592 113 113 57e9fbda7d03ec24e5c196c901096720
+cpath: /
+copyroot: 0 /
+
+bde.7jw.t9607-1 modify false true /branches/sipXtapi-AOL/sipXportLib/include
+
+bq1.7jw.t9607-1 modify false true /branches/sipXtapi-AOL/sipXtackLib/include
+
+
+5718 5861

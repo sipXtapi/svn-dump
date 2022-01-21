@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-27T22:35:58.137734Z
+K 7
+svn:log
+V 100
+http://track.sipfoundry.org/browse/XPB-102
+Put Apache's mutex and cache directories in SIPX_TMPDIR.
+
+END

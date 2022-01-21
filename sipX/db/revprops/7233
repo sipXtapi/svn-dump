@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-08-10T12:52:11.677876Z
+K 7
+svn:log
+V 179
+Use numAdapters parameter as arrays size in sipxConfigGetAllLocalNetworkIps() and getAllLocalHostIps().
+This prevents stack corruption if there are more IPs then allocated space.
+
+END

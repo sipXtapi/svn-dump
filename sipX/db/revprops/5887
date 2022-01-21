@@ -1,0 +1,32 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2006-01-18T14:19:45.434642Z
+K 7
+svn:log
+V 606
+Implementation of time-based auto attendent system. The prompts checked in here are only as placeholders and the professional recording is required.
+
+An example of schedule file for time-based auto attendant menu.
+
+Initial check-in for conference bridge admission control service.
+
+Changed the name of the prompt in sync with others.
+
+Fixed the RPM build.
+
+Fixed the RPM build again.
+
+Another attempt to fix the RPM build.
+
+Fixed the RPM build again.
+
+Got the initial conference bridge admission control working and there is still a lot of work left ...
+
+Use TTS voice for now instead of my creaked voice.
+
+END

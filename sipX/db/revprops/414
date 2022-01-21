@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-22T19:43:01.338602Z
+K 7
+svn:log
+V 358
+Noise Reduction: Removed printf debugging strings in OS Layer:
+
+OsBSemWnt::rlse(): GetLastError = 6!
+  (The handle is invalid.)
+
+OsUtilWnt::synchObjAcquire: WaitForSingleObject() returned -1,
+   GetLastError() = 6
+
+These errors are caused by someone trying to acquire/release with a 
+bad handle.  A non-success error code is bubbled back up in these
+cases.
+
+
+END

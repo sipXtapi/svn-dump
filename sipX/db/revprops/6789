@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 6
+prikov
+K 8
+svn:date
+V 27
+2006-05-09T15:33:38.653654Z
+K 7
+svn:log
+V 164
+Uninstall auxilliary rpms by demand.
+Add w3c-libwww to the "required" list.
+Remove auxiliaries devel pkgs. Ignore dependencies
+Add an 'install auxilliaries' option
+
+END

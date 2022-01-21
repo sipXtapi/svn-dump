@@ -1,0 +1,33 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-01T20:54:24.558614Z
+K 7
+svn:log
+V 1050
+Get suspend/resume mechanism working, especially implement the
+resumeRequest method.
+Implement the "private storage managed by SipRedirectServer" scheme.
+Construct SipRedirectorTest, the testing redirector.
+Create redirector-test-suspend (out of redirector-test) to exercise
+suspend/resume.
+Correct that I was using two names for the "redirection resume"
+message type, RESUME_MSG and REDIRECT_RESUME.
+Implement createCopy for RedirectResumeMsg.
+Move a few of the definitions around to avoid circular dependencies
+between the .h files.
+Create the SipRedirectServer::getInstance method so asynchronous code
+can find the RedirectServer to invoke its methods.  (Maybe we should
+replace this with passing in a pointer to the calling RedirectServer.)
+Pass the redirector number to the redirector when calling various of
+its methods.
+Delete obsolete declarations of registrationDBLookUp, aliasDBLookUp,
+and urlMappingDBLookUp.
+Begin documenting the possibility of a redirector signaling during its
+initialization that it will do no work and can be ignored.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-09T23:28:36.973546Z
+K 7
+svn:log
+V 131
+XCF-1288 when generating RLS configuration only append domain name to resource/button URI that do not have the domain name already
+
+END

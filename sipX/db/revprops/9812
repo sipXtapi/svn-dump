@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-09T17:37:26.968476Z
+K 7
+svn:log
+V 151
+Move variable declaration outside of for loop initialization, to make this more platform independent and so it compiles with MSVC8/VS2005 in all cases.
+END

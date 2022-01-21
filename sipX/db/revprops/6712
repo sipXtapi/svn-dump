@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-05-03T13:33:08.082112Z
+K 7
+svn:log
+V 242
+Changes from Alexander Chemeris for XMR-61: Application segfaults or aserts on exit in audio read/write threads under linux
+
+I made a minor change to better conform to our coding guidelines/existing code (using "sVAR" for static variables).
+
+
+END

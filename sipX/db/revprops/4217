@@ -1,0 +1,38 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-09-29T18:23:55.173154Z
+K 7
+svn:log
+V 1230
+Change configuration variable names to allow for either singly-rooted 
+or multiply-rooted installation conventions.  The configuration variable
+names have been changed as shown here (partly to correct and clarify usage,
+and partly to make them not specific to the PBX):
+
+  Old Name           New Name            Autoconf Value
+
+  SIPXINC         => SIPX_INCDIR      == [${bindir}]
+  SIPXLIB         => SIPX_LIBDIR      == [${libdir}]
+
+  SIPXPBXCONF     => SIPX_CONFDIR     == [${sysconfdir}/sipxpbx]
+  SIPXPBXDATA     => SIPX_DATADIR     == [${datadir}/sipxpbx]
+  SIPXPBXLOG      => SIPX_LOGDIR      == [${localstatedir}/log/sipxpbx]
+  SIPXPBXRUN      => SIPX_RUNDIR      == [${localstatedir}/run/sipxpbx]
+  SIPXPBXTMP      => SIPX_TMPDIR      == [${localstatedir}/tmp]
+  SIPXPBXDB       => SIPX_DBDIR       == [${localstatedir}/sipxdata/sipdb]
+  SIPXPBXVXMLDATA => SIPX_VXMLDATADIR == [${localstatedir}/sipxdata/mediaserver/data]
+
+  (added)            SIPX_BINDIR      == [${bindir}]
+
+Still to be done:
+  We need to change all uses of SIPX_HOME to use the appropriate variable 
+  from the 'New Name' list above.  With this submission, I've changed the
+  value of SIPX_HOME to "/sipx_home_FIXME" so that it will be easy to find.
+
+
+END

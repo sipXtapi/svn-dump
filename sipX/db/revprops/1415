@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-12-07T21:01:51.443128Z
+K 7
+svn:log
+V 218
+A few minor changes to sipXtapi:
+
+1) The receive call example no longer requires a SIP url command
+   line arg (cut and paste error from PlaceCall).
+2) You can now specify the bindTo address when initialize sipXtapi.
+
+
+END

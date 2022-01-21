@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-12-29T13:37:29.339837Z
+K 7
+svn:log
+V 215
+First step in automating build timestamps
+This _shouldn't_ adversly affect any builds or add anything
+it's just so that it propogates to the config directories of
+each project so that I can integrate it into them.
+
+
+END

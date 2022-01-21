@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-02-02T18:29:19.286394Z
+K 7
+svn:log
+V 179
+In SipRegistrarServer::updateOneBinding, don't insist that update numbers should monotonically increase.  They can actually arrive in any order.  Callid/cseq checking is the key.
+
+END

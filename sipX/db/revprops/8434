@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+mdm2000
+K 8
+svn:date
+V 27
+2007-01-04T03:49:29.282350Z
+K 7
+svn:log
+V 66
+Looks like SIPXMEDIA_MP_LIBS should be SIPXMEDIAADAPTER_LIBS now.
+
+END

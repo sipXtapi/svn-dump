@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-15T22:21:07.802180Z
+K 7
+svn:log
+V 164
+Increase pre-allocated space for filename extension in OsPathBase::Split().
+Someday this code MUST be rewritten. It may easily lead to crash if long path is given.
+
+END

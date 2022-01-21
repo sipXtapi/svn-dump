@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-29T17:19:56.860691Z
+K 7
+svn:log
+V 249
+Merged revisions 8649 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8649 | ipse | 2007-01-29 19:33:25 +0300 | 2 lines
+  
+  Bugfix: Messed up separators in preprocessor definitions in VS2003 projects.
+........
+
+END

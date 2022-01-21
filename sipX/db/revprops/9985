@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-08-21T18:50:02.396264Z
+K 7
+svn:log
+V 309
+Fix bug in MprBufferRecorder that exhibits itself in Phone Media Interface --
+The bug involved buffer recorder incorrectly sending a MPRNM_BUFRECORDER_STOPPED message on initialization - it appears in phone media interface resources are initialized in the enabled state, whereas in topology graph they aren't.
+END

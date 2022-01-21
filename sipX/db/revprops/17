@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-05-26T18:11:25.497090Z
+K 7
+svn:log
+V 40
+remove svn:executable from all the files
+END

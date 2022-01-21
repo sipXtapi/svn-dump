@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-08-16T21:08:54.895050Z
+K 7
+svn:log
+V 94
+LD_FLAGS should be LDFLAGS, fix default install prefix, add ODBC tests macro to commmserverlib
+END

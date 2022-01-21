@@ -1,0 +1,225 @@
+PLAIN
+K 20
+CpMediaInterface.cpp
+V 23
+file 8ac.0.r4939/381702
+K 27
+CpMediaInterfaceFactory.cpp
+V 23
+file 8ad.0.r4939/384080
+K 31
+CpMediaInterfaceFactoryImpl.cpp
+V 23
+file 8ae.0.r4939/384408
+K 11
+Makefile.am
+V 23
+file 8af.0.r4939/383769
+K 2
+mi
+V 22
+dir 8ah.0.r4939/383525
+END
+ENDREP
+id: 8ab.0.r4997/281
+type: dir
+pred: 8ab.0.r4939/385037
+count: 1
+text: 4997 0 268 268 494dcd72e01eb7dae5c95a7cc34cbd39
+props: 4939 384986 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /main/sipXmediaAdapterLib/interface
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 89t.0.r4939/395026
+K 9
+ChangeLog
+V 23
+file 89u.0.r4939/393278
+K 7
+INSTALL
+V 22
+file 89v.0.r4982/17330
+K 11
+Makefile.am
+V 22
+file 89w.0.r4991/17128
+K 4
+NEWS
+V 23
+file 89x.0.r4939/394875
+K 6
+README
+V 23
+file 89y.0.r4939/395189
+K 4
+TODO
+V 23
+file 89z.0.r4939/389559
+K 9
+acsite.m4
+V 23
+file 8a0.0.r4939/393520
+K 3
+bin
+V 22
+dir 8a1.0.r4939/394103
+K 12
+configure.ac
+V 23
+file 8a3.0.r4939/389394
+K 3
+doc
+V 22
+dir 8a4.0.r4939/391660
+K 9
+interface
+V 19
+dir 8ab.0.r4997/281
+K 4
+meta
+V 22
+dir 8am.0.r4939/393124
+K 24
+sipXmediaMediaProcessing
+V 22
+dir 8ar.0.r4939/389163
+K 27
+sipxmediaadapterlib.spec.in
+V 23
+file 8b2.0.r4939/394638
+END
+ENDREP
+id: 89s.0.r4997/1180
+type: dir
+pred: 89s.0.r4991/18037
+count: 3
+text: 4997 514 653 653 d2f3464426e37c64fcc8a5e07e8d9b6e
+props: 4939 396018 172 0 5849e58af3a611993b91b4317c77bd7e
+cpath: /main/sipXmediaAdapterLib
+copyroot: 0 /
+
+PLAIN
+K 5
+build
+V 21
+file 7ve.0.r4991/8749
+K 6
+config
+V 22
+dir 91.1i4.r4991/10879
+K 12
+dependencies
+V 23
+file 7rk.0.r4939/294937
+K 11
+sipXcallLib
+V 22
+dir va.1i5.r4991/12479
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r4991/22433
+K 10
+sipXconfig
+V 22
+dir 2hf.1i7.r4995/6112
+K 19
+sipXmediaAdapterLib
+V 20
+dir 89s.0.r4997/1180
+K 12
+sipXmediaLib
+V 22
+dir mz.1i8.r4991/16880
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r4996/2495
+K 9
+sipXphone
+V 23
+dir 6qk.1ia.r4852/35496
+K 11
+sipXportLib
+V 20
+dir 3.1ib.r4991/4627
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r4991/5891
+K 13
+sipXpublisher
+V 22
+dir 20n.1id.r4991/9980
+K 12
+sipXregistry
+V 22
+dir 1y5.1ie.r4992/2778
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r4991/21102
+K 8
+sipXvxml
+V 22
+dir 22d.1ig.r4991/7126
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 10
+build.err
+
+K 25
+svnmerge-mirror-main-head
+V 49
+https://paradise.pingtel.com/rep/sipX/mirror/main
+K 25
+svnmerge-mirror-main-revs
+V 226
+1-3294,3314,3330,3342,3354-3359,3363,3368,3373,3381-3382,3415,3440-3441,3449,3454,3466,3508,3519,3523,3528,3546,3550,3554,3588,3594,3601-3603,3608-3612,3615,3619,3623,3666,3670,3672,3674-3675,3677,3683,3692-3693,3703,3720-3721
+END
+ENDREP
+id: 7q4.0.r4997/2530
+type: dir
+pred: 7q4.0.r4996/3849
+count: 183
+text: 4997 1406 712 712 fa513fc6bf79beca7cba0172c83d2dd5
+props: 4997 2131 386 0 78e9563b7dd3ed53132a2e55f731ab32
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r4813/32382
+K 4
+main
+V 20
+dir 7q4.0.r4997/2530
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r4997/2865
+type: dir
+pred: 0.0.r4996/4184
+count: 4997
+text: 4997 2736 116 116 0a8daad05c5e2bcb7a4b07b45d776743
+cpath: /
+copyroot: 0 /
+
+8ag.0.r4939/381388 delete false false /main/sipXmediaAdapterLib/interface/Makefile.in
+
+7q4.0.t4996-1 modify false true /main
+
+
+2865 3008

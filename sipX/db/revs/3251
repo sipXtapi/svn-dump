@@ -1,0 +1,93 @@
+PLAIN
+K 8
+branches
+V 20
+dir 4c1.0.r3247/7837
+K 4
+main
+V 21
+dir 2hf.0.r3248/20192
+K 4
+tags
+V 20
+dir 4b6.0.r3249/1463
+END
+ENDREP
+id: 2he.0.r3251/127
+type: dir
+pred: 2he.0.r3250/280
+count: 226
+text: 3251 0 114 114 c7c0ad03b29b2c85b7f402f2b74ecad3
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 19
+dir 2he.0.r3251/127
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3251/725
+type: dir
+pred: 1.0.r3250/881
+count: 3249
+text: 3251 282 430 430 165f2acc3776f50c1b470481a03df260
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r3251/725
+END
+ENDREP
+id: 0.0.r3251/916
+type: dir
+pred: 0.0.r3250/1073
+count: 3251
+text: 3251 868 35 35 18d8c8b0e665503d9ddfab9778c0070a
+cpath: /
+copyroot: 0 /
+
+4if.0.r3250/0 delete false false /old/sipXconfig/jboss4-sipXconfig-common
+
+
+916 1055

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-12-08T20:56:26.502338Z
+K 7
+svn:log
+V 168
+Create Makefile.am so the TAPI libraries are buildable under Linux.
+I'm checking this file in earlier than the other changes, because
+configure.ac already mentions it.
+
+END

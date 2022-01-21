@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-12-08T19:16:05.593609Z
+K 7
+svn:log
+V 952
+Merged revisions 5696-5723 via svnmerge from
+https://scm.sipfoundry.org/rep/sipX/branches/sipXconfig/replication
+XCF-824 Allow for optional parameter (sip_domain) in topology.xml to support IMDB dataset replication to different SIP domain that the one sipX config is installed on.
+IMDB replication: permission, credential and extension datasets now support injecting SIP domain name through DataSetGenerator.setSipDomain.
+XCF-823 support for injecting additional mapping rules from external files 
+file name can be specified in sipxconfig.properties.in file as mappingRule.externalRulesFileName parameter
+XCF-809 replication.cgi is now used not just for replicating IMDB data but also for sending XML configuration files (mapping rules, fallback rules, authorization rules, orbits definition and emergency routing)
+XCF-505 starting, stopping and restarting services works for multiple hosts, status of running services still only works for local host
+
+
+END

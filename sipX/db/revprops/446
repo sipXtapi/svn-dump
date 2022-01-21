@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-17T14:59:04.594272Z
+K 7
+svn:log
+V 94
+Log CRIT message if OsMsgQShared::doSend cannot add message to the destination
+message queue.
+
+END

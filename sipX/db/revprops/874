@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-26T20:47:38.346446Z
+K 7
+svn:log
+V 190
+Added proper sdp/rtcp port reporting when using STUN.  If the rtcp port is not the next sequential port after the rtp port and odd -- add an "a:rtcp:<port>" attribute following the m= line.
+
+END

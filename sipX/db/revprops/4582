@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-04-01T16:01:08.298587Z
+K 7
+svn:log
+V 107
+XCF-159 - Finish https support for jboss, update default url to admin ui and stop apache from grabbing 8443
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-10-02T22:10:22.144910Z
+K 7
+svn:log
+V 339
+Windows output device driver: Minimize deadlock situation which happens when device is being disabled at the same time a frame is being pushed.
+
+A proper fix to entirely eliminate the deadlock should be implemented.
+One such possibility is to lock every access to WaveIn* calls so that only one WaveIn call is being made at any given time.
+END

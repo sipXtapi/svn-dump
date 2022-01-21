@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-29T16:08:17.487775Z
+K 7
+svn:log
+V 220
+Merged revisions 8549 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8549 | ipse | 2007-01-16 10:34:46 +0300 | 2 lines
+  
+  More sipXportLib unittests enabled under Linux.
+........
+
+END

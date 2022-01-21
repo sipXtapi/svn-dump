@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-05-25T05:01:53.475335Z
+K 7
+svn:log
+V 166
+Moved codec comparison logic from sipXtackLib SdpBody to SdpCodec and SdpCodecList where it should be.
+A few tweeks to Sdp and SdpMediaLine to ease use with SdpBody.
+
+END

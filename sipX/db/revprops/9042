@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-03-09T23:24:21.478334Z
+K 7
+svn:log
+V 189
+XCF-1315 add support for indexed setting, introduce new <collection /> elements to modeling language
+you can now write and resolved settings path that looks like that deck/suite[2]/card[5]
+
+END

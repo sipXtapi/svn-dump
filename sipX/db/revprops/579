@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-06-08T16:38:53.262135Z
+K 7
+svn:log
+V 51
+Cleaned up in order to properly compile with GCC4.
+
+END

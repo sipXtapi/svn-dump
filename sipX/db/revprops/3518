@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-02-10T15:28:45.838578Z
+K 7
+svn:log
+V 98
+after reviewing latest CSS styles for prototype in IE and in DamianK, propogate styles into web ui
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-28T23:12:20.303989Z
+K 7
+svn:log
+V 100
+Specify proper path for static audio buffer for dtmf '5' tone in
+MprFromFileTest for all platforms.
+
+END

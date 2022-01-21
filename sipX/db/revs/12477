@@ -1,0 +1,629 @@
+PLAIN
+K 10
+svn:ignore
+V 64
+libtool.m4
+lt~obsolete.m4
+ltoptions.m4
+ltsugar.m4
+ltversion.m4
+
+
+END
+ENDREP
+id: f4r.7n5.r12477/103
+type: dir
+pred: f4r.0.r10173/398497
+count: 1
+text: 10173 398373 111 111 099746c11ae1c2730ca169d134fe1e56
+props: 12477 0 90 0 8e2a66b700cd40dd9b888ddfa7cb47e7
+cpath: /main/sipXmediaLib/contrib/libamrwb/m4
+copyroot: 10815 /main
+
+PLAIN
+K 7
+AUTHORS
+V 24
+file f42.0.r10173/399193
+K 7
+COPYING
+V 24
+file f43.0.r10173/403251
+K 9
+ChangeLog
+V 24
+file f44.0.r10173/399371
+K 11
+Makefile.am
+V 24
+file f46.0.r10173/403513
+K 4
+NEWS
+V 24
+file f48.0.r10173/404139
+K 6
+README
+V 24
+file f49.0.r10173/400788
+K 4
+TODO
+V 24
+file f4a.0.r10173/402422
+K 22
+amrwb-any-cflags.patch
+V 24
+file f4c.0.r10173/400127
+K 27
+amrwb-dhf-declaration.patch
+V 24
+file f4d.0.r10173/399925
+K 20
+amrwb-intsizes.patch
+V 24
+file f4e.0.r10173/403944
+K 10
+amrwb.spec
+V 24
+file f4f.0.r10173/401575
+K 13
+amrwb.spec.in
+V 24
+file f4g.0.r10173/402681
+K 12
+configure.ac
+V 24
+file f4l.0.r10173/402174
+K 21
+libamrwb-msvc8.vcproj
+V 23
+file f5f.0.r10180/14583
+K 12
+libamrwb.def
+V 24
+file f4o.0.r10173/400518
+K 12
+libamrwb.dsp
+V 21
+file f6i.0.r10344/434
+K 15
+libamrwb.vcproj
+V 24
+file f4p.7n5.r12132/5961
+K 16
+libamrwb.vcxproj
+V 26
+file nrs.7n5.r12361/107050
+K 2
+m4
+V 22
+dir f4r.7n5.r12477/103
+K 21
+prepare_sources.sh.in
+V 24
+file f4v.0.r10173/397390
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 238
+.deps
+aclocal.m4
+amrwb-decoder
+amrwb-decoder-if2
+amrwb-encoder
+amrwb-encoder-if2
+autom4te.cache
+configure
+compile
+config.log
+config.guess
+config.sub
+config.status
+depcomp
+INSTALL
+install-sh
+libtool
+ltmain.sh
+Makefile
+Makefile.in
+missing
+
+
+END
+ENDREP
+id: f41.7n5.r12477/1608
+type: dir
+pred: f41.7n5.r12361/108709
+count: 10
+text: 12477 353 964 964 a68f3794027f4aefa5b3df907efba40c
+props: 12477 1330 265 0 280b232f8d48a0eac6ac3f3100b820a6
+cpath: /main/sipXmediaLib/contrib/libamrwb
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 63
+libtool.m4
+lt~obsolete.m4
+ltoptions.m4
+ltsugar.m4
+ltversion.m4
+
+END
+ENDREP
+id: f3s.7n5.r12477/1962
+type: dir
+pred: f3s.0.r10168/403653
+count: 1
+text: 10168 403529 111 111 a6c7cc56fbc5521f17b28a5259521cc1
+props: 12477 1860 89 0 ffd16340377172ef2e1a703767dc39da
+cpath: /main/sipXmediaLib/contrib/libamrnb/m4
+copyroot: 10815 /main
+
+PLAIN
+K 7
+AUTHORS
+V 24
+file f33.0.r10168/404537
+K 7
+COPYING
+V 24
+file f34.0.r10168/408408
+K 9
+ChangeLog
+V 24
+file f35.0.r10168/404715
+K 11
+Makefile.am
+V 24
+file f37.0.r10168/408670
+K 4
+NEWS
+V 24
+file f39.0.r10168/409101
+K 6
+README
+V 24
+file f3a.0.r10168/406595
+K 4
+TODO
+V 24
+file f3b.0.r10168/407908
+K 22
+amrnb-any-cflags.patch
+V 24
+file f3d.0.r10168/402263
+K 20
+amrnb-intsizes.patch
+V 24
+file f3e.0.r10168/407382
+K 27
+amrnb-strict-aliasing.patch
+V 24
+file f3f.0.r10168/405457
+K 10
+amrnb.spec
+V 24
+file f3g.0.r10168/405270
+K 13
+amrnb.spec.in
+V 24
+file f3h.0.r10168/406265
+K 12
+configure.ac
+V 24
+file f3m.0.r10168/407660
+K 21
+libamrnb-msvc8.vcproj
+V 23
+file f5e.0.r10180/16479
+K 12
+libamrnb.def
+V 24
+file f3p.0.r10168/404349
+K 12
+libamrnb.dsp
+V 21
+file f6g.0.r10343/331
+K 15
+libamrnb.vcproj
+V 24
+file f3q.7n5.r12132/8918
+K 16
+libamrnb.vcxproj
+V 26
+file npd.7n5.r12361/110739
+K 2
+m4
+V 23
+dir f3s.7n5.r12477/1962
+K 21
+prepare_sources.sh.in
+V 24
+file f3w.0.r10168/402545
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 330
+.deps
+amrnb-decoder
+amrnb-decoder-etsi
+amrnb-decoder-if2
+amrnb-encoder
+amrnb-encoder-etsi
+amrnb-encoder-etsi-vad2
+amrnb-encoder-if2
+amrnb-encoder-if2-vad2
+amrnb-encoder-vad2
+autom4te.cache
+configure
+compile
+config.log
+config.guess
+config.sub
+config.status
+depcomp
+INSTALL
+install-sh
+libtool
+ltmain.sh
+Makefile
+Makefile.in
+missing
+
+END
+ENDREP
+id: f32.7n5.r12477/3564
+type: dir
+pred: f32.7n5.r12361/112399
+count: 9
+text: 12477 2216 965 965 93cac0a9889545de2cbf9c1f72691cf7
+props: 12477 3194 357 0 f098dbc6068d5d1524777886517f4ffc
+cpath: /main/sipXmediaLib/contrib/libamrnb
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file f69.7n5.r12460/239
+K 7
+android
+V 25
+dir g9q.7n5.r12196/415625
+K 14
+buildFFmpeg.sh
+V 23
+file h4u.7n5.r11741/652
+K 8
+libamrnb
+V 23
+dir f32.7n5.r12477/3564
+K 8
+libamrwb
+V 23
+dir f41.7n5.r12477/1608
+K 6
+libgsm
+V 25
+dir ebx.7n5.r12361/118167
+K 7
+libilbc
+V 25
+dir ezs.7n5.r12361/110491
+K 7
+libopus
+V 23
+dir lw5.7n5.r12469/3440
+K 10
+libspandsp
+V 25
+dir f50.7n5.r12361/109423
+K 8
+libspeex
+V 25
+dir fz0.7n5.r12361/117196
+END
+ENDREP
+id: ebw.7n5.r12477/4272
+type: dir
+pred: ebw.7n5.r12469/4093
+count: 96
+text: 12477 3816 443 443 cee5e75dba0a5371848c702916e0355b
+props: 12208 0 48 0 86168c69db02cf3306494c6df91bc2ed
+cpath: /main/sipXmediaLib/contrib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 22
+file g92.7n5.r12289/56
+K 12
+CONTRIBUTORS
+V 25
+file b41.0.r6469/22054157
+K 9
+ChangeLog
+V 25
+file b42.0.r6469/22025314
+K 7
+INSTALL
+V 24
+file b43.0.r6955/1728056
+K 11
+Makefile.am
+V 24
+file b44.7n5.r12466/9317
+K 4
+NEWS
+V 25
+file b45.0.r6469/22058814
+K 6
+README
+V 24
+file b46.0.r6955/1727035
+K 4
+TODO
+V 25
+file b47.0.r6469/22057442
+K 9
+acsite.m4
+V 24
+file b48.0.r6955/1726702
+K 17
+autoconf259.patch
+V 23
+file fxj.7n5.r10953/747
+K 3
+bin
+V 22
+dir b49.7n5.r11821/958
+K 12
+configure.ac
+V 25
+file b4k.7n5.r12472/10895
+K 7
+contrib
+V 23
+dir ebw.7n5.r12477/4272
+K 3
+doc
+V 22
+dir b4l.7n5.r11821/663
+K 26
+dtmf5_48khz_16b_signed.wav
+V 23
+file f7a.0.r10516/48478
+K 7
+include
+V 24
+dir b4p.7n5.r12470/16696
+K 3
+lib
+V 24
+dir b8u.0.r6469/22057603
+K 4
+meta
+V 24
+dir b8v.0.r6469/22024982
+K 25
+sipXmediaLib-msvc8.vcproj
+V 24
+file e76.7n5.r11952/3545
+K 16
+sipXmediaLib.dsp
+V 24
+file up.7nl.r11401/19813
+K 16
+sipXmediaLib.vcp
+V 22
+file e6i.0.r9956/38866
+K 19
+sipXmediaLib.vcproj
+V 24
+file b92.7n5.r12138/5904
+K 20
+sipXmediaLib.vcxproj
+V 26
+file nqq.7n5.r12361/119245
+K 29
+sipXmediaLibTest-msvc8.vcproj
+V 24
+file e77.7n5.r12273/3350
+K 20
+sipXmediaLibTest.dsp
+V 23
+file mh.7nm.r12273/3109
+K 20
+sipXmediaLibTest.sln
+V 24
+file eaj.7n5.r12138/5652
+K 20
+sipXmediaLibTest.vcp
+V 22
+file e6j.0.r8865/20512
+K 23
+sipXmediaLibTest.vcproj
+V 24
+file eak.7n5.r12273/3560
+K 24
+sipXmediaLibTest.vcxproj
+V 26
+file nqo.7n5.r12361/119064
+K 20
+sipxmedialib.spec.in
+V 24
+file b93.7n5.r10867/5783
+K 3
+src
+V 24
+dir b94.7n5.r12472/10654
+END
+ENDREP
+id: b40.7n5.r12477/6034
+type: dir
+pred: b40.7n5.r12472/12666
+count: 1844
+text: 12477 4510 1511 1511 409fe619096beb1f08ec3ac3ea13467d
+props: 12332 3448 1828 0 9538f009da0d305e6e1bb316bb7369dd
+cpath: /main/sipXmediaLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g8y.7n5.r12172/315
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 22
+dir 9wj.7n5.r12476/893
+K 15
+configure.patch
+V 23
+file o60.7n5.r12434/574
+K 10
+readme.txt
+V 23
+file 9ws.7n5.r12464/516
+K 7
+scripts
+V 23
+dir fxk.7n5.r12171/1617
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r12467/3757
+K 19
+sipXmediaAdapterLib
+V 24
+dir b2p.7n5.r12466/13170
+K 12
+sipXmediaLib
+V 23
+dir b40.7n5.r12477/6034
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r12471/5414
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r12466/6703
+K 11
+sipXtackLib
+V 24
+dir boq.7n5.r12466/15876
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r12477/6982
+type: dir
+pred: 9wi.7n5.r12476/1825
+count: 3415
+text: 12477 6274 695 695 4b0c1b35b5158b0e8c4fbee3f71d5e14
+props: 12114 59175 76 0 1dd3880c3272b32f88d1700b38908223
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r12113/17441
+K 4
+main
+V 23
+dir 9wi.7n5.r12477/6982
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r12477/7377
+type: dir
+pred: 0.0.r12476/2220
+count: 12477
+text: 12477 7205 159 159 7989922ab6dc7f5d0184417906865f6f
+cpath: /
+copyroot: 0 /
+
+f3c.7n5.r12043/243684 delete false false /main/sipXmediaLib/contrib/libamrnb/aclocal.m4
+
+f3o.0.r10279/5621 delete false false /main/sipXmediaLib/contrib/libamrnb/install-sh
+
+f45.0.r10173/403010 delete false false /main/sipXmediaLib/contrib/libamrwb/INSTALL
+
+f3s.7n5.t12476-1 modify false true /main/sipXmediaLib/contrib/libamrnb/m4
+
+f3l.7n5.r12043/242350 delete false false /main/sipXmediaLib/contrib/libamrnb/configure
+
+f38.7n5.r12043/242616 delete false false /main/sipXmediaLib/contrib/libamrnb/Makefile.in
+
+f4u.0.r10279/1590 delete false false /main/sipXmediaLib/contrib/libamrwb/missing
+
+f4b.7n5.r12043/240471 delete false false /main/sipXmediaLib/contrib/libamrwb/aclocal.m4
+
+f3n.0.r10279/4067 delete false false /main/sipXmediaLib/contrib/libamrnb/depcomp
+
+f4n.0.r10279/1899 delete false false /main/sipXmediaLib/contrib/libamrwb/install-sh
+
+f3i.0.r10279/4376 delete false false /main/sipXmediaLib/contrib/libamrnb/compile
+
+f4r.7n5.t12476-1 modify false true /main/sipXmediaLib/contrib/libamrwb/m4
+
+f3j.7n5.r12043/242883 delete false false /main/sipXmediaLib/contrib/libamrnb/config.guess
+
+f4k.7n5.r12043/239143 delete false false /main/sipXmediaLib/contrib/libamrwb/configure
+
+f47.7n5.r12043/239404 delete false false /main/sipXmediaLib/contrib/libamrwb/Makefile.in
+
+f3r.7n5.r12043/243415 delete false false /main/sipXmediaLib/contrib/libamrnb/ltmain.sh
+
+f3k.7n5.r12043/243150 delete false false /main/sipXmediaLib/contrib/libamrnb/config.sub
+
+f32.7n5.t12476-1 modify false true /main/sipXmediaLib/contrib/libamrnb
+
+f4m.0.r10279/352 delete false false /main/sipXmediaLib/contrib/libamrwb/depcomp
+
+f4h.0.r10279/659 delete false false /main/sipXmediaLib/contrib/libamrwb/compile
+
+f4i.7n5.r12043/239672 delete false false /main/sipXmediaLib/contrib/libamrwb/config.guess
+
+f36.0.r10168/408167 delete false false /main/sipXmediaLib/contrib/libamrnb/INSTALL
+
+f4j.7n5.r12043/240206 delete false false /main/sipXmediaLib/contrib/libamrwb/config.sub
+
+f4q.7n5.r12043/239936 delete false false /main/sipXmediaLib/contrib/libamrwb/ltmain.sh
+
+f3v.0.r10279/5312 delete false false /main/sipXmediaLib/contrib/libamrnb/missing
+
+f41.7n5.t12476-1 modify false true /main/sipXmediaLib/contrib/libamrwb
+
+
+7377 7524

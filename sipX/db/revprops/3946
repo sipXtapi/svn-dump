@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-05-23T17:21:34.592873Z
+K 7
+svn:log
+V 263
+Removed RenderProperties and SettingRenderer: SettingType and co. support password types and extensible rendering system in slightly more natural manner.
+
+To declare a setting as a password change its type in model file to:
+ <type><string password="yes"/></type>
+
+END

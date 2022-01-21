@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-09-20T20:00:56.456146Z
+K 7
+svn:log
+V 87
+Clean up a bunch of compiler warnings and log messages
+Clarify version in build output
+
+END

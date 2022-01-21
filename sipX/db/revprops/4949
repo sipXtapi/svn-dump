@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-08-31T21:04:04.176815Z
+K 7
+svn:log
+V 251
+Check in initial work on XCF-559 "user extension pool".  Not finished yet and not hooked into UI.
+Create SipxHibernateDaoSupport class derived from HibernateDaoSupport.  SipxHibernateDaoSupport provides a standard implementation of the "load" method.
+
+END

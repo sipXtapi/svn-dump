@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-19T11:59:28.447769Z
+K 7
+svn:log
+V 343
+Fix MpBufPtr usage and order of MpInputDeviceManager::getFrame() parameter documentation.
+
+When passing MpBufPtr as parameter to function, it should be passed as reference or const reference (i.e. 'MpBufPtr&' or 'const MpBufPtr&'). And it should not be passed as pointer (i.e. 'MpBufPtr*'), because it breaks whole ideology of smart pointer.
+
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-09T00:32:20.065759Z
+K 7
+svn:log
+V 96
+Fix to follow coding guidelines -- make expanded tabs be 3-space tabs instead
+of 4-space tabs.
+
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-09T19:10:23.809601Z
+K 7
+svn:log
+V 453
+XCF-1099 Fixed Hibernate exception when saving user who is supervising its own group.
+Changed cascade parameter on user->supervised groups associations from "save-update" to "none" - the drawback is that you have to pass saved groups to User.addSupervisorForGroup method, but it this function only worked reliable if saved groups were passed.
+Added "saveNew" parameter to SettingDao.getGroupsByString to allow for one step adding and saving of groups. 
+
+END

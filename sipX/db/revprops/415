@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-23T15:34:15.662909Z
+K 7
+svn:log
+V 199
+Added a UtlRandom class to wrap rand() functionality and provide
+multiple ways to seed the random number generator.  Default constructor
+uses time, another constructor allows a user-specified seed.
+
+
+END

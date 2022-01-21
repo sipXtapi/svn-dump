@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-03-03T20:57:20.480210Z
+K 7
+svn:log
+V 249
+XCF-222 alternative location for test database
+
+new reset-db Ant task to create/reset PDS_TEST database
+mechanism for overwriting PDS URL implemented of database implemented (reusing sysdir.properties file to pass alternative location for database)
+
+END

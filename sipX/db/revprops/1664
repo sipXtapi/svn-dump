@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-20T11:50:27.010724Z
+K 7
+svn:log
+V 187
+Updated the sipXtapi WIN32 build scripts to include a command line argument.  That command line argument is passed to msdev.  I've used this to issue rebuild all via the command line.  
+
+
+END

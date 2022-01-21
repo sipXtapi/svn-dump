@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-04T14:15:20.932627Z
+K 7
+svn:log
+V 166
+style task only verifies the files that has been chaned since last time cehckstyle has been run without errors - it significantly speeds up repetitive style checking
+
+END

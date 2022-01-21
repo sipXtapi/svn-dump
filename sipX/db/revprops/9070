@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+martin
+K 8
+svn:date
+V 27
+2007-03-13T12:51:00.942025Z
+K 7
+svn:log
+V 144
+Use rubygems from the Extras repository for FC5 and FC6 (name change to rubygems from ruby-gems. Both Extras and SuSE repository call it this).
+
+END

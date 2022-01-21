@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-06-15T15:04:29.897326Z
+K 7
+svn:log
+V 80
+sipXportLib: Fix typo in msinttype's stdint.h.
+This should fix VS6 compilation.
+
+END

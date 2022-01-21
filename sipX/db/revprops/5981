@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-27T20:15:14.141120Z
+K 7
+svn:log
+V 77
+XCF-896 fix logical expression in Services.page file - was: >0 should be: >1
+
+END

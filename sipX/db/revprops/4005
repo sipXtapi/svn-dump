@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-06-06T18:59:36.201781Z
+K 7
+svn:log
+V 129
+XCF-221 Disable sorting on lines, doesn't make sense because small number and order is important to list and move up/down buttons
+END

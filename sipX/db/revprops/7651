@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-04T19:28:32.618265Z
+K 7
+svn:log
+V 204
+Finish tidying up the ISN redirector.
+Build it by default.
+Fix code bugs.
+Adjust default registrar-config.in to match the new property names.
+Make sure that all the necessary code sees -DRES_PARSE_NAPTR.
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-11-04T15:43:27.296789Z
+K 7
+svn:log
+V 183
+Remove svn:executable from .in files used to generate scripts.
+.in files aren't executable.
+(And the conversion process does not copy their permissions
+to the resulting script file.)
+
+END

@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2006-12-28T16:49:37.428842Z
+K 7
+svn:log
+V 671
+Added Microsoft Visual Studio 2005 project files.
+The file extension for msvc2003 and 2005, and presumably future versions of
+microsoft visual studio now share the same file extension, for both project
+files, and solution files (what used to be workspaces, which now keep local
+settings separate from settings that can be persisted in source control
+(project file references, and inter-project dependencies - build order).
+
+Prerequisites:
+MSVC8 configured to find PCRE and CPPUNIT include directories.
+MSVC8 configured to find PCRE and CPPUNIT library directories.
+PATH set to find PCRE dll (will need a reboot if you wish to start or debug
+the exes from within msvc8)
+
+
+
+END

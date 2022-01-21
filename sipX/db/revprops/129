@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+raghu
+K 8
+svn:date
+V 27
+2004-07-08T04:24:58.300992Z
+K 7
+svn:log
+V 163
+Changed unit tests to reflect changes made to fix XPL-6. Also found that the bug XPL-7 was a unit test bug rather than an actual failure. Updated tests accordingly
+END

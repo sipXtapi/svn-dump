@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-05-24T15:42:50.885467Z
+K 7
+svn:log
+V 351
+Added an additional unit test for SdpBody -- generating a:rtcp port attributes and then re-parsing addresses.  Looks like getting the address/port for media index 0 fails when multiple m lines are present.  This problem is before adding any rtcp specific logic.  Checking in and switching to Windows to debug (portion of unit test is commented out).
+
+
+END

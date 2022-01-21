@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-06-02T15:31:22.201825Z
+K 7
+svn:log
+V 110
+XCF-419 - Tell tomcat that truststore is JKS format, otherwise it assumes its PKCS12, the same as the keystore
+END

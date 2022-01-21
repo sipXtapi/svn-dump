@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-06-06T13:53:17.916741Z
+K 7
+svn:log
+V 98
+Merge rev 607 from SIPfoundry/main
+
+XPR-173: Escape single quotes when building database inserts.
+
+END

@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2005-05-19T12:56:53.278019Z
+K 7
+svn:log
+V 373
+Merged revisions 548 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXpbx/branches/2.8
+    ------------------------------------------------------------------------
+    r548 | ajorde | 2005-05-17 14:44:22 -0400 (Tue, 17 May 2005) | 1 line
+    Changed paths:
+       M /branches/2.8/bin/sipx-uninstall
+    
+    Remove old voicemail and configuration during uninstallation
+
+END

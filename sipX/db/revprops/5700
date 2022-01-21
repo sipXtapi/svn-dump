@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-12-04T00:25:41.150944Z
+K 7
+svn:log
+V 160
+Allow for optional parameter (sip_domain) in topology.xml to support IMDB dataset replication to different SIP domain that the one sipX config is installed on.
+
+END

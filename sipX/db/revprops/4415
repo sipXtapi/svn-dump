@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-12-20T19:23:04.056982Z
+K 7
+svn:log
+V 123
+Remove trailing CRs.
+Add svn:eol-style property so this problems doesn't recur.
+http://track.sipfoundry.org/browse/XPB-158
+
+END

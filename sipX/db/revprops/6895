@@ -1,0 +1,44 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-06-03T15:46:59.712946Z
+K 7
+svn:log
+V 1732
+Fix problems in the linux threading code.
+    These were found in stress testing on multiprocessor sytems, but
+    may actually have been responsible for some of the problems we've
+    seen in the past even on uniprocessors when a message queue
+    overflows causing threads to hang even after the queue has been
+    drained.
+Change syncronizers to use broadcast rather than signal.
+From woof:
+   I've written some test code that shows pthread_cond_signal()
+   will wake up some thread.  But if that particular thread cannot proceed
+   (due to the condition not being true), then the code will hang with all
+   threads waiting in pthread_cond_wait, even though the condition is okay
+   for one of the other threads to proceed.
+   Changing from pthread_cond_signal() to pthread_cond_broadcast() solves the
+   problem.
+   Essentually, using pthread_cond_signal() is incorrect if there is more
+   than one thread blocked on the condition, and only one of them can
+   proceed.  If the one that is picked to awaken by pthread_cond_signal()
+   cannot proceed, and goes back to waiting, no one will proceed from that
+   point on.
+   All threads end up waiting on a condition that is TRUE for at least one of
+   them.
+Fix race condition in pt_sem_timedwait and pt_mutex_timedwait
+    If the thread was woken spuriously (which the standard and the man
+    page say can happen), then the old implementation assumed that a
+    timeout had occured).
+Enhance OS_SYNC_DEBUG to record sync operations.
+Remove logging error in OsBSem destructor to avoid structures that may
+not exist during thread delete.
+Fix a bug in UtlSListIterator in which it releases a lock it does not
+  have (I don't think this was ever actually hit; found by inspection).
+
+END

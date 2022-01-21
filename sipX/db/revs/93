@@ -1,0 +1,210 @@
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: a5.0.r93/51
+type: dir
+pred: a5.0.r89/2144
+count: 4
+text: 89 1631 500 500 692b709bd4716317a0343a11b7f51038
+props: 93 0 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXportLib/main/src/test/sipxunit
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 17
+file 7h.0.r92/548
+K 6
+README
+V 19
+file 9i.0.r29/76991
+K 2
+os
+V 17
+dir 7l.0.r90/1444
+K 8
+sipxunit
+V 15
+dir a5.0.r93/51
+K 3
+utl
+V 18
+dir 87.0.r86/21008
+END
+ENDREP
+id: 7g.0.r93/462
+type: dir
+pred: 7g.0.r92/970
+count: 47
+text: 93 273 176 176 e42edecad4f57ec42745aa79b3efdc6a
+props: 25 38558 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXportLib/main/src/test
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 19
+file 4e.0.r83/12885
+K 3
+aes
+V 19
+dir 4f.0.r22/517421
+K 2
+os
+V 18
+dir 4m.0.r87/19102
+K 4
+test
+V 16
+dir 7g.0.r93/462
+K 3
+utl
+V 18
+dir 89.0.r87/20842
+K 9
+xmlparser
+V 19
+dir 8s.0.r22/519592
+END
+ENDREP
+id: 4d.0.r93/904
+type: dir
+pred: 4d.0.r92/1413
+count: 69
+text: 93 679 212 212 f9b4171df3e0d048d9a9575b04b6857f
+props: 25 45203 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXportLib/main/src
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 19
+file 4.0.r22/520744
+K 9
+ChangeLog
+V 19
+file 5.0.r22/469231
+K 7
+INSTALL
+V 18
+file 6.0.r87/21691
+K 7
+LICENSE
+V 19
+file 7.0.r22/418615
+K 11
+Makefile.am
+V 18
+file 8.0.r67/18714
+K 4
+NEWS
+V 19
+file 9.0.r22/520483
+K 6
+README
+V 18
+file a.0.r75/14938
+K 4
+TODO
+V 18
+file b.0.r25/34332
+K 9
+acsite.m4
+V 19
+file c.0.r22/469495
+K 6
+config
+V 16
+dir 91.0.r91/388
+K 12
+configure.ac
+V 17
+file d.0.r89/3409
+K 3
+doc
+V 15
+dir ac.0.r80/51
+K 7
+include
+V 17
+dir e.0.r87/14875
+K 15
+sipXportLib.dsp
+V 19
+file 4c.0.r87/21457
+K 3
+src
+V 16
+dir 4d.0.r93/904
+K 12
+syslogviewer
+V 18
+dir 8y.0.r25/27013
+END
+ENDREP
+id: 3.0.r93/1727
+type: dir
+pred: 3.0.r92/2239
+count: 90
+text: 93 1117 597 597 258fa09e4a916e12d2a1f9b0ba103e12
+props: 25 46063 102 0 dfadf7143a0dfad6b98b34bae97deccf
+cpath: /old/sipXportLib/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 16
+dir 3.0.r93/1727
+END
+ENDREP
+id: 2.0.r93/1985
+type: dir
+pred: 2.0.r92/2497
+count: 91
+text: 93 1937 35 35 f6aa91e46f8534e995ee68f220750a31
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 16
+dir 2.0.r93/1985
+END
+ENDREP
+id: 1.0.r93/2189
+type: dir
+pred: 1.0.r92/2701
+count: 92
+text: 93 2133 43 43 1cef10fb7a3a7dad5d45d4477d064f5b
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 16
+dir 1.0.r93/2189
+END
+ENDREP
+id: 0.0.r93/2372
+type: dir
+pred: 0.0.r92/2884
+count: 93
+text: 93 2325 34 34 70b2b950ced13a7e507fe02048cfc425
+cpath: /
+copyroot: 0 /
+
+a5.0.t92-1 modify false true /old/sipXportLib/main/src/test/sipxunit
+
+
+2372 2505

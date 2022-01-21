@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-01-27T01:12:57.010164Z
+K 7
+svn:log
+V 134
+Protect all DB access with the SmartDbAccessor class, which ensures that the DB is attached at the beginning and detached at the end.
+
+END

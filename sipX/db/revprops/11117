@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-19T16:03:16.345454Z
+K 7
+svn:log
+V 102
+Make zipping quiet.  
+We don't need to see compression levels for each file successfully compressed.
+
+
+END

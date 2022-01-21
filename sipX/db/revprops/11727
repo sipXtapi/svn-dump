@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-06-24T20:40:36.795501Z
+K 7
+svn:log
+V 70
+Made it possible to bind XMLRPC HTTP server to s specific IP address.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-04-26T15:32:37.850976Z
+K 7
+svn:log
+V 193
+Fix for memory leaks in SipSubscribeServer. mpDefaultEventHandler, mpDefaultSubscriptionMgr, mpDefaultContentMgr were never deleted anywhere despite destructor trying to convince you otherwise.
+END

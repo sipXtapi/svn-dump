@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-31T12:28:53.366938Z
+K 7
+svn:log
+V 529
+mergefrom user_dworley_redirectors2main 7646,7651,7652-7654,7669
+
+Tidy up the ISN redirector, including allowing for a dialing prefix.
+Finish tidying up the ISN redirector.
+Build it by default.
+Fix code bugs.
+Adjust default registrar-config.in to match the new property names.
+Make sure that all the necessary code sees -DRES_PARSE_NAPTR.
+Minor update in GRUU processing.
+Use CpCallManager::getNewCallId to generate call-ID, rather than going
+to a lot of effort.
+Update registrar-config.in to use sequence numbers 110, 120, etc.
+
+END

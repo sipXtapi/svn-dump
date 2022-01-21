@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-17T09:40:06.272695Z
+K 7
+svn:log
+V 279
+Update MMTimers unittest:
+* Separate checking of delta and mean values, because mean value may be calculated easier and more presice from raw data.
+* Increase number of test fires from 200 to 500 for better results.
+* Generate (N-1) deltas from raw data instead of (N/2) deltas.
+
+END

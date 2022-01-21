@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-06-30T17:11:47.899214Z
+K 7
+svn:log
+V 44
+support make dist by including various files
+END

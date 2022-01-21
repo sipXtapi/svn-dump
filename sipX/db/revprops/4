@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-05-20T22:14:45.653696Z
+K 7
+svn:log
+V 236
+Changes required to build under linux.
+  - added #ifdef for any remain 3rd party license references
+  - added config directory (is sym link in our world)
+  - added check for glib in configure.ac
+  - updated src list in src/Makefile.am
+
+
+END

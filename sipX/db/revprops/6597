@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-04-17T17:10:41.769348Z
+K 7
+svn:log
+V 73
+XCF-997 - Migrate auto-attendants should inherit from default attendant. 
+END

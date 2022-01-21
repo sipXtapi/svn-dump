@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-02-10T18:47:42.211352Z
+K 7
+svn:log
+V 149
+sipXportLib: Try to set real-time scheduling even if ran from an ordinary user.
+In decent Linux it will succeed if /etc/security/limits.conf allows.
+
+END

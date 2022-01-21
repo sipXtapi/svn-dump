@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-09-11T13:55:44.203694Z
+K 7
+svn:log
+V 316
+Merged revisions 7424 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7424 | bob | 2006-09-06 22:47:55 +0400 | 4 lines
+  
+  1) Updated build scripts (working towards getting a build looping running)
+  2) Added a sipXtapi utility method to pull a display name off a URL
+........
+
+END

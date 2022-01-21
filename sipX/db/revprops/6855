@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-05-26T18:37:40.564611Z
+K 7
+svn:log
+V 100
+Manually merge changes from sipfoundry 3.4 (rev 6775?) since merge tracking appears to be messed up
+
+END

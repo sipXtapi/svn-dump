@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-10-27T01:57:36.926292Z
+K 7
+svn:log
+V 111
+Added a bunch of coverage for SDP codec retrieval and comparison.
+This identified a number of sdpLib problems.
+
+END

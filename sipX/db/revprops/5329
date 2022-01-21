@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-10-13T21:27:14.044002Z
+K 7
+svn:log
+V 241
+slight change of behavior when working with Show/Hide Advanced settings
+before: when setting value is modified and then hidden, the change is ignored when user presses OK/Apply 
+now: the change is save on OK/Apply and only ignored on Cancel
+
+END

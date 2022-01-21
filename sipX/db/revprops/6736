@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-05-05T02:11:36.670165Z
+K 7
+svn:log
+V 76
+Upgrade to jdk 1.5 and subsequently checkstyle 4.1 to support jdk 1.5 syntax
+END

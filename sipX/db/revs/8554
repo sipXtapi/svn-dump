@@ -1,0 +1,1515 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: e63.1i7.r8554/82
+type: file
+pred: e63.1i7.r8341/401785
+count: 1
+text: 8341 398907 936 9258 51bb4c085fa606269a8cc510386366e4
+props: 8554 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/acd/stats/history-seed.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 27
+AcdHistoricalStatsTest.java
+V 24
+file e7n.1i7.r8553/14651
+K 29
+AcdHistoricalStatsTestDb.java
+V 24
+file e2f.67x.r8553/15050
+K 26
+AcdStatisticsImplTest.java
+V 24
+file e2g.1i7.r8553/14247
+K 31
+AcdStatisticsImplTestStats.java
+V 24
+file e2h.1i7.r8553/13840
+K 16
+history-seed.sql
+V 21
+file e63.1i7.r8554/82
+END
+ENDREP
+id: e2e.1i7.r8554/708
+type: dir
+pred: e2e.1i7.r8553/15774
+count: 7
+text: 8554 385 310 310 82ce2232e5552a587c32f048d3296915
+cpath: /main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/acd/stats
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 17
+AcdAgentTest.java
+V 24
+file e1t.1i7.r8553/11156
+K 17
+AcdAudioTest.java
+V 24
+file e1u.1i7.r8553/11544
+K 25
+AcdContextImplTestDb.java
+V 24
+file e1v.1i7.r8553/17245
+K 16
+AcdLineTest.java
+V 23
+file e1w.1i7.r8553/9999
+K 18
+AcdLineTestDb.java
+V 24
+file e1x.1i7.r8553/10769
+K 30
+AcdMigrationTriggerTestDb.java
+V 24
+file e1y.1i7.r8553/18818
+K 17
+AcdQueueTest.java
+V 24
+file e1z.1i7.r8553/19218
+K 18
+AcdServerTest.java
+V 24
+file e20.1i7.r8553/13451
+K 20
+AcdServerTestDb.java
+V 24
+file e21.1i7.r8553/16855
+K 23
+XmlRpcSettingsTest.java
+V 24
+file e22.1i7.r8553/18425
+K 13
+agents.db.xml
+V 24
+file e23.1i7.r8553/16472
+K 12
+assoc.db.xml
+V 24
+file e24.1i7.r8553/12307
+K 12
+lines.db.xml
+V 24
+file e25.1i7.r8553/12685
+K 20
+migrate_lines.db.xml
+V 24
+file e26.1i7.r8553/18036
+K 21
+migrate_queues.db.xml
+V 24
+file e27.1i7.r8553/16085
+K 19
+moved_agents.db.xml
+V 24
+file e28.1i7.r8553/13063
+K 19
+moved_queues.db.xml
+V 24
+file e29.1i7.r8553/10381
+K 22
+overflow_queues.db.xml
+V 24
+file e2a.1i7.r8553/19603
+K 13
+queues.db.xml
+V 24
+file e2b.1i7.r8553/11928
+K 24
+queues_and_agents.db.xml
+V 24
+file e2c.1i7.r8553/19991
+K 31
+same_user_on_two_servers.db.xml
+V 24
+file e2d.1i7.r8553/17639
+K 5
+stats
+V 21
+dir e2e.1i7.r8554/708
+END
+ENDREP
+id: e1s.1i7.r8554/2153
+type: dir
+pred: e1s.1i7.r8553/21521
+count: 7
+text: 8554 937 1203 1203 df9460658e789c1ee74050c6ae47d0e9
+cpath: /main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/acd
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 12
+ClearDb.java
+V 21
+file 5db.0.r4022/1141
+K 11
+ClearDb.xml
+V 25
+file 4vw.1wl.r8320/267194
+K 17
+EasyMockTest.java
+V 24
+file c72.1i7.r7156/37179
+K 24
+GenerateDatabaseDtd.java
+V 24
+file cuq.1i7.r6951/10997
+K 25
+SipxDatabaseTestCase.java
+V 25
+file 8dw.1i7.r6329/165410
+K 27
+TestApplicationContext.java
+V 25
+file 84s.1i7.r4886/147744
+K 15
+TestHelper.java
+V 24
+file 4q9.1i7.r7979/11625
+K 18
+XmlUnitHelper.java
+V 23
+file 51o.1wm.r7483/4146
+K 3
+acd
+V 22
+dir e1s.1i7.r8554/2153
+K 5
+admin
+V 23
+dir 4ks.1i7.r8553/44311
+K 5
+alias
+V 23
+dir 8h1.1i7.r7156/36868
+K 4
+bulk
+V 23
+dir 8w4.1i7.r7716/76870
+K 3
+cdr
+V 23
+dir dtj.1i7.r8553/49178
+K 6
+common
+V 23
+dir 50w.1i7.r8553/46930
+K 10
+conference
+V 23
+dir 84x.1i7.r7156/40668
+K 6
+dbdata
+V 21
+dir 4vv.0.r3943/15219
+K 6
+device
+V 23
+dir c5w.1i7.r8553/22358
+K 6
+domain
+V 23
+dir dhc.1i7.r8553/48430
+K 7
+gateway
+V 23
+dir 5eb.1i7.r8553/23270
+K 3
+job
+V 22
+dir 866.1i7.r8225/4230
+K 5
+login
+V 23
+dir 7tj.1i7.r8531/13309
+K 10
+permission
+V 23
+dir d2s.1i7.r8531/14871
+K 5
+phone
+V 23
+dir 4jf.1i7.r8553/32444
+K 9
+phonebook
+V 23
+dir do1.1i7.r8553/38730
+K 8
+presence
+V 23
+dir 9vp.1i7.r6899/49683
+K 6
+search
+V 23
+dir 8k6.2ba.r7716/81605
+K 8
+security
+V 22
+dir 8pl.1i7.r8532/1037
+K 7
+setting
+V 22
+dir 4jk.1x7.r8455/5559
+K 17
+sipxconfig-db.dtd
+V 23
+file 4vg.1i7.r8473/3134
+K 9
+speeddial
+V 22
+dir dxa.1i7.r8480/5446
+K 4
+test
+V 23
+dir 8yt.1i7.r5923/37052
+K 6
+upload
+V 22
+dir 8pf.1i7.r8553/9689
+K 2
+vm
+V 23
+dir e97.1i7.r8553/36595
+K 6
+xmlrpc
+V 23
+dir 7us.1i7.r6921/16668
+END
+ENDREP
+id: 4g5.1i7.r8554/3877
+type: dir
+pred: 4g5.1i7.r8553/50903
+count: 722
+text: 8554 2379 1485 1485 3880628c0205dcb2035af836907b4224
+cpath: /main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 10
+sipxconfig
+V 22
+dir 4g5.1i7.r8554/3877
+END
+ENDREP
+id: 4g4.1i7.r8554/4163
+type: dir
+pred: 4g4.1i7.r8553/51191
+count: 722
+text: 8554 4102 48 48 efda2488c0df13ca227e0e9692036c84
+cpath: /main/sipXconfig/neoconf/test/org/sipfoundry
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 10
+sipfoundry
+V 22
+dir 4g4.1i7.r8554/4163
+K 4
+taha
+V 23
+dir 8yv.1i7.r5923/45633
+END
+ENDREP
+id: 4g3.1i7.r8554/4472
+type: dir
+pred: 4g3.1i7.r8553/51502
+count: 722
+text: 8554 4373 86 86 a27b56287e1001f2785431b8709fc2e3
+cpath: /main/sipXconfig/neoconf/test/org
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 3
+org
+V 22
+dir 4g3.1i7.r8554/4472
+K 14
+spy.properties
+V 22
+file 4va.0.r3510/29092
+END
+ENDREP
+id: 4g2.1i7.r8554/4772
+type: dir
+pred: 4g2.1i7.r8553/51804
+count: 724
+text: 8554 4671 88 88 d3c17d58420831422688d673572095a4
+cpath: /main/sipXconfig/neoconf/test
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: cui.1i7.r8554/5049
+type: file
+pred: cui.1i7.r6946/18670
+count: 1
+text: 6946 267 185 313 7f323b914eb21a2b90d81c5dd06d39b0
+props: 8554 4967 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/supervisor.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: dnu.1i7.r8554/5404
+type: file
+pred: dnu.1i7.r8002/27681
+count: 3
+text: 8002 551 205 991 6ec3170e3570b38fa96d3d751e8e9189
+props: 8554 5322 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/phonebook.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 8n3.2cd.r8554/5758
+type: file
+pred: 8n3.2cd.r5659/26793
+count: 7
+text: 5659 349 308 358 befa50aae6cd9de353c5d8d222e8553c
+props: 8554 5676 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/upload.sql
+copyroot: 5651 /main/sipXconfig/neoconf/etc/database/upload.sql
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: e0y.1i7.r8554/6141
+type: file
+pred: e0y.1i7.r8320/287201
+count: 1
+text: 8320 120857 639 2924 a53850d93df7dac81a78d3b8832f5943
+props: 8554 6059 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/acd.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: di6.1i7.r8554/6494
+type: file
+pred: di6.1i7.r7528/267
+count: 2
+text: 7528 0 243 843 38cc80fc07551e0d09776490365daae0
+props: 8554 6412 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/caller-alias-2.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: e0z.1i7.r8554/6849
+type: file
+pred: e0z.1i7.r8320/287392
+count: 1
+text: 8320 121509 320 533 f95dea3195d4274600d91f3f7b98a48b
+props: 8554 6767 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/acd_agents.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: d3b.1i7.r8554/7208
+type: file
+pred: d3b.1i7.r7279/16856
+count: 3
+text: 7279 0 189 174 0d74a6353e7a51d385c707abfa0eae6e
+props: 8554 7126 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/permission.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: d72.1i7.r8554/7561
+type: file
+pred: d72.1i7.r7501/35585
+count: 2
+text: 7501 419 20 130 d422796629052beae24c6e9ddef90669
+props: 8554 7479 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/caller-alias.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: dx2.1i7.r8554/7917
+type: file
+pred: dx2.1i7.r8164/18059
+count: 1
+text: 8164 982 278 585 484c8ef31b9a217f89f88e5907f815d6
+props: 8554 7835 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/speeddial.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: dws.1i7.r8554/8271
+type: file
+pred: dws.1i7.r8125/26989
+count: 1
+text: 8125 0 84 84 1caaec8ba40710c9973ba7c6178217ea
+props: 8554 8189 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/clear-uploads.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: d18.1i7.r8554/8625
+type: file
+pred: d18.1i7.r7341/238
+count: 2
+text: 7341 0 212 266 67ee84eeb8202cfc748c7fbf32a62299
+props: 8554 8543 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/long-distance-rule.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 8ba.1i7.r8554/8984
+type: file
+pred: 8ba.1i7.r6145/728
+count: 15
+text: 6145 0 702 23163 0a2434ab029a107370ab23f0ed1b1135
+props: 8554 8902 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/migrate-2.8.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 8ty.1i7.r8554/9339
+type: file
+pred: 8ty.1i7.r5785/26805
+count: 4
+text: 5785 0 169 1865 b3edd1ca3f02979206e05d9aad37bd38
+props: 8554 9257 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/attendant_schedule.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 9fo.1i7.r8554/9701
+type: file
+pred: 9fo.1i7.r6282/3261
+count: 1
+text: 6282 208 2767 13291 46114d24ec8621ce5bf10df62fe10c41
+props: 8554 9619 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/schema-3.0.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: dm6.1i7.r8554/10058
+type: file
+pred: dm6.1i7.r7716/132407
+count: 1
+text: 7716 8982 353 1039 b4f36095b1078050b05328d7ae49d471
+props: 8554 9976 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/model-refactoring.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: c6r.1i7.r8554/10424
+type: file
+pred: c6r.1i7.r6837/163286
+count: 1
+text: 6837 4338 81 77 d27728aac82770766fa13c28e62b5a03
+props: 8554 10342 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/settings-refactoring.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 9v3.1i7.r8554/10791
+type: file
+pred: 9v3.1i7.r6404/24740
+count: 1
+text: 6404 0 157 257 f8e42def2f588f0d6977f316e0fe8b29
+props: 8554 10709 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/attendant_settings.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: e8x.1i7.r8554/11154
+type: file
+pred: e8x.1i7.r8473/9319
+count: 1
+text: 8473 0 191 247 12d9853eccea58758f3a6b42d6fac0f6
+props: 8554 11072 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/blf.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: dh4.1i7.r8554/11501
+type: file
+pred: dh4.1i7.r7489/11312
+count: 2
+text: 7489 344 26 400 f74419bd895677b3d46ffcb531f4e299
+props: 8554 11419 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/domain.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: e10.1i7.r8554/11853
+type: file
+pred: e10.1i7.r8320/287871
+count: 1
+text: 8320 121842 244 388 6b57f4de757d119df2acce7eb3c0314f
+props: 8554 11771 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/acd_ext.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: d50.1i7.r8554/12211
+type: file
+pred: d50.1i7.r7297/32648
+count: 1
+text: 7297 619 151 242 df24b94fdf226fa658e0cfa315224be1
+props: 8554 12129 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/park-orbit-settings.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 90n.1i7.r8554/12577
+type: file
+pred: 90n.1i7.r5996/12305
+count: 1
+text: 5996 212 122 170 52b73b8d40ea379c3608fbc323df3df6
+props: 8554 12495 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/upload_deployed.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 8qf.1i7.r8554/12939
+type: file
+pred: 8qf.1i7.r5719/7031
+count: 1
+text: 5719 577 278 397 a59c0141ec9281afcef60101772c977a
+props: 8554 12857 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/grandstreamV2.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: cue.1i7.r8554/13298
+type: file
+pred: cue.1i7.r6950/13247
+count: 3
+text: 6950 0 348 1506 df556869626b34c9cd7875ac91d49784
+props: 8554 13216 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/ldap.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: cxv.3xj.r8554/13648
+type: file
+pred: cxv.3xj.r7119/16054
+count: 6
+text: 7119 0 35 1115 051d3d217dcdc0e8577788e4c8fdb85c
+props: 8554 13566 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/neoconf/etc/database/intercom.sql
+copyroot: 7098 /main/sipXconfig/neoconf/etc/database/intercom.sql
+
+PLAIN
+K 7
+acd.sql
+V 23
+file e0y.1i7.r8554/6141
+K 14
+acd_agents.sql
+V 23
+file e0z.1i7.r8554/6849
+K 11
+acd_ext.sql
+V 24
+file e10.1i7.r8554/11853
+K 22
+attendant_schedule.sql
+V 23
+file 8ty.1i7.r8554/9339
+K 22
+attendant_settings.sql
+V 24
+file 9v3.1i7.r8554/10791
+K 7
+blf.sql
+V 24
+file e8x.1i7.r8554/11154
+K 18
+caller-alias-2.sql
+V 23
+file di6.1i7.r8554/6494
+K 16
+caller-alias.sql
+V 23
+file d72.1i7.r8554/7561
+K 17
+clear-uploads.sql
+V 23
+file dws.1i7.r8554/8271
+K 12
+database.xml
+V 23
+file 7sd.1i7.r8473/9502
+K 10
+domain.sql
+V 24
+file dh4.1i7.r8554/11501
+K 17
+grandstreamV2.sql
+V 24
+file 8qf.1i7.r8554/12939
+K 12
+intercom.sql
+V 24
+file cxv.3xj.r8554/13648
+K 8
+ldap.sql
+V 24
+file cue.1i7.r8554/13298
+K 22
+long-distance-rule.sql
+V 23
+file d18.1i7.r8554/8625
+K 15
+migrate-2.8.sql
+V 23
+file 8ba.1i7.r8554/8984
+K 21
+model-refactoring.sql
+V 24
+file dm6.1i7.r8554/10058
+K 23
+park-orbit-settings.sql
+V 24
+file d50.1i7.r8554/12211
+K 14
+permission.sql
+V 23
+file d3b.1i7.r8554/7208
+K 13
+phonebook.sql
+V 23
+file dnu.1i7.r8554/5404
+K 14
+schema-3.0.sql
+V 23
+file 9fo.1i7.r8554/9701
+K 10
+schema.sql
+V 24
+file 7se.1i7.r7935/22417
+K 24
+settings-refactoring.sql
+V 24
+file c6r.1i7.r8554/10424
+K 13
+speeddial.sql
+V 23
+file dx2.1i7.r8554/7917
+K 14
+supervisor.sql
+V 23
+file cui.1i7.r8554/5049
+K 10
+upload.sql
+V 23
+file 8n3.2cd.r8554/5758
+K 19
+upload_deployed.sql
+V 24
+file 90n.1i7.r8554/12577
+END
+ENDREP
+id: 7sc.1i7.r8554/15329
+type: dir
+pred: 7sc.1i7.r8473/11166
+count: 105
+text: 8554 13953 1363 1363 0a6b79834300defe36268329d16b0059
+cpath: /main/sipXconfig/neoconf/etc/database
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 20
+VM_global_library.vm
+V 22
+file 52h.0.r3874/38018
+K 3
+acd
+V 23
+dir e0s.1i7.r8553/94524
+K 4
+acme
+V 23
+dir c0i.1i7.r6700/57384
+K 9
+acmePhone
+V 24
+dir 8og.568.r7716/132172
+K 10
+audiocodes
+V 23
+dir 5ew.1i7.r8553/88590
+K 8
+ciscoAta
+V 24
+dir 8nt.1i7.r7716/130355
+K 7
+ciscoIp
+V 23
+dir 8o5.1i7.r8553/95315
+K 10
+commserver
+V 23
+dir 59q.1i7.r8553/91952
+K 8
+database
+V 23
+dir 7sc.1i7.r8554/15329
+K 8
+dialplan
+V 23
+dir d66.1i7.r7988/29806
+K 11
+grandstream
+V 23
+dir 5bk.1i7.r8553/97986
+K 6
+kphone
+V 23
+dir 54b.1zm.r5635/24116
+K 7
+polycom
+V 23
+dir 4q0.1i7.r8553/90086
+K 11
+setting.dtd
+V 24
+file 59o.1i7.r5950/14080
+K 11
+setting.xsl
+V 26
+file 81o.1i7.r4884/5799676
+K 14
+sipxconference
+V 23
+dir 845.1i7.r5635/31340
+K 24
+sipxconfig.properties.in
+V 25
+file 52x.1wc.r8477/155309
+K 8
+sipxpark
+V 23
+dir d51.1i7.r8553/97237
+K 8
+sipxvxml
+V 23
+dir 9v4.1i7.r8553/96484
+K 4
+snom
+V 23
+dir 7wy.1i7.r8227/24137
+K 15
+topology.xml.in
+V 25
+file 7sg.1i7.r6259/116780
+K 14
+unmanagedPhone
+V 24
+dir 8og.1i7.r7716/130625
+END
+ENDREP
+id: 4pz.1i7.r8554/16543
+type: dir
+pred: 4pz.1i7.r8553/99200
+count: 388
+text: 8554 15538 992 992 bb617073144b5608462266e4346ae5b9
+cpath: /main/sipXconfig/neoconf/etc
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 10
+.classpath
+V 25
+file 4ep.1i7.r8485/315501
+K 8
+.project
+V 20
+file 4eq.0.r3924/159
+K 12
+.springBeans
+V 25
+file 4xc.1wb.r8477/155022
+K 11
+Makefile.am
+V 24
+file 4er.1i7.r4821/25188
+K 9
+build.xml
+V 25
+file 4es.1i7.r8485/321508
+K 3
+etc
+V 23
+dir 4pz.1i7.r8554/16543
+K 7
+pom.xml
+V 24
+file 90t.2qj.r7156/93386
+K 3
+src
+V 23
+dir 4ev.1i7.r8553/87811
+K 4
+test
+V 22
+dir 4g2.1i7.r8554/4772
+END
+ENDREP
+id: 4eo.1i7.r8554/17138
+type: dir
+pred: 4eo.1i7.r8553/99796
+count: 1145
+text: 8554 16741 384 384 6926cc3f799a09081e361bbd00766acd
+props: 5457 169378 129 0 2df63e856771396430f23115acac5d8b
+cpath: /main/sipXconfig/neoconf
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: e2u.1i7.r8554/17473
+type: file
+pred: e2u.1i7.r8320/307130
+count: 1
+text: 8320 192368 261 537 ba5379772ceba6c98be67798d100e9fc
+props: 8554 17391 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXconfig/report/etc/schema.sql
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 11
+Makefile.am
+V 25
+file e2s.1i7.r8553/114849
+K 10
+schema.sql
+V 24
+file e2u.1i7.r8554/17473
+K 24
+sipxconfig-report-config
+V 25
+file e2v.1i7.r8341/419693
+END
+ENDREP
+id: e2r.1i7.r8554/17910
+type: dir
+pred: e2r.1i7.r8553/115290
+count: 5
+text: 8554 17738 159 159 19058b409fd42a70e1f567a09efabe73
+props: 8346 1123 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /main/sipXconfig/report/etc
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 8
+.project
+V 25
+file e2j.1i7.r8320/303237
+K 11
+Makefile.am
+V 25
+file e2k.1i7.r8553/114505
+K 6
+README
+V 25
+file e2m.1i7.r8320/307705
+K 3
+bin
+V 24
+dir e2n.1i7.r8553/114173
+K 3
+etc
+V 23
+dir e2r.1i7.r8554/17910
+K 3
+src
+V 24
+dir e2w.1i7.r8553/113456
+END
+ENDREP
+id: e2i.1i7.r8554/18425
+type: dir
+pred: e2i.1i7.r8553/115806
+count: 10
+text: 8554 18161 251 251 343ce29bf28afbc88d27615f5350f412
+props: 8346 1679 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /main/sipXconfig/report
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 2hg.0.r3393/21790
+K 9
+ChangeLog
+V 23
+file 2hh.1i7.r8444/1098
+K 7
+INSTALL
+V 24
+file 2hi.1i7.r5443/27201
+K 7
+LICENSE
+V 23
+file 2hj.0.r3393/851332
+K 11
+Makefile.am
+V 23
+file 2hk.1i7.r8391/1687
+K 4
+NEWS
+V 23
+file 2hl.0.r3393/808567
+K 6
+README
+V 24
+file 2hm.1i7.r5365/24861
+K 4
+TODO
+V 22
+file 2hn.0.r4025/58643
+K 5
+agent
+V 24
+dir bzs.1i7.r8553/101895
+K 14
+ant-targets.am
+V 25
+file 2hp.1i7.r4886/145328
+K 15
+ant-targets.xml
+V 23
+file 2hq.1i7.r7515/1810
+K 3
+bin
+V 24
+dir 4bz.1i7.r7320/102325
+K 19
+build.properties.in
+V 25
+file 81e.1i7.r8477/157485
+K 9
+build.xml
+V 24
+file 4h8.1i7.r7084/25785
+K 6
+config
+V 24
+file d3l.1i7.r7274/26681
+K 12
+configure.ac
+V 23
+file 2jg.1i7.r8444/1347
+K 16
+dependencies.xml
+V 21
+file 5d9.1i7.r5994/45
+K 3
+doc
+V 24
+dir 2jh.1i7.r8553/107495
+K 3
+etc
+V 25
+dir 4b7.1i7.r4884/5840691
+K 3
+lib
+V 24
+dir 2jy.1i7.r8553/112686
+K 14
+lib.properties
+V 25
+file 81m.1i7.r8553/102226
+K 4
+meta
+V 22
+dir 4ea.1i7.r8553/8146
+K 7
+neoconf
+V 23
+dir 4eo.1i7.r8554/17138
+K 7
+plugins
+V 22
+dir cw4.1i7.r8553/5820
+K 7
+pom.xml
+V 25
+file 90w.2qr.r6329/204642
+K 23
+profilepub_sipagent.dsp
+V 22
+file 4b5.1i7.r4929/429
+K 6
+report
+V 23
+dir e2i.1i7.r8554/18425
+K 18
+sipxconfig.spec.in
+V 24
+file 4bh.1i7.r8463/10721
+K 18
+subant-targets.xml
+V 24
+file 4h9.1i7.r7084/26035
+K 3
+web
+V 24
+dir 4l5.1i7.r8553/308998
+K 15
+web-targets.xml
+V 24
+file 8uq.1i7.r5770/11880
+END
+ENDREP
+id: 2hf.1i7.r8554/20061
+type: dir
+pred: 2hf.1i7.r8553/310638
+count: 2112
+text: 8554 18673 1375 1375 b53b607bc790303d57588687f4353642
+props: 8259 11135 976 0 a59d1f6e66a64b4243ae9af085ca4a2b
+cpath: /main/sipXconfig
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 11
+Makefile.in
+V 23
+file d0m.421.r8463/2590
+K 5
+build
+V 22
+file d5a.0.r7664/15661
+K 14
+buildmsvs6.bat
+V 20
+file dm4.683.r8357/0
+K 6
+config
+V 21
+dir 91.1i4.r8463/9331
+K 12
+configure.ac
+V 21
+file d0n.0.r8471/1110
+K 16
+dependencies.mak
+V 20
+file dxw.0.r8471/894
+K 3
+lib
+V 20
+dir cyn.0.r8515/2923
+K 4
+meta
+V 20
+dir e8u.0.r8463/4227
+K 9
+sipXb2bua
+V 21
+dir dau.0.r7967/44454
+K 11
+sipXcallLib
+V 23
+dir va.1i5.r8539/139776
+K 17
+sipXcommserverLib
+V 24
+dir 1qo.1i6.r8539/200908
+K 10
+sipXconfig
+V 23
+dir 2hf.1i7.r8554/20061
+K 19
+sipXmediaAdapterLib
+V 21
+dir 89s.0.r8363/16089
+K 12
+sipXmediaLib
+V 23
+dir mz.1i8.r8539/196231
+K 7
+sipXpbx
+V 24
+dir 5g6.1i9.r8539/121327
+K 11
+sipXportLib
+V 20
+dir 3.1ib.r8539/1972
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r8539/3789
+K 13
+sipXpublisher
+V 24
+dir 20n.1id.r8539/123536
+K 12
+sipXregistry
+V 24
+dir 1y5.1ie.r8539/198822
+K 11
+sipXtackLib
+V 23
+dir dk.1if.r8539/203578
+K 9
+sipXtools
+V 20
+dir dtl.0.r8363/9820
+K 8
+sipXvxml
+V 23
+dir 22d.1ig.r8539/14682
+K 10
+top.mak.in
+V 21
+file d5l.0.r7330/2797
+END
+ENDREP
+id: 7q4.0.r8554/21334
+type: dir
+pred: 7q4.0.r8553/311913
+count: 2298
+text: 8554 20308 1013 1013 b1777ab63e500fb4e8c9674776ba4da6
+props: 8476 3074 2693 0 5e926a6675ce8e7eb6fbb8d90c68916d
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r8550/4235
+K 4
+main
+V 21
+dir 7q4.0.r8554/21334
+K 4
+tags
+V 20
+dir 7q5.0.r8544/3180
+END
+ENDREP
+id: 0.0.r8554/21675
+type: dir
+pred: 0.0.r8553/312256
+count: 8554
+text: 8554 21548 114 114 f7503508d39f17c389966af7edf144ad
+cpath: /
+copyroot: 0 /
+
+dm6.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/model-refactoring.sql
+
+c6r.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/settings-refactoring.sql
+
+9v3.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/attendant_settings.sql
+
+e8x.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/blf.sql
+
+e63.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/acd/stats/history-seed.sql
+
+dh4.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/domain.sql
+
+e10.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/acd_ext.sql
+
+d50.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/park-orbit-settings.sql
+
+90n.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/upload_deployed.sql
+
+8qf.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/grandstreamV2.sql
+
+cue.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/ldap.sql
+
+cxv.3xj.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/intercom.sql
+
+e2u.1i7.t8553-1 modify false true /main/sipXconfig/report/etc/schema.sql
+
+cui.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/supervisor.sql
+
+dnu.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/phonebook.sql
+
+8n3.2cd.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/upload.sql
+
+e0y.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/acd.sql
+
+di6.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/caller-alias-2.sql
+
+e0z.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/acd_agents.sql
+
+d3b.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/permission.sql
+
+d72.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/caller-alias.sql
+
+dx2.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/speeddial.sql
+
+dws.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/clear-uploads.sql
+
+d18.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/long-distance-rule.sql
+
+8ba.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/migrate-2.8.sql
+
+8ty.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/attendant_schedule.sql
+
+9fo.1i7.t8553-1 modify false true /main/sipXconfig/neoconf/etc/database/schema-3.0.sql
+
+
+21675 21822

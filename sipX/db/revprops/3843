@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-04-27T14:50:38.063842Z
+K 7
+svn:log
+V 169
+XPB-259 partial integration of autoattendant with internal dialing rules.  add patch hook to add operator on system initialization and applying a particular patch number
+END

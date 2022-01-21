@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-18T23:27:06.260574Z
+K 7
+svn:log
+V 567
+XCF-1209 declare park time-out as required settings
+- fix requiredEnabled parameter in SettingsEditor - due to incorrect parameter name (was: isRequiredEnabled should be: requiredEnabled) this never worked correctly,
+- added explicit "requiredEnabled=false" to EditPhoneDefaults, EditAttendantDefaults and EditOrbitDefaults screen.
+
+The initial goal of requiredEnabled was disabling 'required' validator for group screens (on group levels all paramters are optional), but since it was requiredEnabled never worked properly we did not bother to pass this parameter. 
+
+
+END

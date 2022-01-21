@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-04-24T20:03:11.463592Z
+K 7
+svn:log
+V 715
+Made MpTologyGraph and CpTolopogyInterface work with RTP:
+  Changed MpResource to inherit from UtlString instead of UtlContainable
+  so that it could be found by name.
+
+  Fixed a few arguments to take const UtlString& instead of UtlString&
+
+  Implemented the MpTopologyGraph::addResources method to add resources and
+  link them into an existing flowgraph with resources already in it.  Refactored 
+  some of the common code with adding resources and links to a new/empty flowgraph.
+
+  Moved synchronize from MpCallFlowGraph to MpFlowGraphBase
+
+  Added resource constructors for MpRtpInputAudioConnection and 
+  MpRtpOutputAudioConnection
+
+  Created default incremental resource topology for creating connections.
+
+
+END

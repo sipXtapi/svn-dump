@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-07-18T18:19:32.422373Z
+K 7
+svn:log
+V 160
+fix for [XSL-104] ?
+Michal says that changing the logging eliminates the leak on his
+systems.  Stranger things have been true, and it certainly looks
+harmless.
+
+END

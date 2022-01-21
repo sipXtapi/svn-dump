@@ -1,0 +1,213 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: av.0.r431/82
+type: file
+pred: av.0.r380/2008
+count: 3
+text: 350 178 129 2703 b2f77b5549a73c84123bf81082c599f9
+props: 431 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/config/sipX-config.in
+copyroot: 0 /
+
+PLAIN
+K 18
+apache_version.awk
+V 18
+file aw.0.r380/398
+K 10
+general.m4
+V 19
+file 95.0.r420/1206
+K 22
+sipX-buildstamp.cpp.in
+V 19
+file b1.0.r380/1661
+K 20
+sipX-buildstamp.h.in
+V 17
+file b2.0.r380/82
+K 14
+sipX-config.in
+V 17
+file av.0.r431/82
+K 17
+sipXcommon.mak.in
+V 18
+file b0.0.r422/318
+K 10
+sipXlib.m4
+V 18
+file 9a.0.r430/232
+K 15
+sipXprojtop.mak
+V 19
+file b3.0.r380/1031
+END
+ENDREP
+id: 91.0.r431/697
+type: dir
+pred: 91.0.r430/849
+count: 104
+text: 431 313 371 371 828872012ac3b6657f48d499b7f2e0ee
+props: 358 0 161 0 ebc1a9362b3b594e296e14a3a1bcf1aa
+cpath: /old/sipXportLib/main/config
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 20
+file 4.0.r381/145534
+K 9
+ChangeLog
+V 17
+file 5.0.r400/542
+K 7
+INSTALL
+V 20
+file 6.0.r381/149407
+K 7
+LICENSE
+V 19
+file 7.0.r381/20386
+K 11
+Makefile.am
+V 18
+file 8.0.r425/4063
+K 4
+NEWS
+V 20
+file 9.0.r381/150995
+K 6
+README
+V 20
+file a.0.r381/145234
+K 4
+TODO
+V 20
+file b.0.r381/149109
+K 9
+acsite.m4
+V 19
+file c.0.r381/72051
+K 3
+bin
+V 18
+dir as.0.r405/9534
+K 6
+config
+V 17
+dir 91.0.r431/697
+K 12
+configure.ac
+V 18
+file d.0.r425/2996
+K 3
+doc
+V 16
+dir ac.0.r427/98
+K 7
+include
+V 17
+dir e.0.r424/4009
+K 4
+meta
+V 18
+dir b6.0.r425/2853
+K 15
+sipXportLib.dsp
+V 19
+file 4c.0.r415/8258
+K 18
+sipXportLib.vcproj
+V 17
+file ba.0.r429/86
+K 19
+sipxportlib.spec.in
+V 19
+file aq.0.r425/4290
+K 3
+src
+V 18
+dir 4d.0.r426/3647
+K 12
+syslogviewer
+V 20
+dir 8y.0.r381/146508
+END
+ENDREP
+id: 3.0.r431/1699
+type: dir
+pred: 3.0.r430/1852
+count: 362
+text: 431 914 772 772 a6886f1f080cb19f8ae2a49e12e82ade
+props: 400 1478 398 0 91b037372b3a2f8db538cb6f519edaae
+cpath: /old/sipXportLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir ar.0.r406/12304
+K 4
+main
+V 17
+dir 3.0.r431/1699
+K 4
+tags
+V 18
+dir an.0.r399/2981
+END
+ENDREP
+id: 2.0.r431/2032
+type: dir
+pred: 2.0.r430/2186
+count: 429
+text: 431 1912 107 107 cace9c3cd39f59a093d9d4c26ebb1528
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r431/2032
+END
+ENDREP
+id: 1.0.r431/2243
+type: dir
+pred: 1.0.r430/2397
+count: 430
+text: 431 2186 44 44 12fa992170d3fa8a95e942400baa1dcf
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r431/2243
+END
+ENDREP
+id: 0.0.r431/2431
+type: dir
+pred: 0.0.r430/2585
+count: 431
+text: 431 2383 35 35 bfd8955a2b07ac8ded92e0a47a54f885
+cpath: /
+copyroot: 0 /
+
+av.0.t430-1 modify false true /old/sipXportLib/main/config/sipX-config.in
+
+
+2431 2568

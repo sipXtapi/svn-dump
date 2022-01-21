@@ -1,0 +1,136 @@
+id: 6qk.10t.r4745/0
+type: dir
+pred: 6qk.0.r4728/2869
+count: 56
+text: 4728 1964 892 892 1c75ca4539a6df33bbd0fe5d268cc461
+props: 4692 5859 492 0 de69476469c1781d770f4b6bf6a326bd
+cpath: /old/sipXphone/branches/tmp/kbrose_identity
+copyfrom: 4728 /old/sipXphone/main
+
+PLAIN
+K 15
+kbrose_identity
+V 19
+dir 6qk.10t.r4745/0
+END
+ENDREP
+id: 7n4.0.r4745/326
+type: dir
+pred: 7n4.0.r4744/0
+count: 1
+text: 4745 263 50 50 8b32ded6cb970d6528e797eb40290697
+cpath: /old/sipXphone/branches/tmp
+copyroot: 0 /
+
+PLAIN
+K 3
+tmp
+V 19
+dir 7n4.0.r4745/326
+END
+ENDREP
+id: 7n3.0.r4745/539
+type: dir
+pred: 7n3.0.r4744/135
+count: 2
+text: 4745 489 37 37 ac8605b901c44ce70a44bc7e48a34be0
+cpath: /old/sipXphone/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 7n3.0.r4745/539
+K 4
+main
+V 20
+dir 6qk.0.r4742/1919
+END
+ENDREP
+id: 6qj.0.r4745/790
+type: dir
+pred: 6qj.0.r4744/383
+count: 73
+text: 4745 700 77 77 b499aedb74316947fe4a288f6bb102a3
+cpath: /old/sipXphone
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4671/3383
+K 9
+sipXphone
+V 19
+dir 6qj.0.r4745/790
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4745/1465
+type: dir
+pred: 1.0.r4744/1058
+count: 4743
+text: 4745 943 509 509 c7f1f54de520cc925fd7718012d32b31
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4745/1465
+END
+ENDREP
+id: 0.0.r4745/1659
+type: dir
+pred: 0.0.r4744/1251
+count: 4745
+text: 4745 1610 36 36 2fd8eed532d7936c0b12b436a1e0aa8c
+cpath: /
+copyroot: 0 /
+
+6qk._0.t4744-1 add false false /old/sipXphone/branches/tmp/kbrose_identity
+4728 /old/sipXphone/main
+
+1659 1800

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-07T18:32:34.891906Z
+K 7
+svn:log
+V 299
+XCF-441 new capabilities for long distance rules:
+- any call permission - predefined or custom - can be now selected for long distance rule
+- PSTN prefix and long distance prefix can be independently specified as optional - advanced section added
+- UI updated with fields description and quick help
+
+END

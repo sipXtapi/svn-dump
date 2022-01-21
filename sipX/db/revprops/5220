@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-09-28T19:03:07.668716Z
+K 7
+svn:log
+V 766
+[XPB-376] Fix notification of voicemail.
+   http://track.sipfoundry.org/browse/XPB-376
+
+   This was caused by some changes in the handling of case sensitivity
+   in HTTP query parameters.  For backward compatibility, these
+   parameters will now usually be case insensitive (this was not
+   really right, but since we have external applications using this
+   interface, it is better to preserve compatibility than to correct
+   the usage).  There were also a number of improvements made to code
+   clarity and logging.
+
+Clarify instructions on how to clear warnings about .rpmnew files
+
+Remove extraneous print from UrlTest
+
+Correct names of NameValuePair and NameValuePairInsensitiveTest tests
+  add a unit test for hash correctness to NameValuePairInsensitiveTest
+
+END

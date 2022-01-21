@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-08-01T19:54:32.005530Z
+K 7
+svn:log
+V 116
+Fix use of the AC_ARG_WITH macro in CHECK_PCRE so that it is not sensitive to
+what order it is used in configure.ac
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-01-08T05:16:30.527142Z
+K 7
+svn:log
+V 97
+XCF-1436 - Add --remote option to install-cert.sh which uses ssh to copy and install cert/ca info
+END

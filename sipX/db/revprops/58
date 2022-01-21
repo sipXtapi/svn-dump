@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-06-12T03:47:01.296167Z
+K 7
+svn:log
+V 96
+Cleaned up linked lists,
+implemented callbacks from containers to iterators for deletion-safety
+
+END

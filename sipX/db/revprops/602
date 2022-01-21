@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-16T15:56:05.542273Z
+K 7
+svn:log
+V 45
+updated the svn:eol-style of *.m4 to native
+
+
+END

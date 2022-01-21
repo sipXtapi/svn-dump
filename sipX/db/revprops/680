@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-10-13T19:17:41.501364Z
+K 7
+svn:log
+V 236
+Fixed stack/heap corruption bug.  If the number of actual lines
+increased while calls in the middle of processing linesInArray(...),
+the code would stomp memory.  Additionally, asking for less
+lines than available caused a corruption.
+
+
+END

@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-11-27T20:58:57.478727Z
+K 7
+svn:log
+V 246
+mergefrom pingtel-main 7553
+
+Add user-comprehensible message at CRIT level if attempt to send
+e-mail notification can't contact the SMTP server.
+Add explanatory comment to the MailMessage::Send method, which was
+previously entirely undocumented.
+
+END

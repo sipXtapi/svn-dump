@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-10-14T19:17:19.598252Z
+K 7
+svn:log
+V 333
+Made MpodAlsa::disableDevice more tolerant of situations.
+It was very rigid of everything being in the "perfect" enabled state.
+Such that it would bail out of disabling sometimes, leaving the MpodAlsa
+with mIsEnabled == TRUE and no way to set it to FALSE.  Hense we get an
+assert when deleting the MpodAlsa as it is still "enabled".
+
+END

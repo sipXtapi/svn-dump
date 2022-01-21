@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-09-11T13:45:32.416611Z
+K 7
+svn:log
+V 223
+1) Minimum mic gain set to 0 -- this value will mute mic.
+2) Fixed mic gain normalization in MpCodec_getGain() -- it did something mysterious. Thanks to Kenichi Aramaki for this fix.
+3) More comments doxyfied in MpCodec.h.
+
+END

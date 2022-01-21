@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-05-03T20:04:41.186326Z
+K 7
+svn:log
+V 76
+subversion police: unix specific files should have LF as a newline character
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-10T23:33:36.979938Z
+K 7
+svn:log
+V 151
+Fix sipXmediaLib build under Windows, broken by previous build fix for Linux.
+We do not need all this network includes in MprDejitter, so remove them.
+
+END

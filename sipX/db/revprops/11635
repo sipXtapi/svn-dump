@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2010-04-01T19:40:20.422060Z
+K 7
+svn:log
+V 83
+sipXmediaLib: Replace little bit too aggressive assert with warning in the syslog.
+
+END

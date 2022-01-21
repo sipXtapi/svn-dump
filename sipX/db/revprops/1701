@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-03-30T22:34:14.521497Z
+K 7
+svn:log
+V 258
+SIPX_LINE_EVENT_UNREGISTERED is now fired right after the call to deleteLine.
+Letting the RefreshMgr fire the event was not useful, because by the time the event was received by sipXtapi, the Line Handle had been removed.
+ the Line Handle had been removed.
+
+
+END

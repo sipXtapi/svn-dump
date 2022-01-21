@@ -1,0 +1,341 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: lp.0.r889/108
+type: file
+pred: lp.0.r888/1767
+count: 5
+text: 888 0 1743 5971 d0fbc91ecf5b68c4a878307eea469752
+props: 889 0 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /old/sipXtackLib/main/siptest/src/siptest/subscribe-dialog-test
+copyroot: 0 /
+
+PLAIN
+K 15
+AuthCommand.cpp
+V 20
+file h8.0.r772/62537
+K 11
+Command.cpp
+V 20
+file h9.0.r772/65236
+K 23
+CommandMsgProcessor.cpp
+V 20
+file ha.0.r772/66241
+K 20
+CommandProcessor.cpp
+V 20
+file hb.0.r772/64895
+K 15
+ExitCommand.cpp
+V 20
+file hc.0.r772/63552
+K 15
+HelpCommand.cpp
+V 20
+file hd.0.r772/66585
+K 18
+HistoryCommand.cpp
+V 20
+file he.0.r772/62198
+K 18
+HttpGetCommand.cpp
+V 20
+file hf.0.r772/64556
+K 11
+Makefile.am
+V 19
+file hg.0.r883/1198
+K 18
+RespondCommand.cpp
+V 20
+file hh.0.r772/63887
+K 19
+RespondTemplate.cpp
+V 20
+file hi.0.r772/63212
+K 19
+SipLSendCommand.cpp
+V 20
+file hj.0.r772/65567
+K 17
+SipLogCommand.cpp
+V 20
+file hk.0.r772/67575
+K 18
+SipSendCommand.cpp
+V 20
+file hl.0.r772/62873
+K 10
+invite.txt
+V 20
+file kt.0.r772/67249
+K 12
+sipdrive.cpp
+V 20
+file hm.0.r872/12046
+K 14
+siptest-config
+V 20
+file ku.0.r772/64226
+K 21
+subscribe-dialog-test
+V 18
+file lp.0.r889/108
+END
+ENDREP
+id: h7.0.r889/1243
+type: dir
+pred: h7.0.r888/2906
+count: 20
+text: 889 359 871 871 9022a3a0800f2a19038b73b013d545b8
+props: 657 1727 67 0 165d544957006b64966a2387f00e09a8
+cpath: /old/sipXtackLib/main/siptest/src/siptest
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 20
+file h6.0.r772/61874
+K 7
+siptest
+V 18
+dir h7.0.r889/1243
+END
+ENDREP
+id: h5.0.r889/1572
+type: dir
+pred: h5.0.r888/3236
+count: 20
+text: 889 1476 83 83 02477f11f5f8b350bb91d129138e2035
+props: 657 2137 47 0 bf36bdb5202732a1b9a911cc1234183c
+cpath: /old/sipXtackLib/main/siptest/src
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 20
+file go.0.r772/69306
+K 7
+include
+V 19
+dir gp.0.r772/61562
+K 3
+src
+V 18
+dir h5.0.r889/1572
+END
+ENDREP
+id: gn.0.r889/1925
+type: dir
+pred: gn.0.r888/3589
+count: 20
+text: 889 1796 116 116 c8d4ab39988f1012a97a8981363f37a3
+props: 657 2549 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXtackLib/main/siptest
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 20
+file dl.0.r772/70283
+K 9
+ChangeLog
+V 18
+file dm.0.r789/484
+K 7
+INSTALL
+V 20
+file dn.0.r772/76238
+K 7
+LICENSE
+V 18
+file do.0.r772/718
+K 11
+Makefile.am
+V 17
+file dp.0.r868/40
+K 4
+NEWS
+V 20
+file dq.0.r772/79111
+K 6
+README
+V 20
+file dr.0.r772/69980
+K 4
+TODO
+V 20
+file ds.0.r772/75936
+K 9
+acsite.m4
+V 20
+file dt.0.r772/28655
+K 14
+ant-targets.am
+V 18
+file du.0.r845/346
+K 15
+ant-targets.xml
+V 20
+file dv.0.r772/55675
+K 17
+basicimclient.dsp
+V 20
+file le.0.r836/15925
+K 3
+bin
+V 17
+dir l0.0.r866/351
+K 20
+config.properties.in
+V 20
+file dz.0.r772/75620
+K 12
+configure.ac
+V 19
+file e0.0.r861/3376
+K 3
+doc
+V 16
+dir e1.0.r846/86
+K 8
+examples
+V 17
+dir lf.0.r846/756
+K 7
+include
+V 19
+dir e5.0.r880/15260
+K 3
+lib
+V 20
+dir gh.0.r650/115439
+K 4
+meta
+V 18
+dir l6.0.r821/1857
+K 15
+sipXtackLib.dsp
+V 17
+file gj.0.r859/70
+K 18
+sipXtackLib.vcproj
+V 19
+file ld.0.r854/1526
+K 15
+siplog2siptrace
+V 18
+dir gk.0.r792/8312
+K 7
+siptest
+V 18
+dir gn.0.r889/1925
+K 11
+siptest.dsp
+V 18
+file kv.0.r833/154
+K 9
+sipviewer
+V 19
+dir hn.0.r772/86823
+K 19
+sipxtacklib.spec.in
+V 18
+file kw.0.r841/859
+K 3
+src
+V 19
+dir i8.0.r884/11433
+K 15
+syslog2siptrace
+V 17
+dir kk.0.r811/838
+END
+ENDREP
+id: dk.0.r889/3323
+type: dir
+pred: dk.0.r888/4987
+count: 206
+text: 889 2147 1163 1163 059ed0f5806ccf396798c9ff991f7b23
+props: 877 0 762 0 b98f5577485cd6d9eee5e3198f901fde
+cpath: /old/sipXtackLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir kz.0.r878/6151
+K 4
+main
+V 18
+dir dk.0.r889/3323
+K 4
+tags
+V 18
+dir kr.0.r887/2314
+END
+ENDREP
+id: dj.0.r889/3658
+type: dir
+pred: dj.0.r888/5322
+count: 290
+text: 889 3538 107 107 54f27e5109aa59630845fa1db4f9ac65
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 18
+dir dj.0.r889/3658
+END
+ENDREP
+id: 1.0.r889/3912
+type: dir
+pred: 1.0.r888/5576
+count: 888
+text: 889 3814 85 85 4ed58bedd7adfe14a1d93995f1b5c847
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r889/3912
+END
+ENDREP
+id: 0.0.r889/4100
+type: dir
+pred: 0.0.r888/5764
+count: 889
+text: 889 4052 35 35 97d6796c8bbd96a3b7414ec14761b765
+cpath: /
+copyroot: 0 /
+
+lp.0.t888-1 modify false true /old/sipXtackLib/main/siptest/src/siptest/subscribe-dialog-test
+
+
+4100 4237

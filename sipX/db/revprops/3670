@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-18T12:05:04.325831Z
+K 7
+svn:log
+V 70
+install.html was not proper xml, generate javadocs for neoconf and web
+END

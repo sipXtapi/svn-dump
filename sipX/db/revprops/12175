@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2013-11-05T01:04:51.970588Z
+K 7
+svn:log
+V 88
+Created higher level interface binding for Android audio to support Android 4.1 and 4.2
+
+END

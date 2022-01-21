@@ -1,0 +1,198 @@
+PLAIN
+K 13
+svn:externals
+V 3
+
+
+
+
+K 10
+svn:ignore
+V 67
+Doxyfile
+Makefile
+Makefile.in
+html
+sipxpublisher
+sipxpublisher.tag
+
+END
+ENDREP
+id: 21y.0.r2694/133
+type: dir
+pred: 21y.0.r2685/895
+count: 12
+text: 2685 611 271 271 553e337182108811f6ed52efda7cc0fa
+props: 2694 0 120 0 b2fe58c289b0f17057a9e9252b5065b1
+cpath: /old/sipXpublisher/main/doc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 20o.0.r2665/10756
+K 9
+ChangeLog
+V 20
+file 20p.0.r2677/179
+K 7
+INSTALL
+V 22
+file 20q.0.r2665/14101
+K 7
+LICENSE
+V 19
+file 20r.0.r2665/82
+K 11
+Makefile.am
+V 21
+file 20s.0.r2686/2612
+K 4
+NEWS
+V 22
+file 20t.0.r2665/17092
+K 6
+README
+V 22
+file 20u.0.r2665/10441
+K 4
+TODO
+V 22
+file 20v.0.r2665/13792
+K 9
+acsite.m4
+V 21
+file 20w.0.r2665/5453
+K 3
+bin
+V 19
+dir 20x.0.r2679/442
+K 12
+configure.ac
+V 20
+file 20z.0.r2692/791
+K 3
+doc
+V 19
+dir 21y.0.r2694/133
+K 3
+etc
+V 19
+dir 210.0.r2668/459
+K 7
+include
+V 20
+dir 215.0.r2674/3437
+K 4
+meta
+V 20
+dir 228.0.r2686/1984
+K 17
+sipXpublisher.dsp
+V 19
+file 21u.0.r2690/67
+K 21
+sipxpublisher.spec.in
+V 20
+file 21x.0.r2692/547
+K 3
+src
+V 20
+dir 21i.0.r2691/2229
+END
+ENDREP
+id: 20n.0.r2694/1083
+type: dir
+pred: 20n.0.r2692/2415
+count: 93
+text: 2694 354 716 716 ebb9ece6bab596c5c5653097939c2c31
+props: 2692 1754 648 0 7326991194ae239017ee371980625cd0
+cpath: /old/sipXpublisher/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 221.0.r2689/2191
+K 4
+main
+V 20
+dir 20n.0.r2694/1083
+K 4
+tags
+V 20
+dir 21v.0.r2693/1987
+END
+ENDREP
+id: 20m.0.r2694/1431
+type: dir
+pred: 20m.0.r2693/2281
+count: 146
+text: 2694 1305 113 113 d31c21c1696285b0a3b55c00bebd38e6
+cpath: /old/sipXpublisher
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2694/1431
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2694/1957
+type: dir
+pred: 1.0.r2693/2807
+count: 2693
+text: 2694 1594 350 350 1289e6931344359f74e1d9d7253fb515
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2694/1957
+END
+ENDREP
+id: 0.0.r2694/2152
+type: dir
+pred: 0.0.r2693/3002
+count: 2694
+text: 2694 2103 36 36 98a12e6ee9ef1aed48a91f242ded7c5f
+cpath: /
+copyroot: 0 /
+
+21y.0.t2693-1 modify false true /old/sipXpublisher/main/doc
+
+
+2152 2293

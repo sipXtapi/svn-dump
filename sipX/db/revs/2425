@@ -1,0 +1,192 @@
+PLAIN
+K 5
+2.5.1
+V 20
+dir 1y5.bg.r2308/198
+K 5
+2.5.2
+V 21
+dir 1y5.bh.r2316/1127
+K 12
+2.6-export-A
+V 20
+dir 1y5.bp.r2363/512
+K 12
+2.6-export-B
+V 20
+dir 1y5.bq.r2365/512
+K 12
+2.6-export-C
+V 20
+dir 1y5.bs.r2372/512
+K 12
+2.6-export-D
+V 20
+dir 1y5.bt.r2373/512
+K 12
+2.6-export-E
+V 20
+dir 1y5.bu.r2374/512
+K 12
+2.6-export-F
+V 20
+dir 1y5.bv.r2377/512
+K 12
+2.6-export-G
+V 20
+dir 1y5.bx.r2381/395
+K 12
+2.6-export-H
+V 20
+dir 1y5.by.r2385/395
+K 12
+2.6-export-J
+V 20
+dir 1y5.bz.r2386/395
+K 12
+2.6-export-K
+V 20
+dir 1y5.c0.r2389/398
+K 12
+2.6-export-L
+V 20
+dir 1y5.c1.r2392/398
+K 12
+2.6-export-M
+V 20
+dir 1y5.c2.r2393/398
+K 12
+2.6-export-N
+V 20
+dir 1y5.c3.r2394/398
+K 12
+2.6-export-O
+V 20
+dir 1y5.c4.r2406/398
+K 12
+2.6-export-P
+V 20
+dir 1y5.c5.r2407/398
+K 12
+2.6-export-Q
+V 20
+dir 1y5.c6.r2409/398
+K 12
+2.6-export-R
+V 20
+dir 1y5.c7.r2412/398
+K 12
+2.6-export-S
+V 20
+dir 1y5.c8.r2413/398
+K 12
+2.6-export-T
+V 20
+dir 1y5.c9.r2416/398
+K 12
+2.6-export-U
+V 20
+dir 1y5.cb.r2424/398
+K 5
+2.6.1
+V 20
+dir 1y5.bw.r2379/505
+K 13
+main-export-B
+V 20
+dir 1y5.bm.r2359/396
+K 13
+main-export-C
+V 20
+dir 1y5.bn.r2361/396
+END
+ENDREP
+id: 1z5.0.r2425/1096
+type: dir
+pred: 1z5.0.r2424/1792
+count: 28
+text: 2425 0 1083 1083 b2069e6668dba247b539479a8fea3431
+cpath: /old/sipXregistry/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1zf.0.r2405/1622
+K 4
+main
+V 20
+dir 1y5.0.r2423/1097
+K 4
+tags
+V 20
+dir 1z5.0.r2425/1096
+END
+ENDREP
+id: 1y4.0.r2425/1387
+type: dir
+pred: 1y4.0.r2424/2085
+count: 126
+text: 2425 1261 113 113 77be19208ed7de4f9d9128c767acaf59
+cpath: /old/sipXregistry
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2425/1387
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2425/1867
+type: dir
+pred: 1.0.r2424/2565
+count: 2424
+text: 2425 1549 305 305 9e6c900fe2f844c287a0237e9a104c70
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2425/1867
+END
+ENDREP
+id: 0.0.r2425/2062
+type: dir
+pred: 0.0.r2424/2760
+count: 2425
+text: 2425 2013 36 36 f112c2e1936640685d1dc61ec2a84206
+cpath: /
+copyroot: 0 /
+
+1y5.ca.r2420/0 delete false false /old/sipXregistry/tags/2.6.2
+
+
+2062 2203

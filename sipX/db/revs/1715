@@ -1,0 +1,385 @@
+PLAIN
+K 13
+CallManager.h
+V 22
+file vw.0.r1711/231413
+K 8
+CpCall.h
+V 22
+file vy.0.r1711/230415
+K 15
+CpCallManager.h
+V 22
+file vz.0.r1711/229402
+K 18
+CpGatewayManager.h
+V 21
+file w0.0.r1491/47829
+K 19
+CpGhostConnection.h
+V 22
+file w1.0.r1711/231664
+K 14
+CpIntMessage.h
+V 22
+file w2.0.r1711/231163
+K 18
+CpMediaInterface.h
+V 21
+file w3.0.r1665/41524
+K 22
+CpMultiStringMessage.h
+V 22
+file w6.0.r1711/229655
+K 12
+CpPeerCall.h
+V 22
+file w7.0.r1711/229913
+K 23
+CpPhoneMediaInterface.h
+V 19
+file w8.0.r1707/421
+K 17
+CpStringMessage.h
+V 22
+file w9.0.r1711/230659
+K 15
+SipConnection.h
+V 22
+file wa.0.r1711/230164
+END
+ENDREP
+id: vv.0.r1715/613
+type: dir
+pred: vv.0.r1711/232578
+count: 21
+text: 1715 0 600 600 beae49df1121bea9af1e4d3fcd5cb790
+cpath: /old/sipXcallLib/main/include/cp
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 20
+file vu.0.r1658/3804
+K 2
+cp
+V 18
+dir vv.0.r1715/613
+K 2
+ps
+V 21
+dir wi.0.r1711/237076
+K 5
+ptapi
+V 21
+dir xc.0.r1711/259444
+K 3
+tao
+V 21
+dir yz.0.r1711/245304
+K 4
+tapi
+V 22
+dir 166.0.r1711/260650
+K 4
+test
+V 20
+dir zr.0.r1491/44926
+END
+ENDREP
+id: vt.0.r1715/1054
+type: dir
+pred: vt.0.r1711/261104
+count: 65
+text: 1715 785 256 256 caa25a8251ed7ca0355ea337b7f15b94
+props: 1356 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXcallLib/main/include
+copyroot: 0 /
+
+PLAIN
+K 15
+CallManager.cpp
+V 23
+file 10t.0.r1711/266188
+K 10
+CpCall.cpp
+V 23
+file 10v.0.r1711/264666
+K 17
+CpCallManager.cpp
+V 21
+file 10w.0.r1597/1854
+K 20
+CpGatewayManager.cpp
+V 23
+file 10x.0.r1711/265421
+K 21
+CpGhostConnection.cpp
+V 23
+file 10y.0.r1711/266441
+K 16
+CpIntMessage.cpp
+V 23
+file 10z.0.r1711/265678
+K 20
+CpMediaInterface.cpp
+V 23
+file 110.0.r1711/265931
+K 24
+CpMultiStringMessage.cpp
+V 23
+file 113.0.r1711/266698
+K 14
+CpPeerCall.cpp
+V 21
+file 114.0.r1691/4588
+K 25
+CpPhoneMediaInterface.cpp
+V 22
+file 115.0.r1688/10621
+K 19
+CpStringMessage.cpp
+V 23
+file 116.0.r1711/264914
+K 17
+SipConnection.cpp
+V 23
+file 117.0.r1711/266959
+END
+ENDREP
+id: 10s.0.r1715/1928
+type: dir
+pred: 10s.0.r1711/267916
+count: 51
+text: 1715 1278 637 637 2f45426077176bf575044bb88d1e64c8
+cpath: /old/sipXcallLib/main/src/cp
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 10r.0.r1711/281946
+K 2
+cp
+V 20
+dir 10s.0.r1715/1928
+K 2
+ps
+V 22
+dir 11a.0.r1711/273834
+K 5
+ptapi
+V 22
+dir 120.0.r1711/293739
+K 3
+tao
+V 22
+dir 13m.0.r1711/281660
+K 4
+tapi
+V 22
+dir 16d.0.r1711/294650
+K 4
+test
+V 22
+dir 14c.0.r1711/264434
+END
+ENDREP
+id: 10q.0.r1715/2381
+type: dir
+pred: 10q.0.r1711/295164
+count: 137
+text: 1715 2102 266 266 805fbfe23cd96b70c824ab2144c87b83
+props: 1356 835 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /old/sipXcallLib/main/src
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file vb.0.r1491/159931
+K 9
+ChangeLog
+V 22
+file vc.0.r1711/261331
+K 7
+INSTALL
+V 22
+file vd.0.r1491/169400
+K 7
+LICENSE
+V 22
+file ve.0.r1711/229171
+K 11
+Makefile.am
+V 22
+file vf.0.r1711/300364
+K 4
+NEWS
+V 22
+file vg.0.r1491/170627
+K 6
+README
+V 22
+file vh.0.r1491/159626
+K 4
+TODO
+V 22
+file vi.0.r1491/169087
+K 9
+acsite.m4
+V 21
+file vj.0.r1491/97655
+K 3
+bin
+V 22
+dir 15f.0.r1711/299696
+K 12
+configure.ac
+V 18
+file vk.0.r1700/68
+K 3
+doc
+V 22
+dir 158.0.r1711/299064
+K 8
+examples
+V 21
+dir vl.0.r1711/321963
+K 7
+include
+V 19
+dir vt.0.r1715/1054
+K 4
+meta
+V 20
+dir 16r.0.r1602/1943
+K 15
+sipXcallLib.dsp
+V 22
+file 155.0.r1616/10743
+K 18
+sipXcallLib.vcproj
+V 23
+file 1ow.0.r1711/300017
+K 8
+sipXtapi
+V 19
+dir 1p0.0.r1664/954
+K 12
+sipXtapi.dsp
+V 21
+file 16a.0.r1621/1066
+K 12
+sipXtapi.dsw
+V 21
+file 16b.0.r1593/7616
+K 12
+sipXtapi.sln
+V 23
+file 1ok.0.r1711/295491
+K 15
+sipXtapi.vcproj
+V 23
+file 1ox.0.r1711/295821
+K 16
+sipXtapiTest.dsp
+V 21
+file 16c.0.r1593/4628
+K 19
+sipXtapiTest.vcproj
+V 23
+file 1oy.0.r1711/296158
+K 19
+sipxcalllib.spec.in
+V 20
+file 15d.0.r1649/504
+K 3
+src
+V 20
+dir 10q.0.r1715/2381
+END
+ENDREP
+id: va.0.r1715/3732
+type: dir
+pred: va.0.r1713/891
+count: 317
+text: 1715 2607 1112 1112 6e667435d0465d6fb7633d26757e99a3
+props: 1713 0 878 0 f139a26116982f67b3a5f7c4fd18ee8e
+cpath: /old/sipXcallLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 22
+dir 15e.0.r1714/251090
+K 4
+main
+V 19
+dir va.0.r1715/3732
+K 4
+tags
+V 20
+dir 156.0.r1710/2507
+END
+ENDREP
+id: v9.0.r1715/4077
+type: dir
+pred: v9.0.r1714/251389
+count: 394
+text: 1715 3950 114 114 c49436646c62ddf8345060415fb94d13
+cpath: /old/sipXcallLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1715/4077
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1715/4423
+type: dir
+pred: 1.0.r1714/251739
+count: 1714
+text: 1715 4238 172 172 d4a4a75c529b4724b47ce374b4c13462
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1715/4423
+END
+ENDREP
+id: 0.0.r1715/4620
+type: dir
+pred: 0.0.r1714/251940
+count: 1715
+text: 1715 4571 36 36 ed385ac4de306ebfd3c7e555267b5a62
+cpath: /
+copyroot: 0 /
+
+10u.0.r1711/265170 delete false false /old/sipXcallLib/main/src/cp/Connection.cpp
+
+vx.0.r1711/230912 delete false false /old/sipXcallLib/main/include/cp/Connection.h
+
+
+4620 4763

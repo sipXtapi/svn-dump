@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-23T19:08:54.763123Z
+K 7
+svn:log
+V 95
+Stop creating empty directory in source directory (from ant, not make) after running unit tests
+END

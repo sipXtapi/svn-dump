@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-03-16T21:51:14.449664Z
+K 7
+svn:log
+V 567
+[XPB-413] Clean up mediaserver_cgi zombies
+          This change actually disables persistent connection support
+          on the web server interface provided by the status server.
+          This server is called from the mediaserver_cgi (can anyone
+          suggest a way to make this _more_ complicated?).  There is
+          no performance benefit, and it seems that the connections
+          are not getting cleaned up properly.  Ultimately the httpd
+          runs out of child processes, and prompts don't play.
+    http://track.sipfoundry.org/browse/XPB-413
+
+END

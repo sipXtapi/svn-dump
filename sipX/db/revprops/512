@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-04-12T21:39:34.270086Z
+K 7
+svn:log
+V 117
+Move some of the glib header files into the glib include directory.
+Removed some of the unused glib header files.
+.
+
+
+END

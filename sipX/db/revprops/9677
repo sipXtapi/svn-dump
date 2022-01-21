@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+martin
+K 8
+svn:date
+V 27
+2007-06-12T01:10:46.924002Z
+K 7
+svn:log
+V 116
+Changes to fix lib build. Now works for FC6. Given the way the /lib build system is setup, this only works for FC6.
+
+END

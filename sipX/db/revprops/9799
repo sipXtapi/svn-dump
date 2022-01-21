@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-06T20:55:11.986459Z
+K 7
+svn:log
+V 379
+Fix call recording, as initialization was done inside crazy recording defines, but shutdown/destruction was done in all cases, leading to trying to remove a non existant output link from mpCallrecMixer.  Now the call recorder exists no matter what defines are present, even without INSERT_RECORDERS and WantRecorders (static int, directly tied to INSERT_RECORDERS) being defined.
+END

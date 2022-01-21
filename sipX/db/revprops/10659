@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2008-05-19T18:41:09.880111Z
+K 7
+svn:log
+V 203
+-added DISABLE_STREAM_PLAYER define so that sipXmediaAdapterLib can be 
+ used without requiring sipXtapiLib to be linked in
+-Note: DEFINE is required on both sipXmediaLib and sipXmediaAdapterLib projects
+END

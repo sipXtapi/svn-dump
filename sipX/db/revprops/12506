@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-10-12T02:30:50.303547Z
+K 7
+svn:log
+V 58
+Bumped number of audio devices sipXtapi knows about to 64
+
+END

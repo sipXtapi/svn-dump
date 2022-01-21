@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-11T07:26:57.938231Z
+K 7
+svn:log
+V 114
+CpTopologyGraphFactoryImpl: Add output manager to class instance, delete input and output managers in destructor.
+
+END

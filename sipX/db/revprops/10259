@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-04T04:34:50.602930Z
+K 7
+svn:log
+V 175
+Add sipXmediaLib/contrib/libspeex as an svn external.
+Note, that we use concrete version of Speex repository to take control of its update, as recommended by Subversion docs.
+
+END

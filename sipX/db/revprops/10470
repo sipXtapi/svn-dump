@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-16T19:43:10.685187Z
+K 7
+svn:log
+V 339
+Update MprFromFile to use new MpResampler resampler API.
+This also means that if sipXmediaLib is configured with speex support, then one can tell a flowgraph to play an an audio file of any sample rate.
+Previously, only downsampling was supported -- Now higher quality downsampling, and now upsampling is supported using speex's resampler.
+END

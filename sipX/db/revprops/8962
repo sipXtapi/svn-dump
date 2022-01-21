@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-03-02T22:54:17.344084Z
+K 7
+svn:log
+V 82
+XCF-985 Do not emit proxy port number in Cisco ATA profile if it is equal to 5060
+
+END

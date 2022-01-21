@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-11-19T18:43:07.497178Z
+K 7
+svn:log
+V 1438
+Properly compile under Linux without having to add any new options to 'configure'. (changes to build libamrnb,libamrwb,libspeex properly)
+
+Prior to this patch, if you configured and built, you would get errors trying to find libamrnb and libamrwb includes and libs due to them not being downloaded or compiled unless you configured each of those manually within their directories under contrib.
+
+In addition to that, speex would also not compile unless you supplied --enable-codec-speex=contrib in all cases.  It would check for speex devel package 1.1.0 being present on your system, and if so, would go ahead and use those includes and libs.  We now need what is latest in speex svn, which currently has no version number (it will probably be 1.2).  configure would also (incorrectly) continue on if it couldn't find speex, generating a makefile, which could then be used to make sipXmediaLib, and cause breakage finding speex headers -- it should just have not finished making makefiles.
+What I have it do now is:
+
+    * Check for speex >= 1.2.0 package existence on the local machine (uses some standard autoconf macros)
+    * If speex >= 1.2.0 exists, it just uses that.
+    * If speex >= 1.2.0 doesn't exist, then it falls back to configuring to build the copy in contrib
+    * If user specified to use contrib via --enable-codec-speex=contrib, it will use this even if speex 1.2.0+ is an already installed package on the system. 
+
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-12-11T12:31:38.462574Z
+K 7
+svn:log
+V 66
+Fix crash in CpPhoneMediaInterfaceTest when RTL debug is enabled.
+
+END

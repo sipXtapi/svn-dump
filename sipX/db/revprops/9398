@@ -1,0 +1,41 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-04-20T03:48:02.246687Z
+K 7
+svn:log
+V 1647
+Merged revisions 9349-9359 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main
+
+................
+  r9353 | martin | 2007-04-12 21:14:34 -0400 (Thu, 12 Apr 2007) | 2 lines
+  
+  Change lable "Files" -> "Device Files"
+................
+  r9356 | lazyboy | 2007-04-13 15:29:59 -0400 (Fri, 13 Apr 2007) | 7 lines
+  
+  NT-95 
+  1. Statistics about abandoned calls where missing because query looked at pickup time which would never be set, should be looking at terminate time
+  2. Add descriptions and help text about the report information in general and many reports for data that may not be obvisous
+  3. Fix report on total signed-in time, was much higher than it should have been due to a grouping across SQL join than cannot work in one SQL command.  I had to split agent total signin time into a separate report called 'Agent Availablity Summary' to which I added max sign in time.
+  4. Separate statistics about queue calls summary across 3 reports, calls that were answered and not answered, then finer level of details about answered and unansered into respective reports.  Again, limitation of grouping data across a join
+................
+  r9357 | lazyboy | 2007-04-13 15:59:34 -0400 (Fri, 13 Apr 2007) | 1 line
+  
+  Fix from grammatical errors on ACD historic reports descriptions
+................
+  r9358 | lazyboy | 2007-04-13 17:50:30 -0400 (Fri, 13 Apr 2007) | 1 line
+  
+  XCF-1641 supervisor page was only adding to groups list, not setting it
+................
+  r9359 | lazyboy | 2007-04-13 18:08:25 -0400 (Fri, 13 Apr 2007) | 1 line
+  
+  XCF-1635 - Allow CSV import format to drop commas for trailing columns
+................
+
+END

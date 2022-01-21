@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-02-20T20:42:11.711941Z
+K 7
+svn:log
+V 88
+Remove soap4r and http-access from dependencies as ruby 1.8.4 has capable soap4r support
+END

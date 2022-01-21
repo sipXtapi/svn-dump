@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-22T18:12:49.576333Z
+K 7
+svn:log
+V 87
+Remove TAPI library from the link, as the functionality is now in the CallLib
+library.
+
+END

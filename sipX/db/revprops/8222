@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-12-08T20:54:05.878837Z
+K 7
+svn:log
+V 174
+FIX: NullPointerException after pressing OK button on EditPermission page - 'callback' property was not persistent
+EditPermission page is now a subclass of PageWithCallback.
+
+END

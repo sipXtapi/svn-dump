@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-11T16:48:01.304831Z
+K 7
+svn:log
+V 76
+For non-win32 environment, sipXtapi APIs should be declared as extern "C".
+
+
+END

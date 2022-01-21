@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-22T21:25:07.380939Z
+K 7
+svn:log
+V 77
+Remove access to variable, known to be NULL from PidfBody::getBasicStatus().
+
+END

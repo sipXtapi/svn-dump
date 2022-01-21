@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-27T04:16:14.301313Z
+K 7
+svn:log
+V 361
+mergefrom user_dworley_redirectors2main 7789-7790
+
+Copy the remote contact address when copying information from the
+SipConnection into a SipSession.
+This allows generated dialog events to include the remote target field.
+Remove declarations of unused variables.
+
+Correct the name of an attribute of the dialog-info element -- it is
+"state" not "notify-state".
+
+END

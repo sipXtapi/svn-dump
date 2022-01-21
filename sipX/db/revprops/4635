@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-16T19:28:23.864932Z
+K 7
+svn:log
+V 59
+Fix Makefile.am so sipXpark will build with --enable-tapi.
+
+END

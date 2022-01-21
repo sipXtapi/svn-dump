@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-08-30T15:03:06.112882Z
+K 7
+svn:log
+V 107
+Support user search by aliases as well as user ID.  Sort users by last name in the users list, by default.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-04-14T15:35:34.234305Z
+K 7
+svn:log
+V 128
+XCF-333 generating emtpy permission match element for rules that do not require any permission - such as emergency dialing rule
+
+END

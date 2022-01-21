@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-09-23T14:56:02.186108Z
+K 7
+svn:log
+V 95
+FIX BUILD : comment out spec file reference AND correct typo (had sipxpbx instead of sipxproxy)
+END

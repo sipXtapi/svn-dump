@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-10-28T15:14:33.125924Z
+K 7
+svn:log
+V 253
+Fixed to allow an empty array to be a struct member.
+
+Added support for OsSocket::getDomainName() on __pingtel_on_posix__ platforms.
+
+Added constructor to support time/duration in terms of milliseconds.
+
+Initial check-in of ProvisioningAgent component.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-05-23T16:39:20.874363Z
+K 7
+svn:log
+V 68
+Custom settings editor for number, string and password implemented.
+
+END

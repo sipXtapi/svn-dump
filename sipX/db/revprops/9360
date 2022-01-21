@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-04-13T22:31:07.444776Z
+K 7
+svn:log
+V 105
+Add MpResourceTopology, MpResourceFactory, MpNull to vs2005 project.
+
+Needed for new Topology flow graph.
+END

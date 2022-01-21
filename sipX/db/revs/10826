@@ -1,0 +1,242 @@
+PLAIN
+K 13
+svn:externals
+V 55
+config https://scm.sipfoundry.org/rep/sipX/main/config
+
+K 16
+svnmerge-blocked
+V 37
+/main/sipXportLib:8363,8539,8597,8691
+K 19
+svnmerge-integrated
+V 69
+/main/sipXportLib:1-8362,8364-8538,8540-8596,8598-8690,8692-8860,8949
+END
+ENDREP
+id: bcf.7n5.r10826/262
+type: dir
+pred: bcf.0.r10805/4967
+count: 316
+text: 10805 3604 1350 1350 ed4e58bd757025b477491596ed30c705
+props: 10826 0 249 0 4dc921241e151c92556ecd0bcbddba88
+cpath: /main/sipXportLib
+copyroot: 10815 /main
+
+PLAIN
+K 13
+svn:externals
+V 55
+config https://scm.sipfoundry.org/rep/sipX/main/config
+
+END
+ENDREP
+id: e7v.7n5.r10826/589
+type: dir
+pred: e7v.0.r10789/11865
+count: 91
+text: 10789 10984 868 868 609a3be82ffbaa3d47355c4d0f47c990
+props: 10826 492 84 0 54f0ec0dcbd16c8760057026c44bea6e
+cpath: /main/sipXsdpLib
+copyroot: 10815 /main
+
+PLAIN
+K 13
+svn:externals
+V 55
+config https://scm.sipfoundry.org/rep/sipX/main/config
+
+END
+ENDREP
+id: 9wt.7n5.r10826/915
+type: dir
+pred: 9wt.0.r10791/20468
+count: 213
+text: 10791 18868 1587 1587 e2e660e3800b280360c3b6ae03631db1
+props: 10826 818 84 0 54f0ec0dcbd16c8760057026c44bea6e
+cpath: /main/sipXcallLib
+copyroot: 10815 /main
+
+PLAIN
+K 13
+svn:externals
+V 55
+config https://scm.sipfoundry.org/rep/sipX/main/config
+
+K 16
+svnmerge-blocked
+V 28
+/main/sipXmediaLib:8363,8539
+K 19
+svnmerge-integrated
+V 30
+/main/sipXmediaLib:1-7992,8309
+END
+ENDREP
+id: b40.7n5.r10826/1362
+type: dir
+pred: b40.0.r10808/3252
+count: 1122
+text: 10808 1961 1278 1278 d85a0f0e65d14256443aa851488b58a5
+props: 10826 1148 201 0 e49c2e30517c0b6eecea16b1c465f599
+cpath: /main/sipXmediaLib
+copyroot: 10815 /main
+
+PLAIN
+K 13
+svn:externals
+V 55
+config https://scm.sipfoundry.org/rep/sipX/main/config
+
+K 16
+svnmerge-blocked
+V 30
+/main/sipXmediaAdapterLib:8363
+K 19
+svnmerge-integrated
+V 37
+/main/sipXmediaAdapterLib:1-7992,8177
+END
+ENDREP
+id: b2p.7n5.r10826/1821
+type: dir
+pred: b2p.0.r10807/1832
+count: 261
+text: 10807 514 1305 1305 910b7813b505489a6f00a2a900df4c8b
+props: 10826 1598 210 0 f55065cf04168ed14d9aa0743a89e19a
+cpath: /main/sipXmediaAdapterLib
+copyroot: 10815 /main
+
+PLAIN
+K 13
+svn:externals
+V 55
+config https://scm.sipfoundry.org/rep/sipX/main/config
+
+K 16
+svnmerge-blocked
+V 37
+/main/sipXtackLib:8363,8539,8582,8758
+K 19
+svnmerge-integrated
+V 109
+/main/sipXtackLib:1-7992,8004,8063,8127,8232,8247,8274,8318,8326,8338-8340,8362,8431,8449,8526,8700,8806,8891
+END
+ENDREP
+id: boq.7n5.r10826/2365
+type: dir
+pred: boq.0.r10789/43218
+count: 194
+text: 10789 41248 1957 1957 f48b549ae7886627c16a63320d109f13
+props: 10826 2062 290 0 af18c5380977f7e8c9368c33ba05b153
+cpath: /main/sipXtackLib
+copyroot: 10815 /main
+
+PLAIN
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 14
+build_evc4.bat
+V 21
+file e6c.0.r8504/2231
+K 14
+buildmsvs6.bat
+V 22
+file dm4.66u.r9234/175
+K 6
+config
+V 20
+dir 9wj.0.r10809/719
+K 10
+readme.txt
+V 20
+file 9ws.0.r9463/434
+K 14
+sipX-msvc8.sln
+V 22
+file e73.0.r10792/3629
+K 11
+sipXcallLib
+V 22
+dir 9wt.7n5.r10826/915
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r10826/1821
+K 12
+sipXmediaLib
+V 23
+dir b40.7n5.r10826/1362
+K 11
+sipXportLib
+V 22
+dir bcf.7n5.r10826/262
+K 10
+sipXsdpLib
+V 22
+dir e7v.7n5.r10826/589
+K 11
+sipXtackLib
+V 23
+dir boq.7n5.r10826/2365
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r10826/3256
+type: dir
+pred: 9wi.7n5.r10815/0
+count: 1877
+text: 10826 2601 642 642 481dc466f695147de3c088fa13bea915
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 21
+dir fuu.0.r10825/1930
+K 4
+main
+V 23
+dir 9wi.7n5.r10826/3256
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r10826/3590
+type: dir
+pred: 0.0.r10825/2253
+count: 10826
+text: 10826 3419 158 158 1a3253c70193a12b6ee519f6f16b522e
+cpath: /
+copyroot: 0 /
+
+boq.7n5.t10825-1 modify false true /main/sipXtackLib
+
+bcf.7n5.t10825-1 modify false true /main/sipXportLib
+
+e7v.7n5.t10825-1 modify false true /main/sipXsdpLib
+
+9wt.7n5.t10825-1 modify false true /main/sipXcallLib
+
+b40.7n5.t10825-1 modify false true /main/sipXmediaLib
+
+b2p.7n5.t10825-1 modify false true /main/sipXmediaAdapterLib
+
+
+3590 3737

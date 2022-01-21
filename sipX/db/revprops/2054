@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-22T14:12:00.140565Z
+K 7
+svn:log
+V 89
+Remove properties from erroneous attempt to set up merges from branch
+2.8 to branch 2.8.
+
+END

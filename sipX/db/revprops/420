@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-02-28T02:10:53.910247Z
+K 7
+svn:log
+V 303
+Fix error messages for unfound dependencies:
+  cgicc includes: http://track.sipfoundry.org/browse/XPB-184
+  xerces c:       http://track.sipfoundry.org/browse/XPB-183
+  pcre includes:  http://track.sipfoundry.org/browse/XPB-182
+  krb5.h:         http://track.sipfoundry.org/browse/XPB-181
+  jboss conf
+
+
+END

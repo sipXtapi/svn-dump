@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-08T16:37:11.168083Z
+K 7
+svn:log
+V 167
+mergefrom pingtel-main 6182,6441
+
+Fixed the crash caused by syslog.
+http://track.sipfoundry.org/browse/XPB-565
+Log messages when getSipDialog fails.
+Improve comments.
+
+END

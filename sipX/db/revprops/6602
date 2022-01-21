@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-04-17T20:07:52.453002Z
+K 7
+svn:log
+V 205
+Surpress pkg-upgrade errors when testing a patch.  Script uses error code, and errors are not helpful nor critical.  If a patch cannot be applied, *.rpmnew files will remain as expected behavior. (eng-525)
+END

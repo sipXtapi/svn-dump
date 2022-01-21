@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-11-14T20:06:33.675244Z
+K 7
+svn:log
+V 63
+Fix Simple VAD and add API for generic VAD parameters setting.
+
+END

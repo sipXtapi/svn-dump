@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-10-14T15:48:05.721467Z
+K 7
+svn:log
+V 100
+Added sipXportLib, sipXtackLib, sipXmediaLib and sipXcall lib as externals
+to the sipXphone project
+
+END

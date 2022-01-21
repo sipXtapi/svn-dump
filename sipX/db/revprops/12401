@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-06-23T19:07:38.613530Z
+K 7
+svn:log
+V 45
+Fixed compiler warning in MprToneGenTest.cpp
+
+END

@@ -1,0 +1,78 @@
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 21
+dir 7pv.0.r4813/26770
+K 3
+3.0
+V 23
+dir 7q4.24b.r5674/11679
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 7
+restful
+V 21
+dir 7q0.0.r4813/15683
+K 23
+sipXconfig-multi-domain
+V 23
+dir 2hf.2aa.r5519/35767
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r5693/468
+type: dir
+pred: 7pt.0.r5688/34280
+count: 127
+text: 5693 0 455 455 4d47349f4ef11efa8325492d4423aaae
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 7pt.0.r5693/468
+K 4
+main
+V 21
+dir 7q4.0.r5692/20863
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r5693/747
+type: dir
+pred: 0.0.r5692/21202
+count: 5693
+text: 5693 619 115 115 56ca742550c282188d101ef90ae9d5cb
+cpath: /
+copyroot: 0 /
+
+2hf.2a8.r5572/12367 delete false false /branches/sipXconfig-lucene
+
+
+747 889

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-09-11T10:25:01.938568Z
+K 7
+svn:log
+V 89
+Refactor MprDejitter to remove unused level of indirection and implement reset() method.
+
+END

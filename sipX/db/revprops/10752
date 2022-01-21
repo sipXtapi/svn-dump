@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-08-08T17:15:15.442033Z
+K 7
+svn:log
+V 90
+UtlString::data() should be passed to OsSysLog::add() instead of Utlstring object itself.
+
+END

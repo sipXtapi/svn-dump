@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-30T21:37:16.503547Z
+K 7
+svn:log
+V 343
+Update new audio output system: now MprToOutputDevice send NULL frame to device if it have nothing to play. This is very useful in direct write mode, because output driver do not need to know - was frame pushed at last frame processing cycle or not. This also gracefully fix problems with audio quality in direct write mode in Windows driver.
+
+END

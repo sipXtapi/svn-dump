@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-09-07T19:17:43.756399Z
+K 7
+svn:log
+V 78
+Switched from using SHA1 to CRC32 for STUN footprints (disabled by default).
+
+
+END

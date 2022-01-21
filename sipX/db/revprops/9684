@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-15T12:18:40.654791Z
+K 7
+svn:log
+V 132
+RTP timestamp was not initialized correctly when INCLUDE_RTCP was defined, but no RTCP session was passed to MpRtpOutputConnection.
+
+END

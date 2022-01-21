@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-03-13T21:57:07.122620Z
+K 7
+svn:log
+V 105
+sipXtapi: Add two new events - MEDIA_PLAYFILE_FINISH and MEDIA_PLAYBUFFER_FINISH. Read docs for details.
+
+END

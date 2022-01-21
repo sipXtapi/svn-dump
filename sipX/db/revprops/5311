@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-10-11T20:26:07.891519Z
+K 7
+svn:log
+V 122
+Fix end of message detection for framed transports when there
+  is no Content-Length header
+  (submitted for Dale Worley)
+
+END

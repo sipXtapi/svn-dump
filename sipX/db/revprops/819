@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-02-26T19:07:31.852389Z
+K 7
+svn:log
+V 209
+Fix return code for SdpBody.getMediaSetAddress
+  http://track.sipfoundry.org/browse/XSL-59
+
+Add unit tests for SdpBody.getMediaSetCount and
+SdpBody.getMediaSetAddress and fix boundary condition bugs
+in both.
+
+
+END

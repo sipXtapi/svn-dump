@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-05-05T14:05:59.104431Z
+K 7
+svn:log
+V 46
+remove redundant checkstyle taskdef definition
+END

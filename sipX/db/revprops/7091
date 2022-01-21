@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-07-17T21:07:45.216419Z
+K 7
+svn:log
+V 187
+Flesh out the auto-answer UI (XCF-1114), which is still only linked to the test page since it's just a UI prototype, it doesn't do anything yet.
+Also appease checkstyle to fix the build.
+
+END

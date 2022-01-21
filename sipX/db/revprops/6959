@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-06-12T22:56:58.522917Z
+K 7
+svn:log
+V 162
+Changes needed to build PlaceCall/ReceiveCall under MacOS (and linux)
+ - Add ExternalTransport.cpp/.h to projects
+ - Add CA_LIBS (CoreAudio libs) to ReceiveCall
+
+
+END

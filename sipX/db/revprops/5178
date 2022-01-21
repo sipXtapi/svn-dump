@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+mdm2000
+K 8
+svn:date
+V 27
+2005-09-25T00:17:15.990888Z
+K 7
+svn:log
+V 45
+Changing literal -lrt to @RT_LIBS@ for OS X.
+
+END

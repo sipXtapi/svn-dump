@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-14T20:43:26.300076Z
+K 7
+svn:log
+V 68
+sipXmediaLib: Amend MpMMTimerPosix.
+Now it should work as expected.
+
+END

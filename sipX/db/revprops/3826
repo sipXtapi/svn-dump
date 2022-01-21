@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-22T18:30:55.153824Z
+K 7
+svn:log
+V 43
+Clean up svn:* properties for these files.
+
+END

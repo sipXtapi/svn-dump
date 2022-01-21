@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2009-03-25T20:22:17.854329Z
+K 7
+svn:log
+V 371
+UtlHashMap::destroy documentation was not clear as to whether you needed the
+actual key itself in order for it to destroy the entry matching the key passed
+in, or if a UtlContainable that equals ( operator== ) the key is sufficient.
+
+I ran a few tests, and determined that it is the latter, and now am committing
+changes to the doxygen documentation to make that clear.
+
+
+END

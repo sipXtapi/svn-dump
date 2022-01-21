@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+cypromis
+K 8
+svn:date
+V 27
+2006-10-03T09:23:40.970431Z
+K 7
+svn:log
+V 103
+fixes http://track.sipfoundry.org/browse/XPB-791
+java-sun has been upgraded at jpackage and sun to _09
+
+END

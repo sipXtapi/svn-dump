@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-06-24T18:29:01.778862Z
+K 7
+svn:log
+V 334
+Fix XPL-14 : require automake 1.8 or greater
+
+   In the course of putting in this check, I found a very useful
+   autoconf macro for comparing version numbers: AX_COMPARE_VERSION
+   so I added it to our general.m4; use it if you need similar
+   checks.
+
+Also put back in the obnoxious warning options for gcc, which had
+disappeared.
+
+
+END

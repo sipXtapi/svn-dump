@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-05-31T13:02:53.882586Z
+K 7
+svn:log
+V 148
+Added boolean types to setting model and allowed types to be defined at the beginning of any definition and referenced by id anywhere else in model.
+END

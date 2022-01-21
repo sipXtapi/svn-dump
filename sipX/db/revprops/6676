@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-04-27T18:33:57.381536Z
+K 7
+svn:log
+V 377
+XCF-564 Allow the following special characters in user id and in user aliases: -_.!~*'()&=+$,;?/
+This is based on unreserved and user-unreserved character sets from http://www.ietf.org/rfc/rfc3261.txt
+Use XML entities to define validation patterns so that we do not have to change it in multiple places.
+Remove validSipName validator, since it was the same as validSipUserId.
+
+
+END

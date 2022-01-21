@@ -1,0 +1,184 @@
+PLAIN
+K 5
+2.5.1
+V 20
+dir 1qo.81.r1809/199
+K 5
+2.5.2
+V 21
+dir 1qo.82.r1825/1265
+K 12
+2.6-export-A
+V 20
+dir 1qo.8f.r1908/563
+K 12
+2.6-export-B
+V 20
+dir 1qo.8g.r1911/563
+K 12
+2.6-export-C
+V 20
+dir 1qo.8h.r1918/563
+K 12
+2.6-export-D
+V 20
+dir 1qo.8i.r1919/563
+K 12
+2.6-export-E
+V 20
+dir 1qo.8j.r1920/563
+K 12
+2.6-export-F
+V 20
+dir 1qo.8k.r1924/563
+K 12
+2.6-export-G
+V 20
+dir 1qo.8m.r1929/440
+K 12
+2.6-export-H
+V 20
+dir 1qo.8n.r1931/440
+K 12
+2.6-export-J
+V 20
+dir 1qo.8o.r1934/440
+K 12
+2.6-export-K
+V 20
+dir 1qo.8p.r1940/440
+K 12
+2.6-export-L
+V 20
+dir 1qo.8q.r1941/440
+K 12
+2.6-export-M
+V 20
+dir 1qo.8r.r1942/440
+K 12
+2.6-export-N
+V 20
+dir 1qo.8s.r1943/440
+K 12
+2.6-export-O
+V 20
+dir 1qo.8u.r1955/440
+K 12
+2.6-export-P
+V 20
+dir 1qo.8v.r1956/440
+K 12
+2.6-export-Q
+V 20
+dir 1qo.8w.r1958/440
+K 12
+2.6-export-R
+V 20
+dir 1qo.8x.r1963/440
+K 12
+2.6-export-S
+V 20
+dir 1qo.8y.r1965/440
+K 12
+2.6-export-T
+V 20
+dir 1qo.8z.r1969/440
+K 12
+2.6-export-U
+V 20
+dir 1qo.91.r1974/440
+K 5
+2.6.1
+V 20
+dir 1qo.8l.r1926/556
+K 13
+main-export-B
+V 20
+dir 1qo.8c.r1903/441
+K 13
+main-export-C
+V 20
+dir 1qo.8d.r1906/441
+END
+ENDREP
+id: 1uu.0.r1975/1096
+type: dir
+pred: 1uu.0.r1974/1846
+count: 28
+text: 1975 0 1083 1083 af2a6ffd78a8166e6f0f838b88df4495
+cpath: /old/sipXcommserverLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1v5.0.r1964/2414
+K 4
+main
+V 20
+dir 1qo.0.r1972/4005
+K 4
+tags
+V 20
+dir 1uu.0.r1975/1096
+END
+ENDREP
+id: 1qn.0.r1975/1392
+type: dir
+pred: 1qn.0.r1974/2144
+count: 178
+text: 1975 1266 113 113 657ac58e16f4e20e1d637b3c4ae9b688
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r1975/1392
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1975/1793
+type: dir
+pred: 1.0.r1974/2545
+count: 1974
+text: 1975 1559 221 221 80d550e4db0f6903c043224f052aa68b
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1975/1793
+END
+ENDREP
+id: 0.0.r1975/1988
+type: dir
+pred: 0.0.r1974/2740
+count: 1975
+text: 1975 1939 36 36 56de55cde370998624fd93a08e0c32e1
+cpath: /
+copyroot: 0 /
+
+1qo.90.r1973/0 delete false false /old/sipXcommserverLib/tags/2.6.2
+
+
+1988 2129

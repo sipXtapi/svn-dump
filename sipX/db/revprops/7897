@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-31T13:27:28.282424Z
+K 7
+svn:log
+V 96
+Parts of user_dworley_redirectors2main 7682 and 7690.
+
+Get SipRedirectorJoin.{h,cpp} installed.
+
+END

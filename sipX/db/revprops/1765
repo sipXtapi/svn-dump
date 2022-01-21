@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-05-13T12:28:00.165788Z
+K 7
+svn:log
+V 100
+Added basic readmes for the sipXtapi PlaceCall and ReceiveCall examples.  Reformatted ReceiveCall.
+
+
+END

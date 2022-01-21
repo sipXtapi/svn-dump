@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-08T18:28:59.964852Z
+K 7
+svn:log
+V 142
+mergefrom pingtel-main 6587 (partial)
+
+Implement parked call retrieval by having the park server transfer 
+the original call to the executor.
+
+END

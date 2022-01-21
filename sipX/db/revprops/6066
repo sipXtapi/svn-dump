@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-02-08T21:31:00.340895Z
+K 7
+svn:log
+V 144
+Fill in missing code in RegistrarTest to test peer reachability.
+Add more error handling to SyncRpc.
+Fix a number of bugs found during testing.
+
+END

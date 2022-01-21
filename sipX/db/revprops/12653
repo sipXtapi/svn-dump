@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2018-01-30T18:36:01.210793Z
+K 7
+svn:log
+V 98
+Remove a couple of calls to Ticker->stop() that interfered with the proper shutdown of the ticker.
+END

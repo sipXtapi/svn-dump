@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-09-28T14:15:27.153684Z
+K 7
+svn:log
+V 346
+mergefrom pingtel-main 7053,7199
+
+Merge changes to the config directory from Pingtel Main.
+(Most of rev. 7199 is changes to sipXbuild, which is the Pingtel
+rel. eng. system. and not included here.)
+
+Change the 'config' subdirectories from svn:externals to symbolic links
+  (get rid of acsite.m4 by folding it into configure.as where it belonged)
+
+END

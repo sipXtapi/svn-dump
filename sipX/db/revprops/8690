@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-02-02T18:49:37.158503Z
+K 7
+svn:log
+V 145
+XPR-157 make CSE polling interval configurable, set default to 10 seconds to make monitoring active calls work reasonably well under normal load
+
+END

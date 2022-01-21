@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-10-17T12:39:38.465967Z
+K 7
+svn:log
+V 47
+Added a workaround to issue XMR-43 and XMR-41.
+
+END

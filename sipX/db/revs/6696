@@ -1,0 +1,171 @@
+PLAIN
+K 13
+svn:externals
+V 55
+config https://scm.sipfoundry.org/rep/sipX/main/config
+
+K 10
+svn:ignore
+V 302
+BUILDSTAMP
+Makefile
+Makefile.in
+SVN-VERSION
+aclocal.m4
+autom4te.cache
+bin.eclipse
+build
+build.maven
+build.properties
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxconfig-*.rpm
+sipxconfig-*.tar.gz
+sipxconfig.spec
+spy.log
+stamp-h1
+top.build.dir
+velocity.log
+config.OLD
+jsetup
+setup
+
+K 19
+svnmerge-integrated
+V 323
+/branches/2.6:1-204,218,223-251,265,314,459
+/branches/2.8:1-829,837-855,1016
+/branches/3.0/sipXconfig:1-6144
+/branches/3.2/sipXconfig:1-6508
+/branches/3.4/sipXconfig:1-6681
+/branches/lowcarb:1-1002
+/branches/sipXconfig/3.3:1-6033
+/branches/sipXconfig/post-3.3:1-6664
+/branches/user_pin:1-732
+/pingtel/main/sipXconfig:1-6074
+END
+ENDREP
+id: 2hf.1i7.r6696/777
+type: dir
+pred: 2hf.1i7.r6690/16960
+count: 1584
+text: 6690 15657 1290 1290 1f767ccbe573216ff260732d30435a06
+props: 6696 0 764 0 cbc9b4c3e607872a64523e662d7e0c7e
+cpath: /main/sipXconfig
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 7
+bbridge
+V 19
+dir 8dl.0.r6648/271
+K 5
+build
+V 20
+file 7ve.0.r6542/393
+K 6
+config
+V 21
+dir 91.1i4.r6589/1665
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 14
+resiprocateLib
+V 20
+dir 8g8.0.r5655/3734
+K 11
+sipXcallLib
+V 22
+dir va.1i5.r6690/14901
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r6690/23104
+K 10
+sipXconfig
+V 21
+dir 2hf.1i7.r6696/777
+K 19
+sipXmediaAdapterLib
+V 21
+dir 89s.0.r6690/19939
+K 12
+sipXmediaLib
+V 22
+dir mz.1i8.r6690/18530
+K 7
+sipXpbx
+V 23
+dir 5g6.1i9.r6690/11245
+K 9
+sipXphone
+V 22
+dir 6qk.1ia.r6366/8398
+K 11
+sipXportLib
+V 20
+dir 3.1ib.r6690/6612
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r6690/8129
+K 13
+sipXpublisher
+V 23
+dir 20n.1id.r6690/12779
+K 12
+sipXregistry
+V 23
+dir 1y5.1ie.r6690/21492
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r6690/25347
+K 8
+sipXvxml
+V 22
+dir 22d.1ig.r6690/9615
+END
+ENDREP
+id: 7q4.0.r6696/1823
+type: dir
+pred: 7q4.0.r6694/1094
+count: 1299
+text: 6696 1017 793 793 37d9151f6f3f6882fbd1158cb0e5ca05
+props: 6694 0 1081 0 b147a453e5e66ddd2abed903de937860
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r6695/4852
+K 4
+main
+V 20
+dir 7q4.0.r6696/1823
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6696/2155
+type: dir
+pred: 0.0.r6695/5133
+count: 6696
+text: 6696 2028 114 114 dd657a1e47503212ce331e29a73b946e
+cpath: /
+copyroot: 0 /
+
+2hf.1i7.t6695-1 modify false true /main/sipXconfig
+
+
+2155 2298

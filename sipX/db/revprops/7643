@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-03T20:18:27.739971Z
+K 7
+svn:log
+V 81
+XCF-1293 ManageDomain page was not retrieving localized message from properties.
+
+END

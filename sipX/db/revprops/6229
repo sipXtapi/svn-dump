@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-23T18:43:39.956273Z
+K 7
+svn:log
+V 531
+Change RegisterTest thread to do one round of peer resets before
+  waiting for any timers; this fixes a problem that left all
+  peers in Uninitialized state during operational phase.
+  In the process, factored the reset loop out to its own method.
+
+Changes in a few places to ensure that once in Incompatible state, a
+  peer cannot get back to any other state.
+
+Add logging at INFO and NOTICE level to confirm that synchronization
+  has been configured correctly and started working.
+
+Clarify a bunch of comments and log messages.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2005-04-08T18:23:41.920249Z
+K 7
+svn:log
+V 93
+XCF-279: adding a check for existing .rpmnew files and report them as having to be reconciled
+END

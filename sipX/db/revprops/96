@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-25T18:28:05.594835Z
+K 7
+svn:log
+V 147
+- In the INSTALL doc, updated supported/tested version of cppunit from 1.9 to 1.10.2
+- Updated comments/whitespace in UtlContainer.h/UtlVoidPtr.h
+
+
+END

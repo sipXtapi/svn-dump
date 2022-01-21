@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-11-24T17:14:43.490564Z
+K 7
+svn:log
+V 288
+Bugfix: Fix possible deadlock in MprFromNet.
+If user tries to set or reset sockets while NetInTask pushes packet to MprFromNet, it will deadlock, both sides waiting on internal MprFromNet mutex.
+So, as a solution we release internal mutex before waiting for socket operation to complete.
+
+END

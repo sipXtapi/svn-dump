@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-01-05T19:12:35.484678Z
+K 7
+svn:log
+V 373
+Changes to support BLF:
+
+mergefrom pingtel-main 7621,7627,7630,7635,7640,7642
+
+Add machinery to add a body part to a MIME multi-part body.
+Activate the test SipSubscriptionClientTest (and correct its name),
+so we can investigate XSL-146.
+Define CONTENT_TYPE_MULTIPART_RELATED and HTTP_CONTENT_ID_FIELD.
+Correct description of SipPublishContentMgr::getContent().
+Fix typos.
+
+END

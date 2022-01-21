@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-07T13:40:57.459374Z
+K 7
+svn:log
+V 175
+* MprMixer: set type of audio block after mix to UNKNOWN. There chould be VAD after mixer to detect real type.
+* Minor optimization: use MpBufPtr::swap() to exchange buffers.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-04-09T17:34:09.761829Z
+K 7
+svn:log
+V 224
+Partially revert changes introduced in revision 9125. Looks like sipXconfig cannot compute AudioCodes gateway MAC address from the gateway's serial number. sipXconfig will require user to enter device MAC address directly. 
+
+END

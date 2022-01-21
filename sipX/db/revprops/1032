@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-06-06T19:30:42.622478Z
+K 7
+svn:log
+V 448
+Fixed the transaction timeout for non-INVITE 
+SIP transactions.  The timer for non-INVITE
+transactions was being set at the same timeout
+as for INVITES (3+ minutes).  This caused some
+noise in the logs which complained about a
+transaction time out for a transaction that did
+not exist.  The non-INVITE transactions were 
+being garbage collected at the correct non-INVITE
+transaction timeout.  Hense they were gone when
+the longer timeout occured.
+
+
+END

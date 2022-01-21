@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-03-12T22:23:54.578173Z
+K 7
+svn:log
+V 156
+sipXmediaLib: Send number of recorded samples along with RECORD_STOPPED and RECORD_FINISHED notifications. This information is pushed up to sipXtapi level.
+
+END

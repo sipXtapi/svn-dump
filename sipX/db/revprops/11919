@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-05-02T01:59:32.663374Z
+K 7
+svn:log
+V 145
+Fix SipMessage::isClientMsgStrictRouted to evaluate first route not whole route field.
+  Also use Url name-addr parser for route, not addr-spec.
+
+END

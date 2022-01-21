@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2018-01-01T21:57:48.619148Z
+K 7
+svn:log
+V 81
+Fixed algorithmic delay in plgg7221
+It is not supposed to count packaging delay.
+
+END

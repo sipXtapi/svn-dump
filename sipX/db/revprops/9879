@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-19T21:58:56.116183Z
+K 7
+svn:log
+V 104
+Remove wrong condition from Cp*Interface::getCapabilities().
+Contact type will be checked later anyway.
+
+END

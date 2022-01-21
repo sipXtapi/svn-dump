@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-24T13:52:20.848581Z
+K 7
+svn:log
+V 303
+MprToNet and MprEncode resources rewrote. From now MprToNet::writeRtp() does not assume that payloadData data block have RTP header behind. It allocate new MpRtpBuf, fill its header, pack to MpUdpPacket and send its data to socket. Later we'll totally split RTP header filling from packing RTP to UDP.
+
+
+END

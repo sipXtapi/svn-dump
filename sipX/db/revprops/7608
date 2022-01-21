@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-09-29T22:45:35.615967Z
+K 7
+svn:log
+V 144
+Mark revs. 6830, 6981, and 7249 merged from 3.4.
+Their content was already merged by other paths, but the merge
+properties did not record that.
+
+END

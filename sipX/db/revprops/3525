@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-02-10T22:40:53.396703Z
+K 7
+svn:log
+V 157
+support a few skipped features: alert info, request validation, special event types and conference server.  Also fix a few labels and typos in other sections
+END

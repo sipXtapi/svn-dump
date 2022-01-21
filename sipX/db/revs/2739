@@ -1,0 +1,1276 @@
+PLAIN
+K 11
+Makefile.am
+V 22
+file 2g2.0.r2735/19790
+K 18
+OSBtrdPthreads.cpp
+V 24
+file 2g4.0.r2734/1769186
+K 15
+OSBtrdWin32.cpp
+V 24
+file 2g5.0.r2734/1768369
+END
+ENDREP
+id: 2g1.0.r2739/167
+type: dir
+pred: 2g1.0.r2737/1987
+count: 4
+text: 2739 0 154 154 cc7d64c8170d069474180733f06625f4
+props: 2737 1936 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXvxml/main/src/trd
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 2g7.0.r2735/20422
+K 9
+Value.hpp
+V 24
+file 2g9.0.r2734/1770614
+K 14
+ValueBasic.cpp
+V 24
+file 2ga.0.r2734/1769834
+K 14
+ValueNoSTL.cpp
+V 24
+file 2gb.0.r2734/1771098
+K 12
+ValueSTL.cpp
+V 24
+file 2gc.0.r2734/1770111
+END
+ENDREP
+id: 2g6.0.r2739/641
+type: dir
+pred: 2g6.0.r2737/2264
+count: 4
+text: 2739 387 241 241 029e4e132bec04be0d5d62e81efc9bff
+props: 2737 2213 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXvxml/main/src/value
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 2cv.0.r2734/1766427
+K 3
+VXI
+V 20
+dir 2cw.0.r2737/1431
+K 6
+client
+V 20
+dir 2ds.0.r2737/2543
+K 4
+inet
+V 18
+dir 2ed.0.r2737/51
+K 3
+jsi
+V 20
+dir 2f2.0.r2737/1154
+K 3
+log
+V 19
+dir 2fe.0.r2737/326
+K 6
+prompt
+V 19
+dir 2fj.0.r2737/601
+K 3
+rec
+V 20
+dir 2fr.0.r2737/1710
+K 3
+tel
+V 19
+dir 2fx.0.r2737/879
+K 3
+trd
+V 19
+dir 2g1.0.r2739/167
+K 5
+value
+V 19
+dir 2g6.0.r2739/641
+END
+ENDREP
+id: 2cu.0.r2739/1271
+type: dir
+pred: 2cu.0.r2737/3231
+count: 4
+text: 2739 865 393 393 932ab097f5cfd0be6ce61e4d56e726b9
+props: 2737 3180 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXvxml/main/src
+copyroot: 0 /
+
+PLAIN
+K 12
+Makefile.ref
+V 24
+file 29z.0.r2734/1804298
+K 12
+makefile.win
+V 24
+file 2a0.0.r2734/1804485
+K 8
+netscape
+V 23
+dir 2a1.0.r2734/1804120
+END
+ENDREP
+id: 29x.0.r2739/1645
+type: dir
+pred: 29x.0.r2737/3503
+count: 2
+text: 2739 1490 142 142 73ebc890092becc058b7e37b7c4c16f7
+props: 2737 3452 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXvxml/main/js/src/liveconnect/classes
+copyroot: 0 /
+
+PLAIN
+K 8
+MANIFEST
+V 24
+file 29q.0.r2734/1794228
+K 12
+Makefile.ref
+V 24
+file 29s.0.r2734/1800208
+K 11
+README.html
+V 24
+file 29t.0.r2734/1805668
+K 4
+_jni
+V 23
+dir 29u.0.r2734/1791744
+K 7
+classes
+V 20
+dir 29x.0.r2739/1645
+K 6
+config
+V 23
+dir 2aa.0.r2734/1810435
+K 5
+jsj.c
+V 24
+file 2as.0.r2734/1811224
+K 7
+jsj.msg
+V 24
+file 2at.0.r2734/1812025
+K 14
+jsj_JSObject.c
+V 24
+file 2au.0.r2734/1800434
+K 15
+jsj_JavaArray.c
+V 24
+file 2av.0.r2734/1794735
+K 15
+jsj_JavaClass.c
+V 24
+file 2aw.0.r2734/1792827
+K 16
+jsj_JavaMember.c
+V 24
+file 2ax.0.r2734/1805953
+K 16
+jsj_JavaObject.c
+V 24
+file 2ay.0.r2734/1793115
+K 17
+jsj_JavaPackage.c
+V 24
+file 2az.0.r2734/1792242
+K 11
+jsj_array.c
+V 24
+file 2b0.0.r2734/1806241
+K 11
+jsj_class.c
+V 24
+file 2b1.0.r2734/1800722
+K 13
+jsj_convert.c
+V 24
+file 2b2.0.r2734/1794449
+K 11
+jsj_field.c
+V 24
+file 2b3.0.r2734/1795490
+K 10
+jsj_hash.c
+V 24
+file 2b4.0.r2734/1811789
+K 10
+jsj_hash.h
+V 24
+file 2b5.0.r2734/1790742
+K 12
+jsj_method.c
+V 24
+file 2b6.0.r2734/1810938
+K 10
+jsj_nodl.c
+V 24
+file 2b7.0.r2734/1799107
+K 13
+jsj_private.h
+V 24
+file 2b8.0.r2734/1810652
+K 15
+jsj_simpleapi.c
+V 24
+file 2b9.0.r2734/1811502
+K 11
+jsj_utils.c
+V 24
+file 2ba.0.r2734/1799971
+K 8
+jsjava.h
+V 24
+file 2bb.0.r2734/1793994
+K 8
+macbuild
+V 23
+dir 2bc.0.r2734/1798594
+K 12
+makefile.win
+V 24
+file 2bl.0.r2734/1794976
+K 30
+netscape_javascript_JSObject.h
+V 24
+file 2bm.0.r2734/1793404
+K 18
+nsCLiveconnect.cpp
+V 24
+file 2bn.0.r2734/1805377
+K 16
+nsCLiveconnect.h
+V 24
+file 2bo.0.r2734/1793706
+K 25
+nsCLiveconnectFactory.cpp
+V 24
+file 2bp.0.r2734/1799674
+K 23
+nsCLiveconnectFactory.h
+V 24
+file 2bq.0.r2734/1792532
+K 16
+nsILiveconnect.h
+V 24
+file 2br.0.r2734/1795202
+K 22
+nsISecureLiveconnect.h
+V 24
+file 2bs.0.r2734/1798813
+K 20
+nsISecurityContext.h
+V 24
+file 2bt.0.r2734/1812246
+K 11
+win32.order
+V 24
+file 2bu.0.r2734/1795727
+END
+ENDREP
+id: 29m.0.r2739/3711
+type: dir
+pred: 29m.0.r2737/5673
+count: 3
+text: 2739 1888 1810 1810 f6c3bd16eca2143e43b33c762b40976a
+props: 2737 5622 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXvxml/main/js/src/liveconnect
+copyroot: 0 /
+
+PLAIN
+K 12
+Makefile.ref
+V 24
+file 24l.0.r2734/1839716
+K 8
+e_acos.c
+V 24
+file 24m.0.r2734/1835206
+K 9
+e_acosh.c
+V 24
+file 24n.0.r2734/1819431
+K 8
+e_asin.c
+V 24
+file 24o.0.r2734/1837299
+K 9
+e_atan2.c
+V 24
+file 24p.0.r2734/1820806
+K 9
+e_atanh.c
+V 24
+file 24q.0.r2734/1830072
+K 8
+e_cosh.c
+V 24
+file 24r.0.r2734/1838118
+K 7
+e_exp.c
+V 24
+file 24s.0.r2734/1819158
+K 8
+e_fmod.c
+V 24
+file 24t.0.r2734/1828975
+K 9
+e_gamma.c
+V 24
+file 24u.0.r2734/1828700
+K 11
+e_gamma_r.c
+V 24
+file 24v.0.r2734/1839486
+K 9
+e_hypot.c
+V 24
+file 24w.0.r2734/1826330
+K 6
+e_j0.c
+V 24
+file 24x.0.r2734/1821908
+K 6
+e_j1.c
+V 24
+file 24y.0.r2734/1832829
+K 6
+e_jn.c
+V 24
+file 24z.0.r2734/1832283
+K 10
+e_lgamma.c
+V 24
+file 250.0.r2734/1824951
+K 12
+e_lgamma_r.c
+V 24
+file 251.0.r2734/1833655
+K 7
+e_log.c
+V 24
+file 252.0.r2734/1834211
+K 9
+e_log10.c
+V 24
+file 253.0.r2734/1823286
+K 7
+e_pow.c
+V 24
+file 254.0.r2734/1840209
+K 12
+e_rem_pio2.c
+V 24
+file 255.0.r2734/1833102
+K 13
+e_remainder.c
+V 24
+file 256.0.r2734/1832004
+K 9
+e_scalb.c
+V 24
+file 257.0.r2734/1834931
+K 8
+e_sinh.c
+V 24
+file 258.0.r2734/1820532
+K 8
+e_sqrt.c
+V 24
+file 259.0.r2734/1824132
+K 8
+fdlibm.h
+V 24
+file 25b.0.r2734/1819983
+K 10
+fdlibm.mak
+V 24
+file 25c.0.r2734/1827930
+K 10
+fdlibm.mdp
+V 24
+file 25d.0.r2734/1823580
+K 10
+fdlibm.plg
+V 24
+file 25e.0.r2734/1836534
+K 7
+k_cos.c
+V 24
+file 25f.0.r2734/1837573
+K 12
+k_rem_pio2.c
+V 24
+file 25g.0.r2734/1823008
+K 7
+k_sin.c
+V 24
+file 25h.0.r2734/1838392
+K 12
+k_standard.c
+V 24
+file 25i.0.r2734/1831725
+K 7
+k_tan.c
+V 24
+file 25j.0.r2734/1835755
+K 12
+makefile.win
+V 24
+file 25k.0.r2734/1834711
+K 9
+s_asinh.c
+V 24
+file 25l.0.r2734/1828425
+K 8
+s_atan.c
+V 24
+file 25m.0.r2734/1825227
+K 8
+s_cbrt.c
+V 24
+file 25n.0.r2734/1832555
+K 8
+s_ceil.c
+V 24
+file 25o.0.r2734/1837025
+K 12
+s_copysign.c
+V 24
+file 25p.0.r2734/1821630
+K 7
+s_cos.c
+V 24
+file 25q.0.r2734/1839213
+K 7
+s_erf.c
+V 24
+file 25r.0.r2734/1829798
+K 9
+s_expm1.c
+V 24
+file 25s.0.r2734/1821355
+K 8
+s_fabs.c
+V 24
+file 25t.0.r2734/1836307
+K 10
+s_finite.c
+V 24
+file 25u.0.r2734/1818882
+K 9
+s_floor.c
+V 24
+file 25v.0.r2734/1820257
+K 9
+s_frexp.c
+V 24
+file 25w.0.r2734/1825779
+K 9
+s_ilogb.c
+V 24
+file 25x.0.r2734/1827154
+K 9
+s_isnan.c
+V 24
+file 25y.0.r2734/1835480
+K 9
+s_ldexp.c
+V 24
+file 25z.0.r2734/1836750
+K 15
+s_lib_version.c
+V 24
+file 260.0.r2734/1842405
+K 9
+s_log1p.c
+V 24
+file 261.0.r2734/1838938
+K 8
+s_logb.c
+V 24
+file 262.0.r2734/1830902
+K 11
+s_matherr.c
+V 24
+file 263.0.r2734/1833934
+K 8
+s_modf.c
+V 24
+file 264.0.r2734/1831176
+K 13
+s_nextafter.c
+V 24
+file 265.0.r2734/1822181
+K 8
+s_rint.c
+V 24
+file 266.0.r2734/1829524
+K 10
+s_scalbn.c
+V 24
+file 267.0.r2734/1828149
+K 11
+s_signgam.c
+V 24
+file 268.0.r2734/1826054
+K 15
+s_significand.c
+V 24
+file 269.0.r2734/1830347
+K 7
+s_sin.c
+V 24
+file 26a.0.r2734/1840758
+K 7
+s_tan.c
+V 24
+file 26b.0.r2734/1838665
+K 8
+s_tanh.c
+V 24
+file 26c.0.r2734/1841031
+K 8
+w_acos.c
+V 24
+file 26d.0.r2734/1826880
+K 9
+w_acosh.c
+V 24
+file 26e.0.r2734/1822733
+K 8
+w_asin.c
+V 24
+file 26f.0.r2734/1827429
+K 9
+w_atan2.c
+V 24
+file 26g.0.r2734/1823857
+K 9
+w_atanh.c
+V 24
+file 26h.0.r2734/1833380
+K 8
+w_cosh.c
+V 24
+file 26i.0.r2734/1827703
+K 7
+w_exp.c
+V 24
+file 26j.0.r2734/1822460
+K 8
+w_fmod.c
+V 24
+file 26k.0.r2734/1821081
+K 9
+w_gamma.c
+V 24
+file 26l.0.r2734/1831450
+K 11
+w_gamma_r.c
+V 24
+file 26m.0.r2734/1841855
+K 9
+w_hypot.c
+V 24
+file 26n.0.r2734/1829249
+K 6
+w_j0.c
+V 24
+file 26o.0.r2734/1837846
+K 6
+w_j1.c
+V 24
+file 26p.0.r2734/1824679
+K 6
+w_jn.c
+V 24
+file 26q.0.r2734/1824407
+K 10
+w_lgamma.c
+V 24
+file 26r.0.r2734/1841579
+K 12
+w_lgamma_r.c
+V 24
+file 26s.0.r2734/1825501
+K 7
+w_log.c
+V 24
+file 26t.0.r2734/1839936
+K 9
+w_log10.c
+V 24
+file 26u.0.r2734/1826605
+K 7
+w_pow.c
+V 24
+file 26v.0.r2734/1842132
+K 13
+w_remainder.c
+V 24
+file 26w.0.r2734/1836028
+K 9
+w_scalb.c
+V 24
+file 26x.0.r2734/1840483
+K 8
+w_sinh.c
+V 24
+file 26y.0.r2734/1834484
+K 8
+w_sqrt.c
+V 24
+file 26z.0.r2734/1841305
+END
+ENDREP
+id: 24j.0.r2739/7771
+type: dir
+pred: 24j.0.r2737/5962
+count: 3
+text: 2739 3948 3810 3810 3d4a734f78b3985dd431d979a1c59f03
+props: 2737 5911 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXvxml/main/js/src/fdlibm
+copyroot: 0 /
+
+PLAIN
+K 10
+.cvsignore
+V 24
+file 247.0.r2734/1815550
+K 8
+MANIFEST
+V 24
+file 248.0.r2734/1790000
+K 11
+README.html
+V 24
+file 249.0.r2734/1846924
+K 16
+SpiderMonkey.rsp
+V 24
+file 24a.0.r2734/1862686
+K 8
+editline
+V 23
+dir 24b.0.r2734/1860210
+K 6
+fdlibm
+V 20
+dir 24j.0.r2739/7771
+K 6
+js.001
+V 24
+file 270.0.r2734/1814958
+K 4
+js.c
+V 24
+file 271.0.r2734/1818617
+K 6
+js.mak
+V 24
+file 274.0.r2734/1816252
+K 6
+js.mdp
+V 24
+file 275.0.r2734/1787139
+K 6
+js.msg
+V 24
+file 276.0.r2734/1868951
+K 9
+js3240.rc
+V 24
+file 277.0.r2734/1786373
+K 11
+jsOS240.def
+V 24
+file 278.0.r2734/1860370
+K 7
+jsapi.c
+V 24
+file 279.0.r2734/1786151
+K 7
+jsapi.h
+V 24
+file 27a.0.r2734/1787404
+K 9
+jsarena.c
+V 24
+file 27b.0.r2734/1861118
+K 9
+jsarena.h
+V 24
+file 27c.0.r2734/1862194
+K 9
+jsarray.c
+V 24
+file 27d.0.r2734/1787672
+K 9
+jsarray.h
+V 24
+file 27e.0.r2734/1788640
+K 8
+jsatom.c
+V 24
+file 27f.0.r2734/1863971
+K 8
+jsatom.h
+V 24
+file 27g.0.r2734/1866147
+K 7
+jsbit.h
+V 24
+file 27h.0.r2734/1847459
+K 8
+jsbool.c
+V 24
+file 27i.0.r2734/1849089
+K 8
+jsbool.h
+V 24
+file 27j.0.r2734/1855990
+K 9
+jsclist.h
+V 24
+file 27k.0.r2734/1860583
+K 9
+jscntxt.c
+V 24
+file 27l.0.r2734/1872385
+K 9
+jscntxt.h
+V 24
+file 27m.0.r2734/1785715
+K 10
+jscompat.h
+V 24
+file 27n.0.r2734/1861387
+K 10
+jsconfig.h
+V 24
+file 27o.0.r2734/1817540
+K 10
+jscpucfg.c
+V 24
+file 27p.0.r2734/1816730
+K 10
+jscpucfg.h
+V 24
+file 27q.0.r2734/1818078
+K 8
+jsdate.c
+V 24
+file 27r.0.r2734/1786851
+K 8
+jsdate.h
+V 24
+file 27s.0.r2734/1788209
+K 10
+jsdbgapi.c
+V 24
+file 27t.0.r2734/1869429
+K 10
+jsdbgapi.h
+V 24
+file 27u.0.r2734/1871043
+K 9
+jsdhash.c
+V 24
+file 27v.0.r2734/1869699
+K 9
+jsdhash.h
+V 24
+file 27w.0.r2734/1871312
+K 8
+jsdtoa.c
+V 24
+file 27x.0.r2734/1847725
+K 8
+jsdtoa.h
+V 24
+file 27y.0.r2734/1849356
+K 8
+jsemit.c
+V 24
+file 27z.0.r2734/1862463
+K 8
+jsemit.h
+V 24
+file 280.0.r2734/1865446
+K 7
+jsexn.c
+V 24
+file 281.0.r2734/1861656
+K 7
+jsexn.h
+V 24
+file 282.0.r2734/1863168
+K 8
+jsfile.c
+V 24
+file 283.0.r2734/1857929
+K 8
+jsfile.h
+V 24
+file 284.0.r2734/1860851
+K 10
+jsfile.msg
+V 24
+file 285.0.r2734/1788429
+K 7
+jsfun.c
+V 24
+file 286.0.r2734/1848263
+K 7
+jsfun.h
+V 24
+file 287.0.r2734/1849891
+K 6
+jsgc.c
+V 24
+file 288.0.r2734/1790207
+K 6
+jsgc.h
+V 24
+file 289.0.r2734/1815166
+K 8
+jshash.c
+V 24
+file 28a.0.r2734/1868730
+K 8
+jshash.h
+V 24
+file 28b.0.r2734/1870239
+K 8
+jsify.pl
+V 24
+file 28c.0.r2734/1846715
+K 10
+jsinterp.c
+V 24
+file 28d.0.r2734/1815757
+K 10
+jsinterp.h
+V 24
+file 28e.0.r2734/1816460
+K 11
+jslibmath.h
+V 24
+file 28f.0.r2734/1869159
+K 8
+jslock.c
+V 24
+file 28g.0.r2734/1847994
+K 8
+jslock.h
+V 24
+file 28h.0.r2734/1849623
+K 11
+jslocko.asm
+V 24
+file 28i.0.r2734/1865935
+K 8
+jslog2.c
+V 24
+file 28j.0.r2734/1856424
+K 8
+jslong.c
+V 24
+file 28k.0.r2734/1862901
+K 8
+jslong.h
+V 24
+file 28l.0.r2734/1865714
+K 8
+jsmath.c
+V 24
+file 28m.0.r2734/1870775
+K 8
+jsmath.h
+V 24
+file 28n.0.r2734/1871851
+K 7
+jsnum.c
+V 24
+file 28o.0.r2734/1872118
+K 7
+jsnum.h
+V 24
+file 28p.0.r2734/1785449
+K 7
+jsobj.c
+V 24
+file 28q.0.r2734/1786582
+K 7
+jsobj.h
+V 24
+file 28r.0.r2734/1787942
+K 10
+jsopcode.c
+V 24
+file 28s.0.r2734/1817000
+K 10
+jsopcode.h
+V 24
+file 28t.0.r2734/1818347
+K 12
+jsopcode.tbl
+V 24
+file 28u.0.r2734/1785937
+K 9
+jsosdep.h
+V 24
+file 28v.0.r2734/1867925
+K 10
+jsotypes.h
+V 24
+file 28w.0.r2734/1870506
+K 9
+jsparse.c
+V 24
+file 28x.0.r2734/1866684
+K 9
+jsparse.h
+V 24
+file 28y.0.r2734/1868193
+K 7
+jsprf.c
+V 24
+file 28z.0.r2734/1789780
+K 7
+jsprf.h
+V 24
+file 290.0.r2734/1814739
+K 9
+jsprvtd.h
+V 24
+file 291.0.r2734/1856691
+K 9
+jspubtd.h
+V 24
+file 292.0.r2734/1788908
+K 10
+jsregexp.c
+V 24
+file 293.0.r2734/1861923
+K 10
+jsregexp.h
+V 24
+file 294.0.r2734/1863434
+K 8
+jsscan.c
+V 24
+file 295.0.r2734/1789347
+K 8
+jsscan.h
+V 24
+file 296.0.r2734/1790474
+K 9
+jsscope.c
+V 24
+file 297.0.r2734/1857122
+K 9
+jsscope.h
+V 24
+file 298.0.r2734/1857661
+K 10
+jsscript.c
+V 24
+file 299.0.r2734/1816029
+K 10
+jsscript.h
+V 24
+file 29a.0.r2734/1817271
+K 11
+jsshell.msg
+V 24
+file 29c.0.r2734/1866908
+K 11
+jsshell.plg
+V 24
+file 29d.0.r2734/1856912
+K 10
+jsstddef.h
+V 24
+file 29e.0.r2734/1867656
+K 7
+jsstr.c
+V 24
+file 29f.0.r2734/1866415
+K 7
+jsstr.h
+V 24
+file 29g.0.r2734/1867120
+K 9
+jstypes.h
+V 24
+file 29h.0.r2734/1857391
+K 8
+jsutil.c
+V 24
+file 29i.0.r2734/1867388
+K 8
+jsutil.h
+V 24
+file 29j.0.r2734/1868462
+K 10
+jsxdrapi.c
+V 24
+file 29k.0.r2734/1869968
+K 10
+jsxdrapi.h
+V 24
+file 29l.0.r2734/1871581
+K 11
+liveconnect
+V 20
+dir 29m.0.r2739/3711
+K 12
+lock_SunOS.s
+V 24
+file 2bv.0.r2734/1856210
+K 8
+macbuild
+V 23
+dir 2bw.0.r2734/1865239
+K 10
+perfect.js
+V 24
+file 2c1.0.r2734/1789569
+K 11
+perlconnect
+V 21
+dir 2c2.0.r2735/32347
+K 17
+plify_jsdhash.sed
+V 24
+file 2cn.0.r2734/1789130
+K 10
+prmjtime.c
+V 24
+file 2co.0.r2734/1848818
+K 10
+prmjtime.h
+V 24
+file 2cp.0.r2734/1855720
+K 10
+resource.h
+V 24
+file 2cq.0.r2734/1863703
+K 11
+win32.order
+V 24
+file 2cr.0.r2734/1815384
+END
+ENDREP
+id: 246.0.r2739/12730
+type: dir
+pred: 246.0.r2737/10923
+count: 3
+text: 2739 8003 4714 4714 7b0d78aeda65d8dd747d68fa17c7e2bd
+cpath: /old/sipXvxml/main/js/src
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 23p.0.r2734/1877671
+K 3
+jsd
+V 23
+dir 23q.0.r2734/1785253
+K 3
+src
+V 21
+dir 246.0.r2739/12730
+END
+ENDREP
+id: 23o.0.r2739/13038
+type: dir
+pred: 23o.0.r2737/11282
+count: 3
+text: 2739 12902 123 123 870c0aba3d6225acbc88580ca4e61937
+props: 2737 11231 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXvxml/main/js
+copyroot: 0 /
+
+PLAIN
+K 7
+AUTHORS
+V 24
+file 22e.0.r2734/1740512
+K 7
+COPYING
+V 24
+file 22f.0.r2734/1778762
+K 9
+ChangeLog
+V 22
+file 22g.0.r2736/11339
+K 7
+INSTALL
+V 20
+file 22h.0.r2738/628
+K 11
+Makefile.am
+V 24
+file 22i.0.r2734/1779468
+K 4
+NEWS
+V 24
+file 22j.0.r2734/1781258
+K 6
+README
+V 24
+file 22k.0.r2734/1878221
+K 9
+acsite.m4
+V 24
+file 22l.0.r2734/1741479
+K 3
+bin
+V 23
+dir 22m.0.r2734/1779275
+K 12
+configure.ac
+V 22
+file 22o.0.r2735/10315
+K 3
+etc
+V 23
+dir 22p.0.r2734/1781110
+K 7
+include
+V 23
+dir 22u.0.r2734/1740358
+K 2
+js
+V 21
+dir 23o.0.r2739/13038
+K 4
+meta
+V 23
+dir 2cs.0.r2734/1741183
+K 3
+src
+V 20
+dir 2cu.0.r2739/1271
+END
+ENDREP
+id: 22d.0.r2739/13880
+type: dir
+pred: 22d.0.r2738/1474
+count: 5
+text: 2739 13261 606 606 a6881d47536cb44bf77317fca370ca4a
+props: 2737 12126 180 0 12058b5d304b927b36c7896295e0d907
+cpath: /old/sipXvxml/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 21
+dir 22d.0.r2739/13880
+END
+ENDREP
+id: 22c.0.r2739/14153
+type: dir
+pred: 22c.0.r2738/1744
+count: 6
+text: 2739 14100 40 40 75e7bd7174e2adf7c7cf870ed5ff128e
+cpath: /old/sipXvxml
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 21
+dir 22c.0.r2739/14153
+END
+ENDREP
+id: 1.0.r2739/14712
+type: dir
+pred: 1.0.r2738/2301
+count: 2738
+text: 2739 14309 390 390 813be95ee71ddfc28abfb3ce456d381f
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 19
+dir 1.0.r2739/14712
+END
+ENDREP
+id: 0.0.r2739/14910
+type: dir
+pred: 0.0.r2738/2497
+count: 2739
+text: 2739 14860 37 37 066f5d25046091365b9b40e5a1e5c0de
+cpath: /
+copyroot: 0 /
+
+2g8.0.r2736/12143 delete false false /old/sipXvxml/main/src/value/Makefile.in
+
+29y.0.r2734/1801294 delete false false /old/sipXvxml/main/js/src/liveconnect/classes/Makefile.in
+
+29r.0.r2734/1791959 delete false false /old/sipXvxml/main/js/src/liveconnect/Makefile.in
+
+24k.0.r2734/1819706 delete false false /old/sipXvxml/main/js/src/fdlibm/Makefile.in
+
+2g3.0.r2736/11512 delete false false /old/sipXvxml/main/src/trd/Makefile.in
+
+
+14910 15053

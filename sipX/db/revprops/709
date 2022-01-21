@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-11-23T19:40:20.079944Z
+K 7
+svn:log
+V 179
+Temporarily changed the log level of a false warning SIP stack
+log message.  This is to reduce the side of the logs while I
+figure out what the corret logic is for this warning.
+
+
+END

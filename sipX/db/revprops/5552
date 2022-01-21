@@ -1,0 +1,28 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-11-10T01:38:56.088760Z
+K 7
+svn:log
+V 752
+[XRR-70] More liberal handling of explicit port numbers in URIs
+
+Some UAs insist on appending an explicit port number to the target URI
+of various requests, and this created a problem in matching them with
+(correct) usages that did not have an explicit port.
+
+The new configuration parameter SIP_REGISTRAR_PROXY_PORT can be (and
+by default is) set to the port that the proxy is listening on.  When
+set, it causes the registry/redirect server to normalize all URIs by
+stripping any explicit reference to that port.  This allows
+'sip:user@example.com' to match 'sip:user@example.com:5060' (by strict
+rules they should not).  The strict behavior can be restored by
+setting SIP_REGISTRAR_PROXY_PORT to PORT_NONE.
+
+http://track.sipfoundry.org/browse/XRR-70
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-12-18T18:37:36.772014Z
+K 7
+svn:log
+V 63
+XCF-1408 group label and group description are now localizable
+
+END

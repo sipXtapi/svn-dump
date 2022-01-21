@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-07-27T21:45:15.062136Z
+K 7
+svn:log
+V 122
+Fixed bug in sipxtacklib unittest. We created codecs with packet length set to 20000 but then checked for 11000 in assert.
+END

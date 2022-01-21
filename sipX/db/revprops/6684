@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-04-28T15:35:20.910701Z
+K 7
+svn:log
+V 319
+XCF-1012 fix for internal error after editing gateway from "select existing gateway" window
+"nextPage" property was not persistent and we were losing the name of the page to which "select gateways" was supposed to return
+it's been already fixed in mainline (3.3) - this is special 3.2 fix for older version of Tapestry
+
+END

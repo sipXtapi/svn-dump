@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-10-05T13:08:18.032798Z
+K 7
+svn:log
+V 368
+FIX: due to subtle Tapestry problem pageSize setting was ignored on phones and users page - they defaulted to 10 lines per page which is not enough in most cases
+Also: moved pageSize setting to Visit object and make Visit object to be injected from Spring - this allows admins to tweak pageSize by setting
+visit.tablePageSize property in sipxconfig.properties.in file
+
+END

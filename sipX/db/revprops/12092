@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2013-03-05T19:39:30.963343Z
+K 7
+svn:log
+V 122
+Fix some debug/OsSysLog messages; includes fixing a misplaced ) in an if test (which only affected the following OsSysLog)
+END

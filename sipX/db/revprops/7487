@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-09-15T18:31:16.516523Z
+K 7
+svn:log
+V 645
+Copy the changes in Url and UrlTest (along with edits to integrate
+with changes between the branches) from Pingel Main branch
+dworley-URI-parsing so we can continue developing those changes based
+on SIPfoundry Main.
+
+svn merge -r 6958:6959 https://paradise.pingtel.com/rep/sipX/pingtel/branches/dworley-URI-parsing .
+
+Rev 6959 was the only substantive change on that branch.  Its comment is:
+
+    First checkpoint of revision to the URI parsing routines, and
+    corresponding changes to the unit tests.
+
+    Note that this code does not work -- Some of the tests are incorrect,
+    and some fail.  The parsing routines are not fully corrected.
+
+END

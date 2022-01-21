@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2009-08-29T17:42:46.493332Z
+K 7
+svn:log
+V 45
+Fix for flashing PIP background/camera image
+
+END

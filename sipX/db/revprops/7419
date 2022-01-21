@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-06T14:47:39.324125Z
+K 7
+svn:log
+V 160
+XCF-1229 standard build system will now properly build and install hitachi plugin
+(that also means that the build will be broken until hitachi tests are fixed)
+
+END

@@ -1,0 +1,69 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-03-19T17:07:05.684496Z
+K 7
+svn:log
+V 2248
+Merge in from Sipfoundry/main up to rev 6402.
+
+Fixed some linux compiler errors and warnings and added
+the SIP Subscribe Clinet, Server and RefreshManager unit
+tests to the linux build.
+
+Added presence parameters
+
+Recovered and updated some of the MSVS .dsp files
+
+Added conditional support for long long for compiler platforms
+that do not support long long.
+
+Set disabled long long on MSVS 6.
+
+Fixed some of the build problems in sipXphone on linux.
+
+XCF-949 Use copytruncate on sipxconfig.log only
+XCF-949 Comment typo
+XCF-949 Comment typo
+
+XCF-955 Use log4j instead of jetty's logger, this is not the fix, but just a stepping stone
+
+XCF-955 Extend log4j file appender to refresh log file handle on USR2 OS signal
+
+XCF-955 Send USR2 messages from logrotate script
+
+[XPB-413] Clean up mediaserver_cgi zombies
+          This change actually disables persistent connection support
+          on the web server interface provided by the status server.
+          This server is called from the mediaserver_cgi (can anyone
+          suggest a way to make this _more_ complicated?).  There is
+          no performance benefit, and it seems that the connections
+          are not getting cleaned up properly.  Ultimately the httpd
+          runs out of child processes, and prompts don't play.
+    http://track.sipfoundry.org/browse/XPB-413
+
+- added EnumFormat - supports localized display of "commons" Enum objects 
+- added MillisDurationFormat - supports human readable display of duration expressed in millis (i.e. something like 10 hours, 5 minutes)
+- added AutoRefreshForm component - special form that automatically refreshes its content - you can specify interval or refresh it on demand
+
+XCF-928 - Convert date strings in unit test to local date format before comparing
+
+XCF-929 - Convert default date to local date string format before using
+
+Rollback changes, go with simple copytruncate. Quantom of time a log entry could be missed is not worth system instability:
+Did
+  svn merge -r6378:6375 .
+
+fix Tacos integration: one can actually use AJAX component
+
+remove unused properties
+
+Temporatily take the Subscribe client, server and refresh manager
+tests out of the unit test suite as they are crashing with no
+ccpunit output on some platforms.
+
+END

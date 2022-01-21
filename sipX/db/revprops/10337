@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-11-04T04:28:51.950544Z
+K 7
+svn:log
+V 213
+Add VC6 project for AMR Narrowband codec, and for plugin for AMR Narrowband codec.
+Compiles and links fine, but libamrnb project currently generates a static library instead of a DLL - which may not be desired.
+
+
+
+END

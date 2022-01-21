@@ -1,0 +1,140 @@
+PLAIN
+K 13
+svn:externals
+V 70
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.8/config
+
+K 10
+svn:ignore
+V 217
+BUILDSTAMP
+Debug
+Makefile
+Makefile.in
+Release
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxmedialib-*.rpm
+sipxmedialib-*.tar.gz
+sipxmedialib.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 56
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 12
+1-75,104,124
+K 18
+svnmerge-main-head
+V 48
+https://scm.sipfoundry.org/rep/sipXmediaLib/main
+K 18
+svnmerge-main-revs
+V 5
+1-182
+END
+ENDREP
+id: mz.5c.r1250/590
+type: dir
+pred: mz.0.r1249/6202
+count: 135
+text: 1249 5427 762 762 aa1bd67004b46abb9287756765efe021
+props: 1250 0 577 0 fd48ebdce9e88142221acbdb6ad95036
+cpath: /old/sipXmediaLib/branches/2.8
+copyfrom: 1249 /old/sipXmediaLib/main
+
+PLAIN
+K 3
+2.6
+V 20
+dir mz.4n.r1191/1373
+K 3
+2.8
+V 19
+dir mz.5c.r1250/590
+END
+ENDREP
+id: ux.0.r1250/924
+type: dir
+pred: ux.0.r1191/1682
+count: 16
+text: 1250 840 71 71 6b893a6cbe4ef3a2895785ca2634f0ad
+cpath: /old/sipXmediaLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir ux.0.r1250/924
+K 4
+main
+V 19
+dir mz.0.r1249/6202
+K 4
+tags
+V 19
+dir uq.0.r1192/3161
+END
+ENDREP
+id: my.0.r1250/1210
+type: dir
+pred: my.0.r1249/6546
+count: 183
+text: 1250 1088 109 109 a51d0615b5ffa4cd5c8f4d1638a7dc45
+cpath: /old/sipXmediaLib
+copyroot: 0 /
+
+PLAIN
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1250/1210
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1250/1513
+type: dir
+pred: 1.0.r1249/6849
+count: 1249
+text: 1250 1370 130 130 22e974fb67b54d1440fff2174d562528
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1250/1513
+END
+ENDREP
+id: 0.0.r1250/1708
+type: dir
+pred: 0.0.r1249/7044
+count: 1250
+text: 1250 1659 36 36 966e7ce42c262f2dfaba7ccce4f6da5f
+cpath: /
+copyroot: 0 /
+
+mz._0.t1249-1 add false true /old/sipXmediaLib/branches/2.8
+1249 /old/sipXmediaLib/main
+
+1708 1849

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-30T18:33:05.046092Z
+K 7
+svn:log
+V 212
+RFC 3984 compliant RTP streaming of H.264 implemented.
+Supported Single NAL Unit Mode and Non-Interleaved Mode. Interleaved Mode does not implemented -- seems like it does not make big sense for video telephony.
+
+END

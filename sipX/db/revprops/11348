@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-06-04T20:52:12.724991Z
+K 7
+svn:log
+V 77
+sipXmediaLib: Fix MprSpeexEchoCancel in several ways to make it really work.
+
+END

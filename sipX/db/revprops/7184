@@ -1,0 +1,42 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-08-04T20:07:57.573123Z
+K 7
+svn:log
+V 952
+(First test of a branch convergence methodology.)
+
+mergefrom pingtel-main 5128
+
+Add merge-logs.
+
+mergefrom pingtel-main 5836 (partial)
+
+mergefrom pingtel-cml 5511,5530,5552,5558,5622,5624,5625,5635,5647,5650
+Add code to handle the --before and --after switches, as the overall
+processing time of merge-logs is dramatically faster if --before and
+--after are handled in syslog2siptrace rather than in siptrace-merge.
+Pass the --before and --after options to syslog2siptrace, now that it
+supports them.
+Use "--" rather than "-" as the end-of-options marker.
+
+mergefrom pingtel-main 5840 (partial)
+
+mergefrom pingtel-cml 5701,5702,5712,5717,5722,5753,5782,5787,5788,5789,5790
+Change test for "--before" into test for "--after".
+
+mergefrom pingtel-main 6539
+
+Add merge-logs to the bin_SCRIPTS list so it will be installed.
+This will help people testing and debugging sipX.
+
+mergefrom pingtel-main 6561
+
+Add both merge-logs and siptrace-merge to EXTRA_DIST
+
+END

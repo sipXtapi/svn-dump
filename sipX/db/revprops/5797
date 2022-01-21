@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-12-29T18:52:48.444130Z
+K 7
+svn:log
+V 215
+Clean up comments for SipAaa::isAuthorized.  Add a documentation comment for this method explaining its current behavior, to the extent that I understand it.
+Fix a missing include directory in the test Makefile.am.
+
+END

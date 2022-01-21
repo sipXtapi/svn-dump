@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-06T20:12:10.315787Z
+K 7
+svn:log
+V 504
+mergefrom pingtel-main 5813
+
+Also, revamp SipSubscriptionMgr to create and use its own
+SipDialogMgr, rather than accepting one from its creator.  The latter
+policy appears to be more efficient, but is hard to make work well, as
+the creator doesn't know when SipSubscriptionMgr is done with the
+SipDialogMgr, and most of the time has to create a SipDialogMgr just
+for SipSubscriptionMgr.
+fixed crash in sipXtackLibTest.
+SipDialogManager is owned by the Subscription Manager, so, it should
+not be deleted.
+
+END

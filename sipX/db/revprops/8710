@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-07T12:42:16.621102Z
+K 7
+svn:log
+V 71
+Bugfix: Path to libgsm lib-file added to sipXtapi VS2003 project file.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-01-28T20:50:32.605947Z
+K 7
+svn:log
+V 119
+Optimized DMA request simulation timer to minimize jitter.
+Enabled realtime priority scheduling on MpMediaTask thread.
+
+END

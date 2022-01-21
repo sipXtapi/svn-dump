@@ -1,0 +1,167 @@
+PLAIN
+K 10
+svn:ignore
+V 10
+build.err
+
+K 25
+svnmerge-pingtel-3.3-head
+V 50
+https://paradise.pingtel.com/rep/sipX/pingtel/main
+K 25
+svnmerge-pingtel-3.3-revs
+V 51
+1-5590,5645,5954,5969,6041,6077,6139,6156,6207-6208
+K 25
+svnmerge-pingtel-3.4-head
+V 58
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/3.4
+K 25
+svnmerge-pingtel-3.4-revs
+V 6
+1-6259
+K 22
+svnmerge-sipx-3.0-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.0
+K 22
+svnmerge-sipx-3.0-revs
+V 51
+1-5315,5348,5357,5382,5417,5451,5474-5478,5508,5621
+K 22
+svnmerge-sipx-3.2-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.2
+K 22
+svnmerge-sipx-3.2-revs
+V 41
+1-6323,6368-6370,6494,6521,6587-6588,6470
+K 23
+svnmerge-sipx-main-head
+V 40
+https://scm.sipfoundry.org/rep/sipX/main
+K 23
+svnmerge-sipx-main-revs
+V 6
+1-6681
+K 30
+svnmerge-sipx-replication-head
+V 67
+https://scm.sipfoundry.org/rep/sipX/branches/sipXconfig/replication
+K 30
+svnmerge-sipx-replication-revs
+V 6
+1-5723
+K 26
+svnmerge-solaris2main-head
+V 57
+https://scm.sipfoundry.org/rep/sipX/branches/solaris_port
+K 26
+svnmerge-solaris2main-revs
+V 6
+1-6454
+END
+ENDREP
+id: 7q4.3ib.r6693/1094
+type: dir
+pred: 7q4.3ib.r6692/18560
+count: 1304
+text: 6692 17748 799 799 77cc8bcf3b365b0e44dc5c617f5c4ee7
+props: 6693 0 1081 0 e346007eaf31ca76d24c6a84be0f0336
+cpath: /branches/3.4
+copyroot: 6681 /branches/3.4
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r6684/6307
+K 3
+3.4
+V 22
+dir 7q4.3ib.r6693/1094
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 21
+dir 8q1.0.r6687/16682
+K 8
+sipXtapi
+V 24
+dir 9wi.0.r6469/22163876
+K 12
+solaris_port
+V 24
+dir 7q4.39l.r6666/116324
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r6693/1948
+type: dir
+pred: 7pt.0.r6692/19418
+count: 578
+text: 6693 1328 607 607 2c27e551f6962affb419074a2ac785ee
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r6693/1948
+K 4
+main
+V 21
+dir 7q4.0.r6690/26402
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6693/2231
+type: dir
+pred: 0.0.r6692/19704
+count: 6693
+text: 6693 2103 115 115 524968faef23f2b4bc2a9339d825f9e3
+cpath: /
+copyroot: 0 /
+
+7q4.3ib.t6692-1 modify false true /branches/3.4
+
+
+2231 2375

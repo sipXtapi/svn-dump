@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-03-06T18:01:03.057277Z
+K 7
+svn:log
+V 368
+Fixed a few bugs in MpInputDeviceDriver and MpSineWaveGeneratorDeviceDriver
+  Right now there is a lot of noisy output.  THere is still a problem with
+  regularity of feeding and reading.  THere is also still a problem with
+  the shutdown in the MpInputDeviceDriver unit test where
+  MpSineWaveGeneratorDeviceDriver does not seem to shutdown properly all
+  the time.
+
+
+END

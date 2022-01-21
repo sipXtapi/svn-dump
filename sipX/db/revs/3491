@@ -1,0 +1,145 @@
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 234
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+bin.eclipse
+build
+config.h
+config.h.in
+config.log
+config.properties
+config.status
+configure
+libtool
+sipxconfig-*.rpm
+sipxconfig-*.tar.gz
+sipxconfig.spec
+stamp-h1
+top.build.dir
+
+K 17
+svnmerge-2.6-head
+V 54
+https://scm.sipfoundry.org/rep/sipXconfig/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 29
+1-204,218,223-251,265,314,459
+K 24
+svnmerge-post-2.6.1-revs
+V 5
+1-143
+END
+ENDREP
+id: 2hf.0.r3491/542
+type: dir
+pred: 2hf.0.r3490/2691
+count: 373
+text: 3490 806 1393 1393 0e15ff0a060aa0030d9c063b335bb434
+props: 3491 0 529 0 d451b1d7da8c161fcb9a6f086630e452
+cpath: /old/sipXconfig/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 4c1.0.r3483/3466
+K 4
+main
+V 19
+dir 2hf.0.r3491/542
+K 4
+tags
+V 20
+dir 4b6.0.r3484/5074
+END
+ENDREP
+id: 2he.0.r3491/885
+type: dir
+pred: 2he.0.r3490/3039
+count: 466
+text: 3491 760 112 112 8bb7f466acfbe21be3db641fdeaddecf
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 19
+dir 2he.0.r3491/885
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3491/1486
+type: dir
+pred: 1.0.r3490/3643
+count: 3489
+text: 3491 1043 430 430 eff7726ac103625f593ecc2847a2ec7d
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3491/1486
+END
+ENDREP
+id: 0.0.r3491/1681
+type: dir
+pred: 0.0.r3490/3838
+count: 3491
+text: 3491 1632 36 36 7cdae4264203e99bdb090306a1a07d51
+cpath: /
+copyroot: 0 /
+
+2hf.0.t3490-1 modify false true /old/sipXconfig/main
+
+
+1681 1822

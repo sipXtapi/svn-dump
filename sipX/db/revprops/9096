@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-03-15T20:51:43.697542Z
+K 7
+svn:log
+V 381
+XCF-1564 fix profile generation for Grandstrem phone
+remove explicit templateName parameter from ProfileGenerator.generate method, if template name is needed (for example in case of Velocity based generators) it is passed as a part of ProfileContext
+add Phone.createContext method to allow Phone plugins to easily provide their own context without overriding generateProfile mehod
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-30T16:29:21.273196Z
+K 7
+svn:log
+V 96
+XCF-284 - Remove level.change.sip.obs setting, it's undocumented and unclear if it's safe to set
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-10-30T06:33:11.610010Z
+K 7
+svn:log
+V 123
+Add function for calculating integer square root to MpDspUtils.
+It isn't actually used anywhere in the code at the moment.
+
+END

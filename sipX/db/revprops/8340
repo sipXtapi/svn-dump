@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-12-21T22:12:23.619840Z
+K 7
+svn:log
+V 163
+mergefrom pingtel-main 7622-7623
+
+Create XmlDecimal, for appending the decimal representation of an
+integer to an XML string that is being assembled.
+Tidy coding.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-08-09T11:01:27.198635Z
+K 7
+svn:log
+V 77
+Add a couple of new functions to MpDspUtils to support audio frames scaling.
+
+END

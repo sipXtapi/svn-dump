@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2019-10-05T01:38:23.085962Z
+K 7
+svn:log
+V 184
+Removed aclocal.m4 from libopusfile as it was generated from a more recent autoconf version and
+was creating artifical dependencies on newer versions of autotools than were necessary.
+
+END

@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-08-26T03:01:56.209209Z
+K 7
+svn:log
+V 432
+Make the registry build on windows:
+  Fixed portablity issues with the reference to
+  system time by using OsTime and OsDateTime methods.
+
+  Fixed initialization of static members so that memory
+  is allocated for the member and the static is initialized
+  at startup.
+
+  Fixed the windows build so that it include all of the
+  classes need to build the registry.
+
+  Use a enum in switch case statement with requires a
+  constant.
+
+
+END

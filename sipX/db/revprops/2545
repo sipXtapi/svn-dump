@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-06-24T12:49:11.594522Z
+K 7
+svn:log
+V 138
+Report LOOKUP_ERROR_REQUEST as 403 rather than 404.
+Report any request other than SUBSCRIBE for "*allcredentials" as 403
+rather than 404.
+
+END

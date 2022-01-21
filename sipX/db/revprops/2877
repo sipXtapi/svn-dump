@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-12-07T17:20:27.280412Z
+K 7
+svn:log
+V 94
+Un-comment-out "pt_signal(SIGSEGV, sigHandler)", so SEGVs will be
+caught in the ordinary way.
+
+END

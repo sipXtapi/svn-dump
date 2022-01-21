@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-07-27T14:41:10.599034Z
+K 7
+svn:log
+V 54
+document why the makefile uses an unusual include path
+END

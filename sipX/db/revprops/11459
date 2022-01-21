@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-09-24T21:02:23.790387Z
+K 7
+svn:log
+V 116
+sipXtapi: Return error instead of asserting if SIPX_LINE_NULL is passed to sipxCallCreate() or sipxConferenceAdd().
+
+END

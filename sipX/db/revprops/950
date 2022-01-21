@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-06T14:05:45.967148Z
+K 7
+svn:log
+V 196
+Add "Accept: application/dialog-info+xml" header to the generated
+SUBSCRIBE messages.
+This isn't strictly necessary (according to the I-D), but it makes
+what we generate more strictly conformant.
+
+END

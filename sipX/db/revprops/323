@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-12-13T01:27:14.502925Z
+K 7
+svn:log
+V 168
+Add more efficient regular expression interface using UtlStrings
+Add MatchBeforeString and MatchAfterString to return
+  values from before and after the matched string
+
+END

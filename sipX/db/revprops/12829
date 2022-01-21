@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2021-06-18T16:49:23.323396Z
+K 7
+svn:log
+V 114
+Added additional error trapping and logging, fix long char error which was hanging and crashing MSVS in MpidWinMM
+
+END

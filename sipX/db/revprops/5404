@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-10-26T20:37:05.506470Z
+K 7
+svn:log
+V 132
+XCF-305 Replace xfire w/axis for SOAP support. RPC style is limiting and Document based is better, removing the attraction of xfire.
+END

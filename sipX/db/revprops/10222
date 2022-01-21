@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-09-26T15:22:40.255894Z
+K 7
+svn:log
+V 900
+speex plugin vs2005 project changes to put it more in line with speex lib
+project settings:
+
+* Compile all as C code, not C++ (release + debug targets)
+* Ignore MSVCRTD default library as speex statically links the CRT in (release + debug targets)
+* Subsystem changed from Windows to 'Not Set' - we're not making a windows application here, just a DLL. (release + debug targets)
+* Turn on more optimization (matching speex) -- full optimization, inline all inlinable functions, enable intrinsic functions, enable string pooling. (release target)
+* Turn off exception handling (release + debug targets)
+* Turn off debug information generation (release target)
+* Turn off optimization for windows 98 (release + debug targets)
+* Copy over libspeex dll itself to the sipXmediaLib/bin directory (release target) (already present in debug target)
+* Innocuous rearrangement of included C files in project.
+
+
+END

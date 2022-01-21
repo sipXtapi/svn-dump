@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-05-02T19:23:38.436161Z
+K 7
+svn:log
+V 78
+We are going to only look for the AA prompts from aa_promptsalias directory.
+
+
+END

@@ -1,0 +1,219 @@
+PLAIN
+K 13
+svn:externals
+V 89
+config https://scm.sipfoundry.org/rep/sipX/branches/bandreasen-sipXtapi-AOL-merge/config
+
+END
+ENDREP
+id: 9wt.7mo.r10726/131
+type: dir
+pred: 9wt.7mo.r10722/1519336
+count: 196
+text: 10722 1518069 1254 1254 7f4eb410314841519ce1bc8e028cab15
+props: 10726 0 118 0 f8c520b555fd9c30ce8932dd417f2526
+cpath: /branches/bandreasen-sipXtapi-AOL-merge/sipXcallLib
+copyroot: 10633 /branches/bandreasen-sipXtapi-AOL-merge
+
+PLAIN
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 5
+build
+V 23
+dir fpa.7mo.r10725/2869
+K 6
+config
+V 26
+dir 9wj.7mo.r10722/1456001
+K 7
+contrib
+V 26
+dir f7s.7mo.r10636/3299856
+K 31
+gips-mediaprocessing-msvc71.sln
+V 27
+file fpr.7mo.r10722/1454954
+K 10
+readme.txt
+V 20
+file 9ws.0.r9463/434
+K 11
+sipXcallLib
+V 22
+dir 9wt.7mo.r10726/131
+K 12
+sipXmediaLib
+V 26
+dir b40.7mo.r10722/1615276
+K 18
+sipXmediaPluginMgr
+V 26
+dir b2p.7my.r10722/1542353
+K 20
+sipXmediaVoiceEngine
+V 26
+dir fsd.7mo.r10722/1448226
+K 11
+sipXportLib
+V 26
+dir bcf.7mo.r10722/1424523
+K 10
+sipXsdpLib
+V 26
+dir e7v.7mo.r10722/1454603
+K 11
+sipXtackLib
+V 26
+dir boq.7mo.r10722/1648814
+K 19
+sipXtapi-msvc71.sln
+V 27
+file fua.7mo.r10722/1615633
+K 31
+sipx-mediaprocessing-msvc71.sln
+V 23
+file fub.7mo.r10724/914
+END
+ENDREP
+id: 9wi.7mo.r10726/1216
+type: dir
+pred: 9wi.7mo.r10725/3889
+count: 1722
+text: 10726 437 766 766 e81776ffdde871260e1fea46a39c6952
+props: 10634 0 61 0 205f8042d9e3a641f642980eff62f5f5
+cpath: /branches/bandreasen-sipXtapi-AOL-merge
+copyroot: 10633 /branches/bandreasen-sipXtapi-AOL-merge
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r8066/42815
+K 3
+3.6
+V 23
+dir 7q4.50x.r9677/12870
+K 29
+bandreasen-sipXtapi-AOL-merge
+V 23
+dir 9wi.7mo.r10726/1216
+K 7
+bbridge
+V 22
+dir 7q4.68z.r9829/4609
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 8
+sipXtapi
+V 22
+dir 9wi.0.r10721/18642
+K 12
+sipXtapi-AOL
+V 23
+dir 9wi.7jw.r10605/3171
+K 11
+sipXtapi-UC
+V 22
+dir 9wi.7jy.r9594/5049
+K 21
+sipXtapi-media-update
+V 23
+dir 9wi.3ke.r10308/4876
+K 14
+sipXtapi.wince
+V 24
+dir 9wi.662.r8313/638537
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 23
+dir 7q4.4t1.r10445/8915
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 14
+virtual-domain
+V 24
+dir 7q4.4t6.r8010/314955
+END
+ENDREP
+id: 7pt.0.r10726/2561
+type: dir
+pred: 7pt.0.r10725/5235
+count: 3171
+text: 10726 1502 1046 1046 4f584a6941131286c3f37ff0eb9b7e58
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r10726/2561
+K 4
+main
+V 20
+dir 7q4.0.r9837/8232
+K 4
+tags
+V 20
+dir 7q5.0.r9367/2658
+END
+ENDREP
+id: 0.0.r10726/2848
+type: dir
+pred: 0.0.r10725/5522
+count: 10726
+text: 10726 2721 114 114 e44bbc3e14b4cbee7974424ef87185af
+cpath: /
+copyroot: 0 /
+
+9wt.7mo.t10725-1 modify false true /branches/bandreasen-sipXtapi-AOL-merge/sipXcallLib
+
+
+2848 2995

@@ -1,0 +1,191 @@
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 22m.0.r2827/60
+type: dir
+pred: 22m.0.r2825/434
+count: 8
+text: 2825 328 93 93 072f82c7d581e8469b7fa2bf36232201
+props: 2827 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXvxml/main/bin
+copyroot: 0 /
+
+PLAIN
+K 7
+AUTHORS
+V 19
+file 22e.0.r2812/77
+K 12
+CONTRIBUTORS
+V 20
+file 2h3.0.r2824/801
+K 7
+COPYING
+V 24
+file 22f.0.r2734/1778762
+K 9
+ChangeLog
+V 20
+file 22g.0.r2759/411
+K 7
+INSTALL
+V 20
+file 22h.0.r2798/264
+K 11
+Makefile.am
+V 20
+file 22i.0.r2826/140
+K 4
+NEWS
+V 24
+file 22j.0.r2734/1781258
+K 6
+README
+V 24
+file 22k.0.r2734/1878221
+K 9
+acsite.m4
+V 24
+file 22l.0.r2734/1741479
+K 3
+bin
+V 18
+dir 22m.0.r2827/60
+K 12
+configure.ac
+V 21
+file 22o.0.r2820/1480
+K 3
+doc
+V 20
+dir 2gf.0.r2789/7326
+K 3
+etc
+V 19
+dir 22p.0.r2826/686
+K 7
+include
+V 20
+dir 22u.0.r2794/3307
+K 2
+js
+V 20
+dir 23o.0.r2763/4707
+K 4
+meta
+V 23
+dir 2cs.0.r2734/1741183
+K 16
+sipxvxml.spec.in
+V 20
+file 2h0.0.r2824/624
+K 3
+src
+V 20
+dir 2cu.0.r2806/9786
+END
+ENDREP
+id: 22d.0.r2827/991
+type: dir
+pred: 22d.0.r2826/1567
+count: 80
+text: 2827 271 707 707 dbac77e4a214d8745c62e8106a4be80d
+props: 2818 0 273 0 10aaeafb6e70f0f327bce62ff6a590a7
+cpath: /old/sipXvxml/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 2h1.0.r2817/627
+K 4
+main
+V 19
+dir 22d.0.r2827/991
+K 4
+tags
+V 20
+dir 2gd.0.r2758/1557
+END
+ENDREP
+id: 22c.0.r2827/1328
+type: dir
+pred: 22c.0.r2826/1906
+count: 94
+text: 2827 1204 111 111 462307208cefc98a926a2fdc08cd4584
+cpath: /old/sipXvxml
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r2827/1328
+END
+ENDREP
+id: 1.0.r2827/1887
+type: dir
+pred: 1.0.r2826/2465
+count: 2826
+text: 2827 1485 389 389 11b2015b9d67656628ac96f596c008ff
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2827/1887
+END
+ENDREP
+id: 0.0.r2827/2082
+type: dir
+pred: 0.0.r2826/2660
+count: 2827
+text: 2827 2033 36 36 4e6793676ef71fa86d764bbe6775ae79
+cpath: /
+copyroot: 0 /
+
+22m.0.t2826-1 modify false true /old/sipXvxml/main/bin
+
+
+2082 2223

@@ -1,0 +1,144 @@
+PLAIN
+K 13
+svn:externals
+V 70
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.8/config
+
+K 10
+svn:ignore
+V 214
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxcalllib-*.rpm
+sipxcalllib-*.tar.gz
+sipxcalllib.spec
+stamp-h1
+Debug
+Release
+
+K 17
+svnmerge-2.6-head
+V 55
+https://scm.sipfoundry.org/rep/sipXcallLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 24
+1-75,120,130,143,156,207
+K 18
+svnmerge-main-head
+V 47
+https://scm.sipfoundry.org/rep/sipXcallLib/main
+K 18
+svnmerge-main-revs
+V 5
+1-313
+END
+ENDREP
+id: va.75.r1635/597
+type: dir
+pred: va.0.r1634/6485
+count: 261
+text: 1634 5374 1098 1098 9e3c9913892309b96a1d172d53ecc80c
+props: 1635 0 584 0 b0f036538cffd9fee1b8d27cef95acf1
+cpath: /old/sipXcallLib/branches/2.8
+copyfrom: 1634 /old/sipXcallLib/main
+
+PLAIN
+K 3
+2.6
+V 20
+dir va.6c.r1528/1386
+K 3
+2.8
+V 19
+dir va.75.r1635/597
+END
+ENDREP
+id: 15e.0.r1635/931
+type: dir
+pred: 15e.0.r1528/1696
+count: 20
+text: 1635 847 71 71 a724473ca34bf2121cb9bce04550753c
+cpath: /old/sipXcallLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 15e.0.r1635/931
+K 4
+main
+V 19
+dir va.0.r1634/6485
+K 4
+tags
+V 20
+dir 156.0.r1529/3173
+END
+ENDREP
+id: v9.0.r1635/1220
+type: dir
+pred: v9.0.r1634/6832
+count: 314
+text: 1635 1096 111 111 2c2d6d7a69131a43cfc984e51b9549bb
+cpath: /old/sipXcallLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1635/1220
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1635/1564
+type: dir
+pred: 1.0.r1634/7176
+count: 1634
+text: 1635 1379 172 172 59a7a0e0315ff9217e8edac35fc4d3d7
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1635/1564
+END
+ENDREP
+id: 0.0.r1635/1759
+type: dir
+pred: 0.0.r1634/7371
+count: 1635
+text: 1635 1710 36 36 e3486c88d82b99d4b105a991e19a9860
+cpath: /
+copyroot: 0 /
+
+va._0.t1634-1 add false true /old/sipXcallLib/branches/2.8
+1634 /old/sipXcallLib/main
+
+1759 1900

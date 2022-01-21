@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-06-07T17:16:08.185629Z
+K 7
+svn:log
+V 118
+Revert .classpath changes intorduced in 6923 (merge from 3.4) - it was pointing to wrong version of Tapestry library.
+
+END

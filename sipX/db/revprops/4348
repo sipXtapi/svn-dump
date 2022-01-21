@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-11T21:00:39.861075Z
+K 7
+svn:log
+V 68
+Add a frame-based master front page to the Web UI, for consistency.
+
+END

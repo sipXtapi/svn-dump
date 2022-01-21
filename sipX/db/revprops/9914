@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-30T19:19:35.055767Z
+K 7
+svn:log
+V 137
+Remove some unused variables, add some debug code, and update some comments in MpodWinMM windows multimedia output device driver wrapper.
+END

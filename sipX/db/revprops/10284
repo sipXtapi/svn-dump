@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-08T18:46:14.698537Z
+K 7
+svn:log
+V 218
+Take current frame time with MpInputDeviceManager::getCurrentFrameTime() from specific devices rather then from manager.
+This make things more robust, because internal device driver time may drift against system time.
+
+END

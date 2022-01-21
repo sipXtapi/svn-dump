@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-12-27T21:05:02.843224Z
+K 7
+svn:log
+V 138
+Factor all localization sed scripts into a common config/sipXcommon.mak file.
+Add doxygen to default targets if present and not disabled.
+
+END

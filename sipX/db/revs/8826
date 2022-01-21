@@ -1,0 +1,226 @@
+PLAIN
+K 13
+svn:externals
+V 68
+config https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi/config
+
+K 19
+svnmerge-integrated
+V 24
+/main/sipXportLib:1-7991
+END
+ENDREP
+id: bcf.0.r8826/165
+type: dir
+pred: bcf.0.r8825/9713
+count: 95
+text: 8825 8409 1291 1291 18055b827a57cdd460b12eb33a5d9c1f
+props: 8826 0 152 0 444ee55d2546d93beee343ba3bd17210
+cpath: /branches/sipXtapi/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 21
+file ekr.0.r8727/1855
+K 14
+build_evc4.bat
+V 21
+file e6c.0.r8504/2231
+K 14
+buildmsvs6.bat
+V 22
+file dm4.66u.r8773/566
+K 6
+config
+V 20
+dir 9wj.0.r8547/1557
+K 10
+readme.txt
+V 21
+file 9ws.0.r8727/2061
+K 14
+sipX-msvc8.sln
+V 22
+file e73.0.r8663/59353
+K 11
+sipXcallLib
+V 20
+dir 9wt.0.r8822/2739
+K 19
+sipXmediaAdapterLib
+V 20
+dir b2p.0.r8752/3797
+K 12
+sipXmediaLib
+V 20
+dir b40.0.r8818/8025
+K 11
+sipXportLib
+V 19
+dir bcf.0.r8826/165
+K 10
+sipXsdpLib
+V 21
+dir e7v.0.r8663/55294
+K 11
+sipXtackLib
+V 21
+dir boq.0.r8823/18339
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.0.r8826/1036
+type: dir
+pred: 9wi.0.r8825/10587
+count: 267
+text: 8826 393 630 630 cad194dc2836ce3f21b3fc48e4930b06
+cpath: /branches/sipXtapi
+copyroot: 0 /
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r8066/42815
+K 3
+3.6
+V 23
+dir 7q4.50x.r8807/12674
+K 7
+bbridge
+V 22
+dir 7q4.68z.r8427/2781
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 10
+freeswitch
+V 24
+dir 7q4.6ae.r8814/262358
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 25
+media-server-localization
+V 24
+dir 7q4.6da.r8815/262906
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 20
+dir 9wi.0.r8826/1036
+K 21
+sipXtapi-media-update
+V 22
+dir 9wi.3ke.r8661/7478
+K 14
+sipXtapi.wince
+V 24
+dir 9wi.662.r8313/638537
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 21
+dir 7q4.4t1.r7562/240
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 24
+user_dworley_redirectors
+V 22
+dir 7q4.3xw.r7858/7806
+K 30
+user_dworley_redirectors_merge
+V 22
+dir 7q4.5ja.r7925/6442
+K 14
+virtual-domain
+V 24
+dir 7q4.4t6.r8010/314955
+END
+ENDREP
+id: 7pt.0.r8826/2366
+type: dir
+pred: 7pt.0.r8825/11919
+count: 1557
+text: 8826 1199 1154 1154 af020f5396579d4f53b500b16091c893
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r8826/2366
+K 4
+main
+V 20
+dir 7q4.0.r8816/2524
+K 4
+tags
+V 20
+dir 7q5.0.r8544/3180
+END
+ENDREP
+id: 0.0.r8826/2650
+type: dir
+pred: 0.0.r8825/12205
+count: 8826
+text: 8826 2524 113 113 735ccbc35223dc2e810995ccc863d763
+cpath: /
+copyroot: 0 /
+
+bcf.0.t8825-1 modify false true /branches/sipXtapi/sipXportLib
+
+
+2650 2794

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-09T18:00:28.833671Z
+K 7
+svn:log
+V 130
+Fix svn:eol-style and svn:mime-type for all *.am files.
+CR+LF line ending caused many build errors when building on Debian Sarge.
+
+END

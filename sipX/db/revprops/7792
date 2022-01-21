@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-19T16:11:58.049132Z
+K 7
+svn:log
+V 346
+Fix display of OK/FAILED after waiting for watchdog to start.
+Previous code did not work:
+        [ $seconds == 0 ] && echo_failure || echo_success
+because echo_failure exits with status 1, so echo_success will also be
+executed, writing over the failure message.  One must use the idion:
+        [ $seconds != 0 ] && echo_success || echo_failure
+
+END

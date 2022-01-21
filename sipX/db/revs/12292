@@ -1,0 +1,281 @@
+PLAIN
+K 10
+svn:ignore
+V 77
+sandbox
+testsuite
+Makefile
+Makefile.in
+.deps
+*.log
+*.raw
+*.wav
+*_stdout.txt
+
+
+END
+ENDREP
+id: bc7.7n5.r12292/116
+type: dir
+pred: bc7.7n5.r12276/397
+count: 249
+text: 12276 299 85 85 865b83b7963879068a11d43963d6a236
+props: 12292 0 103 0 4fc6b9955d8e90dfa0c81245ff28ded7
+cpath: /main/sipXmediaLib/src/test
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file b95.7n5.r11815/77
+K 2
+mp
+V 24
+dir b96.7n5.r12291/21143
+K 4
+rtcp
+V 23
+dir bbq.7n5.r12265/1901
+K 4
+test
+V 22
+dir bc7.7n5.r12292/116
+END
+ENDREP
+id: b94.7n5.r12292/526
+type: dir
+pred: b94.7n5.r12291/21507
+count: 1320
+text: 12292 352 161 161 7e8ab5d8a593ca4d8192119b3c77d639
+props: 11821 296 54 0 9e8708e9b4786ab3c7ff09e372496a63
+cpath: /main/sipXmediaLib/src
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 22
+file g92.7n5.r12289/56
+K 12
+CONTRIBUTORS
+V 25
+file b41.0.r6469/22054157
+K 9
+ChangeLog
+V 25
+file b42.0.r6469/22025314
+K 7
+INSTALL
+V 24
+file b43.0.r6955/1728056
+K 11
+Makefile.am
+V 23
+file b44.0.r10281/14228
+K 4
+NEWS
+V 25
+file b45.0.r6469/22058814
+K 6
+README
+V 24
+file b46.0.r6955/1727035
+K 4
+TODO
+V 25
+file b47.0.r6469/22057442
+K 9
+acsite.m4
+V 24
+file b48.0.r6955/1726702
+K 17
+autoconf259.patch
+V 23
+file fxj.7n5.r10953/747
+K 3
+bin
+V 22
+dir b49.7n5.r11821/958
+K 12
+configure.ac
+V 25
+file b4k.7n5.r12202/13492
+K 7
+contrib
+V 23
+dir ebw.7n5.r12264/1396
+K 3
+doc
+V 22
+dir b4l.7n5.r11821/663
+K 26
+dtmf5_48khz_16b_signed.wav
+V 23
+file f7a.0.r10516/48478
+K 7
+include
+V 24
+dir b4p.7n5.r12290/17083
+K 3
+lib
+V 24
+dir b8u.0.r6469/22057603
+K 4
+meta
+V 24
+dir b8v.0.r6469/22024982
+K 25
+sipXmediaLib-msvc8.vcproj
+V 24
+file e76.7n5.r11952/3545
+K 16
+sipXmediaLib.dsp
+V 24
+file up.7nl.r11401/19813
+K 16
+sipXmediaLib.vcp
+V 22
+file e6i.0.r9956/38866
+K 19
+sipXmediaLib.vcproj
+V 24
+file b92.7n5.r12138/5904
+K 29
+sipXmediaLibTest-msvc8.vcproj
+V 24
+file e77.7n5.r12273/3350
+K 20
+sipXmediaLibTest.dsp
+V 23
+file mh.7nm.r12273/3109
+K 20
+sipXmediaLibTest.sln
+V 24
+file eaj.7n5.r12138/5652
+K 20
+sipXmediaLibTest.vcp
+V 22
+file e6j.0.r8865/20512
+K 23
+sipXmediaLibTest.vcproj
+V 24
+file eak.7n5.r12273/3560
+K 20
+sipxmedialib.spec.in
+V 24
+file b93.7n5.r10867/5783
+K 3
+src
+V 22
+dir b94.7n5.r12292/526
+END
+ENDREP
+id: b40.7n5.r12292/2164
+type: dir
+pred: b40.7n5.r12291/23151
+count: 1757
+text: 12292 763 1388 1388 c3eb8f20ce316864a628c224447824f2
+props: 12208 1701 1862 0 2147543475a795da72c6149be8b12067
+cpath: /main/sipXmediaLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g8y.7n5.r12172/315
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 22
+dir 9wj.7n5.r12229/989
+K 10
+readme.txt
+V 26
+file 9ws.7n5.r12043/247879
+K 7
+scripts
+V 23
+dir fxk.7n5.r12171/1617
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r12288/3074
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r12282/3423
+K 12
+sipXmediaLib
+V 23
+dir b40.7n5.r12292/2164
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r12279/5377
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r12259/2263
+K 11
+sipXtackLib
+V 24
+dir boq.7n5.r12249/15517
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r12292/3063
+type: dir
+pred: 9wi.7n5.r12291/24054
+count: 3230
+text: 12292 2403 647 647 ea8185340ef9aa5949d84189edb03752
+props: 12114 59175 76 0 1dd3880c3272b32f88d1700b38908223
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r12113/17441
+K 4
+main
+V 23
+dir 9wi.7n5.r12292/3063
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r12292/3459
+type: dir
+pred: 0.0.r12291/24453
+count: 12292
+text: 12292 3287 159 159 9530f8ce06bc8e41ee5de60ffd19011d
+cpath: /
+copyroot: 0 /
+
+bc7.7n5.t12291-1 modify false true /main/sipXmediaLib/src/test
+
+
+3459 3607

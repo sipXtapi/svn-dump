@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-03-13T21:56:43.308172Z
+K 7
+svn:log
+V 177
+XCF-947 set the SSL protocol to SSLv3
+it ensures that sipXconfig works on both SUN and IBM JVM without having to change IE configuration (without manually enabling TLS support)
+
+END

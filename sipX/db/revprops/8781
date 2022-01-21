@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-02-14T05:21:24.480317Z
+K 7
+svn:log
+V 155
+XPR-157 fix reading CSE polling interval from configuration file: it was not properly converted to integer which, CSE reading threads were sleeping forever
+END

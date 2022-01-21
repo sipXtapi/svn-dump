@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-02-04T22:22:31.724265Z
+K 7
+svn:log
+V 110
+Added logging message if "_REALTIME_LINUX_AUDIO_THREADS" was defined
+but application does not have ROOT priv.
+
+END

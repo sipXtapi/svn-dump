@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-05-11T18:56:01.021504Z
+K 7
+svn:log
+V 448
+Allow header/query parameters ( ?param=val&param2=val )
+  even when not in angle brackets.  This is more liberal than
+  RFC 3261 requires, but isn't ambiguous so I think it's safe.
+
+Force angle brackets when constructing a URL string if there
+  are header/query parameters (be strict in what we send).
+
+Add support for mailto URLs (with the above change it was easy)
+
+  I think that this fixes [XPR-61]
+  http://track.sipfoundry.org/browse/XPR-61
+
+
+END

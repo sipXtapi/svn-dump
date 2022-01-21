@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-02-11T17:28:11.743618Z
+K 7
+svn:log
+V 82
+Removed calls to deprecated functions: sipxCallFreeHandle and sipxLineFreeHandle.
+
+END

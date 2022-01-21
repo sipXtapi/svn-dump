@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-11-19T05:31:12.811808Z
+K 7
+svn:log
+V 174
+Fixed unit tests to allow running on target in different configuration than
+the build platform. 
+
+Added diagnostics to identify configuration issues on run target platform.
+
+
+END

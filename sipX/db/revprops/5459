@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-11-01T14:06:25.977630Z
+K 7
+svn:log
+V 207
+Add configure switch to enable build of examples in sipXtackLib
+Change XmlRpc client fault codes to an enumeration
+  (with defines for backward compatibility)
+Improve reporting of http errors to rpc client.
+
+END

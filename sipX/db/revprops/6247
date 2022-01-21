@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-24T22:38:41.642736Z
+K 7
+svn:log
+V 348
+Factor checkPeers loop out of message handling routine so that it can
+  also be called once unconditionally at the transition into
+  operational phase.
+Factor resetTimer out so that it can be called from both the check
+  method and from checkPeers
+Replace the mTimerIsRunning boolean with a 4-state enum that better
+  expresses the different modes
+
+END

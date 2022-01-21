@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-05-17T20:14:11.107941Z
+K 7
+svn:log
+V 152
+Do not assert if STUN mapped RTCP address is different from RTP.  Just log error and
+continue.  Its better to have RTP and no RTCP then no call at all.
+
+END

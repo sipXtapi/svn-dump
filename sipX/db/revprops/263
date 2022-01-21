@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-10-10T17:30:03.635662Z
+K 7
+svn:log
+V 59
+search path in last commit was to wrong httpd httpd startup
+END

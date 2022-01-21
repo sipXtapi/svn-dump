@@ -1,0 +1,160 @@
+PLAIN
+K 13
+svn:externals
+V 75
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-B/config
+
+K 10
+svn:ignore
+V 183
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxcommserverlib-*.tar.gz
+sipxcommserverlib.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 61
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 5
+1-113
+K 18
+svnmerge-main-head
+V 53
+https://scm.sipfoundry.org/rep/sipXcommserverLib/main
+K 18
+svnmerge-main-revs
+V 5
+1-105
+END
+ENDREP
+id: 1qo.8g.r1911/563
+type: dir
+pred: 1qo.8e.r1910/2060
+count: 97
+text: 1910 1265 782 782 48a1178cc79891d978369a36c02d888b
+props: 1911 0 550 0 a6ce5e0537de9e74d498bec0ada41086
+cpath: /old/sipXcommserverLib/tags/2.6-export-B
+copyfrom: 1910 /old/sipXcommserverLib/branches/2.6
+
+PLAIN
+K 5
+2.5.1
+V 20
+dir 1qo.81.r1809/199
+K 5
+2.5.2
+V 21
+dir 1qo.82.r1825/1265
+K 12
+2.6-export-A
+V 20
+dir 1qo.8f.r1908/563
+K 12
+2.6-export-B
+V 20
+dir 1qo.8g.r1911/563
+K 13
+main-export-B
+V 20
+dir 1qo.8c.r1903/441
+K 13
+main-export-C
+V 20
+dir 1qo.8d.r1906/441
+END
+ENDREP
+id: 1uu.0.r1911/1106
+type: dir
+pred: 1uu.0.r1908/1060
+count: 7
+text: 1911 838 255 255 682c647e22340b51d8edeac286feffab
+cpath: /old/sipXcommserverLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1v5.0.r1910/2426
+K 4
+main
+V 20
+dir 1qo.0.r1902/1726
+K 4
+tags
+V 20
+dir 1uu.0.r1911/1106
+END
+ENDREP
+id: 1qn.0.r1911/1401
+type: dir
+pred: 1qn.0.r1910/2725
+count: 114
+text: 1911 1275 113 113 25553bb495a2c0a5f00125fc04a36bc7
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r1911/1401
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1911/1802
+type: dir
+pred: 1.0.r1910/3126
+count: 1910
+text: 1911 1568 221 221 b2151f901d1a1ee7b1e3e28feb6e386b
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1911/1802
+END
+ENDREP
+id: 0.0.r1911/1997
+type: dir
+pred: 0.0.r1910/3321
+count: 1911
+text: 1911 1948 36 36 c225c396a06e1c3c5a3afc3d178a5e2c
+cpath: /
+copyroot: 0 /
+
+1qo._0.t1910-1 add false true /old/sipXcommserverLib/tags/2.6-export-B
+1910 /old/sipXcommserverLib/branches/2.6
+
+1997 2138

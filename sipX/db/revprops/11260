@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-02-06T00:25:49.217745Z
+K 7
+svn:log
+V 73
+sipXtapi: Push playing and recording notifications up to sipXtapi level.
+
+END

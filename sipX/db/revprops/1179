@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-01-19T21:49:45.660623Z
+K 7
+svn:log
+V 105
+For the Windows  
+VC7 build, 
+check for the NO_INTERFACE_DEF preprocessor 
+before redefining "interface"
+
+END

@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-03-05T22:55:31.459626Z
+K 7
+svn:log
+V 953
+Added metrics to input device manager -- now one can pull time derivatives from an input device -
+(t2-t1)/(reference frame period) where t1,t2 are times of sequential frames.
+This is *not* tested currently.
+
+This checkin shows a deadlock in our input device driver code for windows.
+We believe windows is locking a "wave lock" - a lock around the waveInXxx calls, and this is colliding with the input manager's lock.
+The following behavior has been witnessed with this checkin:
+* One thread is blocked in MpInputDeviceManager::pushFrame waiting for it's lock, called originally from the windows wave callback.
+* Another thread is blocked calling waveInReset, a windows system call to stop input and flush buffers.
+
+If we are indeed deadlocked between the mutex on the input device manager and this "wave lock", we need to figure out some way to reverse the locking order.  The only way dan or I can think of doing this is to queue up the packets first.
+
+END

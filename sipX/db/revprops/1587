@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-24T23:08:16.885795Z
+K 7
+svn:log
+V 50
+sipXtapi: Added additional conference unit tests
+
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-05-29T13:35:43.087458Z
+K 7
+svn:log
+V 63
+Added some basic recording capabilties -- see TODOs in code.
+ 
+
+END

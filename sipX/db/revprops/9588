@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2007-05-20T13:12:17.761029Z
+K 7
+svn:log
+V 91
+Fixed version generation script as part of win32 build -- was looking at a hard coded path
+
+END

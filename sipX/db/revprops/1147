@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-12-08T20:47:39.349657Z
+K 7
+svn:log
+V 70
+Clean up before making changes -- removed old xpressa-specific code.
+
+
+END

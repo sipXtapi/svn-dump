@@ -1,0 +1,129 @@
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 217
+BUILDSTAMP
+Debug
+Makefile
+Makefile.in
+Release
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxmedialib-*.rpm
+sipxmedialib-*.tar.gz
+sipxmedialib.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 56
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 12
+1-75,104,124
+K 17
+svnmerge-2.8-head
+V 56
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 17
+1-183,185,197,201
+K 23
+svnmerge-user_ping-head
+V 62
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-212
+END
+ENDREP
+id: mz.0.r1280/737
+type: dir
+pred: mz.0.r1278/2707
+count: 149
+text: 1278 1935 759 759 70b3b0ca81c869400a679a5d549f9d1e
+props: 1280 0 724 0 086aacce63e39e98c1740f6586706fc1
+cpath: /old/sipXmediaLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir ux.0.r1279/1107
+K 4
+main
+V 18
+dir mz.0.r1280/737
+K 4
+tags
+V 19
+dir uq.0.r1277/2152
+END
+ENDREP
+id: my.0.r1280/1076
+type: dir
+pred: my.0.r1279/1397
+count: 213
+text: 1280 954 109 109 172f942c612190cd9415dcc5bf9569cf
+cpath: /old/sipXmediaLib
+copyroot: 0 /
+
+PLAIN
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1280/1076
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1280/1378
+type: dir
+pred: 1.0.r1279/1700
+count: 1279
+text: 1280 1235 130 130 b3709f039b48ee64b1e87032f01ab60d
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1280/1378
+END
+ENDREP
+id: 0.0.r1280/1573
+type: dir
+pred: 0.0.r1279/1895
+count: 1280
+text: 1280 1524 36 36 2efe48d6599073046a637af8654c7bef
+cpath: /
+copyroot: 0 /
+
+mz.0.t1279-1 modify false true /old/sipXmediaLib/main
+
+
+1573 1714

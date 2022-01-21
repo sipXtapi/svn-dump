@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2014-12-09T20:39:28.827541Z
+K 7
+svn:log
+V 157
+Added commend line switch to not catch signals in unit test
+Was previously compile time switch.  Default is to catch signals
+and try to continue with tests.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-11-01T16:06:13.301571Z
+K 7
+svn:log
+V 62
+Adding test for RTP connection encrypted with OsCryptoSocket.
+
+END

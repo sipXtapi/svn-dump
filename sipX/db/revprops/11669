@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-09-09T03:56:30.653840Z
+K 7
+svn:log
+V 40
+Include path fixed to Android makefile.
+
+END

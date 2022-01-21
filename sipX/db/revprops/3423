@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-01-26T15:55:05.393582Z
+K 7
+svn:log
+V 100
+Border component used in dialplan pages.
+Border component now includes div id=component definition.
+
+END

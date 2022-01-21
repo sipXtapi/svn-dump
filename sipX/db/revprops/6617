@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-04-19T23:22:12.466915Z
+K 7
+svn:log
+V 328
+Fix a bug where "VACUUM ANALYZE", done as part of purging, collided with ActiveRecord transactions.  Set up careful transaction boundaries to avoid this problem.
+Unsnarl the resolve method by moving all the daily run logic into a separate method.
+When doing "VACUUM ANALYZE", only operate on SIPXCDR and don't touch SIPXCONFIG.
+
+END

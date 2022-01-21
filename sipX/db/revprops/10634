@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2008-04-14T16:05:33.133320Z
+K 7
+svn:log
+V 127
+Initialized merge tracking via "svnmerge" with revisions "1-10633" from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+END

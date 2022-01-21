@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-12-22T00:56:58.067392Z
+K 7
+svn:log
+V 112
+Add support for logging Call State Events (XPB-139)
+See http://track.sipfoundry.org/browse/XPB-139
+and doc/cdr
+
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-11-22T18:30:34.182044Z
+K 7
+svn:log
+V 90
+Add experimental sipdb-dump command, works but still working on man page cookbook examples
+END

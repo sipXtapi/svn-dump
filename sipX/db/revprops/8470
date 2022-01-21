@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-08T18:17:24.754787Z
+K 7
+svn:log
+V 83
+add support for Tapestry prop: binding 
+rewrite SettingEditor to use prop: binding
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-18T16:32:43.091989Z
+K 7
+svn:log
+V 162
+XCF-255 - Found a threading issue with another place a shared SAXBuilder is used although entire class had threading issues.  This may not fix all reported errors
+END

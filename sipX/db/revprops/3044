@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-07-27T14:15:43.419429Z
+K 7
+svn:log
+V 64
+Bug XCF-12: Add pds/index.jsp to redirect user to initialize.jsp
+END

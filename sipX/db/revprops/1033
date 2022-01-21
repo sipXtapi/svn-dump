@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-06-06T22:09:47.568551Z
+K 7
+svn:log
+V 165
+Fix SipTransaction::prepareRequestForSend to handle request URIs with
+header-fields correctly.
+Previously, these would cause <...> to be applied to the request URI.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-04-17T19:41:18.473216Z
+K 7
+svn:log
+V 95
+XCF-914 set the auth id on external lines to the user id.  at least polycom phones require this
+END

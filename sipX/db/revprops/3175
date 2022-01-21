@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-11-18T16:09:42.512880Z
+K 7
+svn:log
+V 137
+Add Neoconf module (at this time optional see neoconf in manual) the evolution revolution!  Add hooks to turn debugging on thru env. var.
+END

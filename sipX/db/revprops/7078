@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-07-13T17:34:50.753389Z
+K 7
+svn:log
+V 783
+Enable the VXML engine to wait for prompts to complete.
+This corrects many issues with prompts being "cut off" or not played at all
+in certain situations.
+In sipXmediaLib:
+Corrected the ability to "reset" the MpStreamPlaylistPlayer so it
+can be waited on when used more than once.  The previous implemenation could
+only be waited on once reliably, and it could have failed on subsequent plays.
+In sipXvxml:
+The OpenVXI VXML engine was missing the required "wait" functionality
+that allows it to wait for in process prompts to completely play before
+it does something else (like start a transfer).
+Added the support for the "wait" function in osbprompt.cpp, and the support
+for a null "wait" when no prompts are playing at all.
+Added/enabled waiting in PromptManager.cpp and VXI.cpp.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-11-07T16:22:35.522296Z
+K 7
+svn:log
+V 80
+Fix usage of va_list in loops. It should be copied to work correctly on x86_64.
+
+END

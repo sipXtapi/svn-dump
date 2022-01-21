@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-23T23:11:03.875675Z
+K 7
+svn:log
+V 197
+Fix for a bug that showed up after adding rport / symmetrical signaling.
+See XSL-58: "Someone (proxy?) creating SipClients with a port of 0" for details on this workaround.  ... Ok, call it hack.
+
+
+END

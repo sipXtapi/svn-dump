@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-08-18T15:04:50.585356Z
+K 7
+svn:log
+V 224
+http://track.sipfoundry.org/browse/XPL-63
+
+Fix some problems with cleanup of threads when terminating normally.
+Add some extra logging; some of this will be commented out again
+when I'm sure the problem is fully addressed.
+
+
+END

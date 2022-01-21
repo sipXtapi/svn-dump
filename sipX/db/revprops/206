@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-09-17T15:12:54.472097Z
+K 7
+svn:log
+V 63
+fix debug lib install, remove leftover link from non-root build
+END

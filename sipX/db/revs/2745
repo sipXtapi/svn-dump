@@ -1,0 +1,197 @@
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 22u.0.r2745/51
+type: dir
+pred: 22u.0.r2744/5742
+count: 2
+text: 2744 4330 1399 1399 69045f239b9cda84a175a9425a54f3a5
+props: 2745 0 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXvxml/main/include
+copyroot: 0 /
+
+PLAIN
+K 7
+AUTHORS
+V 24
+file 22e.0.r2734/1740512
+K 7
+COPYING
+V 24
+file 22f.0.r2734/1778762
+K 9
+ChangeLog
+V 22
+file 22g.0.r2736/11339
+K 7
+INSTALL
+V 20
+file 22h.0.r2738/628
+K 11
+Makefile.am
+V 22
+file 22i.0.r2744/14999
+K 4
+NEWS
+V 24
+file 22j.0.r2734/1781258
+K 6
+README
+V 24
+file 22k.0.r2734/1878221
+K 9
+acsite.m4
+V 24
+file 22l.0.r2734/1741479
+K 3
+bin
+V 23
+dir 22m.0.r2734/1779275
+K 12
+configure.ac
+V 21
+file 22o.0.r2744/3767
+K 3
+etc
+V 23
+dir 22p.0.r2734/1781110
+K 7
+include
+V 18
+dir 22u.0.r2745/51
+K 2
+js
+V 21
+dir 23o.0.r2744/15605
+K 4
+meta
+V 23
+dir 2cs.0.r2734/1741183
+K 3
+src
+V 21
+dir 2cu.0.r2744/14777
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 63
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+
+K 10
+svn:ignore
+V 78
+configure
+Makefile.in
+build
+config.h.in
+autom4te.cache
+aclocal.m4
+config.OLD
+
+
+END
+ENDREP
+id: 22d.0.r2745/1089
+type: dir
+pred: 22d.0.r2744/16442
+count: 8
+text: 2745 272 599 599 5a2f0442220e5ba4f4912f75a6ddfad0
+props: 2745 884 192 0 2c421f191ff9b203647283ee06870633
+cpath: /old/sipXvxml/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 20
+dir 22d.0.r2745/1089
+K 4
+tags
+V 21
+dir 2gd.0.r2743/17772
+END
+ENDREP
+id: 22c.0.r2745/1393
+type: dir
+pred: 22c.0.r2744/16751
+count: 12
+text: 2745 1305 75 75 1897257f95496cdece45f3f84fa72f71
+cpath: /old/sipXvxml
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r2745/1393
+END
+ENDREP
+id: 1.0.r2745/1951
+type: dir
+pred: 1.0.r2744/17312
+count: 2744
+text: 2745 1549 389 389 20fab880051dc04884189fbce5ba7670
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2745/1951
+END
+ENDREP
+id: 0.0.r2745/2147
+type: dir
+pred: 0.0.r2744/17511
+count: 2745
+text: 2745 2098 36 36 61f6ce037a0ef4867a64074813ecc87b
+cpath: /
+copyroot: 0 /
+
+22d.0.t2744-1 modify false true /old/sipXvxml/main
+
+22u.0.t2744-1 modify false true /old/sipXvxml/main/include
+
+
+2147 2289

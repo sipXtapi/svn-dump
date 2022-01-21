@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-10-28T18:49:57.406969Z
+K 7
+svn:log
+V 79
+Bug XVX-70 : Voicemail inboxes were not coming up.  Port to cgicc was incorrect
+END

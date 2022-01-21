@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-09T18:08:25.481886Z
+K 7
+svn:log
+V 141
+This revises getVarPath and getCfgPath to be sensible.  It also improves their
+logging output.
+See http://track.sipfoundry.org/browse/XCS-20
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-21T19:19:17.427551Z
+K 7
+svn:log
+V 47
+Replaced reference of OsString with UtlString
+
+
+END

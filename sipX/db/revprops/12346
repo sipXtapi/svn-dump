@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2016-09-13T04:35:25.588021Z
+K 7
+svn:log
+V 64
+Make portable unit tests default on all platforms.
+(vs CPPUNIT)
+
+END

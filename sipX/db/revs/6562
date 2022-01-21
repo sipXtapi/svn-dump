@@ -1,0 +1,94 @@
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r6531/4210
+K 3
+cdr
+V 23
+dir 7q4.2oy.r6492/12311
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 22
+dir 8q1.0.r6325/197137
+K 8
+sipXtapi
+V 24
+dir 9wi.0.r6469/22163876
+K 12
+solaris_port
+V 22
+dir 7q4.39l.r6540/1815
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r6562/620
+type: dir
+pred: 7pt.0.r6540/2724
+count: 550
+text: 6562 0 607 607 c7aef508fc33504fcf06a936b0e45f0f
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 7pt.0.r6562/620
+K 4
+main
+V 20
+dir 7q4.0.r6561/4855
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6562/896
+type: dir
+pred: 0.0.r6561/5190
+count: 6562
+text: 6562 770 113 113 46211abcb749949423ecc5c446199ff1
+cpath: /
+copyroot: 0 /
+
+7q0.0.r4813/15683 delete false false /branches/restful
+
+
+896 1037

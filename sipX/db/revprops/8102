@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-24T13:38:03.141849Z
+K 7
+svn:log
+V 51
+NoVideo build fixes: correct library search paths.
+
+END

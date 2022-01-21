@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-05-02T21:20:27.656759Z
+K 7
+svn:log
+V 190
+sipXphone/linux: Load/Save configuration settings relative to user's home directory.  For now, audio files/default config files are copied from PREFIX/share/sipxphone/ to the ~/.sipxphone/ 
+
+END

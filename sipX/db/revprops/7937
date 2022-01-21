@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-11-03T19:10:55.468310Z
+K 7
+svn:log
+V 86
+Correct how the ITAD is applied to the NAPTR domain name when
+processing ISN numbers.
+
+END

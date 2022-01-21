@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-12T20:09:50.822579Z
+K 7
+svn:log
+V 97
+sipXmediaLib: MpMMTimer's destructor should be public to allow deletion of MpMMTimer* variables.
+
+END

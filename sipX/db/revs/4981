@@ -1,0 +1,864 @@
+PLAIN
+K 8
+.project
+V 22
+file 4ed.0.r3393/17177
+K 16
+ant-gentoo.patch
+V 22
+file 4gu.0.r3393/18478
+K 30
+checkstyle-noframes-sorted.xsl
+V 22
+file 4ee.0.r3393/18801
+K 19
+checkstyle-text.xsl
+V 22
+file 4gr.0.r3856/60774
+K 14
+checkstyle.xml
+V 23
+file 4ef.1i7.r4936/9074
+K 26
+eclipse.code-formatter.xml
+V 20
+file 4eb.0.r3853/353
+K 26
+eclipse.code-templates.xml
+V 22
+file 55k.0.r3856/61021
+K 33
+eclipse.java.editor-templates.xml
+V 24
+file 85e.1i7.r4895/44594
+K 24
+eclipse.update-sites.xml
+V 25
+file 514.1i7.r4886/145585
+K 20
+hibernate.properties
+V 24
+file 510.1i7.r4900/14586
+K 11
+ivyconf.xml
+V 26
+file 7v7.1i7.r4884/5720524
+K 19
+jasper-compiler.jar
+V 22
+file 4he.mn.r3229/4005
+K 11
+java.header
+V 25
+file 4ge.1i7.r4886/145852
+K 39
+sipx-svn-incremental.configure-switches
+V 20
+file 4jn.0.r3550/933
+K 32
+sipx_main_fc2.configure-switches
+V 20
+file 4jo.0.r3550/432
+K 38
+sipx_main_fc2_bldno.configure-switches
+V 21
+file 51x.0.r3597/1241
+K 32
+sipx_main_fc3.configure-switches
+V 20
+file 4uw.0.r3550/686
+K 38
+sipx_main_fc3_bldno.configure-switches
+V 21
+file 51y.0.r3597/1560
+K 33
+sipx_main_rhe3.configure-switches
+V 20
+file 4jp.0.r3550/176
+K 39
+sipx_main_rhe3_bldno.configure-switches
+V 20
+file 51z.0.r3597/923
+K 10
+ssl.pkcs12
+V 21
+file 4nm.0.r3331/1865
+K 16
+tomcat_401.patch
+V 23
+file 4gq.md.r3393/19145
+END
+ENDREP
+id: 4ea.1i7.r4981/1299
+type: dir
+pred: 4ea.1i7.r4936/10691
+count: 38
+text: 4981 0 1286 1286 96184dd716ef4b5260883e95a322a24e
+cpath: /main/sipXconfig/meta
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 34
+BackgroundTaskInterceptorTest.java
+V 24
+file 7tf.1i7.r4864/15828
+K 28
+BackgroundTaskQueueTest.java
+V 23
+file 7tg.1i7.r4841/1890
+K 24
+CollectionUtilsTest.java
+V 26
+file 820.1i7.r4884/5738424
+K 26
+CoreContextImplTestDb.java
+V 23
+file 7th.1i7.r4980/7841
+K 37
+CreateAdminAndInitialUserExpected.xml
+V 24
+file 84u.1i7.r4922/19087
+K 17
+DaoUtilsTest.java
+V 21
+file 5ep.0.r4067/6191
+K 27
+DataCollectionUtilTest.java
+V 21
+file 51r.0.r4032/6045
+K 34
+DynamicSessionFactoryBeanTest.java
+V 24
+file 5fu.1i7.r4906/26302
+K 35
+ExtensionPoolContextImplTestDb.java
+V 23
+file 8bg.1i7.r4954/5375
+K 19
+LazyDaemonTest.java
+V 24
+file 861.1i7.r4895/47555
+K 19
+Md5EncoderTest.java
+V 22
+file 5af.0.r3916/17372
+K 20
+SaveUserExpected.xml
+V 24
+file 552.1i7.r4922/21150
+K 15
+SipUriTest.java
+V 25
+file 84w.1i7.r4886/148491
+K 36
+SpringHibernateInstantiatorTest.java
+V 24
+file 5fn.1i7.r4906/26953
+K 29
+TestUserExtensionPoolSeed.xml
+V 23
+file 8bh.1i7.r4949/9119
+K 16
+TestUserSeed.xml
+V 24
+file 7ti.1i7.r4922/20843
+K 17
+TestUtilTest.java
+V 26
+file 50x.1i7.r4884/5739107
+K 22
+UserExceptionTest.java
+V 21
+file 5dk.0.r4037/6493
+K 17
+UserGroupSeed.xml
+V 26
+file 7v0.1i7.r4884/5738034
+K 18
+UserSearchSeed.xml
+V 24
+file 4w5.1wo.r4936/10882
+K 13
+UserTest.java
+V 24
+file 53r.1wp.r4922/19412
+K 15
+UserTestDb.java
+V 24
+file 4vf.1wq.r4922/20156
+K 20
+VersionInfoTest.java
+V 23
+file 8bj.1i7.r4952/3344
+K 5
+event
+V 23
+dir 862.1i7.r4895/47345
+END
+ENDREP
+id: 50w.1i7.r4981/2899
+type: dir
+pred: 50w.1i7.r4980/9632
+count: 42
+text: 4981 1486 1400 1400 d0c6a0ce59b1ba4b8d426094ce3189bc
+cpath: /main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/common
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 12
+ClearDb.java
+V 21
+file 5db.0.r4022/1141
+K 11
+ClearDb.xml
+V 24
+file 4vw.1wl.r4949/11062
+K 27
+TestApplicationContext.java
+V 25
+file 84s.1i7.r4886/147744
+K 15
+TestHelper.java
+V 24
+file 4q9.1i7.r4900/16764
+K 18
+XmlUnitHelper.java
+V 24
+file 51o.1wm.r4900/16402
+K 5
+admin
+V 23
+dir 4ks.1i7.r4980/14326
+K 6
+common
+V 22
+dir 50w.1i7.r4981/2899
+K 10
+conference
+V 22
+dir 84x.1i7.r4889/6441
+K 6
+dbdata
+V 21
+dir 4vv.0.r3943/15219
+K 7
+gateway
+V 23
+dir 5eb.1i7.r4906/30777
+K 3
+job
+V 23
+dir 866.1i7.r4906/31375
+K 5
+login
+V 23
+dir 7tj.1i7.r4922/26871
+K 5
+phone
+V 23
+dir 4jf.1i7.r4922/30079
+K 7
+setting
+V 23
+dir 4jk.1x7.r4895/62497
+K 17
+sipxconfig-db.dtd
+V 24
+file 4vg.1i7.r4895/55655
+K 6
+xmlrpc
+V 24
+dir 7us.1i7.r4886/163263
+END
+ENDREP
+id: 4g5.1i7.r4981/3858
+type: dir
+pred: 4g5.1i7.r4980/15285
+count: 292
+text: 4981 3129 716 716 152cfc0625f4a6d0f5951e6b7b873e28
+cpath: /main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 10
+sipxconfig
+V 22
+dir 4g5.1i7.r4981/3858
+END
+ENDREP
+id: 4g4.1i7.r4981/4142
+type: dir
+pred: 4g4.1i7.r4980/15571
+count: 292
+text: 4981 4081 48 48 f94eb5089d3f2f99727e2634e13f89f4
+cpath: /main/sipXconfig/neoconf/test/org/sipfoundry
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 10
+sipfoundry
+V 22
+dir 4g4.1i7.r4981/4142
+END
+ENDREP
+id: 4g3.1i7.r4981/4413
+type: dir
+pred: 4g3.1i7.r4980/15844
+count: 292
+text: 4981 4352 48 48 b069e8ea5b3d8fc74cc444ad8b7d2a76
+cpath: /main/sipXconfig/neoconf/test/org
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 3
+org
+V 22
+dir 4g3.1i7.r4981/4413
+K 14
+spy.properties
+V 22
+file 4va.0.r3510/29092
+END
+ENDREP
+id: 4g2.1i7.r4981/4713
+type: dir
+pred: 4g2.1i7.r4980/16146
+count: 294
+text: 4981 4612 88 88 6880a86ea60352047204c03827f3b0f1
+cpath: /main/sipXconfig/neoconf/test
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 32
+ApplicationInitializedEvent.java
+V 24
+file 5c0.1i7.r4870/47349
+K 30
+BackgroundTaskInterceptor.java
+V 23
+file 7su.1i7.r4841/5273
+K 24
+BackgroundTaskQueue.java
+V 23
+file 7sv.1i7.r4841/4960
+K 15
+BeanWithId.java
+V 24
+file 4qk.20j.r4949/17038
+K 20
+CollectionUtils.java
+V 24
+file 81q.1i7.r4922/36475
+K 16
+CoreContext.java
+V 24
+file 4zm.1i7.r4980/23666
+K 20
+CoreContextImpl.java
+V 24
+file 4zn.1i7.r4980/23357
+K 13
+DaoUtils.java
+V 26
+file 5dm.1i7.r4884/5777870
+K 23
+DataCollectionItem.java
+V 22
+file 51p.0.r3581/17896
+K 23
+DataCollectionUtil.java
+V 22
+file 51q.0.r4032/10928
+K 21
+DataObjectSource.java
+V 22
+file 54q.0.r3748/20715
+K 12
+DialPad.java
+V 23
+file 56a.0.r4057/203973
+K 30
+DynamicSessionFactoryBean.java
+V 26
+file 5ft.1i7.r4884/5775887
+K 17
+EnumUserType.java
+V 26
+file 4zy.1i7.r4884/5775579
+K 18
+ExtensionPool.java
+V 24
+file 8bc.1i7.r4949/16393
+K 25
+ExtensionPoolContext.java
+V 23
+file 8bd.1i7.r4954/9175
+K 29
+ExtensionPoolContextImpl.java
+V 23
+file 8be.1i7.r4954/9482
+K 27
+ImprovedNamingStrategy.java
+V 26
+file 7sw.1i7.r4884/5775258
+K 23
+InitializationTask.java
+V 24
+file 7u6.1i7.r4836/19344
+K 15
+LazyDaemon.java
+V 24
+file 85j.1i7.r4895/74648
+K 15
+Md5Encoder.java
+V 24
+file 5ae.1i7.r4848/11190
+K 19
+NotNullOrBlank.java
+V 24
+file 85k.1i7.r4895/74869
+K 17
+Organization.java
+V 22
+file 4j0.qg.r4076/4402
+K 15
+Permission.java
+V 24
+file 81r.1i7.r4906/37811
+K 21
+PrimaryKeySource.java
+V 23
+file 4xe.qh.r3568/28059
+K 11
+SipUri.java
+V 25
+file 84f.1i7.r4886/211203
+K 28
+SipxHibernateDaoSupport.java
+V 24
+file 8bf.1i7.r4949/17794
+K 32
+SpringHibernateInstantiator.java
+V 24
+file 5fm.1i7.r4895/75401
+K 13
+TestUtil.java
+V 23
+file 50v.1i7.r4973/3657
+K 9
+User.java
+V 23
+file 4j6.1wg.r4945/1320
+K 18
+UserException.java
+V 23
+file 579.wd.r4037/14034
+K 15
+UserLoader.java
+V 24
+file 88v.1i7.r4936/14958
+K 16
+VersionInfo.java
+V 23
+file 8bi.1i7.r4952/7187
+K 16
+common.beans.xml
+V 24
+file 81s.1i7.r4949/18082
+K 14
+common.hbm.xml
+V 24
+file 7sy.1i7.r4949/18387
+K 5
+event
+V 23
+dir 85l.1i7.r4895/77819
+END
+ENDREP
+id: 4zl.1i7.r4981/6906
+type: dir
+pred: 4zl.1i7.r4980/26143
+count: 71
+text: 4981 4908 1985 1985 dbc04c9cff648b62886acbbc18f4f449
+cpath: /main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig/common
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 5
+admin
+V 23
+dir 4ko.1i7.r4980/23128
+K 33
+applicationContext-sipxconfig.xml
+V 24
+file 4iv.1i7.r4895/88362
+K 6
+common
+V 22
+dir 4zl.1i7.r4981/6906
+K 10
+conference
+V 23
+dir 84h.1i7.r4895/66160
+K 7
+gateway
+V 23
+dir 5e8.1i7.r4906/37271
+K 3
+job
+V 23
+dir 85r.1i7.r4906/43106
+K 5
+login
+V 23
+dir 7sz.1i7.r4922/39339
+K 5
+phone
+V 22
+dir 4iw.1i7.r4977/7258
+K 7
+setting
+V 23
+dir 4qd.1i7.r4949/24997
+K 6
+xmlrpc
+V 23
+dir 7up.1i7.r4900/20249
+END
+ENDREP
+id: 4ey.1i7.r4981/7581
+type: dir
+pred: 4ey.1i7.r4980/26820
+count: 356
+text: 4981 7136 432 432 77cab5a7e921ac81af0d430e476de474
+cpath: /main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 10
+sipxconfig
+V 22
+dir 4ey.1i7.r4981/7581
+END
+ENDREP
+id: 4ex.1i7.r4981/7864
+type: dir
+pred: 4ex.1i7.r4980/27105
+count: 356
+text: 4981 7803 48 48 2a3b554997cf3f35bc5726f25b20da27
+cpath: /main/sipXconfig/neoconf/src/org/sipfoundry
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 7
+mortbay
+V 23
+dir 87h.1i7.r4900/32825
+K 10
+sipfoundry
+V 22
+dir 4ex.1i7.r4981/7864
+END
+ENDREP
+id: 4ew.1i7.r4981/8175
+type: dir
+pred: 4ew.1i7.r4980/27418
+count: 356
+text: 4981 8073 89 89 186d894af98d4c8c2452fc21037f224d
+cpath: /main/sipXconfig/neoconf/src/org
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 18
+beanRefContext.xml
+V 24
+file 7sh.1i7.r4900/19458
+K 3
+org
+V 22
+dir 4ew.1i7.r4981/8175
+END
+ENDREP
+id: 4ev.1i7.r4981/8480
+type: dir
+pred: 4ev.1i7.r4980/27725
+count: 356
+text: 4981 8373 94 94 23a941fc55891e20c1d7d6397332521c
+cpath: /main/sipXconfig/neoconf/src
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 10
+.classpath
+V 24
+file 4ep.1i7.r4906/33395
+K 8
+.project
+V 20
+file 4eq.0.r3924/159
+K 12
+.springBeans
+V 24
+file 4xc.1wb.r4895/90188
+K 11
+Makefile.am
+V 24
+file 4er.1i7.r4821/25188
+K 9
+build.xml
+V 24
+file 4es.1i7.r4952/11416
+K 3
+etc
+V 22
+dir 4pz.1i7.r4978/2306
+K 7
+ivy.xml
+V 23
+file 7v8.1i7.r4869/3283
+K 3
+src
+V 22
+dir 4ev.1i7.r4981/8480
+K 4
+test
+V 22
+dir 4g2.1i7.r4981/4713
+END
+ENDREP
+id: 4eo.1i7.r4981/9065
+type: dir
+pred: 4eo.1i7.r4980/28313
+count: 442
+text: 4981 8674 378 378 62472caab48e479fb1d94e01a1541cf0
+props: 4867 0 122 0 72994517c8973db80428b7acf89205bf
+cpath: /main/sipXconfig/neoconf
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 2hg.0.r3393/21790
+K 9
+ChangeLog
+V 20
+file 2hh.0.r3490/576
+K 7
+INSTALL
+V 22
+file 2hi.0.r4025/62429
+K 7
+LICENSE
+V 23
+file 2hj.0.r3393/851332
+K 11
+Makefile.am
+V 23
+file 2hk.1i7.r4959/7545
+K 4
+NEWS
+V 23
+file 2hl.0.r3393/808567
+K 6
+README
+V 21
+file 2hm.0.r3573/5968
+K 4
+TODO
+V 22
+file 2hn.0.r4025/58643
+K 9
+acsite.m4
+V 22
+file 2ho.0.r3393/21475
+K 14
+ant-targets.am
+V 25
+file 2hp.1i7.r4886/145328
+K 15
+ant-targets.xml
+V 22
+file 2hq.1i7.r4972/955
+K 3
+bin
+V 20
+dir 4bz.1i7.r4934/60
+K 19
+build.properties.in
+V 26
+file 81e.1i7.r4884/5804324
+K 9
+build.xml
+V 22
+file 4h8.1i7.r4942/926
+K 12
+configure.ac
+V 22
+file 2jg.1i7.r4929/689
+K 16
+dependencies.xml
+V 26
+file 5d9.1i7.r4884/5719334
+K 3
+doc
+V 24
+dir 2jh.1i7.r4886/247485
+K 3
+etc
+V 25
+dir 4b7.1i7.r4884/5840691
+K 3
+lib
+V 25
+dir 2jy.1i7.r4884/5839846
+K 14
+lib.properties
+V 26
+file 81m.1i7.r4884/5804507
+K 4
+meta
+V 22
+dir 4ea.1i7.r4981/1299
+K 7
+neoconf
+V 22
+dir 4eo.1i7.r4981/9065
+K 23
+profilepub_sipagent.dsp
+V 22
+file 4b5.1i7.r4929/429
+K 18
+sipxconfig.spec.in
+V 22
+file 4bh.1i7.r4929/941
+K 18
+subant-targets.xml
+V 26
+file 4h9.1i7.r4884/5804687
+K 3
+web
+V 23
+dir 4l5.1i7.r4973/11635
+END
+ENDREP
+id: 2hf.1i7.r4981/10475
+type: dir
+pred: 2hf.1i7.r4980/29726
+count: 909
+text: 4981 9310 1152 1152 0352dfb90b21cbc1b334f987bbf45cf9
+props: 4971 8981 550 0 a66702beb610c27e480ffaae291fa48e
+cpath: /main/sipXconfig
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 5
+build
+V 20
+file 7ve.0.r4956/245
+K 6
+config
+V 21
+dir 91.1i4.r4964/1649
+K 12
+dependencies
+V 23
+file 7rk.0.r4939/294937
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r4976/7101
+K 17
+sipXcommserverLib
+V 22
+dir 1qo.1i6.r4979/4890
+K 10
+sipXconfig
+V 23
+dir 2hf.1i7.r4981/10475
+K 19
+sipXmediaAdapterLib
+V 22
+dir 89s.0.r4939/396203
+K 12
+sipXmediaLib
+V 22
+dir mz.1i8.r4959/10218
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r4969/2415
+K 9
+sipXphone
+V 23
+dir 6qk.1ia.r4852/35496
+K 11
+sipXportLib
+V 20
+dir 3.1ib.r4966/8370
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r4970/1839
+K 13
+sipXpublisher
+V 22
+dir 20n.1id.r4959/5692
+K 12
+sipXregistry
+V 22
+dir 1y5.1ie.r4963/1480
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r4959/13300
+K 8
+sipXvxml
+V 24
+dir 22d.1ig.r4939/298919
+END
+ENDREP
+id: 7q4.0.r4981/11444
+type: dir
+pred: 7q4.0.r4980/30695
+count: 167
+text: 4981 10718 713 713 30a8d62f20f07867617424c42298d56b
+props: 4979 5869 1167 0 00acf629e5356c55e3783b26815e2a17
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r4813/32382
+K 4
+main
+V 21
+dir 7q4.0.r4981/11444
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r4981/11784
+type: dir
+pred: 0.0.r4980/31034
+count: 4981
+text: 4981 11654 117 117 72f37e9f975066ba7280bb5f9bcf3dca
+cpath: /
+copyroot: 0 /
+
+84e.1i7.r4895/78339 delete false false /main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig/common/DaoEventListener.java
+
+84d.1i7.r4895/78953 delete false false /main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig/common/DaoEventDispatcher.java
+
+4ir.0.r3994/70 delete false false /main/sipXconfig/meta/sipx-jboss4-configure.patch
+
+84v.1i7.r4895/47781 delete false false /main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/common/DaoEventDispatcherTest.java
+
+84g.1i7.r4895/78028 delete false false /main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig/common/UserDeleteListener.java
+
+
+11784 11930

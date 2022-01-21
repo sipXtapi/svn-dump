@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-08T22:35:06.664743Z
+K 7
+svn:log
+V 169
+MpRtpOutputAudioConnection should set parent flowgraph for all its child resources.
+
+MpRtpIntputAudioConnection::setFlowGraph() moved to correct section in source file.
+
+END

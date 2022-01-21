@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-06T11:13:11.122180Z
+K 7
+svn:log
+V 65
+Remove <mp/MpTypes.h> dependency from CpPhoneMediaInterfaceTest.
+
+END

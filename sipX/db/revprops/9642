@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-01T12:25:20.660978Z
+K 7
+svn:log
+V 294
+NetInTask should create its internal connections in constructor, not in run() method.
+If they ar created inside run(), then first calls to NetInTask may block for rather long time (100ms-3sec), causing MediaTask block. In turn MediaTask block will cause MediaSignals queue overflow and so on..
+
+END

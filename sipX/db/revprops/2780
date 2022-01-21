@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-09T18:15:32.904260Z
+K 7
+svn:log
+V 159
+Remove the temporary modifications that were needed to always generate a
+--prefix=<dir> argument to ./configure.
+See http://track.sipfoundry.org/browse/XVX-25
+
+END

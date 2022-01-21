@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2018-03-01T09:00:24.255484Z
+K 7
+svn:log
+V 240
+Additional enhancements for CpPhoneMediaInterface::testCodecStreamQuality.  Add conditional compile options:
+ 1) to test 1 or all source recordings
+ 2) disable mic and speaker on both flowgraphs or enable sink mic and speakers for dugging
+
+
+END

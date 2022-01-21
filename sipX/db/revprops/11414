@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2009-07-08T18:17:38.579424Z
+K 7
+svn:log
+V 61
+-added include MpTypes.h to get definition of MpConnectionId
+
+END

@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-03-27T21:09:48.257051Z
+K 7
+svn:log
+V 383
+Add "-include ../config.h" as a compile switch in the sipXvxml/js files.
+This allows VARARGS_ASSIGN macro definition to see HAVE_VA_LIST_AS_ARRAY,
+which otherwise doesn't work correctly on PowerPC platforms (e.g., in
+sipXvxml/js/src/jsprf.c).
+See http://list.sipfoundry.org/archive/sipx-dev/msg00615.html and
+http://list.sipfoundry.org/archive/sipx-dev/msg00647.html for discussion.
+
+END

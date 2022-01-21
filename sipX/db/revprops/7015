@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+cypromis
+K 8
+svn:date
+V 27
+2006-06-29T15:30:03.908175Z
+K 7
+svn:log
+V 79
+add some platform check
+add -R for solaris and remove it for everybody else :)
+
+END

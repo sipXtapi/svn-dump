@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-08-23T20:50:07.159597Z
+K 7
+svn:log
+V 292
+Remove the option to build with or without sipXtapi; always include it.
+
+Fixes to the build script:
+  | Change the --clean option so that if used with an explicit
+  | list of projects, it only cleans those projects and not
+  | all dependencies.
+  | strip trailing slashes from project names
+
+
+END

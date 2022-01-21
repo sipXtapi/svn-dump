@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-02-19T15:07:07.965897Z
+K 7
+svn:log
+V 71
+sipXtackLib: Fix VS2005 build.
+Thanks to Paulo Vicentini for this fix.
+
+END

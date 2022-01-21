@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-08-16T15:57:46.827875Z
+K 7
+svn:log
+V 96
+Checked in patch from Dmitry Semyonov to make
+the musicServer example actually play the audio.
+
+
+END

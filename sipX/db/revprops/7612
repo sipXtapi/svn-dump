@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-09-30T11:44:20.889879Z
+K 7
+svn:log
+V 175
+mergefrom pingtel-main 7062-7063,7065,7067,7069-7070,7080
+
+Next batch of changes to align the Park Server codebases -
+Second try.  (The build machine is pickier than my gcc.)
+
+END

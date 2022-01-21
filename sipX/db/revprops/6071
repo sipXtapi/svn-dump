@@ -1,0 +1,41 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-08T23:45:15.659192Z
+K 7
+svn:log
+V 1331
+Daily merge from main:
+
+    Add some debugging prints to the registrar to document how the various
+    configuration parameters are getting set.
+
+    [XPB-510] Configure default host address for media server
+     (also fixed broken configuration for MWI notification)
+
+    [XPB-444] Do not treat an unrecognized revision as an error in
+              upgrade.
+       This comes up every time we create a new release, so I'm
+       changing the default.  If there is something that needs to be
+       upgraded, then this needs to be modified to deal with it, but if
+       there is no upgrade manipulation to do then we should not have to
+       edit this script just to recognize another number.
+
+    [XPS-24] Don't crash if SSL is not enabled.
+      Note: this still won't actually work correctly; it will log a bunch
+      of errors and fail, but it won't crash.
+      Getting it to actually work right would be harder and more or less
+      pointless since you really should use SSL to have any security at all.
+
+    Clean up logs: [XPR-78] [XRR-59] [XRR-95]
+      This removes a number of log entries that look scary (and so get
+      reported in many bug reports) but are actually benign.
+    http://track.sipfoundry.org/browse/XPR-78
+    http://track.sipfoundry.org/browse/XRR-95
+    http://track.sipfoundry.org/browse/XRR-59
+
+END

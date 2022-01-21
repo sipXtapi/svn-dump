@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-03-10T03:33:50.885177Z
+K 7
+svn:log
+V 139
+Make table names plural to follow ActiveRecord conventions.
+Define the function contact_host to return the host part of a SIP contact URL.
+
+END

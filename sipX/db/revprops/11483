@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2009-12-31T03:38:54.193099Z
+K 7
+svn:log
+V 112
+Restructured the Android make files to build pcre and sipX libs together in a single app. and added sipXsdpLib
+
+
+END

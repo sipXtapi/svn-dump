@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-11-30T23:54:07.179363Z
+K 7
+svn:log
+V 148
+oops forgot to run "ant style" -- shuffle declarations and promote more things from private to package scope so that checkstyle will get off my case
+END

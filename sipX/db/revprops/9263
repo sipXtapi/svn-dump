@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-06T15:02:48.823031Z
+K 7
+svn:log
+V 107
+Indent with tabs instead of spaces in sipXsdpLib/Makefile.am.
+Using spaces lead to errors on Debian Sarge.
+
+END

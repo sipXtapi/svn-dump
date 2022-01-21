@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-12-21T19:48:24.302584Z
+K 7
+svn:log
+V 349
+Modifications to the sipXtapi API (some major):
+
+1) Renamed sipxCallMake to sipxCallCreate
+2) Renamed sipxCallDrop to sipxCallDestroy
+3) Renamed implementatation methods of audio hooks (speaker & mic) to
+   match header file.
+4) Moved internal structs / APIs to a new header file
+5) Added some more documentation, cleared up all doxygen warnings.
+
+
+
+END

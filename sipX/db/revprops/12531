@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-10-20T05:23:17.149061Z
+K 7
+svn:log
+V 66
+Do a better job at dealing with decoder failure in MpJitterBuffer
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-11-11T20:31:11.738713Z
+K 7
+svn:log
+V 123
+Changes after code review:
+- SIPxchangeLoginModuleTest re-enabled
+- entire common.jar is packaged into profilegen-auth.jar
+
+END

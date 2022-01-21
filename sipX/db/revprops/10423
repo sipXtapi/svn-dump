@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-12-18T23:28:35.372369Z
+K 7
+svn:log
+V 97
+Remove MpResourceTest::testSamplesPerFrameAndSec() and 0s with NULLs when assigning to pointers.
+
+END

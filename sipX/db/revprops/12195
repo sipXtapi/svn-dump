@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2014-01-16T17:16:18.050005Z
+K 7
+svn:log
+V 76
+Added ability to set speaker volume and mic gain on command line place call
+
+END

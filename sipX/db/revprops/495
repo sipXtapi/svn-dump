@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-03-31T21:15:51.562255Z
+K 7
+svn:log
+V 134
+Remove portion of unit test that attempts to catch exception from
+OsUtil::insertKeyValue() since we no longer throw exceptions there.
+
+END

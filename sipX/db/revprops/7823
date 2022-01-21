@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-26T03:47:31.297529Z
+K 7
+svn:log
+V 513
+Fix signatures of OsConfDb methods so that non-modifying methods can
+apply to const objects.  Add mutable members and adjust method
+implementations.
+Fix routine that parses config file lines to allow whitespace (but not
+require it) where people expect.
+Allow comment lines (rather than just as a side effect of failing to
+parse them).
+Report config file line syntax errors at CRIT level.
+Add test for config file parsing method.
+Re-code OsConfigDb::getSubHash to be more efficient, and allow a const
+base object.
+
+END

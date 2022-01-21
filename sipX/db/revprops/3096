@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-10-04T20:53:43.414501Z
+K 7
+svn:log
+V 181
+Bug XCF-37: Fix major regression with check that invented new SIPX_ variables.  No measures were made to update config server with these variables beyond getting it to pass building
+END

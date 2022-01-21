@@ -1,0 +1,89 @@
+id: mz.4h.r1088/0
+type: dir
+pred: mz.0.r1087/10594
+count: 19
+text: 1087 10023 558 558 3fbc9590973760b6fc64e62bcc575819
+props: 1071 8348 179 0 f8780b9f6aac5ad15bff91396ce83e96
+cpath: /old/sipXmediaLib/tags/2.5.2
+copyfrom: 1087 /old/sipXmediaLib/main
+
+PLAIN
+K 5
+2.5.1
+V 19
+dir mz.4g.r1077/198
+K 5
+2.5.2
+V 17
+dir mz.4h.r1088/0
+END
+ENDREP
+id: uq.0.r1088/335
+type: dir
+pred: uq.0.r1077/496
+count: 1
+text: 1088 250 72 72 3eecdc6483c11e377a6d473185cb9413
+cpath: /old/sipXmediaLib/tags
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 20
+dir mz.0.r1087/10594
+K 4
+tags
+V 18
+dir uq.0.r1088/335
+END
+ENDREP
+id: my.0.r1088/578
+type: dir
+pred: my.0.r1087/10902
+count: 21
+text: 1088 493 72 72 88cf014efd25670ff60293d1b2d1f260
+cpath: /old/sipXmediaLib
+copyroot: 0 /
+
+PLAIN
+K 12
+sipXmediaLib
+V 18
+dir my.0.r1088/578
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1088/876
+type: dir
+pred: 1.0.r1087/11206
+count: 1087
+text: 1088 734 129 129 3708c757b725db28f878b0c466b38a6a
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r1088/876
+END
+ENDREP
+id: 0.0.r1088/1069
+type: dir
+pred: 0.0.r1087/11405
+count: 1088
+text: 1088 1021 35 35 5c2e823ea919036eea966b8d28a17cfc
+cpath: /
+copyroot: 0 /
+
+mz._0.t1087-1 add false false /old/sipXmediaLib/tags/2.5.2
+1087 /old/sipXmediaLib/main
+
+1069 1211

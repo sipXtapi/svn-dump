@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-10-26T19:23:50.178534Z
+K 7
+svn:log
+V 342
+XCF-722 - Set mailbox value to user name instead of voicemail server otherwise MWI message gets unauthorized. Optimal solution would to specify the uri thats called to get voicemail and uri used in contact field of subscribe messages separately, but snom phone does not support that as of firmware version 4.3.  submitting request off to snom
+END

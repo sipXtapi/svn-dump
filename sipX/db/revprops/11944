@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-06-04T20:45:29.352266Z
+K 7
+svn:log
+V 117
+Made SDP codec Mime subtype canonical case to be upper case.
+  Fixed a bunch of case sensativity issues in SdpCodec.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-28T01:26:49.351257Z
+K 7
+svn:log
+V 137
+XCF-564 fix auto attendant dialing rules migration: it now converts comma-separated list of aliases into space separated list of aliases
+
+END

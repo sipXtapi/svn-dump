@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2013-02-26T02:41:26.432908Z
+K 7
+svn:log
+V 154
+Change the size arg in setDataSize to be signed, so we can detect negative values and ignore them, rather than treating them as really big unsigned values
+END

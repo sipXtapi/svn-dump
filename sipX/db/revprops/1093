@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-08-16T10:04:15.163757Z
+K 7
+svn:log
+V 75
+Check in patch from Thien Nguyen which fixes compiler problems
+on MSVS 6.
+
+
+END

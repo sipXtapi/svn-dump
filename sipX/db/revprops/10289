@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-10-08T21:10:28.394429Z
+K 7
+svn:log
+V 216
+Change MpSineWaveGeneratorDeviceDriver::setNewTone to setTone, and modify so it only takes a wave period - no other values.
+Also eliminates thread stop and restart, as now it only changes an atomic value, so no need.
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-07-21T19:34:42.952574Z
+K 7
+svn:log
+V 169
+When generating XOR Mapped Address, XOR w/ MagicId -- not the TransactionId.  Also, don't only send the XOR mapped version unless requested or the MagicId is for bis4+
+
+
+END

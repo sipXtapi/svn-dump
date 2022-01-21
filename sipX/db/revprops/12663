@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2018-02-21T21:00:09.356071Z
+K 7
+svn:log
+V 122
+Change default maximum number of channels in MprRecorder to 2.
+We use 2 channel recording in the codec quality unit test.
+
+END

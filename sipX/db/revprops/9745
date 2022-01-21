@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-25T23:36:50.528291Z
+K 7
+svn:log
+V 124
+Compiler warnings cleanup: Use size_t instead on int as loop counter in sipXtapiTestSuite::testSendInfoExternalTransport().
+
+END

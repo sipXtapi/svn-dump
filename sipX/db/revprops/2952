@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-03-04T19:34:42.390776Z
+K 7
+svn:log
+V 29
+Turn off VXML debug logging.
+
+END

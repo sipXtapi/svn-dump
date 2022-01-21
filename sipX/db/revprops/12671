@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2018-02-21T21:24:57.333588Z
+K 7
+svn:log
+V 62
+Header file change for compiler warning fix in MpTestResource
+
+END

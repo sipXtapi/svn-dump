@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-09-29T03:22:10.052144Z
+K 7
+svn:log
+V 103
+Use freenum.org as the ISN redirector, as that is what the ISN people
+intend to use for the long term.
+
+END

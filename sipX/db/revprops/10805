@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-09-15T16:16:13.311251Z
+K 7
+svn:log
+V 46
+Now actually fix codecs compilation for MSVC.
+
+END

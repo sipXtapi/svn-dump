@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-19T13:20:23.947178Z
+K 7
+svn:log
+V 125
+Put MpNotificationDispatcher implementation to cpp file, add header and cpp files to VS6, VS2003, VS2005 and Linux projects.
+
+END

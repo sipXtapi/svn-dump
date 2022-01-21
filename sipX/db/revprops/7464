@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-09-12T18:21:00.268724Z
+K 7
+svn:log
+V 207
+XCF-1183 - Add domain manager support for managing (single, sorry) domain name.  Somewhat inline for Scott Z. to progress with for multiple domains and possible Dave. D.'s request for domain name in database
+END

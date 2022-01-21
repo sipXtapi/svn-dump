@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-06-23T20:27:44.954280Z
+K 7
+svn:log
+V 283
+Patch from Douglas:
+
+  Changed unittest makefile to use shared library and I marked
+  unittests that are failing so that we can sipXproxy building under
+  cruisecontrol.  Bug XPR-4 denotes failed unittests as does unittest
+  code.
+
+Set ignore properties for various build products.
+
+
+END

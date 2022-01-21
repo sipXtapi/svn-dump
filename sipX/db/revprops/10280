@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-05T16:13:29.831267Z
+K 7
+svn:log
+V 63
+Update sipXtapi regression tests to build with latest changes.
+
+END

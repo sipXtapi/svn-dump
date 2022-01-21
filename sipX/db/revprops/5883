@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-01-17T19:45:01.315410Z
+K 7
+svn:log
+V 258
+Add lastSentUpdateNumber to pushUpdates to avoid the problem that Dale pointed out due to resets in one direction crossing pushUpdates in the other direction.
+Add a section on protocol interoperability.
+Clarify the explanation of how the reset method works.
+
+END

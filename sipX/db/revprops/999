@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-18T21:01:33.496946Z
+K 7
+svn:log
+V 83
+First version of tcpdump2siptrace, to translate tcpdump output to
+siptrace format.
+
+END

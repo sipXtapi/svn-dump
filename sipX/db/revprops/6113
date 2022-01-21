@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-02-13T19:24:34.724772Z
+K 7
+svn:log
+V 100
+XCF-753 - Forms id is controlled by tapestry 4, move ids to other elements for property unit testing
+END

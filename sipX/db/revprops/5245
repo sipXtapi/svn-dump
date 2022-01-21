@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-30T19:31:12.268475Z
+K 7
+svn:log
+V 66
+XCF-556 generate SIP password automatically for newly added users
+
+END

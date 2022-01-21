@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-26T19:30:26.245657Z
+K 7
+svn:log
+V 484
+Next stage in adding STUN support to sipXtapi and eventually the sipXphone
+project.
+
+From sipXtapi you can now decide to use a NAT_MAPPED address or a LOCAL
+address on a per-line basis.  REGISTER messages will include contacts with
+either the STUN-derived contact or the local contact.
+
+I also fixed a few local contact issues while looking through the code.  We
+now include a contact with most responses.  We also now include a contact when
+sending a OPTION method (it was missing).
+
+END

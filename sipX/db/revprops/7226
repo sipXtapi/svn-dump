@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-08-08T21:04:50.705232Z
+K 7
+svn:log
+V 46
+Fix build errors w/typos and broken references
+END

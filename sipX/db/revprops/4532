@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-03-11T18:48:20.710677Z
+K 7
+svn:log
+V 92
+Checked in this missing wavefile because VM app needs it for playing out the message info.
+
+
+END

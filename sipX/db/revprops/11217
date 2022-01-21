@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-23T12:37:12.954463Z
+K 7
+svn:log
+V 132
+sipXmediaLib: Add fullReset() method to MpPlcBase.
+It returns algorithm to the state as right after creation before calling init().
+
+END

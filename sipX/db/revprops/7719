@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-10T15:09:24.985437Z
+K 7
+svn:log
+V 111
+mergefrom sipx 7718
+
+Enable Makefile to substitute for installation directory names as well
+as the SIP domain.
+
+END

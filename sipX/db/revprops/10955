@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-11-18T17:21:07.940814Z
+K 7
+svn:log
+V 177
+Automated build script for *nix platforms.
+This can be used by regular users as well.
+
+This script will exit at any point any of the commands return with non-zero exit status.
+
+
+END

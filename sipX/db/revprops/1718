@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-04-07T12:20:38.305682Z
+K 7
+svn:log
+V 39
+Changes required to build under linux
+
+
+END

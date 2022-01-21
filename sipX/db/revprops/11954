@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-08-24T04:49:08.826878Z
+K 7
+svn:log
+V 644
+Don't remove sipXtapi INFO context if we resend the INFO for authentication challenge and don't access NULL INFO context if its not found.
+If an INFO is chalenged for authentication, and the INFO was sent via sipXtapi 
+(i.e. it has an INFO data structure associated with the transaction) we need to keep
+the INFO data around until the resend INFO request gets a response.  Previously the
+INFO data was deleted when the response was recieved for the intial INFO request.
+Then when the response was recieved for the INFO resent with auth credentials a
+SEGV occurred when accessing the NULL INFO data structure (i.e. not found as it was
+deleted).
+
+END

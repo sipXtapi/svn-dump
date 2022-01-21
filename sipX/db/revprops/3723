@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-03-29T20:43:56.632614Z
+K 7
+svn:log
+V 135
+XCF-287 added generation of the final authorization rule that rejects all the calls to gateways that have previous authorization rules
+
+END

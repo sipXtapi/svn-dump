@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-02-20T20:53:52.580055Z
+K 7
+svn:log
+V 136
+XCF-753 invent 'spring-validators:' prefix to delegate form validators to spring, if spring doesn't have bean, then delegate to hivemind
+END

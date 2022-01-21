@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-05-09T17:29:04.949805Z
+K 7
+svn:log
+V 124
+Fix to obscure delete of void*.  MSVC6 does not seem to
+like to delete const void*.  Not sure why void* is allowed
+either.
+
+
+END

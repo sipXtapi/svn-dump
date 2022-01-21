@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 6
+prikov
+K 8
+svn:date
+V 27
+2005-09-02T14:18:47.081000Z
+K 7
+svn:log
+V 157
+Merged revisions 3612 via svnmerge from
+https://paradise.pingtel.com/rep/sipX/mirror/main
+  | Add libRegistrarImpliedMWI.* to sipXcallLib/config/sipXlib.m4
+
+
+END

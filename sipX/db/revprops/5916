@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-01-20T13:29:02.945104Z
+K 7
+svn:log
+V 438
+Defined the internal methods in RegistrarInitialSync that are the
+   statup phase steps.
+Implemented SyncRpcReset::invoke
+ (client side of registrarSync.reset XML-RPC method)
+Re-ordered a couple of things in SipRegistrar initialization
+ to get the dependencies correct.
+Changed a couple of interfaces to always pass the primary name
+ as a const char* (we won't normally be manipulating these, so this is
+   easier than passing UtlString)
+
+END

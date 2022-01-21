@@ -1,0 +1,340 @@
+PLAIN
+K 13
+svn:externals
+V 75
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.9-export-A/config
+
+K 10
+svn:ignore
+V 225
+BUILDSTAMP
+Debug
+Makefile
+Makefile.in
+Release
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.properties
+config.status
+configure
+libtool
+sipxtacklib-*.rpm
+sipxtacklib-*.tar.gz
+sipxtacklib.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 55
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 41
+1-131,137,147,152,155-157,159,169,188,197
+K 17
+svnmerge-2.8-head
+V 55
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 37
+1-230,233,238,251,258,279,319,338,436
+K 18
+svnmerge-main-revs
+V 13
+1-229,321-328
+K 22
+svnmerge-user_pin-head
+V 60
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-342
+K 23
+svnmerge-user_ping-head
+V 61
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-277
+END
+ENDREP
+id: dk.4f.r1065/979
+type: dir
+pred: dk.0.r1064/2265
+count: 360
+text: 1064 969 1283 1283 f24dbec85ec1e0bc3a067e4b4abdba6f
+props: 1065 0 966 0 3891603a81f0a003fe1df36a8ec7b7c3
+cpath: /old/sipXtackLib/tags/2.9-export-A
+copyfrom: 1064 /old/sipXtackLib/main
+
+PLAIN
+K 5
+2.5.1
+V 19
+dir dk.2k.r622/2796
+K 5
+2.5.2
+V 19
+dir dk.2l.r641/1720
+K 12
+2.6-export-A
+V 18
+dir dk.2v.r697/562
+K 12
+2.6-export-B
+V 18
+dir dk.2w.r699/562
+K 12
+2.6-export-C
+V 18
+dir dk.2x.r706/563
+K 12
+2.6-export-D
+V 18
+dir dk.2y.r707/563
+K 12
+2.6-export-E
+V 18
+dir dk.2z.r708/563
+K 12
+2.6-export-F
+V 18
+dir dk.30.r713/563
+K 12
+2.6-export-G
+V 18
+dir dk.32.r718/446
+K 12
+2.6-export-H
+V 18
+dir dk.33.r719/446
+K 12
+2.6-export-J
+V 18
+dir dk.34.r722/446
+K 12
+2.6-export-K
+V 18
+dir dk.35.r725/446
+K 12
+2.6-export-L
+V 18
+dir dk.36.r728/446
+K 12
+2.6-export-M
+V 18
+dir dk.37.r730/446
+K 12
+2.6-export-N
+V 18
+dir dk.38.r732/446
+K 12
+2.6-export-O
+V 18
+dir dk.3b.r761/446
+K 12
+2.6-export-P
+V 18
+dir dk.3c.r762/446
+K 12
+2.6-export-Q
+V 18
+dir dk.3d.r764/446
+K 12
+2.6-export-R
+V 18
+dir dk.3e.r767/446
+K 12
+2.6-export-S
+V 18
+dir dk.3f.r769/446
+K 12
+2.6-export-T
+V 18
+dir dk.3g.r774/446
+K 12
+2.6-export-U
+V 18
+dir dk.3i.r778/446
+K 5
+2.6.1
+V 18
+dir dk.31.r715/556
+K 5
+2.6.2
+V 19
+dir dk.3j.r788/2756
+K 12
+2.8-export-A
+V 18
+dir dk.3m.r835/630
+K 12
+2.8-export-B
+V 18
+dir dk.3n.r852/630
+K 12
+2.8-export-C
+V 18
+dir dk.3r.r871/630
+K 12
+2.8-export-D
+V 18
+dir dk.3u.r882/630
+K 12
+2.8-export-E
+V 18
+dir dk.3v.r887/630
+K 12
+2.8-export-F
+V 18
+dir dk.3z.r899/630
+K 12
+2.8-export-G
+V 18
+dir dk.40.r905/630
+K 12
+2.8-export-H
+V 18
+dir dk.41.r907/630
+K 12
+2.8-export-I
+V 18
+dir dk.42.r908/630
+K 12
+2.8-export-J
+V 18
+dir dk.44.r912/630
+K 12
+2.8-export-K
+V 18
+dir dk.45.r913/630
+K 12
+2.8-export-L
+V 18
+dir dk.46.r939/639
+K 12
+2.8-export-M
+V 18
+dir dk.48.r946/639
+K 12
+2.8-export-N
+V 18
+dir dk.49.r948/639
+K 12
+2.8-export-O
+V 18
+dir dk.4c.r994/639
+K 5
+2.8.1
+V 19
+dir dk.4e.r1015/632
+K 12
+2.9-export-A
+V 19
+dir dk.4f.r1065/979
+K 9
+copy-test
+V 19
+dir dk.39.r757/7734
+K 13
+main-export-B
+V 18
+dir dk.2s.r692/447
+K 13
+main-export-C
+V 18
+dir dk.2t.r694/447
+K 17
+sipxtapi-export-A
+V 18
+dir dk.3p.r864/658
+K 17
+sipxtapi-export-B
+V 19
+dir dk.3t.r892/2281
+K 17
+sipxtapi-export-C
+V 18
+dir dk.3x.r893/793
+K 17
+sipxtapi-export-D
+V 18
+dir dk.43.r910/925
+END
+ENDREP
+id: kr.0.r1065/3251
+type: dir
+pred: kr.0.r1015/2864
+count: 58
+text: 1065 1233 2005 2005 5c57d90dbc9201775c417d828a974449
+cpath: /old/sipXtackLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir kz.0.r1035/2302
+K 4
+main
+V 19
+dir dk.0.r1064/2265
+K 4
+tags
+V 19
+dir kr.0.r1065/3251
+END
+ENDREP
+id: dj.0.r1065/3539
+type: dir
+pred: dj.0.r1064/2609
+count: 466
+text: 1065 3416 110 110 e82ee14414f807df056c747b72c17e0c
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 19
+dir dj.0.r1065/3539
+END
+ENDREP
+id: 1.0.r1065/3797
+type: dir
+pred: 1.0.r1064/2867
+count: 1064
+text: 1065 3698 86 86 ae00b4d59adf667d8f83933ba3906bbf
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1065/3797
+END
+ENDREP
+id: 0.0.r1065/3990
+type: dir
+pred: 0.0.r1064/3060
+count: 1065
+text: 1065 3941 36 36 b88ef942c24fb9863dc4bbc7f00ea69d
+cpath: /
+copyroot: 0 /
+
+dk._0.t1064-1 add false true /old/sipXtackLib/tags/2.9-export-A
+1064 /old/sipXtackLib/main
+
+3990 4131

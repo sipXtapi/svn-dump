@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-02-01T00:01:02.740579Z
+K 7
+svn:log
+V 225
+Add some logging in SyncRpc.cpp.
+In SipRegistrar, activate the line that creates RegistrarSync, otherwise an assert will fire when processing REGISTER messages, if HA is configured, when we discover RegistarSync ptr is NULL.
+
+END

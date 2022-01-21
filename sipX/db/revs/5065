@@ -1,0 +1,95 @@
+id: 2hf.20y.r5065/0
+type: dir
+pred: 2hf.1i7.r5059/4014
+count: 969
+text: 5059 2849 1152 1152 4eb7a495409b39a6c4b3d9989b8e7410
+props: 4971 8981 550 0 a66702beb610c27e480ffaae291fa48e
+cpath: /branches/sipXconfig_unique_sip_usernames
+copyfrom: 5062 /main/sipXconfig
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 21
+dir 7pv.0.r4813/26770
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 7
+lowcarb
+V 21
+dir 7py.0.r4813/27240
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 7
+restful
+V 21
+dir 7q0.0.r4813/15683
+K 15
+sipXconfig-soap
+V 25
+dir 2hf.20x.r5063/2525811
+K 31
+sipXconfig_unique_sip_usernames
+V 19
+dir 2hf.20y.r5065/0
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+K 8
+user_pin
+V 21
+dir 7q2.0.r4813/19786
+K 9
+user_ping
+V 21
+dir 7q3.0.r4813/30843
+END
+ENDREP
+id: 7pt.0.r5065/814
+type: dir
+pred: 7pt.0.r5063/2526567
+count: 4
+text: 5065 263 538 538 e46718c12eb921a0d0d4f650d0125733
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 7pt.0.r5065/814
+K 4
+main
+V 20
+dir 7q4.0.r5064/6897
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r5065/1094
+type: dir
+pred: 0.0.r5064/7236
+count: 5065
+text: 5065 967 114 114 46e8ca5707c8e4b177f0abef7c6cc73d
+cpath: /
+copyroot: 0 /
+
+2hf._0.t5064-1 add false false /branches/sipXconfig_unique_sip_usernames
+5062 /main/sipXconfig
+
+1094 1236

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-02-09T16:39:34.459390Z
+K 7
+svn:log
+V 109
+XCF-753 Convert beans and listeners to bean: and listener: prefixes, get phone and add phone pages renedering
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-12-15T04:53:40.086011Z
+K 7
+svn:log
+V 77
+Added SDP constructs for G.722.1 annex C (32k sps) and non-annex C (16k sps)
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-03-07T20:20:17.267446Z
+K 7
+svn:log
+V 308
+XCF-753 listeners cleanup after upgrade to T4 cont.
+- pass parameters directly to listeners rather than using getListenersParameters and assertParameter methods
+- listeners now return the name of the page to activate or the instance of the page to activate instead of calling IRequestCycle.activate directly
+
+END

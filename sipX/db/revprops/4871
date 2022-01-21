@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-07-21T17:40:40.687993Z
+K 7
+svn:log
+V 147
+1. Remove hibernate tasks giving problem they are undefined
+2. use base.path by refid instead of classpath variable, works in linux but not windows
+END

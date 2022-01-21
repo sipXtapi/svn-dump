@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+raghu
+K 8
+svn:date
+V 27
+2004-07-06T18:10:31.027024Z
+K 7
+svn:log
+V 75
+Renamed test for UtlSortedListIterator.cpp to UtlSortedListIteratorTest.cpp
+END

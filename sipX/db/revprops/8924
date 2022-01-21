@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-02-27T23:03:47.160535Z
+K 7
+svn:log
+V 131
+First pass at a unit test for MpAudioBuf and MpInputDeviceManager.
+  These tests do not pass yet.  SOrry for the unit test noise.
+
+
+END

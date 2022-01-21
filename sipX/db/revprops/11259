@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-02-06T00:24:21.288261Z
+K 7
+svn:log
+V 74
+sipXtapi: Add media events for recording to file and recording to buffer.
+
+END

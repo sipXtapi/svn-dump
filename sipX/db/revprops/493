@@ -1,0 +1,31 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-03-29T23:06:38.434316Z
+K 7
+svn:log
+V 790
+ In UtlContainer.h, the acquireIteratorConnectionLock method should be protected.
+
+If this method is left at the protected access level, then
+Microsoft Visual C++ is correctly failing to compile all UtlIterator derived classes.
+
+Here's whats going on: UtlIterator declares UtlContainer to be a friend.
+
+However, as in real-life, your parent's friends are not neccessarily your friends.
+So, the UtlIterator derived classes cannot access the protected acquireIteratorConnectionLock.
+
+So, I suppose each derived class needs to declare UtlContainer as its friend.
+
+As a quick fix, this method has been upgraded to the public access level.
+The real fix is to change all UtlIterator derived classes to declare UtlContainer as their friends.
+
+This also applies to releaseIteratorConnectionLock.
+
+
+
+END

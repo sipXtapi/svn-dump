@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-07T17:50:02.180481Z
+K 7
+svn:log
+V 74
+XCF-317 default session timeout set to 15 minutes (down from 120 minutes)
+
+END

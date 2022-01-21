@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-10-24T17:14:27.953182Z
+K 7
+svn:log
+V 233
+XPB-391 atomic generation of XML files by sipXconfig
+sipXconfig will dump XML document to temporary file in the same directory as configuration file
+if that operation succeeds sipXconfig will rename temp file into configuration file
+
+END

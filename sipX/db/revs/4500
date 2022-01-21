@@ -1,0 +1,575 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6ot.0.r4500/82
+type: file
+pred: 6ot.0.r4499/82
+count: 2
+text: 4493 0 1830 4975 004362877c622aa50c3eb73bfafc20a8
+props: 4500 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpbx/main/src/mailboxmgr/SosCGI.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6ou.0.r4500/398
+type: file
+pred: 6ou.0.r4499/400
+count: 2
+text: 4493 1843 676 978 10d27390c548c69be08cf1b3eac2489c
+props: 4500 316 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpbx/main/src/mailboxmgr/SosCGI.h
+copyroot: 0 /
+
+PLAIN
+K 24
+ActiveGreetingHelper.cpp
+V 23
+file 5hj.0.r4454/259094
+K 22
+ActiveGreetingHelper.h
+V 22
+file 5hk.0.r4494/19079
+K 20
+AutoAttendantCGI.cpp
+V 23
+file 5hl.0.r4454/250952
+K 18
+AutoAttendantCGI.h
+V 22
+file 5hm.0.r4494/15993
+K 12
+CGICommand.h
+V 22
+file 5hn.0.r4494/17028
+K 21
+CategorizedString.cpp
+V 23
+file 6o6.0.r4454/256712
+K 19
+CategorizedString.h
+V 23
+file 6o7.0.r4454/274340
+K 11
+ChangePin.h
+V 22
+file 5ho.0.r4494/12926
+K 21
+DeleteGreetingCGI.cpp
+V 23
+file 5hp.0.r4454/269602
+K 19
+DeleteGreetingCGI.h
+V 22
+file 5hq.0.r4494/14449
+K 20
+DeleteMailboxCGI.cpp
+V 23
+file 5hr.0.r4454/265517
+K 18
+DeleteMailboxCGI.h
+V 22
+file 5hs.0.r4494/16772
+K 14
+DepositCGI.cpp
+V 23
+file 5ht.0.r4454/268581
+K 12
+DepositCGI.h
+V 22
+file 5hu.0.r4494/12676
+K 17
+DialByNameCGI.cpp
+V 23
+file 5hv.0.r4454/257050
+K 15
+DialByNameCGI.h
+V 22
+file 5hw.0.r4494/18312
+K 21
+EditMessageWebCGI.cpp
+V 23
+file 5hx.0.r4454/253990
+K 19
+EditMessageWebCGI.h
+V 22
+file 5hy.0.r4494/20615
+K 22
+ForwardMessagesCGI.cpp
+V 23
+file 5hz.0.r4454/255350
+K 20
+ForwardMessagesCGI.h
+V 22
+file 5i0.0.r4494/20872
+K 22
+GetAllGreetingsCGI.cpp
+V 23
+file 5i1.0.r4454/265857
+K 20
+GetAllGreetingsCGI.h
+V 22
+file 5i2.0.r4494/17276
+K 26
+GetAllSystemPromptsCGI.cpp
+V 23
+file 5i3.0.r4454/256030
+K 24
+GetAllSystemPromptsCGI.h
+V 22
+file 5i4.0.r4494/21633
+K 27
+GetMessageDetailsHelper.cpp
+V 23
+file 5i5.0.r4454/273658
+K 25
+GetMessageDetailsHelper.h
+V 22
+file 5i6.0.r4494/15482
+K 16
+GetNavWebCGI.cpp
+V 23
+file 5i7.0.r4454/261125
+K 14
+GetNavWebCGI.h
+V 22
+file 5i8.0.r4494/13681
+K 10
+HTMLDefs.h
+V 22
+file 5i9.0.r4494/20116
+K 12
+LoginCGI.cpp
+V 23
+file 5ia.0.r4454/263831
+K 10
+LoginCGI.h
+V 22
+file 5ib.0.r4494/15745
+K 18
+MailboxManager.cpp
+V 21
+file 5ic.0.r4498/2520
+K 16
+MailboxManager.h
+V 22
+file 5id.0.r4494/21895
+K 11
+Makefile.am
+V 21
+file 5ie.0.r4497/5365
+K 23
+ManageFoldersWebCGI.cpp
+V 23
+file 5if.0.r4454/272299
+K 21
+ManageFoldersWebCGI.h
+V 22
+file 5ig.0.r4494/14962
+K 29
+ManageNotificationsWebCGI.cpp
+V 23
+file 5ih.0.r4454/252634
+K 27
+ManageNotificationsWebCGI.h
+V 22
+file 5ii.0.r4494/19851
+K 22
+MessageIDGenerator.cpp
+V 23
+file 5ij.0.r4454/268913
+K 20
+MessageIDGenerator.h
+V 22
+file 5ik.0.r4494/13933
+K 19
+MoveMessagesCGI.cpp
+V 23
+file 5il.0.r4454/271287
+K 17
+MoveMessagesCGI.h
+V 22
+file 5im.0.r4494/19596
+K 22
+NotificationHelper.cpp
+V 23
+file 5in.0.r4454/256375
+K 20
+NotificationHelper.h
+V 22
+file 5io.0.r4494/18054
+K 19
+PlayMessagesCGI.cpp
+V 23
+file 5ip.0.r4454/267219
+K 17
+PlayMessagesCGI.h
+V 22
+file 5iq.0.r4494/21130
+K 25
+RecycleDeletedMsgsCGI.cpp
+V 23
+file 5ir.0.r4454/272969
+K 23
+RecycleDeletedMsgsCGI.h
+V 22
+file 5is.0.r4494/15221
+K 15
+RetrieveCGI.cpp
+V 23
+file 5it.0.r4454/266541
+K 13
+RetrieveCGI.h
+V 22
+file 5iu.0.r4494/20364
+K 19
+SaveGreetingCGI.cpp
+V 23
+file 5iv.0.r4454/252984
+K 17
+SaveGreetingCGI.h
+V 22
+file 5iw.0.r4494/17534
+K 15
+SaveMessage.cpp
+V 23
+file 5ix.0.r4454/259766
+K 13
+SaveMessage.h
+V 22
+file 5iy.0.r4494/13430
+K 24
+SaveSystemPromptsCGI.cpp
+V 23
+file 5iz.0.r4454/269943
+K 22
+SaveSystemPromptsCGI.h
+V 22
+file 5j0.0.r4494/19336
+K 19
+SetActiveGreeting.h
+V 22
+file 5j1.0.r4494/14706
+K 24
+SetActiveGreetingCGI.cpp
+V 23
+file 5j2.0.r4454/265172
+K 22
+SetActiveGreetingCGI.h
+V 22
+file 5j3.0.r4494/16511
+K 28
+SetActiveSystemPromptCGI.cpp
+V 23
+file 5j4.0.r4454/267556
+K 26
+SetActiveSystemPromptCGI.h
+V 22
+file 5j5.0.r4494/17789
+K 10
+SosCGI.cpp
+V 19
+file 6ot.0.r4500/82
+K 8
+SosCGI.h
+V 20
+file 6ou.0.r4500/398
+K 19
+StatusServerCGI.cpp
+V 23
+file 5j6.0.r4454/257730
+K 17
+StatusServerCGI.h
+V 22
+file 5j7.0.r4494/13174
+K 21
+TransferToExtnCGI.cpp
+V 23
+file 5j8.0.r4454/262467
+K 19
+TransferToExtnCGI.h
+V 22
+file 5j9.0.r4494/14191
+K 26
+UpdateMessageStatesCGI.cpp
+V 23
+file 5ja.0.r4464/185044
+K 24
+UpdateMessageStatesCGI.h
+V 22
+file 5jb.0.r4494/16248
+K 10
+VXMLDefs.h
+V 22
+file 5jc.0.r4494/18565
+K 28
+ValidateMailboxCGIHelper.cpp
+V 23
+file 5jd.0.r4454/257387
+K 26
+ValidateMailboxCGIHelper.h
+V 22
+file 5je.0.r4494/18814
+END
+ENDREP
+id: 5hi.0.r4500/4509
+type: dir
+pred: 5hi.0.r4499/4512
+count: 45
+text: 4500 635 3861 3861 95c65a81ce400d0c7b755492fd64d305
+props: 4144 2276 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /old/sipXpbx/main/src/mailboxmgr
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 5hc.0.r4454/284715
+K 13
+emailnotifier
+V 21
+dir 5hd.0.r4497/12097
+K 10
+mailboxmgr
+V 20
+dir 5hi.0.r4500/4509
+K 14
+mediaservercgi
+V 21
+dir 5jf.0.r4497/12688
+K 12
+mod_sipxauth
+V 21
+dir 5ji.0.r4497/10826
+K 10
+processcgi
+V 21
+dir 5jm.0.r4497/10178
+K 14
+replicationcgi
+V 21
+dir 5ju.0.r4497/13280
+K 7
+sipxcgi
+V 21
+dir 5jx.0.r4497/11415
+K 4
+test
+V 20
+dir 5k0.0.r4497/4101
+K 8
+watchdog
+V 20
+dir 5kc.0.r4497/5139
+K 10
+wwwcontent
+V 20
+dir 5r8.0.r4486/2982
+END
+ENDREP
+id: 5hb.0.r4500/5229
+type: dir
+pred: 5hb.0.r4499/5232
+count: 109
+text: 4500 4741 475 475 0ee39be837125b0de5da90c249f753d6
+props: 4144 5413 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpbx/main/src
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4454/288397
+K 9
+ChangeLog
+V 20
+file 5g8.0.r4488/735
+K 7
+INSTALL
+V 23
+file 5g9.0.r4454/289610
+K 7
+LICENSE
+V 19
+file 5ga.0.r4454/82
+K 11
+Makefile.am
+V 23
+file 5gb.0.r4454/294056
+K 4
+NEWS
+V 23
+file 5gc.0.r4454/299658
+K 6
+README
+V 23
+file 5gd.0.r4454/288092
+K 4
+TODO
+V 23
+file 5ge.0.r4454/289304
+K 9
+acsite.m4
+V 21
+file 5gf.0.r4454/4092
+K 3
+bin
+V 21
+dir 5gg.0.r4497/16186
+K 12
+configure.ac
+V 22
+file 5gl.0.r4497/14229
+K 3
+doc
+V 21
+dir 5gm.0.r4497/14969
+K 3
+etc
+V 20
+dir 5gp.0.r4473/1209
+K 7
+include
+V 20
+dir 5h2.0.r4454/3129
+K 4
+meta
+V 21
+dir 6of.z4.r4454/3822
+K 15
+sipxpbx.spec.in
+V 20
+file 6mo.0.r4478/389
+K 3
+src
+V 20
+dir 5hb.0.r4500/5229
+END
+ENDREP
+id: 5g6.0.r4500/6140
+type: dir
+pred: 5g6.0.r4499/6143
+count: 315
+text: 4500 5450 677 677 8238ec65054d35e34c92248f52099b79
+props: 4488 1647 465 0 fb8962ad6059360c74e96aef621f3121
+cpath: /old/sipXpbx/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 6o1.0.r4484/3873
+K 4
+main
+V 20
+dir 5g6.0.r4500/6140
+K 4
+tags
+V 20
+dir 5kn.0.r4485/5488
+END
+ENDREP
+id: 5g5.0.r4500/6484
+type: dir
+pred: 5g5.0.r4499/6487
+count: 407
+text: 4500 6358 113 113 5e9043084721b7fda7275754932834e4
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4500/6484
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4500/7124
+type: dir
+pred: 1.0.r4499/7127
+count: 4498
+text: 4500 6641 470 470 306bc7625d930ca52b6a6537d6b2fdfc
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4500/7124
+END
+ENDREP
+id: 0.0.r4500/7319
+type: dir
+pred: 0.0.r4499/7322
+count: 4500
+text: 4500 7270 36 36 6d1d49226a4f674fd036bfd50d4a897f
+cpath: /
+copyroot: 0 /
+
+6ou.0.t4499-1 modify false true /old/sipXpbx/main/src/mailboxmgr/SosCGI.h
+
+6ot.0.t4499-1 modify false true /old/sipXpbx/main/src/mailboxmgr/SosCGI.cpp
+
+
+7319 7460

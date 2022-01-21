@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-05-06T16:56:17.085007Z
+K 7
+svn:log
+V 145
+Project files and sipXtapi solution updated: GIPS defines removed, output files moved to bin\ and lib\ directories, PCRE libs updated to PCRE 6.4
+END

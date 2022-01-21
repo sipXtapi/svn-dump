@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-11-02T16:09:36.248729Z
+K 7
+svn:log
+V 148
+Remove directory that should have been deleted during the merge for
+the new redirector system.  (Its contents have been moved to
+register_plugins.)
+
+END

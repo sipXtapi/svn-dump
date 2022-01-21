@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2004-12-20T20:39:00.175708Z
+K 7
+svn:log
+V 113
+fix for XPH-22
+changed "Voicemail" to "Voice-Message"
+enables Number of Messages waiting to be
+displayed by phone
+END

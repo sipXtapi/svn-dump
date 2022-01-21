@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-10-14T16:31:43.400159Z
+K 7
+svn:log
+V 73
+Added workspace for sipXphone and added ignores for derived win32
+files
+
+
+END

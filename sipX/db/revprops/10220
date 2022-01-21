@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-09-20T16:57:34.555534Z
+K 7
+svn:log
+V 246
+Add isValid inquiry method to MpInputDeviceDriver base class.
+
+Fix up MpInputDeviceDriverTest, so it works with Test devices (MpSineWaveGeneratorDeviceDriver) and has less OS specific code blocks - and uses new isValid MpInputDeviceDriver method.
+END

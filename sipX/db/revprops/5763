@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2005-12-19T16:58:10.834330Z
+K 7
+svn:log
+V 402
+- added SSL project settings for sipXportlib and sipXtackLib for VS.net
+- fix WIN32 compile issues in OsSSL.cpp
+- fix WIN32 compile issues for UtlLongLongInt.h - ie. no strtoll fn in windows
+- fix bbridge so that sipXCommServerLib can be used in windows builds - requires OpenSSL
+- fix bbridge to compile with latest resiprocate interface changes
+- added eol-style = native for all bbridge source files
+END

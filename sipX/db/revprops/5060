@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-09-17T00:24:53.566024Z
+K 7
+svn:log
+V 149
+Implemented S/MIME encript method using Openssl.
+
+Fixed a bunch of bugs in the S/MIME implementation.
+
+UPdated the DSP files for theuse of openssl.
+
+
+END

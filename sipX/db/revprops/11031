@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-05T19:05:22.430848Z
+K 7
+svn:log
+V 749
+Big callID clean up.
+For a long time we had no clear differentiation between SIP session call IDs and CpPeerCall's call IDs.
+And that setup worked fine for most cases, though failed to handle complex cases such as conference join. From user point of view it looked like sipxConferenceJoin() returns an error for every attempt to join a conference except the very first one (join to empty conference is handled differently and was not affected by the bug).
+Now these IDs a clearly differentiated. SIP session IDs can't be used as CpPeerCall call ID and vice versa. This is ensured by a set of asserts in sipxFireCallEvent(). All sipXtapi unittests are passing as expected now, including new unittest which covers multiple sipxConferenceJoin() calls.
+
+END

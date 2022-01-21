@@ -1,0 +1,117 @@
+id: 2hf.ha.r3088/0
+type: dir
+pred: 2hf.0.r3086/1752
+count: 58
+text: 3086 649 1090 1090 0ce9da6de35554e1b56d8a000a8f3271
+props: 3055 5989 259 0 69df2b86f19c9537de805791a2312c9f
+cpath: /old/sipXconfig/branches/post-2.6.1
+copyfrom: 3087 /old/sipXconfig/main
+
+PLAIN
+K 10
+post-2.6.1
+V 18
+dir 2hf.ha.r3088/0
+END
+ENDREP
+id: 4c1.0.r3088/313
+type: dir
+pred: 4c1.0.r3087/0
+count: 1
+text: 3088 256 44 44 09d0e00b9124af02ca9d7bc79b41ab40
+cpath: /old/sipXconfig/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 4c1.0.r3088/313
+K 4
+main
+V 20
+dir 2hf.0.r3086/1752
+K 4
+tags
+V 20
+dir 4b6.0.r3047/1810
+END
+ENDREP
+id: 2he.0.r3088/598
+type: dir
+pred: 2he.0.r3087/207
+count: 64
+text: 3088 473 112 112 5cde03d691651d9accee6996c9c9c544
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 19
+dir 2he.0.r3088/598
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3088/1197
+type: dir
+pred: 1.0.r3087/806
+count: 3087
+text: 3088 754 430 430 108302855b4f40d3ae608c9caf4e65c3
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3088/1197
+END
+ENDREP
+id: 0.0.r3088/1390
+type: dir
+pred: 0.0.r3087/998
+count: 3088
+text: 3088 1341 36 36 279a42c42c2917f9599921badff05422
+cpath: /
+copyroot: 0 /
+
+2hf._0.t3087-1 add false false /old/sipXconfig/branches/post-2.6.1
+3087 /old/sipXconfig/main
+
+1390 1530

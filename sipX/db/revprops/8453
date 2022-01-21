@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-05T21:46:30.441022Z
+K 7
+svn:log
+V 222
+XCF-1218 The 'Enabled' column contents is now displayed as Enabled/Disabled and not true/false; it is localizable (use enabled/disabled keys from sipxconfig-web.properties
+Added 'disabled' key to sipxconfig-web.properties
+
+END

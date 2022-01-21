@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2008-02-29T18:40:49.420409Z
+K 7
+svn:log
+V 54
+Added a quick script to build and package under linux
+
+END

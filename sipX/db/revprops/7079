@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-07-13T17:49:31.962880Z
+K 7
+svn:log
+V 326
+XCF-1132 remove default value (100) of the onfail/transfer-extension parameter - we do not know which extensions are valid 
+fix autoattendant.vm template to work properly if transfer-extension is not set - use quiet reference notation - see http://jakarta.apache.org/velocity/docs/user-guide.html#Quiet%20Reference%20Notation
+
+END

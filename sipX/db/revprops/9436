@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-27T15:30:06.836377Z
+K 7
+svn:log
+V 161
+Enable again input driver jitter check in MpInputDeviceDriverTest under Linux.
+The problem was with inaccurate timer, used for jitter calculation (see rev9435).
+
+END

@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-06-23T21:43:09.360313Z
+K 7
+svn:log
+V 278
+Remove UtlString::UtlString(int), as it constructs a null string with
+a certain amount of space preallocated, but it matches the call
+UtlString::UtlString(char), and so can cause errors that are hard to
+diagnose.
+Uses can be replaced with:
+    UtlString x;
+    x.capacity(...);
+
+END

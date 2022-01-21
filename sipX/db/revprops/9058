@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-03-12T19:20:41.338102Z
+K 7
+svn:log
+V 156
+Make constructors of redirectors "explicit", since they take one
+argument (the instance name) and could be mistaken (by the compiler)
+for type conversions.
+
+END

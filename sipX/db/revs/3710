@@ -1,0 +1,475 @@
+PLAIN
+K 26
+PasswordSettingTestUi.java
+V 22
+file 542.sm.r3709/1160
+END
+ENDREP
+id: 540.sm.r3710/77
+type: dir
+pred: 540.sm.r3709/1610
+count: 2
+text: 3710 0 64 64 f18df3b5a7539b8e3e2001e2ab2da69e
+cpath: /old/sipXconfig/branches/2.8/web/test/org/sipfoundry/sipxconfig/site/phone/polycom
+copyroot: 3709 /old/sipXconfig/branches/2.8/web/test/org/sipfoundry/sipxconfig/site/phone/polycom
+
+PLAIN
+K 23
+AddPhoneUserTestUi.java
+V 21
+file 51e.0.r3577/6127
+K 25
+EditPhoneLinesTestUi.java
+V 22
+file 51n.0.r3636/14643
+K 28
+EditPhoneSettingsTestUi.java
+V 22
+file 51m.r0.r3672/3727
+K 20
+EditPhoneTestUi.java
+V 22
+file 518.0.r3636/15226
+K 23
+ManagePhonesTestUi.java
+V 21
+file 516.0.r3625/4875
+K 19
+NewPhoneTestUi.java
+V 22
+file 50z.r0.r3668/6575
+K 20
+PhoneTestHelper.java
+V 22
+file 51f.0.r3637/10903
+K 7
+polycom
+V 19
+dir 540.sm.r3710/77
+END
+ENDREP
+id: 4t0.r0.r3710/829
+type: dir
+pred: 4t0.r0.r3709/2366
+count: 29
+text: 3710 381 435 435 67a55dcfb64b4a021613dfce9f741f52
+cpath: /old/sipXconfig/branches/2.8/web/test/org/sipfoundry/sipxconfig/site/phone
+copyroot: 3639 /old/sipXconfig/branches/2.8
+
+PLAIN
+K 27
+BeanFactoryGlobalsTest.java
+V 21
+file 4zc.0.r3519/4005
+K 19
+JettyTestSetup.java
+V 21
+file 50y.0.r3589/2067
+K 19
+SiteTestHelper.java
+V 21
+file 4m8.0.r3633/1228
+K 5
+admin
+V 21
+dir 53s.r0.r3704/8999
+K 8
+dialplan
+V 21
+dir 4ug.r0.r3653/4305
+K 4
+line
+V 21
+dir 51b.r0.r3664/4139
+K 5
+phone
+V 20
+dir 4t0.r0.r3710/829
+K 2
+ui
+V 20
+dir 4nr.0.r3609/7223
+K 11
+user_portal
+V 21
+dir 522.r0.r3646/4059
+END
+ENDREP
+id: 4m1.r0.r3710/1484
+type: dir
+pred: 4m1.r0.r3709/3024
+count: 96
+text: 3710 1077 394 394 1af0c5f9ca326a17c0f76f13d7129c75
+cpath: /old/sipXconfig/branches/2.8/web/test/org/sipfoundry/sipxconfig/site
+copyroot: 3639 /old/sipXconfig/branches/2.8
+
+PLAIN
+K 10
+components
+V 20
+dir 4oc.0.r3412/7454
+K 4
+site
+V 21
+dir 4m1.r0.r3710/1484
+END
+ENDREP
+id: 4m0.r0.r3710/1823
+type: dir
+pred: 4m0.r0.r3709/3657
+count: 98
+text: 3710 1728 82 82 422973c907b021dcc4a7d603006b4f37
+cpath: /old/sipXconfig/branches/2.8/web/test/org/sipfoundry/sipxconfig
+copyroot: 3639 /old/sipXconfig/branches/2.8
+
+PLAIN
+K 10
+sipxconfig
+V 21
+dir 4m0.r0.r3710/1823
+END
+ENDREP
+id: 4lz.r0.r3710/2120
+type: dir
+pred: 4lz.r0.r3709/3956
+count: 98
+text: 3710 2060 47 47 73b7ad90adb732c8e6d79c04ba58759c
+cpath: /old/sipXconfig/branches/2.8/web/test/org/sipfoundry
+copyroot: 3639 /old/sipXconfig/branches/2.8
+
+PLAIN
+K 6
+apache
+V 22
+dir 4ma.0.r3393/809746
+K 10
+sipfoundry
+V 21
+dir 4lz.r0.r3710/2120
+END
+ENDREP
+id: 4ly.r0.r3710/2445
+type: dir
+pred: 4ly.r0.r3709/4281
+count: 98
+text: 3710 2346 86 86 af70331545516e62f11a36d08a04079f
+cpath: /old/sipXconfig/branches/2.8/web/test/org
+copyroot: 3639 /old/sipXconfig/branches/2.8
+
+PLAIN
+K 3
+org
+V 21
+dir 4ly.r0.r3710/2445
+END
+ENDREP
+id: 4lw.r0.r3710/2712
+type: dir
+pred: 4lw.r0.r3709/4548
+count: 98
+text: 3710 2660 39 39 ed926fb9db270ae392d37a4d3ac39957
+cpath: /old/sipXconfig/branches/2.8/web/test
+copyroot: 3639 /old/sipXconfig/branches/2.8
+
+PLAIN
+K 10
+.classpath
+V 23
+file 4l6.r0.r3704/11126
+K 8
+.project
+V 23
+file 4l7.0.r3393/818474
+K 15
+.tapestryplugin
+V 23
+file 4l8.0.r3393/848791
+K 11
+Makefile.am
+V 23
+file 4mx.0.r3393/849117
+K 9
+build.xml
+V 22
+file 4l9.r0.r3659/2036
+K 7
+context
+V 22
+dir 4la.r0.r3708/12302
+K 3
+etc
+V 20
+dir 4lk.0.r3601/3111
+K 3
+src
+V 21
+dir 4ln.r0.r3709/7121
+K 4
+test
+V 21
+dir 4lw.r0.r3710/2712
+END
+ENDREP
+id: 4l5.r0.r3710/3310
+type: dir
+pred: 4l5.r0.r3709/7720
+count: 215
+text: 3710 2923 374 374 b76b7c616e6befd7b52acca1dcc60cd1
+props: 3321 9320 60 0 003eccb12a32ba14a22d265edc213c5c
+cpath: /old/sipXconfig/branches/2.8/web
+copyroot: 3639 /old/sipXconfig/branches/2.8
+
+PLAIN
+K 10
+.classpath
+V 23
+file 4do.ia.r3393/22413
+K 8
+.project
+V 23
+file 4dp.ib.r3393/15834
+K 12
+CONTRIBUTORS
+V 22
+file 2hg.0.r3393/21790
+K 9
+ChangeLog
+V 20
+file 2hh.0.r3490/576
+K 7
+INSTALL
+V 22
+file 2hi.r0.r3689/2443
+K 7
+LICENSE
+V 23
+file 2hj.0.r3393/851332
+K 11
+Makefile.am
+V 21
+file 2hk.r0.r3692/774
+K 4
+NEWS
+V 23
+file 2hl.0.r3393/808567
+K 6
+README
+V 21
+file 2hm.0.r3573/5968
+K 4
+TODO
+V 21
+file 2hn.0.r3573/6199
+K 9
+acsite.m4
+V 22
+file 2ho.0.r3393/21475
+K 14
+ant-targets.am
+V 21
+file 2hp.r0.r3685/421
+K 15
+ant-targets.xml
+V 22
+file 2hq.0.r3603/26326
+K 3
+bin
+V 20
+dir 4bz.0.r3500/1858
+K 9
+build.xml
+V 22
+file 4h8.0.r3393/22103
+K 6
+common
+V 22
+dir 2hs.r0.r3695/28298
+K 20
+config.properties.in
+V 22
+file 2jf.r0.r3699/7272
+K 12
+configure.ac
+V 21
+file 2jg.r0.r3644/247
+K 3
+doc
+V 21
+dir 2jh.r0.r3700/2052
+K 3
+etc
+V 22
+dir 4b7.0.r3393/927179
+K 3
+lib
+V 22
+dir 2jy.0.r3554/861448
+K 4
+meta
+V 20
+dir 4ea.0.r3597/2966
+K 7
+neoconf
+V 22
+dir 4eo.r0.r3708/26776
+K 16
+profilegenerator
+V 22
+dir 2kj.r0.r3705/13463
+K 23
+profilepub_sipagent.dsp
+V 22
+file 4b5.0.r3393/16177
+K 16
+profilepublisher
+V 22
+dir 485.r0.r3648/38962
+K 13
+profilewriter
+V 22
+dir 4a9.r0.r3656/28245
+K 12
+sipagent-jni
+V 21
+dir 48h.h9.r3500/2967
+K 26
+sipx-jboss-configure.patch
+V 23
+file 4bi.0.r3393/927483
+K 18
+sipxconfig.spec.in
+V 21
+file 4bh.r0.r3644/516
+K 18
+subant-targets.xml
+V 21
+file 4h9.0.r3453/6142
+K 3
+web
+V 21
+dir 4l5.r0.r3710/3310
+END
+ENDREP
+id: 2hf.r0.r3710/4982
+type: dir
+pred: 2hf.r0.r3709/9393
+count: 583
+text: 3710 3574 1395 1395 02318419ef60bd0b85d64811b0e00d8a
+props: 3639 0 647 0 cee414232d58d2302e5f33c28e44a4f0
+cpath: /old/sipXconfig/branches/2.8
+copyroot: 3639 /old/sipXconfig/branches/2.8
+
+PLAIN
+K 3
+2.6
+V 21
+dir 2hf.jd.r3596/6164
+K 3
+2.8
+V 21
+dir 2hf.r0.r3710/4982
+END
+ENDREP
+id: 4c1.0.r3710/5329
+type: dir
+pred: 4c1.0.r3709/9741
+count: 120
+text: 3710 5242 74 74 03b7a3f693411bda1dd16f4e53e72082
+cpath: /old/sipXconfig/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 4c1.0.r3710/5329
+K 4
+main
+V 20
+dir 2hf.0.r3682/2534
+K 4
+tags
+V 20
+dir 4b6.0.r3687/2152
+END
+ENDREP
+id: 2he.0.r3710/5622
+type: dir
+pred: 2he.0.r3709/10035
+count: 685
+text: 3710 5496 113 113 be4bc3768ac3d534de919938be76322f
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 20
+dir 2he.0.r3710/5622
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3710/6227
+type: dir
+pred: 1.0.r3709/10642
+count: 3708
+text: 3710 5783 431 431 7fbca3e5950548fad33d63f1469c3f3a
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3710/6227
+END
+ENDREP
+id: 0.0.r3710/6423
+type: dir
+pred: 0.0.r3709/10841
+count: 3710
+text: 3710 6374 36 36 7acec767f9c818de9d1f6a10c081a3e6
+cpath: /
+copyroot: 0 /
+
+541.r0.r3708/5787 delete false false /old/sipXconfig/branches/2.8/web/test/org/sipfoundry/sipxconfig/site/phone/polycom/PasswordSettingTest.java
+
+53z.r0.r3709/3285 delete false false /old/sipXconfig/branches/2.8/web/test/org/sipfoundry/sipxconfig/phone
+
+
+6423 6565

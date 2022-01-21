@@ -1,0 +1,85 @@
+id: dk.2l.r638/0
+type: dir
+pred: dk.0.r637/8688
+count: 36
+text: 637 7751 924 924 7385ca2e5070163f5776c6984a2925a1
+props: 614 6904 179 0 f8780b9f6aac5ad15bff91396ce83e96
+cpath: /old/sipXtackLib/tags/2.5.2
+copyfrom: 637 /old/sipXtackLib/main
+
+PLAIN
+K 5
+2.5.1
+V 19
+dir dk.2k.r622/2796
+K 5
+2.5.2
+V 16
+dir dk.2l.r638/0
+END
+ENDREP
+id: kr.0.r638/325
+type: dir
+pred: kr.0.r622/3095
+count: 2
+text: 638 241 71 71 d153a5608a74ddff5828fd3707129a33
+cpath: /old/sipXtackLib/tags
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 18
+dir dk.0.r637/8688
+K 4
+tags
+V 17
+dir kr.0.r638/325
+END
+ENDREP
+id: dj.0.r638/562
+type: dir
+pred: dj.0.r637/8987
+count: 39
+text: 638 480 69 69 8755238eab6970cd0ee501a73f9d9417
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 17
+dir dj.0.r638/562
+END
+ENDREP
+id: 1.0.r638/810
+type: dir
+pred: 1.0.r637/9239
+count: 637
+text: 638 713 84 84 85cf4a99b0f4c9664ee2f7fb45214099
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 16
+dir 1.0.r638/810
+END
+ENDREP
+id: 0.0.r638/995
+type: dir
+pred: 0.0.r637/9428
+count: 638
+text: 638 948 34 34 1206060ed86e4229b9a993b6f40e23bf
+cpath: /
+copyroot: 0 /
+
+dk._0.t637-1 add false false /old/sipXtackLib/tags/2.5.2
+637 /old/sipXtackLib/main
+
+995 1130

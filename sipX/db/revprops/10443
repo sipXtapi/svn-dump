@@ -1,0 +1,31 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-09T18:26:08.147129Z
+K 7
+svn:log
+V 751
+Link codec plugins with libtool -module flag so that it can be properly
+dlopened.
+
+Since -module is now used, 'lib' does not need to be a prefix for the codec
+plugin .so files, so this also incorporates changes to generate all plugins
+as: codec_*.so
+
+Fix the way plugins are installed in the sipXmediaLib/bin directory (maintain
+the targets to copy and clean within each plgxxx Makefile.am instead of in the
+parent 'codecs' directory)
+
+Change to statically link speex codec to speex codec plugin.  NOTE: This is
+NOT portable (libtool even reports this).  It may potentially be portable
+if the static speex lib that is linked to is built with -fPIC -DPIC, but
+libtool will still complain about it (it has been partially tested).
+
+Correct a few typos.
+
+
+END

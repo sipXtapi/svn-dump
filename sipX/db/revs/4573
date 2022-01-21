@@ -1,0 +1,160 @@
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 181
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+sipxpbx-*.rpm
+sipxpbx-*.tar.gz
+sipxpbx.spec
+
+K 17
+svnmerge-2.6-head
+V 51
+https://scm.sipfoundry.org/rep/sipXpbx/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 61
+1-307,310-311,316-317,321-324,326,337,341,343,351,366-367,391
+K 17
+svnmerge-2.8-head
+V 51
+https://scm.sipfoundry.org/rep/sipXpbx/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 39
+1-434,437-441,444,447,450,452,458,463
+
+
+K 23
+svnmerge-user_ping-head
+V 57
+https://scm.sipfoundry.org/rep/sipXpbx/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-479
+END
+ENDREP
+id: 5g6.0.r4573/757
+type: dir
+pred: 5g6.0.r4571/103438
+count: 366
+text: 4571 102744 681 681 dfaed54a83461ecdd02cc999e8c74298
+props: 4573 0 744 0 1bbb19417f59fd8e438608fca432b0e8
+cpath: /old/sipXpbx/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 6o1.0.r4572/1128
+K 4
+main
+V 19
+dir 5g6.0.r4573/757
+K 4
+tags
+V 20
+dir 5kn.0.r4570/2122
+END
+ENDREP
+id: 5g5.0.r4573/1100
+type: dir
+pred: 5g5.0.r4572/1421
+count: 480
+text: 4573 975 112 112 4b77d855f21acc1e3d436ca6e6432194
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4573/1100
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4573/1739
+type: dir
+pred: 1.0.r4572/2063
+count: 4571
+text: 4573 1256 470 470 d7311fae7b23dc4aff120b192bb84c0f
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4573/1739
+END
+ENDREP
+id: 0.0.r4573/1934
+type: dir
+pred: 0.0.r4572/2260
+count: 4573
+text: 4573 1885 36 36 982f226e459bd0bda19a7d7c8d27edbc
+cpath: /
+copyroot: 0 /
+
+5g6.0.t4572-1 modify false true /old/sipXpbx/main
+
+
+1934 2075

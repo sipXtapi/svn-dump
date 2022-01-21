@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-08-20T17:21:04.360944Z
+K 7
+svn:log
+V 354
+- Updated installation instructions for building on Windows.
+  It should be easier to figure out what to install for glib
+  and PCRE
+- Use Multithreaded DLL and Debug Multithreaded DLL runtime
+  libraries instead of the non-DLL versions.  This results in 
+  smaller executables, but more importantly works with binary
+  distributions of PCRE and glib.
+
+
+
+END

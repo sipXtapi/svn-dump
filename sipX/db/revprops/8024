@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2006-11-18T22:54:51.130990Z
+K 7
+svn:log
+V 182
+Fixes to make compile on EVC Wince CerfPod and Emulator
+Compiles and links on above, 9 innocuous warnings (unused vars, short->char conversions, << check operator precedence issue)
+
+
+END

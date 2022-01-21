@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-01-06T18:12:33.285973Z
+K 7
+svn:log
+V 176
+Check for a running watchdog on start, and restart if it's there
+(instead of failing)
+if the pid file is there and the process is not, then just delete
+the pid file and start.
+
+END

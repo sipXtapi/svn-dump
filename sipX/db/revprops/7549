@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-22T21:12:40.040082Z
+K 7
+svn:log
+V 150
+XCF-1259 re-enable music support in sipXconfig
+you can select music that will be played when call is on hold by going to Features->Music on Hold menu
+
+END

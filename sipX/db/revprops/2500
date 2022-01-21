@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-02T18:25:01.440679Z
+K 7
+svn:log
+V 79
+Tag the first complete implementation of the request suspend/resume
+mechanism.
+
+END

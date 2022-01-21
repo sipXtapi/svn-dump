@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-25T21:21:43.884034Z
+K 7
+svn:log
+V 340
+Widebandify playBuffer functionality - to play audio data from a buffer to a media interface.
+
+NOTE: Now you must specify the sample rate of the data you are passing in.
+It no longer assumes 8000kHz.  It will support at least any sample rates up through 48000Hz.  These samples will be resampled to the internal media interface sample rate.
+END

@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-12-14T02:55:20.023838Z
+K 7
+svn:log
+V 189
+Added some more documentation on the use of the {digits}
+{mediaserver} and {voicemail} macros which may be used in
+the contact transformations in the mappingrules and fallbackrules
+files.
+
+
+END

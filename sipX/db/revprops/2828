@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-10-19T04:59:55.166458Z
+K 7
+svn:log
+V 113
+Added configure option to sipXvxml to compile and 
+link with third party dejitter and packet loss
+compensation.
+
+
+END

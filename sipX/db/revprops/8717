@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-02-07T23:03:47.324337Z
+K 7
+svn:log
+V 303
+XPR-179 remove hardwired configuration file and log file locations
+configuration directory and logfile directory are passed as a command line option to main.rb (--confdir, --logdir) 
+- those locations are controlled by automake variables similarly to the way it's working in case of other sipX projects
+
+END

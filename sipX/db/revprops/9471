@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-04T11:11:07.432489Z
+K 7
+svn:log
+V 86
+MpInputOutputFrameworkTest: Use MpSineWaveGeneratorDeviceDriver as test input device.
+
+END

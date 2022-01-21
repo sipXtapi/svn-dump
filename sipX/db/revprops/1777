@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-05-31T12:53:14.844616Z
+K 7
+svn:log
+V 167
+Potential fix for XPH-108: SDP in Invite had wrong IP address
+
+Code audit revealed one place where we could munge the SDP IP addresses in the CpPhoneMediaInterface.
+
+
+
+END

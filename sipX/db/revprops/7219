@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-08-08T13:34:05.684020Z
+K 7
+svn:log
+V 435
+Merged revisions 7199,7201 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7199 | bob | 2006-08-05 19:21:58 +0400 | 3 lines
+  
+  Added some ugly scripts to set the version numbers in sipXtapi.h
+........
+  r7201 | bob | 2006-08-06 00:48:11 +0400 | 3 lines
+  
+  Tweak to the script used to modified the version in sipXtapi.h -- it removed the start of comment resulting in compiler errors.
+........
+
+END

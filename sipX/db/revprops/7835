@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-26T16:16:36.371104Z
+K 7
+svn:log
+V 157
+XCF-1313 replicate permissions data when custom permission list is modified (new permission added, old permission deleted, permission default value changed)
+
+END

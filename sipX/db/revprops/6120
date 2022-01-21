@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-02-13T22:22:46.525626Z
+K 7
+svn:log
+V 274
+When a specified project is found to be missing, report it by calling
+the existing function builderr.
+
+This is more systematic.  Also, this method causes build to stop if
+--failfast has been specified, and to continue if it hasn't, which is
+most likely what the user wants.
+
+END

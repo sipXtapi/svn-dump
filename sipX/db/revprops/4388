@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2004-11-29T22:52:01.323869Z
+K 7
+svn:log
+V 191
+Fixed file and URL path construction used for record
+and retrieval of standard and custom system prompts.
+
+http://track.sipfoundry.org/browse/XVX-96
+http://track.sipfoundry.org/browse/XVX-97
+
+END

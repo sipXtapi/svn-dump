@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-08T17:45:37.780051Z
+K 7
+svn:log
+V 298
+[XPS-24] Don't crash if SSL is not enabled.
+  Note: this still won't actually work correctly; it will log a bunch
+  of errors and fail, but it won't crash.
+  Getting it to actually work right would be harder and more or less
+  pointless since you really should use SSL to have any security at all.
+
+END

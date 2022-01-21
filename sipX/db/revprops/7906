@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-11-01T01:31:19.807942Z
+K 7
+svn:log
+V 680
+mergefrom user_dworley_redirectors2main 7768
+
+Another couple of interop config files.
+
+------------------------------------------------------------------------
+r7768 | dworley | 2006-10-17 13:58:53 -0400 (Tue, 17 Oct 2006) | 2 lines
+Changed paths:
+   D /branches/user_dworley_redirectors/sipXpbx/doc/developer/interop.pingtel.com/sipx_dbdir/credential.xml
+   A /branches/user_dworley_redirectors/sipXpbx/doc/developer/interop.pingtel.com/sipx_dbdir/credential.xml.in.pre
+
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXpbx/doc/developer/interop.pingtel.com/sipx_dbdir/credential.xml sipXpbx/doc/developer/interop.pingtel.com/sipx_dbdir/credential.xml.in.pre 
+
+END

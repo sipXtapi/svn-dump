@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2015-05-22T05:37:11.385791Z
+K 7
+svn:log
+V 166
+Ensure we always have even number of frames for GSM
+  This avoids problems when appending to the wave file as GSM frames alternate in size
+  between 33 and 32 bytes.
+
+END

@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-05-12T21:48:04.308299Z
+K 7
+svn:log
+V 363
+Fix problems with recognition of url vs field parameters
+  (and add a unit test that tells the difference)
+
+Clean up toString to produce a more uniformly canonical form
+   This has the effect that removeAngleBrackets is now a no-op
+   because they are never used unless mandated by includeAngleBrackets
+   or required to make the content of the url unambiguous.
+
+
+END

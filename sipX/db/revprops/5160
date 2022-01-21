@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+adam
+K 8
+svn:date
+V 27
+2005-09-24T17:17:09.601600Z
+K 7
+svn:log
+V 207
+Added code to play enter and exit tones. The enter and exit tone code is
+not yet tested. (Prounouns in this check-in message have been meticulously
+replaced at the last moment to improve Scott's happiness).
+
+END

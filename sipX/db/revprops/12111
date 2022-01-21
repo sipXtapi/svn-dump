@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2013-05-13T00:44:09.746153Z
+K 7
+svn:log
+V 616
+Fix TLinkedList so that it IS thread-safe, instead of just LOOKING thread-safe.
+
+There were two problems:
+  (1) All iteration operations were always followed by calls to AddRef, and
+  those AddRefs all need to be done atomically with the GetFirst/GetNext.
+  (2) If thread A was in a loop iterating over a list and thread B called
+  GetFirstEntry or RemoveFirstEntry for that same list, the iterator
+  variable got stomped on which pretty much kicked thread A in the nuts.
+
+Now, the caller must take the list's lock before beginning an iteration
+sequence, and keep it until done iterating.  This fixes both problems.
+
+END

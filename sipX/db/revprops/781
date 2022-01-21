@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-02-01T16:15:47.293165Z
+K 7
+svn:log
+V 37
+eliminate warning about final newline
+END

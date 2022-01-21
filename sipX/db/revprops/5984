@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-27T21:50:26.819842Z
+K 7
+svn:log
+V 167
+XCF-897 when adding new user SIP password field and its description are always visible
+when editing existing user you can show/hide SIP password using Advanced toggle
+
+END

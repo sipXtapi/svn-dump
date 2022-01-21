@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-06-06T20:37:47.241216Z
+K 7
+svn:log
+V 111
+remove Call groups activate button - all the changes are activated as soon as the modified call group is saved
+
+END

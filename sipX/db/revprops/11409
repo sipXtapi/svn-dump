@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-07-02T20:03:59.298454Z
+K 7
+svn:log
+V 104
+sipXmediaLib: Implement latency calculation for MprDecode - it returns or jitter buffer length for now.
+
+END

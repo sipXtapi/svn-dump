@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-18T15:40:53.475418Z
+K 7
+svn:log
+V 107
+XCF-753 fix how AssetSelector is used on EditAutoAttendant page
+remove unused AssetSelectorPanel component
+
+END

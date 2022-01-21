@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+raghu
+K 8
+svn:date
+V 27
+2004-06-03T23:52:06.692765Z
+K 7
+svn:log
+V 52
+Unit tests for the UtlHashMap and UtlHashMapIterator
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-02-03T14:39:47.518946Z
+K 7
+svn:log
+V 83
+try to duplicated what web layer does w/hibernate sessions, still not fully working
+END

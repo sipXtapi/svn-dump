@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-11-09T20:42:00.145801Z
+K 7
+svn:log
+V 204
+XCF-779 adding the same gateway twice the the dialing rule was removing the originally added gateway from the rule
+the bug was visible to users who clicked Apply before clicking OK on Edit Gateway screen
+
+END

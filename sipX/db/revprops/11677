@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-11-01T04:42:21.182040Z
+K 7
+svn:log
+V 123
+When REGISTER contact is fixed for NAT, need to match Contact by LINEID in response to get correct expiration from server.
+
+END

@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2006-10-31T18:35:51.619958Z
+K 7
+svn:log
+V 195
+Move vxml script configuration from http-sipxchange-config.sh.in to sipXvxml.sh.in
+
+This allows sipXconfig to restart sipXvxml and the vxml scripts will be 
+reconfigured.
+
+Fixes XPB-834
+
+--Woof!
+
+END

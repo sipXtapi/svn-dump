@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-03-17T19:14:08.711064Z
+K 7
+svn:log
+V 121
+Add database logging of REFER requests to AuthProxyCseObserver. Adapt
+CallStateEventBuilder_DB unit tests to new schema.
+
+END

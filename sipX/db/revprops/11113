@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-18T19:56:13.948830Z
+K 7
+svn:log
+V 464
+Change installation so instead of installing to a fixed directory, it instead
+installs to a directory for which the name is created using 'mktemp' to ensure
+it is unique.
+
+Prior to this fix, collisions could occur when multiple instances of the
+script run at the same time, or even when multiple users of the script on the
+same machine run it at different times.
+
+This was witnessed in build failure of the Hudson job:
+Linux_sipx-build--CentOS5_x86_64 build #122
+
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-04-10T21:12:28.110957Z
+K 7
+svn:log
+V 216
+XCF-1129 - Look for existing line on phone with imported user id, if so, do not add another line, the exiting line and line postion is untouched (e.g. if it is the second line, it will continue to be the second line)
+END

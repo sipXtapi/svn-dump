@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-03-30T19:07:58.810177Z
+K 7
+svn:log
+V 78
+XCF-976 Setting.getTypedValue always return null for Enumeration type settings
+END

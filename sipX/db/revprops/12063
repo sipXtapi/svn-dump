@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2013-02-22T20:23:21.667452Z
+K 7
+svn:log
+V 85
+Remove some unused portions of the Message object -- RemoveContents() and m_wArgIndex
+END

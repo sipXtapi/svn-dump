@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-02T20:15:43.959681Z
+K 7
+svn:log
+V 353
+Put sipxportlib.spec.in in the tarball rather than sipxportlib.spec.
+I'm doing this for uniformity w.r.t. all the other components.  Putting
+sipxportlib.spec in seems to work for sipXportLib, but it doesn't work for
+the other components.  We need to investigate how the build system
+handles the inital step of constructing the .spec file to solve this.
+
+END

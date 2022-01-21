@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-31T17:53:27.587751Z
+K 7
+svn:log
+V 109
+Fix potential memory overwrite in iLBC codec when ites frame size is not multiple of flowgraph's frame size.
+
+END

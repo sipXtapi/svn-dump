@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-03-27T03:32:01.661362Z
+K 7
+svn:log
+V 128
+Control the "no early-only" and "reversed Replaces" workarounds via
+configuration parameters rather than environment variables.
+
+END

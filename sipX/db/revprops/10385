@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-12-05T11:13:08.082551Z
+K 7
+svn:log
+V 58
+Minor cleanup and disabling of debug output in MpidWinMM.
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2004-10-29T20:59:13.242905Z
+K 7
+svn:log
+V 47
+XPB-105
+ 
+Added bin/voicemail_clean.sh script.
+
+END

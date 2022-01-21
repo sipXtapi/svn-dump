@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-12-29T04:16:36.719637Z
+K 7
+svn:log
+V 602
+Specify that we need at least autoconf 2.60 --
+I believe all we need is 2.59c, but I am unsure if the AC_PREREQ can deal with
+alpha suffixes, so I bumped up the requirement to 2.60.
+
+Reason for bump up in autoconf version requirement is that we now
+auto-configure speex if it is not present, or if it is requested when
+configuring sipXmediaLib.  speex requires at least 2.59c.  Reason it requires
+this is because it uses 'new' C99 integer types that are now widely supported
+in compilers.
+
+NOTE: sipX itself should be adding these checks in it's own configure.ac 
+files, as it uses C99 integer types.
+
+
+END

@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-08-21T19:32:39.965408Z
+K 7
+svn:log
+V 490
+Fix stricmp C4996 warnings on VS2005 -- use ISO C++ conformant name instead of POSIX name as it is deprecated.
+
+fixes, among others:
+SpeakerThreadWnt.cpp
+.\src\mp\SpeakerThreadWnt.cpp(367) : warning C4996: 'stricmp' was declared deprecated
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(213) : see declaration of 'stricmp'
+        Message: 'The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.'
+END

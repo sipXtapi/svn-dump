@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-08-24T02:45:35.569138Z
+K 7
+svn:log
+V 66
+add command line arguments to control ports, wav file and log file
+END

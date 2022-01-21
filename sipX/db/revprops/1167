@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-12-29T18:32:44.661393Z
+K 7
+svn:log
+V 146
+Add common version and buildstamp generation
+Identifies the subversion revision, date/time, and system 
+http://track.sipfoundry.org/browse/XPL-43
+
+END

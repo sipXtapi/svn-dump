@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-04-27T15:19:50.057074Z
+K 7
+svn:log
+V 67
+More changes to usage of wxWidgets Event macros, for Linux / gcc. 
+
+END

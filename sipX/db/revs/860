@@ -1,0 +1,117 @@
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 225
+BUILDSTAMP
+Debug
+Makefile
+Makefile.in
+Release
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.properties
+config.status
+configure
+libtool
+sipxtacklib-*.rpm
+sipxtacklib-*.tar.gz
+sipxtacklib.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 55
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 41
+1-131,137,147,152,155-157,159,169,188,197
+K 17
+svnmerge-2.8-head
+V 55
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 21
+1-230,233,238,251,258
+END
+ENDREP
+id: dk.0.r860/640
+type: dir
+pred: dk.0.r859/1473
+count: 188
+text: 859 298 1162 1162 731ab44a518d3790e8c4cf99167502e3
+props: 860 0 627 0 adeac31deb035c771bbc6775895361ae
+cpath: /old/sipXtackLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir kz.0.r857/1772
+K 4
+main
+V 17
+dir dk.0.r860/640
+K 4
+tags
+V 18
+dir kr.0.r852/2093
+END
+ENDREP
+id: dj.0.r860/972
+type: dir
+pred: dj.0.r859/1810
+count: 261
+text: 860 853 106 106 3bf1c30b6f8482dfaedb8510545ba067
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 17
+dir dj.0.r860/972
+END
+ENDREP
+id: 1.0.r860/1223
+type: dir
+pred: 1.0.r859/2064
+count: 859
+text: 860 1126 84 84 db40eda6c39782eec6b72058dd52eadd
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r860/1223
+END
+ENDREP
+id: 0.0.r860/1411
+type: dir
+pred: 0.0.r859/2252
+count: 860
+text: 860 1363 35 35 dc319a542c2bf269e1c342f98821dded
+cpath: /
+copyroot: 0 /
+
+dk.0.t859-1 modify false true /old/sipXtackLib/main
+
+
+1411 1548

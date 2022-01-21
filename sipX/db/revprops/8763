@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-02-13T02:02:48.213804Z
+K 7
+svn:log
+V 239
+put a dependency on rpm package, yes there actually is an rpm package.  how would you install it? dunno, but when installing from anaconda, its important to have this dependency if your package relies on the rpm command to install it first
+END

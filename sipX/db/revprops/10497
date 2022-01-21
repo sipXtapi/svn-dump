@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-25T21:27:35.802351Z
+K 7
+svn:log
+V 217
+Fix Speex codec plugin to correctly handle WB mode.
+This check in include some hacks around minimum and maximum bits per frame for Speex in WB mode. This is not clear for me yet how to get them from libspeex cleanly.
+
+END

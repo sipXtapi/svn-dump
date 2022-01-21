@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-10-30T03:55:03.375738Z
+K 7
+svn:log
+V 75
+Update libraries version to 3.2 before moving the code to a stable branch.
+
+END

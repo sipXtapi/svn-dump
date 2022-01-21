@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-11-14T15:27:33.888213Z
+K 7
+svn:log
+V 90
+XCF-765 - Add more comprehensive unittest coverage to SOAP API for users, phones and lines
+END

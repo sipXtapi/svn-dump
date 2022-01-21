@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-09-15T18:35:50.620210Z
+K 7
+svn:log
+V 142
+Initialized merge tracking via svnmerge with revisions 1-7477 from
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/dworley-URI-parsing
+
+END

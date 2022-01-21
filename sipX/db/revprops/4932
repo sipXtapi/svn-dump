@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-08-29T22:24:33.772230Z
+K 7
+svn:log
+V 341
+Trivial change to carry this checkin message:
+The sip*.sh.in files were accidentally checked in with the previous checkin.
+Fix the sip*.sh.in scripts to check that the log files for their components
+are either absent or writable, so the components can log any problems they
+find.  Otherwise the components have no way of reporting problems.
+
+END

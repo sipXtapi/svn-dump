@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-04-03T21:56:52.006557Z
+K 7
+svn:log
+V 298
+XPR-128: Changed CallStateEventBuilder_DB to translate all single quotes.
+
+XPR-108: Initial checkin to install a script file in (sysconfdir)/cron.daily
+that calls the call resolver startup script with a --daily switch.
+
+XCF-952: Added Call Resolver section and configuration parameters to web ui. 
+
+END

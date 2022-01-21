@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-08T14:21:06.380467Z
+K 7
+svn:log
+V 122
+OSS: Rearrange ioctl calls for better support half-duplex mode.
+this fix problems with Logitech QuickCam MP internal mic.
+
+END

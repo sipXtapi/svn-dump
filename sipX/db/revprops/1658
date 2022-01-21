@@ -1,0 +1,44 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2005-03-18T18:44:55.954740Z
+K 7
+svn:log
+V 1519
+Merged revisions 335-336 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXcallLib/branches/2.8
+    ------------------------------------------------------------------------
+    r335 | bob | 2005-03-17 17:38:10 -0500 (Thu, 17 Mar 2005) | 4 lines
+    Changed paths:
+       M /branches/2.8/configure.ac
+       M /branches/2.8/include/Makefile.am
+       M /branches/2.8/include/tapi/SipXHandleMap.h
+       M /branches/2.8/include/tapi/sipXtapi.h
+       M /branches/2.8/include/tapi/sipXtapiEvents.h
+       M /branches/2.8/include/tapi/sipXtapiInternal.h
+       M /branches/2.8/src/Makefile.am
+       D /branches/2.8/src/tapi/Makefile.am
+       M /branches/2.8/src/tapi/SipXHandleMap.cpp
+       M /branches/2.8/src/tapi/sipXtapi.cpp
+       M /branches/2.8/src/tapi/sipXtapiEvents.cpp
+       M /branches/2.8/src/tapi/sipXtapiInternal.cpp
+    
+    Conditionally build/include sipXtapi depending on SIPXTAPI_EXCLUDE #define.  By default, SIPXTAPI is disabled, however can be including by running ./configure with --enable-tapi.  You will need to enable table on both the sipXcallLib project and sipXtackLib project for events.
+    
+    
+    
+    ------------------------------------------------------------------------
+    r336 | ajorde | 2005-03-18 10:52:37 -0500 (Fri, 18 Mar 2005) | 1 line
+    Changed paths:
+       M /branches/2.8/Makefile.am
+       M /branches/2.8/configure.ac
+       M /branches/2.8/include/Makefile.am
+       M /branches/2.8/src/Makefile.am
+    
+    Conditional inclusion of tapi headers and sources
+
+END

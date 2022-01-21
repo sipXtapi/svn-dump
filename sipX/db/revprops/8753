@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-10T21:20:26.644683Z
+K 7
+svn:log
+V 324
+* Added to VS2003 build: MpInputDeviceManager.cpp, MpInputDeviceDriver.h, MpInputDeviceManager.h, MprFromInputDevice.h.
+* Several typos in documentation fixed.
+* Documentation made readable by Doxygen and consistent with other sipXmediaLib documentation. Neither interface nor implementation of this files was not modified.
+
+END

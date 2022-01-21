@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-12-06T14:37:05.792967Z
+K 7
+svn:log
+V 139
+Damian creating tag 5 from rev 008201 for release sipfoundry-3.6-release. pushing new builds after reports from the list about defunct repo
+END

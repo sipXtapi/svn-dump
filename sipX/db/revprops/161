@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-07-30T00:12:14.179897Z
+K 7
+svn:log
+V 59
+Fix memory leak in file iterators.
+Patch from Thien Nguyen
+
+END

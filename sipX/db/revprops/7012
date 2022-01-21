@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-06-28T21:17:07.949420Z
+K 7
+svn:log
+V 39
+Fix missing mime namespace in the wsdl
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-10-20T21:36:49.668696Z
+K 7
+svn:log
+V 223
+XCF-711 Corrected HTML for all the tables. Simplified .css - especially parts that had been added to support inconsistent HTML.
+The width of the select column is now set to 5 everywhere (probably needs its own style class)
+
+END

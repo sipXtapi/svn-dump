@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-05-17T14:22:14.932453Z
+K 7
+svn:log
+V 57
+Remove merge properties that do not apply to this branch.
+END

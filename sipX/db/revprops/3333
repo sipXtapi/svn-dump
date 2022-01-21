@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-01-05T17:06:53.517886Z
+K 7
+svn:log
+V 123
+Build fixes:
+- removed JSF libraries
+- limit number of libraries passed to ANT to redule child-parent class loader problem
+
+END

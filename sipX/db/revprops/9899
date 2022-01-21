@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-07-27T17:20:27.842547Z
+K 7
+svn:log
+V 732
+Bug in STUN/TURN fixed. It was introduced in r9386. When we created audio input connection and RTP/RTCP sockets, we didn't read from the sockets which resulted in STUN/TURN results being missed. STUN/TURN timeout occured and local IP address was sent in SDP body.
+Reading from sockets is necessary for receiving STUN/TURN response, as the response is only processed if somebody is reading from socket.
+New method in OsNatDatagramSocket was introduced, which enables us to wait for STUN/TURN result, or just poll the socket periodically if we need to read from multiple sockets.
+
+Timeout for reading when enabling STUN/TURN on OsNatDatagramSocket was decreased to 100ms, which will mean shorter blocking if STUN/TURN timeout occurs.
+
+END

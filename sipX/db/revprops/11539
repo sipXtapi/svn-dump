@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-01-29T15:07:41.463937Z
+K 7
+svn:log
+V 63
+Made callLib unit tests run with portable unit test framework.
+
+END

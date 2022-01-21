@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-07-31T14:52:30.571004Z
+K 7
+svn:log
+V 253
+Fixed a build error under Win32 regarding version.h/the SIP_STACK_VERSION #define.  Under linux, we now generate this file.  For win23, we now #define the value in the sipXtackLib project settings.  Some ideas for better solutions are tracked in XSL-25.
+END

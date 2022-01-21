@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-16T17:31:47.163556Z
+K 7
+svn:log
+V 67
+Revise test of http: URLs with query strings.
+Add KNOWN_BUG calls.
+
+END

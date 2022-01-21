@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-06T22:46:57.446736Z
+K 7
+svn:log
+V 149
+After much trial and error, this appears to be the correct way to get
+libmod_sipxauth built as a .so and installed into the Apache module directory.
+
+END

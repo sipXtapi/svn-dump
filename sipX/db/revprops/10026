@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-08-31T13:06:32.086970Z
+K 7
+svn:log
+V 164
+Add iLBC codec sources to sipXmediaLib under contrib directory, add it to VS2003 build and enable it by default.
+Linux, VS6 and VS2005 builds are not affected yet.
+
+END

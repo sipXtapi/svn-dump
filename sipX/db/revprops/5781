@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-12-22T16:14:08.785431Z
+K 7
+svn:log
+V 214
+XCF-818 move some responsibilities from Internal dialing rule to attendant dialing rule
+fix duplicating of attendant dialing rule
+attendant dialing rule (with default operator) is now part of factory default rules
+
+END

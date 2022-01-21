@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-16T20:59:56.344609Z
+K 7
+svn:log
+V 196
+Make OsMulticastSocket really usable. From now it should work fine under Linux and Windows.
+Unittest for multicast added, look at testMulticast unittest for an example of OsMulticastSocket usage.
+
+END

@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 3
+lih
+K 8
+svn:date
+V 27
+2007-04-09T20:15:12.304706Z
+K 7
+svn:log
+V 351
+XPB-756: Starting sipXpbx changes file ownership and permission of /user/bin/sipXvxml
+
+Apply Misha's patch
+
+sipxpbx checks if sipXvxml has the right ownership and permission
+if it does not, change it so that it has the right ownership and permission.
+Otherwise, leave it alone.
+
+(The previous version changes sipXvxml without doing the check first.) 
+
+END

@@ -1,0 +1,162 @@
+PLAIN
+K 13
+svn:externals
+V 75
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-A/config
+
+K 10
+svn:ignore
+V 144
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxregistry.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 56
+https://scm.sipfoundry.org/rep/sipXregistry/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 4
+1-63
+K 18
+svnmerge-main-head
+V 48
+https://scm.sipfoundry.org/rep/sipXregistry/main
+K 18
+svnmerge-main-revs
+V 4
+1-61
+END
+ENDREP
+id: 1y5.bp.r2363/512
+type: dir
+pred: 1y5.bo.r2362/390
+count: 52
+text: 2360 975 643 643 e35d15390f412f71e9b6aa7cb7f93e3e
+props: 2363 0 499 0 7649fa05a06796b5d59c6629c82cd523
+cpath: /old/sipXregistry/tags/2.6-export-A
+copyfrom: 2362 /old/sipXregistry/branches/2.6
+
+PLAIN
+K 5
+2.5.1
+V 20
+dir 1y5.bg.r2308/198
+K 5
+2.5.2
+V 21
+dir 1y5.bh.r2316/1127
+K 12
+2.6-export-A
+V 20
+dir 1y5.bp.r2363/512
+K 13
+main-export-B
+V 20
+dir 1y5.bm.r2359/396
+K 13
+main-export-C
+V 20
+dir 1y5.bn.r2361/396
+END
+ENDREP
+id: 1z5.0.r2363/999
+type: dir
+pred: 1z5.0.r2361/832
+count: 6
+text: 2363 775 211 211 9b78a5a823a134e77dbd706f70ace512
+cpath: /old/sipXregistry/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 1zf.0.r2362/734
+K 4
+main
+V 20
+dir 1y5.0.r2360/1631
+K 4
+tags
+V 19
+dir 1z5.0.r2363/999
+END
+ENDREP
+id: 1y4.0.r2363/1285
+type: dir
+pred: 1y4.0.r2362/1023
+count: 64
+text: 2363 1161 111 111 ab5aede60627a8848db4f1f2788cc378
+cpath: /old/sipXregistry
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2363/1285
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2363/1764
+type: dir
+pred: 1.0.r2362/1501
+count: 2362
+text: 2363 1446 305 305 e0bcef2b19da54d43a2382b693936064
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2363/1764
+END
+ENDREP
+id: 0.0.r2363/1959
+type: dir
+pred: 0.0.r2362/1696
+count: 2363
+text: 2363 1910 36 36 50cc95f6693f8d270775aeecf2c7e4ba
+cpath: /
+copyroot: 0 /
+
+1y5._0.t2362-1 add false true /old/sipXregistry/tags/2.6-export-A
+2362 /old/sipXregistry/branches/2.6
+
+1959 2100

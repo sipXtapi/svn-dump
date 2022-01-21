@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-01-18T17:48:46.048654Z
+K 7
+svn:log
+V 114
+Remove "CONFIG_SERVER_DISABLED=TRUE" from config.defs.in, as it has
+been obsoleted from the process-control code.
+
+END

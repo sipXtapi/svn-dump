@@ -1,0 +1,200 @@
+PLAIN
+K 5
+2.5.1
+V 21
+dir 1vt.9s.r2107/1819
+K 5
+2.5.2
+V 21
+dir 1vt.9t.r2121/1172
+K 12
+2.6-export-A
+V 20
+dir 1vt.a8.r2170/488
+K 12
+2.6-export-B
+V 20
+dir 1vt.a9.r2172/488
+K 12
+2.6-export-C
+V 20
+dir 1vt.aa.r2179/488
+K 12
+2.6-export-D
+V 20
+dir 1vt.ab.r2180/488
+K 12
+2.6-export-E
+V 20
+dir 1vt.ac.r2181/488
+K 12
+2.6-export-F
+V 20
+dir 1vt.ad.r2184/488
+K 12
+2.6-export-G
+V 20
+dir 1vt.af.r2189/374
+K 12
+2.6-export-H
+V 20
+dir 1vt.ag.r2190/374
+K 12
+2.6-export-J
+V 20
+dir 1vt.ah.r2193/374
+K 12
+2.6-export-K
+V 20
+dir 1vt.ai.r2198/377
+K 12
+2.6-export-L
+V 20
+dir 1vt.aj.r2202/377
+K 12
+2.6-export-M
+V 20
+dir 1vt.ak.r2203/377
+K 12
+2.6-export-N
+V 20
+dir 1vt.al.r2205/377
+K 12
+2.6-export-O
+V 20
+dir 1vt.am.r2215/377
+K 12
+2.6-export-P
+V 20
+dir 1vt.an.r2216/377
+K 12
+2.6-export-Q
+V 20
+dir 1vt.ao.r2218/377
+K 12
+2.6-export-R
+V 20
+dir 1vt.ap.r2219/377
+K 12
+2.6-export-S
+V 20
+dir 1vt.aq.r2220/377
+K 12
+2.6-export-T
+V 20
+dir 1vt.ar.r2224/377
+K 12
+2.6-export-U
+V 20
+dir 1vt.at.r2230/377
+K 5
+2.6.1
+V 20
+dir 1vt.ae.r2186/481
+K 5
+2.6.2
+V 21
+dir 1vt.au.r2235/1977
+K 12
+2.8-export-A
+V 20
+dir 1vt.aw.r2256/571
+K 12
+2.8-export-B
+V 20
+dir 1vt.ax.r2264/571
+K 13
+main-export-B
+V 20
+dir 1vt.a5.r2167/375
+K 13
+main-export-C
+V 20
+dir 1vt.a6.r2168/375
+END
+ENDREP
+id: 1x7.0.r2266/1222
+type: dir
+pred: 1x7.0.r2265/2225
+count: 35
+text: 2266 0 1209 1209 8fd0c0498bf9da957b7bcd42e6d3deef
+cpath: /old/sipXproxy/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1x8.0.r2262/1859
+K 4
+main
+V 20
+dir 1vt.0.r2263/2174
+K 4
+tags
+V 20
+dir 1x7.0.r2266/1222
+END
+ENDREP
+id: 1vs.0.r2266/1510
+type: dir
+pred: 1vs.0.r2265/2515
+count: 170
+text: 2266 1384 113 113 befb747c22d9f97189217a5a4115550f
+cpath: /old/sipXproxy
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2266/1510
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2266/1943
+type: dir
+pred: 1.0.r2265/2948
+count: 2265
+text: 2266 1669 261 261 c1e494f4d9034615138c752d52cda57f
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2266/1943
+END
+ENDREP
+id: 0.0.r2266/2138
+type: dir
+pred: 0.0.r2265/3143
+count: 2266
+text: 2266 2089 36 36 b0acbeb2836c6537be348d0d49343e8e
+cpath: /
+copyroot: 0 /
+
+1vt.ay.r2265/709 delete false false /old/sipXproxy/tags/2.8-export-C
+
+
+2138 2279

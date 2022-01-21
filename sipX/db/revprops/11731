@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-06-24T20:56:02.659692Z
+K 7
+svn:log
+V 100
+Enable optional media interface video codec support and the possiblity of passing through video RTP
+
+END

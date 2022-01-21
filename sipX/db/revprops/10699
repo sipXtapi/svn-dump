@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-07-01T20:49:12.212698Z
+K 7
+svn:log
+V 154
+Add new configure option to sipXmediaAdapterLib. Specify "--enable-topology-graph" to enable use of topology graph instead of venerable 
+MpCallFlowgraph.
+
+END

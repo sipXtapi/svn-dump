@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-09-17T21:06:51.071952Z
+K 7
+svn:log
+V 154
+VS2005 speex plugin project: Include files that were split off from main speex plugin file to fix build.
+Add post build step to copy speex dll to bin dir.
+END

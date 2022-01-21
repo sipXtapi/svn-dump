@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-10T10:12:35.232265Z
+K 7
+svn:log
+V 245
+Replace sipX_max() with max() in PlaceCallWntApp and ReceiveCallWntApp.
+sipx_max() is defined in sipXportLib, which is not visible for sipXtapi users. Moreover this files are specific for Windows, under which max() is defined in system headers.
+
+END

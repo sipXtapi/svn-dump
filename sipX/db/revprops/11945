@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-06-04T20:47:04.081775Z
+K 7
+svn:log
+V 71
+Made SDP codec Mime subtype canonical case lower case in SdpCodecList.
+
+END

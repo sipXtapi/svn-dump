@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-09T20:01:47.987068Z
+K 7
+svn:log
+V 123
+Add 'source $CONFIG_DEFS' so sipXvxml.sh can create the mailbox directories.
+See http://track.sipfoundry.org/browse/XVX-33
+
+END

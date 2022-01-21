@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+raghu
+K 8
+svn:date
+V 27
+2004-06-07T20:00:30.724921Z
+K 7
+svn:log
+V 144
+Code cleanup. I had already started the UtlSListIterator before the new task was assigned to me.Didn't want to leave this class half finished. 
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+cypromis
+K 8
+svn:date
+V 27
+2006-09-05T15:30:33.037594Z
+K 7
+svn:log
+V 81
+Disable Snom config Unit Testuntil we have a new sample of the new config version
+END

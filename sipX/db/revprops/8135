@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-28T14:09:44.700088Z
+K 7
+svn:log
+V 84
+VS2005 compatibility fix: return type for forward declarations should be specified.
+
+END

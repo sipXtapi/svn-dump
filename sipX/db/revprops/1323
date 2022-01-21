@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-25T20:18:39.568726Z
+K 7
+svn:log
+V 103
+Changes required to build sipXcallLib with updated sipXportLib (replaced
+calls to 3rd party software)
+
+
+END

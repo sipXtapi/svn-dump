@@ -1,0 +1,37 @@
+id: fuu.0.r10816/0
+type: dir
+count: 0
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir fuu.0.r10816/0
+K 4
+main
+V 20
+dir 9wi.7n5.r10815/0
+K 11
+sipXecs.old
+V 21
+dir fus.0.r10815/1528
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r10816/236
+type: dir
+pred: 0.0.r10815/1814
+count: 10816
+text: 10816 70 153 153 9af44d6ccec6eb4ea5b77d898739689d
+cpath: /
+copyroot: 0 /
+
+_0.0.t10815-1 add false false /branches
+
+
+236 380

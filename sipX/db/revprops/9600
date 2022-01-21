@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-05-25T04:32:45.604252Z
+K 7
+svn:log
+V 187
+When fromFile resource is enabled and there is no samples to
+put in the frame, make sure the output is zero'ed out or reset
+or we get residual junk from the buffer we get from the pool.
+
+
+END

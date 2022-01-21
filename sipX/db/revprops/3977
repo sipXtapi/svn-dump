@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-06-01T14:10:03.272808Z
+K 7
+svn:log
+V 191
+XCF-416 fix - deleting users that part of calling groups now works correctly
+added removeUser function in CallGroupContext, it is called from legacy notification service when user is deleted
+
+END

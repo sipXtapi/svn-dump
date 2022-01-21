@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-10T12:55:32.792691Z
+K 7
+svn:log
+V 92
+Wrong accessor to UtlHashMap was used in getDeviceId() method of input and output managers.
+
+END

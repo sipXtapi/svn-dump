@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-01T08:46:05.166309Z
+K 7
+svn:log
+V 186
+Correctly enable/disable resources on topology graph creation.
+By default all local audio resources and MprFromFile should be disabled - they would be enabled when flowgraph gain focus.
+
+END

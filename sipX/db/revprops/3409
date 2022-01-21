@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-01-24T14:09:10.024143Z
+K 7
+svn:log
+V 105
+rework setting model to be a little simpler, get initial settings on pages, rework db access in unittests
+END

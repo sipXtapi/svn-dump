@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-05-19T19:04:46.771438Z
+K 7
+svn:log
+V 161
+XCF-319 added screen to remind about restarting the services
+registrar and authproxy are restarted by default, user can opt out and restart those services later
+
+END

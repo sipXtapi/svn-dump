@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-10-18T16:04:40.635563Z
+K 7
+svn:log
+V 121
+Temporarily allow core files until we get through system test for
+2.6.1
+  http://paradise.pingtel.com:8080/browse/ENG-21
+
+END

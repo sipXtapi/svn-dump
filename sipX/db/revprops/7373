@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-08-29T18:35:23.076605Z
+K 7
+svn:log
+V 136
+mergefrom pingtel-main 7115
+
+Put caller-alias.xsd into sipxregistry.spec.in.
+
+Remove pingtel:rights properties that shouldn't be there.
+
+END

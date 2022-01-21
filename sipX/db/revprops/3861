@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-04-30T00:08:32.925507Z
+K 7
+svn:log
+V 104
+XCF-187 refactor common "gateways in dialing  rules" functionalitu 
+new GatewaysPanel component created
+
+END

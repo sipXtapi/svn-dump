@@ -1,0 +1,150 @@
+PLAIN
+K 10
+svn:ignore
+V 206
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxportlib.spec
+sipxportlib-*.rpm
+sipxportlib-*.tar.gz
+stamp-h1
+textfiles
+Debug
+Release
+
+K 17
+svnmerge-2.6-head
+V 55
+https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 5
+1-290
+K 18
+svnmerge-main-head
+V 47
+https://scm.sipfoundry.org/rep/sipXportLib/main
+K 18
+svnmerge-main-revs
+V 5
+1-285
+END
+ENDREP
+id: 3.v.r302/474
+type: dir
+pred: 3.s.r292/1695
+count: 267
+text: 292 1001 681 681 1d62fc855460d45e2c7278403228e0c2
+props: 302 0 461 0 de7d9458ab29e5a443edd7496ab46c20
+cpath: /old/sipXportLib/tags/2.6-export-C
+copyfrom: 301 /old/sipXportLib/branches/2.6
+
+PLAIN
+K 5
+2.5.1
+V 17
+dir 3.e.r115/2794
+K 5
+2.5.2
+V 17
+dir 3.h.r169/1469
+K 12
+2.6-export-A
+V 16
+dir 3.t.r290/474
+K 12
+2.6-export-B
+V 16
+dir 3.u.r294/474
+K 12
+2.6-export-C
+V 16
+dir 3.v.r302/474
+K 13
+main-export-A
+V 14
+dir 3.p.r276/0
+K 13
+main-export-B
+V 16
+dir 3.q.r282/357
+K 13
+main-export-C
+V 16
+dir 3.r.r288/357
+END
+ENDREP
+id: an.0.r302/1051
+type: dir
+pred: an.0.r294/1011
+count: 10
+text: 302 727 311 311 ca720f8506492c197a4b7da2cbc986bd
+cpath: /old/sipXportLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 16
+dir ar.0.r301/48
+K 4
+main
+V 18
+dir 3.0.r300/16197
+K 4
+tags
+V 18
+dir an.0.r302/1051
+END
+ENDREP
+id: 2.0.r302/1328
+type: dir
+pred: 2.0.r301/324
+count: 300
+text: 302 1210 105 105 23534507f362dd072a26cbc1b5e3d09f
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r302/1328
+END
+ENDREP
+id: 1.0.r302/1538
+type: dir
+pred: 1.0.r301/533
+count: 301
+text: 302 1481 44 44 a32d9da5f06fe4988ae157e78395ba3a
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r302/1538
+END
+ENDREP
+id: 0.0.r302/1725
+type: dir
+pred: 0.0.r301/719
+count: 302
+text: 302 1677 35 35 571dd4dc06b4f3a0e415f2a9be6fad71
+cpath: /
+copyroot: 0 /
+
+3._0.t301-1 add false true /old/sipXportLib/tags/2.6-export-C
+301 /old/sipXportLib/branches/2.6
+
+1725 1861

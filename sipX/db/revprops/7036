@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-07-05T18:53:22.296927Z
+K 7
+svn:log
+V 476
+Fix build errors under Linux:
+ * Add '-I$(top_srcdir)/../sipXcallLib/include' to the makefiles
+   when necessary.
+ * Add MpAudioResource.h and MpAudioResource.cpp to source files
+   list, remove MpDefs.h from source file list. Remove tapi/*.h
+   files from source files list in sipXtackLib.
+ * gcc 2.95 give an error on this construction:
+      SIPX_TRANSPORT_DATA* pTransport = SIPX_TRANSPORT_NULL
+   I changed it to more proper
+      SIPX_TRANSPORT_DATA* pTransport = NULL
+
+
+END

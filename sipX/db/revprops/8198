@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-12-05T14:06:49.272620Z
+K 7
+svn:log
+V 426
+[XPL-181] Fix connection peer caching
+          (Initialize OsSSLConnectionSocket::mPeerIdentity in all
+          constructors).  Thanks to Dale for finding this.
+
+Improve top level make structure
+  Ensure that projects are ordered based on dependencies
+  Exit more quickly on failures
+       (this latter is only a partial fix - the automake-generated
+       recursion still goes on too long, but that's much harder to fix)
+
+
+END

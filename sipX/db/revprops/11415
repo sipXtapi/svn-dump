@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-07-12T20:49:16.647737Z
+K 7
+svn:log
+V 148
+sipXmediaLib: Update Speex to latest git and add our own patch for speex_bits_get_num_frames() (which will be applied to Speex git hopefully soon).
+
+END

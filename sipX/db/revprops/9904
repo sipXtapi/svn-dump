@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-27T21:46:35.296525Z
+K 7
+svn:log
+V 140
+Disable testGetResolution and testPeriodRange tests on platforms other than
+windows, as MMTimers have only so far been written for windows.
+
+END

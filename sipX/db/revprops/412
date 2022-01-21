@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-02-17T17:45:46.201868Z
+K 7
+svn:log
+V 148
+Delete the value object that is removed from the name database, even
+if pValue == NULL.  This eliminates a memory leak of 8 bytes per task
+started.
+
+END

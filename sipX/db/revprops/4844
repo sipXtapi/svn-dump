@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-07-14T02:15:18.296430Z
+K 7
+svn:log
+V 261
+Removed the interface of addParam() in XmlRpcMethod and all the params will be passed onto the service via execute(). An userdata is also added in the addMethod() of XmlRpcDispatch so that the value of userdata will be passed back to the service in execute().
+
+
+END

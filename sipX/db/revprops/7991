@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-11-14T21:53:19.076420Z
+K 7
+svn:log
+V 95
+XPR-185 More dependency cleanup (gems out, ruby-libs in) 
+Fix main.rb to print usage properly.
+
+END

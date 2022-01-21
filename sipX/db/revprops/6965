@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-06-13T18:43:56.208091Z
+K 7
+svn:log
+V 257
+XCF-1089 - user id and serial number are required fields in an imported .csv file - make sure that they are treated as such by ignoring rows that do not have them
+- report format problems on a Job Status page (they used to be only logged in sipxconfig.log)
+
+END

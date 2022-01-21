@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-02-01T03:43:49.029564Z
+K 7
+svn:log
+V 133
+if you take the time to create the answer to an RPC question, then it's a good idea to stick the answer in the RPC response -- d'oh!
+
+END

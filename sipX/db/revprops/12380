@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-06-09T23:06:51.505012Z
+K 7
+svn:log
+V 48
+Fixed 64 bit Linux macro issue in UtlSerialized
+
+END

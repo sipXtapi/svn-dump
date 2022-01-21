@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-05-25T15:07:20.464653Z
+K 7
+svn:log
+V 47
+Added documentation for UtlSList and UtlDList
+
+
+END

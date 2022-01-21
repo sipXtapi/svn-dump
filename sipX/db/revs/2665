@@ -1,0 +1,1324 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 20r.0.r2665/82
+type: file
+pred: 20r.0.r2549/58651
+count: 1
+text: 2549 449 11212 26430 7fbc338309ac38fefcd64b04bb903e34
+props: 2665 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/LICENSE
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 216.0.r2665/393
+type: file
+pred: 216.0.r2549/59117
+count: 1
+text: 2549 16631 337 571 34fc73ada7b916c3236269e0342ab30f
+props: 2665 311 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/include/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21a.0.r2665/717
+type: file
+pred: 21a.0.r2573/3593
+count: 2
+text: 2573 497 21 851 163c1f67732f8f532393a90c02069d4d
+props: 2665 635 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/include/statusserver/NotifierBase.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21d.0.r2665/1053
+type: file
+pred: 21d.0.r2590/359
+count: 8
+text: 2590 0 55 4553 39e8a0746db54f98412f5dabea551042
+props: 2665 971 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/include/statusserver/StatusServer.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 218.0.r2665/1388
+type: file
+pred: 218.0.r2573/4109
+count: 3
+text: 2573 0 37 2281 047a4e222be1546c3d07dcaa11fe1d1b
+props: 2665 1306 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/include/statusserver/MwiPlugin.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21b.0.r2665/1722
+type: file
+pred: 21b.0.r2573/4362
+count: 4
+text: 2573 546 21 1587 6cf6796dc1e620f6d7abc32f78f3811e
+props: 2665 1640 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/include/statusserver/PluginXmlParser.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 219.0.r2665/2064
+type: file
+pred: 219.0.r2573/4622
+count: 3
+text: 2573 66 403 1542 d605f565b5cb0141d7ca46679c63897b
+props: 2665 1982 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/include/statusserver/Notifier.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21f.0.r2665/2399
+type: file
+pred: 21f.0.r2573/4876
+count: 4
+text: 2573 733 26 3579 9ceb308d7bec76ba396fb46d78483369
+props: 2665 2317 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/include/statusserver/SubscribeServerThread.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21c.0.r2665/2747
+type: file
+pred: 21c.0.r2614/1115
+count: 5
+text: 2614 0 309 2315 8a229c34fa73e3497f779e41a181554c
+props: 2665 2665 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/include/statusserver/StatusPluginReference.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21e.0.r2665/3094
+type: file
+pred: 21e.0.r2573/5410
+count: 2
+text: 2573 683 21 2305 b65bfbfdf9fc4495aefa24e9201c3b31
+props: 2665 3012 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/include/statusserver/SubscribeServerPluginBase.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21g.0.r2665/3446
+type: file
+pred: 21g.0.r2573/5682
+count: 3
+text: 2573 785 30 3130 3ed238674d2feba7be1315781c4f1b93
+props: 2665 3364 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/include/statusserver/WebServer.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21h.0.r2665/3782
+type: file
+pred: 21h.0.r2573/5937
+count: 2
+text: 2573 844 21 379 cfb10827243379bf7519c07c525f6b8f
+props: 2665 3700 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/include/statusserver/version.h
+copyroot: 0 /
+
+PLAIN
+K 11
+MwiPlugin.h
+V 21
+file 218.0.r2665/1388
+K 10
+Notifier.h
+V 21
+file 219.0.r2665/2064
+K 14
+NotifierBase.h
+V 20
+file 21a.0.r2665/717
+K 17
+PluginXmlParser.h
+V 21
+file 21b.0.r2665/1722
+K 23
+StatusPluginReference.h
+V 21
+file 21c.0.r2665/2747
+K 14
+StatusServer.h
+V 21
+file 21d.0.r2665/1053
+K 27
+SubscribeServerPluginBase.h
+V 21
+file 21e.0.r2665/3094
+K 23
+SubscribeServerThread.h
+V 21
+file 21f.0.r2665/2399
+K 11
+WebServer.h
+V 21
+file 21g.0.r2665/3446
+K 9
+version.h
+V 21
+file 21h.0.r2665/3782
+END
+ENDREP
+id: 217.0.r2665/4537
+type: dir
+pred: 217.0.r2614/1885
+count: 10
+text: 2665 4033 491 491 400b51b38bdc6bfc647d3064e6a19943
+cpath: /old/sipXpublisher/main/include/statusserver
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 20
+file 216.0.r2665/393
+K 12
+statusserver
+V 20
+dir 217.0.r2665/4537
+END
+ENDREP
+id: 215.0.r2665/4829
+type: dir
+pred: 215.0.r2614/2178
+count: 12
+text: 2665 4725 91 91 896ed0afdd2e25affa9bb134ec6bbc16
+props: 2570 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpublisher/main/include
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 4
+CRLF
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21u.0.r2665/5134
+type: file
+pred: 21u.0.r2645/351
+count: 5
+text: 2645 0 326 6533 edbc7dde28c251f7535cfdb2bada72ba
+props: 2665 5054 67 0 40862581c28acc44b2153a4f7a6c3f75
+cpath: /old/sipXpublisher/main/sipXpublisher.dsp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 20w.0.r2665/5453
+type: file
+pred: 20w.0.r2549/63712
+count: 1
+text: 2549 12804 56 64 2af585c49272869c469f0b5da782c309
+props: 2665 5371 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/acsite.m4
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 20p.0.r2665/5767
+type: file
+pred: 20p.0.r2636/445
+count: 4
+text: 2636 0 421 974 d186ddb6cdcc858c148b331faa16a16d
+props: 2665 5685 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/ChangeLog
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21j.0.r2665/6077
+type: file
+pred: 21j.0.r2653/1375
+count: 6
+text: 2653 643 229 760 b853c9d84728a0b5b91752e4fb751a8c
+props: 2665 5995 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/src/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21m.0.r2665/6396
+type: file
+pred: 21m.0.r2616/3306
+count: 5
+text: 2616 0 424 5705 97f0bca95f7624c2a8d4a745af9ef54a
+props: 2665 6314 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/src/statusserver/Notifier.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21r.0.r2665/6728
+type: file
+pred: 21r.0.r2657/394
+count: 8
+text: 2657 0 366 34873 b9cf7274e5a16fc4719433e2359b8422
+props: 2665 6646 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/src/statusserver/SubscribeServerThread.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21o.0.r2665/7073
+type: file
+pred: 21o.0.r2614/2670
+count: 6
+text: 2614 337 303 3967 aecfcd53e399ddbacbd6eb0b735e94ad
+props: 2665 6991 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/src/statusserver/StatusPluginReference.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21q.0.r2665/7420
+type: file
+pred: 21q.0.r2573/7998
+count: 2
+text: 2573 1949 21 338 9cbc0c89f259cd9ca65a20f2d1b25f32
+props: 2665 7338 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/src/statusserver/SubscribeServerPluginBase.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21s.0.r2665/7770
+type: file
+pred: 21s.0.r2573/8268
+count: 3
+text: 2573 2989 100 4611 e1a56c0218c9351756559f2bc2213dc6
+props: 2665 7688 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/src/statusserver/WebServer.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21t.0.r2665/8106
+type: file
+pred: 21t.0.r2653/1612
+count: 7
+text: 2653 1144 204 10941 4e1d52451cafcda5a2bfa9c6905881a8
+props: 2665 8024 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/src/statusserver/main.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21p.0.r2665/8438
+type: file
+pred: 21p.0.r2653/1862
+count: 8
+text: 2653 896 222 21128 3a06f602c3c1dc3b8a9e5b5303371285
+props: 2665 8356 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/src/statusserver/StatusServer.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21l.0.r2665/8777
+type: file
+pred: 21l.0.r2573/9032
+count: 5
+text: 2573 893 441 12276 4307d67c8d5e79c99cd3ced7ccdd4465
+props: 2665 8695 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/src/statusserver/MwiPlugin.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21n.0.r2665/9113
+type: file
+pred: 21n.0.r2616/3826
+count: 5
+text: 2616 453 616 9356 91bfb9dac7ba58a9a5dbc5696b984333
+props: 2665 9031 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/src/statusserver/PluginXmlParser.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+MwiPlugin.cpp
+V 21
+file 21l.0.r2665/8777
+K 12
+Notifier.cpp
+V 21
+file 21m.0.r2665/6396
+K 19
+PluginXmlParser.cpp
+V 21
+file 21n.0.r2665/9113
+K 25
+StatusPluginReference.cpp
+V 21
+file 21o.0.r2665/7073
+K 16
+StatusServer.cpp
+V 21
+file 21p.0.r2665/8438
+K 29
+SubscribeServerPluginBase.cpp
+V 21
+file 21q.0.r2665/7420
+K 25
+SubscribeServerThread.cpp
+V 21
+file 21r.0.r2665/6728
+K 13
+WebServer.cpp
+V 21
+file 21s.0.r2665/7770
+K 8
+main.cpp
+V 21
+file 21t.0.r2665/8106
+END
+ENDREP
+id: 21k.0.r2665/9845
+type: dir
+pred: 21k.0.r2657/1130
+count: 12
+text: 2665 9372 460 460 0d1befc537a1007300c18219e269f504
+cpath: /old/sipXpublisher/main/src/statusserver
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file 21j.0.r2665/6077
+K 12
+statusserver
+V 20
+dir 21k.0.r2665/9845
+END
+ENDREP
+id: 21i.0.r2665/10134
+type: dir
+pred: 21i.0.r2657/1418
+count: 17
+text: 2665 10029 92 92 60903ac82e8a2fb8564ab05f92eb94f8
+props: 2570 282 69 0 71314970c2be9fc1b217109ae141f111
+cpath: /old/sipXpublisher/main/src
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 20u.0.r2665/10441
+type: file
+pred: 20u.0.r2549/69955
+count: 1
+text: 2549 12554 220 222 3e35582e1dfff09a7b63a94586d525ea
+props: 2665 10359 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/README
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 20o.0.r2665/10756
+type: file
+pred: 20o.0.r2549/69753
+count: 1
+text: 2549 0 239 244 4a768a2b46bbe127d4fb3d4737656fe5
+props: 2665 10674 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/CONTRIBUTORS
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21x.0.r2665/11073
+type: file
+pred: 21x.0.r2640/1027
+count: 9
+text: 2640 524 476 2140 cf03b02d5e4f8972e7d451a80a396af1
+props: 2665 10991 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/sipxpublisher.spec.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 20z.0.r2665/11401
+type: file
+pred: 20z.0.r2650/9551
+count: 11
+text: 2650 1165 258 1800 fce69ecbb542af44a65985606e0fd144
+props: 2665 11319 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/configure.ac
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 220.0.r2665/11722
+type: file
+pred: 220.0.r2580/1599
+count: 1
+text: 2580 0 1586 3368 b1b71e3970fb5d6e4fc65767075ba5eb
+props: 2665 11640 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/doc/license/LICENSE.mod_ssl
+copyroot: 0 /
+
+PLAIN
+K 15
+LICENSE.mod_ssl
+V 22
+file 220.0.r2665/11722
+END
+ENDREP
+id: 21z.0.r2665/12039
+type: dir
+pred: 21z.0.r2580/1835
+count: 1
+text: 2665 11973 53 53 9a1fafbe45793b00cc70914837fde616
+cpath: /old/sipXpublisher/main/doc/license
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 9
+text/html
+END
+ENDREP
+id: 223.0.r2665/12297
+type: file
+pred: 223.0.r2649/536
+count: 2
+text: 2649 0 511 4228 701bcd5ed60732e671a83f132d3f4dcc
+props: 2665 12217 67 0 0c06cf5f4ba661b255b0e5ba6bcaaa80
+cpath: /old/sipXpublisher/main/doc/message-waiting.html
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 224.0.r2665/12625
+type: file
+pred: 224.0.r2650/10127
+count: 1
+text: 2650 1449 7613 23480 ceb3e68f0ad56414ca6e5f5c8c0f03fc
+props: 2665 12543 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/doc/Doxyfile.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 225.0.r2665/12951
+type: file
+pred: 225.0.r2650/10394
+count: 1
+text: 2650 9075 151 205 497321494a75b60d5582886d159de7e5
+props: 2665 12869 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/doc/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 11
+Doxyfile.in
+V 22
+file 224.0.r2665/12625
+K 11
+Makefile.am
+V 22
+file 225.0.r2665/12951
+K 11
+footer.html
+V 21
+file 226.0.r2650/9867
+K 11
+header.html
+V 22
+file 227.0.r2650/10691
+K 7
+license
+V 21
+dir 21z.0.r2665/12039
+K 20
+message-waiting.html
+V 22
+file 223.0.r2665/12297
+END
+ENDREP
+id: 21y.0.r2665/13481
+type: dir
+pred: 21y.0.r2650/11272
+count: 6
+text: 2665 13192 276 276 081a1f4ba5020e8330634e0b403ec39e
+props: 2650 11194 65 0 2082318c0f5e419ea5aefa07950b3d39
+cpath: /old/sipXpublisher/main/doc
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 20v.0.r2665/13792
+type: file
+pred: 20v.0.r2549/63160
+count: 1
+text: 2549 12787 4 0 d41d8cd98f00b204e9800998ecf8427e
+props: 2665 13710 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/TODO
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 20q.0.r2665/14101
+type: file
+pred: 20q.0.r2600/79
+count: 7
+text: 2600 0 55 481 0b1b368ff3e6ee40cde4224bac37f6f5
+props: 2665 14019 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/INSTALL
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 222.0.r2665/14409
+type: file
+pred: 222.0.r2655/359
+count: 5
+text: 2655 0 333 776 afdb6f0f1e8ed80f4ce1a5d3f9a00a4e
+props: 2665 14327 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/bin/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 0
+
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 20y.0.r2665/14752
+type: file
+pred: 20y.0.r2602/413
+count: 5
+text: 2602 0 385 820 dd0336f9cd73d3110a0691ff0178c213
+props: 2665 14645 94 0 3caf7fa5ef5a1e1eabc4ec47c023e3f3
+cpath: /old/sipXpublisher/main/bin/sipstatus.sh.in
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 222.0.r2665/14409
+K 15
+sipstatus.sh.in
+V 22
+file 20y.0.r2665/14752
+END
+ENDREP
+id: 20x.0.r2665/15103
+type: dir
+pred: 20x.0.r2655/700
+count: 13
+text: 2665 14992 98 98 e1dfad2c5e83482364c67ba444e7a902
+props: 2608 0 73 0 0fbc19e77404e797688938a1b1279a52
+cpath: /old/sipXpublisher/main/bin
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 20s.0.r2665/15407
+type: file
+pred: 20s.0.r2654/406
+count: 21
+text: 2654 0 382 1574 740c05db1cf63888abeac2766d64a471
+props: 2665 15325 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 214.0.r2665/15720
+type: file
+pred: 214.0.r2549/68428
+count: 1
+text: 2549 16259 359 532 3d9e2c4f654a9ab035a0ab1e0a3c8180
+props: 2665 15641 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXpublisher/main/etc/status-plugin.xml.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21w.0.r2665/16053
+type: file
+pred: 21w.0.r2625/41
+count: 14
+text: 2625 0 17 421 67f1cfeec6bbcc2780976826dcd65edb
+props: 2665 15971 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/etc/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 213.0.r2665/16370
+type: file
+pred: 213.0.r2549/68702
+count: 1
+text: 2549 16000 246 539 522e43f3820fbde109b7b9fca05ccb99
+props: 2665 16288 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/etc/status-config.in
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 21w.0.r2665/16053
+K 16
+status-config.in
+V 22
+file 213.0.r2665/16370
+K 20
+status-plugin.xml.in
+V 22
+file 214.0.r2665/15720
+END
+ENDREP
+id: 210.0.r2665/16783
+type: dir
+pred: 210.0.r2625/436
+count: 17
+text: 2665 16617 153 153 81743cacb208aae684f4a5016cc08087
+props: 2577 2236 73 0 0fbc19e77404e797688938a1b1279a52
+cpath: /old/sipXpublisher/main/etc
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 20t.0.r2665/17092
+type: file
+pred: 20t.0.r2549/69606
+count: 1
+text: 2549 12537 4 0 d41d8cd98f00b204e9800998ecf8427e
+props: 2665 17010 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpublisher/main/NEWS
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 20o.0.r2665/10756
+K 9
+ChangeLog
+V 21
+file 20p.0.r2665/5767
+K 7
+INSTALL
+V 22
+file 20q.0.r2665/14101
+K 7
+LICENSE
+V 19
+file 20r.0.r2665/82
+K 11
+Makefile.am
+V 22
+file 20s.0.r2665/15407
+K 4
+NEWS
+V 22
+file 20t.0.r2665/17092
+K 6
+README
+V 22
+file 20u.0.r2665/10441
+K 4
+TODO
+V 22
+file 20v.0.r2665/13792
+K 9
+acsite.m4
+V 21
+file 20w.0.r2665/5453
+K 3
+bin
+V 21
+dir 20x.0.r2665/15103
+K 12
+configure.ac
+V 22
+file 20z.0.r2665/11401
+K 3
+doc
+V 21
+dir 21y.0.r2665/13481
+K 3
+etc
+V 21
+dir 210.0.r2665/16783
+K 7
+include
+V 20
+dir 215.0.r2665/4829
+K 17
+sipXpublisher.dsp
+V 21
+file 21u.0.r2665/5134
+K 21
+sipxpublisher.spec.in
+V 22
+file 21x.0.r2665/11073
+K 3
+src
+V 21
+dir 21i.0.r2665/10134
+END
+ENDREP
+id: 20n.0.r2665/18028
+type: dir
+pred: 20n.0.r2661/399
+count: 74
+text: 2665 17319 696 696 8bb4816bf92326d0fc9177680dccb7d1
+props: 2661 0 386 0 2c2aebbabb3f365420acdaee12594cf1
+cpath: /old/sipXpublisher/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 221.0.r2658/1821
+K 4
+main
+V 21
+dir 20n.0.r2665/18028
+K 4
+tags
+V 20
+dir 21v.0.r2664/1674
+END
+ENDREP
+id: 20m.0.r2665/18376
+type: dir
+pred: 20m.0.r2664/1965
+count: 117
+text: 2665 18249 114 114 a66272ba4a0cac66c07ac206499f15e0
+cpath: /old/sipXpublisher
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 21
+dir 20m.0.r2665/18376
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2665/18905
+type: dir
+pred: 1.0.r2664/2491
+count: 2664
+text: 2665 18541 351 351 247fe28fe1739128238215af8ae28c53
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 19
+dir 1.0.r2665/18905
+END
+ENDREP
+id: 0.0.r2665/19103
+type: dir
+pred: 0.0.r2664/2686
+count: 2665
+text: 2665 19053 37 37 56aeca98de9b0cd557c6ca9a46a97550
+cpath: /
+copyroot: 0 /
+
+21a.0.t2664-1 modify false true /old/sipXpublisher/main/include/statusserver/NotifierBase.h
+
+20u.0.t2664-1 modify false true /old/sipXpublisher/main/README
+
+21x.0.t2664-1 modify false true /old/sipXpublisher/main/sipxpublisher.spec.in
+
+21q.0.t2664-1 modify false true /old/sipXpublisher/main/src/statusserver/SubscribeServerPluginBase.cpp
+
+21e.0.t2664-1 modify false true /old/sipXpublisher/main/include/statusserver/SubscribeServerPluginBase.h
+
+20v.0.t2664-1 modify false true /old/sipXpublisher/main/TODO
+
+21h.0.t2664-1 modify false true /old/sipXpublisher/main/include/statusserver/version.h
+
+20s.0.t2664-1 modify false true /old/sipXpublisher/main/Makefile.am
+
+21n.0.t2664-1 modify false true /old/sipXpublisher/main/src/statusserver/PluginXmlParser.cpp
+
+21b.0.t2664-1 modify false true /old/sipXpublisher/main/include/statusserver/PluginXmlParser.h
+
+21w.0.t2664-1 modify false true /old/sipXpublisher/main/etc/Makefile.am
+
+20y.0.t2664-1 modify false true /old/sipXpublisher/main/bin/sipstatus.sh.in
+
+21u.0.t2664-1 modify false true /old/sipXpublisher/main/sipXpublisher.dsp
+
+21s.0.t2664-1 modify false true /old/sipXpublisher/main/src/statusserver/WebServer.cpp
+
+21g.0.t2664-1 modify false true /old/sipXpublisher/main/include/statusserver/WebServer.h
+
+20w.0.t2664-1 modify false true /old/sipXpublisher/main/acsite.m4
+
+223.0.t2664-1 modify false true /old/sipXpublisher/main/doc/message-waiting.html
+
+21p.0.t2664-1 modify false true /old/sipXpublisher/main/src/statusserver/StatusServer.cpp
+
+21d.0.t2664-1 modify false true /old/sipXpublisher/main/include/statusserver/StatusServer.h
+
+20o.0.t2664-1 modify false true /old/sipXpublisher/main/CONTRIBUTORS
+
+224.0.t2664-1 modify false true /old/sipXpublisher/main/doc/Doxyfile.in
+
+21l.0.t2664-1 modify false true /old/sipXpublisher/main/src/statusserver/MwiPlugin.cpp
+
+218.0.t2664-1 modify false true /old/sipXpublisher/main/include/statusserver/MwiPlugin.h
+
+214.0.t2664-1 modify false true /old/sipXpublisher/main/etc/status-plugin.xml.in
+
+21j.0.t2664-1 modify false true /old/sipXpublisher/main/src/Makefile.am
+
+21m.0.t2664-1 modify false true /old/sipXpublisher/main/src/statusserver/Notifier.cpp
+
+219.0.t2664-1 modify false true /old/sipXpublisher/main/include/statusserver/Notifier.h
+
+20z.0.t2664-1 modify false true /old/sipXpublisher/main/configure.ac
+
+21o.0.t2664-1 modify false true /old/sipXpublisher/main/src/statusserver/StatusPluginReference.cpp
+
+21c.0.t2664-1 modify false true /old/sipXpublisher/main/include/statusserver/StatusPluginReference.h
+
+213.0.t2664-1 modify false true /old/sipXpublisher/main/etc/status-config.in
+
+20q.0.t2664-1 modify false true /old/sipXpublisher/main/INSTALL
+
+21t.0.t2664-1 modify false true /old/sipXpublisher/main/src/statusserver/main.cpp
+
+220.0.t2664-1 modify false true /old/sipXpublisher/main/doc/license/LICENSE.mod_ssl
+
+20t.0.t2664-1 modify false true /old/sipXpublisher/main/NEWS
+
+225.0.t2664-1 modify false true /old/sipXpublisher/main/doc/Makefile.am
+
+222.0.t2664-1 modify false true /old/sipXpublisher/main/bin/Makefile.am
+
+20r.0.t2664-1 modify false true /old/sipXpublisher/main/LICENSE
+
+21r.0.t2664-1 modify false true /old/sipXpublisher/main/src/statusserver/SubscribeServerThread.cpp
+
+21f.0.t2664-1 modify false true /old/sipXpublisher/main/include/statusserver/SubscribeServerThread.h
+
+20p.0.t2664-1 modify false true /old/sipXpublisher/main/ChangeLog
+
+216.0.t2664-1 modify false true /old/sipXpublisher/main/include/Makefile.am
+
+
+19103 19246

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-07-13T20:30:47.738560Z
+K 7
+svn:log
+V 271
+XCF-307 removing JBoss related commands from start-up scripts
+- sipxpbx.in does not check for postgress service any more - this is relevant to sipXconfig only; sipxdbmgr script does not exist any more
+- install-cert.sh.in does not have to install JBoss keystore any more
+
+END

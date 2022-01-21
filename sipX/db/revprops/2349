@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-10-02T06:52:27.939386Z
+K 7
+svn:log
+V 146
+Changed -d option to -D option to install to create parent directories
+for files, as opposed to create a directory of the
+same name as the file.
+
+
+END

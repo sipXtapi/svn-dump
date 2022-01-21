@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-02-24T16:36:18.744416Z
+K 7
+svn:log
+V 288
+XCF-185 fix
+- proper namespace for authrules.xml added
+- new XmlUnitTester class simplifies unit testing XML with namespaces and DOM4J trees
+- authrules.xml.in, fallbackrules.xml.in and mappingrules.xml.in will now overwrite previous version of files (the backup copy is created though)
+
+
+END

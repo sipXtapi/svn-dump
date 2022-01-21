@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-11T12:52:03.955469Z
+K 7
+svn:log
+V 93
+Fix non-initialized variable use in MpCallFlowGraph.
+Thanks to Paul Whitfield for the patch.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-11-08T18:48:23.514408Z
+K 7
+svn:log
+V 69
+Clean up sipXmediaLibTest-msvc8 -- remove unneeded/unused entities.
+
+
+END

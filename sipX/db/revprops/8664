@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-01-29T20:53:05.032033Z
+K 7
+svn:log
+V 189
+Add MpTopologyGraph class files to MSVC2005 WIN32 & CE6 mediaLib project.
+Add CpTopologyGraphInterface, CpTopologyGraphFactory class files to MSVC2005 WIN32 & CE6 mediaAdapterLib project.
+
+
+END

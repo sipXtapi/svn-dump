@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-23T19:50:57.911046Z
+K 7
+svn:log
+V 305
+XCF-680 emergency routing is now only accessible from Emergency Dialing Rule page
+activation of dialing plan is not forced automatically: logically emergency routing is part of the dialing plan and it is activated when dialing plan is activated
+fixed behavior of Cancel, Apply and OK buttons on this page
+
+END

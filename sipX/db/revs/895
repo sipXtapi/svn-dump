@@ -1,0 +1,160 @@
+PLAIN
+K 13
+svn:externals
+V 75
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/user_pin/config
+
+K 10
+svn:ignore
+V 225
+BUILDSTAMP
+Debug
+Makefile
+Makefile.in
+Release
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.properties
+config.status
+configure
+libtool
+sipxtacklib-*.rpm
+sipxtacklib-*.tar.gz
+sipxtacklib.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 55
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 41
+1-131,137,147,152,155-157,159,169,188,197
+K 17
+svnmerge-2.8-head
+V 55
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 21
+1-230,233,238,251,258
+K 18
+svnmerge-main-head
+V 47
+https://scm.sipfoundry.org/rep/sipXtackLib/main
+K 18
+svnmerge-main-revs
+V 5
+1-295
+K 23
+svnmerge-user_ping-head
+V 61
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-277
+END
+ENDREP
+id: dk.3y.r895/899
+type: dir
+pred: dk.0.r894/3612
+count: 210
+text: 894 2402 1197 1197 0e10a1bd6c2e6d758d9876b8238117d6
+props: 895 0 886 0 73e16f52a470a84dd4af4f1d45af341a
+cpath: /old/sipXtackLib/branches/user_pin
+copyfrom: 894 /old/sipXtackLib/main
+
+PLAIN
+K 3
+2.6
+V 20
+dir dk.2u.r796/23010
+K 3
+2.8
+V 19
+dir dk.3l.r878/5774
+K 8
+user_pin
+V 18
+dir dk.3y.r895/899
+K 9
+user_ping
+V 18
+dir dk.3s.r876/765
+END
+ENDREP
+id: kz.0.r895/1308
+type: dir
+pred: kz.0.r878/6151
+count: 39
+text: 895 1149 146 146 f510ccb73096e852f48b1ccf85a63d67
+cpath: /old/sipXtackLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir kz.0.r895/1308
+K 4
+main
+V 18
+dir dk.0.r894/3612
+K 4
+tags
+V 18
+dir kr.0.r893/2525
+END
+ENDREP
+id: dj.0.r895/1592
+type: dir
+pred: dj.0.r894/3949
+count: 296
+text: 895 1472 107 107 275a91dae8d6d3f995e1df1cbac0632c
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 18
+dir dj.0.r895/1592
+END
+ENDREP
+id: 1.0.r895/1846
+type: dir
+pred: 1.0.r894/4203
+count: 894
+text: 895 1748 85 85 ba9a88a8f3d56ba1cce86ae80ec3d454
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r895/1846
+END
+ENDREP
+id: 0.0.r895/2034
+type: dir
+pred: 0.0.r894/4391
+count: 895
+text: 895 1986 35 35 7a6d4301e06c1a6dd31c835a7068d2df
+cpath: /
+copyroot: 0 /
+
+dk._0.t894-1 add false true /old/sipXtackLib/branches/user_pin
+894 /old/sipXtackLib/main
+
+2034 2171

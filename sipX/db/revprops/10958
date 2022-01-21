@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-11-18T22:48:36.722770Z
+K 7
+svn:log
+V 126
+Fix 64-bit bug in UtlIntPtr - trying to exchange two 64-bit values using 32-bit temp variable.
+Also some minor warning fixes.
+
+END

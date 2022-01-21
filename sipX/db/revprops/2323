@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-08-30T18:45:19.697250Z
+K 7
+svn:log
+V 180
+http://track.sipfoundry.org/browse/XCS-15 
+
+Move the sipdb files:
+  all temporary files are now in $prefix/var/tmp
+  all persistent xml files are now in $prefix/var/sipxdata/sipdb
+
+END

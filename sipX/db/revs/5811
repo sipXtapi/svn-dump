@@ -1,0 +1,299 @@
+id: 8w8.2e9.r5811/0
+type: file
+pred: 8w8.1ie.r5810/386236
+count: 1
+text: 5810 0 10081 11276 1707c08be923cf18b2fa6837025bb705
+props: 5810 386170 53 0 113136892f2137aa0116093a524ade0b
+cpath: /main/sipXregistry/doc/HaScenarios.odt
+copyfrom: 5810 /main/sipXregistry/doc/HaFailure.odt
+
+id: 8w9.2ea.r5811/281
+type: file
+pred: 8w9.1ie.r5810/386541
+count: 1
+text: 5810 10094 376063 384102 be52d1a2d632f01ca1a2ba5ccea933a4
+props: 5810 386475 53 0 113136892f2137aa0116093a524ade0b
+cpath: /main/sipXregistry/doc/HaScenarios.pdf
+copyfrom: 5810 /main/sipXregistry/doc/HaFailure.pdf
+
+PLAIN
+K 11
+Doxyfile.in
+V 23
+file 1zh.1ie.r4872/7949
+K 15
+HaScenarios.odt
+V 20
+file 8w8.2e9.r5811/0
+K 15
+HaScenarios.pdf
+V 22
+file 8w9.2ea.r5811/281
+K 11
+Makefile.am
+V 24
+file 1z7.1ie.r4821/47998
+K 15
+Redirection.txt
+V 24
+file 1z8.1ie.r5450/33152
+K 15
+SyncDesign.html
+V 24
+file 8ox.1ie.r5799/13044
+K 14
+SyncDesign.txt
+V 24
+file 8oy.1ie.r5799/12513
+K 14
+SyncDesign.xml
+V 24
+file 8ow.1ie.r5799/12779
+K 9
+alias.xml
+V 21
+file 1z9.0.r2415/1312
+K 16
+call-pick-up.txt
+V 23
+file 8da.1ie.r5076/9685
+K 9
+developer
+V 24
+dir 200.28x.r5457/186035
+K 17
+fallbackrules.xml
+V 22
+file 1zc.bj.r2415/1546
+K 11
+footer.html
+V 26
+file 1zi.1ie.r4884/6020637
+K 13
+huntgroup.xml
+V 21
+file 1za.0.r2415/1837
+K 16
+mappingrules.xml
+V 21
+file 1zb.0.r2415/1071
+K 16
+registration.xml
+V 22
+file 1zd.0.r2414/10316
+END
+ENDREP
+id: 1z6.1ie.r5811/1359
+type: dir
+pred: 1z6.1ie.r5810/387579
+count: 47
+text: 5811 570 776 776 ca16bbc4204abb1e9a6cfc0a14fa6bb0
+props: 5457 186797 69 0 79529bae43531362a7f9a067fcf6bf41
+cpath: /main/sipXregistry/doc
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 21
+file 1y6.0.r2414/7414
+K 9
+ChangeLog
+V 20
+file 1y7.0.r2470/663
+K 7
+INSTALL
+V 22
+file 1y8.0.r2414/11973
+K 7
+LICENSE
+V 20
+file 1y9.0.r2470/440
+K 11
+Makefile.am
+V 24
+file 1ya.1ie.r5450/34197
+K 4
+NEWS
+V 22
+file 1yb.0.r2414/15680
+K 6
+README
+V 21
+file 1yc.0.r2414/7102
+K 4
+TODO
+V 22
+file 1yd.0.r2414/11664
+K 9
+acsite.m4
+V 21
+file 1ye.0.r2414/1353
+K 3
+bin
+V 23
+dir 1yf.1ie.r4931/22628
+K 12
+configure.ac
+V 24
+file 1yk.1ie.r5412/14385
+K 3
+doc
+V 22
+dir 1z6.1ie.r5811/1359
+K 3
+etc
+V 21
+dir 1yl.1ie.r5599/631
+K 7
+include
+V 24
+dir 7v9.1ie.r5457/178326
+K 3
+lib
+V 24
+dir 87u.1ie.r5457/188604
+K 4
+meta
+V 23
+dir 1zk.1ie.r4982/19796
+K 16
+sipXregistry.dsp
+V 23
+file 1z4.1ie.r4909/7233
+K 20
+sipxregistry.spec.in
+V 24
+file 1ze.1ie.r5316/16851
+K 3
+src
+V 22
+dir 1yq.1ie.r5767/4532
+END
+ENDREP
+id: 1y5.1ie.r5811/2404
+type: dir
+pred: 1y5.1ie.r5810/388630
+count: 190
+text: 5811 1607 784 784 a68c91aa94b884c28b86d38f9211a685
+props: 5457 190037 988 0 9f11220fe020fadbe443f11cd7404141
+cpath: /main/sipXregistry
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 7
+bbridge
+V 20
+dir 8dl.0.r5764/1853
+K 5
+build
+V 20
+file 7ve.0.r5711/741
+K 6
+config
+V 21
+dir 91.1i4.r5681/1419
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 14
+resiprocateLib
+V 20
+dir 8g8.0.r5655/3734
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r5804/6355
+K 17
+sipXcommserverLib
+V 22
+dir 1qo.1i6.r5750/7578
+K 10
+sipXconfig
+V 22
+dir 2hf.1i7.r5808/9497
+K 19
+sipXmediaAdapterLib
+V 20
+dir 89s.0.r5622/5435
+K 12
+sipXmediaLib
+V 21
+dir mz.1i8.r5743/6768
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r5809/2810
+K 9
+sipXphone
+V 22
+dir 6qk.1ia.r5262/5130
+K 11
+sipXportLib
+V 21
+dir 3.1ib.r5763/15517
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r5797/4745
+K 13
+sipXpublisher
+V 23
+dir 20n.1id.r5657/28648
+K 12
+sipXregistry
+V 22
+dir 1y5.1ie.r5811/2404
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r5763/23466
+K 8
+sipXvxml
+V 23
+dir 22d.1ig.r5657/13904
+END
+ENDREP
+id: 7q4.0.r5811/3455
+type: dir
+pred: 7q4.0.r5810/389686
+count: 856
+text: 5811 2651 791 791 d207297c12c9eb9e803b241f9e4206f0
+props: 5724 51036 2516 0 5ec742b4a0031e5e1afc6d05c731cfc6
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r5757/2197
+K 4
+main
+V 20
+dir 7q4.0.r5811/3455
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r5811/3792
+type: dir
+pred: 0.0.r5810/390027
+count: 5811
+text: 5811 3665 114 114 f7a65fd968008c4dc62cd58050aaa095
+cpath: /
+copyroot: 0 /
+
+8w8._0.t5810-1 add false false /main/sipXregistry/doc/HaScenarios.odt
+5810 /main/sipXregistry/doc/HaFailure.odt
+8w8.1ie.r5810/386236 delete false false /main/sipXregistry/doc/HaFailure.odt
+
+8w9._1.t5810-1 add false false /main/sipXregistry/doc/HaScenarios.pdf
+5810 /main/sipXregistry/doc/HaFailure.pdf
+8w9.1ie.r5810/386541 delete false false /main/sipXregistry/doc/HaFailure.pdf
+
+
+3792 3937

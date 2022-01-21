@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-02-08T00:08:33.113791Z
+K 7
+svn:log
+V 152
+XCF-998 simplify enabling CSEs: single checkbox that controls CSE generation (enabled by default)
+Call Resolver logging setting moved to Logging screen
+
+END

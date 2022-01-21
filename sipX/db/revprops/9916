@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-30T19:21:53.805646Z
+K 7
+svn:log
+V 148
+Update MMTimerTest to use platform independent timing, at the cost of some precision on Windows.
+For more precise timing, use version prior to this.
+END

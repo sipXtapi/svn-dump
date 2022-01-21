@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-11-08T06:42:56.520558Z
+K 7
+svn:log
+V 119
+Added MSVS6 projects for PlaceCall and ReceiveCall
+
+Fixed compiler problem, argument mismatch in ExternalTransport.cpp
+
+END

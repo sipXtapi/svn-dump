@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2005-05-17T20:45:36.462009Z
+K 7
+svn:log
+V 77
+Fiddle with sipXpark build a bit to try to get it to build as part of sipXpbx
+END

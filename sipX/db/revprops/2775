@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-07T18:37:31.219557Z
+K 7
+svn:log
+V 93
+Add more command groups; deal with --prefix problem; show how to add global config modifiers.
+END

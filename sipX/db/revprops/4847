@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-07-14T18:35:07.499851Z
+K 7
+svn:log
+V 39
+set log and lib dir for jetty correctly
+END

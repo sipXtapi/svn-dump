@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-03-02T17:22:33.014214Z
+K 7
+svn:log
+V 261
+sipXtapi / sipXezPhone
+
+1. now calling unholdLocalTerminalConnection on sipxCallAccept (fixes ringtone play problem).
+2. Changed Volume range from 1 - 10 to 1 - 100
+3. Phone's ringing state is entered after receiving the ALERTING event, rather than OFFERING.
+
+
+
+END

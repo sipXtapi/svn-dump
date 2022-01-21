@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-03-05T00:40:26.794465Z
+K 7
+svn:log
+V 197
+Bugfix: MprMixer did not work as mixer. Counter variable of external loop was used in internal loop.
+
+Fix suggested by Jaroslav Libak:
+http://list.sipfoundry.org/archive/sipxtapi-dev/msg00989.html
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-29T17:33:15.542632Z
+K 7
+svn:log
+V 78
+FIX: removing gateways that are used in user assisted emergency routing fixed
+
+END

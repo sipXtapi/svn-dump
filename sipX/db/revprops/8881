@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-02-22T21:30:21.210715Z
+K 7
+svn:log
+V 563
+XCF-1413, XCF-1450 update asset selector widget to handle deleting uploaded files
+When user clicks 'Delete' link AssetSelector deletes the file from the disk immediately, it also sets the 'asset' parameter to null. In addition to that when AssetSelector is rewound it checks if file specified in asset exists and if it does not it sets asset parameter to null. This change ensures that AssetSelector behaves properly even if the page has never been saved after file has been deleted. It also behaves properly if file has been deleted independently of sipXconfig.
+
+END

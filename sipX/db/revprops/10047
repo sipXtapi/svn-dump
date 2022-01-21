@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-06T12:54:04.443003Z
+K 7
+svn:log
+V 115
+Use value of CONFIG_PHONESET_SEND_INBAND_DTMF directly - use of defines in such cases only make code more complex.
+
+END

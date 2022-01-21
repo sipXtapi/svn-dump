@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+msl
+K 8
+svn:date
+V 27
+2006-03-30T23:16:35.524653Z
+K 7
+svn:log
+V 96
+Michal's config.diff:
+- fix CXXFLAGS; only pass SF_CXX_WARNINGS to gcc
+- fix pcre version check
+
+END

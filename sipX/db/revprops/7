@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-05-24T17:42:05.364396Z
+K 7
+svn:log
+V 65
+1) Additional docs for UtlString
+2) Folded in Raghu's comments.
+
+
+END

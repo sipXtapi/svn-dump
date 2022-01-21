@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-02-28T17:28:53.012655Z
+K 7
+svn:log
+V 445
+XCF-194 Implemented cloning for DialingRules.
+
+There should be a better way of implementing this, but at the moment if "persistent" object needs to implement "duplicate" funtionality it is responsible for implementin clone method.
+Clone should create a clone of each collection property (the default clone implementation is shallow - creates a copy of a reference to a collection, and not a new collection referencing the same set of objects.)
+
+
+END

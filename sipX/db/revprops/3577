@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-02-24T13:49:49.144210Z
+K 7
+svn:log
+V 146
+XCF-168 Work towards moving lines up/down and deleting. Need to write DataCollection utility to perform organization operations on data collectons
+END

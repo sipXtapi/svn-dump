@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-08-25T12:47:54.286487Z
+K 7
+svn:log
+V 180
+Tweak to update version -- which will now work regardless of your checkout directory structure.
+
+(update version updates the version in sipXtapi.h with the current repo version).
+
+
+END

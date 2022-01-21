@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-08-23T12:39:01.062478Z
+K 7
+svn:log
+V 106
+XPL-39 Increase timer unit test tolerance from 10 ms to 30 ms, (was 150 ms before it was changed to 10 ms)
+END

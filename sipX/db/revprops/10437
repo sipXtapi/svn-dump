@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-07T18:00:57.089782Z
+K 7
+svn:log
+V 180
+When checking speex, add a var that holds the path to the static speex lib, so
+that it doesn't have to be hard-coded in the automake file(s) that use it
+(currently just plgspeex)
+
+
+END

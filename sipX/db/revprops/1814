@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-07-13T14:58:19.418208Z
+K 7
+svn:log
+V 121
+'make dist' broken, include mapdata in distribution, not all xml files were listed and name was EXTRA_DATA not EXTRA_DIST
+END

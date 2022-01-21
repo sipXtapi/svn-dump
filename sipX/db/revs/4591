@@ -1,0 +1,193 @@
+PLAIN
+K 13
+svn:externals
+V 75
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/user_pin/config
+
+K 10
+svn:ignore
+V 181
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+sipxpbx-*.rpm
+sipxpbx-*.tar.gz
+sipxpbx.spec
+
+K 17
+svnmerge-2.6-head
+V 51
+https://scm.sipfoundry.org/rep/sipXpbx/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 61
+1-307,310-311,316-317,321-324,326,337,341,343,351,366-367,391
+K 17
+svnmerge-2.8-head
+V 51
+https://scm.sipfoundry.org/rep/sipXpbx/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 49
+1-434,437-441,444,447,450,452,458,463,466,471,490
+K 18
+svnmerge-main-head
+V 43
+https://scm.sipfoundry.org/rep/sipXpbx/main
+K 18
+svnmerge-main-revs
+V 5
+1-497
+K 23
+svnmerge-user_ping-head
+V 57
+https://scm.sipfoundry.org/rep/sipXpbx/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-479
+END
+ENDREP
+id: 5g6.108.r4591/887
+type: dir
+pred: 5g6.0.r4590/1088
+count: 377
+text: 4590 398 677 677 a120f7bd8e0b0835601323404eccf4f1
+props: 4591 0 874 0 b42d45980d7b37f255b210761fe426b5
+cpath: /old/sipXpbx/branches/user_pin
+copyfrom: 4590 /old/sipXpbx/main
+
+PLAIN
+K 3
+2.6
+V 21
+dir 5g6.yq.r4484/3566
+K 3
+2.8
+V 21
+dir 5g6.zt.r4588/3738
+K 8
+user_pin
+V 21
+dir 5g6.108.r4591/887
+K 9
+user_ping
+V 22
+dir 5g6.103.r4580/7930
+END
+ENDREP
+id: 6o1.0.r4591/1303
+type: dir
+pred: 6o1.0.r4588/4122
+count: 79
+text: 4591 1134 156 156 2674416978a35407b8e8193c0d7ff318
+cpath: /old/sipXpbx/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 6o1.0.r4591/1303
+K 4
+main
+V 20
+dir 5g6.0.r4590/1088
+K 4
+tags
+V 20
+dir 5kn.0.r4586/2213
+END
+ENDREP
+id: 5g5.0.r4591/1594
+type: dir
+pred: 5g5.0.r4590/1431
+count: 498
+text: 4591 1468 113 113 38c4b20ae00b93573d6a33fb70d2c470
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4591/1594
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4591/2234
+type: dir
+pred: 1.0.r4590/2071
+count: 4589
+text: 4591 1751 470 470 25b18e954cc58857e5f8ace134952623
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4591/2234
+END
+ENDREP
+id: 0.0.r4591/2429
+type: dir
+pred: 0.0.r4590/2266
+count: 4591
+text: 4591 2380 36 36 e221020bfc1d63a9b01cef7ec2fc8d86
+cpath: /
+copyroot: 0 /
+
+5g6._0.t4590-1 add false true /old/sipXpbx/branches/user_pin
+4590 /old/sipXpbx/main
+
+2429 2570

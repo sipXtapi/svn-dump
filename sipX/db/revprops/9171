@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 3
+lih
+K 8
+svn:date
+V 27
+2007-03-26T21:40:12.005834Z
+K 7
+svn:log
+V 479
+Fix typo in the description of Transfer Extension on the Auto Attendant web page (second try)
+
+Changed the description of Transfer Extension
+   from "Extension to used when transfer on failure is enabled"
+   to   "Extension to be used when transfer on failure is enabled"
+
+Thanks to Damian for pointing out that the righ file to fix this is
+autoattendant.properties, not autoattendant.xml since texts in a .xml
+file are ignored if its corresponding .properties file are present.
+
+END

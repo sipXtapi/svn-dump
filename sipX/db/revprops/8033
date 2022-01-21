@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-19T17:05:39.370758Z
+K 7
+svn:log
+V 183
+Preprocessor definiton VIDEO changed to SIPX_VIDEO in all cases where we can just enable it.
+Debug_NoVideo and Release_NoVideo configurations in sipXcallLib/sipXtapi/PlaceCall fixed.
+
+END

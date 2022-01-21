@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-09T19:12:04.950138Z
+K 7
+svn:log
+V 75
+Fix build of MprBridge.cpp under Linux - INT_MAX is defined in <limits.h>.
+
+END

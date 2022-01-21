@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-03-10T16:29:09.131934Z
+K 7
+svn:log
+V 124
+Set up the machinery for a 'distclean' target for the Ant-based build
+steps.  It does the same thing as the 'clean' target.
+
+END

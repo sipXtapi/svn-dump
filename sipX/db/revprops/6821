@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-05-15T21:14:45.625672Z
+K 7
+svn:log
+V 52
+reverting to easymock 1.x 
+ svn merge -r6820:6819 .
+
+END

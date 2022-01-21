@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-02-20T15:51:04.736336Z
+K 7
+svn:log
+V 567
+Change the way MprDejitter is used.
+Now packets are pushed to MprDecode and then passed to MprDejitter rather then pushing to MprDejitter directly. This was caused by the fact we need to know properties of codec, assotiated with payload type of received packet.
+Also removed "multiple streams" support from MprDejitter. It was not what it was called, it was rather strange way to work with multiple payload types inside one RTP stream. Actually this was not needed, because sequence number sequence, which is used to identify packets, is common for whole RTP stream.
+
+END

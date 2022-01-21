@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-07T23:16:43.729571Z
+K 7
+svn:log
+V 126
+Codec plugin loading uses dlopen - so have configure check to make sure that
+it is possible on the platform being built for.
+
+
+END

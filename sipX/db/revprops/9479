@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-05-05T04:05:54.921636Z
+K 7
+svn:log
+V 143
+Cleaned up and amplified test prompts:
+record_prompt.wav : "After the tone, please speak for 10 seconds"
+playback_prompt.wav : "we recorded..."
+END

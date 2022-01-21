@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-06-27T03:26:32.431549Z
+K 7
+svn:log
+V 48
+Avoid deadlock when RTCP handles SSRC collision
+
+END

@@ -1,0 +1,226 @@
+PLAIN
+K 13
+svn:externals
+V 75
+config https://scm.sipfoundry.org/rep/sipX/branches/registry_ha/config
+
+
+
+
+
+K 10
+svn:ignore
+V 290
+BUILDSTAMP
+Makefile
+Makefile.in
+SVN-VERSION
+aclocal.m4
+autom4te.cache
+bin.eclipse
+build
+build.properties
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxconfig-*.rpm
+sipxconfig-*.tar.gz
+sipxconfig.spec
+spy.log
+stamp-h1
+top.build.dir
+velocity.log
+config.OLD
+jsetup
+setup
+
+K 19
+svnmerge-integrated
+V 222
+/branches/2.6:1-204,218,223-251,265,314,459
+/branches/2.8:1-829,837-855,1016
+/branches/3.0/sipXconfig:1-5637
+/branches/lowcarb:1-1002
+/branches/sipXconfig/3.3:1-6033
+/branches/user_pin:1-732
+/pingtel/main/sipXconfig:1-4367
+END
+ENDREP
+id: 2hf.2ee.r6056/684
+type: dir
+pred: 2hf.2ee.r6055/5614
+count: 1378
+text: 6047 43293 1219 1219 77b8376c47cc7a137370c7a0cc8f4a79
+props: 6056 0 671 0 a59d14a72e30f320d431327f6d1c08e8
+cpath: /branches/registry_ha/sipXconfig
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 7
+bbridge
+V 22
+dir 8dl.2eb.r5858/5597
+K 5
+build
+V 23
+file 7ve.2eb.r6055/4680
+K 6
+config
+V 22
+dir 91.2gt.r6034/74958
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 14
+resiprocateLib
+V 20
+dir 8g8.0.r5655/3734
+K 11
+sipXcallLib
+V 21
+dir va.2ec.r5858/7929
+K 17
+sipXcommserverLib
+V 22
+dir 1qo.2ed.r6052/3455
+K 10
+sipXconfig
+V 21
+dir 2hf.2ee.r6056/684
+K 19
+sipXmediaAdapterLib
+V 23
+dir 89s.2eb.r5858/10630
+K 12
+sipXmediaLib
+V 22
+dir mz.2ef.r5858/10087
+K 7
+sipXpbx
+V 22
+dir 5g6.2eg.r6055/4430
+K 9
+sipXphone
+V 23
+dir 6qk.2eh.r5858/12448
+K 11
+sipXportLib
+V 20
+dir 3.2ei.r6006/7954
+K 9
+sipXproxy
+V 22
+dir 1vt.2ej.r6053/1781
+K 13
+sipXpublisher
+V 23
+dir 20n.2ek.r6047/26070
+K 12
+sipXregistry
+V 23
+dir 1y5.2el.r6047/46533
+K 11
+sipXtackLib
+V 23
+dir dk.2em.r6034/197196
+K 8
+sipXvxml
+V 23
+dir 22d.2en.r6047/14112
+END
+ENDREP
+id: 7q4.2eb.r6056/1754
+type: dir
+pred: 7q4.2eb.r6055/9379
+count: 970
+text: 6056 939 802 802 3ac5e561b63687b2a11c777eb5bdb935
+props: 6055 6690 2676 0 c663e6b6029c8eeb41a20341ce054936
+cpath: /branches/registry_ha
+copyroot: 5857 /branches/registry_ha
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 23
+dir 7q4.24b.r5866/18398
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 11
+registry_ha
+V 22
+dir 7q4.2eb.r6056/1754
+K 7
+restful
+V 21
+dir 7q0.0.r4813/15683
+K 10
+sipXconfig
+V 20
+dir 8q1.0.r6049/3616
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r6056/2499
+type: dir
+pred: 7pt.0.r6055/10125
+count: 214
+text: 6056 2003 483 483 c08ab338cb056f5d30586d42f09f7c2b
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r6056/2499
+K 4
+main
+V 20
+dir 7q4.0.r6054/2330
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6056/2781
+type: dir
+pred: 0.0.r6055/10408
+count: 6056
+text: 6056 2654 114 114 61541039d327333c49136283dea6c195
+cpath: /
+copyroot: 0 /
+
+2hf.2ee.t6055-1 modify false true /branches/registry_ha/sipXconfig
+
+
+2781 2925

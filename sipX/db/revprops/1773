@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-05-26T00:53:12.503111Z
+K 7
+svn:log
+V 96
+Exposed the SipDialog content through CallManager which will replace SipSession in the future.
+
+
+END

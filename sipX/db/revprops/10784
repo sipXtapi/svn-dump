@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-08-19T16:36:30.016232Z
+K 7
+svn:log
+V 36
+Fix iLBC 30ms vs 20ms SDP handling.
+
+END

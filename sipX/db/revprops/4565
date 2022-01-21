@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-03-24T16:33:54.680496Z
+K 7
+svn:log
+V 104
+Implemented the TUI part of changing the password via TUI.
+
+http://track.sipfoundry.org/browse/XPB-132
+
+
+END

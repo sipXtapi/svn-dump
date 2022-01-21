@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-09-11T14:19:49.046840Z
+K 7
+svn:log
+V 202
+Merged revisions 7439 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7439 | bob | 2006-09-08 01:30:59 +0400 | 2 lines
+  
+  fixed a sign extension problem
+........
+
+END

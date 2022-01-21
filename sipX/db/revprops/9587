@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2007-05-20T12:27:45.695411Z
+K 7
+svn:log
+V 86
+Minor API changes -- disabled TURN, ICE, and RTP over TCP until I can merge in fixes.
+
+END

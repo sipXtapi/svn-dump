@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-02-13T20:45:53.299353Z
+K 7
+svn:log
+V 354
+Update of codecs API: added method to get number of samples in encoded frame without decoding it.
+This method is required if and only if codec packing is CODEC_FRAME_PACKING_SPECIAL. In other case number of samples will be calculated by generic formula.
+
+This check in also include updates to codecs macros API and some other related fixes and cleanups.
+
+END

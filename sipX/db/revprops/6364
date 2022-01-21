@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-03-16T05:34:44.756846Z
+K 7
+svn:log
+V 94
+Added conditional support for long long for compiler platforms
+that do not support long long.
+
+END

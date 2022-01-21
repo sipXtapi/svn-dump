@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-01-11T01:46:25.080214Z
+K 7
+svn:log
+V 97
+Add eVC4 callLib projects.
+Things still aren't fully compiling yet, but the projects now exist.
+
+
+END

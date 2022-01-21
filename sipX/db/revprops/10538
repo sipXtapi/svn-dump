@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-29T18:35:34.552614Z
+K 7
+svn:log
+V 66
+Add missing MpInputOutputFrameworkTest to MSVS2005 test project.
+
+
+END

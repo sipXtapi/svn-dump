@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-11-14T17:00:12.211571Z
+K 7
+svn:log
+V 254
+Looks like we are opening IndexReader to ogten which may cause locking problems on slower machines. I am changing this so that we only open index reader for beans that we are going the index. If that does not help will increase the lock obtain time-out.
+
+END

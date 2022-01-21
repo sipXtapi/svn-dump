@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2020-06-20T21:44:37.283778Z
+K 7
+svn:log
+V 88
+Converted sipXmediaAdapterLib projects to MSVS2019 and fixed reference in sipX solution
+
+END

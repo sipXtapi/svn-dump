@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-12-29T19:25:40.681983Z
+K 7
+svn:log
+V 75
+Update the list of exported variables to what the new Jboss (4.0.0)
+needs.
+
+END

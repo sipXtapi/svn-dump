@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-12-06T17:06:03.717924Z
+K 7
+svn:log
+V 381
+Support for GSM 6.10 13 kbit/s codec added.
+It use libgsm (http://kbs.cs.tu-berlin.de/~jutta/toast.html) for decoding/encoding.
+
+Codec enabled under Windows only. If you do not want this - remove HAVE_GSM from preprocessor definitions and gsm[d].lib from input libraries.
+
+Patch was originally written by Andrzej Ciarkowski, then changed by me to conform sipXtapi codec interface.
+
+END

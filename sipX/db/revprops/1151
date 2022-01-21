@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-12-13T14:30:44.835983Z
+K 7
+svn:log
+V 298
+A little code cleanup before making larger changes: 1) split
+dmaTask.cpp into two different files (dmaTaskWnt.cpp and
+dmaTaskPosix.cpp).  Previously, both implements coexisted in
+the same source files, but under #ifdefs.  2) Moved the global
+common C routines (MpDma_...) into DmaTask as statics.
+
+
+END

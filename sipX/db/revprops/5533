@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-11-07T22:37:33.567906Z
+K 7
+svn:log
+V 70
+FIX BUILD: my exception handling only worked on jdk 1.5 so fix for 1.4
+END

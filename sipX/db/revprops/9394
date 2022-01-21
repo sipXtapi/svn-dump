@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-19T10:35:11.190057Z
+K 7
+svn:log
+V 41
+Linux build fixes for new i/o framework.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-23T18:42:38.603955Z
+K 7
+svn:log
+V 347
+XCF-1550 - Speedial page validation work, label not required, number required.  Also, clearing speeddial data and schema on every system restart.  May remain like this until beta, this allows developers needed flexibility when upgrading schema. See http://sipx-wiki.calivia.com/index.php/SipX_ConfigServer_How_to_change_database_schema for details
+END

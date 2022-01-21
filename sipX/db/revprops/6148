@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-15T16:08:01.789202Z
+K 7
+svn:log
+V 368
+Minor fix is SipxProcessContextImpl:
+- we were calling manageServices function for every type of application events, for most of those events list of services to restart is empty so the behavior is pretty harmless but the first call to manageServices triggers topology.xml parsing. topology.xml is not present during unit testing which results in spurious exceptions.
+
+END

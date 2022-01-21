@@ -1,0 +1,1177 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: bn.0.r524/82
+type: file
+pred: bn.0.r510/215642
+count: 1
+text: 510 5872 1692 4022 55cc423a31a137446d9e01f504da604c
+props: 524 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/gasyncqueue.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: c5.0.r524/404
+type: file
+pred: c5.0.r510/216183
+count: 1
+text: 510 34232 822 1762 4a09643ab9afdd61264613aba39f86ef
+props: 524 322 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/gnulib/printf.h
+copyroot: 0 /
+
+PLAIN
+K 8
+printf.h
+V 18
+file c5.0.r524/404
+END
+ENDREP
+id: c4.0.r524/703
+type: dir
+pred: c4.0.r510/216468
+count: 1
+text: 524 649 41 41 a4c06580c07579d8f8d61956545c3a3e
+cpath: /old/sipXportLib/main/include/glib/gnulib
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: bt.0.r524/962
+type: file
+pred: bt.0.r510/209720
+count: 1
+text: 510 15676 1611 4067 ada31b699d972f2919e00b32e4df8ae5
+props: 524 880 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/ghash.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: c9.0.r524/1282
+type: file
+pred: c9.0.r510/215915
+count: 1
+text: 510 38072 991 1619 bd0be7cf6e956de55533ac7516034c14
+props: 524 1200 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/gquark.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: cs.0.r524/1604
+type: file
+pred: cs.0.r510/210259
+count: 1
+text: 510 171407 866 1518 b70ae6d6d124a7665a174ea8f598f087
+props: 524 1522 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/libcharset/libcharset.h
+copyroot: 0 /
+
+PLAIN
+K 12
+libcharset.h
+V 19
+file cs.0.r524/1604
+END
+ENDREP
+id: cr.0.r524/1920
+type: dir
+pred: cr.0.r510/210558
+count: 1
+text: 524 1860 47 47 7234cc4681a544fb04a7505191b7808e
+cpath: /old/sipXportLib/main/include/glib/libcharset
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: c0.0.r524/2185
+type: file
+pred: c0.0.r510/216951
+count: 1
+text: 510 22884 3492 8197 4f0a495dfff4113f0dae3c7b10e3c72a
+props: 524 2103 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/gmacros.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: c3.0.r524/2509
+type: file
+pred: c3.0.r511/447
+count: 2
+text: 511 106 25 5614 a90f1c33003874f3e2592e20437ad7d3
+props: 524 2427 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/gnode.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: cl.0.r524/2824
+type: file
+pred: cl.0.r510/218038
+count: 1
+text: 510 86727 3303 9739 82af1ef4e61a868e514d67069ee74c10
+props: 524 2742 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/gunicode.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: bs.0.r524/3149
+type: file
+pred: bs.0.r510/218309
+count: 1
+text: 510 14580 1083 2398 e7a19916f9fde5b31a90694a64b71792
+props: 524 3067 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/gerror.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: ce.0.r524/3472
+type: file
+pred: ce.0.r510/210769
+count: 1
+text: 510 50362 830 1536 74febe60d706288096dd401d739f7ede
+props: 524 3390 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/gthreadinit.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: cu.2a.r524/3799
+type: file
+pred: cu.2a.r512/0
+count: 2
+text: 510 174317 280 445 fe0d51d216fa2870ecb73e2776330a76
+props: 524 3717 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/sipxglibstubs.h
+copyroot: 512 /old/sipXportLib/main/include/glib/sipxglibstubs.h
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: ct.29.r524/4176
+type: file
+pred: ct.29.r512/293
+count: 2
+text: 510 172286 2018 5190 a45e8be63e2674644718f16d26e3c94b
+props: 524 4094 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/glibconfig.h
+copyroot: 512 /old/sipXportLib/main/include/glib/glibconfig.h
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: bk.28.r524/4551
+type: file
+pred: bk.28.r512/584
+count: 2
+text: 510 0 3929 13252 340eb113e6b81a5917d864628702a178
+props: 524 4469 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/config.h
+copyroot: 512 /old/sipXportLib/main/include/glib/config.h
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: ca.0.r524/4914
+type: file
+pred: ca.0.r511/684
+count: 2
+text: 511 159 25 3797 04cc9a30a1a62b49be842b980135743d
+props: 524 4832 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/gslist.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: c6.0.r524/5230
+type: file
+pred: c6.0.r510/211579
+count: 1
+text: 510 35067 1064 1622 e68d609b3de6ea79e802c059f61b4f3e
+props: 524 5148 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/gprimes.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: ch.0.r524/5554
+type: file
+pred: ch.0.r510/211311
+count: 1
+text: 510 54138 1296 3726 66109a2e5cd240bc4232b49ea5bdf44d
+props: 524 5472 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/gtree.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: cp.0.r524/5876
+type: file
+pred: cp.0.r510/211849
+count: 1
+text: 510 165058 4605 11132 5c3f5ea7c42d655b38c29c27946010f4
+props: 524 5794 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/gutils.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: cq.0.r524/6201
+type: file
+pred: cq.0.r510/212120
+count: 1
+text: 510 169676 1718 3126 606b6046351dea75755946d4a7e5b24f
+props: 524 6119 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/gwin32.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: ci.0.r524/6525
+type: file
+pred: ci.0.r510/212390
+count: 1
+text: 510 55447 4577 14948 4026dad3e6b796df7c015f6538dd6283
+props: 524 6443 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/gtypes.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: bx.0.r524/6849
+type: file
+pred: bx.0.r510/220211
+count: 1
+text: 510 19924 1121 2451 73f52e3b18156e0bd513584d2edb372a
+props: 524 6767 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/glib.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: cc.0.r524/7170
+type: file
+pred: cc.0.r510/219664
+count: 1
+text: 510 43678 1939 5573 6f1fa11927c72d965961681828249c51
+props: 524 7088 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/gstring.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: c2.0.r524/7494
+type: file
+pred: c2.0.r510/213203
+count: 1
+text: 510 29001 2965 11505 31fb059d62902393d12f62668380d168
+props: 524 7412 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/gmessages.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: cb.0.r524/7821
+type: file
+pred: cb.0.r510/212931
+count: 1
+text: 510 40462 3203 8905 dc36c99d3f61f6ee175f8a6c520ffa63
+props: 524 7739 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/gstrfuncs.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: cd.0.r524/8147
+type: file
+pred: cd.0.r510/212660
+count: 1
+text: 510 45630 4719 15717 924420567c6578f676e4250a8cc6d6da
+props: 524 8065 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/gthread.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: bz.0.r524/8472
+type: file
+pred: bz.0.r511/212
+count: 2
+text: 511 0 25 3959 1fd5785a7c2ce0b6e65f8c5f5bd934c2
+props: 524 8390 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/glist.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: bo.0.r524/8785
+type: file
+pred: bo.0.r510/214289
+count: 1
+text: 510 7577 1131 2284 6db58074c356e6a858a3a7f7667dbb7b
+props: 524 8703 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/gatomic.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: c1.0.r524/9108
+type: file
+pred: c1.0.r511/922
+count: 2
+text: 511 53 25 5910 85274b726b8398fc10e0d434b2cf2a99
+props: 524 9026 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/gmem.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: bm.0.r524/9421
+type: file
+pred: bm.0.r510/214558
+count: 1
+text: 510 3942 1917 6442 c3ace2fb674169a550709ad97d4c00dd
+props: 524 9339 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/garray.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: bp.0.r524/9743
+type: file
+pred: bp.0.r510/214826
+count: 1
+text: 510 8721 1411 2503 ee7753b3bf729ab00340fc7971a6040d
+props: 524 9661 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/include/glib/gbacktrace.h
+copyroot: 0 /
+
+PLAIN
+K 8
+config.h
+V 20
+file bk.28.r524/4551
+K 8
+garray.h
+V 19
+file bm.0.r524/9421
+K 13
+gasyncqueue.h
+V 17
+file bn.0.r524/82
+K 9
+gatomic.h
+V 19
+file bo.0.r524/8785
+K 12
+gbacktrace.h
+V 19
+file bp.0.r524/9743
+K 8
+gerror.h
+V 19
+file bs.0.r524/3149
+K 7
+ghash.h
+V 18
+file bt.0.r524/962
+K 6
+glib.h
+V 19
+file bx.0.r524/6849
+K 12
+glibconfig.h
+V 20
+file ct.29.r524/4176
+K 7
+glist.h
+V 19
+file bz.0.r524/8472
+K 9
+gmacros.h
+V 19
+file c0.0.r524/2185
+K 6
+gmem.h
+V 19
+file c1.0.r524/9108
+K 11
+gmessages.h
+V 19
+file c2.0.r524/7494
+K 7
+gnode.h
+V 19
+file c3.0.r524/2509
+K 6
+gnulib
+V 17
+dir c4.0.r524/703
+K 9
+gprimes.h
+V 19
+file c6.0.r524/5230
+K 8
+gquark.h
+V 19
+file c9.0.r524/1282
+K 8
+gslist.h
+V 19
+file ca.0.r524/4914
+K 11
+gstrfuncs.h
+V 19
+file cb.0.r524/7821
+K 9
+gstring.h
+V 19
+file cc.0.r524/7170
+K 9
+gthread.h
+V 19
+file cd.0.r524/8147
+K 13
+gthreadinit.h
+V 19
+file ce.0.r524/3472
+K 7
+gtree.h
+V 19
+file ch.0.r524/5554
+K 8
+gtypes.h
+V 19
+file ci.0.r524/6525
+K 10
+gunicode.h
+V 19
+file cl.0.r524/2824
+K 8
+gutils.h
+V 19
+file cp.0.r524/5876
+K 8
+gwin32.h
+V 19
+file cq.0.r524/6201
+K 10
+libcharset
+V 18
+dir cr.0.r524/1920
+K 15
+sipxglibstubs.h
+V 20
+file cu.2a.r524/3799
+END
+ENDREP
+id: bl.0.r524/11142
+type: dir
+pred: bl.0.r512/2057
+count: 3
+text: 524 9987 1142 1142 a4448ca4a5b1a0e7e27287eb0dd6a822
+cpath: /old/sipXportLib/main/include/glib
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 19
+file f.0.r522/12882
+K 4
+glib
+V 19
+dir bl.0.r524/11142
+K 2
+os
+V 18
+dir l.0.r522/12710
+K 3
+utl
+V 18
+dir 3n.0.r493/1484
+K 9
+xmlparser
+V 20
+dir 48.0.r444/129625
+END
+ENDREP
+id: e.0.r524/11513
+type: dir
+pred: e.0.r522/13310
+count: 126
+text: 524 11317 183 183 38ad5f84f2f1c4af4036c21adf4a6731
+props: 187 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXportLib/main/include
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: cx.0.r524/11816
+type: file
+pred: cx.0.r510/226099
+count: 1
+text: 510 180844 4011 14195 8810f0411e367afb346003e5230309dc
+props: 524 11734 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/src/glib/glist.c
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: d1.0.r524/12138
+type: file
+pred: d1.0.r514/1653
+count: 2
+text: 514 587 1037 6332 35b6a1971dc4650109bbb0f8da4e7595
+props: 524 12056 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/src/glib/sipxstubs.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: cy.0.r524/12460
+type: file
+pred: cy.0.r510/226636
+count: 1
+text: 510 184868 9459 31891 959fc11e1a9a274dc492d6ff553ea31b
+props: 524 12378 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/src/glib/gmem.c
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: cz.0.r524/12781
+type: file
+pred: cz.0.r510/226901
+count: 1
+text: 510 194340 1172 1775 92aa8bd2b92675ae867c4d89f7823d15
+props: 524 12699 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/src/glib/gprimes.c
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: d0.0.r524/13104
+type: file
+pred: d0.0.r510/227168
+count: 1
+text: 510 195525 6997 27135 cb539591f70029e4ce55343d93fb4791
+props: 524 13022 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/src/glib/gtree.c
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: cw.0.r524/13426
+type: file
+pred: cw.0.r510/227434
+count: 1
+text: 510 175132 5699 21118 8915c2b4a85a52285c8ef95f82845624
+props: 524 13344 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/src/glib/ghash.c
+copyroot: 0 /
+
+PLAIN
+K 7
+ghash.c
+V 20
+file cw.0.r524/13426
+K 7
+glist.c
+V 20
+file cx.0.r524/11816
+K 6
+gmem.c
+V 20
+file cy.0.r524/12460
+K 9
+gprimes.c
+V 20
+file cz.0.r524/12781
+K 7
+gtree.c
+V 20
+file d0.0.r524/13104
+K 13
+sipxstubs.cpp
+V 20
+file d1.0.r524/12138
+END
+ENDREP
+id: cv.0.r524/13919
+type: dir
+pred: cv.0.r514/2152
+count: 2
+text: 524 13666 240 240 cea1bb827cba2fc70510cfa8bdd6a434
+cpath: /old/sipXportLib/main/src/glib
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 20
+file 4e.0.r522/17078
+K 4
+glib
+V 19
+dir cv.0.r524/13919
+K 2
+os
+V 18
+dir 4m.0.r523/3125
+K 4
+test
+V 20
+dir 7g.0.r510/225824
+K 3
+utl
+V 18
+dir 89.0.r488/7283
+K 9
+xmlparser
+V 20
+dir 8s.0.r444/152612
+END
+ENDREP
+id: 4d.0.r524/14321
+type: dir
+pred: 4d.0.r523/3525
+count: 220
+text: 524 14089 219 219 4227a9d1ff72af67601baf183e7a779c
+props: 187 1410 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /old/sipXportLib/main/src
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 20
+file 4.0.r381/145534
+K 9
+ChangeLog
+V 20
+file 5.0.r444/130192
+K 7
+INSTALL
+V 18
+file 6.0.r514/2774
+K 7
+LICENSE
+V 20
+file 7.0.r444/115426
+K 11
+Makefile.am
+V 17
+file 8.0.r456/117
+K 4
+NEWS
+V 20
+file 9.0.r381/150995
+K 6
+README
+V 20
+file a.0.r381/145234
+K 4
+TODO
+V 20
+file b.0.r381/149109
+K 9
+acsite.m4
+V 19
+file c.0.r381/72051
+K 3
+bin
+V 20
+dir as.0.r444/156183
+K 6
+config
+V 18
+dir 91.0.r520/1935
+K 12
+configure.ac
+V 19
+file d.0.r490/19311
+K 3
+doc
+V 20
+dir ac.0.r444/153746
+K 7
+include
+V 18
+dir e.0.r524/11513
+K 4
+meta
+V 18
+dir b6.0.r425/2853
+K 15
+sipXportLib.dsp
+V 20
+file 4c.0.r522/17767
+K 18
+sipXportLib.vcproj
+V 18
+file ba.0.r462/771
+K 19
+sipxportlib.spec.in
+V 18
+file aq.0.r442/445
+K 3
+src
+V 19
+dir 4d.0.r524/14321
+K 12
+syslogviewer
+V 20
+dir 8y.0.r381/146508
+END
+ENDREP
+id: 3.0.r524/15339
+type: dir
+pred: 3.0.r523/4541
+count: 416
+text: 524 14542 784 784 cdec30a5f88c7f96e4d5aa0212194958
+props: 520 2949 804 0 eb93ccf0c3e5b6d0c50606da433087ff
+cpath: /old/sipXportLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir ar.0.r508/4796
+K 4
+main
+V 18
+dir 3.0.r524/15339
+K 4
+tags
+V 18
+dir an.0.r521/1921
+END
+ENDREP
+id: 2.0.r524/15675
+type: dir
+pred: 2.0.r523/4875
+count: 522
+text: 524 15555 107 107 5819e3aa59262808536ac7232a587961
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 18
+dir 2.0.r524/15675
+END
+ENDREP
+id: 1.0.r524/15889
+type: dir
+pred: 1.0.r523/5087
+count: 523
+text: 524 15831 45 45 8ba310d32e19dd2193023b94b225b8e6
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r524/15889
+END
+ENDREP
+id: 0.0.r524/16080
+type: dir
+pred: 0.0.r523/5276
+count: 524
+text: 524 16031 36 36 f15f912b2c91ed08083b17472d019cfa
+cpath: /
+copyroot: 0 /
+
+bt.0.t523-1 modify false true /old/sipXportLib/main/include/glib/ghash.h
+
+cu.2a.t523-1 modify false true /old/sipXportLib/main/include/glib/sipxglibstubs.h
+
+ce.0.t523-1 modify false true /old/sipXportLib/main/include/glib/gthreadinit.h
+
+bk.28.t523-1 modify false true /old/sipXportLib/main/include/glib/config.h
+
+ch.0.t523-1 modify false true /old/sipXportLib/main/include/glib/gtree.h
+
+c6.0.t523-1 modify false true /old/sipXportLib/main/include/glib/gprimes.h
+
+cp.0.t523-1 modify false true /old/sipXportLib/main/include/glib/gutils.h
+
+cq.0.t523-1 modify false true /old/sipXportLib/main/include/glib/gwin32.h
+
+ci.0.t523-1 modify false true /old/sipXportLib/main/include/glib/gtypes.h
+
+cd.0.t523-1 modify false true /old/sipXportLib/main/include/glib/gthread.h
+
+cb.0.t523-1 modify false true /old/sipXportLib/main/include/glib/gstrfuncs.h
+
+c2.0.t523-1 modify false true /old/sipXportLib/main/include/glib/gmessages.h
+
+bz.0.t523-1 modify false true /old/sipXportLib/main/include/glib/glist.h
+
+bo.0.t523-1 modify false true /old/sipXportLib/main/include/glib/gatomic.h
+
+cy.0.t523-1 modify false true /old/sipXportLib/main/src/glib/gmem.c
+
+bm.0.t523-1 modify false true /old/sipXportLib/main/include/glib/garray.h
+
+bp.0.t523-1 modify false true /old/sipXportLib/main/include/glib/gbacktrace.h
+
+cw.0.t523-1 modify false true /old/sipXportLib/main/src/glib/ghash.c
+
+bn.0.t523-1 modify false true /old/sipXportLib/main/include/glib/gasyncqueue.h
+
+c9.0.t523-1 modify false true /old/sipXportLib/main/include/glib/gquark.h
+
+c0.0.t523-1 modify false true /old/sipXportLib/main/include/glib/gmacros.h
+
+c3.0.t523-1 modify false true /old/sipXportLib/main/include/glib/gnode.h
+
+cl.0.t523-1 modify false true /old/sipXportLib/main/include/glib/gunicode.h
+
+cs.0.t523-1 modify false true /old/sipXportLib/main/include/glib/libcharset/libcharset.h
+
+bs.0.t523-1 modify false true /old/sipXportLib/main/include/glib/gerror.h
+
+ct.29.t523-1 modify false true /old/sipXportLib/main/include/glib/glibconfig.h
+
+d1.0.t523-1 modify false true /old/sipXportLib/main/src/glib/sipxstubs.cpp
+
+ca.0.t523-1 modify false true /old/sipXportLib/main/include/glib/gslist.h
+
+cz.0.t523-1 modify false true /old/sipXportLib/main/src/glib/gprimes.c
+
+d0.0.t523-1 modify false true /old/sipXportLib/main/src/glib/gtree.c
+
+cc.0.t523-1 modify false true /old/sipXportLib/main/include/glib/gstring.h
+
+bx.0.t523-1 modify false true /old/sipXportLib/main/include/glib/glib.h
+
+cx.0.t523-1 modify false true /old/sipXportLib/main/src/glib/glist.c
+
+c5.0.t523-1 modify false true /old/sipXportLib/main/include/glib/gnulib/printf.h
+
+c1.0.t523-1 modify false true /old/sipXportLib/main/include/glib/gmem.h
+
+
+16080 16219

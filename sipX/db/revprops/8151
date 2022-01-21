@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-11-29T18:14:55.938957Z
+K 7
+svn:log
+V 114
+Removed PTAPI (included Phoneset) from linux build and most of TAO.
+Fixed a compiler error under linux/gcc 3.3.6
+
+
+END

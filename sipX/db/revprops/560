@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-05-10T22:04:58.486421Z
+K 7
+svn:log
+V 149
+Allow long form options for --help and --indent
+Improve --indent to always indent the actual message data
+The fold (-f) option now implies --indent
+
+
+END

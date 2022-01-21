@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-16T12:33:13.992427Z
+K 7
+svn:log
+V 71
+Be slightly more robust when decoding incoming AMR and AMR-WB packets.
+
+END

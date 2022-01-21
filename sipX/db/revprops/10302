@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-09T15:07:44.851324Z
+K 7
+svn:log
+V 288
+Fix and clarify things more in SdpCandidatePair.
+* when calculating hash we have to wrap mPriority value to 32 bit, thus shift higher 32 bits *to right*;
+* use sipx_min()/sipx_max() instead of strange sdpMin()/sdpMax();
+* use shift and bitwise 'or' insead of multiplication and addition.
+
+END

@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-10-02T03:19:16.144589Z
+K 7
+svn:log
+V 282
+Do all copying to DESTDIR using INSTALL so that directories
+are created as needed and modes are set at the same time.
+
+Fix missed substitutions of SIPXVXMLDATA => SIPX_VXMLDATADIR
+
+Remove use of $(pkgconfdir) and replace with @SIPX_CONFDIR@
+or $(sysconfdir)/sipxpbx as appropriate.
+
+END

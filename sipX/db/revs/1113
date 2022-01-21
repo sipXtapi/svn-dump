@@ -1,0 +1,163 @@
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: uy.0.r1113/60
+type: dir
+pred: uy.0.r1110/1355
+count: 1
+text: 1110 1244 47 47 bad21d518a74e829bffb266ac19c4d4f
+props: 1113 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXmediaLib/main/bin
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file n0.0.r1068/782489
+K 9
+ChangeLog
+V 19
+file n1.0.r1092/223
+K 7
+INSTALL
+V 19
+file n2.0.r1097/511
+K 7
+LICENSE
+V 22
+file n3.0.r1068/695017
+K 11
+Makefile.am
+V 19
+file n4.0.r1112/320
+K 4
+NEWS
+V 22
+file n5.0.r1068/782343
+K 6
+README
+V 19
+file n6.0.r1075/757
+K 4
+TODO
+V 22
+file n7.0.r1068/743619
+K 9
+acsite.m4
+V 22
+file n8.0.r1068/744259
+K 3
+bin
+V 17
+dir uy.0.r1113/60
+K 12
+configure.ac
+V 19
+file n9.0.r1110/575
+K 3
+doc
+V 19
+dir ur.0.r1096/1120
+K 7
+include
+V 20
+dir na.0.r1098/64707
+K 3
+lib
+V 21
+dir rf.0.r1068/744020
+K 16
+sipXmediaLib.dsp
+V 18
+file up.0.r1107/54
+K 20
+sipxmedialib.spec.in
+V 19
+file uw.0.r1112/139
+K 3
+src
+V 19
+dir rg.0.r1101/5169
+END
+ENDREP
+id: mz.0.r1113/958
+type: dir
+pred: mz.0.r1112/1232
+count: 38
+text: 1113 275 670 670 590bada1eff4295fc725db14d98bd1e6
+props: 1100 0 287 0 d6918aa559badf746cead5667f91fd87
+cpath: /old/sipXmediaLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir ux.0.r1109/641
+K 4
+main
+V 18
+dir mz.0.r1113/958
+K 4
+tags
+V 19
+dir uq.0.r1091/1348
+END
+ENDREP
+id: my.0.r1113/1294
+type: dir
+pred: my.0.r1112/1570
+count: 46
+text: 1113 1173 108 108 f8011e6189dceb08c73d8539a4437a89
+cpath: /old/sipXmediaLib
+copyroot: 0 /
+
+PLAIN
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1113/1294
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1113/1596
+type: dir
+pred: 1.0.r1112/1872
+count: 1112
+text: 1113 1453 130 130 61b40c11e3f59e9e94677f3e0856b179
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1113/1596
+END
+ENDREP
+id: 0.0.r1113/1791
+type: dir
+pred: 0.0.r1112/2067
+count: 1113
+text: 1113 1742 36 36 c8c03419d54c0522dba588163a1fc1db
+cpath: /
+copyroot: 0 /
+
+uy.0.t1112-1 modify false true /old/sipXmediaLib/main/bin
+
+
+1791 1932

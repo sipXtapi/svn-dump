@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-31T00:01:16.137999Z
+K 7
+svn:log
+V 177
+XCF-1295 add route parameter to SIP Trunk Gateway Settings group
+use route parameter to construct <headerparams>route={route}</headerparams> entry when generating fallbackrules
+
+END

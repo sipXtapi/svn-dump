@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-10T21:32:59.173296Z
+K 7
+svn:log
+V 174
+Move compare() functions from MpRtpBuf.h to MpDspUtils.h to allow their generic usage.
+They are also renamed to MpDspUtils::compareSerials(), and reference to RFC1982 added.
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2009-04-17T18:24:20.215153Z
+K 7
+svn:log
+V 316
+Must use codec sample rate not flowgraph sample rate to initialize AGV adn VAD.
+Cannot initialize AGC and VAD in MpJitterBuffer::init as we only know the
+flowgraph sample rate at that time.  Need to wait for the first packet to
+get the specific payload type and determine sample rate for AGV and VAD initialization.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-08-23T18:31:28.155573Z
+K 7
+svn:log
+V 415
+More codec cleanup: get rid of "DTFM term" feature of and "usesNetEq" parameter in MpCodecInfo.
+"DTMF term" is a direct connection of MpdPtAvt (RFC2833 DTMFs decoder) with MprRecorder. It was created so recorder will be able to react on remote DTMFs and stop recording when # is pressed. This is possible to achieve with new notification design, I hope, and is not very useful for sipXtapi right now, thus removed.
+
+END

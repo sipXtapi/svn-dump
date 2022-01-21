@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-06-02T03:05:14.699008Z
+K 7
+svn:log
+V 165
+XPB-625 (process manager): continue with SOAP work.  For now, don't try to use a Logger in the SOAP server, for some unknown reason that causes the process to hang.
+
+END

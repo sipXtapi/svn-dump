@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-18T14:32:35.259455Z
+K 7
+svn:log
+V 484
+XCF-753 more fixes for AssetSelector
+due to T4 changes AssetSelector cannot directly implement IFormComponent any more: since FielLabel needs IFormComponent (and not just IComponent) I had to change SettingEditor works for File type (which is using AssetSelector as its renderer). At the moment SettingEditor will pass null if it cannot find apropriate IFormComponent. We will have to check how it works with validators but it seems to be the best option I could come up with so far.
+
+END

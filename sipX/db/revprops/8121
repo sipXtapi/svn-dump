@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2006-11-26T16:30:16.367793Z
+K 7
+svn:log
+V 96
+Jim Park's socket fixes (Multibyte->wide conversions weren't null terminated, and needed to be)
+
+END

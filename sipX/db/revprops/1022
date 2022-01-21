@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-05-27T15:12:27.086923Z
+K 7
+svn:log
+V 101
+Added unit test cases for one time subscribe
+to SipSubcribeServerTest and fixed bugs for this
+case.
+
+
+END

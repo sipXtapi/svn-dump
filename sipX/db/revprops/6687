@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-04-28T22:44:02.752136Z
+K 7
+svn:log
+V 122
+XCF-972 orbits.xml is now replicated on system startup (unless of course the replicateOnStartup property is set to false)
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-03-07T16:11:09.610196Z
+K 7
+svn:log
+V 175
+XCF-943 keep user call forwarding list in session parameters so that we do not have to save intermediary state in the database,
+changes are only saved when user presses apply
+
+END

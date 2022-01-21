@@ -1,0 +1,318 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6mu.0.r4453/82
+type: file
+pred: 6mu.0.r4189/1599
+count: 1
+text: 4189 0 1586 3368 b1b71e3970fb5d6e4fc65767075ba5eb
+props: 4453 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpbx/main/doc/license/LICENSE.mod_ssl
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 5go.0.r4453/402
+type: file
+pred: 5go.0.r4094/299369
+count: 1
+text: 4094 19557 825 1494 7f47678bca838adedfe6a4f78692d6bb
+props: 4453 320 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpbx/main/doc/license/CGIParse-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 20
+CGIParse-LICENSE.txt
+V 20
+file 5go.0.r4453/402
+K 15
+LICENSE.mod_ssl
+V 19
+file 6mu.0.r4453/82
+END
+ENDREP
+id: 5gn.0.r4453/768
+type: dir
+pred: 5gn.0.r4189/1884
+count: 2
+text: 4453 653 102 102 9ec1ca44dd1703f33389c0c57b8cb2f9
+cpath: /old/sipXpbx/main/doc/license
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6oj.0.r4453/1020
+type: file
+pred: 6oj.0.r4421/12394
+count: 1
+text: 4421 1492 7613 23480 ceb3e68f0ad56414ca6e5f5c8c0f03fc
+props: 4453 938 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpbx/main/doc/Doxyfile.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6oh.0.r4453/1337
+type: file
+pred: 6oh.0.r4421/12608
+count: 2
+text: 4421 9118 220 339 53e9027f0d7661561754fbe6e5c00700
+props: 4453 1255 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpbx/main/doc/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 11
+Doxyfile.in
+V 21
+file 6oj.0.r4453/1020
+K 11
+Makefile.am
+V 21
+file 6oh.0.r4453/1337
+K 9
+developer
+V 20
+dir 6me.0.r4452/2271
+K 11
+footer.html
+V 22
+file 6ok.0.r4421/12138
+K 11
+header.html
+V 22
+file 6ol.0.r4421/12865
+K 7
+license
+V 19
+dir 5gn.0.r4453/768
+END
+ENDREP
+id: 5gm.0.r4453/1842
+type: dir
+pred: 5gm.0.r4452/2721
+count: 59
+text: 4453 1570 259 259 4775b2033f61a4520c97f7a9fa01b666
+props: 4421 13351 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXpbx/main/doc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4094/345033
+K 9
+ChangeLog
+V 21
+file 5g8.0.r4389/3247
+K 7
+INSTALL
+V 20
+file 5g9.0.r4297/208
+K 7
+LICENSE
+V 23
+file 5ga.0.r4094/296233
+K 11
+Makefile.am
+V 19
+file 5gb.0.r4432/85
+K 4
+NEWS
+V 23
+file 5gc.0.r4094/344891
+K 6
+README
+V 20
+file 5gd.0.r4418/823
+K 4
+TODO
+V 23
+file 5ge.0.r4094/299180
+K 9
+acsite.m4
+V 23
+file 5gf.0.r4094/300422
+K 3
+bin
+V 20
+dir 5gg.0.r4448/2222
+K 12
+configure.ac
+V 21
+file 5gl.0.r4427/2550
+K 3
+doc
+V 20
+dir 5gm.0.r4453/1842
+K 3
+etc
+V 20
+dir 5gp.0.r4426/1025
+K 7
+include
+V 20
+dir 5h2.0.r4246/2224
+K 4
+meta
+V 20
+dir 6of.z4.r4406/423
+K 15
+sipxpbx.spec.in
+V 20
+file 6mo.0.r4423/456
+K 3
+src
+V 20
+dir 5hb.0.r4428/6014
+END
+ENDREP
+id: 5g6.0.r4453/2746
+type: dir
+pred: 5g6.0.r4452/3625
+count: 277
+text: 4453 2063 670 670 f0b1132d500d56bb8004b5fc08c75667
+props: 4440 0 404 0 5db8fd834c96e474ff522c5c495656fa
+cpath: /old/sipXpbx/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 6o1.0.r4444/2684
+K 4
+main
+V 20
+dir 5g6.0.r4453/2746
+K 4
+tags
+V 20
+dir 5kn.0.r4446/1816
+END
+ENDREP
+id: 5g5.0.r4453/3087
+type: dir
+pred: 5g5.0.r4452/3966
+count: 360
+text: 4453 2961 113 113 374f561f3ca46886dee380fedde8849f
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4453/3087
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4453/3727
+type: dir
+pred: 1.0.r4452/4606
+count: 4451
+text: 4453 3244 470 470 bf635504572bd3d570c76b8e04ffb5e1
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4453/3727
+END
+ENDREP
+id: 0.0.r4453/3922
+type: dir
+pred: 0.0.r4452/4801
+count: 4453
+text: 4453 3873 36 36 919a5cd92e6c9fd0339e7ddc5de00eb1
+cpath: /
+copyroot: 0 /
+
+5go.0.t4452-1 modify false true /old/sipXpbx/main/doc/license/CGIParse-LICENSE.txt
+
+6mu.0.t4452-1 modify false true /old/sipXpbx/main/doc/license/LICENSE.mod_ssl
+
+6oj.0.t4452-1 modify false true /old/sipXpbx/main/doc/Doxyfile.in
+
+6oh.0.t4452-1 modify false true /old/sipXpbx/main/doc/Makefile.am
+
+
+3922 4063

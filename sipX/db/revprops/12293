@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2015-04-28T05:48:39.116651Z
+K 7
+svn:log
+V 115
+Added CircularBuffer
+  Contributed by Mihai Codrean
+  This is initially for use with the circular buffer recording
+
+END

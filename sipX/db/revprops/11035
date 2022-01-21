@@ -1,0 +1,33 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-05T21:36:16.993917Z
+K 7
+svn:log
+V 563
+Add missing files to VC6 sipXmediaLib project that were added to other projects:
+
+src\mp\MpJbeFixed.cpp
+src\mp\MpJitterBufferEstimation.cpp
+src\mp\MpRawAudioBuffer.cpp
+src\mp\MpSpeakerSelectBase.cpp
+src\mp\MpVadBase.cpp
+src\mp\MpVadSimple.cpp
+
+include\mp\MpJbeFixed.h
+include\mp\MpJitterBufferEstimation.h
+include\mp\MprBridgeSetGainsMsg.h
+include\mp\MprDecodeConstructor.h
+include\mp\MprDecodeSelectCodecsMsg.h
+include\mp\MprEncodeConstructor.h
+include\mp\MprRtpStartReceiveMsg.h
+include\mp\MpSpeakerSelectBase.h
+include\mp\MpVadBase.h
+include\mp\MpVadSimple.h
+
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-31T06:11:55.639296Z
+K 7
+svn:log
+V 95
+mergefrom user_dworley_redirectors2main 7591
+
+Add reference to OsDefs.h to support strcasecmp.
+
+END

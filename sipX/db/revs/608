@@ -1,0 +1,163 @@
+PLAIN
+K 12
+CONTRIBUTORS
+V 21
+file dl.0.r600/815397
+K 9
+ChangeLog
+V 21
+file dm.0.r600/777100
+K 7
+INSTALL
+V 20
+file dn.0.r606/12293
+K 7
+LICENSE
+V 21
+file do.0.r600/750535
+K 11
+Makefile.am
+V 20
+file dp.0.r606/12518
+K 4
+NEWS
+V 21
+file dq.0.r600/820597
+K 6
+README
+V 20
+file dr.0.r606/10320
+K 4
+TODO
+V 21
+file ds.0.r600/818647
+K 9
+acsite.m4
+V 17
+file dt.0.r602/47
+K 14
+ant-targets.am
+V 21
+file du.0.r600/776737
+K 15
+ant-targets.xml
+V 17
+file dv.0.r601/47
+K 20
+config.properties.in
+V 21
+file dz.0.r600/817852
+K 12
+configure.ac
+V 20
+file e0.0.r606/10546
+K 3
+doc
+V 19
+dir e1.0.r606/11630
+K 7
+include
+V 19
+dir e5.0.r604/51533
+K 3
+lib
+V 20
+dir gh.0.r600/819391
+K 15
+sipXtackLib.dsp
+V 21
+file gj.0.r600/816423
+K 15
+siplog2siptrace
+V 19
+dir gk.0.r604/79226
+K 7
+siptest
+V 18
+dir gn.0.r605/8889
+K 9
+sipviewer
+V 18
+dir hn.0.r601/6082
+K 3
+src
+V 17
+dir i8.0.r607/899
+K 15
+syslog2siptrace
+V 19
+dir kk.0.r604/78456
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 58
+config https://scm.sipfoundry.org/sipXportLib/main/config
+
+END
+ENDREP
+id: dk.0.r608/1006
+type: dir
+pred: dk.0.r607/2002
+count: 8
+text: 608 0 893 893 44cc9250de299f84f6f7dcbb53085e4e
+props: 608 906 87 0 6cc52ecbf94f90a445b5ecd1980f2f02
+cpath: /old/sipXtackLib/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 18
+dir dk.0.r608/1006
+END
+ENDREP
+id: dj.0.r608/1265
+type: dir
+pred: dj.0.r607/2212
+count: 9
+text: 608 1215 37 37 46c3e903d8b4a42465f7a77ff97f917d
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 18
+dir dj.0.r608/1265
+END
+ENDREP
+id: 1.0.r608/1515
+type: dir
+pred: 1.0.r607/2463
+count: 607
+text: 608 1417 85 85 7d3cab62080e002c4665fd322fca629e
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r608/1515
+END
+ENDREP
+id: 0.0.r608/1703
+type: dir
+pred: 0.0.r607/2652
+count: 608
+text: 608 1655 35 35 00fe9e5d505a82e7e4603d74c12472d2
+cpath: /
+copyroot: 0 /
+
+dw.0.r606/12128 delete false false /old/sipXtackLib/main/config
+
+dk.0.t607-1 modify false true /old/sipXtackLib/main
+
+
+1703 1840

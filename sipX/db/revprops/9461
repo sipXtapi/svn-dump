@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-05-02T22:44:34.996502Z
+K 7
+svn:log
+V 778
+enableAllNotifications addition to resources..
+Default notifications to off..
+In the special case of CallFlowGraph's playFile, which needs to do some cleanup after the file is finished, notifications are enabled (and never disabled) when playFile is first called.  (but only the one on CallFlowGraph).
+The procedure above is also reproduced for playBuffer on CallFlowGraph.
+The code to actually trigger cleanup via notifications has not been written yet - right now it is still being handled by the FromFile resource getting the flowgraph, assuming flowgraph is CallFlowGraph and casting it, and then calling stopFile (which queues a flowgraph message) directly on the flowgraph.
+The idea is to decouple this, and have the CallFlowGraph respond and clean up via a notification.
+
+END

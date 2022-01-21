@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-30T19:17:46.867838Z
+K 7
+svn:log
+V 419
+Fix XCF-537: jdk dependency in DB unit tests, fails with jdk 1.4.2, works with jdk 1.5.  We were setting a system property to use the Xerces parser instead of Crimson, since Crimson has a bug that causes test failures with JDK 1.4.  But it was the wrong property.  Set the right property to use Xerces, also extend the classpath to include the xercesImpl and xml-apis jars so that Xerces-related classes will be found.
+
+END

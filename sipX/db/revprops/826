@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-04T19:28:56.300605Z
+K 7
+svn:log
+V 273
+Switched the method used to include/exclude SIPXTAPI support in builds.
+Instead of using "#ifdef SIPXTAPI", it now defaults to
+"#ifndef SIPXTAPI_EXCLUDE".  In other words, SIPXTAPI events are
+enabled by default.  This requires changes in both sipXcallLib and
+sipXtackLib.
+
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-11T17:46:05.957355Z
+K 7
+svn:log
+V 101
+Add correct detection of SpanDSP version, present on the system and add workaround for old versions.
+
+END

@@ -1,0 +1,326 @@
+PLAIN
+K 13
+svn:externals
+V 49
+libspeex -r13928 http://svn.xiph.org/trunk/speex
+
+END
+ENDREP
+id: ebw.0.r10259/91
+type: dir
+pred: ebw.0.r10258/218
+count: 16
+text: 10258 0 205 205 695298d3795591ad6794ac048eb1102e
+props: 10259 0 78 0 ba8cb2f282badd8886af10678e6e535b
+cpath: /branches/sipXtapi/sipXmediaLib/contrib
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 25
+file b41.0.r6469/22054157
+K 9
+ChangeLog
+V 25
+file b42.0.r6469/22025314
+K 7
+INSTALL
+V 24
+file b43.0.r6955/1728056
+K 11
+Makefile.am
+V 22
+file b44.0.r9285/62880
+K 4
+NEWS
+V 25
+file b45.0.r6469/22058814
+K 6
+README
+V 24
+file b46.0.r6955/1727035
+K 4
+TODO
+V 25
+file b47.0.r6469/22057442
+K 9
+acsite.m4
+V 24
+file b48.0.r6955/1726702
+K 3
+bin
+V 21
+dir b49.0.r9285/62616
+K 12
+configure.ac
+V 22
+file b4k.0.r10208/7743
+K 7
+contrib
+V 19
+dir ebw.0.r10259/91
+K 3
+doc
+V 21
+dir b4l.0.r9673/16679
+K 7
+include
+V 21
+dir b4p.0.r10256/8988
+K 3
+lib
+V 24
+dir b8u.0.r6469/22057603
+K 4
+meta
+V 24
+dir b8v.0.r6469/22024982
+K 25
+sipXmediaLib-msvc8.vcproj
+V 22
+file e76.0.r10224/1072
+K 16
+sipXmediaLib.dsp
+V 24
+file up.670.r10123/17272
+K 16
+sipXmediaLib.vcp
+V 22
+file e6i.0.r9956/38866
+K 19
+sipXmediaLib.vcproj
+V 23
+file b92.0.r10123/17787
+K 29
+sipXmediaLibTest-msvc8.vcproj
+V 22
+file e77.0.r9919/10638
+K 20
+sipXmediaLibTest.dsp
+V 23
+file mh.671.r9786/33846
+K 20
+sipXmediaLibTest.sln
+V 23
+file eaj.0.r8484/543808
+K 20
+sipXmediaLibTest.vcp
+V 22
+file e6j.0.r8865/20512
+K 23
+sipXmediaLibTest.vcproj
+V 22
+file eak.0.r9786/34719
+K 20
+sipxmedialib.spec.in
+V 23
+file b93.0.r7578/102965
+K 3
+src
+V 21
+dir b94.0.r10257/6885
+END
+ENDREP
+id: b40.0.r10259/1545
+type: dir
+pred: b40.0.r10258/1623
+count: 764
+text: 10259 324 1208 1208 79c5a53e63e5623730758f99286f183d
+props: 9032 16570 214 0 77545161d1a06c0f5ca1788673e28006
+cpath: /branches/sipXtapi/sipXmediaLib
+copyroot: 0 /
+
+PLAIN
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 14
+build_evc4.bat
+V 21
+file e6c.0.r8504/2231
+K 14
+buildmsvs6.bat
+V 22
+file dm4.66u.r9234/175
+K 6
+config
+V 21
+dir 9wj.0.r10223/1419
+K 10
+readme.txt
+V 20
+file 9ws.0.r9463/434
+K 14
+sipX-msvc8.sln
+V 22
+file e73.0.r10109/1082
+K 11
+sipXcallLib
+V 21
+dir 9wt.0.r10233/9700
+K 19
+sipXmediaAdapterLib
+V 22
+dir b2p.0.r10234/26939
+K 12
+sipXmediaLib
+V 21
+dir b40.0.r10259/1545
+K 11
+sipXportLib
+V 22
+dir bcf.0.r10141/10300
+K 10
+sipXsdpLib
+V 21
+dir e7v.0.r10248/2811
+K 11
+sipXtackLib
+V 21
+dir boq.0.r10249/8256
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.0.r10259/2431
+type: dir
+pred: 9wi.0.r10258/2509
+count: 1354
+text: 10259 1782 636 636 32d9365e8fa3f4b89813688a78285d14
+cpath: /branches/sipXtapi
+copyroot: 0 /
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r8066/42815
+K 3
+3.6
+V 23
+dir 7q4.50x.r9677/12870
+K 7
+bbridge
+V 22
+dir 7q4.68z.r9829/4609
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 8
+sipXtapi
+V 21
+dir 9wi.0.r10259/2431
+K 12
+sipXtapi-AOL
+V 23
+dir 9wi.7jw.r9655/14919
+K 11
+sipXtapi-UC
+V 22
+dir 9wi.7jy.r9594/5049
+K 21
+sipXtapi-media-update
+V 24
+dir 9wi.3ke.r10210/61710
+K 14
+sipXtapi.wince
+V 24
+dir 9wi.662.r8313/638537
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 21
+dir 7q4.4t1.r7562/240
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 14
+virtual-domain
+V 24
+dir 7q4.4t6.r8010/314955
+END
+ENDREP
+id: 7pt.0.r10259/3591
+type: dir
+pred: 7pt.0.r10258/3669
+count: 2704
+text: 10259 2598 980 980 bd4c70f8d0337df97652f5f2532c2326
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r10259/3591
+K 4
+main
+V 20
+dir 7q4.0.r9837/8232
+K 4
+tags
+V 20
+dir 7q5.0.r9367/2658
+END
+ENDREP
+id: 0.0.r10259/3876
+type: dir
+pred: 0.0.r10258/3955
+count: 10259
+text: 10259 3749 114 114 2f45df6e1658ec4479ed2cffece1a5c4
+cpath: /
+copyroot: 0 /
+
+ebw.0.t10258-1 modify false true /branches/sipXtapi/sipXmediaLib/contrib
+
+
+3876 4023

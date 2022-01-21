@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-12-15T04:25:42.563628Z
+K 7
+svn:log
+V 394
+For XRR-73 (Db/sipdbtest change), enhance DisplayTask::showTableRows to show the new primary and update_number values for registrations.  (Yes, I marked this JIRA entry as resolved but then realized there was more work to do.)
+Also break up showTableRows into lots of smaller routines, for maintainability. Delete an entire duplicate copy of the 20+ lines of code that print out registrations.
+
+END

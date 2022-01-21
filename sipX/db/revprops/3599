@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-03-02T18:03:05.526858Z
+K 7
+svn:log
+V 685
+XCF- Fixing RMI related issue. Adding support for JMS.
+
+Fixes to RMI based Alias service - it cannot be implemented with Spring based RMI invoker, because profilegenerator module does not use Spring [this may change in future]. 
+rmic step added in the compilation.
+Some preparations to use JMS in order to trigger profilegenerator's datasets push.
+RMI and JMS related resources are now initialized in separate Spring context files (this is necessary if we are to support automatic testing of database and UI).
+For now JMS resources are not initialized: we need to come up with a way of doing it only inside of EJB container. Otherwise our automatic WEB UI unit tests are not working.
+
+
+END

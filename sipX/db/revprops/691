@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-11-02T21:52:00.288054Z
+K 7
+svn:log
+V 86
+remove redundant (and sometimes incorrect) severity prefixes from text of log messages
+END

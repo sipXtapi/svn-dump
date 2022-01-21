@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-05-04T17:14:42.276241Z
+K 7
+svn:log
+V 82
+Bob: Fixed sipXphone build under linux -- my last change actually broke it more.
+
+
+END

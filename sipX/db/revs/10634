@@ -1,0 +1,146 @@
+PLAIN
+K 19
+svnmerge-integrated
+V 26
+/branches/sipXtapi:1-10633
+END
+ENDREP
+id: 9wi.7mo.r10634/74
+type: dir
+pred: 9wi.7mo.r10633/0
+count: 1715
+text: 10632 9597 635 635 8bcd86a183c7c1bfd092f2f7e6dc4535
+props: 10634 0 61 0 205f8042d9e3a641f642980eff62f5f5
+cpath: /branches/bandreasen-sipXtapi-AOL-merge
+copyroot: 10633 /branches/bandreasen-sipXtapi-AOL-merge
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r8066/42815
+K 3
+3.6
+V 23
+dir 7q4.50x.r9677/12870
+K 29
+bandreasen-sipXtapi-AOL-merge
+V 21
+dir 9wi.7mo.r10634/74
+K 7
+bbridge
+V 22
+dir 7q4.68z.r9829/4609
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 8
+sipXtapi
+V 22
+dir 9wi.0.r10632/10245
+K 12
+sipXtapi-AOL
+V 23
+dir 9wi.7jw.r10605/3171
+K 11
+sipXtapi-UC
+V 22
+dir 9wi.7jy.r9594/5049
+K 21
+sipXtapi-media-update
+V 23
+dir 9wi.3ke.r10308/4876
+K 14
+sipXtapi.wince
+V 24
+dir 9wi.662.r8313/638537
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 23
+dir 7q4.4t1.r10445/8915
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 14
+virtual-domain
+V 24
+dir 7q4.4t6.r8010/314955
+END
+ENDREP
+id: 7pt.0.r10634/1413
+type: dir
+pred: 7pt.0.r10633/1265
+count: 3079
+text: 10634 356 1044 1044 6ac490435d103cdaaee38f1db6b0b8d2
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r10634/1413
+K 4
+main
+V 20
+dir 7q4.0.r9837/8232
+K 4
+tags
+V 20
+dir 7q5.0.r9367/2658
+END
+ENDREP
+id: 0.0.r10634/1699
+type: dir
+pred: 0.0.r10633/1552
+count: 10634
+text: 10634 1572 114 114 a9fbb1ab7eb6afcf1f4acd9d590bd1fb
+cpath: /
+copyroot: 0 /
+
+9wi.7mo.t10633-1 modify false true /branches/bandreasen-sipXtapi-AOL-merge
+
+
+1699 1846

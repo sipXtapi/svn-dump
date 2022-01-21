@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-12-11T22:17:36.721424Z
+K 7
+svn:log
+V 109
+Inline vector operations from MpDspUtils by default. This may be turned off at compile time in MpDspUtils.h.
+
+END

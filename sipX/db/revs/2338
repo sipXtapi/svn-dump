@@ -1,0 +1,87 @@
+id: 1zf.0.r2338/0
+type: dir
+count: 0
+cpath: /old/sipXregistry/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 17
+dir 1zf.0.r2338/0
+K 4
+main
+V 20
+dir 1y5.0.r2337/1237
+K 4
+tags
+V 20
+dir 1z5.0.r2316/1476
+END
+ENDREP
+id: 1y4.0.r2338/209
+type: dir
+pred: 1y4.0.r2337/1542
+count: 39
+text: 2338 86 110 110 f3069c15e91d6335058a4844e590a9f2
+cpath: /old/sipXregistry
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 12
+sipXregistry
+V 19
+dir 1y4.0.r2338/209
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2338/684
+type: dir
+pred: 1.0.r2337/2019
+count: 2337
+text: 2338 367 304 304 c342fd6bc5552ff135b3dc4563c0afac
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r2338/684
+END
+ENDREP
+id: 0.0.r2338/876
+type: dir
+pred: 0.0.r2337/2214
+count: 2338
+text: 2338 828 35 35 7047b681dd519802bb6c31ada916d171
+cpath: /
+copyroot: 0 /
+
+_0.0.t2337-1 add false false /old/sipXregistry/branches
+
+
+876 1015

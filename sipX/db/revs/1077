@@ -1,0 +1,104 @@
+PLAIN
+K 13
+svn:externals
+V 68
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.5.1/config
+
+K 10
+svn:ignore
+V 66
+configure
+Makefile.in
+build
+config.h.in
+autom4te.cache
+aclocal.m4
+
+END
+ENDREP
+id: mz.4g.r1077/198
+type: dir
+pred: mz.0.r1076/1857
+count: 9
+text: 1076 1289 555 555 d673925a26431d629544fbb6d6fd2364
+props: 1077 0 185 0 0a5d6d5f02a37f598c823d81f7c8b9f4
+cpath: /old/sipXmediaLib/tags/2.5.1
+copyfrom: 1076 /old/sipXmediaLib/main
+
+PLAIN
+K 5
+2.5.1
+V 19
+dir mz.4g.r1077/198
+END
+ENDREP
+id: uq.0.r1077/496
+type: dir
+count: 0
+text: 1077 444 39 39 8b5c9534956febfe8deb1b04543e7191
+cpath: /old/sipXmediaLib/tags
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 19
+dir mz.0.r1076/1857
+K 4
+tags
+V 18
+dir uq.0.r1077/496
+END
+ENDREP
+id: my.0.r1077/717
+type: dir
+pred: my.0.r1076/2127
+count: 10
+text: 1077 633 71 71 07ffab9b5d8530d4f16017beb1404fde
+cpath: /old/sipXmediaLib
+copyroot: 0 /
+
+PLAIN
+K 12
+sipXmediaLib
+V 18
+dir my.0.r1077/717
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1077/1014
+type: dir
+pred: 1.0.r1076/2426
+count: 1076
+text: 1077 872 129 129 cdab770d76b2795617684f1debd936c2
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1077/1014
+END
+ENDREP
+id: 0.0.r1077/1208
+type: dir
+pred: 0.0.r1076/2621
+count: 1077
+text: 1077 1159 36 36 d1e68d22b625e752545a135f1c886da2
+cpath: /
+copyroot: 0 /
+
+_0.0.t1076-1 add false false /old/sipXmediaLib/tags
+
+mz._0.t1076-1 add false true /old/sipXmediaLib/tags/2.5.1
+1076 /old/sipXmediaLib/main
+
+1208 1349

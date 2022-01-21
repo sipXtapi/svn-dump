@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2010-01-30T19:17:44.070562Z
+K 7
+svn:log
+V 340
+sipXmediaLib: small refactoring of Audio Output Drivers.
+With current implementation we don't need separate function for setting notification tickers.
+We must always set it and it should always be a callback, everything else will likely break output driver's operation.
+Also MpodBufferRecorder is fixed to be consistent with other drivers.
+
+END

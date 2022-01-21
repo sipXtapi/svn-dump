@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-09-27T19:15:05.325450Z
+K 7
+svn:log
+V 87
+Added paths to the search list for apache include, modules
+and mod_cpludplus on RHE3.
+
+
+END

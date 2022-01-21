@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-24T14:29:14.775740Z
+K 7
+svn:log
+V 469
+Fix Linux build of sipXmediaLib unittests: rearrange includes so that our <os/OsIntTypes.h> included before any further includes of <stdint.h> or <inttypes.h>. We should define __STDC_CONSTANT_MACROS and __STDC_LIMIT_MACROS before first inclusion of <stdint.h> or <inttypes.h> to be able use INTxx_C() macros.
+For explanation, see footnote 220 at page 257, footnote 221 at page 259 and footnote 224 at page 260 of C99 standard (9899:TC2 Committee draft (May 6, 2005)).
+
+END

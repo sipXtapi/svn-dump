@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-05-17T18:29:22.506047Z
+K 7
+svn:log
+V 73
+Fixed the issue of XPB-296.
+
+http://track.sipfoundry.org/browse/XPB-296
+
+
+END

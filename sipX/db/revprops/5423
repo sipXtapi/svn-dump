@@ -1,0 +1,37 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-10-28T17:57:35.392868Z
+K 7
+svn:log
+V 603
+Added some diagnostics to dialog event parsing.
+
+Added support for built-in default audio tones.
+
+Added noinst_HEADERS list.
+
+Initial check-in of MpRawAudioBuffer class.
+
+Verify that the ua is subscribed before attempting to unsubscribe.
+
+Check for valid presence server uri.
+
+Change refresh period to 5 minutes.
+
+- When expiring a dialog, set the expires field to zero.
+- When stopping a dialog refresh, terminate and delete the associated timer.
+
+Added some debug trace.
+
+Remove redundant deletion of refresh timer.
+
+Do not add @ when building resourceID.
+
+Add port to contact when building tuple id.
+
+END

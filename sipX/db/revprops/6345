@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-03-13T23:11:00.873324Z
+K 7
+svn:log
+V 324
+Change the text for response code 420 from "Bad Extension" to
+"Extension Not Supported".  The new text is a better explanation of
+the problem (since the extension may be quite correct, the problem is
+that the SIP agent does not support it).  This avoids confusing a
+person (like me) who is trying to diagnose a SIP problem.
+
+END

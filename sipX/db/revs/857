@@ -1,0 +1,221 @@
+PLAIN
+K 10
+svn:ignore
+V 47
+Doxyfile
+Makefile
+Makefile.in
+html
+sipxtacklib
+
+END
+ENDREP
+id: e1.3l.r857/86
+type: dir
+pred: e1.0.r820/689
+count: 15
+text: 820 468 208 208 055a5b2199b3cd4300ff2c522cf33b62
+props: 857 0 73 0 d824e257d9cd37fbce1b91d4d8f1af9a
+cpath: /old/sipXtackLib/branches/2.8/doc
+copyroot: 829 /old/sipXtackLib/branches/2.8
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 20
+file dl.0.r772/70283
+K 9
+ChangeLog
+V 18
+file dm.0.r789/484
+K 7
+INSTALL
+V 20
+file dn.0.r772/76238
+K 7
+LICENSE
+V 18
+file do.0.r772/718
+K 11
+Makefile.am
+V 19
+file dp.3l.r850/117
+K 4
+NEWS
+V 20
+file dq.0.r772/79111
+K 6
+README
+V 20
+file dr.0.r772/69980
+K 4
+TODO
+V 20
+file ds.0.r772/75936
+K 9
+acsite.m4
+V 20
+file dt.0.r772/28655
+K 14
+ant-targets.am
+V 19
+file du.3l.r837/346
+K 15
+ant-targets.xml
+V 20
+file dv.0.r772/55675
+K 3
+bin
+V 18
+dir l0.0.r792/7705
+K 20
+config.properties.in
+V 20
+file dz.0.r772/75620
+K 12
+configure.ac
+V 19
+file e0.3l.r832/160
+K 3
+doc
+V 17
+dir e1.3l.r857/86
+K 7
+include
+V 19
+dir e5.3l.r844/3300
+K 3
+lib
+V 20
+dir gh.0.r650/115439
+K 4
+meta
+V 18
+dir l6.0.r821/1857
+K 15
+sipXtackLib.dsp
+V 19
+file gj.0.r826/6719
+K 18
+sipXtackLib.vcproj
+V 18
+file ld.0.r828/726
+K 15
+siplog2siptrace
+V 18
+dir gk.0.r792/8312
+K 7
+siptest
+V 18
+dir gn.0.r792/5435
+K 11
+siptest.dsp
+V 18
+file kv.0.r772/412
+K 9
+sipviewer
+V 19
+dir hn.0.r772/86823
+K 19
+sipxtacklib.spec.in
+V 19
+file kw.3l.r832/424
+K 3
+src
+V 19
+dir i8.3l.r844/6271
+K 15
+syslog2siptrace
+V 17
+dir kk.0.r811/838
+END
+ENDREP
+id: dk.3l.r857/1434
+type: dir
+pred: dk.3l.r850/1478
+count: 170
+text: 857 336 1085 1085 cddff9d05df513300171eb42bc819fbf
+props: 829 0 612 0 5665d1d3cbd2d0214f68f11d71b08b27
+cpath: /old/sipXtackLib/branches/2.8
+copyroot: 829 /old/sipXtackLib/branches/2.8
+
+PLAIN
+K 3
+2.6
+V 20
+dir dk.2u.r796/23010
+K 3
+2.8
+V 19
+dir dk.3l.r857/1434
+END
+ENDREP
+id: kz.0.r857/1772
+type: dir
+pred: kz.0.r850/1816
+count: 36
+text: 857 1688 71 71 a69b470933e98fad4b0560792ac87bf8
+cpath: /old/sipXtackLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir kz.0.r857/1772
+K 4
+main
+V 18
+dir dk.0.r856/1808
+K 4
+tags
+V 18
+dir kr.0.r852/2093
+END
+ENDREP
+id: dj.0.r857/2054
+type: dir
+pred: dj.0.r856/2145
+count: 258
+text: 857 1934 107 107 94f78c0379f660142bde9b6adb9bac11
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 18
+dir dj.0.r857/2054
+END
+ENDREP
+id: 1.0.r857/2308
+type: dir
+pred: 1.0.r856/2399
+count: 856
+text: 857 2210 85 85 88fc2254a6d44aaa5e5063ffbddcf337
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r857/2308
+END
+ENDREP
+id: 0.0.r857/2496
+type: dir
+pred: 0.0.r856/2587
+count: 857
+text: 857 2448 35 35 7fc0f743271dfbd705ae34ca06756809
+cpath: /
+copyroot: 0 /
+
+e1.3l.t856-1 modify false true /old/sipXtackLib/branches/2.8/doc
+
+
+2496 2633

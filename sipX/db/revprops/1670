@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-21T21:58:59.082433Z
+K 7
+svn:log
+V 206
+sipXtapi API Change: The sipxEventToString(...) and sipxLineEventToString(...) no longer allocate memory and expect the caller to free it.  Now, the caller must supply a valid character buffer and length.
+
+
+END

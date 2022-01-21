@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-28T13:37:40.138804Z
+K 7
+svn:log
+V 136
+Look before you leap: When determing if a protocol is "ok", verify that
+the protocol server has been setup before blindly invoking it.
+
+
+END

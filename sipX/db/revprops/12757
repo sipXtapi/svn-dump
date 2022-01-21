@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2020-04-13T07:19:05.022020Z
+K 7
+svn:log
+V 94
+On WIN32 where plugin cannot reference mediaLib defs, use print instead of logging in PlgIlbc
+
+END

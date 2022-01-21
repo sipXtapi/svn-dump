@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-03-25T15:54:52.366853Z
+K 7
+svn:log
+V 253
+XCF-235 - added call to save a dialing rule before gateways are added (or removed)
+
+It slightly changes the semantics of cancel button. You can only cancel your most recent changed to Dialing Rule form. Adding or removing a gateway cannot be cancelled.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-04T04:33:16.241674Z
+K 7
+svn:log
+V 78
+XCF-1521 - Emit failed unit test assertion, stdout and stderr for failed tests
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-05-15T09:49:50.427994Z
+K 7
+svn:log
+V 144
+Added missing addToneListener to SipConnection, because under certain conditions RFC 2833 DTMF reception wouldn't work.
+This also fixes XCL-128
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-12-18T14:27:35.640452Z
+K 7
+svn:log
+V 132
+Fix wrong mime subtype for SDP_CODEC_SPEEX_UWB, use "" instead of NULL for codecs that expect fmtp, slightly beautify braces align.
+
+END

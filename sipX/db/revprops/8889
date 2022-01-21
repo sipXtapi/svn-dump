@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-02-23T19:03:21.829246Z
+K 7
+svn:log
+V 106
+Remove warning in sipxconfig.log when generating profiles, had a bad velocity reference in a comment field
+END

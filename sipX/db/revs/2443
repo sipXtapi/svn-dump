@@ -1,0 +1,151 @@
+PLAIN
+K 13
+svn:externals
+V 70
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.8/config
+
+K 10
+svn:ignore
+V 155
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxregistry.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 56
+https://scm.sipfoundry.org/rep/sipXregistry/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 30
+1-63,65,72,77,79,83,89,104,130
+K 18
+svnmerge-main-head
+V 48
+https://scm.sipfoundry.org/rep/sipXregistry/main
+K 18
+svnmerge-main-revs
+V 5
+1-143
+END
+ENDREP
+id: 1y5.cd.r2443/546
+type: dir
+pred: 1y5.0.r2442/3994
+count: 92
+text: 2442 3302 679 679 28c7d9b31cd3827296aaa5d7ee69e8ef
+props: 2443 0 533 0 d0331400edbde4e824fa8e266a0a09a8
+cpath: /old/sipXregistry/branches/2.8
+copyfrom: 2442 /old/sipXregistry/main
+
+PLAIN
+K 3
+2.6
+V 21
+dir 1y5.bo.r2429/1648
+K 3
+2.8
+V 20
+dir 1y5.cd.r2443/546
+END
+ENDREP
+id: 1zf.0.r2443/883
+type: dir
+pred: 1zf.0.r2429/1963
+count: 20
+text: 2443 797 73 73 812ade5e11d55a1afde0c4d6a78a4443
+cpath: /old/sipXregistry/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 1zf.0.r2443/883
+K 4
+main
+V 20
+dir 1y5.0.r2442/3994
+K 4
+tags
+V 20
+dir 1z5.0.r2430/3424
+END
+ENDREP
+id: 1y4.0.r2443/1174
+type: dir
+pred: 1y4.0.r2442/4342
+count: 144
+text: 2443 1049 112 112 98f86b08ba670e55e9db14ddcf2f5b66
+cpath: /old/sipXregistry
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2443/1174
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2443/1654
+type: dir
+pred: 1.0.r2442/4822
+count: 2442
+text: 2443 1336 305 305 74be688bcb512c79bbc220537c912edc
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2443/1654
+END
+ENDREP
+id: 0.0.r2443/1849
+type: dir
+pred: 0.0.r2442/5017
+count: 2443
+text: 2443 1800 36 36 d6ce1dc6adc030e4c8e5a00c42685e07
+cpath: /
+copyroot: 0 /
+
+1y5._0.t2442-1 add false true /old/sipXregistry/branches/2.8
+2442 /old/sipXregistry/main
+
+1849 1990

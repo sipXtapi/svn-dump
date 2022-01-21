@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-11T20:46:35.394550Z
+K 7
+svn:log
+V 288
+Add call retrieval processing.
+Properly handle CANCELs of requests that have been suspended.
+Split the LOOKUP_ERROR return code into LOOKUP_ERROR_REQUEST (to
+report requests that are invalid) and LOOKUP_ERROR_SERVER (to report
+internal errors).
+Add default call retrieve feature code *4.
+
+END

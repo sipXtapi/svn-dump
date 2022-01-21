@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-04-26T15:57:42.406538Z
+K 7
+svn:log
+V 116
+Fixed bridge so that it is initialized in disabled state and
+the unit tests are happy.
+
+Removed some printf noise.
+
+
+END

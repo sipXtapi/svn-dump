@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2007-04-16T11:48:21.453035Z
+K 7
+svn:log
+V 159
+This marks the point at which components maintained exclusively in sipX (mostly
+sipXconfig and sipXtools moved to
+http://sipxecs.sipfoundry.org/rep/sipXecs .
+
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-05-25T19:37:52.471795Z
+K 7
+svn:log
+V 233
+XCF-399 minor problems in patching code solved 
+- DatabaseScriptProcessor was expecting at least one space or semicolon at the end of each line
+- removed obsoleted property from sipxconfig.properties callGroupContextImpl.orbitServer
+
+END

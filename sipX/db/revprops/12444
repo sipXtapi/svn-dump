@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-08-25T23:17:08.186945Z
+K 7
+svn:log
+V 111
+Added explicit link of portLib for sipXtack executables.
+Seems newer autotools no longer is doing this for us.
+
+END

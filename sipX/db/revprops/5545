@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-11-09T04:49:41.798873Z
+K 7
+svn:log
+V 84
+XCF-765 - fix nullpointers when accessing service URLs in web browser and ?wsdl URLs
+END

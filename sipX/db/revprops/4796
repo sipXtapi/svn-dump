@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-04-09T19:45:35.091482Z
+K 7
+svn:log
+V 335
+Modified sipXphone/pinger to work with call processing changes:
+
+> Added audio functions (volume, setting audio devices, etc) to the
+> media interface factory.  This is needed to enable plug-and-play
+> media processing subsystems.  Started to also remove references
+> to DmaTask:: and MpCodec in sipXtapi and Pinger.  
+>
+> More to do
+
+
+END

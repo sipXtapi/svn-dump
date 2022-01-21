@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-04-07T18:15:36.410862Z
+K 7
+svn:log
+V 214
+Fix XPR-135 and XPR-137: remove the NOT NULL constraint from the contact column in the parties table.  With failed calls, we don't have a contact for the callee, so the contact column in the parties entry is NULL.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-09-30T14:42:17.682194Z
+K 7
+svn:log
+V 104
+Fix "outgoingAddress" argument to CallManager that should have been
+merged from pingtel-main rev. 5228.
+
+END

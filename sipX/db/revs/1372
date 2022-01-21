@@ -1,0 +1,93 @@
+id: va.67.r1372/0
+type: dir
+pred: va.0.r1370/6613
+count: 44
+text: 1370 5952 648 648 d8fe42a666ce294562741ceee981c8e3
+props: 1365 0 285 0 1a21cce1b76f39d359f6826e91562754
+cpath: /old/sipXcallLib/branches/post-2.6.1
+copyfrom: 1371 /old/sipXcallLib/main
+
+PLAIN
+K 10
+post-2.6.1
+V 17
+dir va.67.r1372/0
+END
+ENDREP
+id: 15e.0.r1372/308
+type: dir
+pred: 15e.0.r1371/0
+count: 1
+text: 1372 252 43 43 e0a2c8a1fa0deee4faa77b73d68a349f
+cpath: /old/sipXcallLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 15e.0.r1372/308
+K 4
+main
+V 19
+dir va.0.r1370/6613
+K 4
+tags
+V 20
+dir 156.0.r1347/1356
+END
+ENDREP
+id: v9.0.r1372/593
+type: dir
+pred: v9.0.r1371/207
+count: 51
+text: 1372 469 111 111 9e78ce547b54d18228b151b744160255
+cpath: /old/sipXcallLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 18
+dir v9.0.r1372/593
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1372/932
+type: dir
+pred: 1.0.r1371/546
+count: 1371
+text: 1372 748 171 171 2b1e3ac45498d0821b7b755b93b57032
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r1372/932
+END
+ENDREP
+id: 0.0.r1372/1123
+type: dir
+pred: 0.0.r1371/738
+count: 1372
+text: 1372 1075 35 35 63f8477a46776154800c5ce0ae7eb5d6
+cpath: /
+copyroot: 0 /
+
+va._0.t1371-1 add false false /old/sipXcallLib/branches/post-2.6.1
+1371 /old/sipXcallLib/main
+
+1123 1263

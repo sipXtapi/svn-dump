@@ -1,0 +1,162 @@
+PLAIN
+K 13
+svn:externals
+V 55
+config https://scm.sipfoundry.org/rep/sipX/main/config
+
+K 10
+svn:ignore
+V 254
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+bin.eclipse
+build
+config.h
+config.h.in
+config.log
+build.properties
+config.status
+configure
+libtool
+sipxconfig-*.rpm
+sipxconfig-*.tar.gz
+sipxconfig.spec
+stamp-h1
+top.build.dir
+velocity.log
+spy.log
+
+K 19
+svnmerge-integrated
+V 190
+/branches/2.6:1-204,218,223-251,265,314,459
+/branches/2.8:1-829,837-855,1016
+/branches/3.0/sipXconfig:1-5388
+/branches/lowcarb:1-1002
+/branches/user_pin:1-732
+/pingtel/main/sipXconfig:1-4367
+END
+ENDREP
+id: 2hf.1i7.r5418/596
+type: dir
+pred: 2hf.1i7.r5416/7441
+count: 1120
+text: 5416 6274 1154 1154 0bc81409fcdf45c3b5e35a87411d7225
+props: 5418 0 583 0 04728b28fca0ee062c1b2dd3b295690b
+cpath: /main/sipXconfig
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 7
+bbridge
+V 20
+dir 8dl.0.r5414/5536
+K 5
+build
+V 19
+file 7ve.0.r5415/56
+K 6
+config
+V 21
+dir 91.1i4.r5414/6650
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 14
+resiprocateLib
+V 20
+dir 8g8.0.r5414/8197
+K 11
+sipXcallLib
+V 22
+dir va.1i5.r5412/10089
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r5412/18694
+K 10
+sipXconfig
+V 21
+dir 2hf.1i7.r5418/596
+K 19
+sipXmediaAdapterLib
+V 21
+dir 89s.0.r5412/14156
+K 12
+sipXmediaLib
+V 22
+dir mz.1i8.r5412/13065
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r5412/7227
+K 9
+sipXphone
+V 22
+dir 6qk.1ia.r5262/5130
+K 11
+sipXportLib
+V 20
+dir 3.1ib.r5412/3356
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r5412/4619
+K 13
+sipXpublisher
+V 22
+dir 20n.1id.r5412/8488
+K 12
+sipXregistry
+V 23
+dir 1y5.1ie.r5412/15438
+K 11
+sipXtackLib
+V 21
+dir dk.1if.r5413/4052
+K 8
+sipXvxml
+V 22
+dir 22d.1ig.r5412/5854
+END
+ENDREP
+id: 7q4.0.r5418/1637
+type: dir
+pred: 7q4.0.r5416/8489
+count: 543
+text: 5418 834 790 790 c60e60f974fb64a63e16392a9a84c1fc
+props: 5407 4144 3249 0 a34eac6d1a8d8a5530be324dd0c9f590
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r5417/6849
+K 4
+main
+V 20
+dir 7q4.0.r5418/1637
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r5418/1971
+type: dir
+pred: 0.0.r5417/7130
+count: 5418
+text: 5418 1843 115 115 e3681f88f32722909edaaf4efd2ec81f
+cpath: /
+copyroot: 0 /
+
+2hf.1i7.t5417-1 modify false true /main/sipXconfig
+
+
+1971 2114

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-09-22T01:59:09.797872Z
+K 7
+svn:log
+V 193
+Fix CRLF unit test and checkstyle failures on windows...again.  I'm ready to say every file has unix style end of lines.  Notepad is about the only program left on Windows that can't translate.
+END

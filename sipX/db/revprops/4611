@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-04-18T20:45:52.693222Z
+K 7
+svn:log
+V 460
+Merged revisions 517 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXpbx/branches/2.8
+
+    r517 | xmlscott | 2005-04-18 16:36:22 -0400 (Mon, 18 Apr 2005) | 6 lines
+    Move the check for rpmnew files into do_check, so that it gets
+       done as part of the configtest.
+    Add the ssl cert and key to the files saved by the configuration backup.
+
+Add ssl authorities directory to the configuration backup.
+
+Make the rpmnew configuration check non-fatal
+
+
+END

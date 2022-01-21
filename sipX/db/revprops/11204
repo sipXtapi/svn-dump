@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-22T14:25:51.887960Z
+K 7
+svn:log
+V 92
+sipXmediaLib: Better documentation for MpVadBase::reset(), move it to manipulators section.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2013-11-24T07:46:52.409486Z
+K 7
+svn:log
+V 96
+Correctly enable the default input device for Android and when delayed enabling of input device
+
+END

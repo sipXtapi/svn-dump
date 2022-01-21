@@ -1,0 +1,280 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+END
+ENDREP
+id: 1vp.96.r2008/47
+type: file
+pred: 1vp.93.r2007/1651
+count: 1
+text: 2007 0 1591 4363 5faf4c33d83d8474d8dd12dc8cba17bc
+props: 2008 0 34 0 25e6c2f7558b7484000d4d090dea5b92
+cpath: /old/sipXcommserverLib/main/doc/upgrade.txt
+copyfrom: 2007 /old/sipXcommserverLib/branches/2.8/doc/upgrade.txt
+
+PLAIN
+K 11
+Doxyfile.in
+V 20
+file 1uy.0.r1993/322
+K 11
+INSTALL.ssl
+V 23
+file 1v7.84.r1967/50903
+K 11
+Makefile.am
+V 19
+file 1uz.0.r1989/67
+K 14
+credential.xml
+V 21
+file 1uw.0.r1968/1513
+K 11
+footer.html
+V 22
+file 1v0.0.r1967/50579
+K 11
+header.html
+V 22
+file 1v1.0.r1967/52837
+K 14
+permission.xml
+V 21
+file 1ux.0.r1968/1188
+K 17
+update-passtokens
+V 22
+file 1vb.0.r1967/52510
+K 11
+upgrade.txt
+V 20
+file 1vp.96.r2008/47
+END
+ENDREP
+id: 1uv.0.r2008/764
+type: dir
+pred: 1uv.0.r1993/946
+count: 21
+text: 2008 338 413 413 ea8335322b7e0ba157dee87e3cdfda05
+props: 1986 0 61 0 0fce077ff8295d6e995ce2cbf9bb0693
+cpath: /old/sipXcommserverLib/main/doc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1qp.0.r1967/49607
+K 9
+ChangeLog
+V 20
+file 1qq.0.r1984/410
+K 7
+INSTALL
+V 20
+file 1qr.0.r1991/607
+K 7
+LICENSE
+V 19
+file 1qs.0.r1967/82
+K 11
+Makefile.am
+V 21
+file 1qt.0.r1997/1307
+K 4
+NEWS
+V 22
+file 1qu.0.r1967/60154
+K 6
+README
+V 22
+file 1qv.0.r1967/49287
+K 4
+TODO
+V 22
+file 1qw.0.r1967/53785
+K 9
+acsite.m4
+V 22
+file 1qx.0.r1967/24543
+K 3
+bin
+V 19
+dir 1qy.0.r2006/818
+K 12
+configure.ac
+V 20
+file 1r5.0.r2001/175
+K 3
+doc
+V 19
+dir 1uv.0.r2008/764
+K 3
+etc
+V 20
+dir 1r6.0.r1972/2493
+K 7
+include
+V 20
+dir 1rc.0.r1978/3048
+K 4
+meta
+V 20
+dir 1v3.0.r1994/2850
+K 21
+sipXcommserverLib.dsp
+V 22
+file 1us.0.r1967/49927
+K 13
+sipdbtest.dsp
+V 22
+file 1ut.0.r1967/24220
+K 25
+sipxcommserverlib.spec.in
+V 21
+file 1v2.0.r2005/1417
+K 3
+src
+V 20
+dir 1t1.0.r1995/1548
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 70
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.8/config
+
+K 10
+svn:ignore
+V 218
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxcommserverlib-*.rpm
+sipxcommserverlib-*.tar.gz
+sipxcommserverlib.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 61
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 25
+1-135,148,157,164,167,184
+K 17
+svnmerge-2.8-head
+V 61
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 17
+1-199,202,207,210
+K 18
+svnmerge-main-head
+V 53
+https://scm.sipfoundry.org/rep/sipXcommserverLib/main
+K 18
+svnmerge-main-revs
+V 5
+1-198
+END
+ENDREP
+id: 1qo.0.r2008/2526
+type: dir
+pred: 1qo.0.r2006/1834
+count: 142
+text: 2008 988 775 775 eda19afa7ae90e3e0cddbb7f0dce9482
+props: 2008 1776 737 0 4d12c093b6cd55b2cd7e6f228cfad13f
+cpath: /old/sipXcommserverLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1v5.0.r2007/3768
+K 4
+main
+V 20
+dir 1qo.0.r2008/2526
+K 4
+tags
+V 20
+dir 1uu.0.r2002/2072
+END
+ENDREP
+id: 1qn.0.r2008/2879
+type: dir
+pred: 1qn.0.r2007/4067
+count: 211
+text: 2008 2753 113 113 63bf076bbd034ef7736c13bb14aca341
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2008/2879
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2008/3280
+type: dir
+pred: 1.0.r2007/4468
+count: 2007
+text: 2008 3046 221 221 465666e756bb09e18b798a62f7a59eb9
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2008/3280
+END
+ENDREP
+id: 0.0.r2008/3475
+type: dir
+pred: 0.0.r2007/4663
+count: 2008
+text: 2008 3426 36 36 1f4027241bbbc6f35bcb5912cf5c37c9
+cpath: /
+copyroot: 0 /
+
+1vp._0.t2007-1 add false true /old/sipXcommserverLib/main/doc/upgrade.txt
+2007 /old/sipXcommserverLib/branches/2.8/doc/upgrade.txt
+1qo.0.t2007-1 modify false true /old/sipXcommserverLib/main
+
+
+3475 3616

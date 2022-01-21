@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-10-05T18:04:18.501761Z
+K 7
+svn:log
+V 453
+Improve SSL key diagnostics
+  Add check-cert.sh script to check certificate validity
+  Enhance startup to test for certificate expiration
+  Enhance install-cert.sh to test for certificate expiration
+
+  http://track.sipfoundry.org/browse/XPB-62
+      Fix error message
+
+  http://track.sipfoundry.org/browse/XPB-64
+      Find keytool in java runtime using sipx-config 
+
+  http://track.sipfoundry.org/browse/XPB-63
+      Fix path to install-cert.sh script
+
+END

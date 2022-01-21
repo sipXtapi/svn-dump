@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-30T23:08:46.476823Z
+K 7
+svn:log
+V 268
+Merged revisions 8158 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8158 | bob | 2006-11-30 19:03:35 +0300 | 3 lines
+  
+  Added script to package up Windows src distribution
+  Include LICENSE.txt in binary distribution
+........
+
+END

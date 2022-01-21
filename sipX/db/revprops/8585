@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-18T23:05:03.847869Z
+K 7
+svn:log
+V 480
+XCF-1325 More localization related work:
+-remove reduntant labels and descriptions from XML models that have .properties defined
+-XLS for stripping localizable elements from XML files (usage: xsltproc --nodtdattr meta/strip_localized.xslt setting.xml) - it should be used after .properties are generated (see: meta/xml_to_properties tool)
+- localize phone groups screens (see: EditPhoneDefaults.properties)
+- fixed some UI tests that relied on availability of English translation
+
+END

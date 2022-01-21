@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2007-07-06T21:09:45.157481Z
+K 7
+svn:log
+V 261
+Boston Bridge was using a generic api to get the local adapter address to place in the SDP body.  When there are multiple NICs this api can return an incorrect IP (from wrong NIC).  Modified to use the sentHost parameter form the top most via of the SIP Invite.
+END

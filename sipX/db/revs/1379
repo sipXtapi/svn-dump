@@ -1,0 +1,167 @@
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 15f.0.r1379/60
+type: dir
+pred: 15f.0.r1376/1125
+count: 1
+text: 1376 1014 47 47 44d3ce11773306b6d7cf8d4ead4d5bb2
+props: 1379 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXcallLib/main/bin
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file vb.0.r1322/794377
+K 9
+ChangeLog
+V 19
+file vc.0.r1348/231
+K 7
+INSTALL
+V 19
+file vd.0.r1362/532
+K 7
+LICENSE
+V 22
+file ve.0.r1322/684024
+K 11
+Makefile.am
+V 19
+file vf.0.r1378/373
+K 4
+NEWS
+V 22
+file vg.0.r1322/794232
+K 6
+README
+V 19
+file vh.0.r1328/613
+K 4
+TODO
+V 22
+file vi.0.r1322/732281
+K 9
+acsite.m4
+V 22
+file vj.0.r1322/732833
+K 3
+bin
+V 18
+dir 15f.0.r1379/60
+K 12
+configure.ac
+V 19
+file vk.0.r1376/346
+K 3
+doc
+V 20
+dir 158.0.r1356/1197
+K 8
+examples
+V 21
+dir vl.0.r1361/133835
+K 7
+include
+V 19
+dir vt.0.r1370/3190
+K 15
+sipXcallLib.dsp
+V 20
+file 155.0.r1373/115
+K 19
+sipxcalllib.spec.in
+V 20
+file 15d.0.r1378/191
+K 3
+src
+V 20
+dir 10q.0.r1370/5729
+END
+ENDREP
+id: va.0.r1379/967
+type: dir
+pred: va.0.r1378/1292
+count: 49
+text: 1379 276 678 678 dfbef32c46aca47e2b1548de30071650
+props: 1365 0 285 0 1a21cce1b76f39d359f6826e91562754
+cpath: /old/sipXcallLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 15e.0.r1375/638
+K 4
+main
+V 18
+dir va.0.r1379/967
+K 4
+tags
+V 20
+dir 156.0.r1347/1356
+END
+ENDREP
+id: v9.0.r1379/1304
+type: dir
+pred: v9.0.r1378/1631
+count: 58
+text: 1379 1181 110 110 1d92c78b8c7bab271b9a7026e924c885
+cpath: /old/sipXcallLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1379/1304
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1379/1647
+type: dir
+pred: 1.0.r1378/1974
+count: 1378
+text: 1379 1462 172 172 2bad0a6e66bb3cf4757bfb41eebe7d1b
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1379/1647
+END
+ENDREP
+id: 0.0.r1379/1842
+type: dir
+pred: 0.0.r1378/2169
+count: 1379
+text: 1379 1793 36 36 0a34f530b051d6c067285ff90c5bdf24
+cpath: /
+copyroot: 0 /
+
+15f.0.t1378-1 modify false true /old/sipXcallLib/main/bin
+
+
+1842 1983

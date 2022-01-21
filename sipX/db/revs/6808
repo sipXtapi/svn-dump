@@ -1,0 +1,457 @@
+id: c5w.1i7.r6808/0
+type: dir
+count: 0
+cpath: /main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/device
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 12
+ClearDb.java
+V 21
+file 5db.0.r4022/1141
+K 11
+ClearDb.xml
+V 24
+file 4vw.1wl.r6404/13678
+K 25
+SipxDatabaseTestCase.java
+V 25
+file 8dw.1i7.r6329/165410
+K 27
+TestApplicationContext.java
+V 25
+file 84s.1i7.r4886/147744
+K 15
+TestHelper.java
+V 23
+file 4q9.1i7.r6791/9524
+K 18
+XmlUnitHelper.java
+V 24
+file 51o.1wm.r4900/16402
+K 5
+admin
+V 23
+dir 4ks.1i7.r6800/15384
+K 5
+alias
+V 23
+dir 8h1.1i7.r5987/14455
+K 4
+bulk
+V 22
+dir 8w4.1i7.r6806/8198
+K 6
+common
+V 22
+dir 50w.1i7.r6673/3565
+K 10
+conference
+V 23
+dir 84x.1i7.r6700/22341
+K 6
+dbdata
+V 21
+dir 4vv.0.r3943/15219
+K 6
+device
+V 19
+dir c5w.1i7.r6808/0
+K 7
+gateway
+V 23
+dir 5eb.1i7.r6700/21180
+K 3
+job
+V 23
+dir 866.1i7.r5437/54500
+K 5
+login
+V 23
+dir 7tj.1i7.r5437/48027
+K 5
+phone
+V 23
+dir 4jf.1i7.r6800/19679
+K 8
+presence
+V 22
+dir 9vp.1i7.r6417/9479
+K 6
+search
+V 24
+dir 8k6.2ba.r6329/166428
+K 8
+security
+V 24
+dir 8pl.1i7.r6329/167913
+K 7
+setting
+V 23
+dir 4jk.1x7.r6800/22822
+K 17
+sipxconfig-db.dtd
+V 24
+file 4vg.1i7.r6404/14324
+K 4
+test
+V 23
+dir 8yt.1i7.r5923/37052
+K 6
+upload
+V 22
+dir 8pf.1i7.r6800/9632
+K 6
+xmlrpc
+V 24
+dir 7us.1i7.r4886/163263
+END
+ENDREP
+id: 4g5.1i7.r6808/1247
+type: dir
+pred: 4g5.1i7.r6806/9491
+count: 541
+text: 6808 142 1092 1092 c1f5f6d113c6c3a290c95d6a9aa22d89
+cpath: /main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 10
+sipxconfig
+V 22
+dir 4g5.1i7.r6808/1247
+END
+ENDREP
+id: 4g4.1i7.r6808/1531
+type: dir
+pred: 4g4.1i7.r6806/9776
+count: 541
+text: 6808 1470 48 48 e1577fd87d6cf65d15c7eef9797e8d0a
+cpath: /main/sipXconfig/neoconf/test/org/sipfoundry
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 10
+sipfoundry
+V 22
+dir 4g4.1i7.r6808/1531
+K 4
+taha
+V 23
+dir 8yv.1i7.r5923/45633
+END
+ENDREP
+id: 4g3.1i7.r6808/1839
+type: dir
+pred: 4g3.1i7.r6806/10085
+count: 541
+text: 6808 1740 86 86 b7c71e305b00e4bf711b1a719523b75b
+cpath: /main/sipXconfig/neoconf/test/org
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 3
+org
+V 22
+dir 4g3.1i7.r6808/1839
+K 14
+spy.properties
+V 22
+file 4va.0.r3510/29092
+END
+ENDREP
+id: 4g2.1i7.r6808/2139
+type: dir
+pred: 4g2.1i7.r6806/10387
+count: 543
+text: 6808 2038 88 88 207c4119c25c47f86be70cb38139d515
+cpath: /main/sipXconfig/neoconf/test
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 10
+.classpath
+V 24
+file 4ep.1i7.r6781/16272
+K 8
+.project
+V 20
+file 4eq.0.r3924/159
+K 12
+.springBeans
+V 24
+file 4xc.1wb.r6806/16969
+K 11
+Makefile.am
+V 24
+file 4er.1i7.r4821/25188
+K 9
+build.xml
+V 24
+file 4es.1i7.r6557/30578
+K 3
+etc
+V 23
+dir 4pz.1i7.r6700/58470
+K 7
+pom.xml
+V 25
+file 90t.2qj.r6329/203449
+K 3
+src
+V 23
+dir 4ev.1i7.r6806/16771
+K 4
+test
+V 22
+dir 4g2.1i7.r6808/2139
+END
+ENDREP
+id: 4eo.1i7.r6808/2729
+type: dir
+pred: 4eo.1i7.r6806/17649
+count: 846
+text: 6808 2334 382 382 9a8657c411a0e7bc32880a4833fbbe03
+props: 5457 169378 129 0 2df63e856771396430f23115acac5d8b
+cpath: /main/sipXconfig/neoconf
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 2hg.0.r3393/21790
+K 9
+ChangeLog
+V 23
+file 2hh.1i7.r6697/1377
+K 7
+INSTALL
+V 24
+file 2hi.1i7.r5443/27201
+K 7
+LICENSE
+V 23
+file 2hj.0.r3393/851332
+K 11
+Makefile.am
+V 24
+file 2hk.1i7.r6557/36271
+K 4
+NEWS
+V 23
+file 2hl.0.r3393/808567
+K 6
+README
+V 24
+file 2hm.1i7.r5365/24861
+K 4
+TODO
+V 22
+file 2hn.0.r4025/58643
+K 9
+acsite.m4
+V 22
+file 2ho.0.r3393/21475
+K 5
+agent
+V 25
+dir bzs.1i7.r6721/4403495
+K 14
+ant-targets.am
+V 25
+file 2hp.1i7.r4886/145328
+K 15
+ant-targets.xml
+V 24
+file 2hq.1i7.r6783/21402
+K 3
+bin
+V 21
+dir 4bz.1i7.r5836/102
+K 19
+build.properties.in
+V 24
+file 81e.1i7.r6569/12453
+K 9
+build.xml
+V 25
+file 4h8.1i7.r6329/204905
+K 12
+configure.ac
+V 24
+file 2jg.1i7.r6690/15147
+K 16
+dependencies.xml
+V 21
+file 5d9.1i7.r5994/45
+K 3
+doc
+V 23
+dir 2jh.1i7.r5923/53253
+K 3
+etc
+V 25
+dir 4b7.1i7.r4884/5840691
+K 3
+lib
+V 25
+dir 2jy.1i7.r6736/1133882
+K 14
+lib.properties
+V 26
+file 81m.1i7.r6736/1129006
+K 4
+meta
+V 25
+dir 4ea.1i7.r6736/1127576
+K 7
+neoconf
+V 22
+dir 4eo.1i7.r6808/2729
+K 7
+pom.xml
+V 25
+file 90w.2qr.r6329/204642
+K 23
+profilepub_sipagent.dsp
+V 22
+file 4b5.1i7.r4929/429
+K 18
+sipxconfig.spec.in
+V 24
+file 4bh.1i7.r6690/15398
+K 18
+subant-targets.xml
+V 23
+file 4h9.1i7.r5402/3659
+K 3
+web
+V 23
+dir 4l5.1i7.r6806/24370
+K 15
+web-targets.xml
+V 24
+file 8uq.1i7.r5770/11880
+END
+ENDREP
+id: 2hf.1i7.r6808/4290
+type: dir
+pred: 2hf.1i7.r6806/25930
+count: 1603
+text: 6808 2979 1298 1298 c9851b9cfbd41a0a30cdd5c15da604b0
+props: 6771 16818 751 0 0cbeab81879694eccc4c2107ac4f75b0
+cpath: /main/sipXconfig
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 7
+bbridge
+V 19
+dir 8dl.0.r6648/271
+K 5
+build
+V 20
+file 7ve.0.r6807/105
+K 6
+config
+V 21
+dir 91.1i4.r6589/1665
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 14
+resiprocateLib
+V 20
+dir 8g8.0.r5655/3734
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r6793/5327
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r6796/14360
+K 10
+sipXconfig
+V 22
+dir 2hf.1i7.r6808/4290
+K 19
+sipXmediaAdapterLib
+V 20
+dir 89s.0.r6723/1952
+K 12
+sipXmediaLib
+V 22
+dir mz.1i8.r6707/14798
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r6804/9681
+K 9
+sipXphone
+V 22
+dir 6qk.1ia.r6366/8398
+K 11
+sipXportLib
+V 20
+dir 3.1ib.r6801/2166
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r6804/7237
+K 13
+sipXpublisher
+V 23
+dir 20n.1id.r6690/12779
+K 12
+sipXregistry
+V 23
+dir 1y5.1ie.r6796/11649
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r6796/28919
+K 8
+sipXvxml
+V 22
+dir 22d.1ig.r6690/9615
+END
+ENDREP
+id: 7q4.0.r6808/5338
+type: dir
+pred: 7q4.0.r6807/1116
+count: 1359
+text: 6808 4534 791 791 5bcab1dbd94c399132911c18e456010d
+props: 6805 1506 1238 0 e89749508e0aae62926ca543e79fc76e
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r6803/11729
+K 4
+main
+V 20
+dir 7q4.0.r6808/5338
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6808/5674
+type: dir
+pred: 0.0.r6807/1452
+count: 6808
+text: 6808 5546 115 115 c3e02999109711cbfe42c4ff6c5841bb
+cpath: /
+copyroot: 0 /
+
+_0.1i7.t6807-1 add false false /main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/device
+
+
+5674 5817

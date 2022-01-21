@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-02-16T15:11:26.878086Z
+K 7
+svn:log
+V 162
+UtlString derived class needs to set the data value, if used in containers.  Fixed a problem with connection deletion in conferencing with the phone.
+(Bob did it)
+END

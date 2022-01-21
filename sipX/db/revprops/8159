@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-30T17:43:41.406588Z
+K 7
+svn:log
+V 381
+Merged revisions 8140 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8140 | bob | 2006-11-29 16:41:41 +0300 | 5 lines
+  
+  Fix for external transport hold problem (introduced in merge).  Was not sending subsequent methods over the transport.
+  
+  A problem still exists with sub/notify within a call context and external transports.
+........
+
+END

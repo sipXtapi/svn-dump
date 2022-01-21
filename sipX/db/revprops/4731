@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-01-11T17:41:58.376068Z
+K 7
+svn:log
+V 194
+fix for XPH-49
+No longer explicitly checking for the Connection state in onRinging.
+The state, at the time onRinging is called, is UNKNOWN.  No longer
+checking it against for the alerting state.
+END

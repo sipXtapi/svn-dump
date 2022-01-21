@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-21T12:32:44.920045Z
+K 7
+svn:log
+V 62
+Allow building RPMs in directories other than /usr/src/redhat.
+END

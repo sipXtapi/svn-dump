@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-02-17T22:50:44.782749Z
+K 7
+svn:log
+V 140
+New user portal navigation: removed XPressa related links. Add call forwarding.
+Added link to caller sensitive 911 routing in Admin portal.
+
+END

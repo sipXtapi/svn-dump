@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-30T17:50:25.665381Z
+K 7
+svn:log
+V 115
+BUGFIX: Pass window handle to MpVideoCallFlowGraph::setVideoPreviewWindow() instead of SIPX_VIDEO_DISPLAY pointer.
+
+END

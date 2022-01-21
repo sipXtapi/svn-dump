@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-01-02T16:56:10.992284Z
+K 7
+svn:log
+V 254
+Add facility to receive calls for "int-udp..." and "int-tcp...".
+Those domain names should be configured to be SRV records (only) for
+"interop...".
+But this feature doesn't work, apparently because domain aliases don't
+work.  I must investigate further.
+
+END

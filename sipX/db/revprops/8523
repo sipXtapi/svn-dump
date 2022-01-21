@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-12T18:13:40.834089Z
+K 7
+svn:log
+V 52
+Internal libgsm includes moved to "gsm/" directory.
+
+END

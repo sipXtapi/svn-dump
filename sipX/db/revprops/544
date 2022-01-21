@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2005-05-04T15:14:35.717574Z
+K 7
+svn:log
+V 70
+Correct shutdown logic and force blocking sockets to close under Linux
+END

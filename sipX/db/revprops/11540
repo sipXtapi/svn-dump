@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-01-29T15:08:27.495011Z
+K 7
+svn:log
+V 57
+Makefile changes to build sipXcall unit test on Android.
+
+END

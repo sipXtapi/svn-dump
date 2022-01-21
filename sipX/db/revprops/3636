@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-09T21:59:15.585609Z
+K 7
+svn:log
+V 274
+XCF-176 - Added link called Add Line, remove link from all pages that shouldn't have it.  Also fixed issue where could not delete lines on phones.  this may have been introduced recently, this prompted a refactoring to detach PhoneMetaData and LineMetaData collection assoc.
+END

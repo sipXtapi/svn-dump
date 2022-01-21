@@ -1,0 +1,59 @@
+id: 9wi.7n8.r10822/0
+type: dir
+pred: 9wi.7mo.r10787/8458
+count: 1729
+text: 10787 7689 756 756 fdac37212cc5e41b01623ea192aafe9a
+props: 10634 0 61 0 205f8042d9e3a641f642980eff62f5f5
+cpath: /branches/sipXtapi-AOL
+copyfrom: 10821 /sipXecs.old/branches/bandreasen-sipXtapi-AOL-merge
+
+PLAIN
+K 12
+sipXtapi-AOL
+V 20
+dir 9wi.7n8.r10822/0
+K 21
+sipXtapi-media-update
+V 20
+dir 9wi.7n7.r10818/0
+END
+ENDREP
+id: fuu.0.r10822/393
+type: dir
+pred: fuu.0.r10821/70
+count: 4
+text: 10822 279 101 101 949842bf6056b29e9e8bdaaf6abe8488
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir fuu.0.r10822/393
+K 4
+main
+V 20
+dir 9wi.7n5.r10815/0
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r10822/711
+type: dir
+pred: 0.0.r10821/383
+count: 10822
+text: 10822 544 154 154 d7e98a0b2f6acd7fd8d05aed84b7b5e4
+cpath: /
+copyroot: 0 /
+
+9wi._0.t10821-1 add false false /branches/sipXtapi-AOL
+10821 /sipXecs.old/branches/bandreasen-sipXtapi-AOL-merge
+
+711 855

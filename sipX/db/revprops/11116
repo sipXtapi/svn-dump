@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-18T22:36:25.015171Z
+K 7
+svn:log
+V 137
+Install the docs to the temp install directory, and zip from that,
+This way, documentation project interdependencies will be generated.
+
+
+END

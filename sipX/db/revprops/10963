@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-11-19T00:11:28.074145Z
+K 7
+svn:log
+V 68
+Ok, reverting back const part of rev.10961. It was breaks too much.
+
+END

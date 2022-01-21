@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-06-27T16:51:10.429867Z
+K 7
+svn:log
+V 184
+Bugfix - only copied half the incoming buffer to the wave buffer, resulting in consistent stutter (half the data was missing).
+
+Multiplied amount of data to copy by sample size to fix.
+END

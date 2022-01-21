@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-03-24T22:09:16.961434Z
+K 7
+svn:log
+V 321
+First CSE database unit test, starting up both proxies which connect
+to a live CSE database, making a number of calls, and shutting down
+proxies again.
+
+Only basic functionality - no validation of written data is done 
+yet. Checking this in because this is a convenient way to populate
+the database with real proxy data.
+
+END

@@ -1,0 +1,245 @@
+PLAIN
+K 10
+svn:ignore
+V 33
+.deps
+.libs
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: dd.0.r596/72
+type: dir
+pred: dd.0.r591/768
+count: 3
+text: 591 664 91 91 60b4cf8dc737bd4067df84500dbec301
+props: 596 0 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /old/sipXportLib/main/src/test/testplugin
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 20
+file 7h.0.r587/17750
+K 6
+README
+V 20
+file 9i.0.r381/95026
+K 2
+os
+V 18
+dir 7l.0.r542/1890
+K 16
+sipXportTest.dsp
+V 21
+file ap.0.r510/225328
+K 8
+sipxunit
+V 20
+dir a5.0.r444/131295
+K 10
+testplugin
+V 16
+dir dd.0.r596/72
+K 3
+utl
+V 18
+dir 87.0.r594/3889
+END
+ENDREP
+id: 7g.0.r596/582
+type: dir
+pred: 7g.0.r594/4352
+count: 120
+text: 596 296 273 273 0ed6a9ffbd87823ed0f00f05a105e1af
+props: 187 819 164 0 f7209600c6d1d54deaaf13b7bc5534cf
+cpath: /old/sipXportLib/main/src/test
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 20
+file 4e.0.r587/21250
+K 4
+glib
+V 19
+dir cv.0.r524/13919
+K 2
+os
+V 18
+dir 4m.0.r593/5763
+K 4
+test
+V 17
+dir 7g.0.r596/582
+K 3
+utl
+V 18
+dir 89.0.r594/6088
+K 9
+xmlparser
+V 20
+dir 8s.0.r444/152612
+END
+ENDREP
+id: 4d.0.r596/1033
+type: dir
+pred: 4d.0.r594/6489
+count: 254
+text: 596 804 216 216 66fa79a4865b6389bc44ca6aea4f3859
+props: 187 1410 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /old/sipXportLib/main/src
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 20
+file 4.0.r381/145534
+K 9
+ChangeLog
+V 20
+file 5.0.r444/130192
+K 7
+INSTALL
+V 18
+file 6.0.r514/2774
+K 7
+LICENSE
+V 20
+file 7.0.r444/115426
+K 11
+Makefile.am
+V 18
+file 8.0.r582/2290
+K 4
+NEWS
+V 20
+file 9.0.r381/150995
+K 6
+README
+V 20
+file a.0.r381/145234
+K 4
+TODO
+V 20
+file b.0.r381/149109
+K 9
+acsite.m4
+V 19
+file c.0.r381/72051
+K 3
+bin
+V 17
+dir as.0.r590/887
+K 6
+config
+V 18
+dir 91.0.r582/2070
+K 12
+configure.ac
+V 19
+file d.0.r587/21941
+K 3
+doc
+V 19
+dir ac.0.r587/22620
+K 7
+include
+V 17
+dir e.0.r595/1993
+K 4
+meta
+V 18
+dir b6.0.r425/2853
+K 15
+sipXportLib.dsp
+V 20
+file 4c.0.r522/17767
+K 18
+sipXportLib.vcproj
+V 18
+file ba.0.r462/771
+K 19
+sipxportlib.spec.in
+V 19
+file aq.0.r570/3667
+K 3
+src
+V 18
+dir 4d.0.r596/1033
+K 12
+syslogviewer
+V 17
+dir 8y.0.r560/922
+END
+ENDREP
+id: 3.0.r596/2041
+type: dir
+pred: 3.0.r595/3001
+count: 480
+text: 596 1251 777 777 62e5d02b0611601b6aa3de868846bbef
+props: 582 3303 828 0 6d6185b2e47d7125df15d89d99ec1fb1
+cpath: /old/sipXportLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir ar.0.r581/4112
+K 4
+main
+V 17
+dir 3.0.r596/2041
+K 4
+tags
+V 18
+dir an.0.r573/2100
+END
+ENDREP
+id: 2.0.r596/2374
+type: dir
+pred: 2.0.r595/3334
+count: 594
+text: 596 2255 106 106 5b41a22e036aeec6a7aa3fb1c43430e6
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r596/2374
+END
+ENDREP
+id: 1.0.r596/2585
+type: dir
+pred: 1.0.r595/3545
+count: 595
+text: 596 2528 44 44 81162c9f15ae3384e6fb75fad96c3ca3
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r596/2585
+END
+ENDREP
+id: 0.0.r596/2773
+type: dir
+pred: 0.0.r595/3733
+count: 596
+text: 596 2725 35 35 1fb2591ba2cdcbcbfd61c2fa6031ec4d
+cpath: /
+copyroot: 0 /
+
+dd.0.t595-1 modify false true /old/sipXportLib/main/src/test/testplugin
+
+
+2773 2910

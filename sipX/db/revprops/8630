@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-01-26T15:23:55.365280Z
+K 7
+svn:log
+V 106
+XCS-73 - install cert remotly script was breaking out of loop unnec, ignoring cert name/remote server name
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-24T19:43:48.343340Z
+K 7
+svn:log
+V 76
+Add test-config to provide a sample configuration for developers and users.
+
+END

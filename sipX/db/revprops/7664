@@ -1,0 +1,31 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-05T19:47:52.710231Z
+K 7
+svn:log
+V 849
+mergefrom pingtel-main 5192
+
+Update how NOTIFY bodies are constructed to allow customized content
+to be generated for events that have no published content.
+Change how memory is managed in the event publisher interface to make
+life easier for callers.
+Revise the users of the SUBSCRIBE server (including sipXtapi) to use
+the changed interface.
+Fix dialog event publisher to use the new default content constructor
+and not null out content when the last call terminates.
+Fix destructor for SipPublishContentMgr to delete sub-structures, to
+reduce memory leaks.
+Add debugging method to HttpBody.
+Extend the number of places where eventType is used along side of
+eventTypeKey, in order to support new default content constructors, as
+well as to make the interfaces more regular.
+Update unit tests.
+Improve comments in sipXtackLib/src/test/Makefile.am.
+
+END

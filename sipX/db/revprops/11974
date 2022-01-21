@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-10-11T14:10:40.279738Z
+K 7
+svn:log
+V 65
+Log if NetInTask does not have a free slot for a new socket pair
+
+END

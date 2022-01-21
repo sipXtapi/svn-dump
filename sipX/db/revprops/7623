@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-01T13:46:49.861678Z
+K 7
+svn:log
+V 49
+mergefrom sipx 7588-7621
+
+Update from sipX main.
+
+END

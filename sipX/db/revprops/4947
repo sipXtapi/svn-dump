@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-08-31T16:26:17.833115Z
+K 7
+svn:log
+V 68
+cleanup user group tree migration and add phone group tree migration
+END

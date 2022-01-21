@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-05-27T12:48:22.996059Z
+K 7
+svn:log
+V 259
+Disable MpOutputDeviceDriverTest::testDirectWrite() unittet with following comment:
+
+   // This test is disabled, because it audio quality during it may be very bad.
+   // Thus enable it only to test brand new drivers, which don't support notifications yet.
+
+
+END

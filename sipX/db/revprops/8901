@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-24T21:16:10.093199Z
+K 7
+svn:log
+V 388
+Initialized merge tracking with sipXtackLib main branch from revisions "7992". Merged revisions 8004 via svnmerge from https://scm.sipfoundry.org/rep/sipX/main/sipXtackLib
+
+........
+  r8004 | dworley | 2006-11-16 05:25:13 +0300 | 12 lines
+  
+  mergefrom pingtel-main 7525
+  
+  Only report on messages processed by SipUserAgent::handleMessage if
+  its queue exceeds 100 messages.
+........
+
+END

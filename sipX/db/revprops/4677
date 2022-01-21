@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-09-17T18:29:33.775505Z
+K 7
+svn:log
+V 277
+- Added -Werror to CXXFLAGS and removed all warnings
+- Delete obsolete code (or code that was only REALLY useful
+  to the hardphone)
+- Modified startup script under linux (sipXphone.sh.in) to tweak
+  the java.library.path env when invoking the JDK
+- Deleted empty directories
+
+
+END

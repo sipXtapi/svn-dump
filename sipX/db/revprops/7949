@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-11-07T00:15:30.625829Z
+K 7
+svn:log
+V 165
+Merge sipXtack from main to sipXtapi branch (2 of N)
+(Main branch 7799)
+
+This change includes some low hang fruit (siptest, siplog2siptrace) and resparse changes.
+
+
+
+END

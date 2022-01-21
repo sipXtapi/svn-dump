@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+cypromis
+K 8
+svn:date
+V 27
+2006-07-11T17:13:47.862435Z
+K 7
+svn:log
+V 122
+new solaris port dir. This one will b e maintained correctly and
+merged bi daily with main. It is completely based on main
+END

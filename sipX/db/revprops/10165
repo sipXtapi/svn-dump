@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-16T21:13:24.745934Z
+K 7
+svn:log
+V 56
+Update codecs plugins filename filter to support Linux.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-08-23T11:44:58.485159Z
+K 7
+svn:log
+V 36
+Fix incoming RFC2833 DTMF handling.
+
+END

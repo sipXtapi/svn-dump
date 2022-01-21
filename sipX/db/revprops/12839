@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2021-06-28T15:03:53.726864Z
+K 7
+svn:log
+V 742
+-NetInTask Changes
+  -cleanup - move a number of static variables and methods to be class members
+  -modify NET_TASK_MAX_FD_PAIR from 100 to 300 to support more RTP sessions
+  -for windows define FD_SETSIZE as 1024 (defaults to 64) to allow more RTP sessions
+  -added a createNetInTask API to support NetInTask being used as a non-singleton 
+  -don't call MpUdpBufPtr methods if we failed to read a packet (ie: nRead <= 0)
+-MprFromNet/sipXmediaFactoryImpl - added ability to have a NetInTask per flow graph 
+  (via ENABLE_MULTIPLE_NETINTASKS define)
+-MpMisc - increase buffer size for UdpPool to support more simultaneous calls / streams
+-MpMediaTask - increase MpSignalMsgPool softlimit to remove warnings when running 100's of calls/streams
+END

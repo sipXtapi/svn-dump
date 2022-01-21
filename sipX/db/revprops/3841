@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-04-25T23:17:56.421725Z
+K 7
+svn:log
+V 312
+XCF-346 workaround for Tomcat problems with properly invalidating single sign-on session that have indefinite timeout
+- set timeout explicitly to 120 minutes for both profilegenerator and web/neoconf
+- remove calls to session.setMaxInactiveInterval from index.jsp (user portal) and initialize.jsp (admin portal)
+
+END

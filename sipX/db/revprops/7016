@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-06-29T17:13:49.229419Z
+K 7
+svn:log
+V 64
+Simplify the deleteFile method -- remove the input wrapper type
+
+END

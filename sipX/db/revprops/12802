@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2021-01-18T04:43:07.812796Z
+K 7
+svn:log
+V 91
+Catch MI messages for device NOT_PRESENT, fireSipXtapi events with appropriate fields set.
+
+END

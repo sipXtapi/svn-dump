@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-01-12T20:45:41.038842Z
+K 7
+svn:log
+V 260
+Initial experiment to free up CPP UNIT dependency.
+Testing this for UtlInt.cpp as a first step.
+This is in prepartion for running unit tests on platforms that 
+cannot support CPP UNIT.  E.g. Android does not support exceptions
+which are required by CPP UNIT.
+
+
+END

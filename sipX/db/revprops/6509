@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-04-03T20:04:45.735865Z
+K 7
+svn:log
+V 185
+Merged revisions 6481-6508 via svnmerge from
+/branches/3.2/sipXconfig
+XCF-982 Fix unit tests that break when DST is in effect and flawed DST offset date calculation for CiscoATA phones
+
+END

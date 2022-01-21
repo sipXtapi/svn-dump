@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-06-23T14:11:07.126455Z
+K 7
+svn:log
+V 59
+Create sipXunit as a library to be shared across projects
+
+
+END

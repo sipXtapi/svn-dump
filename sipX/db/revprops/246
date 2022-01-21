@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-06T20:38:21.220828Z
+K 7
+svn:log
+V 132
+http://track.sipfoundry.org/browse/XPB-66
+Build and install libmod_cplusplus and libmid_sipxauth into the Apache
+modules directory.
+
+END

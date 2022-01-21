@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2020-06-26T02:17:24.716029Z
+K 7
+svn:log
+V 73
+Fixed output directory for sipXtapi MS2019 build, Release configuration.
+
+END

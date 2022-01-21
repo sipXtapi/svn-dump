@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-05-03T23:48:10.446974Z
+K 7
+svn:log
+V 269
+Added global lock to sipxCallLookupHandle to prevent problems with sipxCallObjectFree without garbage collection.
+
+Fixed sipxCallObjectFree, it shouldn't require garbage collection anymore. Removed garbage collection code from SipXMessageObserver.
+
+Added some asserts.
+
+END

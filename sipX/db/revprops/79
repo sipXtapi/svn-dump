@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-06-19T02:51:49.564198Z
+K 7
+svn:log
+V 126
+make UtlContainer inherit from UtlContainable so that containers
+and go in one another.
+Clean up all UtlContainerType usages.
+
+END

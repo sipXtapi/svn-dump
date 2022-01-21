@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-01-16T18:43:38.757981Z
+K 7
+svn:log
+V 138
+[XRR-86] add configuration of and access to RegistrarPeer objects
+With a bare-bones unit test.
+
+http://track.sipfoundry.org/browse/XRR-86
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2020-02-27T06:11:31.780004Z
+K 7
+svn:log
+V 79
+Fixed compiler errors in MprRecorder for case when Opus recording is disabled.
+
+END

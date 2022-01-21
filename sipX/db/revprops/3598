@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-03-02T17:43:29.866698Z
+K 7
+svn:log
+V 106
+XCF-204 workaround - some fields in USERS table can be NULL: we need to bind them to Integer (not to int).
+END

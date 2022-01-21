@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-08-31T20:38:34.995985Z
+K 7
+svn:log
+V 80
+fix type change in RedirectResume that I half-merged; fixes Windows build error?
+END

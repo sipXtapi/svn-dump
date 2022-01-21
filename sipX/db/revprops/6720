@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-05-03T14:37:33.057063Z
+K 7
+svn:log
+V 106
+Send dialog event report via mail rather than outputting it to stdout
+(so cron will mail it to the user).
+
+END

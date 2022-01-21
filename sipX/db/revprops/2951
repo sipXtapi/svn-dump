@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-03-04T18:27:10.220829Z
+K 7
+svn:log
+V 65
+Set the maximum calls to 50.
+Turn off OpenVXI logging to stdout.
+
+END

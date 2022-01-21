@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-11-30T16:03:35.639352Z
+K 7
+svn:log
+V 95
+Added script to package up Windows src distribution
+Include LICENSE.txt in binary distribution
+
+END

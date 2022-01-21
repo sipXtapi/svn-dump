@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-12T18:21:39.562792Z
+K 7
+svn:log
+V 134
+sipXmediaLib: Make MpMMTimer more C++-ish and remove unused and never implemented functions.
+E.g. make virtual functions non-inlined.
+
+END

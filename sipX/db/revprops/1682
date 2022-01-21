@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-23T19:27:17.642577Z
+K 7
+svn:log
+V 375
+Add variable-substitution feature to CallScript and CallScriptDriver.
+Update CallScript.cpp to work with the updated TAPI.
+Correct CallScript.cpp's usage message.
+Use "const char *" as appropriate for character strings.
+Delete unused variable.
+Update scripts leave-message and retrieve-message to use a variable ${TO}
+to determine where to call.
+Improve documentation a bit.
+
+END

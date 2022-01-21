@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-09-23T22:10:45.326593Z
+K 7
+svn:log
+V 180
+Add the framework for a tarball and rpm build.
+  There are problems with this in that the resiprocate library does
+  not have an rpm build, so there is no standard way to find it.
+
+END

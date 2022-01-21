@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-06-08T14:42:35.049744Z
+K 7
+svn:log
+V 332
+BuildFix: Linux build
+
+1) I left in a few WIN32ism (OuputDebugString and Sleep)
+2) FC5/gcc 4.1.1-1 is fairly picky -- It does not allows the following:
+
+class MyClassName
+{
+public:
+   void MyClassName::MyFunction1() ;
+   void MyFunction2() ;
+}
+
+An error was thrown whenever a function declaration followed the MyFunction1 example.
+
+
+END

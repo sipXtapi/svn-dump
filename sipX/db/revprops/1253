@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-11T20:03:36.920598Z
+K 7
+svn:log
+V 177
+Add a mutex, mLock, to protect the member variables for the codec list
+in MprDecode, which also protects mpPayloadMap in MpConnection.
+http://track.sipfoundry.org/browse/XMR-29
+
+END

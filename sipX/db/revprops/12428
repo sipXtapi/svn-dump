@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-06-27T07:51:29.883257Z
+K 7
+svn:log
+V 69
+Pass number of record channels through CpPeerCall to media interface
+
+END

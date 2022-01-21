@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-03-24T18:55:16.577128Z
+K 7
+svn:log
+V 223
+When the Call Resolver starts, check that the required min version of Ruby is installed.  If not then log an error because the Call Resolver has not been tested with pre-1.8 versions of Ruby and who knows what will happen.
+
+END

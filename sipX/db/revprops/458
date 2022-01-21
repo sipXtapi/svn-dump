@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-03-21T18:35:32.018606Z
+K 7
+svn:log
+V 94
+If delete of underlying semaphore failes in destructor, log error
+but do not raise assertion.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-08-29T20:26:26.530557Z
+K 7
+svn:log
+V 197
+Remove sipagent. It's obsoleted JNI code for profilepublisher.  Support for sipXphone should be built using sipXpublisher project and not using JNI to stack maintaining subscription on internal DB.
+END

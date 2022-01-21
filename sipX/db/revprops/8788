@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-02-14T23:35:01.956389Z
+K 7
+svn:log
+V 88
+XCF-1517 Add support for uploading LG-Nortel firmware. (That was easy: thanks Douglas!)
+
+END

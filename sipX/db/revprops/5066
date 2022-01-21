@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-19T17:28:47.608484Z
+K 7
+svn:log
+V 216
+Address extension uniqueness by putting all SIP usernames in a single user_name table.  Check this code into a side branch because it turned out to be too complicated, but it's worth keeping it around for reference.
+
+END

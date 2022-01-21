@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-17T05:49:42.144338Z
+K 7
+svn:log
+V 78
+Checking in G.722 codec wrapper plugin.
+Only VS2005 project is available now.
+
+END

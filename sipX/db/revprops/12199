@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2014-06-06T19:19:11.034526Z
+K 7
+svn:log
+V 44
+Added make targets to build contrib/libopus
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-09-10T16:47:43.394227Z
+K 7
+svn:log
+V 125
+Give the IMDB file name when the open fails to 
+create the file.  This is most likely because the
+directory does not exist.
+
+
+END

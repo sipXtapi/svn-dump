@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-01-24T20:29:33.914830Z
+K 7
+svn:log
+V 76
+XCF-890 Sample CSV showing proper import of users w/username alias collision
+END

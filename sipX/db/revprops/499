@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-04-03T16:54:40.877808Z
+K 7
+svn:log
+V 455
+A few tweaks to the current stun implementation/integration:
+
+1) STUN packets were mistakenly returned back to callers of the
+   OsStunDatagramSocket.  It seems that all of existing the callers
+   (Sip clients and RTP/RTCP clients) handle unexpected packet data
+   fairly well. =)
+2) Added more documentation to the OsStunDatagramSocket header file
+3) Hardened the interface and implementation with asserts, check for
+   memory allocation failures, etc.
+
+
+END

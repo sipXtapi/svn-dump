@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-10-21T18:01:25.995323Z
+K 7
+svn:log
+V 52
+Bug XCF-47: Config server not listing registrations.
+END

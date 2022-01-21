@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-03-29T21:08:05.785928Z
+K 7
+svn:log
+V 201
+- Remove manipulation of UID.
+- Move modification of real-time scheduling options so that
+  they occur within the context of the affected thread.
+- Add locking of memory of real-time priority threads.
+
+END

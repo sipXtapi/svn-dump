@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-08-23T18:56:18.769482Z
+K 7
+svn:log
+V 714
+Support in MprFromFile for getting progress updates via Notifications.
+Some form of "cookie" will still need to be added to this so that upper layers will know what audio files/buffers the notifications are referring to, but as of now, there is progress notification support.  Additionally, support for setting progress period is not accessible by users of sipXmediaAdapterLib yet, as the interface has not been determined yet.
+
+To use this, one needs to enable notifications, provide a dispatcher to mediaAdapterLib, set an update period in MprFromFile (static method in MprFromFile -- not connected up to sipXmediaAdapterLib yet), then just poll the notification dispatcher for incoming update progress messages.
+END

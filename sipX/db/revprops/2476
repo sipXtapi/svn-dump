@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-08T00:59:31.224524Z
+K 7
+svn:log
+V 120
+Organize mapping-rules and fallback-rules into two instances of one class.
+(This check-in compiles, but might not run.)
+
+END

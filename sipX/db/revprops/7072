@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-07-12T18:12:40.705569Z
+K 7
+svn:log
+V 152
+First pass at XCF-1100, Improve Implementation of Gateways. Add a "SIP trunk" gateway type that has generic gateway fields but omits the serial number.
+
+END

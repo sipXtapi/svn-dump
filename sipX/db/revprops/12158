@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2013-09-19T17:39:45.338813Z
+K 7
+svn:log
+V 109
+Do not disable inpout device when destroying mediaInterface.
+Other media interfaces may be using the device.
+
+END

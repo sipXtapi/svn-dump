@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-08-25T20:53:21.496299Z
+K 7
+svn:log
+V 351
+Merged revisions 7274 via svnmerge from
+https://scm.sipfoundry.org/rep/sipX/main
+  | ................................
+  | r7274 | xmlscott | 2006-08-16 13:31:20 -0400 (Wed, 16 Aug 2006) | 3 lines
+  | Change the 'config' subdirectories from svn:externals to symbolic links
+  |   (get rid of acsite.m4 by folding it into configure.as where it belonged)
+
+END

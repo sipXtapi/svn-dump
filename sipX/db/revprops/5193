@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-09-26T19:26:14.914267Z
+K 7
+svn:log
+V 77
+Temporary fix setting CPPUNIT_CFLAGS and CPPUNIT_LDFLAGS so sipX will build.
+
+END

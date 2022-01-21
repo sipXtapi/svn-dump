@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-24T20:15:15.300662Z
+K 7
+svn:log
+V 661
+XCF-888 Looks like getting a database snapshot was subtly interacting with Hibernate check for dirty properties: as a result if you only modified user aliases the object was never saved (or was saved without calling interceptor that indexes the object).
+I modified the GetOriginalValueCallback to call getDatabaseSnapshot directly on persister (calling this on persisterContext was creating a cache entry that was fooling hibernate).
+Quite frankly I am not sure if we are using API incorrectly or may be stepping on a hibernate bug here but modified code seems to work OK. I also added a UserTestDb.testUpdateAliases to make sure we are doing this correctly.
+ 
+
+END

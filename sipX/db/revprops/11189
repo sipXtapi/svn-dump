@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-15T15:31:05.564610Z
+K 7
+svn:log
+V 81
+sipXmediaLib: Signal MpMMTimerPosix on every overrun. We mustn't miss any event.
+
+END

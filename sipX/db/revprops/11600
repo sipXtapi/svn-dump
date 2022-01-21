@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-03-09T07:33:17.590189Z
+K 7
+svn:log
+V 67
+Rearranged source in libs to make sipXtapi shared lib. on Android.
+
+END

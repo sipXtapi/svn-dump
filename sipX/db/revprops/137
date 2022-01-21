@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-07-12T16:36:25.655569Z
+K 7
+svn:log
+V 66
+memory allocated by strdup should be released with free, no delete
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-03-23T14:37:30.388726Z
+K 7
+svn:log
+V 128
+Add methods to sipXmediaLib to change PLC algorithm on the fly.
+Also some documentation and better debugging information added.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-05T04:39:21.078483Z
+K 7
+svn:log
+V 204
+XCF-140 - Remove warnings in tomcat logs.  Velocity warning, create empty global macro file, hibernate remove jcs-cache referencs to caches we haven't configured yet.  see http://www.hibernate.org/61.html
+END

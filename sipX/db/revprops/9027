@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-03-09T00:52:21.495989Z
+K 7
+svn:log
+V 92
+Added unit tests to eVC4 projects.
+
+sipXportLib: OsServerTaskTest
+sipXtackLib: HttpBodyTest
+
+END

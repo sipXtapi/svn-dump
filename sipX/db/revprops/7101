@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-07-19T21:42:34.836027Z
+K 7
+svn:log
+V 104
+For XCF-1114: check in working intercom UI. Saves intercom settings but doesn't yet do anything useful.
+
+END

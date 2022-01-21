@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-08-26T20:27:33.414650Z
+K 7
+svn:log
+V 273
+[XRR-113] Make parallel forking of SUBSCRIBE not use mapping and fallback rules
+          If rules added by mappingrules or fallbackrules are lower q
+          values, then the redirector will leave them that way.  This
+          will reduce useless and expensive traffic.
+
+END

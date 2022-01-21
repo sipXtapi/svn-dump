@@ -1,0 +1,172 @@
+PLAIN
+K 13
+svn:externals
+V 76
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/user_ping/config
+
+K 10
+svn:ignore
+V 169
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxvxml-*.tar.gz
+sipxvxml.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 52
+https://scm.sipfoundry.org/rep/sipXvxml/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 25
+1-141,144-145,153,160,188
+K 17
+svnmerge-2.8-head
+V 52
+https://scm.sipfoundry.org/rep/sipXvxml/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 29
+1-226,230,235-237,239,241,244
+K 18
+svnmerge-main-head
+V 44
+https://scm.sipfoundry.org/rep/sipXvxml/main
+K 18
+svnmerge-main-revs
+V 5
+1-255
+END
+ENDREP
+id: 22d.gr.r2989/692
+type: dir
+pred: 22d.0.r2988/4389
+count: 177
+text: 2988 3666 710 710 867b1596ecd569c416767f9401ef0cee
+props: 2989 0 679 0 096e917cc59998ffaeb9695a783787a6
+cpath: /old/sipXvxml/branches/user_ping
+copyfrom: 2988 /old/sipXvxml/main
+
+PLAIN
+K 3
+2.6
+V 21
+dir 22d.fx.r2935/6211
+K 3
+2.8
+V 21
+dir 22d.gm.r2984/1043
+K 9
+user_ping
+V 20
+dir 22d.gr.r2989/692
+END
+ENDREP
+id: 2h1.0.r2989/1069
+type: dir
+pred: 2h1.0.r2984/1383
+count: 40
+text: 2989 942 114 114 9830c900e48fd50c065b5a5a837be6bf
+cpath: /old/sipXvxml/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 2h1.0.r2989/1069
+K 4
+main
+V 20
+dir 22d.0.r2988/4389
+K 4
+tags
+V 20
+dir 2gd.0.r2987/2076
+END
+ENDREP
+id: 22c.0.r2989/1360
+type: dir
+pred: 22c.0.r2988/4734
+count: 256
+text: 2989 1234 113 113 ce8e9933b3ad44fe7b0ab82dd3497357
+cpath: /old/sipXvxml
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r2989/1360
+END
+ENDREP
+id: 1.0.r2989/1920
+type: dir
+pred: 1.0.r2988/5294
+count: 2988
+text: 2989 1518 389 389 5cd36e0d974126c2e38c5fa78d4db4ca
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2989/1920
+END
+ENDREP
+id: 0.0.r2989/2115
+type: dir
+pred: 0.0.r2988/5489
+count: 2989
+text: 2989 2066 36 36 3b9b251dbdcadbc64d6f77c3df83c63d
+cpath: /
+copyroot: 0 /
+
+22d._0.t2988-1 add false true /old/sipXvxml/branches/user_ping
+2988 /old/sipXvxml/main
+
+2115 2256

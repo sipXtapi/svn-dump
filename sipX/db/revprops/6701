@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-05-01T18:48:14.300666Z
+K 7
+svn:log
+V 1082
+Merge 6683,6688,6689 from sipfoundry 3.4:
+
+Make find_call_request more precise about which INVITE it uses, per XPR-146. Clean up call resolver code and enhance debug logging, per XPR-127.
+
+In support of XPR-146, add a max_clock_diff parameter that will be used to decide how far out of sync clocks in an HA configuration can be before we label a CDR as bad.
+In CallResolverConfigure, validate int params to be ints and optionally to lie within a min-max range.
+
+Remove the "redo" flag -- low priority and partially implemented, so confusing to leave it in the code.
+Drop the DB constraints mandating that start time, connect time, and end time be in time sequence.  In an HA configuration, they might be misordered due to clock differences.  Simply record the observed times rather than trying to correct that at the data level -- let the reporting level make those decisions.  Along those lines, remove the max clock diff config param.
+Add to the user guide an explanation that times supplied in command-line args are interpreted in the local time zone unless otherwise specified.
+
+END

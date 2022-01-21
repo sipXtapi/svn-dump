@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-03-23T18:48:10.058980Z
+K 7
+svn:log
+V 240
+Correct the test of the DNS resolution of the SIP domain name:
+The SIP domain name can route to this server without the resolution
+mentioning the name of this server.  Hence, check resolution against
+this server's IP address, not its name.
+
+END

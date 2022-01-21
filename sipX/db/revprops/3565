@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-02-22T20:24:53.166281Z
+K 7
+svn:log
+V 150
+Introduced FlexibleDialPlanContext interface. UI layer is using interface only.
+Removed TestUiHelper - its functionality is replaced by SiteUiHelper.
+
+END

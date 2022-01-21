@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-11-01T15:31:08.447663Z
+K 7
+svn:log
+V 65
+add blank.html and index.html to rpm spec file and 'make install'
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-11-12T22:23:09.244438Z
+K 7
+svn:log
+V 61
+add 489 for rejecting unsupported event package subscriptions
+END

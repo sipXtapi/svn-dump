@@ -1,0 +1,214 @@
+PLAIN
+K 10
+svn:ignore
+V 57
+Doxyfile
+Makefile
+Makefile.in
+html
+sipxvxml
+sipxvxml.tag
+
+END
+ENDREP
+id: 2gf.gm.r2977/96
+type: dir
+pred: 2gf.0.r2956/50710
+count: 31
+text: 2956 50476 221 221 f1dbe411bb1f376f8daf9b273e42c237
+props: 2977 0 83 0 0775129ae6992baa9f6331d11c140c02
+cpath: /old/sipXvxml/branches/2.8/doc
+copyroot: 2959 /old/sipXvxml/branches/2.8
+
+PLAIN
+K 7
+AUTHORS
+V 22
+file 22e.0.r2903/20704
+K 12
+CONTRIBUTORS
+V 22
+file 2h3.0.r2903/68683
+K 7
+COPYING
+V 22
+file 22f.0.r2956/51695
+K 9
+ChangeLog
+V 22
+file 22g.0.r2956/15190
+K 7
+INSTALL
+V 22
+file 22h.0.r2903/74726
+K 11
+Makefile.am
+V 21
+file 22i.gm.r2974/120
+K 4
+NEWS
+V 23
+file 22j.0.r2903/186996
+K 6
+README
+V 22
+file 22k.0.r2903/68375
+K 9
+acsite.m4
+V 22
+file 22l.0.r2903/21604
+K 3
+bin
+V 21
+dir 22m.0.r2956/51375
+K 12
+configure.ac
+V 21
+file 22o.gm.r2963/513
+K 3
+doc
+V 19
+dir 2gf.gm.r2977/96
+K 3
+etc
+V 21
+dir 22p.gm.r2969/3278
+K 7
+include
+V 21
+dir 22u.0.r2956/14136
+K 2
+js
+V 22
+dir 23o.0.r2956/132805
+K 4
+meta
+V 21
+dir 2cs.0.r2956/15022
+K 16
+sipxvxml.spec.in
+V 21
+file 2h0.gm.r2963/244
+K 3
+src
+V 21
+dir 2cu.gm.r2972/1502
+END
+ENDREP
+id: 22d.gm.r2977/1081
+type: dir
+pred: 22d.gm.r2974/1117
+count: 172
+text: 2977 351 717 717 a5fb4b48c4b191a1b5b7218f1f6874cb
+props: 2959 0 534 0 4fd6dcfc25b8fd464541f0a56b8a4116
+cpath: /old/sipXvxml/branches/2.8
+copyroot: 2959 /old/sipXvxml/branches/2.8
+
+PLAIN
+K 3
+2.6
+V 21
+dir 22d.fx.r2935/6211
+K 3
+2.8
+V 21
+dir 22d.gm.r2977/1081
+END
+ENDREP
+id: 2h1.0.r2977/1421
+type: dir
+pred: 2h1.0.r2974/1457
+count: 38
+text: 2977 1334 74 74 036e54641371a78c4239ca2ad16c81a6
+cpath: /old/sipXvxml/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 2h1.0.r2977/1421
+K 4
+main
+V 20
+dir 22d.0.r2975/1750
+K 4
+tags
+V 20
+dir 2gd.0.r2976/2032
+END
+ENDREP
+id: 22c.0.r2977/1711
+type: dir
+pred: 22c.0.r2976/2321
+count: 244
+text: 2977 1585 113 113 ce6296d87fb13f396de8e9c65a7a0704
+cpath: /old/sipXvxml
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r2977/1711
+END
+ENDREP
+id: 1.0.r2977/2271
+type: dir
+pred: 1.0.r2976/2881
+count: 2976
+text: 2977 1869 389 389 f12589d67754407825d4d44ad1e19353
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2977/2271
+END
+ENDREP
+id: 0.0.r2977/2466
+type: dir
+pred: 0.0.r2976/3076
+count: 2977
+text: 2977 2417 36 36 0e68577e32a146b187f91df7f9157ffc
+cpath: /
+copyroot: 0 /
+
+2gf.gm.t2976-1 modify false true /old/sipXvxml/branches/2.8/doc
+
+
+2466 2607

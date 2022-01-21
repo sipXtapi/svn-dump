@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-11-07T19:27:18.124788Z
+K 7
+svn:log
+V 43
+Fixes for --daily-run and --purge options.
+
+END

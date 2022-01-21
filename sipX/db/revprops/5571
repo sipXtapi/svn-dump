@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-11-13T17:41:48.516119Z
+K 7
+svn:log
+V 153
+store more fields in index to support displaying results without database access
+use transformer in SearchIndex interface to support translating results
+
+END

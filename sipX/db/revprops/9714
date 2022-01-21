@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-21T16:10:20.589344Z
+K 7
+svn:log
+V 470
+Added utility class for generic DSP functions, it will be used by resources, which require intensive computations.
+It is designed to contain only static functions, usable from everywhere. It is also designed to support floating point and fixed point operations, selectable at compile time.
+This class is a good place for platform specific optimizations. In fact, it is supposed to the only place for asm inlines and so on. Generic code should be kept generic and clean.
+
+END

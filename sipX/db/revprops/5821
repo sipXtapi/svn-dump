@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-07T01:20:00.750483Z
+K 7
+svn:log
+V 166
+XCF-805 change Started status to OK
+new LocalizedTableRendererSource added to enable localization of the text displayed in table columns - usually enumeration values
+
+END

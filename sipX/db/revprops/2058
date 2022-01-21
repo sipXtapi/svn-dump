@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-04-25T21:01:43.030082Z
+K 7
+svn:log
+V 493
+Merged revisions 260 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.8
+    
+    r260 | xmlscott | 2005-04-25 16:48:34 -0400 (Mon, 25 Apr 2005) | 8 lines
+    XPB-276 Merge install-keystore into install-cert
+        This installs the jboss copy of the certificate.
+        In the process, I made the script use the more portable install_sh script
+        and use the copy of openssl found by the configure script.
+        http://track.sipfoundry.org/browse/XPB-276
+
+END

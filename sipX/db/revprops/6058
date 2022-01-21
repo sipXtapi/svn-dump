@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-02-06T22:43:03.658804Z
+K 7
+svn:log
+V 90
+Arrange for --verbose switch to print out the "autoreconf" and
+"configure" command lines.
+
+END

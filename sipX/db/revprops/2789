@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-13T16:45:00.126807Z
+K 7
+svn:log
+V 114
+Move build-script (renamed build-script.sh) and build-notes from
+sipXpbx/doc/developer to sipXvxml/doc/developer.
+
+END

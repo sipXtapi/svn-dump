@@ -1,0 +1,216 @@
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 1z6.0.r2324/60
+type: dir
+pred: 1z6.0.r2323/1305
+count: 2
+text: 2323 962 330 330 61db272481d628e14efa09454e02a153
+props: 2324 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXregistry/main/doc
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 46
+.deps
+.libs
+Makefile
+Makefile.in
+sipregistrar
+
+END
+ENDREP
+id: 1yq.0.r2324/363
+type: dir
+pred: 1yq.0.r2322/1000
+count: 9
+text: 2322 322 665 665 9c78b36d73c7d44258b1ebb923e89672
+props: 2324 278 72 0 6f5a8267934fd4c2bfd6e818e833f306
+cpath: /old/sipXregistry/main/src
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1y6.0.r2300/66299
+K 9
+ChangeLog
+V 20
+file 1y7.0.r2317/342
+K 7
+INSTALL
+V 21
+file 1y8.0.r2318/7772
+K 7
+LICENSE
+V 22
+file 1y9.0.r2300/57828
+K 11
+Makefile.am
+V 20
+file 1ya.0.r2319/280
+K 4
+NEWS
+V 22
+file 1yb.0.r2300/66153
+K 6
+README
+V 22
+file 1yc.0.r2300/66500
+K 4
+TODO
+V 22
+file 1yd.0.r2300/58245
+K 9
+acsite.m4
+V 22
+file 1ye.0.r2300/59380
+K 3
+bin
+V 20
+dir 1yf.0.r2323/1836
+K 12
+configure.ac
+V 21
+file 1yk.0.r2318/5601
+K 3
+doc
+V 18
+dir 1z6.0.r2324/60
+K 3
+etc
+V 20
+dir 1yl.0.r2323/2473
+K 16
+sipXregistry.dsp
+V 20
+file 1z4.0.r2320/278
+K 3
+src
+V 19
+dir 1yq.0.r2324/363
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 126
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+
+END
+ENDREP
+id: 1y5.0.r2324/1443
+type: dir
+pred: 1y5.0.r2323/3252
+count: 20
+text: 2324 584 593 593 d554c9b38d71cf647c2ff1e6e9a931a6
+props: 2324 1190 240 0 c074b067f5accab778e10d7a0e2b211d
+cpath: /old/sipXregistry/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 20
+dir 1y5.0.r2324/1443
+K 4
+tags
+V 20
+dir 1z5.0.r2316/1476
+END
+ENDREP
+id: 1y4.0.r2324/1751
+type: dir
+pred: 1y4.0.r2323/3560
+count: 25
+text: 2324 1664 74 74 a0c48ce430f0af18ec3990e7d07b67c9
+cpath: /old/sipXregistry
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2324/1751
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2324/2228
+type: dir
+pred: 1.0.r2323/4037
+count: 2323
+text: 2324 1910 305 305 74507ab391799a10924e426571595a5a
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2324/2228
+END
+ENDREP
+id: 0.0.r2324/2423
+type: dir
+pred: 0.0.r2323/4232
+count: 2324
+text: 2324 2374 36 36 42205b04379033eb4ade9fac2bc8432e
+cpath: /
+copyroot: 0 /
+
+1z6.0.t2323-1 modify false true /old/sipXregistry/main/doc
+
+1yq.0.t2323-1 modify false true /old/sipXregistry/main/src
+
+1y5.0.t2323-1 modify false true /old/sipXregistry/main
+
+
+2423 2564

@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-11-04T08:03:00.906324Z
+K 7
+svn:log
+V 287
+VC6 does not like CPPUNIT_ASSERT_EQUAL where parameters are 64bit integers
+due to missing output operators for 64bit integers, which CPPUNIT uses when printing out the values to the screen.
+
+Fix for this is just to use only CPPUNIT_ASSERT, and use a standard equal operator expression.
+
+
+END

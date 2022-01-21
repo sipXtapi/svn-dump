@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2007-03-12T20:49:16.997163Z
+K 7
+svn:log
+V 166
+Add CSEs for proxy generated failures (like 404)
+
+Changed the Forking Proxy's CSE generation to include when it generates
+failure conditions.
+
+Fixes XPR-214
+
+--Woof!
+
+END

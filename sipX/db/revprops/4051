@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-06-15T21:21:20.408527Z
+K 7
+svn:log
+V 140
+XCF-350 change order of tables in a file that drives DB unit tests - Postgres 8.x seems to check more constraints and the test were failing
+
+END

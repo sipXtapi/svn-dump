@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-20T08:40:46.263994Z
+K 7
+svn:log
+V 103
+Fire CALLSTATE_DISCONNECTED with CALLSTATE_CAUSE_REQUEST_NOT_ACCEPTED cause if 403 FORBIDDEN received.
+
+END

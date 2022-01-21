@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-16T21:00:11.887062Z
+K 7
+svn:log
+V 144
+Update MMTimerTest to output in CSV format for easy plotting.
+Collect failures as the test runs, and only assert once all test values are shown.
+END

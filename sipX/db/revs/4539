@@ -1,0 +1,643 @@
+PLAIN
+K 15
+!SkinSubFolder!
+V 22
+dir 5re.0.r4454/133933
+K 7
+WebHelp
+V 22
+dir 5rl.0.r4454/124954
+K 11
+Welcome.htm
+V 23
+file 5wu.0.r4454/135271
+K 19
+access_log_page.htm
+V 23
+file 5ww.0.r4454/136294
+K 7
+del.gif
+V 23
+file 5x3.0.r4454/131028
+K 11
+eHlpDhtm.js
+V 22
+file 5x5.0.r4454/53417
+K 12
+editicon.gif
+V 23
+file 5x7.0.r4454/129370
+K 18
+error_log_page.htm
+V 23
+file 5xa.0.r4454/134569
+K 8
+logo.gif
+V 23
+file 5xg.0.r4454/129680
+K 13
+logosmall.gif
+V 23
+file 5xh.0.r4454/138730
+K 34
+manage_distribution_lists_page.htm
+V 23
+file 5xj.0.r4454/137695
+K 22
+manage_groups_page.htm
+V 23
+file 5xk.0.r4454/131723
+K 18
+manage_inboxes.htm
+V 23
+file 5xl.0.r4454/130708
+K 19
+manage_password.htm
+V 23
+file 5xm.0.r4454/128001
+K 22
+mediaadministrator.BRS
+V 23
+file 5xn.0.r4454/130359
+K 22
+mediaadministrator.ali
+V 23
+file 5xo.0.r4454/135946
+K 22
+mediaadministrator.hhc
+V 23
+file 5xp.0.r4454/134918
+K 29
+mediaadministrator.hhc_backup
+V 23
+file 5xq.0.r4454/140470
+K 22
+mediaadministrator.hhk
+V 23
+file 5xr.0.r4454/138061
+K 29
+mediaadministrator.hhk_backup
+V 23
+file 5xs.0.r4454/142898
+K 22
+mediaadministrator.hhp
+V 23
+file 5xt.0.r4454/139417
+K 22
+mediaadministrator.hpr
+V 23
+file 5xu.0.r4454/140832
+K 22
+mediaadministrator.mpj
+V 25
+file 5xv.0.r4122/12814034
+K 22
+mediaadministrator.ppf
+V 23
+file 5xw.0.r4454/140118
+K 12
+pingtel1.css
+V 23
+file 5xy.0.r4454/141185
+K 18
+pingtel_bullet.gif
+V 23
+file 5xz.0.r4454/142198
+K 14
+pingtelbar.gif
+V 23
+file 5y0.0.r4454/126264
+K 13
+procedure.htt
+V 23
+file 5y1.0.r4454/137350
+K 28
+set_system_defaults_page.htm
+V 23
+file 5y3.0.r4454/131363
+K 25
+setting_up_email_page.htm
+V 23
+file 5y4.0.r4454/141528
+K 13
+viewimage.gif
+V 22
+file 5y6.0.r4454/54073
+K 17
+viewimage.gig.gif
+V 23
+file 5y7.0.r4454/125258
+END
+ENDREP
+id: 5rd.0.r4539/1720
+type: dir
+pred: 5rd.0.r4454/145890
+count: 4
+text: 4539 0 1707 1707 ecb80d8b6cd53b9eae202503047f8a6c
+cpath: /old/sipXpbx/main/src/wwwcontent/adminui
+copyroot: 0 /
+
+PLAIN
+K 15
+!SkinSubFolder!
+V 22
+dir 6f4.0.r4454/234173
+K 7
+DEL.GIF
+V 23
+file 6fb.0.r4454/231946
+K 12
+EDITICON.GIF
+V 23
+file 6fc.0.r4454/238226
+K 16
+SIPxchangeVM.pdf
+V 23
+file 6fd.0.r4454/230997
+K 7
+WebHelp
+V 22
+dir 6fe.0.r4454/228943
+K 33
+all_folders_managing_messages.htm
+V 23
+file 6ku.0.r4454/239573
+K 15
+auth_accept.jsp
+V 23
+file 6kv.0.r4454/242374
+K 16
+auth_confirm.jsp
+V 23
+file 6kw.0.r4454/240645
+K 10
+blank.html
+V 24
+file 6o8.yj.r4454/229621
+K 26
+delete_this_folder_hot.gif
+V 23
+file 6kx.0.r4454/238537
+K 11
+eHlpDhtm.js
+V 23
+file 6ky.0.r4454/154878
+K 15
+enduser_nav.png
+V 25
+file 6kz.0.r4122/12882188
+K 10
+index.html
+V 24
+file 6o9.yk.r4454/241644
+K 14
+jsFunctions.js
+V 23
+file 6l0.0.r4454/234804
+K 8
+logo.gif
+V 23
+file 6l2.0.r4454/231318
+K 13
+logosmall.gif
+V 23
+file 6l3.0.r4454/237221
+K 34
+manage_distribution_lists_page.htm
+V 23
+file 6l4.0.r4454/236182
+K 23
+manage_folders_page.htm
+V 23
+file 6l5.0.r4454/236549
+K 25
+manage_greetings_page.htm
+V 23
+file 6l6.0.r4454/235477
+K 15
+mediaserver.ppf
+V 23
+file 6l7.0.r4454/229275
+K 13
+mediauser.ali
+V 23
+file 6l8.0.r4454/235137
+K 13
+mediauser.brs
+V 23
+file 6l9.0.r4454/238880
+K 13
+mediauser.hhc
+V 23
+file 6la.0.r4454/234457
+K 20
+mediauser.hhc_backup
+V 23
+file 6lb.0.r4454/239221
+K 13
+mediauser.hhk
+V 23
+file 6lc.0.r4454/235835
+K 20
+mediauser.hhk_backup
+V 23
+file 6ld.0.r4454/242720
+K 13
+mediauser.hhp
+V 23
+file 6le.0.r4454/236907
+K 13
+mediauser.hpr
+V 23
+file 6lf.0.r4454/240299
+K 13
+mediauser.mpj
+V 25
+file 6lg.0.r4122/12889093
+K 13
+mediauser.ppf
+V 23
+file 6lh.0.r4454/237912
+K 15
+navigation.html
+V 23
+file 6li.0.r4454/237566
+K 8
+note.gif
+V 23
+file 6lj.0.r4454/240962
+K 24
+notify_by_email_page.htm
+V 23
+file 6lk.0.r4454/230321
+K 12
+pingtel1.css
+V 23
+file 6ll.0.r4454/242030
+K 18
+pingtel_bullet.gif
+V 23
+file 6lm.0.r4454/243044
+K 14
+pingtelbar.gif
+V 23
+file 6ln.0.r4454/229978
+K 15
+small_phone.gif
+V 23
+file 6lo.0.r4454/231629
+K 8
+spkr.gif
+V 23
+file 6lp.0.r4454/155539
+K 12
+template.htt
+V 23
+file 6lq.0.r4454/241300
+K 26
+voicemail_not_enabled.html
+V 23
+file 6lr.0.r4454/239940
+K 30
+voicemail_not_enabled_nav.html
+V 23
+file 6ls.0.r4454/232282
+K 11
+welcome.htm
+V 23
+file 6lt.0.r4454/155225
+END
+ENDREP
+id: 6f3.0.r4539/4052
+type: dir
+pred: 6f3.0.r4454/245504
+count: 7
+text: 4539 1904 2135 2135 bc5277fefa300172d538bd95d67aee21
+cpath: /old/sipXpbx/main/src/wwwcontent/userui
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 20
+file 5r9.0.r4519/388
+K 7
+aa_vxml
+V 22
+dir 5ra.0.r4454/146885
+K 7
+adminui
+V 20
+dir 5rd.0.r4539/1720
+K 6
+images
+V 21
+dir 5y8.0.r4454/53145
+K 21
+index-navigation.html
+V 23
+file 6oe.0.r4454/147151
+K 10
+index.html
+V 23
+file 6ob.0.r4454/154551
+K 10
+stdprompts
+V 22
+dir 61m.0.r4464/184171
+K 5
+style
+V 20
+dir 6f1.0.r4454/7833
+K 6
+userui
+V 20
+dir 6f3.0.r4539/4052
+K 7
+vm_vxml
+V 20
+dir 6lu.0.r4486/2358
+END
+ENDREP
+id: 5r8.0.r4539/4670
+type: dir
+pred: 5r8.0.r4519/1070
+count: 20
+text: 4539 4238 419 419 2a43d5e6f34467d16b46e869552c8e5f
+props: 4144 1679 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpbx/main/src/wwwcontent
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 5hc.0.r4454/284715
+K 13
+emailnotifier
+V 21
+dir 5hd.0.r4497/12097
+K 10
+mailboxmgr
+V 21
+dir 5hi.0.r4526/24836
+K 14
+mediaservercgi
+V 20
+dir 5jf.0.r4525/7127
+K 12
+mod_sipxauth
+V 21
+dir 5ji.0.r4497/10826
+K 10
+processcgi
+V 21
+dir 5jm.0.r4497/10178
+K 14
+replicationcgi
+V 21
+dir 5ju.0.r4497/13280
+K 7
+sipxcgi
+V 21
+dir 5jx.0.r4497/11415
+K 4
+test
+V 20
+dir 5k0.0.r4497/4101
+K 8
+watchdog
+V 20
+dir 5kc.0.r4497/5139
+K 10
+wwwcontent
+V 20
+dir 5r8.0.r4539/4670
+END
+ENDREP
+id: 5hb.0.r4539/5389
+type: dir
+pred: 5hb.0.r4526/25559
+count: 120
+text: 4539 4901 475 475 d55b053f4ec41fcf7c09215ba499c0cb
+props: 4144 5413 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpbx/main/src
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4454/288397
+K 9
+ChangeLog
+V 20
+file 5g8.0.r4488/735
+K 7
+INSTALL
+V 23
+file 5g9.0.r4454/289610
+K 7
+LICENSE
+V 19
+file 5ga.0.r4454/82
+K 11
+Makefile.am
+V 21
+file 5gb.0.r4521/2973
+K 4
+NEWS
+V 23
+file 5gc.0.r4454/299658
+K 6
+README
+V 23
+file 5gd.0.r4454/288092
+K 4
+TODO
+V 23
+file 5ge.0.r4454/289304
+K 9
+acsite.m4
+V 21
+file 5gf.0.r4454/4092
+K 3
+bin
+V 20
+dir 5gg.0.r4524/1422
+K 12
+configure.ac
+V 21
+file 5gl.0.r4535/1462
+K 3
+doc
+V 20
+dir 5gm.0.r4538/1838
+K 3
+etc
+V 20
+dir 5gp.0.r4522/1609
+K 7
+include
+V 20
+dir 5h2.0.r4454/3129
+K 4
+meta
+V 21
+dir 6of.z4.r4521/2317
+K 15
+sipxpbx.spec.in
+V 21
+file 6mo.0.r4535/1229
+K 3
+src
+V 20
+dir 5hb.0.r4539/5389
+END
+ENDREP
+id: 5g6.0.r4539/6297
+type: dir
+pred: 5g6.0.r4538/2744
+count: 346
+text: 4539 5611 673 673 f355b86c626de827ffa19bfe1a744816
+props: 4535 2379 697 0 02b3ab443434f2633334884f67088bb3
+cpath: /old/sipXpbx/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 6o1.0.r4537/4096
+K 4
+main
+V 20
+dir 5g6.0.r4539/6297
+K 4
+tags
+V 20
+dir 5kn.0.r4536/2035
+END
+ENDREP
+id: 5g5.0.r4539/6641
+type: dir
+pred: 5g5.0.r4538/3088
+count: 446
+text: 4539 6515 113 113 bd264f86d6ad504e24d6aac5765756e7
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4539/6641
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4539/7281
+type: dir
+pred: 1.0.r4538/3728
+count: 4537
+text: 4539 6798 470 470 afa3beda96900d397d0c06de611316ab
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4539/7281
+END
+ENDREP
+id: 0.0.r4539/7476
+type: dir
+pred: 0.0.r4538/3923
+count: 4539
+text: 4539 7427 36 36 aecad5d55785a7cabdbd312961d1d70e
+cpath: /
+copyroot: 0 /
+
+5x8.0.r4454/141887 delete false false /old/sipXpbx/main/src/wwwcontent/adminui/email.php
+
+5xi.0.r4454/134222 delete false false /old/sipXpbx/main/src/wwwcontent/adminui/mailboxList.php
+
+5y2.0.r4454/142548 delete false false /old/sipXpbx/main/src/wwwcontent/adminui/serverSettings.php
+
+5x9.0.r4454/53763 delete false false /old/sipXpbx/main/src/wwwcontent/adminui/errorLog.php
+
+5x6.0.r4454/135616 delete false false /old/sipXpbx/main/src/wwwcontent/adminui/editemail.php
+
+6l1.0.r4454/230680 delete false false /old/sipXpbx/main/src/wwwcontent/userui/login.php
+
+5y5.0.r4454/136993 delete false false /old/sipXpbx/main/src/wwwcontent/adminui/viewIndividualMailbox.php
+
+5xx.0.r4454/136646 delete false false /old/sipXpbx/main/src/wwwcontent/adminui/navigation.php
+
+5wv.0.r4454/125607 delete false false /old/sipXpbx/main/src/wwwcontent/adminui/accessLog.php
+
+5x2.0.r4454/125952 delete false false /old/sipXpbx/main/src/wwwcontent/adminui/banner.php
+
+5wx.0.r4454/126608 delete false false /old/sipXpbx/main/src/wwwcontent/adminui/addCredentials.php
+
+5xb.0.r4454/138418 delete false false /old/sipXpbx/main/src/wwwcontent/adminui/frameset.php
+
+5xd.0.r4454/139076 delete false false /old/sipXpbx/main/src/wwwcontent/adminui/index.php
+
+5xf.0.r4454/126960 delete false false /old/sipXpbx/main/src/wwwcontent/adminui/login.php
+
+5x1.0.r4454/127301 delete false false /old/sipXpbx/main/src/wwwcontent/adminui/adminSettings.php
+
+5x0.0.r4454/127651 delete false false /old/sipXpbx/main/src/wwwcontent/adminui/addEditMailbox.php
+
+5wz.0.r4454/139771 delete false false /old/sipXpbx/main/src/wwwcontent/adminui/addEditGroup.php
+
+5x4.0.r4454/128701 delete false false /old/sipXpbx/main/src/wwwcontent/adminui/distributionList.php
+
+5xc.0.r4454/128353 delete false false /old/sipXpbx/main/src/wwwcontent/adminui/groupsList.php
+
+5xe.0.r4454/129055 delete false false /old/sipXpbx/main/src/wwwcontent/adminui/indexmain.php
+
+5wy.0.r4454/130022 delete false false /old/sipXpbx/main/src/wwwcontent/adminui/addEditDistList.php
+
+
+7476 7617

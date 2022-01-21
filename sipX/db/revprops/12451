@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-09-04T02:59:49.758700Z
+K 7
+svn:log
+V 131
+Remove direct reference/include of root /usr/include /usr/local/include sipXlib.m4 as it
+can cause problems with cross compiling.
+
+
+END

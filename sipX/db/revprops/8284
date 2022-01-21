@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-12-16T19:12:27.479163Z
+K 7
+svn:log
+V 91
+XCF-1405 - proper way to add execute permissions on directories in sipxconfig rpm spec file
+END

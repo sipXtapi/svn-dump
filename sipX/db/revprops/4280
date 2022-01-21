@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-11T22:07:17.270962Z
+K 7
+svn:log
+V 210
+http://track.sipfoundry.org/browse/XPB-86
+Use "su -" rather than "su" to clear BASH_ENV in the child process.
+Thus, the component wrapper scripts don't attempt to read
+~root/.bashrc to initialize their shells.
+
+END

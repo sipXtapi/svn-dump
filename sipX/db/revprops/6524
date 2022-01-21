@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-04-06T07:30:12.777879Z
+K 7
+svn:log
+V 320
+Finish the call direction feature.
+Remove the separate call_directions table, it's too much of a hassle & doesn't buy us that much in the way of cleanliness.  call_direction is now a column in the cdrs table, although the Call Resolver and the Cdr class still know nothing about it, only the call direction plugin does.
+
+END

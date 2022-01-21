@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-13T19:33:22.906388Z
+K 7
+svn:log
+V 45
+Add isStatic() inquiry to MpCodecCallInfoV1.
+
+END

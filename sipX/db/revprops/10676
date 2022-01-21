@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-06-20T21:10:25.855121Z
+K 7
+svn:log
+V 131
+Move MpSpeechType data type out of MpAudioBuf.
+Also make isActiveAudio() and mixSpeechTypes() functions standalone for easier use.
+
+END

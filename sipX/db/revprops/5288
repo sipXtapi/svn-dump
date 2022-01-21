@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-10-05T20:41:17.999310Z
+K 7
+svn:log
+V 239
+Exposing hidden parameters for AudioCodes MP 10x FXO gateway.
+Added improved .ini file (more parameters provisioned)
+Minor fixes on gateway page: 
+- only one row of OK, Apply, Cancel buttons
+- properly report duplication of serial numbers
+
+END

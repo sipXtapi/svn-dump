@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-04-04T19:16:08.803769Z
+K 7
+svn:log
+V 103
+Changes to update the interop configuration config.defs.in to match
+the pre-Big-P config.defs entries.
+
+END

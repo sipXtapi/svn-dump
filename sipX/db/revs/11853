@@ -1,0 +1,348 @@
+PLAIN
+K 10
+svn:ignore
+V 37
+siptest
+Makefile
+Makefile.in
+.deps
+
+
+
+END
+ENDREP
+id: bub.7n5.r11853/76
+type: dir
+pred: bub.7n5.r11827/1451
+count: 9
+text: 10063 3255 994 994 f9d11e73723692cc3b93ee5be927d4e1
+props: 11853 0 63 0 7e3b95ac624fd45ef23116dd256c3992
+cpath: /main/sipXtackLib/siptest/src/siptest
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file bua.0.r9285/74262
+K 7
+siptest
+V 21
+dir bub.7n5.r11853/76
+END
+ENDREP
+id: bu9.7n5.r11853/423
+type: dir
+pred: bu9.7n5.r11827/1864
+count: 9
+text: 11853 322 88 88 d377549311cfb17aeeaa1d19a2a8a333
+props: 11827 1803 48 0 86168c69db02cf3306494c6df91bc2ed
+cpath: /main/sipXtackLib/siptest/src
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file bts.0.r9285/76441
+K 7
+include
+V 23
+dir btt.7n5.r11827/1140
+K 3
+src
+V 22
+dir bu9.7n5.r11853/423
+END
+ENDREP
+id: btr.7n5.r11853/801
+type: dir
+pred: btr.7n5.r11827/2304
+count: 9
+text: 11853 662 126 126 32fd44e1849724a5c92e0b1c74242716
+props: 11827 2243 48 0 86168c69db02cf3306494c6df91bc2ed
+cpath: /main/sipXtackLib/siptest
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g91.7n5.r11703/506
+K 12
+CONTRIBUTORS
+V 25
+file bor.0.r6469/22114347
+K 9
+ChangeLog
+V 25
+file bos.0.r6469/22149247
+K 7
+INSTALL
+V 24
+file bot.0.r6955/1737850
+K 11
+Makefile.am
+V 22
+file bou.0.r9285/80469
+K 4
+NEWS
+V 25
+file bov.0.r6469/22121423
+K 6
+README
+V 24
+file bow.0.r6955/1738184
+K 4
+TODO
+V 25
+file box.0.r6469/22151942
+K 9
+acsite.m4
+V 24
+file boy.0.r6955/1731963
+K 14
+ant-targets.am
+V 24
+file boz.0.r6711/5226484
+K 15
+ant-targets.xml
+V 25
+file bp0.0.r6469/22149418
+K 3
+bin
+V 23
+dir bp1.7n5.r11827/2900
+K 8
+cert8.db
+V 25
+file bp3.0.r6469/22154413
+K 20
+config.properties.in
+V 24
+file bpd.0.r6955/1734502
+K 12
+configure.ac
+V 25
+file bpe.7n5.r10869/10757
+K 7
+contrib
+V 24
+dir gue.7n5.r11696/21117
+K 11
+dialogwatch
+V 21
+dir dsz.0.r9285/71995
+K 3
+doc
+V 23
+dir bpf.7n5.r11827/2602
+K 8
+examples
+V 23
+dir bpw.7n5.r11852/2855
+K 7
+include
+V 23
+dir bq1.7n5.r11852/1502
+K 7
+key3.db
+V 25
+file bt7.0.r6469/22151521
+K 3
+lib
+V 24
+dir bt8.0.r6469/22119550
+K 22
+mcohen@pingtel.com.p12
+V 25
+file btb.0.r6469/22121180
+K 4
+meta
+V 21
+dir btc.7n5.r11827/61
+K 9
+secmod.db
+V 25
+file btj.0.r6469/22151225
+K 24
+sipXtackLib-msvc8.vcproj
+V 24
+file e7a.7n5.r11190/9941
+K 15
+sipXtackLib.dsp
+V 24
+file gj.7nw.r11289/28674
+K 15
+sipXtackLib.vcp
+V 24
+file e6m.0.r10056/144149
+K 18
+sipXtackLib.vcproj
+V 20
+file btk.0.r10645/50
+K 28
+sipXtackLibTest-msvc8.vcproj
+V 23
+file e7b.0.r10789/40829
+K 19
+sipXtackLibTest.dsp
+V 24
+file mh.7nx.r11289/28436
+K 19
+sipXtackLibTest.sln
+V 23
+file btl.0.r7990/285820
+K 19
+sipXtackLibTest.vcp
+V 22
+file e6n.0.r9041/21232
+K 22
+sipXtackLibTest.vcproj
+V 22
+file btm.0.r9919/14033
+K 29
+sipXtackLib_NoSecurity.vcproj
+V 24
+file btn.0.r10056/143934
+K 15
+siplog2siptrace
+V 22
+dir bto.7n5.r11852/818
+K 7
+siptest
+V 22
+dir btr.7n5.r11853/801
+K 9
+sipviewer
+V 23
+dir buv.7n5.r11827/3820
+K 19
+sipxtacklib.spec.in
+V 24
+file bvi.7n5.r10867/9415
+K 3
+src
+V 22
+dir bvj.7n5.r11852/500
+K 15
+syslog2siptrace
+V 23
+dir byz.7n5.r11852/1823
+K 16
+tcpdump2siptrace
+V 25
+file bz3.0.r6469/22149596
+K 32
+user_cert_mcohen@pingtel.com.der
+V 25
+file bz4.0.r6469/22150908
+END
+ENDREP
+id: boq.7n5.r11853/3114
+type: dir
+pred: boq.7n5.r11852/5581
+count: 277
+text: 11853 1038 2063 2063 8bf62d20e45b0e9dcc77fa413a7f1110
+props: 11852 5173 395 0 357afc0c986253114091079cedff22e9
+cpath: /main/sipXtackLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 24
+file g8y.7n5.r11608/2763
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 23
+dir 9wj.7n5.r11721/1537
+K 10
+readme.txt
+V 24
+file 9ws.7n5.r11483/5210
+K 7
+scripts
+V 23
+dir fxk.7n5.r11663/1205
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r11830/6889
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r11851/1988
+K 12
+sipXmediaLib
+V 23
+dir b40.7n5.r11850/4652
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r11849/3453
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r11848/1393
+K 11
+sipXtackLib
+V 23
+dir boq.7n5.r11853/3114
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r11853/4009
+type: dir
+pred: 9wi.7n5.r11852/6476
+count: 2846
+text: 11853 3350 646 646 dfdb3978a89ef1d86aaa9b5264c5a1b5
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r11666/17573
+K 4
+main
+V 23
+dir 9wi.7n5.r11853/4009
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r11853/4347
+type: dir
+pred: 0.0.r11852/6814
+count: 11853
+text: 11853 4175 159 159 a2e464f5ea5281133b369bd8dc0bb2e8
+cpath: /
+copyroot: 0 /
+
+bub.7n5.t11852-1 modify false true /main/sipXtackLib/siptest/src/siptest
+
+
+4347 4494

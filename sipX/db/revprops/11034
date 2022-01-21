@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-05T21:15:25.373539Z
+K 7
+svn:log
+V 277
+Create new 'folders' in sipXmediaLib VC6 project file:
+in Header Files grouping, make "rtcp Header Files" and "mp Header Files" 'folders'
+in Source Files grouping, make "rtcp Source Files" and "mp Source Files" 'folders'
+
+Let VC6 reorder files as it wants.
+
+No other changes.
+
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-07-26T20:06:42.555350Z
+K 7
+svn:log
+V 55
+Updated sipXtapi Win32 build scripts and doxygen docs
+
+
+END

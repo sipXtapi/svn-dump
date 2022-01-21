@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-24T23:36:16.742507Z
+K 7
+svn:log
+V 229
+XPR-208 purging CDRs was incorectly removing newest CDRs - most of the time one could only see the CDRs processed in the latest iteration (run 'delete from cdrs' on on SIPXCDR database to recompute all CDRs since last CSE purge)
+
+END

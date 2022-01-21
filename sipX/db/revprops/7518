@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-09-19T20:22:30.182876Z
+K 7
+svn:log
+V 35
+Make res_query_and_parse() public.
+
+END

@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-28T16:05:05.726292Z
+K 7
+svn:log
+V 363
+http://track.sipfoundry.org/browse/XPB-104
+Revise comments about ulimit.
+Move the ulimit to a more sensible place in the sipxpbx script.
+(Since ulimit affects the current shell, executing it once takes
+effect for the remainder of the script, so there is no point executing
+it once for each subprocess.  And the range of ulimit is not limited
+by shell functions.)
+
+END

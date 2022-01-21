@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-07T17:29:25.909590Z
+K 7
+svn:log
+V 215
+Cleaned up line handling.  We now allocate a single handle and that
+handle is returned for all events.  The methods used to free and 
+copy line handles have been removed.
+
+Regenerated docs
+Updated regression tests
+
+
+END

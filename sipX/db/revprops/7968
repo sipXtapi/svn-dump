@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-08T10:58:10.926485Z
+K 7
+svn:log
+V 565
+Merged revisions 7941-7944 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7941 | dpetrie | 2006-11-04 10:41:02 +0300 | 4 lines
+  
+  Removed superfluous enum key word in class scoped enums as it was actually
+  causing compiler failures on GCC 4.X
+........
+  r7942 | bob | 2006-11-05 19:08:02 +0300 | 2 lines
+  
+  Added getBindIp to OsServerSocket (already had ability to get port)
+........
+  r7944 | bob | 2006-11-06 20:09:36 +0300 | 2 lines
+  
+  Build fixes for running the sipxtack unit tests on the sipXtapi branch
+........
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-03-06T22:18:58.816054Z
+K 7
+svn:log
+V 98
+cleaning after settings refactoring: SettingValue2 -> SettingValue, SettingModel2 -> SettingModel
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-10-19T21:23:43.242640Z
+K 7
+svn:log
+V 162
+default target changed to default to suppress warnings in some tools (it is ignored by projects that import this file)
+junit.jar added to javadoc target classpath
+END

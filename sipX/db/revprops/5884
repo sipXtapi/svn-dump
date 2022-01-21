@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-01-17T20:03:31.195926Z
+K 7
+svn:log
+V 119
+Add lastSentUpdateNumber to the pushUpdates method per the spec change to accommodate the problem that Dale identified
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-23T10:20:19.462716Z
+K 7
+svn:log
+V 62
+Remove not needed include from MpRtpInputAudioConnection.cpp.
+
+END

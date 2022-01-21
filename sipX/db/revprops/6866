@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-05-29T16:19:50.367530Z
+K 7
+svn:log
+V 521
+Recorded merge of revisions 6758 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r6758 | bob | 2006-05-06 23:02:32 +0400 | 9 lines
+  
+  Project clean up, fixed crash on startup, updated to wxWidgets 2.6.3
+  
+  1) Removed NoVideo build targets from some of the vxproj files (not used - default projects do not include video yet).
+  
+  2) Fixed a crash on startup (looks like copy and paste error).
+  
+  3) Updated to wxWidgets 2.6.3 -- see updated INSTALL doc in sipXezPhone.
+........
+
+END

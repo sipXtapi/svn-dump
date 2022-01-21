@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-02-03T16:12:29.410213Z
+K 7
+svn:log
+V 107
+Use OsDateTime::getIsoTimeStringZus to get the time for the call state log
+messages, rather than gmtime_r.
+
+END

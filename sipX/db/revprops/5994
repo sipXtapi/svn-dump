@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-01-30T21:27:52.690702Z
+K 7
+svn:log
+V 72
+Remove references to jsetup and weblib in dependencies, not used anymore
+END

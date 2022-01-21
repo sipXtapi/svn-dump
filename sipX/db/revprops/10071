@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-10T10:06:58.545213Z
+K 7
+svn:log
+V 205
+Now really correctly rearrange methods in MpRtp(In|Out)putAudioConnection.
+No code changed - several methods just moved to different places in a file. Also few outdated comments and debug outputs removed.
+
+END

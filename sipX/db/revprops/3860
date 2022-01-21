@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-04-29T21:09:04.654119Z
+K 7
+svn:log
+V 103
+XPB-283 revert back to 'install' command, @install_sh@ was point to build path and not system directory
+END

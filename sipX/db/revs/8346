@@ -1,0 +1,429 @@
+PLAIN
+K 11
+Makefile.am
+V 25
+file e2x.1i7.r8320/304834
+K 8
+Rakefile
+V 25
+file e2z.1i7.r8320/303790
+K 3
+lib
+V 24
+dir e30.1i7.r8320/304661
+K 16
+test_settings.rb
+V 25
+file e32.1i7.r8320/303414
+K 5
+tests
+V 24
+dir e33.1i7.r8320/304236
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: e2w.1i7.r8346/291
+type: dir
+pred: e2w.1i7.r8327/2824
+count: 2
+text: 8346 0 227 227 65fcb3f4bee10aaefbf6199b0cc1f4af
+props: 8346 240 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /main/sipXconfig/report/src
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 11
+Makefile.am
+V 25
+file e2o.1i7.r8320/305859
+K 20
+sipxconfig-report.in
+V 25
+file e2q.1i7.r8320/305665
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: e2n.1i7.r8346/706
+type: dir
+pred: e2n.1i7.r8327/3393
+count: 2
+text: 8346 533 109 109 214a50cbdf0c431681429c7f5e59563b
+props: 8346 655 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /main/sipXconfig/report/bin
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 11
+Makefile.am
+V 25
+file e2s.1i7.r8320/306946
+K 10
+schema.sql
+V 25
+file e2u.1i7.r8320/307130
+K 24
+sipxconfig-report-config
+V 25
+file e2v.1i7.r8341/419693
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: e2r.1i7.r8346/1174
+type: dir
+pred: e2r.1i7.r8341/420135
+count: 3
+text: 8346 950 160 160 61ee606be851e274a6c1c1ce4d23a27c
+props: 8346 1123 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /main/sipXconfig/report/etc
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 8
+.project
+V 25
+file e2j.1i7.r8320/303237
+K 11
+Makefile.am
+V 25
+file e2k.1i7.r8320/306384
+K 6
+README
+V 25
+file e2m.1i7.r8320/307705
+K 3
+bin
+V 21
+dir e2n.1i7.r8346/706
+K 3
+etc
+V 22
+dir e2r.1i7.r8346/1174
+K 3
+src
+V 21
+dir e2w.1i7.r8346/291
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: e2i.1i7.r8346/1730
+type: dir
+pred: e2i.1i7.r8341/420638
+count: 3
+text: 8346 1422 244 244 197c3f563f3da337647db5292249f466
+props: 8346 1679 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /main/sipXconfig/report
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 2hg.0.r3393/21790
+K 9
+ChangeLog
+V 23
+file 2hh.1i7.r8243/2037
+K 7
+INSTALL
+V 24
+file 2hi.1i7.r5443/27201
+K 7
+LICENSE
+V 23
+file 2hj.0.r3393/851332
+K 11
+Makefile.am
+V 23
+file 2hk.1i7.r8327/1877
+K 4
+NEWS
+V 23
+file 2hl.0.r3393/808567
+K 6
+README
+V 24
+file 2hm.1i7.r5365/24861
+K 4
+TODO
+V 22
+file 2hn.0.r4025/58643
+K 5
+agent
+V 24
+dir bzs.1i7.r8320/301823
+K 14
+ant-targets.am
+V 25
+file 2hp.1i7.r4886/145328
+K 15
+ant-targets.xml
+V 23
+file 2hq.1i7.r7515/1810
+K 3
+bin
+V 24
+dir 4bz.1i7.r7320/102325
+K 19
+build.properties.in
+V 25
+file 81e.1i7.r8320/302073
+K 9
+build.xml
+V 24
+file 4h8.1i7.r7084/25785
+K 6
+config
+V 24
+file d3l.1i7.r7274/26681
+K 12
+configure.ac
+V 23
+file 2jg.1i7.r8327/1361
+K 16
+dependencies.xml
+V 21
+file 5d9.1i7.r5994/45
+K 3
+doc
+V 22
+dir 2jh.1i7.r7898/9175
+K 3
+etc
+V 25
+dir 4b7.1i7.r4884/5840691
+K 3
+lib
+V 24
+dir 2jy.1i7.r8341/419500
+K 14
+lib.properties
+V 25
+file 81m.1i7.r8341/414505
+K 4
+meta
+V 24
+dir 4ea.1i7.r8320/259631
+K 7
+neoconf
+V 23
+dir 4eo.1i7.r8342/21965
+K 7
+plugins
+V 24
+dir cw4.1i7.r8320/257385
+K 7
+pom.xml
+V 25
+file 90w.2qr.r6329/204642
+K 23
+profilepub_sipagent.dsp
+V 22
+file 4b5.1i7.r4929/429
+K 6
+report
+V 22
+dir e2i.1i7.r8346/1730
+K 18
+sipxconfig.spec.in
+V 23
+file 4bh.1i7.r8327/1615
+K 18
+subant-targets.xml
+V 24
+file 4h9.1i7.r7084/26035
+K 3
+web
+V 24
+dir 4l5.1i7.r8341/432171
+K 15
+web-targets.xml
+V 24
+file 8uq.1i7.r5770/11880
+END
+ENDREP
+id: 2hf.1i7.r8346/3363
+type: dir
+pred: 2hf.1i7.r8342/23609
+count: 2038
+text: 8346 1975 1375 1375 02a250edac27cfaf6c47fbce3affc5c7
+props: 8259 11135 976 0 a59d1f6e66a64b4243ae9af085ca4a2b
+cpath: /main/sipXconfig
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 11
+Makefile.in
+V 23
+file d0m.421.r8194/1039
+K 7
+bbridge
+V 21
+dir 8dl.0.r8083/18422
+K 5
+build
+V 22
+file d5a.0.r7664/15661
+K 6
+config
+V 21
+dir 91.1i4.r8345/8494
+K 12
+configure.ac
+V 20
+file d0n.0.r8051/327
+K 16
+dependencies.mak
+V 19
+file dxw.0.r8252/81
+K 3
+lib
+V 20
+dir cyn.0.r8329/2472
+K 14
+msvs6build.bat
+V 22
+file dm4.0.r8318/61612
+K 14
+resiprocateLib
+V 21
+dir 8g8.0.r7696/13751
+K 9
+sipXb2bua
+V 21
+dir dau.0.r7967/44454
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r8338/8946
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r8345/12017
+K 10
+sipXconfig
+V 22
+dir 2hf.1i7.r8346/3363
+K 19
+sipXmediaAdapterLib
+V 21
+dir 89s.0.r8177/13233
+K 12
+sipXmediaLib
+V 22
+dir mz.1i8.r8309/12843
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r8345/5939
+K 11
+sipXportLib
+V 21
+dir 3.1ib.r8340/10235
+K 9
+sipXproxy
+V 23
+dir 1vt.1ic.r8343/14112
+K 13
+sipXpublisher
+V 23
+dir 20n.1id.r8180/70541
+K 12
+sipXregistry
+V 23
+dir 1y5.1ie.r8334/13261
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r8340/17392
+K 9
+sipXtools
+V 20
+dir dtl.0.r8324/3048
+K 8
+sipXvxml
+V 22
+dir 22d.1ig.r8260/1937
+K 10
+top.mak.in
+V 21
+file d5l.0.r7330/2797
+END
+ENDREP
+id: 7q4.0.r8346/4675
+type: dir
+pred: 7q4.0.r8345/13342
+count: 2190
+text: 8346 3607 1055 1055 cb700b2bc2da7b5d360aca2746c83f5a
+props: 8340 18703 2648 0 3f1144af43132a20d2204ec5951b68d7
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r8315/7431
+K 4
+main
+V 20
+dir 7q4.0.r8346/4675
+K 4
+tags
+V 20
+dir 7q5.0.r8275/3149
+END
+ENDREP
+id: 0.0.r8346/5013
+type: dir
+pred: 0.0.r8345/13683
+count: 8346
+text: 8346 4887 113 113 ffdd0f71269a5109e49932eaacf8ab06
+cpath: /
+copyroot: 0 /
+
+e2n.1i7.t8345-1 modify false true /main/sipXconfig/report/bin
+
+e2y.1i7.r8327/2330 delete false false /main/sipXconfig/report/src/Makefile.in
+
+e2p.1i7.r8327/3018 delete false false /main/sipXconfig/report/bin/Makefile.in
+
+e2r.1i7.t8345-1 modify false true /main/sipXconfig/report/etc
+
+e2t.1i7.r8327/3587 delete false false /main/sipXconfig/report/etc/Makefile.in
+
+e2i.1i7.t8345-1 modify false true /main/sipXconfig/report
+
+e2l.1i7.r8327/2127 delete false false /main/sipXconfig/report/Makefile.in
+
+e2w.1i7.t8345-1 modify false true /main/sipXconfig/report/src
+
+
+5013 5157

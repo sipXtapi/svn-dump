@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-04-03T16:35:40.783462Z
+K 7
+svn:log
+V 89
+Casts of lvalues need to use reference types.
+http://track.sipfoundry.org/browse/XSL-120
+
+END

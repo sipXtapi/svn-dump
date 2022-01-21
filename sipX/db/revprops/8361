@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-12-22T21:29:08.680758Z
+K 7
+svn:log
+V 52
+disable txt2man rule - the .1 files must be prebuilt
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-04-11T18:28:46.609798Z
+K 7
+svn:log
+V 212
+Add option to duration format component: by default it does not display vlaues smaller than 1 seconds now (i.e. it does not display 0 seconds). This behaviour can be altered by setting showZero property to true.
+
+END

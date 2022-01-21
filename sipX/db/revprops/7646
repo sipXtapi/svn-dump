@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-04T01:11:08.638556Z
+K 7
+svn:log
+V 69
+Tidy up the ISN redirector, including allowing for a dialing prefix.
+
+END

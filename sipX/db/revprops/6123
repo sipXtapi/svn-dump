@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-02-13T23:12:40.637389Z
+K 7
+svn:log
+V 191
+Merged revisions 6042-6122 via svnmerge from
+/main/sipXconfig
+Do not check sipx db revision in configtest, no guarontee db has been upgraded yet.  Add check to make sure db is running though
+
+END

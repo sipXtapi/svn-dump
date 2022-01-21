@@ -1,0 +1,136 @@
+PLAIN
+K 10
+svn:ignore
+V 47
+build.err
+configure
+autom4te.cache
+aclocal.m4
+
+
+K 38
+svnmerge-dworley-URI-parsing2main-head
+V 74
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/dworley-URI-parsing
+K 38
+svnmerge-dworley-URI-parsing2main-revs
+V 6
+1-7477
+K 26
+svnmerge-pingtel-main-head
+V 50
+https://paradise.pingtel.com/rep/sipX/pingtel/main
+K 26
+svnmerge-pingtel-main-revs
+V 631
+1-5590,5645,5738,5813,5840,5842,5914,5954,5969,5982,6041,6077,6085,6139,6144,6156,6158,6182,6187,6207-6208,6230,6285,6289,6292-6295,6298-6299,6301,6306,6308-6309,6311,6325-6327,6329,6333,6338,6342,6403,6441,6491,6538-6539,6551,6561,6587,6936-6937,6953,6960-6961,6997,7053,7062-7065,7067-7070,7080,7087,7092-7093,7105,7115-7116,7164,7169-7170,7180,7197,7199,7241-7242,7274,7276-7277,7280,7293,7295,7359-7360,7374,7380-7382,7385,7389,7392,7394,7405,7408,7460,7468,7474,7476,7480,7489,7500,7525,7544-7546,7553,7575,7586,7593,7595,7598-7599,7602,7605-7618,7620-7623,7627,7629-7630,7633,7635,7637,7640,7642,7646,7651,7654,7706,7745,7754
+K 22
+svnmerge-sipx-3.0-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.0
+K 22
+svnmerge-sipx-3.0-revs
+V 51
+1-5315,5348,5357,5382,5417,5451,5474-5478,5508,5621
+K 22
+svnmerge-sipx-3.2-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.2
+K 22
+svnmerge-sipx-3.2-revs
+V 16
+1-6588,6684,7229
+K 22
+svnmerge-sipx-3.4-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.4
+K 22
+svnmerge-sipx-3.4-revs
+V 166
+1-6680,6748,6759,6763-6764,6773,6775,6777-6778,6784,6794-6795,6798,6803,6825,6830,6888,6894,6902,6905,6926,6947,6956,6966,6976,6978,6981,6987,7000,7077-7079,7095,7249
+K 22
+svnmerge-sipx-3.6-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.6
+K 22
+svnmerge-sipx-3.6-revs
+V 76
+1-7636,7693-7694,7770,7846,7899,7938,7986,8073,8169,8236,8248,8250-8251,8301
+K 29
+svnmerge-sipx-modularity-head
+V 55
+https://scm.sipfoundry.org/rep/sipX/branches/modularity
+K 29
+svnmerge-sipx-modularity-revs
+V 6
+1-6845
+K 30
+svnmerge-sipx-replication-head
+V 67
+https://scm.sipfoundry.org/rep/sipX/branches/sipXconfig/replication
+K 30
+svnmerge-sipx-replication-revs
+V 6
+1-5723
+K 26
+svnmerge-solaris2main-head
+V 57
+https://scm.sipfoundry.org/rep/sipX/branches/solaris_port
+K 26
+svnmerge-solaris2main-revs
+V 6
+1-6454
+K 43
+svnmerge-user_dworley_redirectors2main-head
+V 69
+https://scm.sipfoundry.org/rep/sipX/branches/user_dworley_redirectors
+K 43
+svnmerge-user_dworley_redirectors2main-revs
+V 76
+1-7213,7456-7457,7469,7472,7509-7510,7518,7588,7668,7788-7791,7823-7824,7827
+K 49
+svnmerge-user_dworley_redirectors_merge2main-head
+V 75
+https://scm.sipfoundry.org/rep/sipX/branches/user_dworley_redirectors_merge
+K 49
+svnmerge-user_dworley_redirectors_merge2main-revs
+V 26
+1-7877,7879-7880,7882-7918
+END
+ENDREP
+id: 7q4.0.r8595/2711
+type: dir
+pred: 7q4.0.r8594/8035
+count: 2323
+text: 8594 4221 1003 1003 9ddcbf2fc9384ac5437cb2e43c0b9695
+props: 8595 0 2698 0 92763a5e52bf9d56b482109ad16142a1
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r8587/13916
+K 4
+main
+V 20
+dir 7q4.0.r8595/2711
+K 4
+tags
+V 20
+dir 7q5.0.r8544/3180
+END
+ENDREP
+id: 0.0.r8595/3045
+type: dir
+pred: 0.0.r8594/8372
+count: 8595
+text: 8595 2918 114 114 676d35d0f4218599e5a1b62f639bddc7
+cpath: /
+copyroot: 0 /
+
+7q4.0.t8594-1 modify false true /main
+
+
+3045 3188

@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-02-02T22:44:04.884441Z
+K 7
+svn:log
+V 364
+Make the message that call state log information was lost not
+conditionally compiled, although it is still at DEBUG level.
+Put the timestamp on the call state log lines at the beginning, and
+use the same format as ordinary log messages, so they can be sorted
+together.  (Though these timestamps have 000000 for microseconds.)
+Correct the formatting of some lines.
+
+END

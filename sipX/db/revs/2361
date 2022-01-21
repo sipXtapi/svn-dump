@@ -1,0 +1,150 @@
+PLAIN
+K 13
+svn:externals
+V 76
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/main-export-C/config
+
+K 10
+svn:ignore
+V 144
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxregistry.spec
+stamp-h1
+
+K 18
+svnmerge-main-head
+V 48
+https://scm.sipfoundry.org/rep/sipXregistry/main
+K 18
+svnmerge-main-revs
+V 4
+1-61
+END
+ENDREP
+id: 1y5.bn.r2361/396
+type: dir
+pred: 1y5.0.r2360/1631
+count: 51
+text: 2360 975 643 643 e35d15390f412f71e9b6aa7cb7f93e3e
+props: 2361 0 383 0 f88409e57e4b3484688e0c6d833b5be6
+cpath: /old/sipXregistry/tags/main-export-C
+copyfrom: 2360 /old/sipXregistry/main
+
+PLAIN
+K 5
+2.5.1
+V 20
+dir 1y5.bg.r2308/198
+K 5
+2.5.2
+V 21
+dir 1y5.bh.r2316/1127
+K 13
+main-export-B
+V 20
+dir 1y5.bm.r2359/396
+K 13
+main-export-C
+V 20
+dir 1y5.bn.r2361/396
+END
+ENDREP
+id: 1z5.0.r2361/832
+type: dir
+pred: 1z5.0.r2359/786
+count: 5
+text: 2361 652 167 167 27263e098bd2ac42ec98ab7673a8e925
+cpath: /old/sipXregistry/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1zf.0.r2358/7806
+K 4
+main
+V 20
+dir 1y5.0.r2360/1631
+K 4
+tags
+V 19
+dir 1z5.0.r2361/832
+END
+ENDREP
+id: 1y4.0.r2361/1119
+type: dir
+pred: 1y4.0.r2360/1973
+count: 62
+text: 2361 994 112 112 9a3eb1c0d0b6bb9e48485207f02585c5
+cpath: /old/sipXregistry
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2361/1119
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2361/1597
+type: dir
+pred: 1.0.r2360/2452
+count: 2360
+text: 2361 1279 305 305 90c9a91364478d78aeede675ba1c10b9
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2361/1597
+END
+ENDREP
+id: 0.0.r2361/1792
+type: dir
+pred: 0.0.r2360/2647
+count: 2361
+text: 2361 1743 36 36 58d56ce667fd80d7a8e531356c69227c
+cpath: /
+copyroot: 0 /
+
+1y5._0.t2360-1 add false true /old/sipXregistry/tags/main-export-C
+2360 /old/sipXregistry/main
+
+1792 1933

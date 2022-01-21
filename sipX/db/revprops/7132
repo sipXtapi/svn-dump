@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-07-28T01:55:24.189240Z
+K 7
+svn:log
+V 57
+Remove unnec build files, get more libs to build properly
+END

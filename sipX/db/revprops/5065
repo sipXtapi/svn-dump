@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-19T17:19:31.597502Z
+K 7
+svn:log
+V 91
+Private branch to track experimental implementation of enforcing SIP username uniqueness. 
+
+END

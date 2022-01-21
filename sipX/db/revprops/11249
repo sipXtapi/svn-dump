@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-02-04T16:48:59.574314Z
+K 7
+svn:log
+V 165
+sipXtapi: Implemened new sipXtapi API to record to a buffer instead of a file.
+See sipxCallAudioRecordBufferStart() and sipxCallAudioRecordBufferStop() for details.
+
+END

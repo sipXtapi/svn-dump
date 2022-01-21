@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-11-20T05:16:22.585211Z
+K 7
+svn:log
+V 144
+Only keep one set of prior codec in Decoder otherwise we accumulate large number of decoders in long calls with reINVITEs (e.g. session timer).
+
+END

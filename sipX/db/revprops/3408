@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-01-23T02:32:53.245703Z
+K 7
+svn:log
+V 57
+IDialingRule interface changes: permissions kept as List.
+END

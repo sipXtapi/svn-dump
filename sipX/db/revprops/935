@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2005-04-29T13:56:24.037489Z
+K 7
+svn:log
+V 125
+XSL-75: Releasing instance of OsStunAgentTask after shutting everything down fixes the test - removing KNOWN_FATAL_BUG macros
+END

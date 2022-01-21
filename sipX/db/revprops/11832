@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-01-02T16:00:43.330122Z
+K 7
+svn:log
+V 87
+Checked in a bunch of Android 2.0 headers needed for the build that were not under svn
+
+END

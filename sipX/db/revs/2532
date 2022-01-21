@@ -1,0 +1,350 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 202.d6.r2532/108
+type: file
+pred: 202.d6.r2521/39626
+count: 8
+text: 2491 0 943 11173 38ff2d0391f012625c69428548c894f9
+props: 2532 0 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /old/sipXregistry/main/doc/developer/redirector-test
+copyroot: 2521 /old/sipXregistry/main/doc/developer/redirector-test
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 20c.d7.r2532/519
+type: file
+pred: 20c.d7.r2521/40439
+count: 5
+text: 2508 0 499 5274 530d3ea15a983a79dceb882e4a77fa00
+props: 2532 411 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /old/sipXregistry/main/doc/developer/redirector-test-pick
+copyroot: 2521 /old/sipXregistry/main/doc/developer/redirector-test-pick
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 201.d5.r2532/915
+type: file
+pred: 201.d5.r2521/40891
+count: 2
+text: 2485 0 3785 11192 602e4eab58beec8818ab2a985f09bc9c
+props: 2532 833 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/doc/developer/getargs.pl
+copyroot: 2521 /old/sipXregistry/main/doc/developer/getargs.pl
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 20c.d8.r2532/1319
+type: file
+pred: 20c.d8.r2521/41260
+count: 3
+text: 2499 0 533 5343 0f758d049e469c0d4668f143f9a42e05
+props: 2532 1211 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /old/sipXregistry/main/doc/developer/redirector-test-suspend
+copyroot: 2521 /old/sipXregistry/main/doc/developer/redirector-test-suspend
+
+PLAIN
+K 21
+SipRedirectorTest.cpp
+V 22
+file 20d.du.r2522/9636
+K 19
+SipRedirectorTest.h
+V 22
+file 20e.dv.r2522/9949
+K 10
+getargs.pl
+V 21
+file 201.d5.r2532/915
+K 15
+redirector-test
+V 21
+file 202.d6.r2532/108
+K 20
+redirector-test-pick
+V 21
+file 20c.d7.r2532/519
+K 23
+redirector-test-suspend
+V 22
+file 20c.d8.r2532/1319
+K 10
+sipsend.pl
+V 23
+file 203.d9.r2521/40067
+END
+ENDREP
+id: 200.d4.r2532/2012
+type: dir
+pred: 200.d4.r2522/10635
+count: 13
+text: 2532 1641 358 358 2b017ba2cb45d36f03b9a9979650bc1d
+cpath: /old/sipXregistry/main/doc/developer
+copyroot: 2521 /old/sipXregistry/main/doc/developer
+
+PLAIN
+K 11
+Doxyfile.in
+V 20
+file 1zh.0.r2515/898
+K 11
+Makefile.am
+V 21
+file 1z7.0.r2515/1131
+K 15
+Redirection.txt
+V 22
+file 1z8.0.r2521/39342
+K 9
+alias.xml
+V 21
+file 1z9.0.r2415/1312
+K 9
+developer
+V 21
+dir 200.d4.r2532/2012
+K 17
+fallbackrules.xml
+V 22
+file 1zc.bj.r2415/1546
+K 11
+footer.html
+V 20
+file 1zi.0.r2515/663
+K 13
+huntgroup.xml
+V 21
+file 1za.0.r2415/1837
+K 16
+mappingrules.xml
+V 21
+file 1zb.0.r2415/1071
+K 16
+registration.xml
+V 22
+file 1zd.0.r2414/10316
+END
+ENDREP
+id: 1z6.0.r2532/2707
+type: dir
+pred: 1z6.0.r2522/11333
+count: 21
+text: 2532 2233 461 461 55b3078295fa7fe3b65fe87b22033f0a
+props: 2451 0 91 0 94a19a2036daeea8458fc260e14043ce
+cpath: /old/sipXregistry/main/doc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 21
+file 1y6.0.r2414/7414
+K 9
+ChangeLog
+V 20
+file 1y7.0.r2470/663
+K 7
+INSTALL
+V 22
+file 1y8.0.r2414/11973
+K 7
+LICENSE
+V 20
+file 1y9.0.r2470/440
+K 11
+Makefile.am
+V 20
+file 1ya.0.r2453/118
+K 4
+NEWS
+V 22
+file 1yb.0.r2414/15680
+K 6
+README
+V 21
+file 1yc.0.r2414/7102
+K 4
+TODO
+V 22
+file 1yd.0.r2414/11664
+K 9
+acsite.m4
+V 21
+file 1ye.0.r2414/1353
+K 3
+bin
+V 19
+dir 1yf.0.r2433/695
+K 12
+configure.ac
+V 19
+file 1yk.0.r2463/66
+K 3
+doc
+V 20
+dir 1z6.0.r2532/2707
+K 3
+etc
+V 21
+dir 1yl.0.r2525/12370
+K 4
+meta
+V 20
+dir 1zk.0.r2442/2372
+K 16
+sipXregistry.dsp
+V 20
+file 1z4.0.r2482/352
+K 20
+sipxregistry.spec.in
+V 20
+file 1ze.0.r2450/246
+K 3
+src
+V 20
+dir 1yq.0.r2531/2381
+END
+ENDREP
+id: 1y5.0.r2532/3620
+type: dir
+pred: 1y5.0.r2531/3297
+count: 118
+text: 2532 2930 677 677 4993ff976a1398a27c45cca181ee30ad
+props: 2521 44208 993 0 c689d7b5581be3fa0e42486195a1cac7
+cpath: /old/sipXregistry/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1zf.0.r2529/1876
+K 4
+main
+V 20
+dir 1y5.0.r2532/3620
+K 4
+tags
+V 20
+dir 1z5.0.r2530/2683
+END
+ENDREP
+id: 1y4.0.r2532/3970
+type: dir
+pred: 1y4.0.r2531/3647
+count: 233
+text: 2532 3844 113 113 fefc3919e634c94949665d9703888f5b
+cpath: /old/sipXregistry
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2532/3970
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2532/4450
+type: dir
+pred: 1.0.r2531/4127
+count: 2531
+text: 2532 4132 305 305 94cf9376b3ae7253df8249fa7ebd574d
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2532/4450
+END
+ENDREP
+id: 0.0.r2532/4645
+type: dir
+pred: 0.0.r2531/4322
+count: 2532
+text: 2532 4596 36 36 f6e4c778bb08e552137d500717ff5130
+cpath: /
+copyroot: 0 /
+
+20c.d8.t2531-1 modify false true /old/sipXregistry/main/doc/developer/redirector-test-suspend
+
+202.d6.t2531-1 modify false true /old/sipXregistry/main/doc/developer/redirector-test
+
+20c.d7.t2531-1 modify false true /old/sipXregistry/main/doc/developer/redirector-test-pick
+
+201.d5.t2531-1 modify false true /old/sipXregistry/main/doc/developer/getargs.pl
+
+
+4645 4786

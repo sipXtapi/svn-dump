@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-12T21:22:56.195346Z
+K 7
+svn:log
+V 184
+Remove the remaining RoboHelp log files from 'main'.
+Since most of these have been deleted from 'main' already, I figured
+I'd finish the job.
+http://track.sipfoundry.org/browse/XPB-54
+
+END

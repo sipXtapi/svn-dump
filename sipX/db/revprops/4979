@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-09-06T15:26:02.254984Z
+K 7
+svn:log
+V 65
+[XPB=239] fix handling of perl regexp characters in dial strings
+
+END

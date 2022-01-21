@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-03-08T22:22:59.597573Z
+K 7
+svn:log
+V 49
+Revert erroneously checked in change in UrlTest.
+
+END

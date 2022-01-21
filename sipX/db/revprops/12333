@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2016-03-26T17:59:31.758596Z
+K 7
+svn:log
+V 78
+-don't set default device id's if not using local audio - will cause an assert
+END

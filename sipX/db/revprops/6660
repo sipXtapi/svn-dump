@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-04-26T03:34:45.839748Z
+K 7
+svn:log
+V 178
+Finish XPB-120, CDR/HA.  Needs to be tested with a real HA configuration and XPB-146 is a loose end, nonetheless we should now be able to resolve calls with an HA configuration.
+
+END

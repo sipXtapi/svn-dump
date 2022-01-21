@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-10-28T17:49:19.688753Z
+K 7
+svn:log
+V 218
+XPB-400 change the way mapping rules for voice mail is generated - do not append mailbox parameter to URL
+it solves the problem with mediaserver prompting user for voicemail number even when it was accessed internally
+
+END

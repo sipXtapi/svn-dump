@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2021-03-13T07:07:02.428384Z
+K 7
+svn:log
+V 183
+Catch NODEVICE erros from wave intefaces and listent to Windows device enents to notify device NOT_PRESENT and switch 
+to MMTimer for media subsystem clocking from the output device.
+
+END

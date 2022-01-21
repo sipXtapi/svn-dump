@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-09-17T21:38:44.793724Z
+K 7
+svn:log
+V 169
+If required symbols in loaded codec plugin are not present, break out and return indicating plugin load failed instead of trying to use some of those functions (plgEnum)
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-05-31T00:24:04.642771Z
+K 7
+svn:log
+V 279
+Progress on XPB-625 (new process manager): (1) when starting processes, create a PID file so we can persistently track the process status, (2) add a Rakefile to run unit tests and package the process manager as a gem (Rakefile copy-pasted-adapted from sipXconfig-agent Rakefile)
+
+END

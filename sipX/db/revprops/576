@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-26T19:19:03.964907Z
+K 7
+svn:log
+V 95
+Admit the null string as a version, to designate no previously
+installed version.
+Remove tabs.
+
+END

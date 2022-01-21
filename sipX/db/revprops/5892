@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-01-18T21:06:27.728841Z
+K 7
+svn:log
+V 87
+Set timezones explicitly for phone tests so one unit test doesnt alter subsequent tests
+END

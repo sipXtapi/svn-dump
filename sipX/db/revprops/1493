@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-01-24T13:48:28.654082Z
+K 7
+svn:log
+V 83
+structs for SIPX_CALL_DATA and SIPX_LINE_DATA 
+now being initialized with memset 0
+
+END

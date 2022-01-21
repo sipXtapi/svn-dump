@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-01T18:38:40.724714Z
+K 7
+svn:log
+V 146
+added link to setting.dtd to fix problems when building off-line (when http://www.sipfoundry.org/sipXconfig/dtd/setting_2_0.dtd is not available)
+
+END

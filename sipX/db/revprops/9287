@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-04-09T19:17:15.074310Z
+K 7
+svn:log
+V 189
+Changes made to OsDirBase, OsDirLinux to make Windows CE function 
+properly broke linux build.
+This corrects those issues, making OsDirLinux::getFileInfo to compile 
+and run correctly now.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-03-23T02:26:39.915265Z
+K 7
+svn:log
+V 166
+XPR-214 determine which CSEs are read using CSE id and not CSE event_time: it makes callresolver to read all CSEs even if the are logged not in a chronological order
+
+END

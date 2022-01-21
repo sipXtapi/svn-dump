@@ -1,0 +1,34 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2007-03-16T20:25:17.494024Z
+K 7
+svn:log
+V 999
+Correct media render stall when EXACTLY 16 seconds of media is queued.
+
+With 1600 100 mS buffers, only 16 seconds can be queued before an event
+starting the render needs to be triggered.  However, the "end of frames" 
+message is also queued in the same queue, and no check was done when trying 
+to send that message.  If all 1600 buffers were used for media, when it came 
+time to send the "end of frames" message it blocked, being unable to get
+a buffer.  But no event triggered the other side to start reading the queue 
+so the render just hung.
+
+Resolved this by sending a throttle event on the "end of frames" messages
+as well if needed.  This will start the other side reading the queue which 
+will eventually free up a buffer and prevent the stall.
+
+This issue is also known as "The .WAV of Doom" because if a .wav file of
+EXTACTLY 16 seconds (256000 bytes + 44 byte RIFF header) is in a voice
+mailbox, then the media server will just hang when that message is played.
+
+Fixes XPB-736
+
+--Woof!
+
+END

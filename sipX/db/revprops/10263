@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-10-04T16:22:59.449816Z
+K 7
+svn:log
+V 110
+Add functionality to change tones in MpSineWaveGeneratorDeviceDriver after construction, and during operation.
+END

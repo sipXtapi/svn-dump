@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-07-10T17:20:06.813621Z
+K 7
+svn:log
+V 48
+XCF-1127 change default for fwd/enabled 1 -> 0 
+
+END

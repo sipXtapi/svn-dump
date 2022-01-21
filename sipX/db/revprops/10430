@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-12-21T22:41:10.322488Z
+K 7
+svn:log
+V 317
+Update OSS audio I/O driver.
+Now it use less locking, but support only mixer mode. We're going to remove direct write mode soon, so this is a right things to do - reducing number 
+of locks increase performance on embedded platforms significantly.
+We also rename OSS driver to better conform to our naming guidelines.
+
+END

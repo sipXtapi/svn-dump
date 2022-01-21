@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-04-06T21:20:41.154879Z
+K 7
+svn:log
+V 98
+No platform dependent stuff should go here, and anyway - windows.h isn't needed here whatsovever.
+
+END

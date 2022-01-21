@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-19T15:49:18.217681Z
+K 7
+svn:log
+V 206
+XCF-846 default configuration (and restore to default) lists autoattendant rule before internal rule
+also during the migration from 3.0 autoattendant rules are inserted at the beginning of the dialing plan
+
+END

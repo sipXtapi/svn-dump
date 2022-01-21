@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-04-11T01:48:05.870346Z
+K 7
+svn:log
+V 162
+Fix XPR-141: Call Resolver (CDR): view_cdrs_with_call_direction must be created as part of the install.  Get rid of the old "cleveland" code name, too confusing.
+
+END

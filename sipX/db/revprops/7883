@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-30T23:20:47.394856Z
+K 7
+svn:log
+V 77
+mergefrom user_dworley_redirectors2main 7348
+
+Fix bollixed merge properties.
+
+END

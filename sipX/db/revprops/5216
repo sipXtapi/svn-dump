@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-28T15:15:31.294061Z
+K 7
+svn:log
+V 153
+Switch to c3p0 connection pooling in an experimental attempt to address XCF-643: SQL exceptions in tests due to java.net.SocketException: Socket closed.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-01-23T18:12:36.105272Z
+K 7
+svn:log
+V 52
+Added sipXmedia unit test and sandbox to the build.
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2004-11-09T21:27:22.633955Z
+K 7
+svn:log
+V 232
+Added a shell script, check-fqdn, which will check that the hostname of the
+host machine is fully qualified (i.e. fubar.com).  sipxpbx has also been
+updated to run check-fqdn to verify the hostname before allowing sipxpbx to
+start.
+
+END

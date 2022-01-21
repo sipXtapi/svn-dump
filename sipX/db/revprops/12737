@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2019-10-09T22:48:06.572506Z
+K 7
+svn:log
+V 55
+Fix autoconf rules to find gsm header if its installed
+
+END

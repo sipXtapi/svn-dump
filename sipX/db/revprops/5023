@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-11T17:13:51.907115Z
+K 7
+svn:log
+V 146
+Fix bugs having to do with user ID/alias validation: XCF-595, XCF-597, XCF-514. Also fix XCF-245: allow the user ID to be any valid SIP username.
+
+END

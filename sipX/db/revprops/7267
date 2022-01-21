@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-08-15T20:15:58.738980Z
+K 7
+svn:log
+V 309
+Merged revisions 7264 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7264 | bob | 2006-08-15 18:54:57 +0400 | 3 lines
+  
+  r7239 caused some instability (crash on startup) due to a change in behavior in  getAllLocalHostIps -- this should resolved this problem.
+........
+
+END

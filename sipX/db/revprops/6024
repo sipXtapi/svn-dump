@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-01T23:05:54.948115Z
+K 7
+svn:log
+V 89
+fix constructor from UtlHashMap to RegistrationBinding, minor cleanups to remove warnings
+END

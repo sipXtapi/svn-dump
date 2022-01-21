@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2009-03-15T18:52:48.311175Z
+K 7
+svn:log
+V 85
+Re-added -Wl,-all_load for MacOS, but using automake/autoconf for platform detection
+
+END

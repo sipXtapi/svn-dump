@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-03-20T19:03:55.506679Z
+K 7
+svn:log
+V 208
+Restructured call state writing - instead of having one writer
+handling both file and database logging, CallStateEventWriter
+has become a base class with specialized XML and DB writers
+being derived from it.
+
+END

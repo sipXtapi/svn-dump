@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-02-17T11:14:38.073727Z
+K 7
+svn:log
+V 82
+sipXmediaLib: Fix member variables initialization order in MpGenericResourceTest.
+
+END

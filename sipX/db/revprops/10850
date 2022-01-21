@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-10-18T00:00:19.595735Z
+K 7
+svn:log
+V 91
+Make MpWBInputOutputDeviceTest better suited for testing on very slow machines (e.g. VMs).
+
+END

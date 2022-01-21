@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2004-12-28T21:52:16.669722Z
+K 7
+svn:log
+V 97
+Add config/sipXcommon.mak.in explicitely to EXTRA_DIST, autoconf 2.57 doesn't handle it correctly
+END

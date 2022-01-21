@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-04-04T18:26:52.365599Z
+K 7
+svn:log
+V 211
+Windows CE 6.0 changes.
+Add some file manipulation functions to WinCE Fixups,
+and some guards in a few CallLib files for headers that are not present or needed in CE6.
+These changes are made by Sergey Kostanbaev
+END

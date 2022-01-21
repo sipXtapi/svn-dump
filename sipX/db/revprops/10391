@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-12-11T11:41:41.362267Z
+K 7
+svn:log
+V 233
+Reduce scope of lock in MpAudioOutputConnection::tickerCallback() to cut down context switch overhead in case when MediaTask have higher priority 
+then driver's thread. This is undesirable combination of threads' priorities, though.
+
+END

@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2009-03-06T22:15:55.270201Z
+K 7
+svn:log
+V 404
+VC6 fixes:
+
+Remove Most Tao* all Pt* and all Ps* classes from sipXcallLib
+Remove sipXtapi classes from being linked into sipXcallLib
+Create new sipXtapi project/library under VS6 - matching what is done under
+other compilers/platforms, adding in all sipXtapi code.
+Fix speex plugin to include frame_num.c
+Cleanup all projects to standardize order of include and link path lines to
+ease in comparisons.
+
+
+
+END

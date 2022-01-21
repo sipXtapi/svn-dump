@@ -1,0 +1,39 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-10-23T14:53:37.139262Z
+K 7
+svn:log
+V 912
+Manually merged revisions 7578-7580 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+PS I greatly refactored Larry Budnick's code for dejitter. And now I'm not
+sure it give us big advantage over old code. May be it solve some problems,
+but it had many logical errors. I've cleaned all of them I found, but there
+may be even more.
+
+........
+  r7578 | bob | 2006-09-27 00:48:55 +0400 | 5 lines
+  
+  simple rt 2 of 2: Merging sipXmediaLib changes from sipX main (r7573) to the sipXtapi branch.
+  
+  This mostly includes Larry Budnick's dejitter changes.
+........
+  r7579 | bob | 2006-09-27 00:53:06 +0400 | 6 lines
+  
+  Part 3 of 4: Merging sipXmediaLib changes from sipX main (r7573) to the sipXtapi branch.
+  
+  New files missing in previous check-in.  The next check-in will include build fixes for Linux.
+........
+  r7580 | bob | 2006-09-27 01:22:07 +0400 | 3 lines
+  
+  Build fixes for Linux.
+........
+
+
+END

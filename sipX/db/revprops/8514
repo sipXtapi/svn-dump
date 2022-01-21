@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-01-11T19:15:43.844537Z
+K 7
+svn:log
+V 32
+Fix for msvc6 automated build.
+
+
+END

@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-12-28T23:44:25.831387Z
+K 7
+svn:log
+V 732
+Windows Visual Studio 2003 build system cleanups and fixes.
+
+* Build system use project dependancies actively. All sipX libraries that should be linked are set as project dependancies and removed from list of input libraries. This approach simplify maintains of multiple project configurations - we may not bother about right library linked to project, it will be selected automatically.
+* Unnecessary input libraries such as msvcrtd.lib, msvcprtd.lib and rpcrt4.lib removed, and all ignored libraries removed too. C-libraries should be specified through 'RuntimeLibrary' parameter.
+* Added project for sipXunit wrapper over CPPUnit - sipXunitTestSuite.vcproj. Direct sipXunit files include replaced with linking with this library.
+
+END

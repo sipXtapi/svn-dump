@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-05-06T17:00:32.709675Z
+K 7
+svn:log
+V 134
+sipxDestroyMediaFactoryFactory: Do nothing if (siInstanceCount==0). This situation causes PlaceCall to crash if called with no params.
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-22T20:33:03.261166Z
+K 7
+svn:log
+V 112
+Fixed a bug the playtone routines for PlaceCall and ReceiveCall -- The digit '9' wouldn't play.  Thanks Marty!
+
+
+END

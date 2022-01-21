@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-09T20:04:44.677390Z
+K 7
+svn:log
+V 95
+added J2EE connector - it's not used directly by sipXconfig but it is referenced by spring pom
+
+END

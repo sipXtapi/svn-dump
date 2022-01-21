@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-09-15T21:56:40.395067Z
+K 7
+svn:log
+V 55
+Use variables from sipXlib.m4 to control default paths
+
+END

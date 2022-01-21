@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-09T20:26:46.917676Z
+K 7
+svn:log
+V 252
+XCF0-1288  generate resource-lists.xml file based on information in speed dial entries
+- replication resource-lists.xml using replication.cgi to /etc/sipxpbx/resource-lists.xml
+- add entry to resourcemap.xml.in to enable resource-lists.xml replication
+
+END

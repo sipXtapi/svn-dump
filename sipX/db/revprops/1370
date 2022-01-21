@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-09-27T19:58:00.914178Z
+K 7
+svn:log
+V 89
+Cleaned up some dead code in the TaoProviderAdapter and a few dead constants in TaoDefs.h
+END

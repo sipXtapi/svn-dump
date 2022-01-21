@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2006-09-06T17:28:01.794401Z
+K 7
+svn:log
+V 40
+Remove "implicit" variable $(builddir)
+
+
+END

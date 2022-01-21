@@ -1,0 +1,198 @@
+PLAIN
+K 10
+svn:ignore
+V 47
+Doxyfile
+Makefile
+Makefile.in
+html
+sipXtackLib
+
+END
+ENDREP
+id: e1.0.r795/86
+type: dir
+pred: e1.0.r792/7201
+count: 11
+text: 792 6977 211 211 0b91fabe53c007a7a381ba653b3010de
+props: 795 0 73 0 19baf69028a4658472d5e2deafeaed48
+cpath: /old/sipXtackLib/main/doc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 20
+file dl.0.r772/70283
+K 9
+ChangeLog
+V 18
+file dm.0.r789/484
+K 7
+INSTALL
+V 20
+file dn.0.r772/76238
+K 7
+LICENSE
+V 18
+file do.0.r772/718
+K 11
+Makefile.am
+V 20
+file dp.0.r772/77128
+K 4
+NEWS
+V 20
+file dq.0.r772/79111
+K 6
+README
+V 20
+file dr.0.r772/69980
+K 4
+TODO
+V 20
+file ds.0.r772/75936
+K 9
+acsite.m4
+V 20
+file dt.0.r772/28655
+K 14
+ant-targets.am
+V 20
+file du.0.r772/27708
+K 15
+ant-targets.xml
+V 20
+file dv.0.r772/55675
+K 3
+bin
+V 18
+dir l0.0.r792/7705
+K 20
+config.properties.in
+V 20
+file dz.0.r772/75620
+K 12
+configure.ac
+V 19
+file e0.0.r792/6281
+K 3
+doc
+V 16
+dir e1.0.r795/86
+K 7
+include
+V 18
+dir e5.0.r784/5443
+K 3
+lib
+V 20
+dir gh.0.r650/115439
+K 4
+meta
+V 16
+dir l6.0.r776/60
+K 15
+sipXtackLib.dsp
+V 20
+file gj.0.r772/71976
+K 15
+siplog2siptrace
+V 18
+dir gk.0.r792/8312
+K 7
+siptest
+V 18
+dir gn.0.r792/5435
+K 11
+siptest.dsp
+V 18
+file kv.0.r772/412
+K 9
+sipviewer
+V 19
+dir hn.0.r772/86823
+K 19
+sipxtacklib.spec.in
+V 18
+file kw.0.r782/147
+K 3
+src
+V 18
+dir i8.0.r794/3914
+K 15
+syslog2siptrace
+V 18
+dir kk.0.r792/6050
+END
+ENDREP
+id: dk.0.r795/1347
+type: dir
+pred: dk.0.r794/5181
+count: 132
+text: 795 299 1035 1035 4972d49aa57f9eb2885c4ee2a4822020
+props: 789 1763 489 0 8f9d22b09a05bae37d5750d240b8ec7f
+cpath: /old/sipXtackLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir kz.0.r787/2627
+K 4
+main
+V 18
+dir dk.0.r795/1347
+K 4
+tags
+V 18
+dir kr.0.r788/4128
+END
+ENDREP
+id: dj.0.r795/1684
+type: dir
+pred: dj.0.r794/5519
+count: 196
+text: 795 1564 107 107 de551062439c4f556c3ff83a51b2e585
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 18
+dir dj.0.r795/1684
+END
+ENDREP
+id: 1.0.r795/1938
+type: dir
+pred: 1.0.r794/5773
+count: 794
+text: 795 1840 85 85 5c7dd8b0b85ece17cbce90f67c01af00
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r795/1938
+END
+ENDREP
+id: 0.0.r795/2126
+type: dir
+pred: 0.0.r794/5961
+count: 795
+text: 795 2078 35 35 a4efd93c46478b25bf7350ec331090e4
+cpath: /
+copyroot: 0 /
+
+e1.0.t794-1 modify false true /old/sipXtackLib/main/doc
+
+
+2126 2263

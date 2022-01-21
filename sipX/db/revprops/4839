@@ -1,0 +1,29 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-07-13T21:00:25.862893Z
+K 7
+svn:log
+V 1116
+Final merge from old sipfoundry main repositories to new repository.
+
+svn merge -r596:599 https://scm.sipfoundry.org/rep/sipXportLib/main sipX/sipXportLib
+svn merge -r467:471 https://scm.sipfoundry.org/rep/sipXtackLib/main sipX/sipXtackLib
+svn merge -r253:254 https://scm.sipfoundry.org/rep/sipXmediaLib/main sipX/sipXmediaLib
+svn merge -r475:476 https://scm.sipfoundry.org/rep/sipXcallLib/main sipX/sipXcallLib
+svn merge -r298:299 https://scm.sipfoundry.org/rep/sipXcommserverLib/main sipX/sipXcommserverLib
+svn merge -r290:291 https://scm.sipfoundry.org/rep/sipXvxml/main sipX/sipXvxml
+svn merge -r1068:1113 https://scm.sipfoundry.org/rep/sipXconfig/main sipX/sipXconfig
+svn merge -r248:249 https://scm.sipfoundry.org/rep/sipXregistry/main sipX/sipXregistry
+svn merge -r202:203 https://scm.sipfoundry.org/rep/sipXproxy/main sipX/sipXproxy
+svn merge -r184:185 https://scm.sipfoundry.org/rep/sipXpublisher/main sipX/sipXpublisher
+svn merge -r578:580 https://scm.sipfoundry.org/rep/sipXpbx/main sipX/sipXpbx
+
+Results were heavily edited before checking in because most of the
+differences had already been moved over.
+
+END

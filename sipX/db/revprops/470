@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-03-23T20:23:00.959679Z
+K 7
+svn:log
+V 182
+Modified .vcproj to include OsStunQueryAgent.cpp and OsStunDatagramSocket.cpp.
+
+Also changed #include <iostream.h> to #include <iostream>  (because it was not finding it with VC7.1)
+
+END

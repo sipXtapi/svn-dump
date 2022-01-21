@@ -1,0 +1,32 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-02-12T02:09:33.980699Z
+K 7
+svn:log
+V 803
+Add httpd.conf, because we now allow processing CGI scripts.
+
+Add registrar-config.in, to record the explicit minimum registration
+expiration of 5 minutes.  (So we can detect UAs that we goad into
+re-registering more frequently.)
+
+Add "scripts" directory to hold reporting scripts and the crontab file
+that drives them.
+
+Add dialog-event.cgi to find and analyze the last dialog event package
+from an extension.
+
+Update index.html to use <pre> for preformatted lists, rather than
+<code>, which does not respect line breaks on some browsers.
+
+Update registrations.cgi to list User-Agent values, print table values
+in <code> font, insert <wbr/> tags to allow breaks so the table is no
+wider than the browser's screen, align numeric fields rightward, and
+attempt to avoid flowing the text around the table.
+
+END

@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-10-15T14:16:43.476019Z
+K 7
+svn:log
+V 305
+Fixed a bunch of compile issues with include paths
+and #defines related to optionally compiling in 3rd
+party jitter and lost packet compensation utilities.
+
+Added autoconf macros to allow optional compile and
+linking of 3rd party jitter and lost packet 
+compensation into the media processing subsystem.
+
+
+END

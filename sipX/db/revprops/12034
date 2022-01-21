@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2013-02-13T00:16:34.009624Z
+K 7
+svn:log
+V 62
+Fix a cut'n'paste glitch in a couple of vxWorks debug messages
+END

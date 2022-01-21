@@ -1,0 +1,201 @@
+PLAIN
+K 20
+ForwardRulesTest.cpp
+V 20
+file 1wz.0.r2112/119
+K 11
+Makefile.am
+V 20
+file 1x0.0.r2113/477
+K 9
+rulesdata
+V 21
+dir 1x1.0.r2097/69588
+END
+ENDREP
+id: 1wy.0.r2116/153
+type: dir
+pred: 1wy.0.r2113/909
+count: 6
+text: 2116 0 140 140 b4a26a7702c83c6c54a7266f61991401
+props: 2102 2383 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXproxy/main/src/test
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 1wo.0.r2097/70679
+K 12
+sipauthproxy
+V 20
+dir 1wp.0.r2115/5045
+K 15
+sipforkingproxy
+V 20
+dir 1wt.0.r2115/6269
+K 4
+test
+V 19
+dir 1wy.0.r2116/153
+END
+ENDREP
+id: 1wn.0.r2116/561
+type: dir
+pred: 1wn.0.r2115/6693
+count: 10
+text: 2116 374 174 174 2a0a7ba75c0017be1271d581d0c3c57c
+props: 2102 3136 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXproxy/main/src
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1vu.0.r2097/73441
+K 9
+ChangeLog
+V 20
+file 1vv.0.r2103/312
+K 7
+INSTALL
+V 22
+file 1vw.0.r2097/74618
+K 7
+LICENSE
+V 22
+file 1vx.0.r2097/65444
+K 11
+Makefile.am
+V 20
+file 1vy.0.r2105/101
+K 4
+NEWS
+V 22
+file 1vz.0.r2097/77368
+K 6
+README
+V 22
+file 1w0.0.r2097/73240
+K 4
+TODO
+V 22
+file 1w1.0.r2097/74428
+K 9
+acsite.m4
+V 22
+file 1w2.0.r2097/72742
+K 3
+bin
+V 21
+dir 1w3.0.r2097/75521
+K 12
+configure.ac
+V 20
+file 1w9.0.r2114/327
+K 3
+etc
+V 21
+dir 1wa.0.r2097/77223
+K 7
+include
+V 20
+dir 1wf.0.r2115/4157
+K 17
+sipXauthproxy.dsp
+V 21
+file 1x5.0.r2101/4710
+K 20
+sipXforkingProxy.dsp
+V 21
+file 1x6.0.r2101/4447
+K 3
+src
+V 19
+dir 1wn.0.r2116/561
+END
+ENDREP
+id: 1vt.0.r2116/1450
+type: dir
+pred: 1vt.0.r2115/7584
+count: 17
+text: 2116 781 656 656 b80dec72b3a965399004b56aad32c5f8
+props: 2110 0 190 0 66a663bc4bf903db57e775c3d9045303
+cpath: /old/sipXproxy/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 20
+dir 1vt.0.r2116/1450
+K 4
+tags
+V 20
+dir 1x7.0.r2107/2123
+END
+ENDREP
+id: 1vs.0.r2116/1752
+type: dir
+pred: 1vs.0.r2115/7887
+count: 20
+text: 2116 1665 74 74 292523b6ec50fd4f1a4daadcd5752b61
+cpath: /old/sipXproxy
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2116/1752
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2116/2182
+type: dir
+pred: 1.0.r2115/8317
+count: 2115
+text: 2116 1908 261 261 b3d847ea036b5d26bccf8b64c2a3c609
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2116/2182
+END
+ENDREP
+id: 0.0.r2116/2377
+type: dir
+pred: 0.0.r2115/8512
+count: 2116
+text: 2116 2328 36 36 cea3ad50eb3933d6e6c6d221b04b9c10
+cpath: /
+copyroot: 0 /
+
+1x3.0.r2102/1707 delete false false /old/sipXproxy/main/src/test/unitmain.cpp
+
+
+2377 2518

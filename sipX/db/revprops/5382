@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-10-21T15:44:00.741102Z
+K 7
+svn:log
+V 126
+Use the full host name for sipxpresence server instead of sipxchange_domain_name.
+
+http://track.sipfoundry.org/browse/XCF-723
+
+END

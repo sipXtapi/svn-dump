@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-09-13T21:33:08.641678Z
+K 7
+svn:log
+V 91
+Disabled debugging flags.  The SIP DNS SRV utility
+got checked in with debugging enabled.
+
+
+END

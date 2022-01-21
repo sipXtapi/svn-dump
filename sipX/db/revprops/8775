@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-02-13T23:03:07.951010Z
+K 7
+svn:log
+V 166
+XCF-1347 - Stop warnings in polycom profile generation by adding capability to stop an interation during setting set visitation when returning false from visit method
+END

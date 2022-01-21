@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-01-23T19:29:01.481955Z
+K 7
+svn:log
+V 146
+Undo inadvertant refereence to JDK as eclipse "con" type, whatever that means.  It was causing "Object not found" when opening project in eclipse.
+END

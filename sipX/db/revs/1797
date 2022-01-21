@@ -1,0 +1,56 @@
+id: 1qn.0.r1797/0
+type: dir
+count: 0
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 17
+dir 1qn.0.r1797/0
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1797/313
+type: dir
+pred: 1.0.r1796/3822
+count: 1796
+text: 1797 82 218 218 bcda91d5ba9e14aaba3df4a022b3cb01
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r1797/313
+END
+ENDREP
+id: 0.0.r1797/504
+type: dir
+pred: 0.0.r1796/4017
+count: 1797
+text: 1797 456 35 35 91a7ab28070152a975c3aef5a7895e65
+cpath: /
+copyroot: 0 /
+
+_0.0.t1796-1 add false false /old/sipXcommserverLib
+
+
+504 643

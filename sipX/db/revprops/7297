@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-18T23:28:26.737171Z
+K 7
+svn:log
+V 211
+XCF-1181/XCF-1182 settings support for Park Orbits
+- park orbit object is now bean with groups to support default and per orbit settings
+- settings model file added
+- DB and UI changes to display orbit settings
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-11-17T19:59:58.826830Z
+K 7
+svn:log
+V 140
+changes in setting decorators infrastructure
+added decorating vistitor to allow for more convenient decorating of hierarchical settings sets
+END

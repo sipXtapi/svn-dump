@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-05T19:18:20.210130Z
+K 7
+svn:log
+V 589
+mergefrom-incremental pingtel-main 4943
+
+Added the check for dialog handle to prevent the crash of
+unsubscribing due to the event of not being successfully subscribed at
+the first place.
+
+Added some checks for the active agent pointer before using it to
+prevent the crash.
+
+Fixed the issue of putting the routing call in the queue (ENG-346) and
+also added stopAudio when a call is being dropped.
+http://paradise.pingtel.com:8080/browse/ENG-346
+
+Cleaned up all the timers in the destructor.
+
+Fixed the issue of crash during the ACD shutdown.
+http://paradise.pingtel.com:8080/browse/ENG-374
+
+END

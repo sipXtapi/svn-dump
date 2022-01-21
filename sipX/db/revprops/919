@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-04-26T21:12:06.266734Z
+K 7
+svn:log
+V 262
+Merged revisions 319 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.8
+    
+    r319 | xmlscott | 2005-04-26 17:08:35 -0400 (Tue, 26 Apr 2005) | 4 lines
+    [XSL-78] disable excessive logging
+    http://track.sipfoundry.org/browse/XSL-78
+
+END

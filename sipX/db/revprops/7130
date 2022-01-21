@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-07-27T14:59:24.392258Z
+K 7
+svn:log
+V 69
+Add patches and makefiles to build dependencies for rpm-based distros
+END

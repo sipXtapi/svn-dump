@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-08-05T04:13:13.855244Z
+K 7
+svn:log
+V 272
+Fixes for sipXtapi unit tests under Win32:
+
+1) Removed random MEDIA_STOPed events on call tear down
+2) The NOTIFY and INFO message tests were not taking into account the content lenght and assuming the data was null-terminated (not always the case)
+3) Minor other tweaks
+
+
+END

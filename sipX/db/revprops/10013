@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-08-30T13:28:32.512442Z
+K 7
+svn:log
+V 107
+sipXmediaFactoryImpl::buildCodecFactory() should do all of its work only when SdpCodecFactory is supplied.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-03-16T16:35:52.560043Z
+K 7
+svn:log
+V 204
+Fixed the logging so that all the messages in VXI component will be outputed to vxmlengine.log. Furthermore, the flag to turn on or off the VXI component logging is added to the mediaserver-config file.
+
+
+END

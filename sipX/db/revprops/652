@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-08-24T02:47:31.330961Z
+K 7
+svn:log
+V 136
+Fixed some bugs related to TLS support in the SipUserAgent.
+
+Implemented the missing part of TLS support in the DNS SRV
+query utility.
+
+
+END

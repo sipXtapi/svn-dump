@@ -1,0 +1,135 @@
+PLAIN
+K 13
+svn:externals
+V 70
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.8/config
+
+K 10
+svn:ignore
+V 218
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxcommserverlib-*.rpm
+sipxcommserverlib-*.tar.gz
+sipxcommserverlib.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 61
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 25
+1-135,148,157,164,167,184
+K 17
+svnmerge-2.8-head
+V 61
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 5
+1-199
+K 18
+svnmerge-main-head
+V 53
+https://scm.sipfoundry.org/rep/sipXcommserverLib/main
+K 18
+svnmerge-main-revs
+V 5
+1-198
+END
+ENDREP
+id: 1qo.0.r1998/737
+type: dir
+pred: 1qo.0.r1997/2334
+count: 138
+text: 1997 1544 777 777 2c7221070c11cc7ce91b11d005c50bf6
+props: 1998 0 724 0 7f00c5cec27bc1e8a8eff668f83bee49
+cpath: /old/sipXcommserverLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 1v5.0.r1996/962
+K 4
+main
+V 19
+dir 1qo.0.r1998/737
+K 4
+tags
+V 20
+dir 1uu.0.r1982/3840
+END
+ENDREP
+id: 1qn.0.r1998/1085
+type: dir
+pred: 1qn.0.r1997/2687
+count: 201
+text: 1998 961 111 111 48bc3d9ac5a50c9cc60514b573953f7b
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r1998/1085
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1998/1485
+type: dir
+pred: 1.0.r1997/3088
+count: 1997
+text: 1998 1251 221 221 b72934d92c5ddb3097d6f6d1152665de
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1998/1485
+END
+ENDREP
+id: 0.0.r1998/1680
+type: dir
+pred: 0.0.r1997/3283
+count: 1998
+text: 1998 1631 36 36 9871862283a1a5776e4703b1b1a2efa0
+cpath: /
+copyroot: 0 /
+
+1qo.0.t1997-1 modify false true /old/sipXcommserverLib/main
+
+
+1680 1821

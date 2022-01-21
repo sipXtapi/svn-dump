@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-05-02T20:25:35.785743Z
+K 7
+svn:log
+V 568
+Merged revisions 263-273 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXvxml/branches/user_pin
+    ------------------------------------------------------------------------
+    r271 | dhsu | 2005-04-28 15:18:48 -0400 (Thu, 28 Apr 2005) | 5 lines
+    Changed paths:
+       M /branches/user_pin/src/prompt/osbprompt_tts.cpp
+       M /branches/user_pin/src/prompt/osbprompt_tts.h
+    
+    Changed how to pronounce the natural number up to 999,999,999,999,999. Furthermore, added a hook for localization.
+    
+    http://track.sipfoundry.org/browse/XVX-138
+    
+    
+
+END

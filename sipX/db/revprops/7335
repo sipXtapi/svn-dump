@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-24T16:11:27.095666Z
+K 7
+svn:log
+V 103
+Martin's feedback on Permission feature: move quick help from EditPermission to ListPermission screen.
+
+END

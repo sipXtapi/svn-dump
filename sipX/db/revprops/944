@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-05-04T16:53:22.218412Z
+K 7
+svn:log
+V 444
+Merged revisions 279 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.8
+    ------------------------------------------------------------------------
+    r279 | mardy | 2005-03-28 11:54:47 -0500 (Mon, 28 Mar 2005) | 2 lines
+    Changed paths:
+       M /branches/2.8/src/net/SipTransaction.cpp
+       M /branches/2.8/src/net/SipUserAgent.cpp
+    
+    Change logging messages for benign error condition to DEBUG level.
+    
+
+END

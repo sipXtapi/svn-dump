@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2008-05-04T18:09:45.208788Z
+K 7
+svn:log
+V 67
+-removed perforce source control binding from sipXtapi project file
+END

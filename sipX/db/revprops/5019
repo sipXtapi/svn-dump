@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-09-09T22:11:01.716369Z
+K 7
+svn:log
+V 85
+XCF-570 Change polycom 3000 to 4000, also make sure existing 3000 models are migrated
+END

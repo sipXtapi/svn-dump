@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-02-21T20:29:25.347395Z
+K 7
+svn:log
+V 82
+Modify xmlrpcClient to exercise XML-RPC request in a multi-threaded 
+environment.
+
+END

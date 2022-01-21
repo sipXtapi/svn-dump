@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-08-15T19:31:47.242116Z
+K 7
+svn:log
+V 153
+Utilize new notifications in buffer recorder, and modify mediaAdapterLibTest tests to test it.
+Send a notification when recording is stopped or finished.
+END

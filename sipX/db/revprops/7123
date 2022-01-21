@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-07-26T14:55:01.438936Z
+K 7
+svn:log
+V 64
+Correct scoping problems re-introduced with vxworks port changes
+END

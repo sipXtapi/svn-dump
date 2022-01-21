@@ -1,0 +1,146 @@
+PLAIN
+K 13
+svn:externals
+V 70
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6/config
+
+K 10
+svn:ignore
+V 145
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+sipxpublisher.spec
+
+K 18
+svnmerge-main-head
+V 49
+https://scm.sipfoundry.org/rep/sipXpublisher/main
+K 18
+svnmerge-main-revs
+V 4
+1-68
+END
+ENDREP
+id: 20n.e5.r2617/392
+type: dir
+pred: 20n.0.r2616/5765
+count: 56
+text: 2616 5070 682 682 586632387274007101bd0a44d0775e66
+props: 2617 0 379 0 49e11170c6599af8474d0e3cc4ce4b85
+cpath: /old/sipXpublisher/branches/2.6
+copyfrom: 2616 /old/sipXpublisher/main
+
+PLAIN
+K 3
+2.6
+V 20
+dir 20n.e5.r2617/392
+K 10
+post-2.6.1
+V 21
+dir 20n.e1.r2612/1912
+END
+ENDREP
+id: 221.0.r2617/739
+type: dir
+pred: 221.0.r2612/2252
+count: 6
+text: 2617 645 81 81 fa6542321351e1ff3f86b5232769c2a2
+cpath: /old/sipXpublisher/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 221.0.r2617/739
+K 4
+main
+V 20
+dir 20n.0.r2616/5765
+K 4
+tags
+V 19
+dir 21v.0.r2615/837
+END
+ENDREP
+id: 20m.0.r2617/1029
+type: dir
+pred: 20m.0.r2616/6113
+count: 69
+text: 2617 905 111 111 fc96cec2cf439602828f974e01bf506f
+cpath: /old/sipXpublisher
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2617/1029
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2617/1553
+type: dir
+pred: 1.0.r2616/6638
+count: 2616
+text: 2617 1190 350 350 c38effc59b0db8e2991e9c0dc4e1ca38
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2617/1553
+END
+ENDREP
+id: 0.0.r2617/1748
+type: dir
+pred: 0.0.r2616/6833
+count: 2617
+text: 2617 1699 36 36 f4e4c16b50325677f7980b900e1291ed
+cpath: /
+copyroot: 0 /
+
+20n._0.t2616-1 add false true /old/sipXpublisher/branches/2.6
+2616 /old/sipXpublisher/main
+
+1748 1889

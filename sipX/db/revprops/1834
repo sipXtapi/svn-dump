@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-08-30T16:47:50.991017Z
+K 7
+svn:log
+V 60
+Correct this for use when no interface has a 0.0.0.0 route
+
+
+END

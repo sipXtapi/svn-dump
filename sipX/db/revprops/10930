@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2008-11-14T16:17:27.801833Z
+K 7
+svn:log
+V 199
+The Content-Type header field may contain parameters.
+Fixed the HttpBody pseudo factory so that it looks at
+only the content type, without the parameters.
+
+Added content-indirection type definition.
+
+END

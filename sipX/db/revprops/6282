@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-03-02T04:46:25.363842Z
+K 7
+svn:log
+V 86
+XCF-931 Go to 3.0 schema after migrating from 2.8, then allow system to upgrade to 3.2
+END

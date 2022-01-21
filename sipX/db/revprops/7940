@@ -1,0 +1,588 @@
+K 10
+svn:author
+V 4
+szuk
+K 8
+svn:date
+V 27
+2006-11-03T22:34:30.649999Z
+K 7
+svn:log
+V 23749
+Merged revisions 7726-7927 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main
+
+................
+  r7728 | lazyboy | 2006-10-11 07:46:02 -0600 (Wed, 11 Oct 2006) | 1 line
+  
+  Typo Supervisor Grops instead of Supervisor Groups, only in main
+................
+  r7729 | dworley | 2006-10-11 07:58:53 -0600 (Wed, 11 Oct 2006) | 2 lines
+  
+  Use *1 as the dialing prefix for ISN dialing.
+................
+  r7730 | xmlscott | 2006-10-11 08:30:17 -0600 (Wed, 11 Oct 2006) | 4 lines
+  
+  [XPB-808] Correct spelling of namespace (prevents bogus warning at
+            startup)
+            Added a couple of files to the snapshot.
+................
+  r7737 | dkrzemin | 2006-10-11 15:13:47 -0600 (Wed, 11 Oct 2006) | 31 lines
+  
+  Merged revisions 7712-7736 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/branches/3.6/sipXconfig
+  
+  ........
+    r7714 | dkrzemin | 2006-10-09 17:19:32 -0400 (Mon, 09 Oct 2006) | 2 lines
+    
+    XCF-1153 Implemented SipxServer.reset that clears setting cache and is called when Cancel button is pressed. Clean validation errors before calling cancel listener.
+  ........
+    r7725 | lazyboy | 2006-10-10 18:34:51 -0400 (Tue, 10 Oct 2006) | 1 line
+    
+    XCF-1281 Fix phone group edit page to default to polycom 2.0 v.s. 1.6
+  ........
+    r7732 | dkrzemin | 2006-10-11 10:41:13 -0400 (Wed, 11 Oct 2006) | 2 lines
+    
+    XCF-581 sipXconfig used to ignore error code reported by backup script - I changed it so that whenever at least one of the backup scripts reports error condition we log the error and display generic failure message on backup screen
+  ........
+    r7733 | dkrzemin | 2006-10-11 11:01:46 -0400 (Wed, 11 Oct 2006) | 2 lines
+    
+    XCF-1318 change log4j configuration to only log warings and errors once
+  ........
+    r7735 | dkrzemin | 2006-10-11 14:13:17 -0400 (Wed, 11 Oct 2006) | 2 lines
+    
+    XCF-1314 re-added explicit call to activateParkOrbits when saving a new orbit from UI and from SOAP service
+  ........
+    r7736 | dkrzemin | 2006-10-11 16:31:26 -0400 (Wed, 11 Oct 2006) | 4 lines
+    
+    XCF-1270 dojo library was missing (empty files) - because of that autocompleter did not work and JavaScript errors were displayed by IE and FF
+    - update to Tapestry 4.0.2
+    - use IE workaround described here: http://tacos.sourceforge.net/faq.html#faq-N100A2
+  ........
+................
+  r7739 | lazyboy | 2006-10-11 15:44:01 -0600 (Wed, 11 Oct 2006) | 1 line
+  
+  update database version to keep 3.6 from running against this incompatible version
+................
+  r7743 | lazyboy | 2006-10-11 22:07:10 -0600 (Wed, 11 Oct 2006) | 6 lines
+  
+  Merged revisions 7737-7742 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/branches/3.6/sipXconfig
+  
+  XCF-1275 always keep stderr from database command going to console, dump stdout if there was an error (helpful) and always supress output about missing tools.jar
+................
+  r7746 | dkrzemin | 2006-10-12 08:33:39 -0600 (Thu, 12 Oct 2006) | 9 lines
+  
+  Merged revisions 7743-7745 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/branches/3.6/sipXconfig
+  
+  ........
+    r7745 | dkrzemin | 2006-10-12 10:13:24 -0400 (Thu, 12 Oct 2006) | 2 lines
+    
+    XCF-1319 MusicOnHold.saveValid was calling itself recursively! - fixed and added UI test
+  ........
+................
+  r7750 | lazyboy | 2006-10-12 14:49:55 -0600 (Thu, 12 Oct 2006) | 1 line
+  
+  XCF-1299 - Initial page to create a single phone directory, no logic yet
+................
+  r7753 | xmlscott | 2006-10-13 06:45:13 -0600 (Fri, 13 Oct 2006) | 2 lines
+  
+  [XRR-121] Update HA configuration instructions
+................
+  r7758 | xmlscott | 2006-10-15 12:38:32 -0600 (Sun, 15 Oct 2006) | 3 lines
+  
+  [XPB-814] Change watchdogprocess schema to match actual usage
+  [XPB-815] Add .process.xml files to snapshots
+................
+  r7760 | martin | 2006-10-15 20:06:12 -0600 (Sun, 15 Oct 2006) | 2 lines
+  
+  More German translation files
+................
+  r7761 | dpetrie | 2006-10-16 14:29:55 -0600 (Mon, 16 Oct 2006) | 3 lines
+  
+  Fixed the MSVS6 dsp files so that the release configuration works again.
+................
+  r7762 | dworley | 2006-10-16 14:36:41 -0600 (Mon, 16 Oct 2006) | 3 lines
+  
+  Change httpd.conf to work with Apache 2.2.2.
+  Move relocatability fixes.
+................
+  r7763 | dpetrie | 2006-10-16 14:50:09 -0600 (Mon, 16 Oct 2006) | 4 lines
+  
+  Fixed call-id generator so that it does not require 64 bit 
+  printf format: %lld as this seems to have some problems on
+  some platforms.
+................
+  r7764 | dpetrie | 2006-10-16 14:54:00 -0600 (Mon, 16 Oct 2006) | 2 lines
+  
+  Fixed MSVS6 dsp files so that the release configuration builds again.
+................
+  r7765 | dpetrie | 2006-10-16 15:01:05 -0600 (Mon, 16 Oct 2006) | 6 lines
+  
+  Fixed argument mis-matches caused by submission 7678.
+  
+  Please run the unit tests when you change a class!
+  At least build them.
+................
+  r7772 | lazyboy | 2006-10-17 15:17:06 -0600 (Tue, 17 Oct 2006) | 1 line
+  
+  XCF-1299 add phonebook CRUD
+................
+  r7773 | xmlscott | 2006-10-17 15:20:34 -0600 (Tue, 17 Oct 2006) | 5 lines
+  
+  [XPR-182] Enforce use of the authproxy when configured, even
+            when a redirect or a sender provides other routes.
+            with upgrade support
+  [XPR-191] Enforce Proxy-Require in the forking proxy.
+................
+  r7775 | dkrzemin | 2006-10-17 17:06:00 -0600 (Tue, 17 Oct 2006) | 2 lines
+  
+  Basic support for ClearOne MAX IP
+................
+  r7776 | martin | 2006-10-17 20:07:44 -0600 (Tue, 17 Oct 2006) | 2 lines
+  
+  More German translations
+................
+  r7777 | dkrzemin | 2006-10-17 22:02:45 -0600 (Tue, 17 Oct 2006) | 2 lines
+  
+  Fix ClearonePhoneTest - standardize on CRLF line endings for phone configuration file.
+................
+  r7779 | dkrzemin | 2006-10-18 12:16:22 -0600 (Wed, 18 Oct 2006) | 2 lines
+  
+  Setting SIP parameters for Clearone phone.
+................
+  r7784 | dkrzemin | 2006-10-18 21:30:49 -0600 (Wed, 18 Oct 2006) | 2 lines
+  
+  Experimental Mitel plugin.
+................
+  r7793 | dkrzemin | 2006-10-19 13:48:19 -0600 (Thu, 19 Oct 2006) | 2 lines
+  
+  Fix the case in Clearone configuration file name.
+................
+  r7795 | martin | 2006-10-19 20:09:06 -0600 (Thu, 19 Oct 2006) | 2 lines
+  
+  More German translations (spelling corrections and Umlaute)
+................
+  r7796 | martin | 2006-10-19 20:13:26 -0600 (Thu, 19 Oct 2006) | 2 lines
+  
+  Translation of the Swiss dial plan (dial plans should be in local language)
+................
+  r7797 | dkrzemin | 2006-10-20 16:10:23 -0600 (Fri, 20 Oct 2006) | 2 lines
+  
+  Generating basic dialplan file for Clearone phone.
+................
+  r7798 | dkrzemin | 2006-10-20 16:33:55 -0600 (Fri, 20 Oct 2006) | 2 lines
+  
+  Fix line endings in c1dialplan template (use CRLF always)
+................
+  r7799 | martin | 2006-10-20 19:52:47 -0600 (Fri, 20 Oct 2006) | 2 lines
+  
+  Translation of German & Swiss dial plans
+................
+  r7800 | cypromis | 2006-10-23 04:40:07 -0600 (Mon, 23 Oct 2006) | 3 lines
+  
+  FIX for hitachi provisioning error
+  see: http://track.sipfoundry.org/browse/XCF-1267
+................
+  r7801 | dworley | 2006-10-23 08:03:07 -0600 (Mon, 23 Oct 2006) | 3 lines
+  
+  Add a little more information to the main page about the Interop
+  configuration.
+................
+  r7802 | dkrzemin | 2006-10-23 08:20:17 -0600 (Mon, 23 Oct 2006) | 2 lines
+  
+  temporarily remove Micha?\197?\130 fix to XCF-1267 (breaks the test and should be fixed in 3.6 first)
+................
+  r7804 | dworley | 2006-10-23 11:04:46 -0600 (Mon, 23 Oct 2006) | 2 lines
+  
+  Add note that call park extensions produce dialog events.
+................
+  r7810 | lazyboy | 2006-10-23 14:43:32 -0600 (Mon, 23 Oct 2006) | 1 line
+  
+  XCF-1299 Save phonebook from web ui, enable upload of CSV file
+................
+  r7816 | dkrzemin | 2006-10-24 07:57:02 -0600 (Tue, 24 Oct 2006) | 19 lines
+  
+  Merged revisions 7746-7809 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/branches/3.6/sipXconfig
+  
+  ........
+    r7805 | dkrzemin | 2006-10-23 13:33:33 -0400 (Mon, 23 Oct 2006) | 4 lines
+    
+    XCF-1267 Michal's fixes to Hitachi profile
+    - use Veloctiy macros instead of copy and paste when generating profiles
+    - we do not really support well group without any members (I will open a separate issue on that) so when you declare a group in which all members are conditional, declare condition on a group level not on a setting level
+  ........
+    r7806 | dkrzemin | 2006-10-23 15:33:50 -0400 (Mon, 23 Oct 2006) | 2 lines
+    
+    XCF-1335 sipXconfig automatically sets registrar-config.in/SIP_REGISTRAR_DOMAIN_ALIASES variable after list of domain aliases is changed
+  ........
+    r7809 | lazyboy | 2006-10-23 16:16:20 -0400 (Mon, 23 Oct 2006) | 1 line
+    
+    XCF-1339 - Add codec settings for G722 and 650 preference settings to declare G722 as preferred codec
+  ........
+................
+  r7820 | lazyboy | 2006-10-25 13:42:23 -0600 (Wed, 25 Oct 2006) | 1 line
+  
+  XCF-1299 - Generate directory of users for polycom phones from user groups only (no csv yes) and for all polycom phones
+................
+  r7828 | dworley | 2006-10-25 21:58:40 -0600 (Wed, 25 Oct 2006) | 3 lines
+  
+  Fix help message to show the arguments of the --event and ---header
+  options.
+................
+  r7829 | dworley | 2006-10-25 23:02:12 -0600 (Wed, 25 Oct 2006) | 6 lines
+  
+  mergefrom user_dworley_redirectors2main 7456,7510,7738(partial)
+  
+  Improve debugging messages and formatting.
+  
+  Add a method to PluginHooks to report the number of plugins.
+................
+  r7833 | dworley | 2006-10-26 08:34:57 -0600 (Thu, 26 Oct 2006) | 6 lines
+  
+  mergefrom user_dworley_redirectors2main 7509,7588,7651(partial),7751(partial)
+  
+  Add support for NAPTR records.
+  Add routines supporting use of DNS NAPTR records.
+  Make sure that all the necessary code sees -DRES_PARSE_NAPTR.
+................
+  r7834 | dworley | 2006-10-26 08:58:11 -0600 (Thu, 26 Oct 2006) | 4 lines
+  
+  mergefrom user_dworley_redirectors2main 7518
+  
+  Make res_query_and_parse() public.
+................
+  r7836 | dworley | 2006-10-26 11:03:00 -0600 (Thu, 26 Oct 2006) | 11 lines
+  
+  mergefrom user_dworley_redirectors2main 7690(partial),7788,7791,7827
+  
+  Add join redirector.
+  
+  Improve error reporting in dialogdisplay.
+  
+  Fix typos.
+  
+  Add HttpBody::mBodyPartCount to keep count of the number of components
+  of a multipart body.
+................
+  r7838 | dkrzemin | 2006-10-26 11:47:04 -0600 (Thu, 26 Oct 2006) | 17 lines
+  
+  Merged revisions 7810-7837 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/branches/3.6/sipXconfig
+  
+  ........
+    r7818 | dkrzemin | 2006-10-24 13:39:48 -0400 (Tue, 24 Oct 2006) | 2 lines
+    
+    Download service is now using digest mechanism similar to Tapestry Asset service.
+  ........
+    r7822 | martin | 2006-10-25 21:07:21 -0400 (Wed, 25 Oct 2006) | 2 lines
+    
+    Fix XCF-1341: Clarify help text for Intercom feature
+  ........
+    r7835 | dkrzemin | 2006-10-26 12:16:36 -0400 (Thu, 26 Oct 2006) | 2 lines
+    
+    XCF-1313 replicate permissions data when custom permission list is modified (new permission added, old permission deleted, permission default value changed)
+  ........
+................
+  r7841 | martin | 2006-10-26 20:42:42 -0600 (Thu, 26 Oct 2006) | 2 lines
+  
+  More challenging changes for German translation
+................
+  r7842 | dworley | 2006-10-26 21:31:33 -0600 (Thu, 26 Oct 2006) | 18 lines
+  
+  mergefrom user_dworley_redirectors2main 7823-7824
+  
+  Fix signatures of OsConfDb methods so that non-modifying methods can
+  apply to const objects.  Add mutable members and adjust method
+  implementations.
+  Fix routine that parses config file lines to allow whitespace (but not
+  require it) where people expect.
+  Allow comment lines (rather than just as a side effect of failing to
+  parse them).
+  Report config file line syntax errors at CRIT level.
+  Add test for config file parsing method.
+  Re-code OsConfigDb::getSubHash to be more efficient, and allow a const
+  base object.
+  
+  In the sample code for using an iterator, put warning parens around
+  assignments that appear in while clauses:
+      while ((pObj = itor())) { ... }
+................
+  r7843 | dworley | 2006-10-26 22:16:14 -0600 (Thu, 26 Oct 2006) | 10 lines
+  
+  mergefrom user_dworley_redirectors2main 7789-7790
+  
+  Copy the remote contact address when copying information from the
+  SipConnection into a SipSession.
+  This allows generated dialog events to include the remote target field.
+  Remove declarations of unused variables.
+  
+  Correct the name of an attribute of the dialog-info element -- it is
+  "state" not "notify-state".
+................
+  r7844 | dkrzemin | 2006-10-27 08:04:54 -0600 (Fri, 27 Oct 2006) | 2 lines
+  
+  Fixes for GatewayPanel and GatewayTable to allow for translation.
+................
+  r7845 | dworley | 2006-10-27 08:30:32 -0600 (Fri, 27 Oct 2006) | 4 lines
+  
+  mergefrom user_dworley_redirectors2main 7469
+  
+  Change @SIPXMEDIA_MP_LIBS@ to @SIPXMEDIAADAPTER_LIBS@.
+................
+  r7847 | dkrzemin | 2006-10-27 13:27:20 -0600 (Fri, 27 Oct 2006) | 4 lines
+  
+  XPB-836 Martin's fix for Apache home dir on FC6
+  not sure if this is the right thing to do and if someone has a better idea feel free to fix it 
+  I just want to prepare for FC6 build loop
+................
+  r7848 | dworley | 2006-10-27 16:01:43 -0600 (Fri, 27 Oct 2006) | 23 lines
+  
+  mergefrom pingtel-main 7460
+  
+  mergefrom pingtel-3.6 7441-7448,7452,7457-7458
+  Extract the message-processing code from SipAaa::handleMessage as a
+  separate method, SipAaa::proxyMessage, as has been done before in the
+  forking proxy.
+  Partial revert of rev. 6997, so that the tags are taken into account
+  in the route-signature mechanism.
+  It turns out that the original design allows requests in the "forward"
+  direction (the direction of the dialog-creating request) to be
+  authenticated, and requests in the "backward" direction to never be
+  challenged.
+  This mechanism doesn't always work, though, and restores the original
+  problem seen in XPR-64.
+  Changes to not require authorization of in-dialog requests.
+  http://track.sipfoundry.org/browse/XPR-197
+  Add UrlMapping::loadMappingsString to load the mappings from a
+  supplied string, rather than reading them from a file, for testing
+  purposes.
+  Type read-only UtlString arguments as 'const UtlString&'.
+  Add tests for the straightforward versions of all the cases we care
+  about.
+................
+  r7849 | lazyboy | 2006-10-27 16:28:20 -0600 (Fri, 27 Oct 2006) | 1 line
+  
+  Merge r7832, r7831 from sipfoundry 3.6
+................
+  r7851 | martin | 2006-10-27 18:02:09 -0600 (Fri, 27 Oct 2006) | 2 lines
+  
+  German translation of GatewayPanel and GatewayTable
+................
+  r7852 | dworley | 2006-10-27 20:28:30 -0600 (Fri, 27 Oct 2006) | 5 lines
+  
+  mergefrom user_dworley_redirectors2main 7668
+  
+  Minor fixes to the new redirector scheme, mostly involving getting
+  library interdependencies properly declared.
+................
+  r7853 | martin | 2006-10-27 20:50:33 -0600 (Fri, 27 Oct 2006) | 2 lines
+  
+  More translations
+................
+  r7854 | dworley | 2006-10-27 21:20:17 -0600 (Fri, 27 Oct 2006) | 6 lines
+  
+  Yet another version of CpCallManager::getNewCallId.
+  This one removes the need for using long long int's (and the attendant
+  portability hassles), shortens the Call-IDs slightly, but maintains
+  the other desirable properties of the previous version.
+  Add a test to check that successive Call-IDs aren't too similar.
+................
+  r7855 | martin | 2006-10-27 21:43:21 -0600 (Fri, 27 Oct 2006) | 2 lines
+  
+  fix typo
+................
+  r7857 | dworley | 2006-10-27 22:39:59 -0600 (Fri, 27 Oct 2006) | 5 lines
+  
+  mergefrom user_dworley_redirectors2main 7457
+  
+  Pass arguments to UrlMapping::loadMappings by reference rather than by copy.
+  Improve debug messages.
+................
+  r7860 | martin | 2006-10-28 10:54:23 -0600 (Sat, 28 Oct 2006) | 2 lines
+  
+  Translation of caller sensitive emergency routing 
+................
+  r7861 | dworley | 2006-10-28 13:48:55 -0600 (Sat, 28 Oct 2006) | 2 lines
+  
+  Align sipXregistry/lib/plugin/mwi/test/Makefile.am.
+................
+  r7862 | dworley | 2006-10-28 16:19:12 -0600 (Sat, 28 Oct 2006) | 9 lines
+  
+  mergefrom pingtel-main 5580,5718,5836,5853(all partial)
+  
+  Tidy up how SipRedirectorPrivateStorage is handled.
+  
+  mergefrom amazon 5698,5820
+  Apply, to SipRedirectorMPT, Scott's fix to keep HTTP servers from
+  accessing the local file system.
+  Back-merge revs. 5445,5447 from Pingtel-main.
+................
+  r7864 | martin | 2006-10-29 08:08:24 -0700 (Sun, 29 Oct 2006) | 2 lines
+  
+  Translation of Backup (partial) and Device Files (partial). 
+................
+  r7865 | xmlscott | 2006-10-29 09:32:34 -0700 (Sun, 29 Oct 2006) | 1 line
+  
+  add script to report on how expirations are distributed
+................
+  r7866 | dworley | 2006-10-29 15:52:16 -0700 (Sun, 29 Oct 2006) | 7 lines
+  
+  mergefrom pingtel-main 7064,7068,7392,7201(partial)
+  
+  Use the library copy of functions to extract text from XML DOMs.
+  Revise SipRedirectorPickUp to use OrbitFileReader to read orbits.xml.
+  Fix reference to OrbitFileReader.h.
+  Create bootable images, still having pacakge install issues
+................
+  r7867 | xmlscott | 2006-10-29 17:35:08 -0700 (Sun, 29 Oct 2006) | 5 lines
+  
+  [XPB-816] Wait for hold transaction to complete before REFER
+            Adds an optional flag to the Call Manager transfer
+            interfaces, which is used by the autoattendent and park
+            server.
+................
+  r7870 | dworley | 2006-10-29 21:42:13 -0700 (Sun, 29 Oct 2006) | 7 lines
+  
+  mergefrom pingtel-main 5580
+  
+  [XPS-36] Update subscription db rows rather than creating new ones on
+           a refresh request.
+           reclassify routine log message from WARNING to DEBUG
+           add expire-spread to display distribution of registrations and subscriptions
+................
+  r7872 | dworley | 2006-10-30 09:51:15 -0700 (Mon, 30 Oct 2006) | 3 lines
+  
+  When copying a NAPTR record, access the "naptr" element of the union,
+  rather than the "srv" element.
+................
+  r7873 | dworley | 2006-10-30 09:55:52 -0700 (Mon, 30 Oct 2006) | 5 lines
+  
+  Add definition of T_NAPTR to the Windows header file that defines DNS
+  record symbols.  Also add a backup definition to resparse/rr.h, as
+  that seems to be the convention for the more unusual record.types
+  (e.g., SRV).
+................
+  r7875 | dkrzemin | 2006-10-30 11:51:48 -0700 (Mon, 30 Oct 2006) | 2 lines
+  
+  Fix localization for BackupPage.html
+................
+  r7878 | dworley | 2006-10-30 14:13:34 -0700 (Mon, 30 Oct 2006) | 3 lines
+  
+  Initialized merge tracking via svnmerge with revisions 1-7877 from
+  https://scm.sipfoundry.org/rep/sipX/branches/user_dworley_redirectors_merge
+................
+  r7881 | dkrzemin | 2006-10-30 14:45:28 -0700 (Mon, 30 Oct 2006) | 3 lines
+  
+  XCF-1338 Gateways were not returning models correctly. Default gateway constructor was setting model to "generic" getModel method does not resolve model id if model is already set.
+  Uncomment Audioces tests that would have caught this problem and move them to DB category (better run them when DB is available than never).
+................
+  r7887 | dkrzemin | 2006-10-30 17:01:16 -0700 (Mon, 30 Oct 2006) | 3 lines
+  
+  XCF-1295 add route parameter to SIP Trunk Gateway Settings group
+  use route parameter to construct <headerparams>route={route}</headerparams> entry when generating fallbackrules
+................
+  r7898 | dworley | 2006-10-31 11:07:40 -0700 (Tue, 31 Oct 2006) | 15 lines
+  
+  mergefrom pingtel-main 7480
+  
+  Delete unused (and dangling) link.
+  Fix the test which detects (and does not pass to the upper layers)
+  DTMF events which indicate only the prolongation of a key that is
+  already down.
+  Clean up comments.
+  Solve the problem with Polycom phones (which have an error if a
+  re-INVITE arrives while a DTMF key is down) in two ways:
+  Update ParkedCallObject to call CallManager::transfer_blind with the
+  flag indicating that the call should not be put on hold before the
+  REFER is sent.
+  Perform the transfer-to-parker operation upon receiving the keyup
+  event, not the keydown event.
+................
+  r7901 | lazyboy | 2006-10-31 14:29:55 -0700 (Tue, 31 Oct 2006) | 1 line
+  
+  Remove unnec. setting of phone modelIds, use spring bean id instead
+................
+  r7903 | woof | 2006-10-31 14:43:03 -0700 (Tue, 31 Oct 2006) | 9 lines
+  
+  Move vxml script configuration from http-sipxchange-config.sh.in to sipXvxml.sh.in
+  
+  This allows sipXconfig to restart sipXvxml and the vxml scripts will be 
+  reconfigured.
+  
+  Fixes XPB-834
+  
+  --Woof!
+................
+  r7919 | woof | 2006-11-01 15:04:03 -0700 (Wed, 01 Nov 2006) | 36 lines
+  
+  Support a plus sign in a voice mailbox name, and RFC-4240
+  (XPB-769)
+  
+  If a user on the PBX is configured with a plus sign in the user name 
+  portion of the SIP URL (e.g. +13014170700@pbx...), the mailbox name will be
+  "+13014170700".
+  
+  The major issue was the proxy not escaping the plus sign correctly when 
+  creating a URI to hand off to sipxVxml.  In HTTP escaping, a plus sign 
+  ("+") is converted to a space.  As the "digits" portion of the URI was 
+  passed as an HTTP parameter embedded in a SIP URL parameter, an unescaped 
+  plus sign was being converted into a space by the http server serving 
+  the VoiceXML document, and so instead of seeing "mailbox=+13014170700", 
+  it would see "mailbox= 13014170700" and would fail looking up a mailbox 
+  that doesn't exist.
+  
+  To support this, three new "magic" words were added to the mappingrules.xml
+  processing:
+  {user-escaped}
+  {digits-escaped}
+  {vdigits-escaped}
+  
+  These three words are replaced with HTTP escaped versions of {user}, {digits}
+  and {vdigits}.
+  
+  In addition, RFC-4240 defines the sip parameter "voicexml=" for the URL
+  of the voicexml document to execute, rather than the currently used "play=".
+  sipXvxml now supports either.
+  
+  Documentation and defaults for voicexml= and {digits-escaped} changes.
+  Add config support for plus sign in voice mailbox name, and RFC-4240
+  
+  Thanks for the code, Damian!
+  
+  --Woof!
+................
+  r7920 | dworley | 2006-11-01 15:42:50 -0700 (Wed, 01 Nov 2006) | 4 lines
+  
+  Merge revs. 7879-7918 from branch user_dworley_redirectors_merge,
+  which is the merge branch from user_dworley_redirectors.
+  This is the reorganization of the redirectors into a set of plugins.
+................
+  r7922 | dworley | 2006-11-01 17:32:34 -0700 (Wed, 01 Nov 2006) | 3 lines
+  
+  Remove from libsipXregistry_la_SOURCES files that have been moved to
+  sipXregistry/include/registry.
+................
+  r7923 | dworley | 2006-11-01 20:10:27 -0700 (Wed, 01 Nov 2006) | 2 lines
+  
+  Add RPM specifications for the redirector plugin binaries.
+................
+  r7924 | lazyboy | 2006-11-01 23:00:05 -0700 (Wed, 01 Nov 2006) | 1 line
+  
+  XCF-1299 - Add CSV import to phonebook, make entries on polycom not be speed-dials by default
+................
+  r7926 | dworley | 2006-11-02 09:09:36 -0700 (Thu, 02 Nov 2006) | 4 lines
+  
+  Remove directory that should have been deleted during the merge for
+  the new redirector system.  (Its contents have been moved to
+  register_plugins.)
+................
+  r7927 | dkrzemin | 2006-11-02 09:33:44 -0700 (Thu, 02 Nov 2006) | 3 lines
+  
+  XCF-1300 Added support for enabling and disabling ISN dialing from sipXconfig General/SIP Parameters screen.
+  Added support for specifying optional ISN dialing prefix.
+................
+
+END

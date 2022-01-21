@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-07-14T22:10:18.152988Z
+K 7
+svn:log
+V 115
+1.) sipXconfig wasn't writing profiles in correct location   2.) ProfilePublisher failed to start, GLIB link issue 
+END

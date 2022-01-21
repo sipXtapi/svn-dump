@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-10-27T01:44:22.572277Z
+K 7
+svn:log
+V 55
+Fixed several codec specific Fmtp comparison problems.
+
+END

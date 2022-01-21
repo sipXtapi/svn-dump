@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-11-01T23:13:21.895400Z
+K 7
+svn:log
+V 152
+Document procedure for starting just the config server components, obsolete the startup script as it was difficult to maintain and therefore problematic
+END

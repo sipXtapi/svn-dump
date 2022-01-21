@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-07-26T21:40:33.667791Z
+K 7
+svn:log
+V 463
+One more fix for ICE support.
+We send a=candidate instead of a=cand as http://tools.ietf.org/html/draft-ietf-mmusic-ice-17 mentions only a=candidate.
+As transport we send always UDP, as http://tools.ietf.org/html/draft-ietf-mmusic-ice-17#section-15.1 only defines UDP. Although a "token" defined in http://tools.ietf.org/html/rfc3261#page-220 can also be sent, the other side might not understand it.
+
+ICE support needs to be fully updated to the latest draft 17.
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-08-06T17:21:07.780503Z
+K 7
+svn:log
+V 141
+sipXtapi/refresh manager bug found with free world dialup: If we received a 100 TRYING to a REGISTER, we need processed/handled the 200 OK.
+
+
+END

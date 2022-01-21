@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-01-23T21:52:27.954999Z
+K 7
+svn:log
+V 75
+Build ruby abi without minor version, rhel4 will it to work with ruby 1.8.1
+END

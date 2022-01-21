@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-08-17T17:31:01.397294Z
+K 7
+svn:log
+V 60
+FIX BUILD: Remove acsite.m4 from list of files to distribute
+END

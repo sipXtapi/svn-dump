@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2015-08-28T18:22:08.307615Z
+K 7
+svn:log
+V 163
+Added note on multiple file handle possible with sipXtapi record to file append.
+Should wait for MEDIA_RECORDFILE_STOP event before starting again with same file.
+
+END

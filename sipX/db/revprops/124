@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-07-07T13:15:39.167551Z
+K 7
+svn:log
+V 97
+Redhat calls apache startup script apachectl, gentoo calls it apache2ctl, support either in macro
+END

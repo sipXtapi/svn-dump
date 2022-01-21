@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-06-09T02:51:12.000085Z
+K 7
+svn:log
+V 366
+Merge rev 6947 from sipx-3.4:
+Fix XPR-178: Simplify CDRs by dropping view_cdrs_with_call_direction, keep just view_cdrs and include call direction in it. Remove sipx-cdrs-export, bad idea.
+Revise the data export instructions in the user guide to recommend pgadmin III because it's easier to use and works better, also include some info on how to set up pgadmin III.
+
+END

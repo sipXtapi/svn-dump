@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-02-15T15:12:01.223310Z
+K 7
+svn:log
+V 74
+fix for XPH-64.  Array should have been allocated one larger than it was.
+
+END

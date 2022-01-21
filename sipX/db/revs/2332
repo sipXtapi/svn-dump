@@ -1,0 +1,111 @@
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 144
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxregistry.spec
+stamp-h1
+
+END
+ENDREP
+id: 1y5.0.r2332/271
+type: dir
+pred: 1y5.0.r2331/1540
+count: 28
+text: 2331 879 648 648 3b9ec47f2d9190a5ce4c5a5032ecde3f
+props: 2332 0 258 0 1a61ae1164ac0c19824dad4e3902e67e
+cpath: /old/sipXregistry/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 19
+dir 1y5.0.r2332/271
+K 4
+tags
+V 20
+dir 1z5.0.r2316/1476
+END
+ENDREP
+id: 1y4.0.r2332/574
+type: dir
+pred: 1y4.0.r2331/1847
+count: 33
+text: 2332 488 73 73 2d74ef8f2a852401fe390b89dd45f3ee
+cpath: /old/sipXregistry
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 12
+sipXregistry
+V 19
+dir 1y4.0.r2332/574
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2332/1048
+type: dir
+pred: 1.0.r2331/2324
+count: 2331
+text: 2332 731 304 304 b531294e3e557c70ce4af23139202311
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2332/1048
+END
+ENDREP
+id: 0.0.r2332/1242
+type: dir
+pred: 0.0.r2331/2519
+count: 2332
+text: 2332 1193 36 36 209b8f862a3ceda649a69e43ec57b4c6
+cpath: /
+copyroot: 0 /
+
+1y5.0.t2331-1 modify false true /old/sipXregistry/main
+
+
+1242 1383

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-03-11T06:35:39.446681Z
+K 7
+svn:log
+V 108
+Added XmlContent.cpp to the sipXportLib MSVC dsp
+This is used by the proxies which where failing to
+build.
+
+
+END

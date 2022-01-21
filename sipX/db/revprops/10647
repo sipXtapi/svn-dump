@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-05-08T17:11:27.689648Z
+K 7
+svn:log
+V 124
+Provide some comments that explain how to set up resource notifications on a
+media interface within one of the unit tests.
+
+
+END

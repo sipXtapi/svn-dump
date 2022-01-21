@@ -1,0 +1,53 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-29T14:14:43.587661Z
+K 7
+svn:log
+V 1543
+Merged revisions 8522-8536 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8522 | ipse | 2007-01-12 20:50:36 +0300 | 7 lines
+  
+  GSM checked in (not enabled) and more sipXspdLib dependancies added.
+  
+  * libgsm checked in to "sipXmediaLib\contrib" directory. libgsm VS2003 project added to solution, sipXmediaLib is linked with it for now. Will use #pragma for conditional linking.
+  * Added several missed dependancies to sipXsdpLib.
+  * Removed SCC block from sipXtapi.sln.
+........
+  r8523 | ipse | 2007-01-12 21:13:40 +0300 | 2 lines
+  
+  Internal libgsm includes moved to "gsm/" directory.
+........
+  r8528 | ipse | 2007-01-12 23:18:13 +0300 | 2 lines
+  
+  Fixed indentation in help messages in 'general.m4'.
+........
+  r8529 | ipse | 2007-01-12 23:19:19 +0300 | 2 lines
+  
+  Added macro for gsmlib to 'general.m4'.
+........
+  r8533 | ipse | 2007-01-15 03:06:29 +0300 | 2 lines
+  
+  Autoconf scripts for Speex and GSM libraries autodetection implemented. If libspeex and libgsm presence was detected, libraries will be built with Speex and GSM support. To disable Speex or GSM support, use --disable-codec-speex and --disable-codec-gsm.
+........
+  r8534 | ipse | 2007-01-15 12:27:21 +0300 | 2 lines
+  
+  Typo in comment line fixed.
+........
+  r8535 | ipse | 2007-01-15 13:06:30 +0300 | 2 lines
+  
+  Case fixed for header files (make sense on *nix'es).
+........
+  r8536 | ipse | 2007-01-15 13:43:41 +0300 | 2 lines
+  
+  GSM encoder and decoder source and header files added to Makefile.am.
+........
+
+END

@@ -1,0 +1,244 @@
+K 10
+svn:author
+V 3
+msl
+K 8
+svn:date
+V 27
+2006-04-15T17:38:00.606298Z
+K 7
+svn:log
+V 10472
+Update release notes and bump rev from 3.3.0 to 3.3.2 (forgot to update notes and ver for 3.3.1)
+
+XCF-975 Exception on device upload page
+
+[XRR-96] Sanity check replication configuration.
+         If registry peers are configured, check that the domain name
+         is not the same as the local host name, and that the domain
+         name resolves to each of the peers.
+         Updated documentation to clarify setting of realm and domain.
+         http://track.sipfoundry.org/browse/XRR-96
+  Factored out some useful functions for examining configuration
+  settings and resolving dns names and put them in the (new)
+  sipXcommserverLib/src/sipx-utils.sh, which is installed and
+  can be sourced into other scripts as @SIPX_LIBEXECDIR@/sipx-utils.sh
+  Improved some makefiles by removing unconditional builds in shell
+  loops.
+
+Add CGI to report the historical registration information (from the
+logs) rather than the current registration information (from
+registrations.xml).
+
+Initialize sipxconfig merging from 3.2 branch
+
+Merge the configure changes from the CDR branch back to main
+
+Merging rest of CDR branch back to main
+
+XCF-951 - Show how to change pin and aliases from existing SOAP API, will add convience method in main line (3.4)
+XCF-976 Setting.getTypedValue always return null for Enumeration type settings
+
+Final merge of last checkins from CDR branch
+
+add new util script to tarball
+
+Change callresolver install location to sipxcallresolver, execute configpp on startup
+
+Configure the media server address so the registrar can forward calls to
+voicemail.
+
+Remove debugging prints.
+Remove incorrect explanations for the user.
+
+First draft of Call Resolver User Guide
+
+Casts of lvalues need to use reference types.
+http://track.sipfoundry.org/browse/XSL-120
+
+Use reference type in cast of lvalue.
+http://track.sipfoundry.org/browse/XSL-121
+
+attendant spelling typo
+
+XCF-982 Fix unit tests that break when DST is in effect and flawed DST offset date calculation for CiscoATA phones
+
+XPR-128: Changed CallStateEventBuilder_DB to translate all single quotes.
+XPR-108: Initial checkin to install a script file in (sysconfdir)/cron.daily
+that calls the call resolver startup script with a --daily switch.
+XCF-952: Added Call Resolver section and configuration parameters to web ui. 
+
+Add script file for cron.daily job.
+
+Check in work-in-progress on computing call direction, XPR-113
+
+XPB-543: Suppress erroneous log message when CSE logging is disabled.
+
+XPR-108: Call resolver now takes --daily switch that is passed in from 
+a cron job and starts call resolution for a 24 hour time frame. Start
+time is set in call resolver configuration file.
+Added unit tests for new functionality.
+XPR-133: Eat up any messages that Postgres spits out during schema loading.
+Clarify wording in CSE design spec file.
+
+XCF-986 Do not observe required field on settings for groups
+
+Check in more call direction code -- coded but not fully tested
+
+XPB-545: Add installation for additional Ruby files
+
+Add default parameters to callresolver-config.in
+
+XCF-939: Remove lucene index and Jetty scratch dir
+
+Fix XPB-548: only successful calls were generating CDRs.  The mistake was that I was only handling the case call request, then call setup, then call failure.  But often there is a call request followed immediately by a call failure.  Added a test case to enforce that this now works right.
+
+Finish the call direction feature.
+Remove the separate call_directions table, it's too much of a hassle & doesn't buy us that much in the way of cleanliness.  call_direction is now a column in the cdrs table, although the Call Resolver and the Cdr class still know nothing about it, only the call direction plugin does.
+
+Build call resolver as a Ruby gem
+
+[XPB-499] Changes to build and install on FC5
+          Many changes to compile with gcc 4
+           (thank you Hannu Strang for most of these)
+          Several changes to the configuration macros to detect other
+           differences
+          Upgrade the dependent packages to later versions
+          Trim and configure the apache configuration files so that
+           I think they now work with either 2.0 or 2.2
+
+Remove sipx-w3c-libwww dependencies
+
+XPB-547: We now account for the fact that from and to tags can switch 
+between ACKS and BYES if the callee sends the BYE. 
+Add UI element for enabling call direction.
+
+Revise user guide to add "call direction"
+
+For upgradeability (XPR-126), mark the database version as 1.
+
+Fix XPR-135 and XPR-137: remove the NOT NULL constraint from the contact column in the parties table.  With failed calls, we don't have a contact for the callee, so the contact column in the parties entry is NULL.
+
+Add both ruby and rubygems to the distribution
+
+For call setup get the contact id for the callee from the 200 OK response
+
+Fix XPR-139: Call setup events are being logged with the caller contact, not the callee contact, breaks CDR call direction
+
+Change the Call Resolver User Guide to instruct users to run sipxcallresolver.sh rather than "ruby main.rb".
+
+Update CSE design spec to reflect changes in call setup and CSE writer implementation
+
+Fix the path in the yum repo file for sipX in the /temp area. A gpgcheck's set to 0
+
+Change the design spec to reflect that we now base connect time on the 200 OK rather than the ACK to the 200 OK.  Rename the design spec to avoid confusion with the user guide.
+
+Freeze schema to version 3, so we will officially allow upgrades from this version.  NOTE: All development DBs between sipx 3.2 and this one 3.3 will be automatically upgraded, you will not have to drop the db.
+
+XPR-141: Load cleveland.sql as part of the install.
+
+Fix XPR-142: Call Resolver (CDR): strip contact params from contact URLs.
+Strip 'em.
+
+Fix XPR-141: Call Resolver (CDR): view_cdrs_with_call_direction must be created as part of the install.  Get rid of the old "cleveland" code name, too confusing.
+
+Taking cleveland.sql out of .spec.in file
+
+Clarity improvements to registration display
+  Make table formatting neater with narrower borders and more padding
+  Add a User column for easier lookup (it was already ordered by this
+  value)
+  Move the Expires column further left to reflect its relative importance.
+
+Add link to display the current version of sipX
+Clarify how to pick a group number
+Clarify how to check valid registration
+
+fix uninstall, incorrectly trying to uninstall non-existant sipxconfig-agent gem
+
+Add option to duration format component: by default it does not display vlaues smaller than 1 seconds now (i.e. it does not display 0 seconds). This behaviour can be altered by setting showZero property to true.
+
+Add database purging to call resolver
+
+Revert mistakenly checked in test.log
+
+Add cseq field to call state database, modify unit test
+fixtures to use new format.
+Add web UI for purge configuration parameters.
+
+Let CallStateEventBuilder_DB create a temporary cseq placeholder for CSE events
+
+merge in sipxconfig-agent project
+
+do not require file-tail gem
+
+finish sipxconfig-agent merge, had unsaved emacs buffer
+
+Add macros for ruby, gems and make
+
+Add 'VACUUM' statement to end of purge function. Add help message to main.rb.
+
+Check in code change to show User-Agent values when printing the
+analysis of the dialog event package generated by a phone.
+
+When garbage-collecting deleted records, do a SQL "VACUUM ANALYZE", not just "VACUUM", per the recommendation in http://www.postgresql.org/docs/8.0/static/sql-vacuum.html .  Related to XPR-112.
+
+XCF-994 This problem was introduced during upgrade to Tapestry 4. We gave up then on id converters and started using global squeezers. 
+SearchPhoneTableModel was incorrectly using squeezer to load found phones from the database. In this context it does not make sense to use squeezer at all. I replaced it by explicitely loading phones using phone context.
+Also - minor Eclipse warnings fixed.
+
+Added the termination character at the end of pDecodedPayLoadData. Otherwise, it could cause xml parsing error.
+
+XPR-140: Added database upgrading support to the sipxcallresolver.sh.in script.
+
+Merge extranous changed from rev up tot 6040 from pingtel, sipx dependencies, presence changes, eclipse classpath, sip uri helper method
+
+Add the daily run and purging params to the user guide.
+Remove some hardwired constants from the call resolver unit test in favor of symbols.
+Extend the configure test with an example that has multiple colons in a line.
+
+Fix horizonal padding in table cells - it improves readability of "dense" tables.
+
+Fix XPB-557: Call Resolver (CDR): if the daily run start time is set after 4 AM, then CDRs will be missing.
+Remove the ability to configure the time window for call resolver nightly runs, it's too confusing without the ability to control when the resolver runs.
+
+Tune up the text and the setting order for better usability.  Emphasize "Call Detail Record" rather than "Call Resolver" since the user knows about CDRs, they really don't know or care about Call Resolver.
+Remove daily run start time per XPB-557.
+
+XCF-995 Remove hard error from gem uninstall
+
+Add the config param SIP_CALLRESOLVER_LOG_CONSOLE with no setting, for convenience in testing
+
+More user guide content.
+Fix a comment in the call resolver.
+
+XPB-561: Web UI now validates purge age value.
+Let purge only run if SIP_CALLRESOLVER_DAILY_RUN is enabled.
+
+XPR-145: Call state events now log the CSeq field value.
+
+XCF-980 Allow you to remove last group from user and phone
+
+XCF-989 Remove duplicate items and suggest candidates that are case insensitive matches to the exisings items
+
+XPR-143: Strip port number from IPv4 addresses before validation
+
+Still XPR-143: Account for the fact that a host name could have a port number too - strip it before address lookup
+
+XCF-989 - Add a list of existing user and phone groups to left-hand side of user and phone pages to help user with group entry field
+
+Fixed the issue of no schedule being defined except afterhour.
+
+added information that refresh interval is editable
+added I18n support to AutoRefreshForm component
+add a new method to extract more user info from SIP URI - if available, we will  display name" pact both "display name" and "user" parh of URI
+
+Check in call resolver design spec for HA support.
+Also add a section to the user guide about data export.
+
+mergefrom sipx-3.2 6587,6588
+Correct how GRUUs are generated.
+Fix how libsipXcommserverTest.la is searched for, so it can be found
+even when it is not installed.
+
+END

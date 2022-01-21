@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-01-02T17:00:32.818804Z
+K 7
+svn:log
+V 86
+Fix and lots of noise for Android 2.3.4 AudioTrack interface
+  needs to be cleaned up
+
+END

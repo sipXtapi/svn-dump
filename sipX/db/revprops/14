@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-05-26T13:06:19.336471Z
+K 7
+svn:log
+V 24
+Removed private init()
+
+
+END

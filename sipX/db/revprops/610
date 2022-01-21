@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-21T19:18:27.210658Z
+K 7
+svn:log
+V 223
+1) Deleted obsolete files: SipCallStateProxy, SipProxy, SipProxyStateMessage,
+SipProxyCallState, NetBuffer, SipNatProxy, SocketReflectTask, RtpRelayTask,
+SipRtpRelayTask
+
+2) Converted references of NetBuffer to UtlString.
+
+
+END

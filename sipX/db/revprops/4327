@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-05T20:29:33.375390Z
+K 7
+svn:log
+V 186
+http://track.sipfoundry.org/browse/XVX-79
+There was a bug in how requests from the Web UI were handled that
+prevented any list of messages from being communicated to the
+mediaservercgi.
+
+END

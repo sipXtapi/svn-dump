@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2010-03-23T17:28:40.221791Z
+K 7
+svn:log
+V 127
+sipXmediaLib: Switch Speex to fixed point on Android for now.
+We should fix compiler settings to support floating point first.
+
+END

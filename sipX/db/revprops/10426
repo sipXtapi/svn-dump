@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-12-19T21:25:29.300322Z
+K 7
+svn:log
+V 102
+Adding new test for sipXmediaAdapterLib - testOuroboros is modeling usual call with two participants.
+
+END

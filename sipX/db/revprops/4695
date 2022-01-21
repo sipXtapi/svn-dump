@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-10-15T15:24:28.845112Z
+K 7
+svn:log
+V 38
+Fix for include file/lib path problems
+END

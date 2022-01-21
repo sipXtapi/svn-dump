@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-01-29T04:32:35.892177Z
+K 7
+svn:log
+V 200
+got lazy loading working.  spring's aop automatically disconnects hibernate's session once you leave DAO interface because it has a proxy wrapper do the closing. AOP: it's a different world we live in
+END

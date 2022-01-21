@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-29T19:41:46.309999Z
+K 7
+svn:log
+V 207
+XCF-1604 - fix setting paths for timezone info in lgnortel phones, Allow null to be returned from BeanValueStorage to be equivalent to obtaining from a setting value, thereby defaulting to xml settings file.
+END

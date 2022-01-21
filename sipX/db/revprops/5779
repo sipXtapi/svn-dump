@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-12-21T15:58:37.952752Z
+K 7
+svn:log
+V 55
+XCF-822 Fix syntax erorr w/array manip. in upgrade code
+END

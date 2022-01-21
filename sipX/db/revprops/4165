@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-12T15:17:47.918788Z
+K 7
+svn:log
+V 516
+Remove extra setting of SIPXPBXUSER.
+Add comments about configuration editing command groups.
+Fix no-config-server so that it does not multiply-comment lines.
+Add the install-httpd command group to edit the Apache config files.
+	(It doesn't work yet, but should cause no harm.)
+Fix the search-NONE command group to test the result of the grep correctly.
+	Also, make sure that it does not detect and flag itself while looking
+	for occurrences of "NONE".
+Test the result of the grep in search-unsubstituted correctly.
+
+END

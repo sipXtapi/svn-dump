@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-02-04T16:14:23.026289Z
+K 7
+svn:log
+V 121
+Modified logic for setting EUID so that it is only attempted when EUID
+and UID are not the same and EUID is set to ROOT.
+
+END

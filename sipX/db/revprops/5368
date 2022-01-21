@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-10-19T20:12:09.306059Z
+K 7
+svn:log
+V 236
+XCF-708 group id was not properly persisted between page rendering
+simplified group ID management: it is completely managed by Tapestry, and it is applied to model in model getter, just before model is passed to TableColumns component.
+
+END

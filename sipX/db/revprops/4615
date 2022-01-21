@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-27T16:44:32.039192Z
+K 7
+svn:log
+V 296
+Added a further test to eol-check.sh to report files whose last line
+does not end with a proper EOL sequence.  (Subversion will validate
+that it is the correct EOL sequence based on svn:eol-style, but will
+not enforce that the last line ends with EOL.)
+
+http://track.sipfoundry.org/browse/XCL-49
+
+END

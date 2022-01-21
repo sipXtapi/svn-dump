@@ -1,0 +1,270 @@
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: b0.2dc.r5683/105
+type: file
+pred: b0.2cx.r5679/1171
+count: 15
+text: 5679 0 249 2497 0ab9d23593d7ba75e57b26cc5b1d26df
+props: 5683 0 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /branches/user_dworley_localize/config/localize-sipX.sh.in
+copyfrom: 5680 /main/config/localize-sipX.sh.in
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: b0.2dd.r5683/498
+type: file
+pred: b0.2cy.r5679/1436
+count: 15
+text: 5679 274 409 535 7d22f96a5d5ef036a87f65a75658581a
+props: 5683 393 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /branches/user_dworley_localize/config/sipXcommon.mak
+copyfrom: 5680 /main/config/sipXcommon.mak
+
+PLAIN
+K 18
+apache_version.awk
+V 18
+file aw.0.r380/398
+K 10
+cppunit.m4
+V 22
+file 8er.1i4.r5202/966
+K 10
+general.m4
+V 22
+file 95.1i4.r5468/8995
+K 19
+localize-sipX.sh.in
+V 21
+file b0.2dc.r5683/105
+K 22
+sipX-buildstamp.cpp.in
+V 19
+file b1.0.r380/1661
+K 20
+sipX-buildstamp.h.in
+V 17
+file b2.0.r380/82
+K 14
+sipX-config.in
+V 25
+file av.1i4.r4884/5496658
+K 14
+sipXcommon.mak
+V 21
+file b0.2dd.r5683/498
+K 10
+sipXlib.m4
+V 23
+file 9a.1i4.r5490/13801
+K 15
+sipXprojtop.mak
+V 21
+file b3.2cz.r5680/147
+END
+ENDREP
+id: 91.2cz.r5683/1277
+type: dir
+pred: 91.2cz.r5680/866
+count: 150
+text: 5683 779 485 485 621d1bd0fb1648d986ccc6c9461b93c6
+props: 5464 23462 151 0 c92d0cbc29ca249416c4f1cab3f269da
+cpath: /branches/user_dworley_localize/config
+copyroot: 4813 /main/config
+
+PLAIN
+K 7
+bbridge
+V 21
+dir 8dl.0.r5657/26340
+K 5
+build
+V 19
+file 7ve.0.r5415/56
+K 6
+config
+V 21
+dir 91.2cz.r5683/1277
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 14
+resiprocateLib
+V 20
+dir 8g8.0.r5655/3734
+K 11
+sipXcallLib
+V 21
+dir va.2d1.r5682/7501
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.2d2.r5682/13302
+K 10
+sipXconfig
+V 22
+dir 2hf.2d3.r5682/8413
+K 19
+sipXmediaAdapterLib
+V 23
+dir 89s.2cv.r5682/10264
+K 12
+sipXmediaLib
+V 21
+dir mz.2d4.r5682/9701
+K 7
+sipXpbx
+V 22
+dir 5g6.2d5.r5682/5130
+K 9
+sipXphone
+V 23
+dir 6qk.2d6.r5682/12131
+K 11
+sipXportLib
+V 20
+dir 3.2cw.r5682/1592
+K 9
+sipXproxy
+V 22
+dir 1vt.2d7.r5682/2778
+K 13
+sipXpublisher
+V 22
+dir 20n.2d8.r5682/6231
+K 12
+sipXregistry
+V 23
+dir 1y5.2d9.r5682/11578
+K 11
+sipXtackLib
+V 22
+dir dk.2da.r5682/14992
+K 8
+sipXvxml
+V 22
+dir 22d.2db.r5682/3910
+END
+ENDREP
+id: 7q4.2cv.r5683/2338
+type: dir
+pred: 7q4.2cv.r5682/16070
+count: 748
+text: 5683 1531 794 794 e12d52fe95695727405fad4d8cef84bc
+props: 5622 6467 2355 0 8d758fe65c1f2b79329e154e4d8f8c57
+cpath: /branches/user_dworley_localize
+copyroot: 5677 /branches/user_dworley_localize
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 21
+dir 7pv.0.r4813/26770
+K 3
+3.0
+V 23
+dir 7q4.24b.r5674/11679
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 7
+restful
+V 21
+dir 7q0.0.r4813/15683
+K 17
+sipXconfig-lucene
+V 23
+dir 2hf.2a8.r5572/12367
+K 23
+sipXconfig-multi-domain
+V 23
+dir 2hf.2aa.r5519/35767
+K 21
+user_dworley_localize
+V 22
+dir 7q4.2cv.r5683/2338
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r5683/3128
+type: dir
+pred: 7pt.0.r5682/16862
+count: 124
+text: 5683 2609 506 506 5560ca16f3025b3a0c57bd5bb2bab0d8
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r5683/3128
+K 4
+main
+V 20
+dir 7q4.0.r5681/2456
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r5683/3411
+type: dir
+pred: 0.0.r5682/17147
+count: 5683
+text: 5683 3283 115 115 16f18ce37b1963f31cffd03a71e4e5ed
+cpath: /
+copyroot: 0 /
+
+b0._0.t5682-1 add false true /branches/user_dworley_localize/config/localize-sipX.sh.in
+5680 /main/config/localize-sipX.sh.in
+b0._1.t5682-1 add false true /branches/user_dworley_localize/config/sipXcommon.mak
+5680 /main/config/sipXcommon.mak
+b0.1i4.r5089/4201 delete false false /branches/user_dworley_localize/config/sipXcommon.mak.in
+
+
+3411 3555

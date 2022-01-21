@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-11-07T08:25:20.614223Z
+K 7
+svn:log
+V 104
+PlgSpeex: Correctly process return codes of speex_decode() or we could enter infinite loop on decoding.
+
+END

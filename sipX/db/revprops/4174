@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-16T16:42:30.587257Z
+K 7
+svn:log
+V 115
+http://track.sipfoundry.org/browse/XVX-44
+When playing inbox messages, fetch category=inbox, not category=unheard.
+
+END

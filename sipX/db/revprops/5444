@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-10-31T14:56:39.898289Z
+K 7
+svn:log
+V 170
+XCF-702 group actions added to user screen
+merged from sipXconfig-bulkops branch: svn merge -r5436:HEAD https://scm.sipfoundry.org/rep/sipX/branches/sipXconfig-bulkops .
+
+END

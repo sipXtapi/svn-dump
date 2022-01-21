@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-02T18:21:19.911708Z
+K 7
+svn:log
+V 666
+Modularize the code that cancels a suspended request.
+Add code to cancel all suspended requests in the SipRedirectServer
+destructor.
+Give a 500 response when one of the redirectors returns LOOKUP_ERROR.
+Write service routine to remove all Contact: headers from a response.
+Move the increment of mNextSeqNo to a more logical place.
+Clean up SipRedirectorGlobalPickUp so that if no global pick-up prefix
+is configured, it does no processing.
+Enable SipRedirectorTest to generate LOOKUP_ERROR responses for the
+parameter code "*".
+Clean up the comments for SipRedirectServerPrivateStorageIterator.
+Add cases to redirector-test-suspend to test handling of LOOKUP_ERROR.
+
+END

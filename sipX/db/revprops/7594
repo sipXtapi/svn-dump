@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-09-28T14:26:46.659934Z
+K 7
+svn:log
+V 73
+Remove config/cppunit.m4, as it duplicates what should be a system
+file.
+
+END

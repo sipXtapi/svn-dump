@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-28T20:00:02.829177Z
+K 7
+svn:log
+V 197
+1) Added stubs for a UtlSortedList::removeAt(const size_t index).  This method 
+needs to be implemented and unit tested. (Jira XPL-25)
+
+2) Updated one of the operator() comments in UtlString.cpp.
+
+
+END

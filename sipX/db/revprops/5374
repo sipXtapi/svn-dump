@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-10-20T16:54:31.719531Z
+K 7
+svn:log
+V 222
+ENG-311(internal) - Migrate fails from 2.8 to 3.0, polycom settings collided w/user group id.  shifting user group ids.   Also, remove phone desc. patch, leave as possible repair task incase any user has the initial 3.0 db
+END

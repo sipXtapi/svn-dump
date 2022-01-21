@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-10-21T15:17:43.945925Z
+K 7
+svn:log
+V 60
+Undo some replication trigger that accidently got checked in
+END

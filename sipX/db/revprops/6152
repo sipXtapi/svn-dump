@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-15T21:01:30.736117Z
+K 7
+svn:log
+V 166
+XCF-753 tests for SettingType expanded
+proper validator used for regular expression patterns: in Tapestry 4 it's Pattern and not PatternValidator that we have to use
+
+END

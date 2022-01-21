@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-10-07T19:44:53.417535Z
+K 7
+svn:log
+V 125
+Try again to get the CHECK_SSL macro supporting all the
+platforms we need it to.
+
+http://track.sipfoundry.org/browse/XPL-36
+
+
+END

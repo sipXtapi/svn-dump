@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-01-18T04:12:45.853231Z
+K 7
+svn:log
+V 432
+XCF-1066 - Use velocity and jdom/xpath instead of xstream for reading mailbox preferences.  Tipping point was when I couldn't get xstream to read both text inside an element and attributes on the element.  (notification/contact has attributes and text content).  xstream should only be used if you control to xml format, period.
+
+I'm tempted to go back and redo voicemail descriptor read/write.  I think it would be a bit simpler.
+
+
+END

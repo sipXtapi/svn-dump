@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-16T17:31:34.387162Z
+K 7
+svn:log
+V 514
+XCF-753 revert to using inherited-binding for optional parameters of Table component
+contrib:TableXXX components are using code that checks if the parameter was providing by checking if the binding for the parameter exists,
+Tapestry 4 will always create a binding for the parameter (even for optional ones), unless one uses <inherited-binding> mark up to pass the parameter
+there is some discussion on the developers list if inherited-binding should be deprecated but as of now it's widely used in contrib library
+
+END

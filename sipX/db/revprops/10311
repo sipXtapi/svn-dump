@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-10T16:40:45.142634Z
+K 7
+svn:log
+V 104
+Fix uninitialized memory usage in OsFileIteratorWnt: access FileInfo structure only if files was found.
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-05-03T14:15:31.624381Z
+K 7
+svn:log
+V 115
+Add config files for the remaining components:
+Set debug logging.
+Turn off all workarounds in registrar-config.in.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-05-08T18:34:46.190063Z
+K 7
+svn:log
+V 121
+XPR-158: Don't do name resolution if the contact is a domain name instead
+of an IP address. Add unit test for that case.
+
+END

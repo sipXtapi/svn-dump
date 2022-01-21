@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-11-17T05:26:21.905428Z
+K 7
+svn:log
+V 134
+Continue with XCF-766 SOAP work: refactor some common code out of the Ruby unit tests and put it in a common base class, ApiTestCase.
+
+END

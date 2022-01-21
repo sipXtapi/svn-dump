@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-05-09T21:42:28.894845Z
+K 7
+svn:log
+V 450
+Rewrite of URL parser.
+  Now does more strict recognition.
+  No longer attempts to recognize both url and field parameters when there are no
+  angle brackets.
+  Fixes:
+    [XSL-63] name-addr parsing errors if the display name contains certain punctuation
+       http://track.sipfoundry.org/browse/XSL-63
+    [XSL-76] add support for 'sips' urls
+       http://track.sipfoundry.org/browse/XSL-76
+    (may help some others, including XSL-49 and XSL-58)
+
+END

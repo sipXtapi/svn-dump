@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-11-17T20:25:15.931210Z
+K 7
+svn:log
+V 49
+XCF-981 access SIPXCDR database to retrieve CDRs
+
+END

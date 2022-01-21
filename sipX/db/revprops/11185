@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-15T14:51:54.572867Z
+K 7
+svn:log
+V 75
+sipXmediaLib: Don't touch DISABLE_LOCAL_AUDIO define in MpCallFlowGraph.h.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2013-09-19T17:52:17.216035Z
+K 7
+svn:log
+V 54
+Debug code for PlaceCall to iterate in/output devices
+
+END

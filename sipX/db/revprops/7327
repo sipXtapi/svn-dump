@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-08-23T15:18:41.013344Z
+K 7
+svn:log
+V 731
+1) Unittest for buffers implemented.
+2) msvcrtd.lib and MSVCPRTD.lib removed from linker input in sipXmediaLibTest. They lead to linker errors when compiling with Speex.
+3) Debug output fixed in MpBuf.
+4) MpBufPool destructor made virtual.
+5) MpBufPool::poolDataEnd() renamed to MpBufPool::getPoolDataEnd();
+  MpBufPool::nextBlock() renamed to MpBufPool::getNextBlock();
+  In MpBufferMsg all entries of 'Tag' renamed to 'Buffer'. I.e. setTag() to setBuffer() and so on.
+6) MpBufferMsg::ownBuffer() implemented. It tries to avoid buffer copying when passing buffer to message object. It owns provided buffer and invalidates it, i.e. after execution of this function MpBufPtr::isValid() will return false for passed buffer pointer.
+
+
+END

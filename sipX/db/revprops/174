@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-08-03T19:07:57.622779Z
+K 7
+svn:log
+V 75
+Bug XPL54:  There's a typo It has 'xcercesc' where it should have
+'xercesc'
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-11-26T01:12:43.897772Z
+K 7
+svn:log
+V 244
+Proper fix for testCallDestroyRinging().
+Calling side should wait for DISCONNECT message before calling sipxCallDestroy(). Else it will get NORMAL cause code, caused by sipxCallDestroy() instead of REQUEST_NOT_ACCEPTED, caused by SIP response.
+
+END

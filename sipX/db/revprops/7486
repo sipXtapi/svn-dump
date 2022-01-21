@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-09-15T18:04:20.705401Z
+K 7
+svn:log
+V 223
+Replace pt_get_ticks with getpid for initializing the random number generator.
+As  this is not a security application, the process ID should suffice.
+This is in response to a problem reported by Mike Mammarella on Sept. 9.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-10-10T18:58:57.593225Z
+K 7
+svn:log
+V 146
+VS2005 solution and project file changes:
+Add libspeex to VS2005 solution.
+Change speex plugin project to eliminate external speex lib dependency.
+END

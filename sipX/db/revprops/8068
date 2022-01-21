@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2006-11-21T22:22:03.200484Z
+K 7
+svn:log
+V 172
+Update for ARM.
+STLport compiling and linking for ARM
+sipXportLib compiling and linking for ARM
+sipXportLibTest compiling, failing on ARM link.
+time functions unresolved.
+
+
+END

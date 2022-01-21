@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-09-12T20:28:26.402937Z
+K 7
+svn:log
+V 94
+Fixed UtlHashBag and UtlSListIterator unit tests so setup method cleans out reused containers
+
+END

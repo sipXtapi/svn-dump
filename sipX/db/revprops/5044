@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-15T15:02:39.412229Z
+K 7
+svn:log
+V 322
+Fix XCF-617: Users with superadmin privileges cannot edit their call forwarding. Add a quick link to UserCallForwarding from the EditUser page.  To prevent users from editing the call forwarding info for other users, add a security check that permits only editing of the logged-in user, unless that user has admin rights.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-12-30T18:49:08.565850Z
+K 7
+svn:log
+V 115
+Enable more unittests in VS2003 build. OsTimerTest in sipXportLib tests randomly fail in many places on my system.
+
+END

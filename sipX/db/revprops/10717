@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-07-02T16:50:56.842707Z
+K 7
+svn:log
+V 76
+Do not use UTL_NOT_FOUND with int, it is causing wrong behaviour on x86_64.
+
+END

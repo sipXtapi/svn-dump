@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-28T02:28:30.393951Z
+K 7
+svn:log
+V 158
+mergefrom user_dworley_redirectors2main 7668
+
+Minor fixes to the new redirector scheme, mostly involving getting
+library interdependencies properly declared.
+
+END

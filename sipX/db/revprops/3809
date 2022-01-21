@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-04-20T17:36:22.969216Z
+K 7
+svn:log
+V 289
+Patch management cleanup:
+- remove obsolete patches (from before 2.6)
+- added functionality to automatically apply patches when installing a new database (one still needs to apply patches manually when upgrading)
+- removed extra logging statements, fixed exception handling (transactions)
+
+END

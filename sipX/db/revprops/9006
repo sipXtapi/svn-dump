@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-03-08T15:57:00.190811Z
+K 7
+svn:log
+V 67
+Removed KNOWN_BUG macros for old fixed bugs in sipXportLlib tests.
+
+END

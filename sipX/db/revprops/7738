@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-11T21:18:41.255129Z
+K 7
+svn:log
+V 524
+Update the redirectors to return proper indicators whether they will
+be active or not.
+Update the redirector server to act on active indications.
+Relocate some of the initialization code from ::initialize to
+::readConfig, where it will have access to the config params it needs.
+Add a method to PluginHooks to report the number of plugins.
+Update the build framework to automatically upgrade
+registrar-config.in when installing from a source build.
+Preliminary work to upgrade registrar-config.in when installing from
+RPMs.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-06-24T20:43:31.722461Z
+K 7
+svn:log
+V 146
+Don't try to merge H.264 codecs or construct fmpt parameters for H.264.
+Simply output the SdpCodec's fmpt string for H.264 like all other codecs.
+
+END

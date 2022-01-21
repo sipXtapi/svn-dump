@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-18T21:33:49.399997Z
+K 7
+svn:log
+V 171
+Remove message
+"Connection::getState: xxx connection(xxx) may be terminated (xxx xxx)"
+because it appears to not be significant, and nobody knows why it is
+being printed.
+
+END

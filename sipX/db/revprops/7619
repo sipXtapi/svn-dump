@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-01T02:47:46.451885Z
+K 7
+svn:log
+V 73
+Fix index.html so that it accepts substitutions for the SIP domain name.
+
+END

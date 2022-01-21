@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-09T03:15:24.381459Z
+K 7
+svn:log
+V 483
+Re-add isShutDown() call to MpInputDeviceManagerTest, as ackShutdown is called
+when threadEntry task is complete, however, false was received for isShutdown
+because of race condition - where isShutdown call was called after the unit
+test past it's signal at the end of the run() routine, but before ackShutdown
+was called.
+
+To fix, made a public wrapper for waitUntilShutDown(), and called it first,
+waiting maximum of a second for completion.  Then the isShutdown() check
+is made.
+
+
+END

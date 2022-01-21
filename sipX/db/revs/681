@@ -1,0 +1,191 @@
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: l0.0.r681/60
+type: dir
+pred: l0.0.r675/986
+count: 1
+text: 675 877 45 45 106018b1dfa7803e61ceddd9cfbe2c88
+props: 681 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXtackLib/main/bin
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 21
+file dl.0.r600/815397
+K 9
+ChangeLog
+V 18
+file dm.0.r642/581
+K 7
+INSTALL
+V 18
+file dn.0.r658/624
+K 7
+LICENSE
+V 21
+file do.0.r600/750535
+K 11
+Makefile.am
+V 18
+file dp.0.r677/137
+K 4
+NEWS
+V 21
+file dq.0.r600/820597
+K 6
+README
+V 19
+file dr.0.r634/4646
+K 4
+TODO
+V 21
+file ds.0.r600/818647
+K 9
+acsite.m4
+V 17
+file dt.0.r602/47
+K 14
+ant-targets.am
+V 19
+file du.0.r653/2486
+K 15
+ant-targets.xml
+V 20
+file dv.0.r660/65053
+K 3
+bin
+V 16
+dir l0.0.r681/60
+K 20
+config.properties.in
+V 19
+file dz.0.r653/3173
+K 12
+configure.ac
+V 18
+file e0.0.r679/173
+K 3
+doc
+V 17
+dir e1.0.r663/845
+K 7
+include
+V 19
+dir e5.0.r660/45957
+K 3
+lib
+V 20
+dir gh.0.r650/115439
+K 15
+sipXtackLib.dsp
+V 19
+file gj.0.r672/3427
+K 15
+siplog2siptrace
+V 19
+dir gk.0.r660/76039
+K 7
+siptest
+V 19
+dir gn.0.r660/74899
+K 11
+siptest.dsp
+V 19
+file kv.0.r648/1898
+K 9
+sipviewer
+V 18
+dir hn.0.r673/1308
+K 19
+sipxtacklib.spec.in
+V 18
+file kw.0.r678/709
+K 3
+src
+V 18
+dir i8.0.r680/2699
+K 15
+syslog2siptrace
+V 19
+dir kk.0.r660/75466
+END
+ENDREP
+id: dk.0.r681/1282
+type: dir
+pred: dk.0.r680/3932
+count: 73
+text: 681 268 1001 1001 3f6172d96673804dfe014bf848796e6f
+props: 664 0 296 0 9b4207c15bc7574f659f45f45a74f7fb
+cpath: /old/sipXtackLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 17
+dir kz.0.r674/642
+K 4
+main
+V 18
+dir dk.0.r681/1282
+K 4
+tags
+V 18
+dir kr.0.r641/2057
+END
+ENDREP
+id: dj.0.r681/1614
+type: dir
+pred: dj.0.r680/4265
+count: 82
+text: 681 1495 106 106 8af959b69377a0b8e9c57b6a8c98a48d
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 18
+dir dj.0.r681/1614
+END
+ENDREP
+id: 1.0.r681/1867
+type: dir
+pred: 1.0.r680/4518
+count: 680
+text: 681 1769 85 85 48fcc542fc6fdb44d8171ad371d74a04
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r681/1867
+END
+ENDREP
+id: 0.0.r681/2055
+type: dir
+pred: 0.0.r680/4706
+count: 681
+text: 681 2007 35 35 66195d168a78f9055899bf827c095e4b
+cpath: /
+copyroot: 0 /
+
+l0.0.t680-1 modify false true /old/sipXtackLib/main/bin
+
+
+2055 2192

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-10T13:57:41.988189Z
+K 7
+svn:log
+V 233
+Reorganize the files in doc to conform with the directory structure
+plan.  The files that describe sipXvxml specifically are moved to
+sipXvxml/doc/developer, the ones that describe sipX as a whole are
+moved to sipXpbx/doc/developer.
+
+END

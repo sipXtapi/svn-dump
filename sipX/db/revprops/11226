@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2009-01-29T14:56:28.198179Z
+K 7
+svn:log
+V 57
+-only include MpMMTimerPosix.h if the platform is correct
+END

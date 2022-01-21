@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-09T19:42:38.235286Z
+K 7
+svn:log
+V 146
+Remove Win32-specific path transformations from Url class.
+This transformations should be done (and partially done now) in OsPathBase::massage().
+
+END

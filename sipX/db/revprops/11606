@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-03-22T12:28:22.519473Z
+K 7
+svn:log
+V 62
+Added support for sipXtapi Mic Energy levels as Media events.
+
+END

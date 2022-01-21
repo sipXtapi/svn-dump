@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-14T21:20:46.520864Z
+K 7
+svn:log
+V 99
+Added a loopback mode to ReceiveCall.  ReceiveCall -l will 
+loopback audio with a 2 second delay.
+
+
+END

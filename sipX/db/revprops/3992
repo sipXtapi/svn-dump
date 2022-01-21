@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-06-02T15:06:04.943918Z
+K 7
+svn:log
+V 211
+XCF-409 added support for "real" type in settings
+minor changes to call pickup code patterns - code does not have to start with * now
+ability to configure call pickup timeout as a fraction of a second supported
+
+END

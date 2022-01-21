@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-03-25T09:34:15.495905Z
+K 7
+svn:log
+V 64
+Added new SIP event type
+
+Added some logging to the HttpServer
+
+
+END

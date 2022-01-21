@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-08-25T23:07:52.689417Z
+K 7
+svn:log
+V 461
+Replace old automake INCLUDES construct with AM_CPPFLAGS in mpcodecs also had to change LTLIBRARIES target dir due to conflict in automake 1.13.
+Note this could break some build scripts that installed codecs using the make install-pkgdataLTLIBRARIES target.
+The make target has been renamed to: install-mpcodecsLTLIBRARIES
+Apologies for the inconvenience/distruptions caused by this change.  I have not found an alternative that I can make autotools work with.
+
+END

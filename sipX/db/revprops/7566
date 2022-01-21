@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-09-25T19:34:02.218638Z
+K 7
+svn:log
+V 575
+[XPB-761] Correct problems with incorrect voicemail message counts
+  The problem appears to have been a result of the fact that the
+  summary.xml file in each folder cached the counts, but could under
+  some circumstances end up with the wrong counts.  Some mechansims
+  use the cached values, and others used the actual message files.
+  This change eliminates the summary.xml file mechansim, and just
+  counts the files in the (few) cases in which we need the numbers.
+[XCF-1251] correct status report following purge of deleted messages
+[XPB-777] fix delete all in mailbox
+
+END

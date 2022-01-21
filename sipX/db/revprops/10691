@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-06-30T14:14:23.058814Z
+K 7
+svn:log
+V 198
+* Add workaround for G.722 samplerate RFC bug, described in RFC 3551 Section 4.5.2 "G722".
+* Fix MIME subtype for L16 codec in case it is guessed from static payload number.
+* Fix typo in comments.
+
+END

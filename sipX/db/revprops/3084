@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-09-23T23:11:24.125134Z
+K 7
+svn:log
+V 90
+BUG XCF-26 - log files now go into the right place, XCF-33 docroot.props goes into tmp dir
+END

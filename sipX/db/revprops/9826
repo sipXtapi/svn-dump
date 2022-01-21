@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-11T23:44:02.098045Z
+K 7
+svn:log
+V 168
+Small improvement to MpodWinMM windows device driver (no true fix though)
+Redefining a bit what LOW_WAVEBUF_LVL does.
+Increase LOW_WAVEBUF_LVL to 4
+Turn off mixer mode.
+END

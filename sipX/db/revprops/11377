@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-06-18T11:59:00.603967Z
+K 7
+svn:log
+V 96
+sipXmediaLib: Enable non-PLC adjustment in MpJitterBuffer only if external PLC is not supplied.
+
+END

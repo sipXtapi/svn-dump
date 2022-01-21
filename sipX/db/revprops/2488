@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-24T05:05:03.238510Z
+K 7
+svn:log
+V 590
+Bring the hunt group reordering into the modular scheme by changing
+SipHuntGroupFilter into SipRedirectorHunt.
+Have SipRedirectorHunt return immediately on SUBSCRIBEs.
+Add the 'method' argument to the redirect modules so they can change
+their behavior based on the request method.
+Fix the "fallback rule" SipRedirectorMapping so that it operates only
+when there are no contacts yet.  (Add the "fallback" parameter to the
+parameters hash bag.)
+Add comments to redirector-test so people will know how to run it.
+Adjust redirector-test so it can test multiple methods rather than
+just INVITE.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2018-02-26T23:54:25.000590Z
+K 7
+svn:log
+V 1062
+Fixed a bunch of bugs in MpCodecQualityTest unit test:                                                           + round up frame samples count when not an integer number                                                       + add tolerance in assertions for samples per frame in round up cases                                           + user correct sample count for resampling                                                                      + check that frame time is set before using it                                                                  + mark RTP packet when padded                                                                                   + provide FMTP when intializing codec                                                                           + codec list must be generated inside loop as we restart media subsystem each iteration                         + added loop over source recording files                                                                        + add codec info to recorded file name             
+
+
+END

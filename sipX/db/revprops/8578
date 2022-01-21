@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-18T01:32:38.990238Z
+K 7
+svn:log
+V 131
+XCF-1407 extract enumeration labels for Polycom phone
+update xml_to_properties to extract labels for types from xml setting models
+
+END

@@ -1,0 +1,112 @@
+PLAIN
+K 3
+2.6
+V 21
+dir 5g6.yq.r4374/5825
+END
+ENDREP
+id: 6o1.0.r4377/52
+type: dir
+pred: 6o1.0.r4375/49118
+count: 32
+text: 4377 0 39 39 bb46f7f8fde85e25643cf8d19c308c35
+cpath: /old/sipXpbx/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 6o1.0.r4377/52
+K 4
+main
+V 21
+dir 5g6.0.r4376/38737
+K 4
+tags
+V 20
+dir 5kn.0.r4367/1185
+END
+ENDREP
+id: 5g5.0.r4377/336
+type: dir
+pred: 5g5.0.r4376/39085
+count: 284
+text: 4377 211 112 112 3d78de20dcec840386ea3c985dd816e5
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 19
+dir 5g5.0.r4377/336
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4377/974
+type: dir
+pred: 1.0.r4376/39729
+count: 4375
+text: 4377 492 469 469 e0d2c6d16bad9fcf9dd18e59f7775713
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r4377/974
+END
+ENDREP
+id: 0.0.r4377/1167
+type: dir
+pred: 0.0.r4376/39928
+count: 4377
+text: 4377 1119 35 35 7565b5848bf1fc63d0982a7c61851951
+cpath: /
+copyroot: 0 /
+
+5g6.y8.r4375/48750 delete false false /old/sipXpbx/branches/post-2.6.1
+
+
+1167 1309

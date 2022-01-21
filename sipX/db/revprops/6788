@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-05-09T15:31:30.064196Z
+K 7
+svn:log
+V 129
+Fix hopelessly screwed-up merge situation by slamming sipfoundry main CDR code with what's in sipfoundry 3.4.  Make it be right.
+
+END

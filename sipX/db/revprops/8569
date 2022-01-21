@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-01-17T16:26:46.727148Z
+K 7
+svn:log
+V 74
+Update forwardingrules.xml.in and config.defs.in to match sipX
+rev. 8551.
+
+END

@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-03-24T22:31:18.621114Z
+K 7
+svn:log
+V 442
+Merged revisions 219 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.8
+    
+    r219 | xmlscott | 2005-03-24 15:29:27 -0500 (Thu, 24 Mar 2005) | 7 lines
+    Convert an existing subscription database on upgrade.
+    This appears to be the real source for all of these:
+      http://track.sipfoundry.org/browse/XCS-40
+      http://track.sipfoundry.org/browse/XPS-20
+      http://track.sipfoundry.org/browse/XRR-36
+
+END

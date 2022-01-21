@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-11-28T19:58:32.438553Z
+K 7
+svn:log
+V 29
+Unit test for UserDetailsImpl
+END

@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-09-14T22:26:02.959649Z
+K 7
+svn:log
+V 375
+Created PIDF body type implementation derived from HttpBody.
+
+Added method and types to HtpBody derivatives to query what
+its class type is.
+
+Added static helper method to SipSubscribeClient to make
+it easier to build a SIpSubscribeClient and its dependencies.
+
+Added partial support of S/MIME to SipPimClient.
+
+Add MSVC DSP files back in for sipXportLib and basicimclient.
+
+
+END

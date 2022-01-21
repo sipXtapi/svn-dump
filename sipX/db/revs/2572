@@ -1,0 +1,179 @@
+PLAIN
+K 11
+Makefile.am
+V 21
+file 21w.0.r2559/3648
+K 16
+status-config.in
+V 22
+file 213.0.r2549/68702
+K 20
+status-plugin.xml.in
+V 22
+file 214.0.r2549/68428
+END
+ENDREP
+id: 210.0.r2572/165
+type: dir
+pred: 210.0.r2570/730
+count: 3
+text: 2572 0 152 152 8ae55fd9632083e9c0521fb290f89292
+props: 2570 585 132 0 37d51bec63c3e28eaf326a78bab508cf
+cpath: /old/sipXpublisher/main/etc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 20o.0.r2549/69753
+K 9
+ChangeLog
+V 20
+file 20p.0.r2567/257
+K 7
+INSTALL
+V 20
+file 20q.0.r2571/340
+K 7
+LICENSE
+V 22
+file 20r.0.r2549/58651
+K 11
+Makefile.am
+V 21
+file 20s.0.r2559/3369
+K 4
+NEWS
+V 22
+file 20t.0.r2549/69606
+K 6
+README
+V 22
+file 20u.0.r2549/69955
+K 4
+TODO
+V 22
+file 20v.0.r2549/63160
+K 9
+acsite.m4
+V 22
+file 20w.0.r2549/63712
+K 3
+bin
+V 19
+dir 20x.0.r2569/499
+K 12
+configure.ac
+V 20
+file 20z.0.r2561/395
+K 3
+etc
+V 19
+dir 210.0.r2572/165
+K 7
+include
+V 18
+dir 215.0.r2570/60
+K 17
+sipXpublisher.dsp
+V 20
+file 21u.0.r2568/249
+K 3
+src
+V 19
+dir 21i.0.r2570/364
+END
+ENDREP
+id: 20n.0.r2572/993
+type: dir
+pred: 20n.0.r2571/1175
+count: 19
+text: 2572 385 595 595 7fd9ee9ae293ca4ca10830b1ed4d2706
+props: 2570 1563 240 0 c074b067f5accab778e10d7a0e2b211d
+cpath: /old/sipXpublisher/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 19
+dir 20n.0.r2572/993
+K 4
+tags
+V 20
+dir 21v.0.r2566/1433
+END
+ENDREP
+id: 20m.0.r2572/1300
+type: dir
+pred: 20m.0.r2571/1484
+count: 24
+text: 2572 1214 73 73 e5061ef0bcd14d7c0ac7ca69e3d2d700
+cpath: /old/sipXpublisher
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2572/1300
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2572/1823
+type: dir
+pred: 1.0.r2571/2007
+count: 2571
+text: 2572 1460 350 350 4164baf89ba8cc45dccdef01029d941a
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2572/1823
+END
+ENDREP
+id: 0.0.r2572/2018
+type: dir
+pred: 0.0.r2571/2202
+count: 2572
+text: 2572 1969 36 36 bdd8aa9211a9978be82ed281e348ddbe
+cpath: /
+copyroot: 0 /
+
+211.0.r2549/68925 delete false false /old/sipXpublisher/main/etc/server.crt
+
+212.0.r2549/69087 delete false false /old/sipXpublisher/main/etc/server.key
+
+
+2018 2159

@@ -1,0 +1,162 @@
+PLAIN
+K 10
+svn:ignore
+V 47
+Doxyfile
+Makefile
+Makefile.in
+html
+sipXportLib
+
+END
+ENDREP
+id: ac.0.r408/86
+type: dir
+pred: ac.0.r405/7439
+count: 11
+text: 405 7250 176 176 a1a3cb004fc7fd5e57f45452e40aa148
+props: 408 0 73 0 9216b22122a48ccc5803182fec29f69f
+cpath: /old/sipXportLib/main/doc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 20
+file 4.0.r381/145534
+K 9
+ChangeLog
+V 17
+file 5.0.r400/542
+K 7
+INSTALL
+V 20
+file 6.0.r381/149407
+K 7
+LICENSE
+V 19
+file 7.0.r381/20386
+K 11
+Makefile.am
+V 20
+file 8.0.r381/150687
+K 4
+NEWS
+V 20
+file 9.0.r381/150995
+K 6
+README
+V 20
+file a.0.r381/145234
+K 4
+TODO
+V 20
+file b.0.r381/149109
+K 9
+acsite.m4
+V 19
+file c.0.r381/72051
+K 3
+bin
+V 18
+dir as.0.r405/9534
+K 6
+config
+V 18
+dir 91.0.r405/8750
+K 12
+configure.ac
+V 18
+file d.0.r405/6550
+K 3
+doc
+V 16
+dir ac.0.r408/86
+K 7
+include
+V 17
+dir e.0.r407/2375
+K 15
+sipXportLib.dsp
+V 17
+file 4c.0.r382/57
+K 19
+sipxportlib.spec.in
+V 21
+file aq.0.r381/151294
+K 3
+src
+V 18
+dir 4d.0.r407/6322
+K 12
+syslogviewer
+V 20
+dir 8y.0.r381/146508
+END
+ENDREP
+id: 3.0.r408/1007
+type: dir
+pred: 3.0.r407/7251
+count: 339
+text: 408 299 695 695 12aba0b18881372d29a4018aef937a6b
+props: 400 1478 398 0 91b037372b3a2f8db538cb6f519edaae
+cpath: /old/sipXportLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir ar.0.r406/12304
+K 4
+main
+V 17
+dir 3.0.r408/1007
+K 4
+tags
+V 18
+dir an.0.r399/2981
+END
+ENDREP
+id: 2.0.r408/1340
+type: dir
+pred: 2.0.r407/7586
+count: 406
+text: 408 1220 107 107 4048de5fc8697bedca3ccc4adf1f780b
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r408/1340
+END
+ENDREP
+id: 1.0.r408/1551
+type: dir
+pred: 1.0.r407/7798
+count: 407
+text: 408 1494 44 44 50e4d03e1a9517415bbbe747525e10df
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r408/1551
+END
+ENDREP
+id: 0.0.r408/1739
+type: dir
+pred: 0.0.r407/7987
+count: 408
+text: 408 1691 35 35 c75fdc7f0665873715b10c94f9af3571
+cpath: /
+copyroot: 0 /
+
+ac.0.t407-1 modify false true /old/sipXportLib/main/doc
+
+
+1739 1876

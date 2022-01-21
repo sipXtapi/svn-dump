@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-02-09T14:46:48.080182Z
+K 7
+svn:log
+V 40
+try to get the "make check" pass working
+END

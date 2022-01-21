@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-08-02T19:21:44.356569Z
+K 7
+svn:log
+V 309
+[XCS-69] Fix conversion of dial string patterns in rules files
+         to properly escape perl regular expression characters.
+
+         The usage of these files is now better documented in the
+         urlmap.xsd schema file, and in the mappingrules.xml example.
+
+  http://track.sipfoundry.org/browse/XCS-69
+
+END

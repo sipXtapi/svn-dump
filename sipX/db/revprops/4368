@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-17T17:30:19.407491Z
+K 7
+svn:log
+V 106
+Remove reference to deleted files from sipXpbx/etc/Makefile.am.
+http://track.sipfoundry.org/browse/XPB-26
+
+END

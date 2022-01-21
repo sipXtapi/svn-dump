@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-03T07:29:15.881244Z
+K 7
+svn:log
+V 75
+Fix sipXportLib VC6 project file
+
+Remove duplicate entry for UtlCrc32.cpp
+
+
+END

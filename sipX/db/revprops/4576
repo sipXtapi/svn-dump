@@ -1,0 +1,42 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-03-29T18:45:08.585892Z
+K 7
+svn:log
+V 1394
+Merged revisions 466,471 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXpbx/branches/2.8
+    ------------------------------------------------------------------------
+    r466 | dhsu | 2005-03-22 18:04:43 -0500 (Tue, 22 Mar 2005) | 5 lines
+    Changed paths:
+       M /branches/2.8/src/mailboxmgr/AutoAttendantCGI.cpp
+       M /branches/2.8/src/mailboxmgr/MailboxManager.h
+       M /branches/2.8/src/wwwcontent/Makefile.am
+       A /branches/2.8/src/wwwcontent/aa_vxml/autoattendant-internal.vxml.in (from /branches/2.8/src/wwwcontent/aa_vxml/autoattendant.vxml.in:465)
+       D /branches/2.8/src/wwwcontent/aa_vxml/autoattendant.vxml.in
+       A /branches/2.8/src/wwwcontent/stdprompts/autoattendant-internal.wav (from /branches/2.8/src/wwwcontent/stdprompts/autoattendant.wav:465)
+       D /branches/2.8/src/wwwcontent/stdprompts/autoattendant.wav
+    
+    Changed the default name for autoattendant as internal.
+    
+    http://track.sipfoundry.org/browse/XPB-248
+    
+    
+    ------------------------------------------------------------------------
+    r471 | dhsu | 2005-03-24 10:37:55 -0500 (Thu, 24 Mar 2005) | 5 lines
+    Changed paths:
+       M /branches/2.8/src/mailboxmgr/AutoAttendantCGI.cpp
+       M /branches/2.8/src/mailboxmgr/AutoAttendantCGI.h
+    
+    Make the name of auto attendant rules case insensitive.
+    
+    http://track.sipfoundry.org/browse/XPB-248
+    
+    
+
+END

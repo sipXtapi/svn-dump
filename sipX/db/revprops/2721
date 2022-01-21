@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-05-01T14:19:17.955358Z
+K 7
+svn:log
+V 657
+Merged revisions 172 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXpublisher/branches/2.8
+    
+    r172 | xmlscott | 2005-05-01 10:11:39 -0400 (Sun, 01 May 2005) | 9 lines
+    [XPB-281] Don't attempt to proxy messages to an unsupported domain
+       The loop detection code didn't detect the case of the sender using
+       a domain not configured for this server, but which resolved to the
+       forking proxy and which the forking proxy sent to this server.
+       We'll leave the proxying to the proxies, can just return a not
+       found (with text to indicate that the domain is the problem).
+       http://track.sipfoundry.org/browse/XPB-281
+
+END

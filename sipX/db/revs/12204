@@ -1,0 +1,299 @@
+PLAIN
+K 10
+svn:ignore
+V 28
+Makefile
+Makefile.in
+.deps
+
+
+END
+ENDREP
+id: ezs.7n5.r12204/67
+type: dir
+pred: ezs.7n5.r12132/8725
+count: 9
+text: 12132 8422 290 290 892a4fa6a9f957cc137c4d56f6d0b984
+props: 12204 0 54 0 9e8708e9b4786ab3c7ff09e372496a63
+cpath: /main/sipXmediaLib/contrib/libilbc
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file f69.7n5.r12201/211
+K 7
+android
+V 25
+dir g9q.7n5.r12196/415625
+K 14
+buildFFmpeg.sh
+V 23
+file h4u.7n5.r11741/652
+K 8
+libamrnb
+V 24
+dir f32.7n5.r12132/10604
+K 8
+libamrwb
+V 23
+dir f41.7n5.r12132/7642
+K 6
+libgsm
+V 24
+dir ebx.7n5.r12132/16385
+K 7
+libilbc
+V 21
+dir ezs.7n5.r12204/67
+K 7
+libopus
+V 24
+dir lw5.7n5.r12203/13144
+K 10
+libspandsp
+V 23
+dir f50.7n5.r12131/4748
+K 8
+libspeex
+V 24
+dir fz0.7n5.r12132/15393
+END
+ENDREP
+id: ebw.7n5.r12204/760
+type: dir
+pred: ebw.7n5.r12203/13793
+count: 76
+text: 12204 310 437 437 6a3b8b9558f33614578c5d9f0f01e9e3
+props: 11403 0 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /main/sipXmediaLib/contrib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 24
+file g92.7n5.r12193/3058
+K 12
+CONTRIBUTORS
+V 25
+file b41.0.r6469/22054157
+K 9
+ChangeLog
+V 25
+file b42.0.r6469/22025314
+K 7
+INSTALL
+V 24
+file b43.0.r6955/1728056
+K 11
+Makefile.am
+V 23
+file b44.0.r10281/14228
+K 4
+NEWS
+V 25
+file b45.0.r6469/22058814
+K 6
+README
+V 24
+file b46.0.r6955/1727035
+K 4
+TODO
+V 25
+file b47.0.r6469/22057442
+K 9
+acsite.m4
+V 24
+file b48.0.r6955/1726702
+K 17
+autoconf259.patch
+V 23
+file fxj.7n5.r10953/747
+K 3
+bin
+V 22
+dir b49.7n5.r11821/958
+K 12
+configure.ac
+V 25
+file b4k.7n5.r12202/13492
+K 7
+contrib
+V 22
+dir ebw.7n5.r12204/760
+K 3
+doc
+V 22
+dir b4l.7n5.r11821/663
+K 26
+dtmf5_48khz_16b_signed.wav
+V 23
+file f7a.0.r10516/48478
+K 7
+include
+V 24
+dir b4p.7n5.r12188/10856
+K 3
+lib
+V 24
+dir b8u.0.r6469/22057603
+K 4
+meta
+V 24
+dir b8v.0.r6469/22024982
+K 25
+sipXmediaLib-msvc8.vcproj
+V 24
+file e76.7n5.r11952/3545
+K 16
+sipXmediaLib.dsp
+V 24
+file up.7nl.r11401/19813
+K 16
+sipXmediaLib.vcp
+V 22
+file e6i.0.r9956/38866
+K 19
+sipXmediaLib.vcproj
+V 24
+file b92.7n5.r12138/5904
+K 29
+sipXmediaLibTest-msvc8.vcproj
+V 25
+file e77.7n5.r11246/25524
+K 20
+sipXmediaLibTest.dsp
+V 24
+file mh.7nm.r11405/14608
+K 20
+sipXmediaLibTest.sln
+V 24
+file eaj.7n5.r12138/5652
+K 20
+sipXmediaLibTest.vcp
+V 22
+file e6j.0.r8865/20512
+K 23
+sipXmediaLibTest.vcproj
+V 24
+file eak.7n5.r12138/6106
+K 20
+sipxmedialib.spec.in
+V 24
+file b93.7n5.r10867/5783
+K 3
+src
+V 24
+dir b94.7n5.r12202/13251
+END
+ENDREP
+id: b40.7n5.r12204/2402
+type: dir
+pred: b40.7n5.r12203/15439
+count: 1710
+text: 12204 996 1393 1393 891825278e9c6eccd30a4410bcb7c5ac
+props: 12145 0 1813 0 58248c4af0182e106449432dd66c2042
+cpath: /main/sipXmediaLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g8y.7n5.r12172/315
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 23
+dir 9wj.7n5.r12202/3039
+K 10
+readme.txt
+V 26
+file 9ws.7n5.r12043/247879
+K 7
+scripts
+V 23
+dir fxk.7n5.r12171/1617
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r12195/5622
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r12191/4723
+K 12
+sipXmediaLib
+V 23
+dir b40.7n5.r12204/2402
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r12189/6789
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r12176/4629
+K 11
+sipXtackLib
+V 23
+dir boq.7n5.r12165/2856
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r12204/3298
+type: dir
+pred: 9wi.7n5.r12203/16339
+count: 3142
+text: 12204 2638 647 647 568b7acae8d8d5a908febefd51133ff0
+props: 12114 59175 76 0 1dd3880c3272b32f88d1700b38908223
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r12113/17441
+K 4
+main
+V 23
+dir 9wi.7n5.r12204/3298
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r12204/3694
+type: dir
+pred: 0.0.r12203/16738
+count: 12204
+text: 12204 3522 159 159 95e3634f8a9870d35b33813b9e65f705
+cpath: /
+copyroot: 0 /
+
+ezs.7n5.t12203-1 modify false true /main/sipXmediaLib/contrib/libilbc
+
+
+3694 3842

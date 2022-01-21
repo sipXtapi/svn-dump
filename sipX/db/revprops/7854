@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-28T03:20:17.951769Z
+K 7
+svn:log
+V 312
+Yet another version of CpCallManager::getNewCallId.
+This one removes the need for using long long int's (and the attendant
+portability hassles), shortens the Call-IDs slightly, but maintains
+the other desirable properties of the previous version.
+Add a test to check that successive Call-IDs aren't too similar.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-04-04T02:15:27.224527Z
+K 7
+svn:log
+V 114
+XCF-293 (progress towards) Basic user management page, reused user table from add line page, took some refactoring
+END

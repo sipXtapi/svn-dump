@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-07-24T19:25:08.986407Z
+K 7
+svn:log
+V 241
+XCF-1114: Hook the Intercom page into the Features menu, with a WORK IN PROGRESS label on the page since it's not completely functional yet.
+Fix a few bugs in the IntercomRule. Now we are generating the proper mapping rule for the intercom.
+
+END

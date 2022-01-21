@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-30T15:03:53.885759Z
+K 7
+svn:log
+V 177
+More fixes to make it builds correctly without video support:
+1) Missed video related file removed from Visual Studio project.
+2) Overlooked usage of MpVideoCallGraph ifdef'ed.
+
+END

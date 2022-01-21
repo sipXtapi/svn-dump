@@ -1,0 +1,29 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2007-01-19T21:42:37.843971Z
+K 7
+svn:log
+V 767
+Set From header (CallerID) on REFER generated INVITEs to match.
+
+Previously, when the UA was asked to transfer a call by REFER, the
+outgoing INVITE might contain just an IP address and port number
+in the From header.  This change sets the OutboundLine (and thus the
+From header) to the value from the To header in the REFER.  Thus the
+new call contains the same CallerID info that the original call
+had, so the transfered destination can see the identical connection 
+information.
+
+There is a possiblity of call spoofing here, (forcing the system to generate
+a new call with the caller ID of someone else) but as the REFER is an in-dialog
+request changing the To header is not expected.  And any external calls
+would be challenged for authentication anyway.
+
+--Woof!
+
+END

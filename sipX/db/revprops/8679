@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2007-02-01T03:17:19.843729Z
+K 7
+svn:log
+V 75
+A few more minor tweaks in docs -- regenerated using latest doxygen (1.5)
+
+
+END

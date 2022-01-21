@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-05T19:01:50.884027Z
+K 7
+svn:log
+V 107
+BUGFIX: When constructing SdpCodec object formatSpecificData parameter should not include "a=fmtp:#" part.
+
+END

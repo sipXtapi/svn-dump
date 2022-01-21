@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-07-13T16:09:06.540118Z
+K 7
+svn:log
+V 153
+Make the --failfast option disable the retry on incremental build
+  failures
+Improve error messages for missing projects and unspecified
+  destinations
+
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-06-17T16:48:23.301876Z
+K 7
+svn:log
+V 242
+sipXmediaLib: Fix MpResamplerSpeex to correctly support huge chunks of data.
+We should slice our data to fit into stack size, because Speex resampler tries to allocate all that memory in stack. This lead to crash deep inside Speex resampler.
+
+END

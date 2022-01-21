@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-10-14T17:22:23.074756Z
+K 7
+svn:log
+V 131
+Added a IDEA 4.5 project for the java application layer (you
+still must use the build-wnt.xml files to build, but eases
+editing).
+
+
+END

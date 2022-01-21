@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-10-24T08:40:15.855143Z
+K 7
+svn:log
+V 606
+Merged revisions 7701-7702 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7701 | bob | 2006-10-09 00:22:57 +0400 | 6 lines
+  
+  Manually merged sipXportLib changes from main (revision 7673) to the sipXtapi branch.  Unit tests (port and sipXtapi) run under windows: one exception: process manager tests currently fail -- not sure if these ever worked on windows.
+  
+  I still need to fix the linux build/makefiles (coming up)
+........
+  r7702 | bob | 2006-10-09 00:42:42 +0400 | 3 lines
+  
+  first pass at fixing build errors under linux (more likely coming)
+........
+
+END

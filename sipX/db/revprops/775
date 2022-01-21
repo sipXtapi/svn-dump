@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-01-25T20:30:10.388995Z
+K 7
+svn:log
+V 111
+Merged revisions 137,147,152,155-157 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.6
+
+END

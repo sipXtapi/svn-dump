@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-11-24T00:36:56.528972Z
+K 7
+svn:log
+V 229
+XCF-305: Implement SOAP authentication.  For testing purposes, allow a special dummy admin username to be authenticated only when testing, so that unit tests don't have to worry about an admin user being present in the database.
+
+END

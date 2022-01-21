@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-10T22:03:40.664530Z
+K 7
+svn:log
+V 241
+Prevent blank window from popping up when playing a heard message.
+Make sure that the browser can retrieve the WAV even if Javascript is off.
+Add comment to explain the tricks in the generated link.
+http://track.sipfoundry.org/browse/XVX-76
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-06T18:29:28.347465Z
+K 7
+svn:log
+V 149
+Remove OS-specific declaration of str(n)casecmp() from several places.
+Most correct declaration (and place) for these functions is in <os/OsDefs.h>.
+
+END

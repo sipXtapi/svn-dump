@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-11-05T15:22:37.496422Z
+K 7
+svn:log
+V 100
+XCF-758 multiple conference bridges supported, removed participants UI (not needed in this version)
+
+END

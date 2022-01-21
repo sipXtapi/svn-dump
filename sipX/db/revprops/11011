@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-03T07:17:39.233325Z
+K 7
+svn:log
+V 80
+Revert revisions 11007-11010, as changes to OsAtomic caused VC6 build to fail.
+
+
+END

@@ -1,0 +1,28 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-02-08T17:58:11.894062Z
+K 7
+svn:log
+V 444
+Revamp all makefiles to improve libtool usage.
+
+ * All dependencies between shared libraries are now automatic,
+   so you only need to declare the immediate dependencies when
+   linking a library - if that library needs any others, they 
+   are added for you.
+
+ * All shared libraries now have explicit version numbers.
+
+Removed many duplications in the flags passed to the C++ compiler.
+
+Incidentally, did some cleanup on doxygen usage.
+
+
+   
+
+END

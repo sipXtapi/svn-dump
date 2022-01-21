@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-06-21T22:30:13.816106Z
+K 7
+svn:log
+V 269
+Improve timing in MpMMTimerWnt::waitForNextTick -- No need to create a new event each time - instead, create one in runMultimedia, re-use, and clean it up in stopMultimedia.
+
+Clean up MpInputDeviceDriverWnt callback signature variances from different windows platforms.
+END

@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2005-03-21T17:45:40.623201Z
+K 7
+svn:log
+V 345
+Merged revisions 147 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXpublisher/branches/2.8
+    ------------------------------------------------------------------------
+    r147 | ajorde | 2005-03-21 12:31:00 -0500 (Mon, 21 Mar 2005) | 1 line
+    Changed paths:
+       M /branches/2.8/Makefile.am
+    
+    Generate MD5 checksum for tarball
+
+END

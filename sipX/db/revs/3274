@@ -1,0 +1,146 @@
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 171
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.properties
+config.status
+configure
+libtool
+stamp-h1
+bin.eclipse
+top.build.dir
+
+
+K 17
+svnmerge-2.6-head
+V 54
+https://scm.sipfoundry.org/rep/sipXconfig/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 5
+1-204
+K 24
+svnmerge-post-2.6.1-head
+V 61
+https://scm.sipfoundry.org/rep/sipXconfig/branches/post-2.6.1
+K 24
+svnmerge-post-2.6.1-revs
+V 5
+1-143
+END
+ENDREP
+id: 2hf.0.r3274/551
+type: dir
+pred: 2hf.0.r3273/8998
+count: 175
+text: 3273 7634 1351 1351 8c725012cf9311e21972b5e0e71688b3
+props: 3274 0 538 0 42c641de32e83af400e48cce4c169269
+cpath: /old/sipXconfig/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 4c1.0.r3270/4045
+K 4
+main
+V 19
+dir 2hf.0.r3274/551
+K 4
+tags
+V 20
+dir 4b6.0.r3271/1551
+END
+ENDREP
+id: 2he.0.r3274/895
+type: dir
+pred: 2he.0.r3273/9349
+count: 249
+text: 3274 770 112 112 a5bb871349cdf12452664512cecea057
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 19
+dir 2he.0.r3274/895
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3274/1496
+type: dir
+pred: 1.0.r3273/9954
+count: 3272
+text: 3274 1053 430 430 35a1b55fed52734b592d6854446a09a4
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3274/1496
+END
+ENDREP
+id: 0.0.r3274/1691
+type: dir
+pred: 0.0.r3273/10150
+count: 3274
+text: 3274 1642 36 36 a43266ca7a6f88bffd4d196b6b2639ef
+cpath: /
+copyroot: 0 /
+
+2hf.0.t3273-1 modify false true /old/sipXconfig/main
+
+
+1691 1833

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-05T18:49:16.708166Z
+K 7
+svn:log
+V 150
+Merged revisions 4703 via svnmerge from
+https://paradise.pingtel.com/rep/sipX/pingtel/main
+
+Delay for a few seconds before sending out the SUBSCRIBE.
+
+END

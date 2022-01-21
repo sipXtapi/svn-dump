@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-10-21T20:24:59.804129Z
+K 7
+svn:log
+V 116
+XCF-10 fix: 
+- VersionInfo class now compatible with format of the build.properties file.
+- VersionInfoTest added. 
+
+END

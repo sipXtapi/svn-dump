@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-19T17:50:59.137169Z
+K 7
+svn:log
+V 122
+Downgrade the "UrlMapping::loadMappings - loaded %s" message from ERR to INFO.
+
+http://track.sipfoundry.org/browse/XRR-46
+
+END

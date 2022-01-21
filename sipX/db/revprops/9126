@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-21T18:39:35.272743Z
+K 7
+svn:log
+V 73
+fixed startup error from my last commit, had service sequence name wrong 
+END

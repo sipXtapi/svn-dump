@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-08T12:26:18.809520Z
+K 7
+svn:log
+V 229
+Merged revisions 7965 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7965 | dpetrie | 2006-11-08 04:19:30 +0300 | 3 lines
+  
+  First pass at making sipXportLib compile on WinCE 5.0
+........
+
+END

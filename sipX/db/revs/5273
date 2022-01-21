@@ -1,0 +1,137 @@
+PLAIN
+K 13
+svn:externals
+V 55
+config https://scm.sipfoundry.org/rep/sipX/main/config
+
+K 10
+svn:ignore
+V 254
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+bin.eclipse
+build
+config.h
+config.h.in
+config.log
+build.properties
+config.status
+configure
+libtool
+sipxconfig-*.rpm
+sipxconfig-*.tar.gz
+sipxconfig.spec
+stamp-h1
+top.build.dir
+velocity.log
+spy.log
+
+K 19
+svnmerge-integrated
+V 181
+/branches/2.6:1-204,218,223-251,265,314,459
+/branches/2.8:1-829,837-855,1016
+/branches/lowcarb:1-1002
+/branches/user_pin:1-732
+/main/sipXconfig:1-5061
+/mirror/main/sipXconfig:1-3641
+END
+ENDREP
+id: 2hf.20x.r5273/587
+type: dir
+pred: 2hf.20x.r5094/308727
+count: 973
+text: 5094 307562 1152 1152 719bc6d4d4a24547042e9f094382d5f7
+props: 5273 0 574 0 291d17a7e79c6e6aa7979f2a099c3ca4
+cpath: /branches/sipXconfig-soap
+copyroot: 5061 /branches/sipXconfig-soap
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 21
+dir 7pv.0.r4813/26770
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 7
+lowcarb
+V 21
+dir 7py.0.r4813/27240
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 7
+restful
+V 21
+dir 7q0.0.r4813/15683
+K 15
+sipXconfig-soap
+V 21
+dir 2hf.20x.r5273/587
+K 31
+sipXconfig_unique_sip_usernames
+V 23
+dir 2hf.20y.r5066/55100
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+K 8
+user_pin
+V 21
+dir 7q2.0.r4813/19786
+K 9
+user_ping
+V 21
+dir 7q3.0.r4813/30843
+END
+ENDREP
+id: 7pt.0.r5273/1397
+type: dir
+pred: 7pt.0.r5094/309547
+count: 7
+text: 5273 846 538 538 04c67718c7fefd830674568e3cd965e3
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r5273/1397
+K 4
+main
+V 21
+dir 7q4.0.r5272/15123
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r5273/1679
+type: dir
+pred: 0.0.r5272/15465
+count: 5273
+text: 5273 1550 116 116 97b485d358f34da2148ee1e12de0937f
+cpath: /
+copyroot: 0 /
+
+2hf.20x.t5272-1 modify false true /branches/sipXconfig-soap
+
+
+1679 1823

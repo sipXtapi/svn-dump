@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-29T22:38:13.482984Z
+K 7
+svn:log
+V 161
+XCF-556 date columns in JobStatusPage are now correctly sorted
+TapestryUtils.createDateColumn function can be used to properly create columns that display dates
+
+END

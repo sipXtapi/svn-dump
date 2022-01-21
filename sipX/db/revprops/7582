@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-09-26T22:00:24.076618Z
+K 7
+svn:log
+V 178
+Mark Polycom line registation settings that are determined automatically by user information as advanced settings to guard against redundant and possible erroneous setting values
+END

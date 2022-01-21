@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-23T04:13:36.269171Z
+K 7
+svn:log
+V 580
+The generated restore-mailstore.sh script file doe not correctly check to see if the sipx daemons are running, because the path of the watchdog.pid file is incorrect. It uses the existence of this file to infer whether or not the daemons are running. With an incorrect watchdog.pid path the file will never be found, so the script will behave as if the daemons are not running, when in fact they may be.
+
+Also, the message that is displayed when the daemons are determined to be running is inconsistent with the message displayed by restore-configs.sh. They should be the same. 
+
+
+END

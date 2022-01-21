@@ -1,0 +1,268 @@
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: na.0.r1096/60
+type: dir
+pred: na.0.r1086/35143
+count: 5
+text: 1086 35015 115 115 f1e02f61dbfbca56480d8b3df4dc84b9
+props: 1096 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXmediaLib/main/include
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 51
+.deps
+.libs
+Makefile
+Makefile.in
+sandbox
+testsuite
+
+END
+ENDREP
+id: ug.0.r1096/373
+type: dir
+pred: ug.0.r1086/36416
+count: 11
+text: 1086 36324 79 79 5b90bcdd157803c2d1bde727df94456e
+props: 1096 283 77 0 6b94d20aec46b8dab44ef95e370ba39c
+cpath: /old/sipXmediaLib/main/src/test
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file rh.0.r1070/20565
+K 2
+mp
+V 19
+dir ri.0.r1093/6374
+K 4
+rtcp
+V 19
+dir tz.0.r1089/1930
+K 4
+test
+V 18
+dir ug.0.r1096/373
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 33
+.deps
+.libs
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: rg.0.r1096/831
+type: dir
+pred: rg.0.r1093/6708
+count: 17
+text: 1096 599 147 147 f2dea1aac32269d95ff7a07ed53b3867
+props: 1096 759 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /old/sipXmediaLib/main/src
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 30
+Doxyfile
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: ur.0.r1096/1120
+type: dir
+pred: ur.0.r1095/11555
+count: 1
+text: 1095 11311 180 180 c282847734289eaacf9197c025d6b787
+props: 1096 1051 56 0 357a444bd6df82003e865df156c283e9
+cpath: /old/sipXmediaLib/main/doc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file n0.0.r1068/782489
+K 9
+ChangeLog
+V 19
+file n1.0.r1092/223
+K 7
+INSTALL
+V 19
+file n2.0.r1075/530
+K 7
+LICENSE
+V 22
+file n3.0.r1068/695017
+K 11
+Makefile.am
+V 21
+file n4.0.r1095/11924
+K 4
+NEWS
+V 22
+file n5.0.r1068/782343
+K 6
+README
+V 19
+file n6.0.r1075/757
+K 4
+TODO
+V 22
+file n7.0.r1068/743619
+K 9
+acsite.m4
+V 22
+file n8.0.r1068/744259
+K 12
+configure.ac
+V 21
+file n9.0.r1095/10441
+K 3
+doc
+V 19
+dir ur.0.r1096/1120
+K 7
+include
+V 17
+dir na.0.r1096/60
+K 3
+lib
+V 21
+dir rf.0.r1068/744020
+K 16
+sipXmediaLib.dsp
+V 18
+file up.0.r1094/84
+K 20
+sipxmedialib.spec.in
+V 21
+file uw.0.r1095/11758
+K 3
+src
+V 18
+dir rg.0.r1096/831
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 133
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+
+END
+ENDREP
+id: mz.0.r1096/2258
+type: dir
+pred: mz.0.r1095/12814
+count: 24
+text: 1096 1344 641 641 73e192869ddf3993462e97178da1a7d8
+props: 1096 1998 247 0 ead6b2fa77ee12ecf35083947e407d9c
+cpath: /old/sipXmediaLib/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 19
+dir mz.0.r1096/2258
+K 4
+tags
+V 19
+dir uq.0.r1091/1348
+END
+ENDREP
+id: my.0.r1096/2564
+type: dir
+pred: my.0.r1095/13121
+count: 29
+text: 1096 2479 72 72 18bd355dd88366b4968994e77c76b19f
+cpath: /old/sipXmediaLib
+copyroot: 0 /
+
+PLAIN
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1096/2564
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1096/2865
+type: dir
+pred: 1.0.r1095/13424
+count: 1095
+text: 1096 2722 130 130 6efe98d8844ff8f72e4ac7a3fc19203f
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1096/2865
+END
+ENDREP
+id: 0.0.r1096/3061
+type: dir
+pred: 0.0.r1095/13622
+count: 1096
+text: 1096 3012 36 36 f13693a11de355912d9d6cafc7a0cc2c
+cpath: /
+copyroot: 0 /
+
+ur.0.t1095-1 modify false true /old/sipXmediaLib/main/doc
+
+ug.0.t1095-1 modify false true /old/sipXmediaLib/main/src/test
+
+rg.0.t1095-1 modify false true /old/sipXmediaLib/main/src
+
+mz.0.t1095-1 modify false true /old/sipXmediaLib/main
+
+na.0.t1095-1 modify false true /old/sipXmediaLib/main/include
+
+
+3061 3203

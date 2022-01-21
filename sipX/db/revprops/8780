@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-02-14T03:10:24.630148Z
+K 7
+svn:log
+V 120
+Find cleaner way to find process command to start.  typo in last edit to sipxpbx startup script, removed shebang syntax
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-08-05T15:21:58.820689Z
+K 7
+svn:log
+V 66
+Added some ugly scripts to set the version numbers in sipXtapi.h
+
+
+END

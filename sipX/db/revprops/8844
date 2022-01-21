@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-02-20T22:41:21.885279Z
+K 7
+svn:log
+V 168
+new media infrastructure - MpInputDeviceDriver..
+Added more comments, fixed some merge issues that I overlooked with last checkin.
+Conform better to coding guidelines.
+
+END

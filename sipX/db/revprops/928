@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 4
+szuk
+K 8
+svn:date
+V 27
+2005-04-28T03:25:25.996782Z
+K 7
+svn:log
+V 234
+Implements the safe shutdown of the stack in SipUserAgent.
+All timers created by a SipTransaction are now kept track of
+and are stopped and deleted when a shutdown is requested.
+A unit test is also included.
+See XSL-61 for more info.
+
+END

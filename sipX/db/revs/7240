@@ -1,0 +1,647 @@
+PLAIN
+K 17
+AddContactDlg.cpp
+V 24
+file ale.0.r6711/4916585
+K 15
+AddContactDlg.h
+V 24
+file alf.0.r6711/4909290
+K 15
+ButtonPanel.cpp
+V 24
+file alg.0.r6711/4949661
+K 13
+ButtonPanel.h
+V 24
+file alh.0.r6711/4928985
+K 20
+CallHistoryPanel.cpp
+V 24
+file ali.0.r6711/4912567
+K 18
+CallHistoryPanel.h
+V 24
+file alj.0.r6711/4932249
+K 12
+CallList.cpp
+V 24
+file alk.0.r6711/4910388
+K 10
+CallList.h
+V 24
+file all.0.r6711/4930434
+K 21
+CameraSettingsDlg.cpp
+V 24
+file alm.0.r6711/4924616
+K 19
+CameraSettingsDlg.h
+V 24
+file aln.0.r6711/4929345
+K 19
+ConferencePanel.cpp
+V 24
+file alo.0.r6711/4926807
+K 17
+ConferencePanel.h
+V 24
+file alp.0.r6711/4923161
+K 19
+ContactListCtrl.cpp
+V 24
+file alq.0.r6711/4920615
+K 17
+ContactListCtrl.h
+V 24
+file alr.0.r6711/4926443
+K 20
+ContactListPanel.cpp
+V 24
+file als.0.r6711/4919515
+K 18
+ContactListPanel.h
+V 24
+file alt.0.r6711/4911830
+K 18
+DialEntryPanel.cpp
+V 24
+file alu.0.r6711/4911464
+K 16
+DialEntryPanel.h
+V 24
+file alv.0.r6711/4931144
+K 17
+DialPadButton.cpp
+V 22
+file alw.0.r7116/67469
+K 15
+DialPadButton.h
+V 22
+file alx.0.r7116/68017
+K 16
+DialPadPanel.cpp
+V 22
+file aly.0.r7116/67193
+K 14
+DialPadPanel.h
+V 22
+file alz.0.r7116/67744
+K 16
+DialerThread.cpp
+V 24
+file am0.0.r6711/4949298
+K 14
+DialerThread.h
+V 24
+file am1.0.r6711/4917317
+K 15
+EventLogDlg.cpp
+V 24
+file am2.0.r6711/4911101
+K 13
+EventLogDlg.h
+V 24
+file am3.0.r6711/4920980
+K 7
+INSTALL
+V 24
+file am4.0.r6955/1718258
+K 24
+ImportCertificateDlg.cpp
+V 24
+file am5.0.r6711/4918780
+K 22
+ImportCertificateDlg.h
+V 24
+file am6.0.r6711/4926075
+K 13
+MainPanel.cpp
+V 24
+file am7.0.r6711/4925713
+K 11
+MainPanel.h
+V 24
+file am8.0.r6711/4929710
+K 11
+Makefile.am
+V 25
+file am9.0.r6469/21949091
+K 18
+PlacedCallList.cpp
+V 24
+file ama.0.r6711/4914392
+K 16
+PlacedCallList.h
+V 24
+file amb.0.r6711/4922066
+K 17
+PreviewWindow.cpp
+V 24
+file amc.0.r6711/4920251
+K 15
+PreviewWindow.h
+V 24
+file amd.0.r6711/4913666
+K 10
+README.txt
+V 24
+file ame.0.r6955/1717547
+K 20
+ReceivedCallList.cpp
+V 24
+file amf.0.r6711/4913300
+K 18
+ReceivedCallList.h
+V 24
+file amg.0.r6711/4921340
+K 18
+RingTonePlayer.cpp
+V 24
+file amh.0.r6711/4909652
+K 16
+RingTonePlayer.h
+V 24
+file ami.0.r6711/4919152
+K 14
+VideoPanel.cpp
+V 24
+file amj.0.r6711/4922429
+K 12
+VideoPanel.h
+V 24
+file amk.0.r6711/4927903
+K 15
+VideoWindow.cpp
+V 24
+file aml.0.r6711/4917678
+K 13
+VideoWindow.h
+V 24
+file amm.0.r6711/4924985
+K 22
+VolumeControlPanel.cpp
+V 24
+file amn.0.r6711/4948928
+K 20
+VolumeControlPanel.h
+V 24
+file amo.0.r6711/4916950
+K 10
+aclocal.m4
+V 24
+file amp.0.r6955/1718976
+K 9
+acsite.m4
+V 24
+file amq.0.r6955/1717905
+K 12
+configure.ac
+V 24
+file amr.0.r6711/4915119
+K 3
+doc
+V 23
+dir ams.0.r6955/1717257
+K 3
+res
+V 24
+dir amv.0.r6469/21936697
+K 10
+resource.h
+V 24
+file ao1.0.r6711/4928262
+K 24
+sipXAudioSettingsDlg.cpp
+V 24
+file ao2.0.r6711/4912195
+K 22
+sipXAudioSettingsDlg.h
+V 24
+file ao3.0.r6711/4931880
+K 23
+sipXSrtpSettingsDlg.cpp
+V 24
+file ao4.0.r6711/4910017
+K 21
+sipXSrtpSettingsDlg.h
+V 24
+file ao5.0.r6711/4919883
+K 17
+sipXTabbedDlg.cpp
+V 24
+file ao6.0.r6711/4930068
+K 15
+sipXTabbedDlg.h
+V 24
+file ao7.0.r6711/4914756
+K 24
+sipXVideoSettingsDlg.cpp
+V 24
+file ao8.0.r6711/4931508
+K 22
+sipXVideoSettingsDlg.h
+V 24
+file ao9.0.r6711/4915852
+K 18
+sipXezPhone.vcproj
+V 19
+file aob.0.r6934/57
+K 15
+sipXezPhone.wdr
+V 25
+file aoc.0.r6469/21919322
+K 23
+sipXezPhoneAboutDlg.cpp
+V 24
+file aod.0.r6711/4918040
+K 21
+sipXezPhoneAboutDlg.h
+V 24
+file aoe.0.r6711/4925345
+K 18
+sipXezPhoneApp.cpp
+V 24
+file aof.0.r6711/4912934
+K 16
+sipXezPhoneApp.h
+V 24
+file aog.0.r6711/4932614
+K 20
+sipXezPhoneFrame.cpp
+V 24
+file aoh.0.r6929/8105799
+K 18
+sipXezPhoneFrame.h
+V 24
+file aoi.0.r6929/8101703
+K 23
+sipXezPhoneSettings.cpp
+V 24
+file aoj.0.r6711/4923525
+K 21
+sipXezPhoneSettings.h
+V 24
+file aok.0.r6711/4918410
+K 26
+sipXezPhoneSettingsDlg.cpp
+V 24
+file aol.0.r6711/4915478
+K 24
+sipXezPhoneSettingsDlg.h
+V 24
+file aom.0.r6711/4922790
+K 20
+sipXezPhoneSetup.txt
+V 24
+file aon.0.r6955/1718610
+K 19
+sipXezPhone_wdr.cpp
+V 24
+file aoo.0.r6711/4927174
+K 17
+sipXezPhone_wdr.h
+V 24
+file aop.0.r6711/4950024
+K 11
+sipXmgr.cpp
+V 24
+file aoq.0.r6929/8101426
+K 9
+sipXmgr.h
+V 24
+file aor.0.r6929/8101152
+K 6
+states
+V 21
+dir aos.0.r7116/70994
+K 9
+stdwx.cpp
+V 24
+file aps.0.r6711/4910746
+K 7
+stdwx.h
+V 24
+file apt.0.r6711/4930791
+END
+ENDREP
+id: ald.0.r7240/4222
+type: dir
+pred: ald.0.r7116/75476
+count: 7
+text: 7240 0 4209 4209 ee54ea605ba3d5d641688648379fb9aa
+cpath: /branches/sipXtapi/sipXcallLib/examples/sipXezPhone
+copyroot: 0 /
+
+PLAIN
+K 10
+CallScript
+V 23
+dir 9zi.0.r6955/1433157
+K 10
+CheckVMail
+V 23
+dir 9zx.0.r6711/4905843
+K 11
+Makefile.am
+V 25
+file a02.0.r6469/21907988
+K 9
+PlaceCall
+V 21
+dir a03.0.r7116/66999
+K 11
+ReceiveCall
+V 21
+dir a0d.0.r7116/76522
+K 21
+SampleGrabberCallback
+V 23
+dir a0n.0.r6711/4647056
+K 3
+bin
+V 24
+dir a13.0.r6469/21907817
+K 7
+include
+V 23
+dir a1c.0.r6955/1716557
+K 3
+lib
+V 23
+dir akd.0.r6929/8100735
+K 11
+musicServer
+V 23
+dir al3.0.r6711/4909004
+K 11
+sipXezPhone
+V 20
+dir ald.0.r7240/4222
+K 14
+sipXtapiDriver
+V 23
+dir apu.0.r6955/1724348
+END
+ENDREP
+id: 9zh.0.r7240/4966
+type: dir
+pred: 9zh.0.r7116/77269
+count: 9
+text: 7240 4416 537 537 a7d0ff547b2a4d86cdf6e9c17e9c1b24
+cpath: /branches/sipXtapi/sipXcallLib/examples
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 25
+file 9wu.0.r6469/21689575
+K 9
+ChangeLog
+V 25
+file 9wv.0.r6469/21643511
+K 7
+INSTALL
+V 24
+file 9ww.0.r6955/1431648
+K 11
+Makefile.am
+V 25
+file 9wx.0.r6469/21715466
+K 4
+NEWS
+V 25
+file 9wy.0.r6469/21715635
+K 6
+README
+V 24
+file 9wz.0.r6955/1430153
+K 4
+TODO
+V 25
+file 9x0.0.r6469/21714560
+K 9
+acsite.m4
+V 24
+file 9x1.0.r6955/1426469
+K 3
+bin
+V 24
+dir 9x2.0.r6469/21715124
+K 12
+configure.ac
+V 24
+file 9xd.0.r6711/4638639
+K 3
+doc
+V 22
+dir 9xe.0.r7200/258431
+K 8
+examples
+V 20
+dir 9zh.0.r7240/4966
+K 7
+include
+V 21
+dir aso.0.r7239/16364
+K 4
+meta
+V 24
+dir aww.0.r6469/21643184
+K 10
+resource.h
+V 24
+file ax6.0.r6711/4638971
+K 18
+sipXcallLib.vcproj
+V 24
+file ax7.0.r6929/7919031
+K 8
+sipXtapi
+V 19
+dir ax8.0.r7201/861
+K 12
+sipXtapi.def
+V 24
+file axe.0.r6929/7916859
+K 11
+sipXtapi.rc
+V 21
+file axf.0.r6964/3296
+K 12
+sipXtapi.sln
+V 22
+file axg.0.r6758/33218
+K 15
+sipXtapi.vcproj
+V 22
+file axh.0.r7194/38257
+K 19
+sipXtapiTest.vcproj
+V 24
+file axi.0.r6929/7918825
+K 19
+sipxcalllib.spec.in
+V 24
+file axj.0.r6955/1430478
+K 3
+src
+V 21
+dir axk.0.r7235/39859
+END
+ENDREP
+id: 9wt.0.r7240/6224
+type: dir
+pred: 9wt.0.r7239/17625
+count: 32
+text: 7240 5149 1062 1062 679fb49291c0a849c32bbb95b2987dda
+props: 6713 2392 97 0 74424fee4fbf66d2d87993bb445feb2d
+cpath: /branches/sipXtapi/sipXcallLib
+copyroot: 0 /
+
+PLAIN
+K 6
+config
+V 23
+dir 9wj.0.r6955/1426209
+K 10
+readme.txt
+V 20
+file 9ws.0.r6962/878
+K 11
+sipXcallLib
+V 20
+dir 9wt.0.r7240/6224
+K 19
+sipXmediaAdapterLib
+V 21
+dir b2p.0.r7166/13365
+K 12
+sipXmediaLib
+V 21
+dir b40.0.r7198/24156
+K 11
+sipXportLib
+V 21
+dir bcf.0.r7239/14992
+K 11
+sipXtackLib
+V 20
+dir boq.0.r7202/6736
+END
+ENDREP
+id: 9wi.0.r7240/6782
+type: dir
+pred: 9wi.0.r7239/18186
+count: 59
+text: 7240 6456 313 313 3221d282b81dd321d2e8d44f653b1701
+cpath: /branches/sipXtapi
+copyroot: 0 /
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 22
+dir 7q4.3ib.r7095/7472
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 21
+dir 7q4.3lm.r7227/164
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7237/16212
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 20
+dir 9wi.0.r7240/6782
+K 21
+sipXtapi-media-update
+V 23
+dir 9wi.3ke.r7233/23844
+K 12
+solaris_port
+V 23
+dir 7q4.3wa.r7093/50041
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 24
+user_dworley_redirectors
+V 23
+dir 7q4.3xw.r7213/21219
+END
+ENDREP
+id: 7pt.0.r7240/7709
+type: dir
+pred: 7pt.0.r7239/19116
+count: 804
+text: 7240 6945 751 751 ec325c0ea97bc819596dbb583d1fcc76
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r7240/7709
+K 4
+main
+V 21
+dir 7q4.0.r7238/37190
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r7240/7992
+type: dir
+pred: 0.0.r7239/19402
+count: 7240
+text: 7240 7864 115 115 55d2f01e6eaa71f7a832c17fb92b9ec8
+cpath: /
+copyroot: 0 /
+
+aoa.0.r6469/21919580 delete false false /branches/sipXtapi/sipXcallLib/examples/sipXezPhone/sipXezPhone.sln
+
+
+7992 8136

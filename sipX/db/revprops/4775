@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-26T19:50:23.476705Z
+K 7
+svn:log
+V 221
+A few changes to the build scripts for sipXphone:
+- Increased the java version number (need a better way on windows)
+- Made sure *-config and cache.ser is deleted before building staging area
+- Rebuild all when building
+
+
+END

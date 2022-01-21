@@ -1,0 +1,1276 @@
+PLAIN
+K 13
+svn:externals
+V 63
+config https://scm.sipfoundry.org/rep/sipX/branches/3.0/config
+
+K 10
+svn:ignore
+V 66
+configure
+build
+config.h.in
+autom4te.cache
+aclocal.m4
+Makefile.in
+
+K 17
+svnmerge-2.6-head
+V 55
+https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 41
+1-311,338-339,344,358,360,362,369-373,396
+K 17
+svnmerge-2.8-head
+V 55
+https://scm.sipfoundry.org/rep/sipXportLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 49
+1-430,435,437-438,444,453,463,477,489,492-493,579
+K 20
+svnmerge-noglib-head
+V 69
+https://paradise.pingtel.com/rep/sipXportLib/branches/sipxtapi-noglib
+K 20
+svnmerge-noglib-revs
+V 5
+1-162
+K 24
+svnmerge-noresparse-head
+V 73
+https://paradise.pingtel.com/rep/sipXportLib/branches/sipxtapi-noresparse
+K 24
+svnmerge-noresparse-revs
+V 5
+1-158
+K 22
+svnmerge-sipxtapi-head
+V 62
+https://paradise.pingtel.com/rep/sipXportLib/branches/sipxtapi
+K 28
+svnmerge-sipxtapi-port0-head
+V 62
+https://paradise.pingtel.com/rep/sipXportLib/branches/sipxtapi
+K 28
+svnmerge-sipxtapi-port0-revs
+V 5
+1-209
+K 22
+svnmerge-sipxtapi-revs
+V 5
+1-204
+K 22
+svnmerge-user_pin-head
+V 60
+https://scm.sipfoundry.org/rep/sipXportLib/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-535
+K 23
+svnmerge-user_ping-head
+V 61
+https://scm.sipfoundry.org/rep/sipXportLib/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-484
+K 19
+svnmerge-video-head
+V 81
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/sipxtapi-video/sipXportLib
+K 19
+svnmerge-video-revs
+V 6
+1-3142
+END
+ENDREP
+id: 3.24i.r5318/1490
+type: dir
+pred: 3.1ib.r5314/4450
+count: 530
+text: 5314 3528 909 909 6aad36d767699ec35d656ab7ec35c6dd
+props: 5318 0 1477 0 6a69bda276f3d98fd4461ba0fe004c41
+cpath: /branches/3.0/sipXportLib
+copyroot: 4813 /main/sipXportLib
+
+PLAIN
+K 13
+svn:externals
+V 63
+config https://scm.sipfoundry.org/rep/sipX/branches/3.0/config
+
+K 10
+svn:ignore
+V 193
+*.tmp
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxproxy-*.rpm
+sipxproxy-*.tar.gz
+sipxproxy.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 53
+https://scm.sipfoundry.org/rep/sipXproxy/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 24
+1-95,101,115,118,132,138
+K 17
+svnmerge-2.8-head
+V 53
+https://scm.sipfoundry.org/rep/sipXproxy/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 29
+1-154,157,161-162,166,173,200
+K 22
+svnmerge-user_pin-head
+V 58
+https://scm.sipfoundry.org/rep/sipXproxy/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-180
+K 23
+svnmerge-user_ping-head
+V 59
+https://scm.sipfoundry.org/rep/sipXproxy/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-174
+END
+ENDREP
+id: 1vt.24j.r5318/2592
+type: dir
+pred: 1vt.1ic.r5314/5968
+count: 137
+text: 5314 5196 759 759 2081f8adc1a52b47c0822dfea57ae80b
+props: 5318 1733 846 0 ee8510593ff2ba845714157f4343a7b2
+cpath: /branches/3.0/sipXproxy
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 13
+svn:externals
+V 63
+config https://scm.sipfoundry.org/rep/sipX/branches/3.0/config
+
+K 10
+svn:ignore
+V 169
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxvxml-*.tar.gz
+sipxvxml.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 52
+https://scm.sipfoundry.org/rep/sipXvxml/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 25
+1-141,144-145,153,160,188
+K 17
+svnmerge-2.8-head
+V 52
+https://scm.sipfoundry.org/rep/sipXvxml/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 45
+1-226,230-231,234-237,239,241,244,251,259,287
+K 22
+svnmerge-user_pin-head
+V 57
+https://scm.sipfoundry.org/rep/sipXvxml/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-273
+K 23
+svnmerge-user_ping-head
+V 58
+https://scm.sipfoundry.org/rep/sipXvxml/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-256
+END
+ENDREP
+id: 22d.24n.r5318/3685
+type: dir
+pred: 22d.1ig.r5314/7459
+count: 205
+text: 5314 6710 736 736 5e267c4fe7d866e8ba6bc9df5513331e
+props: 5318 2837 835 0 a671048677dc2547c0ed7042bd8fdc8c
+cpath: /branches/3.0/sipXvxml
+copyroot: 4813 /main/sipXvxml
+
+PLAIN
+K 13
+svn:externals
+V 63
+config https://scm.sipfoundry.org/rep/sipX/branches/3.0/config
+
+K 10
+svn:ignore
+V 181
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+sipxpbx-*.rpm
+sipxpbx-*.tar.gz
+sipxpbx.spec
+
+K 17
+svnmerge-2.6-head
+V 51
+https://scm.sipfoundry.org/rep/sipXpbx/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 61
+1-307,310-311,316-317,321-324,326,337,341,343,351,366-367,391
+K 17
+svnmerge-2.8-head
+V 51
+https://scm.sipfoundry.org/rep/sipXpbx/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 97
+1-434,437-441,444,447,450,452,458,461,463,466,471,474,484,489-490,503-504,508,514,517,547-548,573
+K 22
+svnmerge-user_pin-head
+V 56
+https://scm.sipfoundry.org/rep/sipXpbx/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-530
+K 23
+svnmerge-user_ping-head
+V 57
+https://scm.sipfoundry.org/rep/sipXpbx/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-479
+END
+ENDREP
+id: 5g6.24g.r5318/4872
+type: dir
+pred: 5g6.1i9.r5314/9085
+count: 475
+text: 5314 8193 879 879 af310d94802fe6683534ebf6a7b1c45a
+props: 5318 3928 931 0 8fd898d7f3e785af2aed89c217f4542b
+cpath: /branches/3.0/sipXpbx
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 13
+svn:externals
+V 63
+config https://scm.sipfoundry.org/rep/sipX/branches/3.0/config
+
+K 10
+svn:ignore
+V 156
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+sipxpublisher.spec
+
+K 17
+svnmerge-2.6-head
+V 57
+https://scm.sipfoundry.org/rep/sipXpublisher/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 19
+1-91,95,108,110,127
+K 17
+svnmerge-2.8-head
+V 57
+https://scm.sipfoundry.org/rep/sipXpublisher/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 25
+1-139,141,147,157,172,181
+K 22
+svnmerge-user_pin-head
+V 62
+https://scm.sipfoundry.org/rep/sipXpublisher/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-162
+K 23
+svnmerge-user_ping-head
+V 63
+https://scm.sipfoundry.org/rep/sipXpublisher/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-154
+END
+ENDREP
+id: 20n.24k.r5318/5942
+type: dir
+pred: 20n.1id.r5314/10614
+count: 124
+text: 5314 9845 756 756 519f93606fdbbe666a9a4307cdc51491
+props: 5318 5113 816 0 e45afb192ce738c2f6a57aae66d20a37
+cpath: /branches/3.0/sipXpublisher
+copyroot: 4813 /main/sipXpublisher
+
+PLAIN
+K 13
+svn:externals
+V 63
+config https://scm.sipfoundry.org/rep/sipX/branches/3.0/config
+
+K 10
+svn:ignore
+V 214
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxcalllib-*.rpm
+sipxcalllib-*.tar.gz
+sipxcalllib.spec
+stamp-h1
+Debug
+Release
+
+K 17
+svnmerge-2.6-head
+V 55
+https://scm.sipfoundry.org/rep/sipXcallLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 24
+1-75,120,130,143,156,207
+K 17
+svnmerge-2.8-head
+V 55
+https://scm.sipfoundry.org/rep/sipXcallLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 37
+1-314,318,335-336,346,352,358-359,464
+K 22
+svnmerge-user_pin-head
+V 60
+https://scm.sipfoundry.org/rep/sipXcallLib/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-391
+K 23
+svnmerge-user_ping-head
+V 61
+https://scm.sipfoundry.org/rep/sipXcallLib/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-372
+K 19
+svnmerge-video-head
+V 81
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/sipxtapi-video/sipXtackLib
+K 19
+svnmerge-video-revs
+V 6
+1-3142
+END
+ENDREP
+id: va.24d.r5318/7240
+type: dir
+pred: va.1i5.r5314/12482
+count: 422
+text: 5314 11374 1095 1095 9be8254090d516bd7d9e59ebc9c54263
+props: 5318 6196 1031 0 a357b8b1d07a4911a3c6dcbe85baebee
+cpath: /branches/3.0/sipXcallLib
+copyroot: 4813 /main/sipXcallLib
+
+PLAIN
+K 13
+svn:externals
+V 63
+config https://scm.sipfoundry.org/rep/sipX/branches/3.0/config
+
+K 10
+svn:ignore
+V 254
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+bin.eclipse
+build
+config.h
+config.h.in
+config.log
+build.properties
+config.status
+configure
+libtool
+sipxconfig-*.rpm
+sipxconfig-*.tar.gz
+sipxconfig.spec
+stamp-h1
+top.build.dir
+velocity.log
+spy.log
+
+K 19
+svnmerge-integrated
+V 157
+/branches/2.6:1-204,218,223-251,265,314,459
+/branches/2.8:1-829,837-855,1016
+/branches/lowcarb:1-1002
+/branches/user_pin:1-732
+/mirror/main/sipXconfig:1-4079
+END
+ENDREP
+id: 2hf.24c.r5318/8063
+type: dir
+pred: 2hf.24c.r5317/3280
+count: 1089
+text: 5317 2118 1149 1149 2725577e41ef743f54298d1ccbc71991
+props: 5318 7492 558 0 e109791267533380b89dd340c952dc80
+cpath: /branches/3.0/sipXconfig
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+svn:externals
+V 63
+config https://scm.sipfoundry.org/rep/sipX/branches/3.0/config
+
+K 10
+svn:ignore
+V 217
+BUILDSTAMP
+Debug
+Makefile
+Makefile.in
+Release
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxmedialib-*.rpm
+sipxmedialib-*.tar.gz
+sipxmedialib.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 56
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 12
+1-75,104,124
+K 17
+svnmerge-2.8-head
+V 56
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 29
+1-183,185,197,201,207,217,249
+K 28
+svnmerge-sipxtapi-port0-head
+V 63
+https://paradise.pingtel.com/rep/sipXmediaLib/branches/sipxtapi
+K 28
+svnmerge-sipxtapi-port0-revs
+V 5
+1-120
+K 22
+svnmerge-sipxtapi-revs
+V 5
+1-118
+K 22
+svnmerge-user_pin-head
+V 61
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-222
+K 23
+svnmerge-user_ping-head
+V 62
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-212
+END
+ENDREP
+id: mz.24f.r5318/9381
+type: dir
+pred: mz.1i8.r5314/14059
+count: 184
+text: 5314 13252 794 794 e3a2c69f84d7fe504683a4bad51c2fbc
+props: 5318 8313 1055 0 0588150a0dfc0eb4ca58d965ccbb6aee
+cpath: /branches/3.0/sipXmediaLib
+copyroot: 4813 /main/sipXmediaLib
+
+PLAIN
+K 13
+svn:externals
+V 63
+config https://scm.sipfoundry.org/rep/sipX/branches/3.0/config
+
+K 10
+svn:ignore
+V 66
+configure
+Makefile.in
+build
+config.h.in
+autom4te.cache
+aclocal.m4
+
+END
+ENDREP
+id: 89s.24b.r5318/9826
+type: dir
+pred: 89s.0.r5314/15410
+count: 10
+text: 5314 14748 649 649 dd6f62a3fcaee3ecf84badfa22e06823
+props: 5318 9633 180 0 caffe3dad4fe04e591c4dcc91b5a3fa8
+cpath: /branches/3.0/sipXmediaAdapterLib
+copyroot: 5315 /branches/3.0
+
+PLAIN
+K 13
+svn:externals
+V 63
+config https://scm.sipfoundry.org/rep/sipX/branches/3.0/config
+
+K 10
+svn:ignore
+V 155
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxregistry.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 56
+https://scm.sipfoundry.org/rep/sipXregistry/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 30
+1-63,65,72,77,79,83,89,104,130
+K 17
+svnmerge-2.8-head
+V 56
+https://scm.sipfoundry.org/rep/sipXregistry/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 33
+1-144,146,150,153,156-157,237,239
+K 35
+svnmerge-user_dworley_redirect-head
+V 74
+https://scm.sipfoundry.org/rep/sipXregistry/branches/user_dworley_redirect
+K 35
+svnmerge-user_dworley_redirect-revs
+V 5
+1-221
+K 22
+svnmerge-user_pin-head
+V 61
+https://scm.sipfoundry.org/rep/sipXregistry/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-169
+K 23
+svnmerge-user_ping-head
+V 62
+https://scm.sipfoundry.org/rep/sipXregistry/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-162
+END
+ENDREP
+id: 1y5.24l.r5318/11093
+type: dir
+pred: 1y5.1ie.r5314/16955
+count: 161
+text: 5314 16160 782 782 18468bfc8a4dd9d4ba929da9f5f6311a
+props: 5318 10078 1002 0 25ffbd06b329d02984ff763fb91c3768
+cpath: /branches/3.0/sipXregistry
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 13
+svn:externals
+V 79
+tapi https://scm.sipfoundry.org/rep/sipX/branches/3.0/sipXcallLib/include/tapi
+
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: e5.24m.r5318/11513
+type: dir
+pred: e5.1if.r5311/23941
+count: 137
+text: 5311 23801 127 127 eee49a3909fc630bb54cf1b10251e984
+props: 5318 11349 151 0 d4a07b9703dfbfcb47aee1fe8ae626a5
+cpath: /branches/3.0/sipXtackLib/include
+copyroot: 4813 /main/sipXtackLib
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 20
+file dl.0.r772/70283
+K 9
+ChangeLog
+V 21
+file dm.0.r891/128130
+K 7
+INSTALL
+V 21
+file dn.0.r891/155358
+K 7
+LICENSE
+V 21
+file do.0.r891/111455
+K 11
+Makefile.am
+V 23
+file dp.1if.r5109/83406
+K 4
+NEWS
+V 20
+file dq.0.r772/79111
+K 6
+README
+V 20
+file dr.0.r772/69980
+K 4
+TODO
+V 20
+file ds.0.r772/75936
+K 9
+acsite.m4
+V 20
+file dt.0.r772/28655
+K 14
+ant-targets.am
+V 21
+file du.0.r891/127031
+K 15
+ant-targets.xml
+V 18
+file dv.0.r1039/83
+K 17
+basicimclient.dsp
+V 23
+file le.20v.r5060/12648
+K 3
+bin
+V 20
+dir l0.0.r891/155979
+K 20
+config.properties.in
+V 20
+file dz.0.r772/75620
+K 12
+configure.ac
+V 23
+file e0.1if.r5314/17201
+K 3
+doc
+V 24
+dir e1.1if.r4884/6201934
+K 8
+examples
+V 24
+dir lf.1if.r4884/6229108
+K 7
+include
+V 22
+dir e5.24m.r5318/11513
+K 3
+lib
+V 20
+dir gh.0.r650/115439
+K 4
+meta
+V 22
+dir l6.1if.r4899/81809
+K 15
+sipXtackLib.dsp
+V 23
+file gj.20w.r5060/12919
+K 18
+sipXtackLib.vcproj
+V 21
+file ld.1if.r5305/135
+K 19
+sipXtackLibTest.dsp
+V 21
+file mh.21h.r5255/163
+K 19
+sipXtackLibTest.sln
+V 25
+file 8b5.1if.r4939/417652
+K 22
+sipXtackLibTest.vcproj
+V 25
+file 8b6.1if.r4939/396677
+K 15
+siplog2siptrace
+V 21
+dir gk.1if.r5188/8701
+K 7
+siptest
+V 23
+dir gn.1if.r4984/284018
+K 9
+sipviewer
+V 21
+dir hn.1if.r4916/2889
+K 19
+sipxtacklib.spec.in
+V 23
+file kw.1if.r5314/17454
+K 3
+src
+V 22
+dir i8.1if.r5311/19247
+K 15
+syslog2siptrace
+V 23
+dir kk.1if.r4939/417393
+K 16
+tcpdump2siptrace
+V 19
+file mb.0.r1047/729
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 63
+config https://scm.sipfoundry.org/rep/sipX/branches/3.0/config
+
+K 10
+svn:ignore
+V 225
+BUILDSTAMP
+Debug
+Makefile
+Makefile.in
+Release
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.properties
+config.status
+configure
+libtool
+sipxtacklib-*.rpm
+sipxtacklib-*.tar.gz
+sipxtacklib.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 55
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 41
+1-131,137,147,152,155-157,159,169,188,197
+K 17
+svnmerge-2.8-head
+V 55
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 37
+1-230,233,238,251,258,279,319,338,436
+K 18
+svnmerge-main-revs
+V 13
+1-229,321-328
+K 24
+svnmerge-noresparse-head
+V 73
+https://paradise.pingtel.com/rep/sipXtackLib/branches/sipxtapi-noresparse
+K 24
+svnmerge-noresparse-revs
+V 5
+1-188
+K 28
+svnmerge-sipxtapi-port0-head
+V 62
+https://paradise.pingtel.com/rep/sipXtackLib/branches/sipxtapi
+K 28
+svnmerge-sipxtapi-port0-revs
+V 5
+1-221
+K 22
+svnmerge-sipxtapi-revs
+V 5
+1-217
+K 22
+svnmerge-user_pin-head
+V 60
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-342
+K 23
+svnmerge-user_ping-head
+V 61
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-277
+K 19
+svnmerge-video-head
+V 81
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/sipxtapi-video/sipXtackLib
+K 19
+svnmerge-video-revs
+V 6
+1-3146
+END
+ENDREP
+id: dk.24m.r5318/14647
+type: dir
+pred: dk.1if.r5314/19140
+count: 422
+text: 5318 11772 1414 1414 0099a00fcbf7153f241d084c93a02be1
+props: 5318 13199 1435 0 9ff215030b253f4fceeb44cffbc3d67c
+cpath: /branches/3.0/sipXtackLib
+copyroot: 4813 /main/sipXtackLib
+
+PLAIN
+K 13
+svn:externals
+V 63
+config https://scm.sipfoundry.org/rep/sipX/branches/3.0/config
+
+K 10
+svn:ignore
+V 135
+configure
+build
+config.h.in
+autom4te.cache
+aclocal.m4
+Makefile.in
+Debug
+Release
+sipXphone.plg
+sipXphone.opt
+sipXphone.ncb
+applayer.iws
+
+END
+ENDREP
+id: 6qk.24h.r5318/15164
+type: dir
+pred: 6qk.1ia.r5262/5130
+count: 138
+text: 5262 4126 991 991 3b7a500615bde9500d3c8a1d415f0902
+props: 5318 14901 250 0 e24ddef866ef601530ecafe3a38d671a
+cpath: /branches/3.0/sipXphone
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 13
+svn:externals
+V 63
+config https://scm.sipfoundry.org/rep/sipX/branches/3.0/config
+
+K 10
+svn:ignore
+V 218
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxcommserverlib-*.rpm
+sipxcommserverlib-*.tar.gz
+sipxcommserverlib.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 61
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 25
+1-135,148,157,164,167,184
+K 17
+svnmerge-2.8-head
+V 61
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 69
+1-199,202-203,206-207,210,214,217,219,222,230,234,239,260,262-263,293
+K 22
+svnmerge-user_pin-head
+V 66
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-267
+K 23
+svnmerge-user_ping-head
+V 67
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-226
+END
+ENDREP
+id: 1qo.24e.r5318/16368
+type: dir
+pred: 1qo.1i6.r5314/20751
+count: 212
+text: 5314 19935 803 803 aed0ce074b88a00c2d24cb1ff6980a63
+props: 5318 15411 944 0 f5cc0a23c8a33b44b02b02f0256f4c81
+cpath: /branches/3.0/sipXcommserverLib
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 7
+bbridge
+V 22
+dir 8dl.24b.r5317/1356
+K 5
+build
+V 20
+file 7ve.0.r5295/585
+K 6
+config
+V 22
+dir 91.1i4.r5303/26021
+K 12
+dependencies
+V 19
+file 7rk.0.r5301/65
+K 11
+sipXcallLib
+V 21
+dir va.24d.r5318/7240
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.24e.r5318/16368
+K 10
+sipXconfig
+V 22
+dir 2hf.24c.r5318/8063
+K 19
+sipXmediaAdapterLib
+V 22
+dir 89s.24b.r5318/9826
+K 12
+sipXmediaLib
+V 21
+dir mz.24f.r5318/9381
+K 7
+sipXpbx
+V 22
+dir 5g6.24g.r5318/4872
+K 9
+sipXphone
+V 23
+dir 6qk.24h.r5318/15164
+K 11
+sipXportLib
+V 20
+dir 3.24i.r5318/1490
+K 9
+sipXproxy
+V 22
+dir 1vt.24j.r5318/2592
+K 13
+sipXpublisher
+V 22
+dir 20n.24k.r5318/5942
+K 12
+sipXregistry
+V 23
+dir 1y5.24l.r5318/11093
+K 11
+sipXtackLib
+V 22
+dir dk.24m.r5318/14647
+K 8
+sipXvxml
+V 22
+dir 22d.24n.r5318/3685
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 10
+build.err
+
+K 25
+svnmerge-mirror-main-head
+V 49
+https://paradise.pingtel.com/rep/sipX/mirror/main
+K 25
+svnmerge-mirror-main-revs
+V 456
+1-3404,3415,3440-3441,3444,3449,3454,3466,3508,3519,3523,3528,3546,3550,3554,3588,3594,3601-3603,3608-3612,3615,3619,3623,3666,3670,3672,3674-3675,3677,3683,3692-3693,3703-3706,3720-3721,3725,3739-3740,3745,3754,3758,3807,3837-3838,3892-3894,3897-3898,3915,3923,3926-3928,3934-3935,3955-3962,4012,4049,4054,4064-4065,4085,4097,4100,4139,4141,4150-4153,4156,4172,4175,4195-4198,4200-4201,4215,4230,4262-4268,4275-4276,4278,4280,4283,4285,4289,4296,4303-4304
+K 26
+svnmerge-pingtel-main-revs
+V 1021
+1-3022,3040,3043,3045,3047,3051,3053-3054,3062,3065-3070,3072-3073,3079,3081-3082,3085-3086,3091,3094-3095,3097,3106,3110,3112,3114,3117,3122,3124,3126,3130,3132,3134,3144,3151-3152,3154,3156,3158-3159,3161-3165,3169,3172,3174,3176,3184,3189-3190,3194-3195,3197-3200,3202,3207,3213,3223,3226,3245-3247,3249-3250,3253,3257-3258,3260-3287,3289-3293,3295-3297,3299-3313,3315-3323,3325-3329,3333-3336,3339,3341,3343-3347,3349-3352,3355,3357-3362,3364-3366,3370,3380-3381,3383,3386,3403-3404,3413,3425,3428,3432-3433,3440,3443-3444,3466,3507-3508,3510,3529,3536,3548,3560,3564,3574,3576,3580,3582-3584,3586-3588,3593,3598,3608,3610,3613,3616,3619-3620,3632,3666-3670,3672,3675-3677,3689,3692,3695-3696,3712-3713,3718,3722,3727,3732,3734,3741,3750-3751,3754,3762,3771,3778,3803-3804,3829,3837,3846-3847,3860-3861,3867-3868,3870,3873-3874,3880-3882,3891,3893,3895,3899,3920,3923,3926,3934,3957-3958,3961,4008,4049,4064,4085,4087,4097,4118-4119,4121,4139,4150-4152,4169,4195,4197,4200,4215,4262-4265,4267,4275-4276,4278,4289,4296
+K 22
+svnmerge-sipx-3.1-head
+V 40
+https://scm.sipfoundry.org/rep/sipX/main
+K 22
+svnmerge-sipx-3.1-revs
+V 6
+1-5315
+END
+ENDREP
+id: 7q4.24b.r5318/19197
+type: dir
+pred: 7q4.24b.r5317/4289
+count: 495
+text: 5318 16633 748 748 2a545a709a0800342afa299c0a73191a
+props: 5318 17394 1790 0 65cdd81cf7d94ddd2bcabfcd7cd4a629
+cpath: /branches/3.0
+copyroot: 5315 /branches/3.0
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 21
+dir 7pv.0.r4813/26770
+K 3
+3.0
+V 23
+dir 7q4.24b.r5318/19197
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 7
+lowcarb
+V 21
+dir 7py.0.r4813/27240
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 7
+restful
+V 21
+dir 7q0.0.r4813/15683
+K 15
+sipXconfig-soap
+V 24
+dir 2hf.20x.r5286/309278
+K 31
+sipXconfig_unique_sip_usernames
+V 23
+dir 2hf.20y.r5066/55100
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+K 8
+user_pin
+V 21
+dir 7q2.0.r4813/19786
+K 9
+user_ping
+V 21
+dir 7q3.0.r4813/30843
+END
+ENDREP
+id: 7pt.0.r5318/20025
+type: dir
+pred: 7pt.0.r5317/5111
+count: 11
+text: 5318 19434 578 578 859c1429d16d4638fceabe5ba5efdbed
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r5318/20025
+K 4
+main
+V 21
+dir 7q4.0.r5316/24419
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r5318/20310
+type: dir
+pred: 0.0.r5317/5392
+count: 5318
+text: 5318 20180 117 117 cb63f8cc88cf222049cf4c1f6043c2ea
+cpath: /
+copyroot: 0 /
+
+89s.24b.t5317-1 modify false true /branches/3.0/sipXmediaAdapterLib
+
+1y5._8.t5317-1 modify false true /branches/3.0/sipXregistry
+
+1qo._1.t5317-1 modify false true /branches/3.0/sipXcommserverLib
+
+5g6._3.t5317-1 modify false true /branches/3.0/sipXpbx
+
+6qk._4.t5317-1 modify false true /branches/3.0/sipXphone
+
+dk._9.t5317-1 modify false true /branches/3.0/sipXtackLib
+
+3._5.t5317-1 modify false true /branches/3.0/sipXportLib
+
+7q4.24b.t5317-1 modify false true /branches/3.0
+
+e5._9.t5317-1 modify false true /branches/3.0/sipXtackLib/include
+
+20n._7.t5317-1 modify false true /branches/3.0/sipXpublisher
+
+1vt._6.t5317-1 modify false true /branches/3.0/sipXproxy
+
+va._0.t5317-1 modify false true /branches/3.0/sipXcallLib
+
+2hf.24c.t5317-1 modify false true /branches/3.0/sipXconfig
+
+mz._2.t5317-1 modify false true /branches/3.0/sipXmediaLib
+
+22d._a.t5317-1 modify false true /branches/3.0/sipXvxml
+
+
+20310 20455

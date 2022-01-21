@@ -1,0 +1,53 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-05-02T20:21:10.067394Z
+K 7
+svn:log
+V 1693
+Merged revisions 241-267 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/user_pin
+    ------------------------------------------------------------------------
+    r242 | dhsu | 2005-04-06 16:14:39 -0400 (Wed, 06 Apr 2005) | 5 lines
+    Changed paths:
+       M /branches/user_pin/src/sipdb/SIPXAuthHelper.cpp
+    
+    Check in the change for using getUserPin() API.
+    
+    http://track.sipfoundry.org/browse/XPB-252
+    
+    
+    ------------------------------------------------------------------------
+    r243 | dhsu | 2005-04-06 16:33:56 -0400 (Wed, 06 Apr 2005) | 5 lines
+    Changed paths:
+       M /branches/user_pin/include/sipdb/CredentialDB.h
+       M /branches/user_pin/src/sipdb/CredentialDB.cpp
+    
+    Check in the new interface of getUserPin().
+    
+    http://track.sipfoundry.org/browse/XPB-251
+    
+    
+    ------------------------------------------------------------------------
+    r253 | xmlscott | 2005-04-15 14:15:40 -0400 (Fri, 15 Apr 2005) | 5 lines
+    Changed paths:
+       M /branches/user_pin/doc/credential.xml
+       M /branches/user_pin/doc/update-passtokens
+       M /branches/user_pin/include/sipdb/CredentialDB.h
+       M /branches/user_pin/include/sipdb/CredentialRow.h
+       M /branches/user_pin/src/sipdb/CredentialDB.cpp
+       M /branches/user_pin/src/sipdbtest/DisplayTask.cpp
+       M /branches/user_pin/src/sipdbtest/IMDBWorkerTask.cpp
+       M /branches/user_pin/src/sipdbtest/ImportTask.cpp
+    
+    Add 'pintoken' row to Credentials database for storing
+       the Web/TUI user PIN.
+    Implement real access to that row for getUserPin methods.
+    Update example credentials file and update-passtokens script.
+    
+
+END

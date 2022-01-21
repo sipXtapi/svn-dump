@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-12-07T23:13:32.649119Z
+K 7
+svn:log
+V 103
+XCF-819 Apply patch from Hannu, migrate grandstream phones to new model ids and clear existing settings
+END

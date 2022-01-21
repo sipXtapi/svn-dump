@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-10-27T22:02:30.283699Z
+K 7
+svn:log
+V 242
+Added a multi-threaded test case for OsEvent.  As
+a side benefit it alsoe tests the OsServerTask
+and OsMsgQ classes as well.
+
+Unfortunately it did not pin down the current 
+stability problem that we are seeing when the
+system is under load.
+
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-10-17T23:56:28.323380Z
+K 7
+svn:log
+V 97
+Fix sipXmediaLib unittests build under Linux - our version of inttypes.h must be included first.
+
+END

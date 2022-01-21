@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-03T17:08:26.766758Z
+K 7
+svn:log
+V 131
+Move spacing in assignments to shell variable PLUGINS --
+changed PLUGINS="${PLUGINS}FOO " to more proper PLUGINS="${PLUGINS} FOO"
+
+
+END

@@ -1,0 +1,299 @@
+PLAIN
+END
+ENDREP
+id: 23w.0.r2751/17
+type: dir
+pred: 23w.0.r2734/1782493
+count: 1
+text: 2751 0 4 4 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXvxml/main/js/jsd/corba/java/netscape/jsdebugger/corba/ISourceTextProviderPackage
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 241.0.r2751/260
+type: dir
+pred: 241.0.r2734/1783773
+count: 1
+text: 2751 243 4 4 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXvxml/main/js/jsd/corba/java/netscape/jsdebugger/corba/TestInterfacePackage
+copyroot: 0 /
+
+PLAIN
+K 26
+ISourceTextProviderPackage
+V 18
+dir 23w.0.r2751/17
+K 20
+TestInterfacePackage
+V 19
+dir 241.0.r2751/260
+END
+ENDREP
+id: 23v.0.r2751/607
+type: dir
+pred: 23v.0.r2734/1784113
+count: 1
+text: 2751 483 111 111 08902b27618652a2f1c885c525238d24
+cpath: /old/sipXvxml/main/js/jsd/corba/java/netscape/jsdebugger/corba
+copyroot: 0 /
+
+PLAIN
+K 5
+corba
+V 19
+dir 23v.0.r2751/607
+END
+ENDREP
+id: 23u.0.r2751/865
+type: dir
+pred: 23u.0.r2734/1784357
+count: 1
+text: 2751 813 39 39 388fc218778d5669ea01ef5650f66555
+cpath: /old/sipXvxml/main/js/jsd/corba/java/netscape/jsdebugger
+copyroot: 0 /
+
+PLAIN
+K 10
+jsdebugger
+V 19
+dir 23u.0.r2751/865
+END
+ENDREP
+id: 23t.0.r2751/1121
+type: dir
+pred: 23t.0.r2734/1784599
+count: 1
+text: 2751 1063 45 45 865189319a76b6762c18765dd62bcd53
+cpath: /old/sipXvxml/main/js/jsd/corba/java/netscape
+copyroot: 0 /
+
+PLAIN
+K 8
+netscape
+V 20
+dir 23t.0.r2751/1121
+END
+ENDREP
+id: 23s.0.r2751/1366
+type: dir
+pred: 23s.0.r2734/1784827
+count: 1
+text: 2751 1310 43 43 4db21d054b539be9a977b810734253fd
+cpath: /old/sipXvxml/main/js/jsd/corba/java
+copyroot: 0 /
+
+PLAIN
+K 4
+java
+V 20
+dir 23s.0.r2751/1366
+END
+ENDREP
+id: 23r.0.r2751/1598
+type: dir
+pred: 23r.0.r2734/1785042
+count: 1
+text: 2751 1546 39 39 44e568fa2401de9fe2f385ac92c4701e
+cpath: /old/sipXvxml/main/js/jsd/corba
+copyroot: 0 /
+
+PLAIN
+K 5
+corba
+V 20
+dir 23r.0.r2751/1598
+END
+ENDREP
+id: 23q.0.r2751/1826
+type: dir
+pred: 23q.0.r2734/1785253
+count: 1
+text: 2751 1773 40 40 2cf4d3216fdd2c22f172ba9a9133e15d
+cpath: /old/sipXvxml/main/js/jsd
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 23p.0.r2744/15232
+K 3
+jsd
+V 20
+dir 23q.0.r2751/1826
+K 3
+src
+V 21
+dir 246.0.r2747/44383
+END
+ENDREP
+id: 23o.0.r2751/2126
+type: dir
+pred: 23o.0.r2747/44690
+count: 6
+text: 2751 1995 118 118 45b30b30b6e6304d46292ed3e878b393
+props: 2737 11231 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXvxml/main/js
+copyroot: 0 /
+
+PLAIN
+K 7
+AUTHORS
+V 24
+file 22e.0.r2734/1740512
+K 7
+COPYING
+V 24
+file 22f.0.r2734/1778762
+K 9
+ChangeLog
+V 22
+file 22g.0.r2736/11339
+K 7
+INSTALL
+V 21
+file 22h.0.r2746/4335
+K 11
+Makefile.am
+V 20
+file 22i.0.r2750/157
+K 4
+NEWS
+V 24
+file 22j.0.r2734/1781258
+K 6
+README
+V 24
+file 22k.0.r2734/1878221
+K 9
+acsite.m4
+V 24
+file 22l.0.r2734/1741479
+K 3
+bin
+V 23
+dir 22m.0.r2734/1779275
+K 12
+configure.ac
+V 21
+file 22o.0.r2744/3767
+K 3
+etc
+V 19
+dir 22p.0.r2750/463
+K 7
+include
+V 18
+dir 22u.0.r2745/51
+K 2
+js
+V 20
+dir 23o.0.r2751/2126
+K 4
+meta
+V 23
+dir 2cs.0.r2734/1741183
+K 3
+src
+V 20
+dir 2cu.0.r2749/2932
+END
+ENDREP
+id: 22d.0.r2751/2952
+type: dir
+pred: 22d.0.r2750/1233
+count: 14
+text: 2751 2347 592 592 1c8df4df0993c337ecf56650e8fcbc5f
+props: 2745 884 192 0 2c421f191ff9b203647283ee06870633
+cpath: /old/sipXvxml/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 20
+dir 22d.0.r2751/2952
+K 4
+tags
+V 21
+dir 2gd.0.r2743/17772
+END
+ENDREP
+id: 22c.0.r2751/3257
+type: dir
+pred: 22c.0.r2750/1537
+count: 18
+text: 2751 3169 75 75 37686c12dfebd1fdf97d906adb5aba3a
+cpath: /old/sipXvxml
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r2751/3257
+END
+ENDREP
+id: 1.0.r2751/3814
+type: dir
+pred: 1.0.r2750/2094
+count: 2750
+text: 2751 3412 389 389 ee51ab62cd200338d55839136f669abf
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2751/3814
+END
+ENDREP
+id: 0.0.r2751/4009
+type: dir
+pred: 0.0.r2750/2289
+count: 2751
+text: 2751 3960 36 36 a0d5f277c09079f4c9658dd663445354
+cpath: /
+copyroot: 0 /
+
+23x.0.r2734/1782220 delete false false /old/sipXvxml/main/js/jsd/corba/java/netscape/jsdebugger/corba/ISourceTextProviderPackage/CVS
+
+242.0.r2734/1783506 delete false false /old/sipXvxml/main/js/jsd/corba/java/netscape/jsdebugger/corba/TestInterfacePackage/CVS
+
+
+4009 4150

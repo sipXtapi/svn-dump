@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+prikov
+K 8
+svn:date
+V 27
+2005-11-04T21:33:13.710185Z
+K 7
+svn:log
+V 109
+Build fix:tar tried to modify ./
+Build fix:tar modifications - take 2
+Build fix:tar tries to modify . take 3
+
+END

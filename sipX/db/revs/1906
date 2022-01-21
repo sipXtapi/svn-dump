@@ -1,0 +1,144 @@
+PLAIN
+K 13
+svn:externals
+V 76
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/main-export-C/config
+
+K 10
+svn:ignore
+V 183
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxcommserverlib-*.tar.gz
+sipxcommserverlib.spec
+stamp-h1
+
+K 18
+svnmerge-main-head
+V 53
+https://scm.sipfoundry.org/rep/sipXcommserverLib/main
+K 18
+svnmerge-main-revs
+V 5
+1-105
+END
+ENDREP
+id: 1qo.8d.r1906/441
+type: dir
+pred: 1qo.0.r1902/1726
+count: 94
+text: 1902 934 779 779 f46e3ca3f7e69c3a41c5fe91b14ff170
+props: 1906 0 428 0 06a9b8aeebea3aa31a7e0ea6548ccf91
+cpath: /old/sipXcommserverLib/tags/main-export-C
+copyfrom: 1905 /old/sipXcommserverLib/main
+
+PLAIN
+K 5
+2.5.1
+V 20
+dir 1qo.81.r1809/199
+K 5
+2.5.2
+V 21
+dir 1qo.82.r1825/1265
+K 13
+main-export-B
+V 20
+dir 1qo.8c.r1903/441
+K 13
+main-export-C
+V 20
+dir 1qo.8d.r1906/441
+END
+ENDREP
+id: 1uu.0.r1906/887
+type: dir
+pred: 1uu.0.r1903/842
+count: 5
+text: 1906 707 167 167 6188e7df7bf92e71d08c4ad7686546b1
+cpath: /old/sipXcommserverLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1v5.0.r1905/2147
+K 4
+main
+V 20
+dir 1qo.0.r1902/1726
+K 4
+tags
+V 19
+dir 1uu.0.r1906/887
+END
+ENDREP
+id: 1qn.0.r1906/1179
+type: dir
+pred: 1qn.0.r1905/2444
+count: 109
+text: 1906 1054 112 112 f8aba0c52c25d75f82fa83d361a69ca9
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r1906/1179
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1906/1580
+type: dir
+pred: 1.0.r1905/2845
+count: 1905
+text: 1906 1346 221 221 38a41a30a20a6d7872f6804de0bbb35e
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1906/1580
+END
+ENDREP
+id: 0.0.r1906/1775
+type: dir
+pred: 0.0.r1905/3040
+count: 1906
+text: 1906 1726 36 36 a55c21840cab57e8f568388ebf985a83
+cpath: /
+copyroot: 0 /
+
+1qo._0.t1905-1 add false true /old/sipXcommserverLib/tags/main-export-C
+1905 /old/sipXcommserverLib/main
+
+1775 1916

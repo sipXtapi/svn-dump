@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-11-29T23:30:38.401488Z
+K 7
+svn:log
+V 418
+Fix XCF-798: media server and status server are restarting soon after PBX starts, every time.  Ensure that restarts happen at the scheduled date.  There was a bug where that date could be in the past, causing immediate execution of the restart to catch up.  That bug is now fixed.
+Also change the Whacker to restart only the media server and not the status server, since the status server no longer has a memory leak.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2004-12-27T14:40:47.216478Z
+K 7
+svn:log
+V 61
+Add --version option for sipx-config, this time in 2.6 branch
+END

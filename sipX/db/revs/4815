@@ -1,0 +1,123 @@
+PLAIN
+K 10
+svn:ignore
+V 143
+*-buildstamp.cpp
+*-buildstamp.h
+config.guess
+config.sub
+depcomp
+install-sh
+ltmain.sh
+missing
+mkinstalldirs
+sipX-config
+sipXcommon.mak
+compile
+
+
+END
+ENDREP
+id: 91.1i4.r4815/183
+type: dir
+pred: 91.1i4.r4813/2057
+count: 118
+text: 582 1681 376 376 5b69fdc3f9acb86519afe2431e05501d
+props: 4815 0 170 0 5c44817f55eab1cd2db283530bddef1d
+cpath: /main/config
+copyroot: 4813 /main/config
+
+PLAIN
+K 6
+config
+V 20
+dir 91.1i4.r4815/183
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r4813/4272
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r4813/10215
+K 10
+sipXconfig
+V 22
+dir 2hf.1i7.r4813/5573
+K 12
+sipXmediaLib
+V 21
+dir mz.1i8.r4813/6694
+K 7
+sipXpbx
+V 23
+dir 5g6.1i9.r4813/11407
+K 9
+sipXphone
+V 23
+dir 6qk.1ia.r4813/11899
+K 11
+sipXportLib
+V 19
+dir 3.1ib.r4814/921
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r4813/3145
+K 13
+sipXpublisher
+V 22
+dir 20n.1id.r4813/1811
+K 12
+sipXregistry
+V 22
+dir 1y5.1ie.r4813/9021
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r4813/13099
+K 8
+sipXvxml
+V 22
+dir 22d.1ig.r4813/7777
+END
+ENDREP
+id: 7q4.0.r4815/993
+type: dir
+pred: 7q4.0.r4814/1737
+count: 2
+text: 4815 407 573 573 0fa1c53673aa18ee9551aa47d1d42984
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r4813/32382
+K 4
+main
+V 19
+dir 7q4.0.r4815/993
+K 3
+old
+V 19
+dir 1.0.r4813/35374
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r4815/1300
+type: dir
+pred: 0.0.r4814/2048
+count: 4815
+text: 4815 1139 148 148 3b3e9c780a1095ae6b34eeb374786cd0
+cpath: /
+copyroot: 0 /
+
+91.1i4.t4814-1 modify false true /main/config
+
+
+1300 1443

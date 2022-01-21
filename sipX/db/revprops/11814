@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-12-15T07:12:10.407848Z
+K 7
+svn:log
+V 249
+delay binding of dynamic codec payload types to avoid some conflicts when copying payload IDs from remote side
+fix uninitialized variable in CpTopologyGraphInterface.cpp
+Deselect video sockets in stopRtpSend to avoid accessing of deleted RTP socket
+
+END

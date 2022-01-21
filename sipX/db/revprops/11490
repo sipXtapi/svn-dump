@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2010-01-01T19:41:50.379813Z
+K 7
+svn:log
+V 80
+Build fix for windows
+connect/missing camera images now have a black background
+
+END

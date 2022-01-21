@@ -1,0 +1,100 @@
+PLAIN
+K 13
+svn:externals
+V 68
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.5.1/config
+
+K 10
+svn:ignore
+V 66
+configure
+Makefile.in
+build
+config.h.in
+autom4te.cache
+aclocal.m4
+
+END
+ENDREP
+id: dk.2k.r621/198
+type: dir
+pred: dk.0.r620/2161
+count: 21
+text: 620 1269 879 879 34704c23227237f0f9a8ec6a3b7c0810
+props: 621 0 185 0 0a5d6d5f02a37f598c823d81f7c8b9f4
+cpath: /old/sipXtackLib/tags/2.5.1
+copyfrom: 620 /old/sipXtackLib/main
+
+PLAIN
+K 5
+2.5.1
+V 18
+dir dk.2k.r621/198
+END
+ENDREP
+id: kr.0.r621/489
+type: dir
+count: 0
+text: 621 438 38 38 8414021ba4a9d613dd5f4e84ea3a4ec6
+cpath: /old/sipXtackLib/tags
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 18
+dir dk.0.r620/2161
+K 4
+tags
+V 17
+dir kr.0.r621/489
+END
+ENDREP
+id: dj.0.r621/705
+type: dir
+pred: dj.0.r620/2426
+count: 22
+text: 621 623 69 69 54c8f993db1c07f967eda70f602cdc4f
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 17
+dir dj.0.r621/705
+END
+ENDREP
+id: 1.0.r621/953
+type: dir
+pred: 1.0.r620/2677
+count: 620
+text: 621 856 84 84 0f63067c5e17e9e572b20f339ec7ba68
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 16
+dir 1.0.r621/953
+END
+ENDREP
+id: 0.0.r621/1138
+type: dir
+pred: 0.0.r620/2865
+count: 621
+text: 621 1091 34 34 75b8b73dbf357685814df554c654fd77
+cpath: /
+copyroot: 0 /
+
+_0.0.t620-1 add false false /old/sipXtackLib/tags
+
+dk._0.t620-1 add false true /old/sipXtackLib/tags/2.5.1
+620 /old/sipXtackLib/main
+
+1138 1275

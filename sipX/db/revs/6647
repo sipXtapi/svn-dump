@@ -1,0 +1,90 @@
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r6590/2591
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 19
+dir 8q1.0.r6563/101
+K 8
+sipXtapi
+V 24
+dir 9wi.0.r6469/22163876
+K 12
+solaris_port
+V 24
+dir 7q4.39l.r6631/137602
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r6647/582
+type: dir
+pred: 7pt.0.r6631/138480
+count: 563
+text: 6647 0 569 569 67883787d6a32192c519da09fc899763
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 7pt.0.r6647/582
+K 4
+main
+V 19
+dir 7q4.0.r6646/947
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6647/859
+type: dir
+pred: 0.0.r6646/1278
+count: 6647
+text: 6647 734 112 112 58279409ef09e86fc6ad2be963f6a1de
+cpath: /
+copyroot: 0 /
+
+7q4.2oy.r6492/12311 delete false false /branches/cdr
+
+
+859 1000

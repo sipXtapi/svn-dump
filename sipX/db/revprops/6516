@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-04-04T21:35:18.587269Z
+K 7
+svn:log
+V 351
+XPR-108: Call resolver now takes --daily switch that is passed in from 
+a cron job and starts call resolution for a 24 hour time frame. Start
+time is set in call resolver configuration file.
+
+Added unit tests for new functionality.
+
+XPR-133: Eat up any messages that Postgres spits out during schema loading.
+
+Clarify wording in CSE design spec file.
+
+END

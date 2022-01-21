@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2013-09-12T15:22:17.443250Z
+K 7
+svn:log
+V 74
+Send a message to all flowgraphs when setting new input or output device.
+
+END

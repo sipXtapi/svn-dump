@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-01-17T18:57:48.249195Z
+K 7
+svn:log
+V 95
+fix for XPH-58.  If call-waiting disabled, check if the 
+in focus call is null.  If so, ring.
+
+
+END

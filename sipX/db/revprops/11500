@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-01-14T00:43:56.855130Z
+K 7
+svn:log
+V 84
+Changes so unit test asserts can be done outside the immediate test class methods.
+
+
+END

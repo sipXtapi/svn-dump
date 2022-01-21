@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-03-15T21:58:39.307830Z
+K 7
+svn:log
+V 86
+fix SystemServiceTest - it relied on specific ordering of HashMap (patch from huijun)
+
+END

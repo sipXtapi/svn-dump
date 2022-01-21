@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-02T21:45:56.945704Z
+K 7
+svn:log
+V 62
+XCF-1487 - send folder id to mediaserver when marking vms read
+END

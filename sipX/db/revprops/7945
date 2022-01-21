@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-11-06T22:12:43.843761Z
+K 7
+svn:log
+V 197
+Merge sipXtack from main to sipXtapi branch (1 of N)
+(Main branch 7799).
+
+This change includes some trival changes (e.g. new files) and updates to the HttpServer and HttpMessage/HttpBody classes.
+
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-09-27T03:01:35.903771Z
+K 7
+svn:log
+V 143
+Convert the code to use the Posix str(n)casecmp at all times.
+Set #define's in OsDefs.h to adapt to Windows systems that only have
+str(n)icmp.
+
+END

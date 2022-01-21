@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-10T22:23:48.397445Z
+K 7
+svn:log
+V 368
+XCF-926 implement per gateway prefix that influences generation of fallback rules pertaining to this gateway
+update generating authorization rules - since gateway patterns can be now different we generate a separate hostMatch for each gateway - even if gateways are in the same rule
+minor UI and DB modifications to allow for configuring and storing of gateway prefix
+
+END

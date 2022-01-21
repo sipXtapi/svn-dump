@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-25T05:04:39.360250Z
+K 7
+svn:log
+V 280
+Fix sipXtapi build under VS6. Speaker and mic hooks are defined with 'short*' on sipXtapi level. We do not want to use C99 inttypes in sipXtapi.h for a while, change them in sipXmediaLib. I do not know platforms where short is not 16 bit, so it's mostly safe to leave this as is.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-11-07T23:36:49.504403Z
+K 7
+svn:log
+V 86
+Adjust interop config file to match changed config parameter name in
+ENUM redirector.
+
+END

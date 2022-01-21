@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-11-14T21:16:41.550360Z
+K 7
+svn:log
+V 55
+XCF-748 implement patching of TFTP xinet.d file in ruby
+END

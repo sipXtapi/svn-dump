@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-12-20T02:53:59.931305Z
+K 7
+svn:log
+V 48
+Fixed typo in contrib Makefile for G.722.1 make
+
+END

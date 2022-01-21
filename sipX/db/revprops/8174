@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2006-11-30T23:01:37.827065Z
+K 7
+svn:log
+V 420
+Delete generated vxml files before recreating them to resolve ownership problems.
+
+Generated vxml files should now be owned by the sipxchange user, not root.  
+In an upgrade situation previously generated files are still owned by root,
+and thus cannot be modified.  Fix this by deleting them first.  (They can
+be deleted as the directory is now owned by the sipxchange user, even if
+the file is owned by root).
+
+--Woof!
+
+END

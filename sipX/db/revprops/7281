@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-08-17T09:21:26.738873Z
+K 7
+svn:log
+V 959
+Second real step to video support in sipXmediaLib. This update is still related to audio code, but it open doors for upcoming video support.
+Update include following noticeable changes:
+
+1) New media buffers code. Now it have nice class tree and handy C++ style reference counting.
+2) Documentation doxyfication. Almost all .h files have Doxygen style documentation now.
+3) Some media resources now process empty inputs slightly different. I used "no input - no output" rule instead of "No input - silent output".
+4) Some memory leaks in message processing and MediaTask implementation fixed.
+5) New unittests. Released base class for media resource testing - it start/stop media task and setup simple framework for general resource testing. Also several unittests for several media resources was written.
+
+PS New buffers API considered BETA. It is a subject to change.
+
+
+     * This update needs more testing. Don't update if you rely on its stable work! *
+
+
+END

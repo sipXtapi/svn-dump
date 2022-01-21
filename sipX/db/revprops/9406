@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-04-26T15:20:02.216403Z
+K 7
+svn:log
+V 169
+Fix for memory leak in MicThreadWnt. DmaMsgPool and pMsg can be safely deleted just before termination of MicThread. They were created each time this thread was started.
+END

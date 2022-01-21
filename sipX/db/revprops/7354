@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-08-26T20:31:58.940123Z
+K 7
+svn:log
+V 320
+[XSL-138] Improve performance of URL parser, and handle large values
+          better.
+          Change UtlRegEx regular expression objects to limit
+          recursion; this reduces performance impact and prevents some
+          potential stack problems for large values in certain kinds
+          of pattern matches.
+
+
+END

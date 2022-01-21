@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-08-18T17:12:37.141704Z
+K 7
+svn:log
+V 74
+Fixed some compiler bugs when TLS is defined in the
+sipXtackLib project.
+
+
+END

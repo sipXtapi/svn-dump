@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-07-01T21:22:18.112450Z
+K 7
+svn:log
+V 177
+Increase size of buffers on audio input and output. This does not increase latency in case of good soundcard, but add safety in case of worse one (or in case of running on VM).
+
+END

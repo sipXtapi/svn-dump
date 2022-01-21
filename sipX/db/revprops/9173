@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-26T21:55:21.872199Z
+K 7
+svn:log
+V 200
+XCF-1461 - Allow running tests from web directory w/o having to run neoconf db tests.  Also cleanup some benign errors that happen when starting up unit test web server (e.g. not finding topology.xml)
+END

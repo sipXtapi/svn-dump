@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-05-12T20:02:28.398214Z
+K 7
+svn:log
+V 93
+Fix: location of parkserver music was missing from newly installed sipxconfig.properties.in 
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-08T22:49:03.767712Z
+K 7
+svn:log
+V 124
+Use PRId64 C99 macros to print out 64-bit wide integers in OsTimerTask.cpp.
+Also make log message a bit more informational.
+
+END

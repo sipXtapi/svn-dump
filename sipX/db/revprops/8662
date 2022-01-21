@@ -1,0 +1,92 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-29T18:13:39.621216Z
+K 7
+svn:log
+V 3800
+Merged revisions 8618-8659 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main
+
+........
+  r8619 | lazyboy | 2007-01-25 11:57:35 -0500 (Thu, 25 Jan 2007) | 4 lines
+  
+  XCF-1066 - Add distribution lists to web ui, still need to add web test
+  XCF-1459 - Voicemail is enabled if mailstore setting is even set, which can only happend from an unsuccessful upgrade, but does(did) happen
+........
+  r8620 | lazyboy | 2007-01-25 12:08:32 -0500 (Thu, 25 Jan 2007) | 1 line
+  
+  rollback inadvertant change to table component
+........
+  r8621 | dworley | 2007-01-25 13:14:10 -0500 (Thu, 25 Jan 2007) | 4 lines
+  
+  Add reference to testing DTMF generation.
+  Add note that aliased domains (int-udp/tcp) are not usable for
+  registrations.
+........
+  r8624 | lazyboy | 2007-01-25 16:30:30 -0500 (Thu, 25 Jan 2007) | 1 line
+  
+  XCF-1466 migrate unmanagedPhone and acmePhones
+........
+  r8625 | dkrzemin | 2007-01-25 17:38:32 -0500 (Thu, 25 Jan 2007) | 6 lines
+  
+  XPR-211 fix patching mechanism for CDRs, rolled-in view_cdr patch, upgrade DB schema revision 2->3
+  XPR-210 stop writing to sipcdrpatch during setup phase (exectued by root), make CDR logs writeable by world during setup
+  also: other fixes to sipxcallresolver starting screen:
+  - clean up logged errors
+  - fix exit status for checkconfig option (now 0 really means success) to make sure that it plays well with sipx watchdog
+........
+  r8629 | lazyboy | 2007-01-26 09:43:31 -0500 (Fri, 26 Jan 2007) | 1 line
+  
+  XCF-1164 - Make helplink a skin property as opposed to resource string
+........
+  r8630 | lazyboy | 2007-01-26 10:23:55 -0500 (Fri, 26 Jan 2007) | 1 line
+  
+  XCS-73 - install cert remotly script was breaking out of loop unnec, ignoring cert name/remote server name
+........
+  r8631 | lazyboy | 2007-01-26 14:19:49 -0500 (Fri, 26 Jan 2007) | 1 line
+  
+  XCF-1467 require ruby-gems for cdr and sipxconfig-agent rpms otherwise risk a silient failure to install gems.  emit stderr on gem installs and uninstalls to detect issue, I checked that it doesnt emit anything to stderr on normal operation
+........
+  r8632 | dkrzemin | 2007-01-26 14:32:40 -0500 (Fri, 26 Jan 2007) | 2 lines
+  
+  add ResourceListServer to Process enumeration: it'll be visible on services page now
+........
+  r8633 | dkrzemin | 2007-01-26 17:36:52 -0500 (Fri, 26 Jan 2007) | 3 lines
+  
+  XCF-1472 for now limit number of displayed CDRs to 10000 - we still need to implement real paging
+  XCF-1456 calls with duration under 1 second display as 0 seconds in UI
+........
+  r8635 | lazyboy | 2007-01-27 13:08:55 -0500 (Sat, 27 Jan 2007) | 1 line
+  
+  XCF-1475 - Build SOAP4R rpms for sipXconfig-report. Ruby 1.8.1 (CentOS and RHEL4) comes with an older version that is not compatible and too old, so these rpms are nec.
+........
+  r8636 | lazyboy | 2007-01-27 14:55:06 -0500 (Sat, 27 Jan 2007) | 1 line
+  
+  XCF-1475 - Make sipxconfig-report a cron
+........
+  r8637 | dkrzemin | 2007-01-27 17:15:22 -0500 (Sat, 27 Jan 2007) | 5 lines
+  
+  XCF-1475 workaround for ruby-postgres problems on CentOS
+  ruby-postgress RPM installs postgres.so in /usr/lib/site_ruby/1.8/i386-linux 
+  however on CentOS ruby 'sitearchdir' is /usr/lib/site_ruby/1.8/i386-linux-gnu
+  we try to load postgres driver from both places
+........
+  r8640 | lazyboy | 2007-01-27 21:10:35 -0500 (Sat, 27 Jan 2007) | 1 line
+  
+  XCF-1475 test for cron.allow first, supress unnec. line to stdout
+........
+  r8641 | lazyboy | 2007-01-28 18:05:09 -0500 (Sun, 28 Jan 2007) | 1 line
+  
+  merge 7769 from 3.6
+........
+  r8642 | lazyboy | 2007-01-28 23:19:32 -0500 (Sun, 28 Jan 2007) | 1 line
+  
+  XCF-1475 - Install gems into dir separate from jars so satelite rpms (agent, report, cdr) can explicitly install gem files then subsequently the gems in respective post install sections
+........
+
+END

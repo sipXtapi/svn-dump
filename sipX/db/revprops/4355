@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-12T18:42:59.898304Z
+K 7
+svn:log
+V 62
+Change ANT_HOME to match ordinary source installations of Ant.
+END

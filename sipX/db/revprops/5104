@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-09-22T14:53:43.272090Z
+K 7
+svn:log
+V 93
+Clarify warning message for .rpmnew files
+  (and use 'find' to locate them rather than 'ls')
+
+END

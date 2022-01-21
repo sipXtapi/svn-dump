@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2015-08-28T19:13:46.755217Z
+K 7
+svn:log
+V 440
+ bunch of instrumentation for MprRecord to help catch GSM recording corruption.
+Turned out to be problem with opening same record file with append immediately
+after stopping the record.  There were two file descriptors open on the same
+file.  On Windows at least, this causes unpredictable results.  For now we 
+make this the application's responcibility to wait for record stop notification
+before starting to record again with same file.
+
+END

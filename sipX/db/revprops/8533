@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-15T00:06:29.597944Z
+K 7
+svn:log
+V 254
+Autoconf scripts for Speex and GSM libraries autodetection implemented. If libspeex and libgsm presence was detected, libraries will be built with Speex and GSM support. To disable Speex or GSM support, use --disable-codec-speex and --disable-codec-gsm.
+
+END

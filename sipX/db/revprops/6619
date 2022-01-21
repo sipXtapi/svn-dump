@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+msl
+K 8
+svn:date
+V 27
+2006-04-20T06:15:49.634736Z
+K 7
+svn:log
+V 30
+cannot cast from _sema to int
+
+END

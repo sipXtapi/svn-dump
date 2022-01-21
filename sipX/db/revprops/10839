@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-10-17T22:42:05.000235Z
+K 7
+svn:log
+V 102
+Use the same payload type for send and receive codecs.
+This improve compatibility with other clients.
+
+END

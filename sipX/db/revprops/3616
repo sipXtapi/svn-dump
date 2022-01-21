@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-03-04T22:27:18.200907Z
+K 7
+svn:log
+V 60
+XCF-209 javascript problem fixed (missing return statement)
+
+END

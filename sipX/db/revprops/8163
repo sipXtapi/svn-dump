@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-30T18:56:36.280428Z
+K 7
+svn:log
+V 376
+Merged revisions 8141-8142 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8141 | bob | 2006-11-29 16:48:22 +0300 | 3 lines
+  
+  Added license information (LGPL).
+........
+  r8142 | bob | 2006-11-29 17:09:01 +0300 | 3 lines
+  
+  svn:mime-time and svn:eol-style fixes for newly added files (have scripts which find/update these).
+........
+
+END

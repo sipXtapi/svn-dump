@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2013-08-06T17:00:23.988403Z
+K 7
+svn:log
+V 55
+Added unit test for SIP URI with # and * in user part.
+
+END

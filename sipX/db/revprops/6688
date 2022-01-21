@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-04-29T18:24:31.222827Z
+K 7
+svn:log
+V 272
+In support of XPR-146, add a max_clock_diff parameter that will be used to decide how far out of sync clocks in an HA configuration can be before we label a CDR as bad.
+In CallResolverConfigure, validate int params to be ints and optionally to lie within a min-max range.
+
+END

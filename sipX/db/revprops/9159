@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-24T02:44:26.905607Z
+K 7
+svn:log
+V 86
+NT-44 Parse out build string into separate values controlled by resource bundle string
+END

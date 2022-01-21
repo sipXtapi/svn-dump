@@ -1,0 +1,31 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-24T13:57:02.618717Z
+K 7
+svn:log
+V 964
+Merged revisions 7746-7809 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/3.6/sipXconfig
+
+........
+  r7805 | dkrzemin | 2006-10-23 13:33:33 -0400 (Mon, 23 Oct 2006) | 4 lines
+  
+  XCF-1267 Michal's fixes to Hitachi profile
+  - use Veloctiy macros instead of copy and paste when generating profiles
+  - we do not really support well group without any members (I will open a separate issue on that) so when you declare a group in which all members are conditional, declare condition on a group level not on a setting level
+........
+  r7806 | dkrzemin | 2006-10-23 15:33:50 -0400 (Mon, 23 Oct 2006) | 2 lines
+  
+  XCF-1335 sipXconfig automatically sets registrar-config.in/SIP_REGISTRAR_DOMAIN_ALIASES variable after list of domain aliases is changed
+........
+  r7809 | lazyboy | 2006-10-23 16:16:20 -0400 (Mon, 23 Oct 2006) | 1 line
+  
+  XCF-1339 - Add codec settings for G722 and 650 preference settings to declare G722 as preferred codec
+........
+
+END

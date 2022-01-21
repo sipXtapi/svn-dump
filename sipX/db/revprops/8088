@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-11-23T04:33:41.338452Z
+K 7
+svn:log
+V 85
+Fix sipdb-dump to to delim on tab char, add more tests, add more examples to man page
+END

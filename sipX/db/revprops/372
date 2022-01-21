@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-01-17T16:03:21.860760Z
+K 7
+svn:log
+V 90
+Modified the hard-coded path for lock files.
+
+http://track.sipfoundry.org/browse/XPB-177
+
+
+END

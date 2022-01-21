@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-28T13:35:29.531750Z
+K 7
+svn:log
+V 129
+Allow TLS to be disabled by software/configuration.  Previously,
+it was always half-on (created tls server, however, used tcp).
+
+
+END

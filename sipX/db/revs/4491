@@ -1,0 +1,351 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6oo.zq.r4491/108
+type: file
+pred: 6oo.zq.r4477/683
+count: 2
+text: 4459 1706 816 1309 c97bb744222b53236d4551f1d39df313
+props: 4491 0 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /old/sipXpbx/main/bin/backup-mailstore.sh.in
+copyroot: 4477 /old/sipXpbx/main/bin/backup-mailstore.sh.in
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6op.zr.r4491/503
+type: file
+pred: 6op.zr.r4477/1024
+count: 2
+text: 4459 2535 757 1374 9b9e2022bdc6c24f5250fc91016202b3
+props: 4491 395 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /old/sipXpbx/main/bin/restore-configs.sh.in
+copyroot: 4477 /old/sipXpbx/main/bin/restore-configs.sh.in
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6on.zp.r4491/899
+type: file
+pred: 6on.zp.r4477/1597
+count: 2
+text: 4459 328 1365 2516 521cd87278375feb35e1c37d7657d13d
+props: 4491 791 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /old/sipXpbx/main/bin/backup-configs.sh.in
+copyroot: 4477 /old/sipXpbx/main/bin/backup-configs.sh.in
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6oq.zs.r4491/1293
+type: file
+pred: 6oq.zs.r4477/1936
+count: 3
+text: 4460 0 22 1798 f89ba50318e6996c88d24a3282867d31
+props: 4491 1185 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /old/sipXpbx/main/bin/restore-mailstore.sh.in
+copyroot: 4477 /old/sipXpbx/main/bin/restore-mailstore.sh.in
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file 6mc.0.r4477/1321
+K 7
+autodel
+V 23
+file 5gh.0.r4454/293017
+K 20
+backup-configs.sh.in
+V 21
+file 6on.zp.r4491/899
+K 22
+backup-mailstore.sh.in
+V 21
+file 6oo.zq.r4491/108
+K 4
+blat
+V 23
+file 6oa.0.r4454/290288
+K 10
+check-fqdn
+V 21
+file 6od.0.r4456/6098
+K 29
+httpd-sipxchange-config.sh.in
+V 23
+file 5gi.0.r4454/292657
+K 15
+keepalive.sh.in
+V 21
+file 6ma.0.r4456/6331
+K 13
+pd_monitor.in
+V 23
+file 5gj.0.r4454/289943
+K 21
+restore-configs.sh.in
+V 21
+file 6op.zr.r4491/503
+K 23
+restore-mailstore.sh.in
+V 22
+file 6oq.zs.r4491/1293
+K 16
+sipx-chkspace.in
+V 24
+file 6oi.zd.r4454/291979
+K 16
+sipx-snapshot.in
+V 23
+file 6md.0.r4454/291633
+K 10
+sipxpbx.in
+V 21
+file 5gk.y4.r4475/215
+K 18
+voicemail_clean.in
+V 20
+file 6or.0.r4476/108
+END
+ENDREP
+id: 5gg.0.r4491/2341
+type: dir
+pred: 5gg.0.r4477/2992
+count: 79
+text: 4491 1583 745 745 4d39388c02d0be86f4490e23cc20c36d
+props: 4465 1033 111 0 58b2adbe00b15c2d3d5f7ca061e7df89
+cpath: /old/sipXpbx/main/bin
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4454/288397
+K 9
+ChangeLog
+V 20
+file 5g8.0.r4488/735
+K 7
+INSTALL
+V 23
+file 5g9.0.r4454/289610
+K 7
+LICENSE
+V 19
+file 5ga.0.r4454/82
+K 11
+Makefile.am
+V 23
+file 5gb.0.r4454/294056
+K 4
+NEWS
+V 23
+file 5gc.0.r4454/299658
+K 6
+README
+V 23
+file 5gd.0.r4454/288092
+K 4
+TODO
+V 23
+file 5ge.0.r4454/289304
+K 9
+acsite.m4
+V 21
+file 5gf.0.r4454/4092
+K 3
+bin
+V 20
+dir 5gg.0.r4491/2341
+K 12
+configure.ac
+V 23
+file 5gl.0.r4454/288711
+K 3
+doc
+V 20
+dir 5gm.0.r4489/1677
+K 3
+etc
+V 20
+dir 5gp.0.r4473/1209
+K 7
+include
+V 20
+dir 5h2.0.r4454/3129
+K 4
+meta
+V 21
+dir 6of.z4.r4454/3822
+K 15
+sipxpbx.spec.in
+V 20
+file 6mo.0.r4478/389
+K 3
+src
+V 20
+dir 5hb.0.r4490/1668
+END
+ENDREP
+id: 5g6.0.r4491/3251
+type: dir
+pred: 5g6.0.r4490/2578
+count: 306
+text: 4491 2562 676 676 c59e40b9469aadabbdd5cff69c0c326a
+props: 4488 1647 465 0 fb8962ad6059360c74e96aef621f3121
+cpath: /old/sipXpbx/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 6o1.0.r4484/3873
+K 4
+main
+V 20
+dir 5g6.0.r4491/3251
+K 4
+tags
+V 20
+dir 5kn.0.r4485/5488
+END
+ENDREP
+id: 5g5.0.r4491/3595
+type: dir
+pred: 5g5.0.r4490/2922
+count: 398
+text: 4491 3469 113 113 ec0ca366a25833f4e531f98013af6c00
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4491/3595
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4491/4235
+type: dir
+pred: 1.0.r4490/3562
+count: 4489
+text: 4491 3752 470 470 bb3fdd3a254048c09043a0834d49b84b
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4491/4235
+END
+ENDREP
+id: 0.0.r4491/4430
+type: dir
+pred: 0.0.r4490/3757
+count: 4491
+text: 4491 4381 36 36 c944ff10cb1f3e483c70ef17c9c5c1f7
+cpath: /
+copyroot: 0 /
+
+6on.zp.t4490-1 modify false true /old/sipXpbx/main/bin/backup-configs.sh.in
+
+6oq.zs.t4490-1 modify false true /old/sipXpbx/main/bin/restore-mailstore.sh.in
+
+6oo.zq.t4490-1 modify false true /old/sipXpbx/main/bin/backup-mailstore.sh.in
+
+6op.zr.t4490-1 modify false true /old/sipXpbx/main/bin/restore-configs.sh.in
+
+
+4430 4571

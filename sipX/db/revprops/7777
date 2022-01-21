@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-18T04:02:45.962874Z
+K 7
+svn:log
+V 87
+Fix ClearonePhoneTest - standardize on CRLF line endings for phone configuration file.
+
+END

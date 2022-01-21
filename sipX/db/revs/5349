@@ -1,0 +1,166 @@
+PLAIN
+K 5
+build
+V 20
+file 7ve.0.r5295/585
+K 6
+config
+V 22
+dir 91.1i4.r5303/26021
+K 12
+dependencies
+V 19
+file 7rk.0.r5301/65
+K 11
+sipXcallLib
+V 21
+dir va.24d.r5318/7240
+K 17
+sipXcommserverLib
+V 22
+dir 1qo.24e.r5320/1148
+K 10
+sipXconfig
+V 22
+dir 2hf.24c.r5345/4743
+K 19
+sipXmediaAdapterLib
+V 22
+dir 89s.24b.r5318/9826
+K 12
+sipXmediaLib
+V 21
+dir mz.24f.r5318/9381
+K 7
+sipXpbx
+V 22
+dir 5g6.24g.r5318/4872
+K 9
+sipXphone
+V 23
+dir 6qk.24h.r5318/15164
+K 11
+sipXportLib
+V 20
+dir 3.24i.r5318/1490
+K 9
+sipXproxy
+V 22
+dir 1vt.24j.r5318/2592
+K 13
+sipXpublisher
+V 22
+dir 20n.24k.r5318/5942
+K 12
+sipXregistry
+V 23
+dir 1y5.24l.r5318/11093
+K 11
+sipXtackLib
+V 22
+dir dk.24m.r5348/10053
+K 8
+sipXvxml
+V 22
+dir 22d.24n.r5318/3685
+END
+ENDREP
+id: 7q4.24b.r5349/720
+type: dir
+pred: 7q4.24b.r5348/13017
+count: 505
+text: 5349 0 707 707 8e76c00c43ca972f6031f25f8148f690
+props: 5348 11066 1938 0 aa2e804295b58e51d6eb36f871ea0696
+cpath: /branches/3.0
+copyroot: 5315 /branches/3.0
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 21
+dir 7pv.0.r4813/26770
+K 3
+3.0
+V 21
+dir 7q4.24b.r5349/720
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 7
+lowcarb
+V 21
+dir 7py.0.r4813/27240
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 7
+restful
+V 21
+dir 7q0.0.r4813/15683
+K 15
+sipXconfig-soap
+V 24
+dir 2hf.20x.r5286/309278
+K 31
+sipXconfig_unique_sip_usernames
+V 23
+dir 2hf.20y.r5066/55100
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+K 8
+user_pin
+V 21
+dir 7q2.0.r4813/19786
+K 9
+user_ping
+V 21
+dir 7q3.0.r4813/30843
+END
+ENDREP
+id: 7pt.0.r5349/1541
+type: dir
+pred: 7pt.0.r5348/13845
+count: 21
+text: 5349 952 576 576 626d9f7d6cb308aed28de8ecf2932e50
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r5349/1541
+K 4
+main
+V 20
+dir 7q4.0.r5346/6328
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r5349/1822
+type: dir
+pred: 0.0.r5348/14129
+count: 5349
+text: 5349 1694 115 115 ec09ddcbd3e97caac0470c7a1b8c899b
+cpath: /
+copyroot: 0 /
+
+8dl.24b.r5317/1356 delete false false /branches/3.0/bbridge
+
+
+1822 1966

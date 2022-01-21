@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-28T21:57:03.878388Z
+K 7
+svn:log
+V 56
+Rename DTMFDetector class to more proper MpDtmfDetector.
+END

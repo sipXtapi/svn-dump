@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-22T21:35:31.511470Z
+K 7
+svn:log
+V 115
+XCF-753 UI tests for emergency routing page is now working
+property models have to handle null value is Tapestry 4
+
+END

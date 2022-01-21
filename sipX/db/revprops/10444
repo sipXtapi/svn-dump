@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-10T20:32:30.723934Z
+K 7
+svn:log
+V 310
+Add simple in-band DTMF tone detector algorithm - uses Goertzel algorithm as it's basis.  This is only used for a new MprToneGenTest currently.
+
+Add new MprToneGen test.  This tests whether it properly generates a DTMF tone.
+It tests tone authenticity in narrowband and in wideband -- at 8KHz,16KHz,32KHz,48KHz
+END

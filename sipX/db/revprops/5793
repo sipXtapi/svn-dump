@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-12-27T16:40:42.837274Z
+K 7
+svn:log
+V 133
+XCF-658 changes in QuickHelp text
+Added new QuickHElp text component (see: XCF-754): it's now easier to keep help text in resources.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-06-28T20:17:25.278646Z
+K 7
+svn:log
+V 202
+Implement the readFile SOAP method for the process manager, using SOAP with Attachments.  Change the MIME type for the attachment from text/plain to application/octet-stream since it could be anything.
+
+END

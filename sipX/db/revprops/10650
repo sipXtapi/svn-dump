@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2008-05-13T18:08:57.866865Z
+K 7
+svn:log
+V 327
+-fix in MprToneGen for calling stop on a one-shot tone for TopologyFlowGraph
+  - required additional virtual getType member on MpFlowGraphBase in order
+    to determine the flow graph type without using RTTI
+-fix in MpToneResourceMsg to use int to store toneid - since special tones (ie. dialtone) 
+ use id's larger than u_int8
+END

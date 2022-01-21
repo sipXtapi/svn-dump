@@ -1,0 +1,96 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-10T03:17:13.880584Z
+K 7
+svn:log
+V 6047
+First step of big merge from sipXtapi-media-update branch.
+Speex and GSM support is temporarily disabled in default build.
+Only Visual Studio 2003 files include full set of changes. Other project files need more work.
+Below is a brief project by project list of changes.
+
+Changes in sipXportLib:
+* Removed commas after last element in enums
+* Comments for OsSyncBase, OsMutex, OsLock, OsCSem, OsBSem Doxyfied
+* Bug in OsMsgPool fixed (XPL-180)
+* Project files cleaned up
+* HostAdapterAddress.h added to sipXportLib_NoSecurity.vcproj
+* libpcre.a library renamed to more recent pcre.lib
+* Include and library paths for CPPUnit added
+* Fixed crash when multiple network adapters or multiple addresses on one adapter are available under Windows.
+
+Changes in sipXtackLib:
+* SdpCodec comments Doxyfied
+* Defines for Speex added to SdpCodec
+* Speex and GSM added to SdpCodecFactory
+* Removed commas after last element in enums
+* Project files cleaned up
+* libpcre.a library renamed to more recent pcre.lib
+* Include and library paths for CPPUnit added
+
+Changes in sipXmediaLib:
+* Almost all comments in header files doxyfied.
+* Jitter Buffer API changed: preffer use MpRtp instead of raw RTP header and data.
+* "Sample" type renamed to "MpAudioSample" to clarify its meaning and avoid type name coincidence.
+* BUGFIX: It was not possible to change mic device to something real if it was set to "none". This slso fixes XMR-64 issue.
+* All 'enum enumName {};' declarations changed to 'typedef enum {} enumName;'.
+* Fixed some of Doxygen errors and warning caused by declarations does not match defenitions.
+* MpBufferMsg::AUD_PLAYED enum value removed - it does not used anywhere.
+* All audio related members moved from MpConnection to MpAudioConnection. MpConnection now could be used to receive any type of RTP stream.
+* MprToNet, MprFromNet and MprDejitter does not inherit MpResource
+* Speex's AEC, AGC and denoiser resources added. MpCallFlowGraph::setAudioNoiseReduction(), MpCallFlowGraph::setAGC(), MpCallFlowGraph::setAECMode() functions implemented to controls them.
+* Junk code cleaned up in MprToSpkr, MpMisc, MprToNet, MprFromNet.
+* All audio related code moved from MpResource to MpAudioResource. However MpResource is not very useful as a base class for video resources, this is juast a first step towards.
+* All secondary codec stuff removed. This part of code looks unfinished and will not be finished in foreseeable future.
+* MprBridge code simplified. All mixing done in one routine doMix().
+* printf's changed to osPrintf's in DSPlib, MpFlowGraphBase, MpMediaTask and MpMisc.
+* MpBufferMsg updated. Only one buffer left - we do not need to carry more. MpBufferMsg::ownBuffer() memeber added - take buffer and wipe it from message.
+* MprFromMic take one more argument in constructor - pointer to message queue, from which it will receive data.
+* MprToSpkr take two more arguments in constructor - pointer to message queue, to which it will send data and message queue to wich it will send echo data.
+* AEC type could be selected at compile time. Available AECs are Speex, Pingtel echo canceler and Pingtel echo suppressor. However Pingtel one does not work at this time.
+* Tabs replaces by spaces in MpCodec.cpp.
+* sizeof() operator should use parenthesis (MpCodec.cpp).
+* Constructors should initialize *all* member variables. This applies to MpConnection, MpdSipxPcma, MpdSipxPcmu, etc.
+* MpJitterBuffer rewrote with new buffers. Several logic errors fixed too.
+* MpMediaTask: Check for (maxFlowGraph == 0) in getMediaTask(). Using stack OsLock variables instead of explicit locking. Memory leaks fixed: mpBufferMsgPool and mpSignalMsgPool should be deleted, messages for pools should be created in stack or deleted.
+* In mpShutdown() correctly delete resources, allocated in mpStartUp().
+* MprDecode and MprDejitter code rewrote to support new buffers. Several logical errors fixed too. Implemented ability to get packet with given timestamp from Dejitter.
+* Number of inputs/outputs fixed in several resources: MprEncode, etc.
+* In MprFromMic silence detection code moved to separate function.
+* Incoming RTP packet parsing rewrote in MprFromNet.
+* Many resources' behaviour changed: they will not produce frames if no input buffers came. This will make possible PLC/CNG sometimes. Moreover this should decrase audio processing.
+* Code for creating RTP packets rewrote in MprToNet. Now it use MpRtpBuf and MpUdpBuf. However it sohuld be further splitted to RTP packer (raw data -> MpRtpBuf) and UDP packer (MpRtpBuf -> MpUdpBuf).
+* SpeakerThreadWnt: Heartbeat timer started when speaker device set to "none" to avoid application freeze.
+
+Changes in sipXmediaAdapterLib:
+* Removed commas after last element in enums.
+* In CpPhoneMediaInterface constructor parameter mbEnableICE renamed to bEnableICE to regard coding style.
+* CpPhoneMediaConnection and CpPhoneMediaInterface slightly generalized to simplify ongoing video support.
+* Added compile time codec plugins for Speex and GSM.
+* Make project files consistent, correct VIDEO build targets.
+
+Changes in sipXcallLib:
+* Make project files consistent, correct VIDEO build targets.
+* Local and remote video windows auto size on startup in PlaceCallWntApp and ReceiveCallWntApp.
+* More video-related staff moved to VIDEO #ifdef's.
+* Command-line switches added to PlaceCall:
+  -B       ip address to bind to
+  -aec     enable acoustic echo cancelation
+  -agc     enable automatic gain control
+  -denoise enable speex denoiser
+* Removed commas after last element in enums.
+* GAIN_MIN set to 0 to enable mute.
+* Small fixes for documentation in sipXtapi.h.
+* Correctly fix build under Windows without DirectShow SDK: use DIRECT_SHOW_RENDER define to include DirectShow.
+* Surround several GIPS dependancies with #ifdef's and fix several typos in sipXtapi.cpp and sipXtapiInternal.cpp.
+* Added missed #include "afxres.h" to sipXtapi.rc.
+* Removed *_NoVideo targets from sipXcallLib project. They simply do nothig.
+* Added *_NoVideo target to sipXtapi project file. It make sense here.
+
+
+END

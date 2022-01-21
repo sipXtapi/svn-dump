@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-01-24T19:37:42.017023Z
+K 7
+svn:log
+V 106
+XCF-751 Allow setting groups to be advanced, web ui doesn't show settings for advanced groups or its title
+END

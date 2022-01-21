@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-03T04:54:47.823863Z
+K 7
+svn:log
+V 116
+OsRWMutexShared.cpp: Don't access internal shared variables outside of locks.
+This can lead to false asserts fails.
+
+END

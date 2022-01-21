@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-26T14:58:11.999217Z
+K 7
+svn:log
+V 81
+mergefrom user_dworley_redirectors2main 7518
+
+Make res_query_and_parse() public.
+
+END

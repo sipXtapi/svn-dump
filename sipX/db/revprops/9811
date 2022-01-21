@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-09T17:05:38.973960Z
+K 7
+svn:log
+V 273
+Enable call recording for testRecordPlayback to test full call recording.
+In order to tell if full call recording works, it will require inspection by a person.
+After test is over, grab testRecordPlayback_call_recording.wav and play it with a media player such as audacity.
+END

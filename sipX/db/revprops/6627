@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-04-21T04:11:12.681396Z
+K 7
+svn:log
+V 294
+Progress on XPR-120: Call resolver (CDR): support HA configurations with distributed proxies.
+Restructure the way events are loaded for simplicity and efficiency, in preparation for loading events from multiple databases.  Introduce a DatabaseUrl class to specify the connection to a database.
+
+END

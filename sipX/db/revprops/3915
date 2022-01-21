@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-05-18T13:30:32.098028Z
+K 7
+svn:log
+V 71
+Cisco ATA line def. missing, make factory id consistent, remove unused.
+END

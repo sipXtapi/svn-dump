@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-11-27T22:46:01.981414Z
+K 7
+svn:log
+V 174
+FIX BUILD : Unit test failed, still have to work out polycom 4000 G729 codec showing '1' preference when its actually 'do not use'.  Something to do with null values in lists
+END

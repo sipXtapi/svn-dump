@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-10-21T22:56:12.939164Z
+K 7
+svn:log
+V 380
+"Fix" XCF-671: Grandstream: Phone restart does not work.
+Grandstream doesn't want third parties to remotely restart their phones, remote restart is a capability only available via their proprietary GAPSLITE product.  So the best we can do is throw an exception in the phone's restart method that will appear on the job status page, explaining to the user why restart didn't work.
+
+END

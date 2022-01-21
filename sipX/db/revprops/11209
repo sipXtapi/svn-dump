@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-22T15:32:13.390411Z
+K 7
+svn:log
+V 104
+sipXmediaAdapterLib: Fix compilation - DEFAULT_SPEAKER_SELECTOR_MAX_IN_OUTPUTS define no longer exists.
+
+END

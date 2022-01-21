@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-06-06T12:13:32.949424Z
+K 7
+svn:log
+V 171
+Make a GenericPhone class to hold common phone implementation code, Create a SettingBeanAdapter the bridges meta data ala settings to business methods ala java interfaces.
+END

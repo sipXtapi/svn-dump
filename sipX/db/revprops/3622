@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-07T15:39:23.085977Z
+K 7
+svn:log
+V 334
+XPH-73 - Do not validate serial numbers accross all devices.  Serial number generation logic on SIP Softphone has changed on phones making this nec. going forward. Fix is update just sip softphone serial number validation is forgone as adding devices ui will be obsoleted in sipx 3.0 or 3.2 timeframe and rather make this low risk fix
+END

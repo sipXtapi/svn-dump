@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-13T23:21:25.822904Z
+K 7
+svn:log
+V 52
+Fix OSS playback at 32000 and 48000 sampling rates.
+
+END

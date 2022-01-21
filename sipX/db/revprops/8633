@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-26T22:36:52.226013Z
+K 7
+svn:log
+V 169
+XCF-1472 for now limit number of displayed CDRs to 10000 - we still need to implement real paging
+XCF-1456 calls with duration under 1 second display as 0 seconds in UI
+
+END

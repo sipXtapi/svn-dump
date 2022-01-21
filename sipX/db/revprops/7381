@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-08-31T16:44:09.825609Z
+K 7
+svn:log
+V 370
+Add Server or User-Agent headers (as appropriate) to most messages to
+aid in identifying what component generated them, and add a property
+to each that identifies the specific component (as opposed to the
+default, which just has 'sipX/version').
+
+Change priorities on some log messages that have no significance other
+than for developers.
+
+Fix numbering of redirectors.
+
+END

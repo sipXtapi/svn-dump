@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-05-18T18:25:07.287896Z
+K 7
+svn:log
+V 253
+Fixed MSVS6 compile error in use of OsNatDatagramSocket.
+  I do not know what changed that caused this to compilation error 
+  to come up, but the last argument passed was wrong.  THough 
+  SipUdpServer.cpp and OsNatDatagramSocket.h have not changed. 
+
+
+END

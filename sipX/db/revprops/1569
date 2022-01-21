@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-20T20:35:04.413795Z
+K 7
+svn:log
+V 98
+The sipXtapi release build unit tests should link against cppunit.dll (instead of cppunitd.dll).
+
+
+END

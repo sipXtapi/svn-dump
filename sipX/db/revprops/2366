@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-18T16:13:29.403829Z
+K 7
+svn:log
+V 80
+Log all signals caught at CRIT level.
+http://track.sipfoundry.org/browse/XVX-86
+
+END

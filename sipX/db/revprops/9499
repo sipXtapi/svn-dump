@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-08T22:22:16.612147Z
+K 7
+svn:log
+V 153
+Use reference counting and stsatic accessor for MpOSSDeviceWrapperContainer singleton instead of static global variable.
+Some documentation updated too.
+
+END

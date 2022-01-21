@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-11T21:51:50.584848Z
+K 7
+svn:log
+V 111
+http://track.sipfoundry.org/browse/XPB-85
+Add "LoadModule mod_ssl.so" so that Apache will load the SSL module.
+
+END

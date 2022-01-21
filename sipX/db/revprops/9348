@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-12T21:45:21.566520Z
+K 7
+svn:log
+V 137
+Missed part of rev9346: MpAudioOutputConnection still refered to enableDirectWriteMode argument of MpOutputDeviceDriver::enableDevice().
+
+END

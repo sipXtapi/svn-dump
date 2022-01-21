@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-09T16:38:33.796504Z
+K 7
+svn:log
+V 99
+stdout noise reduction (commenting out osPrintf and printf calls) and a few #include file tweaks.
+
+
+END

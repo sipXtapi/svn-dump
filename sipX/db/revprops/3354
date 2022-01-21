@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-01-10T23:44:04.229297Z
+K 7
+svn:log
+V 49
+remove CLOVER_HOME variable, needs to be optional
+END

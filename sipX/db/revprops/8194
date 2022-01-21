@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-12-05T12:06:18.561446Z
+K 7
+svn:log
+V 261
+Improve top level make structure
+  Ensure that projects are ordered based on dependencies
+  Exit more quickly on failures
+       (this latter is only a partial fix - the automake-generated
+       recursion still goes on too long, but that's much harder to fix)
+
+END

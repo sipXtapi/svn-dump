@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-05-11T22:52:24.651304Z
+K 7
+svn:log
+V 207
+Jumpstarting HITACHI Cable phones support for Michał.
+- IP 3000 and IP 5000 model defined
+- empty HitachiPhone class
+- nearly empty settings files for phone and line
+They show up in New Phone dropdown now.
+
+END

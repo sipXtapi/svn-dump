@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-09T14:31:25.279908Z
+K 7
+svn:log
+V 113
+XCF-593 enabled generation of authexceptions and aliases when call sequences are changed in ForwardingContextImpl
+END

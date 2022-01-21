@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-06-27T03:21:26.412637Z
+K 7
+svn:log
+V 42
+Check multicast socket setup in unit test
+
+END

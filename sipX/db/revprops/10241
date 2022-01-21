@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-02T19:10:14.663191Z
+K 7
+svn:log
+V 333
+Bugfix: Fix MprDejitter::StreamData::checkPacket() have incorrectly calculated timestamp offset in case of clock drift.
+rtpTimestamp, used to calculate new offset, is not an actual timestamp of arrived packet, but rather a timestamp minus old offset. This caused infite jumping of offset value and rejection of all arriving packets.
+
+END

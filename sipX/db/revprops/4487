@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-02-04T14:49:30.514288Z
+K 7
+svn:log
+V 198
+Start building a command group to suppress setuid execution of sipXvxml.
+Fiddle with directory in check-libraries command group.
+(It looks like the directory @-variables are messed up in some way.)
+
+END

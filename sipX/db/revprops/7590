@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-09-27T14:38:09.702375Z
+K 7
+svn:log
+V 210
+mergefrom sipx 7560-7587
+
+Update from sipX Main, especially the improvement in configuring
+strcasecmp/strncasecmp.  After this, we can get the handling of
+str(n)casecmp in the new code in this branch in order.
+
+END

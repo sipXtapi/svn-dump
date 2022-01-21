@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2006-11-21T01:36:27.027457Z
+K 7
+svn:log
+V 153
+Fix for making WinMain function to use wide char - as it is expected and blows
+up w/ overload error if you don't make it wide (LPWSTR instead of LPSTR)
+
+
+END

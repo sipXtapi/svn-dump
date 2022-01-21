@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2004-11-02T18:17:36.058779Z
+K 7
+svn:log
+V 234
+http://track.sipfoundry.org/browse/XPB-108
+
+Added blat shell script which is emulation of windows blat.exe
+blat is a command line util for sending an e-mail message via smtp.
+It is used by the Watchdog to send watchdog e-mail events.
+
+END

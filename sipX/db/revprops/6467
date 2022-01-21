@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-03-30T00:57:24.693111Z
+K 7
+svn:log
+V 162
+Progress on loading config files and controlling logging.
+Change "require" statements to use File.join, to improve portability by not hardwiring path separators.
+
+END

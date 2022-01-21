@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-23T16:14:40.624988Z
+K 7
+svn:log
+V 112
+Secondary (redundancy) codec support removed from MprEncode -- we does not use them now and will not in future.
+
+END

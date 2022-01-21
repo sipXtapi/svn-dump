@@ -1,0 +1,28 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-08-24T08:17:11.614515Z
+K 7
+svn:log
+V 504
+Implement domain aliases in the registrar
+
+   Resolves http://track.sipfoundry.org/browse/XRR-2
+
+The new registrar configuration directive
+  SIP_REGISTRAR_DOMAIN_ALIASES :
+is a list of domains (which may be IP addresses) that are to
+be considered acceptable as the target URI in a REGISTER
+request.
+
+By default, this is initialized to include the default IP address.
+
+Note that this has no effect on the domain part of the address
+of record values; it does mean that UAs that cannot do DNS can
+register.
+
+END

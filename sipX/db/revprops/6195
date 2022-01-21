@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-02-21T20:27:02.978810Z
+K 7
+svn:log
+V 169
+Modify locking model for persistent connection map. Independent locking
+for the connection map and each individual entry will avoid deadlocks
+during multi-threaded use.
+
+END

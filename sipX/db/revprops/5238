@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-09-30T02:54:26.370674Z
+K 7
+svn:log
+V 130
+Made "make check" work with relative libraries so that
+the sipX unit test libaries and header files do not need
+to be installed.
+
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-05T14:52:38.930081Z
+K 7
+svn:log
+V 93
+Set executable flag on appropriate files in sipXmediaLib/contrib/libamrnb and libamrwb dirs.
+
+END

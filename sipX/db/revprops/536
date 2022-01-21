@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-04-29T20:07:04.029186Z
+K 7
+svn:log
+V 62
+Support other flavors of Apache such as found in Suse/Novell.
+
+END

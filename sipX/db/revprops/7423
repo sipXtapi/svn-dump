@@ -1,0 +1,44 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2006-09-06T18:00:39.127362Z
+K 7
+svn:log
+V 985
+Various 3.4 that should be in main.
+
+mergefrom pingtel-main 6642,7174 
+
+r6642:
+(sipXportLib)
+Handle unexpected errors from pthread_cond_wait() and pthread_cond_timedwait() by asserting.
+Previous implementation might "spin" on unexpected errors.
+Add more unit tests for mutexes and semaphores.
+
+(sipXvxml)
+Catch only the normal shutdown signals.
+Let the others cause core dumps so
+we can fix the problem.
+
+r7174 contains these VoiceXML fixes made to 3.4 that should also be in main.
+
+r6414:
+(sipXvxml)
+Change thread stack size from 1M to 128K.
+
+r6612:
+(sipXvxml)
+Don't delete userAgent as the CallManger destructor does that.
+If we delete it here, we get crashes when we CallManager tries to as well.
+I don't agree that CallManager should delete userAgent, as userAgent
+is passed in to CallManager, and thus should be deleted by whomever 
+created it.  But this is the path of least resistance, as all other users
+of CallManager seem to know not to delete the passed in object.
+
+--Woof!
+
+END

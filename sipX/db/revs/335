@@ -1,0 +1,149 @@
+id: 3.15.r335/0
+type: dir
+pred: 3.s.r308/1449
+count: 269
+text: 308 754 682 682 5108f742a8a10b0fcda31e781fd90068
+props: 289 0 344 0 72981628abcd0e75dbe8d0c9fd877136
+cpath: /old/sipXportLib/tags/2.6-export-M
+copyfrom: 334 /old/sipXportLib/branches/2.6
+
+PLAIN
+K 5
+2.5.1
+V 17
+dir 3.e.r115/2794
+K 5
+2.5.2
+V 17
+dir 3.h.r169/1469
+K 12
+2.6-export-A
+V 16
+dir 3.t.r290/474
+K 12
+2.6-export-B
+V 16
+dir 3.u.r294/474
+K 12
+2.6-export-C
+V 16
+dir 3.v.r302/474
+K 12
+2.6-export-D
+V 16
+dir 3.w.r303/474
+K 12
+2.6-export-E
+V 16
+dir 3.x.r305/474
+K 12
+2.6-export-F
+V 16
+dir 3.y.r307/474
+K 12
+2.6-export-G
+V 15
+dir 3.10.r311/0
+K 12
+2.6-export-H
+V 15
+dir 3.11.r312/0
+K 12
+2.6-export-J
+V 15
+dir 3.12.r315/0
+K 12
+2.6-export-K
+V 15
+dir 3.13.r318/0
+K 12
+2.6-export-L
+V 15
+dir 3.14.r334/0
+K 12
+2.6-export-M
+V 15
+dir 3.15.r335/0
+K 5
+2.6.1
+V 16
+dir 3.z.r309/474
+K 13
+main-export-A
+V 14
+dir 3.p.r276/0
+K 13
+main-export-B
+V 16
+dir 3.q.r282/357
+K 13
+main-export-C
+V 16
+dir 3.r.r288/357
+END
+ENDREP
+id: an.0.r335/961
+type: dir
+pred: an.0.r334/922
+count: 20
+text: 335 251 697 697 c2f6efb1b7dda600b39c248f46f320d5
+cpath: /old/sipXportLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir ar.0.r308/1745
+K 4
+main
+V 16
+dir 3.0.r333/935
+K 4
+tags
+V 17
+dir an.0.r335/961
+END
+ENDREP
+id: 2.0.r335/1235
+type: dir
+pred: 2.0.r334/1196
+count: 333
+text: 335 1118 104 104 a6c37d81fedd62109629a69021a2e5b3
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r335/1235
+END
+ENDREP
+id: 1.0.r335/1446
+type: dir
+pred: 1.0.r334/1407
+count: 334
+text: 335 1389 44 44 47b8f73851c1e273a3006180f0fdf81b
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r335/1446
+END
+ENDREP
+id: 0.0.r335/1634
+type: dir
+pred: 0.0.r334/1595
+count: 335
+text: 335 1586 35 35 b47bfa03f3346a208142ee3fa00ab31b
+cpath: /
+copyroot: 0 /
+
+3._0.t334-1 add false false /old/sipXportLib/tags/2.6-export-M
+334 /old/sipXportLib/branches/2.6
+
+1634 1771

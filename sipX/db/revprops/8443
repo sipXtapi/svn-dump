@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-01-05T04:27:27.801882Z
+K 7
+svn:log
+V 128
+XCF-1430 Add local timezone to datetime objects when reading then converting from database.  minor other code acd report cleanup
+END

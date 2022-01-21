@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-09-30T21:55:40.586242Z
+K 7
+svn:log
+V 554
+Workaround for XSL-49 - ACK misrouting and logging "using UDP"
+
+The incidence of the log message about "using UDP" is reduced by this
+to only those cases where we really are just presumptively using UDP;
+previously it was sometimes logged even though a different protocol
+was being used because the transaction had a record in
+lastSentProtocol.
+
+There is still a problem here - this path gets hit in the authproxy
+for ACKs to 2xx responses, and they may be routed incorrectly when the
+real target doesn't accept UDP.  See the comments added by this fix.
+
+END

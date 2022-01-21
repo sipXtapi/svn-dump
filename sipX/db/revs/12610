@@ -1,0 +1,394 @@
+PLAIN
+K 10
+svn:ignore
+V 53
+.deps
+g722_1_tests
+Makefile
+Makefile.in
+test.au
+tmp
+
+
+END
+ENDREP
+id: pgg.7n5.r12610/92
+type: dir
+pred: pgg.7n5.r12609/964
+count: 2
+text: 12609 637 314 314 3a0df9cfb67d1be9c423806e5311a5ee
+props: 12610 0 79 0 07c551d8532e270b8279f078a9d6f76b
+cpath: /main/sipXmediaLib/contrib/libg7221/tests
+copyroot: 10815 /main
+
+PLAIN
+K 7
+AUTHORS
+V 26
+file pk7.7n5.r12604/219710
+K 7
+COPYING
+V 26
+file ph2.7n5.r12604/236931
+K 9
+ChangeLog
+V 26
+file pho.7n5.r12604/230426
+K 7
+INSTALL
+V 26
+file piv.7n5.r12604/236564
+K 11
+Makefile.am
+V 26
+file pjz.7n5.r12604/237110
+K 4
+NEWS
+V 26
+file phd.7n5.r12604/237580
+K 6
+README
+V 26
+file pjp.7n5.r12604/230605
+K 6
+config
+V 25
+dir pg6.7n5.r12604/235061
+K 12
+configure.ac
+V 26
+file pgu.7n5.r12604/232777
+K 3
+doc
+V 25
+dir pg8.7n5.r12604/236331
+K 12
+g722_1.pc.in
+V 26
+file ph0.7n5.r12604/236747
+K 14
+g722_1.spec.in
+V 26
+file pi0.7n5.r12604/230786
+K 11
+getG7221.sh
+V 26
+file ph9.7n5.r12604/237339
+K 3
+src
+V 25
+dir pg9.7n5.r12604/230191
+K 9
+test-data
+V 26
+dir pgc.7n5.r12608/1964059
+K 5
+tests
+V 21
+dir pgg.7n5.r12610/92
+END
+ENDREP
+id: pg4.7n5.r12610/1072
+type: dir
+pred: pg4.7n5.r12609/1954
+count: 3
+text: 12610 340 719 719 22c7f3eb9be5248cb908ece763cf0fa2
+props: 12604 238489 151 0 092bb3a0b2147aec4749f82b3cb58378
+cpath: /main/sipXmediaLib/contrib/libg7221
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file f69.7n5.r12593/581
+K 7
+android
+V 25
+dir g9q.7n5.r12196/415625
+K 14
+buildFFmpeg.sh
+V 23
+file h4u.7n5.r11741/652
+K 8
+libamrnb
+V 22
+dir f32.7n5.r12479/381
+K 8
+libamrwb
+V 23
+dir f41.7n5.r12477/1608
+K 8
+libg7221
+V 23
+dir pg4.7n5.r12610/1072
+K 6
+libgsm
+V 25
+dir ebx.7n5.r12361/118167
+K 7
+libilbc
+V 22
+dir ezs.7n5.r12480/598
+K 7
+libopus
+V 24
+dir lw5.7n5.r12481/19842
+K 10
+libspandsp
+V 25
+dir f50.7n5.r12361/109423
+K 8
+libspeex
+V 23
+dir fz0.7n5.r12478/2055
+END
+ENDREP
+id: ebw.7n5.r12610/1816
+type: dir
+pred: ebw.7n5.r12609/2702
+count: 105
+text: 12610 1323 480 480 da6e1549b3d5369598dec4b99058dd50
+props: 12208 0 48 0 86168c69db02cf3306494c6df91bc2ed
+cpath: /main/sipXmediaLib/contrib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 22
+file g92.7n5.r12289/56
+K 12
+CONTRIBUTORS
+V 25
+file b41.0.r6469/22054157
+K 9
+ChangeLog
+V 25
+file b42.0.r6469/22025314
+K 7
+INSTALL
+V 24
+file b43.0.r6955/1728056
+K 11
+Makefile.am
+V 24
+file b44.7n5.r12466/9317
+K 4
+NEWS
+V 25
+file b45.0.r6469/22058814
+K 6
+README
+V 24
+file b46.0.r6955/1727035
+K 4
+TODO
+V 25
+file b47.0.r6469/22057442
+K 9
+acsite.m4
+V 24
+file b48.0.r6955/1726702
+K 17
+autoconf259.patch
+V 23
+file fxj.7n5.r10953/747
+K 3
+bin
+V 22
+dir b49.7n5.r11821/958
+K 12
+configure.ac
+V 25
+file b4k.7n5.r12472/10895
+K 7
+contrib
+V 23
+dir ebw.7n5.r12610/1816
+K 3
+doc
+V 22
+dir b4l.7n5.r11821/663
+K 26
+dtmf5_48khz_16b_signed.wav
+V 23
+file f7a.0.r10516/48478
+K 7
+include
+V 24
+dir b4p.7n5.r12594/12773
+K 3
+lib
+V 24
+dir b8u.0.r6469/22057603
+K 4
+meta
+V 24
+dir b8v.0.r6469/22024982
+K 25
+sipXmediaLib-msvc8.vcproj
+V 24
+file e76.7n5.r11952/3545
+K 16
+sipXmediaLib.dsp
+V 24
+file up.7nl.r11401/19813
+K 16
+sipXmediaLib.vcp
+V 22
+file e6i.0.r9956/38866
+K 19
+sipXmediaLib.vcproj
+V 24
+file b92.7n5.r12138/5904
+K 20
+sipXmediaLib.vcxproj
+V 26
+file nqq.7n5.r12361/119245
+K 29
+sipXmediaLibTest-msvc8.vcproj
+V 24
+file e77.7n5.r12273/3350
+K 20
+sipXmediaLibTest.dsp
+V 23
+file mh.7nm.r12273/3109
+K 20
+sipXmediaLibTest.sln
+V 24
+file eaj.7n5.r12138/5652
+K 20
+sipXmediaLibTest.vcp
+V 22
+file e6j.0.r8865/20512
+K 23
+sipXmediaLibTest.vcproj
+V 24
+file eak.7n5.r12273/3560
+K 24
+sipXmediaLibTest.vcxproj
+V 26
+file nqo.7n5.r12361/119064
+K 20
+sipxmedialib.spec.in
+V 24
+file b93.7n5.r10867/5783
+K 3
+src
+V 24
+dir b94.7n5.r12603/10852
+END
+ENDREP
+id: b40.7n5.r12610/3579
+type: dir
+pred: b40.7n5.r12609/4468
+count: 1899
+text: 12610 2055 1511 1511 0ce0416cf61921e10353bbe41087a3e8
+props: 12332 3448 1828 0 9538f009da0d305e6e1bb316bb7369dd
+cpath: /main/sipXmediaLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g8y.7n5.r12172/315
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 23
+dir 9wj.7n5.r12564/1207
+K 15
+configure.patch
+V 23
+file o60.7n5.r12434/574
+K 10
+readme.txt
+V 23
+file 9ws.7n5.r12464/516
+K 7
+scripts
+V 23
+dir fxk.7n5.r12171/1617
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r12592/3326
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r12515/3151
+K 12
+sipXmediaLib
+V 23
+dir b40.7n5.r12610/3579
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r12581/5194
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r12607/2795
+K 11
+sipXtackLib
+V 23
+dir boq.7n5.r12606/5643
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r12610/4525
+type: dir
+pred: 9wi.7n5.r12609/5417
+count: 3548
+text: 12610 3818 694 694 4ea66629700897de6a0bbdb53dd5345a
+props: 12114 59175 76 0 1dd3880c3272b32f88d1700b38908223
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r12113/17441
+K 4
+main
+V 23
+dir 9wi.7n5.r12610/4525
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r12610/4920
+type: dir
+pred: 0.0.r12609/5815
+count: 12610
+text: 12610 4748 159 159 50fc7df1978c245c12fede58d90b7fd8
+cpath: /
+copyroot: 0 /
+
+pgg.7n5.t12609-1 modify false true /main/sipXmediaLib/contrib/libg7221/tests
+
+
+4920 5067

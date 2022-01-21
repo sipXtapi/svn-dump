@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-12-18T14:09:16.564461Z
+K 7
+svn:log
+V 118
+Adding sipXmediaLib unittest which evaluate codecs performance.
+This test is not added to any build environments yet.
+
+END

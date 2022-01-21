@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-28T18:52:01.913273Z
+K 7
+svn:log
+V 89
+GrandstremPhoneTest was producing (and not removing) unnecessary files in /tmp directory
+
+END

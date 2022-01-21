@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-05-09T19:31:44.346278Z
+K 7
+svn:log
+V 224
+Merge revs 6794-6795 from sipfoundry 
+
+Remove call resolver cron job from cron.daily, add function to setup step
+to modify /etc/crontab directly and add a startup entry for daily call
+resolver run.
+
+Make grep work correctly
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-05-21T15:53:33.120164Z
+K 7
+svn:log
+V 45
+Fix so this can be run with -f Makefile.gnu.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-12T18:13:05.304709Z
+K 7
+svn:log
+V 150
+XCF-971 - Use a single tab and tab control widget to tab navigation.  denote active tab with bold font for now, will create a more elegant style next.
+END

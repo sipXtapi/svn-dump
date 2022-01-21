@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-03T23:33:12.072311Z
+K 7
+svn:log
+V 290
+Update getContactAdapterName() function, so it take UtlStrings instead of char* as params.
+Also add explicit check for loopback in Linux version of getContactAdapterName() - earlier it failed looking up "127.0.0.1".
+
+Few more places aonverted to use intptr_t with OsNotification::signal().
+
+END

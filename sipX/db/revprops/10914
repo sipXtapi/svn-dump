@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-11-07T18:17:08.051883Z
+K 7
+svn:log
+V 87
+Make valgrind happy - fill initial data with random values in MpCodecsPerformanceTest.
+
+END

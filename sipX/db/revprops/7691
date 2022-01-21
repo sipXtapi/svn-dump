@@ -1,0 +1,80 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-06T22:23:19.653514Z
+K 7
+svn:log
+V 3334
+mergefrom pingtel-main 5840,5842,5914,5982
+
+Remove unused definition of assignment operator for
+LinePresenceMonitor.
+Correct "result = false" to "result = true".
+Initialize LinePresenceMonitor::mpDialogMonitor.
+Delete reinitialization of CpCallManager::mCallNum, which could cause
+  Call-IDs to be duplicated.
+Add/improve/correct comments.
+Align argument names in LinePresenceMonitor.cpp with those in
+  LinePresenceMonitor.h.
+Qualify typedef name "Status" so it is clear what module it is from.
+Remove unused #define.
+Improve debugging messages.
+Delete reinitialization of CpCallManager::mCallNum, which could cause
+   Call-IDs to be duplicated.
+Fix indentation.
+Oops, you can't dynamic_cast void* into anything.
+Switch the order of two initializers to the order they will be
+executed.
+Clean up the machinery for Dialog and SipDialogEvent in preparation
+for fixing SipDialogMonitor.
+Dialogs are now identified by call-Id, to-tag, and from-tag, rather
+than call-Id alone, as call-Id is not a unique identifier for dialogs.
+SipDialogEvent::getDialog now looks up dialogs based on call-Id and
+tags, rather than just tags.  This requires adjustments in
+and DialogEventPublisher.cpp.
+SipDialogEvent now stores dialogs in a UtlSList rather than a
+UtlHashMap, as there are likely to be only a few of them.
+Disabled the assignment and copy constructors for these classes, as
+nobody seems to be using them, and the implementations were dubious.
+Provide method to return an iterator over the dialogs in a
+SipDialogEvent, rather than to copy the dialogs into a supplied
+UtlHashMap, as this is more efficient and appears to suffice for all
+the callers' needs.
+Adjust tests.
+Overhaul of SipDialogMonitor so it will handle partial updates of
+dialog event packages.  Also, handle multiple dialogs reported in one
+package, and multiple subscriptions established by one SUBSCRIBE.
+Additional tests for SipDialogMonitor, and fixes for the bugs that
+they revealed.
+Conditionalize OsSysLog activation in SipDialogMonitorTest.
+Update the pick-up server to add "?Require=replaces" to the
+redirection address.  This will cause pick-ups from UAs that do not
+support INVITE with Replaces to fail with a 420 rather than causing
+strange behavior.
+Adjust SipSubscribeClient::handleNotifyRequest so that it gives the
+callback routines the early dialog handle even if there is an
+established dialog handle.  This allows the callback routines to
+correlate early dialogs with established ones.
+Improve the description of addStateChangeNotifier.
+Add test for the situation where a NOTIFY arrives after we've stopped
+tracking the state for its subscription.
+Improve comments on NotifyEventCallback type.
+Fix the problem that caused the tests
+SipUserAgentTest::testShutdownNonBlocking and
+SipUserAgentTest::testShutdownBlocking to fail sometimes.
+The threads started by the SipUserAgent et al. do not stop
+synchronously with the calls to shut them down, so the test has to
+wait a short time before checking whether there are any unexpected
+threads running.
+Generate the "target" URIs in dialog events correctly by not putting them
+in <...>.  Using <...> is syntactically incorrect (they are not part of the
+URI), and tinyXML doesn't escape them properly.
+Revise LinePresenceMonitor to deal with asynchronous processing much
+better.
+http://paradise:8080/browse/ENG-490
+
+END

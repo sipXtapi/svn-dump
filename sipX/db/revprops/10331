@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-10-26T02:14:08.351350Z
+K 7
+svn:log
+V 283
+Added media adapter unit test to test playing of two buffers streamed via RTP to a third flowgraph where the two audio prompts get mixed.
+
+Note: this unit test is untested and disabled as the media adapter tests are crashing prior to getting getting to this test (at least on VS6).
+
+
+END

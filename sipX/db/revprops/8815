@@ -1,0 +1,340 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-02-16T22:18:21.504372Z
+K 7
+svn:log
+V 14104
+Merged revisions 8689-8813 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main
+
+........
+  r8690 | dkrzemin | 2007-02-02 13:49:37 -0500 (Fri, 02 Feb 2007) | 2 lines
+  
+  XPR-157 make CSE polling interval configurable, set default to 10 seconds to make monitoring active calls work reasonably well under normal load
+........
+  r8691 | kkyzivat | 2007-02-02 15:48:52 -0500 (Fri, 02 Feb 2007) | 2 lines
+  
+  Clean up fc4 yum line, put in proper place.
+........
+  r8693 | dkrzemin | 2007-02-02 18:30:56 -0500 (Fri, 02 Feb 2007) | 3 lines
+  
+  Merge fix from 3.6
+  change the way 'uri' parameter is generated for ACD Lines and ACD Queues - instead of using system SIP domain name as URI domain we now use ACD Server host (the same that is used to configure ACD Server) as domain name for lines and queues)
+........
+  r8700 | xmlscott | 2007-02-04 20:24:05 -0500 (Sun, 04 Feb 2007) | 5 lines
+  
+  Add unit test for NetBase64Codec
+  Add checks for invalid input to NetBase64Codec decoders;
+  all decoders now return whether or not the input was valid,
+  and do not decode any data if not.
+........
+  r8705 | dworley | 2007-02-05 23:27:31 -0500 (Mon, 05 Feb 2007) | 3 lines
+  
+  Update the dialog event package report to match
+  draft-worley-sip-dialog-03.
+........
+  r8708 | mdm2000 | 2007-02-07 01:29:17 -0500 (Wed, 07 Feb 2007) | 5 lines
+  
+  Fixing OsFile locking API. Rather than broken read/write locks, it now supports
+  a simpler, advisory, exclusive lock. The lock is obtained when the file is
+  opened, and is released when the file is closed, when FSLOCK (non-blocking) or
+  FSLOCK_WAIT (blocking) are used in the open mode of the file.
+........
+  r8715 | dworley | 2007-02-07 11:04:47 -0500 (Wed, 07 Feb 2007) | 2 lines
+  
+  Activate Ant to process sipXconfig/build.xml.
+........
+  r8717 | dkrzemin | 2007-02-07 18:03:47 -0500 (Wed, 07 Feb 2007) | 4 lines
+  
+  XPR-179 remove hardwired configuration file and log file locations
+  configuration directory and logfile directory are passed as a command line option to main.rb (--confdir, --logdir) 
+  - those locations are controlled by automake variables similarly to the way it's working in case of other sipX projects
+........
+  r8718 | dkrzemin | 2007-02-07 18:07:32 -0500 (Wed, 07 Feb 2007) | 2 lines
+  
+  XPR-179 correctly identify --start, --end, --logdir and --confidir as options that require argument
+........
+  r8719 | dkrzemin | 2007-02-07 18:34:49 -0500 (Wed, 07 Feb 2007) | 2 lines
+  
+  revert r8715 by dworley: it breaks RPM build
+........
+  r8720 | dkrzemin | 2007-02-07 18:48:30 -0500 (Wed, 07 Feb 2007) | 4 lines
+  
+  XCF-998 tie enabling CSE logging in authproxy and forking proxy to a single CALLRESOLVER_CALL_STATE_DB variable defined in config.defs
+  this simplifies CDR configuration in sipXconfig
+  By default CSE generation is now enabled since CDR generation does not require much resources on typical systems any more - it's state might be changed to DISABLED if 3.7 testing proves otherwise.
+........
+  r8721 | dkrzemin | 2007-02-07 19:08:33 -0500 (Wed, 07 Feb 2007) | 3 lines
+  
+  XCF-998 simplify enabling CSEs: single checkbox that controls CSE generation (enabled by default)
+  Call Resolver logging setting moved to Logging screen
+........
+  r8722 | dkrzemin | 2007-02-07 19:11:23 -0500 (Wed, 07 Feb 2007) | 2 lines
+  
+  XCF-1509 typo: Frech->French
+........
+  r8728 | lazyboy | 2007-02-08 13:03:14 -0500 (Thu, 08 Feb 2007) | 1 line
+  
+  XCF-1502 - Send email links to new voicemail portal, when listening to vm, mark email as read
+........
+  r8729 | dworley | 2007-02-08 14:33:55 -0500 (Thu, 08 Feb 2007) | 4 lines
+  
+  Add documentation for the
+      sipxconfig.sh --database reset-superadmin
+  command.
+........
+  r8730 | lazyboy | 2007-02-08 14:55:21 -0500 (Thu, 08 Feb 2007) | 1 line
+  
+  XCF-1470 Remove jars when running neoconf target, less than ideal because then you cannot install neoconf after you've install web but it safest operation for all
+........
+  r8731 | dkrzemin | 2007-02-08 15:11:12 -0500 (Thu, 08 Feb 2007) | 2 lines
+  
+  XCF-1455 time on Historic Calls screen is now properly displayed (normalized to localtime)
+........
+  r8732 | dkrzemin | 2007-02-08 17:28:08 -0500 (Thu, 08 Feb 2007) | 2 lines
+  
+  XCF-1460 cache jobs list during render; previously "out of range" exception might have thrown if the number of jobs decreased during render
+........
+  r8733 | lazyboy | 2007-02-08 18:06:26 -0500 (Thu, 08 Feb 2007) | 1 line
+  
+  XCF-1475 Bring back ruby 1.8.4 for updates to support SOAP
+........
+  r8739 | dkrzemin | 2007-02-09 12:10:48 -0500 (Fri, 09 Feb 2007) | 9 lines
+  
+  Merged revisions 7837 via svnmerge from
+  https://scm.sipfoundry.org/rep/sipX/branches/3.6
+    | ................................
+    | r7837 | dkrzemin | 2006-10-26 13:14:13 -0400 (Thu, 26 Oct 2006) | 5 lines
+    | XPR-196 fix problem with dropping CDR database
+    | fix script to remove redirecting standard error and standard output to /dev/null
+    | -use --quiet option to prevent "welcome" message
+    | -set 'client_min_messages' to 'error' to suppress NOTICE output
+........
+  r8740 | lazyboy | 2007-02-09 14:40:37 -0500 (Fri, 09 Feb 2007) | 1 line
+  
+  Release sipXconfig 3.7.4
+........
+  r8741 | lazyboy | 2007-02-09 15:36:36 -0500 (Fri, 09 Feb 2007) | 1 line
+  
+  explicitly set to ruby-abi dependency >= 1.8
+........
+  r8742 | lazyboy | 2007-02-09 16:56:33 -0500 (Fri, 09 Feb 2007) | 1 line
+  
+  XCF-1487 - Show unheard messaages as bold
+........
+  r8743 | lazyboy | 2007-02-09 17:51:57 -0500 (Fri, 09 Feb 2007) | 1 line
+  
+  Remove abi as a requirement for ruby-postgres, it was only introduced to assist ruby-postgres
+........
+  r8745 | lazyboy | 2007-02-09 22:57:47 -0500 (Fri, 09 Feb 2007) | 1 line
+  
+  Make ruby-abi version 1.8 to comply with ruby-postgres src rpm
+........
+  r8755 | lazyboy | 2007-02-10 22:19:56 -0500 (Sat, 10 Feb 2007) | 1 line
+  
+  XCF-1519 Accept vm message dates w/o timezones
+........
+  r8756 | dkrzemin | 2007-02-11 07:33:02 -0500 (Sun, 11 Feb 2007) | 3 lines
+  
+  XPR-217 add unit tests for generating stunnel config
+  simplify launching and closing stunnel connection
+........
+  r8758 | woof | 2007-02-12 12:12:35 -0500 (Mon, 12 Feb 2007) | 9 lines
+  
+  Plug memory leak in registrar.
+  
+  A very old, but slow leak in the registrar has suddenly started appearing
+  in testing.  This turns out to be due to more testing calls have url and/or
+  header parameters on them.  A leak in UrlMapping was exposed when
+  there are many url/header parameters.
+  
+  --Woof!
+........
+  r8759 | dkrzemin | 2007-02-12 15:17:49 -0500 (Mon, 12 Feb 2007) | 2 lines
+  
+  XCF-1517 plugin template for LG-Nortel phones 
+........
+  r8761 | dkrzemin | 2007-02-12 16:49:17 -0500 (Mon, 12 Feb 2007) | 2 lines
+  
+  XCF-1517 missing file - register nortel-lg with configure.ac
+........
+  r8762 | lazyboy | 2007-02-12 18:20:23 -0500 (Mon, 12 Feb 2007) | 1 line
+  
+  Add yum group for develper dependencies
+........
+  r8763 | lazyboy | 2007-02-12 21:02:48 -0500 (Mon, 12 Feb 2007) | 1 line
+  
+  put a dependency on rpm package, yes there actually is an rpm package.  how would you install it? dunno, but when installing from anaconda, its important to have this dependency if your package relies on the rpm command to install it first
+........
+  r8764 | lazyboy | 2007-02-12 21:26:57 -0500 (Mon, 12 Feb 2007) | 1 line
+  
+  FIX BUILD: add lg-nortel to sipxconfig rpm spec
+........
+  r8765 | lazyboy | 2007-02-13 13:53:05 -0500 (Tue, 13 Feb 2007) | 1 line
+  
+  XPB-882 Do not assume all *.in files end with a new line
+........
+  r8766 | dkrzemin | 2007-02-13 14:22:39 -0500 (Tue, 13 Feb 2007) | 2 lines
+  
+  XCF-1571 define settings for LIP-68xx phone and lines
+........
+  r8767 | lazyboy | 2007-02-13 14:31:12 -0500 (Tue, 13 Feb 2007) | 1 line
+  
+  Include useful ant commands in ac macro
+........
+  r8768 | lazyboy | 2007-02-13 14:32:01 -0500 (Tue, 13 Feb 2007) | 1 line
+  
+  Delete installed jars from top level make instead of neoconf.
+........
+  r8769 | lazyboy | 2007-02-13 14:38:49 -0500 (Tue, 13 Feb 2007) | 1 line
+  
+  XPB-882 Use description instead of documentation to match validating xml schema
+........
+  r8770 | lazyboy | 2007-02-13 15:42:50 -0500 (Tue, 13 Feb 2007) | 1 line
+  
+  XCF-1523 - clear email address when adding new users one after another, leave other mailbox settings
+........
+  r8771 | lazyboy | 2007-02-13 15:45:38 -0500 (Tue, 13 Feb 2007) | 1 line
+  
+  XCF-1347 Remove unnec. dollar signs in polycom velocity template comments. entire issue not solved yet
+........
+  r8772 | xmlscott | 2007-02-13 16:27:07 -0500 (Tue, 13 Feb 2007) | 10 lines
+  
+  Add OsSysLog logging to sipxunit framework so that
+  unit tests now generate log files.
+  
+     The unit test log files are generated in the directory
+     where the test is run, which is normally the same as
+     where the 'testsuite' libtool wrapper script is created.
+  
+     Log files are named <class>__<test>.log, so identifying
+     them is straightforward.
+........
+  r8774 | xmlscott | 2007-02-13 17:22:49 -0500 (Tue, 13 Feb 2007) | 1 line
+  
+  re-add files left out by merge from Pingtel
+........
+  r8775 | lazyboy | 2007-02-13 18:03:07 -0500 (Tue, 13 Feb 2007) | 1 line
+  
+  XCF-1347 - Stop warnings in polycom profile generation by adding capability to stop an interation during setting set visitation when returning false from visit method
+........
+  r8776 | dkrzemin | 2007-02-13 18:30:30 -0500 (Tue, 13 Feb 2007) | 2 lines
+  
+  XCF-1517 profile generation added
+........
+  r8777 | lazyboy | 2007-02-13 21:34:12 -0500 (Tue, 13 Feb 2007) | 1 line
+  
+  XCF-1512 - Check both from command and command.sh when running configtest.
+........
+  r8778 | lazyboy | 2007-02-13 21:35:50 -0500 (Tue, 13 Feb 2007) | 1 line
+  
+  bug fix for configpp introduced an extra double quote in config-defs command, surpress it.  affect sipxconfig-agent's ability to start
+........
+  r8779 | lazyboy | 2007-02-13 22:00:00 -0500 (Tue, 13 Feb 2007) | 2 lines
+  
+  autoconf macros for ant targets (from previous checkin today) were ineffective, truly define convienent ant macros in general.m4
+........
+  r8780 | lazyboy | 2007-02-13 22:10:24 -0500 (Tue, 13 Feb 2007) | 2 lines
+  
+  Find cleaner way to find process command to start.  typo in last edit to sipxpbx startup script, removed shebang syntax
+........
+  r8781 | dkrzemin | 2007-02-14 00:21:24 -0500 (Wed, 14 Feb 2007) | 1 line
+  
+  XPR-157 fix reading CSE polling interval from configuration file: it was not properly converted to integer which, CSE reading threads were sleeping forever
+........
+  r8782 | lazyboy | 2007-02-14 13:52:01 -0500 (Wed, 14 Feb 2007) | 1 line
+  
+  Do no start ftp server unless network is available, causes error in install.log for anaconda based installs
+........
+  r8783 | dkrzemin | 2007-02-14 16:09:21 -0500 (Wed, 14 Feb 2007) | 3 lines
+  
+  XCF-1517 fix the name of phone specific configuration file for LF-Nortel
+  fix configuration file generation to support multiple lines
+........
+  r8787 | dkrzemin | 2007-02-14 18:17:33 -0500 (Wed, 14 Feb 2007) | 2 lines
+  
+  XCF-1517 support for external lines
+........
+  r8788 | dkrzemin | 2007-02-14 18:35:01 -0500 (Wed, 14 Feb 2007) | 2 lines
+  
+  XCF-1517 Add support for uploading LG-Nortel firmware. (That was easy: thanks Douglas!)
+........
+  r8789 | dkrzemin | 2007-02-14 19:15:29 -0500 (Wed, 14 Feb 2007) | 2 lines
+  
+  XCF-1517 some examples of human readable labels/descriptions
+........
+  r8790 | lazyboy | 2007-02-14 21:54:50 -0500 (Wed, 14 Feb 2007) | 1 line
+  
+  Add more sipx development dependencies
+........
+  r8791 | xmlscott | 2007-02-14 22:55:43 -0500 (Wed, 14 Feb 2007) | 1 line
+  
+  fix include rule in sipxunit
+........
+  r8793 | lazyboy | 2007-02-15 11:04:49 -0500 (Thu, 15 Feb 2007) | 1 line
+  
+  XCF-1486 Decypher vm file system to comply with forwarded messages.  forwarded message do showup as such in web ui, however i still need to work on display details.  friendly urls (e.g. ones that are sent in emails) changed slightly
+........
+  r8794 | lazyboy | 2007-02-15 11:29:23 -0500 (Thu, 15 Feb 2007) | 1 line
+  
+  FIX BUILD: sort mailbox alphabetically a.) causes its right and b.) because unit tests do not rely on file system natural order
+........
+  r8795 | lazyboy | 2007-02-15 12:20:58 -0500 (Thu, 15 Feb 2007) | 1 line
+  
+  XCF-1066 - remove links and content to mediaserver web ui portal. direct users to sipxconfig login
+........
+  r8796 | dkrzemin | 2007-02-15 12:31:43 -0500 (Thu, 15 Feb 2007) | 2 lines
+  
+  XCF-1517 add support for restarting the phone (check-sync notify)
+........
+  r8797 | lazyboy | 2007-02-15 15:22:39 -0500 (Thu, 15 Feb 2007) | 1 line
+  
+  XCF-1066 Remove dependency on mod_cplusplus.
+........
+  r8798 | lazyboy | 2007-02-15 15:23:42 -0500 (Thu, 15 Feb 2007) | 1 line
+  
+  XCF-1066 Remove link to obsoleted voicemail portal from sipxconfig login ui
+........
+  r8799 | lazyboy | 2007-02-15 17:20:03 -0500 (Thu, 15 Feb 2007) | 1 line
+  
+  yum groups -typo ant xml dependencies on one line
+........
+  r8800 | lazyboy | 2007-02-15 17:24:57 -0500 (Thu, 15 Feb 2007) | 1 line
+  
+  remove mod_cplusplus from lib, no longer needed
+........
+  r8801 | lazyboy | 2007-02-15 17:42:55 -0500 (Thu, 15 Feb 2007) | 1 line
+  
+  forwarding-rules xml still not validating, documentation element in wrong logical order
+........
+  r8802 | lazyboy | 2007-02-15 17:55:59 -0500 (Thu, 15 Feb 2007) | 1 line
+  
+  remove mod_cplusplus from yum groups
+........
+  r8804 | xmlscott | 2007-02-16 08:44:48 -0500 (Fri, 16 Feb 2007) | 1 line
+  
+  [XPL-169] fix error in count before resize
+........
+  r8806 | xmlscott | 2007-02-16 09:17:19 -0500 (Fri, 16 Feb 2007) | 2 lines
+  
+  Fix bug in removeHeader that removed the wrong instance
+........
+  r8810 | lazyboy | 2007-02-16 14:20:03 -0500 (Fri, 16 Feb 2007) | 1 line
+  
+  XCF-1486 Support voicemails that have been forwarded
+........
+  r8811 | lazyboy | 2007-02-16 14:29:15 -0500 (Fri, 16 Feb 2007) | 1 line
+  
+  coding style layout change
+........
+  r8812 | lazyboy | 2007-02-16 14:30:19 -0500 (Fri, 16 Feb 2007) | 1 line
+  
+  XCF-1164 - Put default help link to new url scheme in www.sipfoundry.org
+........
+
+END

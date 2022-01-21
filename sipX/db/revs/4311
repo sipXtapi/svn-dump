@@ -1,0 +1,154 @@
+PLAIN
+K 13
+svn:externals
+V 77
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/post-2.6.1/config
+
+K 10
+svn:ignore
+V 139
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+sipxpbx.spec
+
+K 18
+svnmerge-main-head
+V 43
+https://scm.sipfoundry.org/rep/sipXpbx/main
+K 18
+svnmerge-main-revs
+V 5
+1-111
+END
+ENDREP
+id: 5g6.y8.r4311/388
+type: dir
+pred: 5g6.y8.r4302/1054
+count: 117
+text: 4302 397 644 644 6b658bb7b8c03d22ff8f803ca9f27436
+props: 4311 0 375 0 a431dd942eeef51862d179c2dbf7fb48
+cpath: /old/sipXpbx/branches/post-2.6.1
+copyroot: 4205 /old/sipXpbx/branches/post-2.6.1
+
+PLAIN
+K 10
+post-2.6.1
+V 20
+dir 5g6.y8.r4311/388
+END
+ENDREP
+id: 6o1.0.r4311/711
+type: dir
+pred: 6o1.0.r4302/1379
+count: 15
+text: 4311 652 46 46 b53a5b25b95378081b49016e5ed5d430
+cpath: /old/sipXpbx/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 6o1.0.r4311/711
+K 4
+main
+V 20
+dir 5g6.0.r4310/9609
+K 4
+tags
+V 20
+dir 5kn.0.r4134/2736
+END
+ENDREP
+id: 5g5.0.r4311/997
+type: dir
+pred: 5g5.0.r4310/9950
+count: 218
+text: 4311 872 112 112 606aedd080d564086853c10cbff08166
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 19
+dir 5g5.0.r4311/997
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4311/1634
+type: dir
+pred: 1.0.r4310/10590
+count: 4309
+text: 4311 1152 469 469 6ec8b4fefd335fe28586278d3cc1d496
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4311/1634
+END
+ENDREP
+id: 0.0.r4311/1830
+type: dir
+pred: 0.0.r4310/10788
+count: 4311
+text: 4311 1781 36 36 d3b53141466c96b46ed35aec3d0fadb1
+cpath: /
+copyroot: 0 /
+
+5g6.y8.t4310-1 modify false true /old/sipXpbx/branches/post-2.6.1
+
+
+1830 1972

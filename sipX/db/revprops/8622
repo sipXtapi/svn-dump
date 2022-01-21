@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-01-25T20:33:23.938405Z
+K 7
+svn:log
+V 164
+XCF-1466 - unmanaged phones with external lines was causing a page error.  Migrate unmanaged phones to generic phones, unmanaged isnt useful and even removed in 3.8
+END

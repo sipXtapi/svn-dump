@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-02-11T23:01:03.589710Z
+K 7
+svn:log
+V 58
+Remove the mutex acquire if we are trying to delete it.
+
+
+
+END

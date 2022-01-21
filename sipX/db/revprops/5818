@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-06T20:55:51.433805Z
+K 7
+svn:log
+V 246
+XCF-859 improve performance of importing lardge sets of data by properly delaying replication
+LazyDaemon now support quiet period - it'll only kick off replication if new replication request was NOT made during last sleepInterval (7s by default)
+
+END

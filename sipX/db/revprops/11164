@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-11T22:57:04.535983Z
+K 7
+svn:log
+V 114
+sipXmediaLib: Moving towards operation without a sound card - remove some unused code from output device drivers.
+
+END

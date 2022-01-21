@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-08T16:38:48.591830Z
+K 7
+svn:log
+V 400
+[XPB-444] Do not treat an unrecognized revision as an error in
+          upgrade.
+
+   This comes up every time we create a new release, so I'm
+   changing the default.  If there is something that needs to be
+   upgraded, then this needs to be modified to deal with it, but if
+   there is no upgrade manipulation to do then we should not have to
+   edit this script just to recognize another number.
+
+
+END

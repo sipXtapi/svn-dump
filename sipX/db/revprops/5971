@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-01-26T22:08:01.826241Z
+K 7
+svn:log
+V 223
+Stop the registrar from hanging by moving a problematic bit of code so that it only runs when HA replication is configured, so at least the non-replicated registrar will function properly.
+Add more code for HA pullUpdates.
+
+END

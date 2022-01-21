@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-04-03T13:05:45.018894Z
+K 7
+svn:log
+V 404
+It looks like some changes post r281 in SipTransaction.cpp has broken DNS SRV.  All of the client transactions are created, however, the client transactions are not using their mSendToAddress and mSendToPort.  This effectively makes main line unusable (except for point to point IP calls).  I narrowed the problem down to some changes in prepareRequestForSend function and reverted only that function.
+
+
+
+END

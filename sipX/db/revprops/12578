@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-11-28T06:57:43.167529Z
+K 7
+svn:log
+V 54
+Fixed compiler format warning in SipPublishContentMgr
+
+END

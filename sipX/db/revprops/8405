@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-12-29T14:45:19.655241Z
+K 7
+svn:log
+V 170
+sipx-validate-xml and sipx-validate-xml.in were both getting put into tarball cause rpm build to not rebuild from template.  same was happening w/config-defs shell script
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-05T23:57:40.912992Z
+K 7
+svn:log
+V 104
+XCF-777 importing CSV files is now executed in the background
+progress is displayed on Job Status pages
+
+END

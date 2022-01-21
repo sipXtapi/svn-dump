@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-02T19:18:00.534431Z
+K 7
+svn:log
+V 344
+XCF-1156 implement timeout paramter for Ring and Answer type of ring for Polycom phones: it's required to properly implement Intercom feature
+add setting timeout and implement tests for PolycomIntercomDefaults
+move getGroupsNames method from SettingDao to BeanWithGroups to simplify the code in Intercom and other pages that use group selector
+
+END

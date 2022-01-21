@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-28T17:58:50.166061Z
+K 7
+svn:log
+V 115
+http://track.sipfoundry.org/browse/XPB-43
+Fix up getLogFilePath.
+Copied from sipXpbx rev 114 on branch post-2.6.1.
+
+END

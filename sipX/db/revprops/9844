@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-16T23:52:25.663876Z
+K 7
+svn:log
+V 168
+Add robustness to MpMMTimerTest unit test, to help with tweaking for timer accuracy.
+(Currently only for Windows, as there is no implementation for other platforms yet)
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-28T04:39:59.092430Z
+K 7
+svn:log
+V 147
+mergefrom user_dworley_redirectors2main 7457
+
+Pass arguments to UrlMapping::loadMappings by reference rather than by copy.
+Improve debug messages.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-10-03T18:22:29.989576Z
+K 7
+svn:log
+V 172
+XCF-693 make sure that name duplication errors are displayed on the page,
+we do not attempt saving user if the name is duplicated, which was the direct cause of this error
+
+END

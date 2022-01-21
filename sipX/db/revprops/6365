@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-03-16T05:45:28.379546Z
+K 7
+svn:log
+V 34
+Set disabled long long on MSVS 6.
+
+END

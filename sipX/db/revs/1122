@@ -1,0 +1,150 @@
+PLAIN
+K 13
+svn:externals
+V 75
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-A/config
+
+K 10
+svn:ignore
+V 187
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxmedialib-*.tar.gz
+sipxmedialib.spec
+stamp-h1
+Debug
+Release
+
+K 17
+svnmerge-2.6-head
+V 56
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 4
+1-54
+K 18
+svnmerge-main-head
+V 48
+https://scm.sipfoundry.org/rep/sipXmediaLib/main
+K 18
+svnmerge-main-revs
+V 4
+1-51
+END
+ENDREP
+id: mz.4o.r1122/555
+type: dir
+pred: mz.4n.r1121/433
+count: 43
+text: 1118 3064 672 672 56ff54ce36e4d2ca81a80f22ba43a6b5
+props: 1122 0 542 0 5d42284f76edd475518ca8e20b00886c
+cpath: /old/sipXmediaLib/tags/2.6-export-A
+copyfrom: 1121 /old/sipXmediaLib/branches/2.6
+
+PLAIN
+K 5
+2.5.1
+V 19
+dir mz.4g.r1077/198
+K 5
+2.5.2
+V 20
+dir mz.4h.r1091/1003
+K 12
+2.6-export-A
+V 19
+dir mz.4o.r1122/555
+K 13
+main-export-B
+V 19
+dir mz.4l.r1119/439
+K 13
+main-export-C
+V 19
+dir mz.4m.r1120/439
+END
+ENDREP
+id: uq.0.r1122/1036
+type: dir
+pred: uq.0.r1120/870
+count: 6
+text: 1122 817 206 206 72d96094b952afcb3bfc797c7a9582db
+cpath: /old/sipXmediaLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir ux.0.r1121/775
+K 4
+main
+V 19
+dir mz.0.r1118/3749
+K 4
+tags
+V 19
+dir uq.0.r1122/1036
+END
+ENDREP
+id: my.0.r1122/1319
+type: dir
+pred: my.0.r1121/1060
+count: 55
+text: 1122 1197 109 109 dfdb4c5b6ea16beb44c8a7768c672816
+cpath: /old/sipXmediaLib
+copyroot: 0 /
+
+PLAIN
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1122/1319
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1122/1621
+type: dir
+pred: 1.0.r1121/1361
+count: 1121
+text: 1122 1478 130 130 83ceac2db43327f94da12665530f25fe
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1122/1621
+END
+ENDREP
+id: 0.0.r1122/1816
+type: dir
+pred: 0.0.r1121/1556
+count: 1122
+text: 1122 1767 36 36 48c9e753283ed4ea741507bf1ed58637
+cpath: /
+copyroot: 0 /
+
+mz._0.t1121-1 add false true /old/sipXmediaLib/tags/2.6-export-A
+1121 /old/sipXmediaLib/branches/2.6
+
+1816 1957

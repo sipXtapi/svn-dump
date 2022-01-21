@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-11-21T11:42:19.556963Z
+K 7
+svn:log
+V 77
+Fix case of file names in VS2003 sipXmediaLib project file. No real changes.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-06T23:52:57.092242Z
+K 7
+svn:log
+V 225
+Fix XCF-548: Adding a blank phone/user group gives a long exception.
+In EditGroup.page, pass through the nameValidator to the ItemCommon component, so that it will validate the name and not allow empty names to sail through.
+
+END

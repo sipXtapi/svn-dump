@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-05-08T18:30:00.136086Z
+K 7
+svn:log
+V 76
+Merge 6773 from sipx-3.4:
+Oops, didn't mean to check in test.log, revert it
+
+END

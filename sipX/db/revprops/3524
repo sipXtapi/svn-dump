@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-02-10T22:35:31.025952Z
+K 7
+svn:log
+V 69
+Formating changes only. To prepare for alias generation refactoring.
+
+END

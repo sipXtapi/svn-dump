@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-10-03T20:04:46.873425Z
+K 7
+svn:log
+V 178
+XCF-683 Added profile URL back to setting file, however this surfaced another issue where phone asks is DHCP is being used then promptly reboots. Seeking more info to solve this.
+END

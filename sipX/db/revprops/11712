@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-04-07T13:49:41.310501Z
+K 7
+svn:log
+V 129
+Use shared pcre lib and split out separate shard libs for Android 2.0-2.2 & 2.3-3.0 audio devices driver differences in mediaLib
+
+END

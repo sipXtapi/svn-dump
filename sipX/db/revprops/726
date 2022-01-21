@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-12-13T22:46:33.562644Z
+K 7
+svn:log
+V 526
+Even with non-proxy based authentication, we should always
+validate the MD5 hash with the Auth header uri parameter.
+The code was using the request URI for registration rquests
+incorrectly assuming the request URI and the Auth header
+uri parameter would always match.
+
+There should be a bug/issue number coming for this.  This
+was found when testing registration with the Sipura gateways.
+Sipura puts the user name in the Auth header uri parameter
+(which is incorrect) and not in the REGISTER request URI
+(which is correct).
+
+
+END

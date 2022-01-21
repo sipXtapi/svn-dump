@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-09-21T17:44:26.762489Z
+K 7
+svn:log
+V 51
+remove extra fwd slash in security policy file path
+END

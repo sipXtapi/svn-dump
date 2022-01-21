@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-27T21:13:11.488847Z
+K 7
+svn:log
+V 162
+http://track.sipfoundry.org/browse/XVX-62
+This fix upgrades the sorting of inbox messages.  For category ==
+'inbox', unheard messages sort before heard messages.
+
+END

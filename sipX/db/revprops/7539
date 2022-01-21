@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-22T03:55:11.352139Z
+K 7
+svn:log
+V 228
+XCF-1234 handle required empty prefixes correctly: sipXconfig now treats empty prefixes as optional internally
+(it's better to do that than to require users to check "opional" checkbox every time thy happen to set empty prefix)
+
+END

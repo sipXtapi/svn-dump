@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-08-21T09:57:53.852256Z
+K 7
+svn:log
+V 180
+Join MpCaptureDeviceBase's get/setFrameWidth() and get/setFrameHeight() into single get/setFrameSize(), as most capture devices support only fixed pairs of frame width and height.
+
+END

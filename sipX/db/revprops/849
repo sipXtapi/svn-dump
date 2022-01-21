@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-03-21T14:37:49.111348Z
+K 7
+svn:log
+V 252
+Add a configure switch to control support for SIP over TLS.
+Change the controlling macro in the code from 'TLS' to 'SIP_TLS' for
+clarity (because TLS gets used in other places whether or not SIP can
+use it).
+
+http://track.sipfoundry.org/browse/XSL-64
+
+
+END

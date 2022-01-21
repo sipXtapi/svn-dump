@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-30T19:20:23.860670Z
+K 7
+svn:log
+V 51
+Remove unneeded (redundant) debug code from Bridge.
+END

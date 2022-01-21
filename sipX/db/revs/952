@@ -1,0 +1,209 @@
+PLAIN
+K 11
+Makefile.am
+V 19
+file kl.0.r792/5658
+K 19
+syslog2siptrace.dsp
+V 20
+file l3.0.r772/70591
+END
+ENDREP
+id: kk.0.r952/110
+type: dir
+pred: kk.0.r891/154350
+count: 15
+text: 952 0 97 97 78bfb63516b896b169f56daa5c7c41c2
+props: 657 2830 75 0 4be78b2a4509c4f806f18d0ba5ad1cf8
+cpath: /old/sipXtackLib/main/syslog2siptrace
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 20
+file dl.0.r772/70283
+K 9
+ChangeLog
+V 21
+file dm.0.r891/128130
+K 7
+INSTALL
+V 21
+file dn.0.r891/155358
+K 7
+LICENSE
+V 21
+file do.0.r891/111455
+K 11
+Makefile.am
+V 21
+file dp.0.r891/156301
+K 4
+NEWS
+V 20
+file dq.0.r772/79111
+K 6
+README
+V 20
+file dr.0.r772/69980
+K 4
+TODO
+V 20
+file ds.0.r772/75936
+K 9
+acsite.m4
+V 20
+file dt.0.r772/28655
+K 14
+ant-targets.am
+V 21
+file du.0.r891/127031
+K 15
+ant-targets.xml
+V 21
+file dv.0.r891/143992
+K 17
+basicimclient.dsp
+V 19
+file le.0.r916/6589
+K 3
+bin
+V 20
+dir l0.0.r891/155979
+K 20
+config.properties.in
+V 20
+file dz.0.r772/75620
+K 12
+configure.ac
+V 19
+file e0.0.r861/3376
+K 3
+doc
+V 18
+dir e1.0.r936/3955
+K 8
+examples
+V 18
+dir lf.0.r917/1087
+K 7
+include
+V 18
+dir e5.0.r949/5291
+K 3
+lib
+V 20
+dir gh.0.r650/115439
+K 4
+meta
+V 20
+dir l6.0.r891/127911
+K 15
+sipXtackLib.dsp
+V 19
+file gj.0.r925/1842
+K 18
+sipXtackLib.vcproj
+V 18
+file ld.0.r906/267
+K 15
+siplog2siptrace
+V 20
+dir gk.0.r891/156923
+K 7
+siptest
+V 18
+dir gn.0.r950/2843
+K 11
+siptest.dsp
+V 18
+file kv.0.r909/714
+K 9
+sipviewer
+V 18
+dir hn.0.r936/7437
+K 19
+sipxtacklib.spec.in
+V 19
+file kw.0.r902/2184
+K 3
+src
+V 18
+dir i8.0.r951/3232
+K 15
+syslog2siptrace
+V 17
+dir kk.0.r952/110
+END
+ENDREP
+id: dk.0.r952/1535
+type: dir
+pred: dk.0.r951/4653
+count: 251
+text: 952 336 1186 1186 0c3de23f4aedaf145e5f422e24e5ec1e
+props: 944 7326 949 0 4a234d0ab4ea80433a21b81587c0df38
+cpath: /old/sipXtackLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir kz.0.r947/6332
+K 4
+main
+V 18
+dir dk.0.r952/1535
+K 4
+tags
+V 18
+dir kr.0.r948/2796
+END
+ENDREP
+id: dj.0.r952/1872
+type: dir
+pred: dj.0.r951/4991
+count: 353
+text: 952 1752 107 107 1e307bb1d9dd58c427e694561143dcf8
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 18
+dir dj.0.r952/1872
+END
+ENDREP
+id: 1.0.r952/2126
+type: dir
+pred: 1.0.r951/5245
+count: 951
+text: 952 2028 85 85 55867f9dc997b949ba5294e47a85cfe9
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r952/2126
+END
+ENDREP
+id: 0.0.r952/2314
+type: dir
+pred: 0.0.r951/5433
+count: 952
+text: 952 2266 35 35 64d75e939dce7078ce7d33a6eecc3d1f
+cpath: /
+copyroot: 0 /
+
+km.0.r891/153954 delete false false /old/sipXtackLib/main/syslog2siptrace/main.cpp
+
+
+2314 2451

@@ -1,0 +1,229 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1vr.0.r2088/108
+type: file
+pred: 1vr.0.r2078/903
+count: 1
+text: 2078 0 847 1401 49e4cdc628d138593da003627e7d0c73
+props: 2088 0 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /old/sipXcommserverLib/main/meta/regdisplay
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 1vf.0.r1967/23464
+K 13
+authrules.xsd
+V 20
+file 1vg.0.r1970/677
+K 10
+regdisplay
+V 20
+file 1vr.0.r2088/108
+K 13
+setsipxpasswd
+V 20
+file 1v4.0.r2080/122
+K 38
+sipx_main_fc2_bldno.configure-switches
+V 21
+file 1vl.0.r1994/1543
+K 38
+sipx_main_fc3_bldno.configure-switches
+V 21
+file 1vm.0.r1994/1869
+K 39
+sipx_main_rhe3_bldno.configure-switches
+V 21
+file 1vn.0.r1994/2195
+K 10
+urlmap.xsd
+V 20
+file 1vh.0.r1970/919
+END
+ENDREP
+id: 1v3.0.r2088/793
+type: dir
+pred: 1v3.0.r2080/813
+count: 10
+text: 2088 343 437 437 1fc61786ae403fc640cd234bdc4d8fe7
+props: 1972 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXcommserverLib/main/meta
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1qp.0.r1967/49607
+K 9
+ChangeLog
+V 20
+file 1qq.0.r1984/410
+K 7
+INSTALL
+V 21
+file 1qr.0.r2058/2054
+K 7
+LICENSE
+V 19
+file 1qs.0.r1967/82
+K 11
+Makefile.am
+V 20
+file 1qt.0.r2012/127
+K 4
+NEWS
+V 22
+file 1qu.0.r1967/60154
+K 6
+README
+V 22
+file 1qv.0.r1967/49287
+K 4
+TODO
+V 22
+file 1qw.0.r1967/53785
+K 9
+acsite.m4
+V 22
+file 1qx.0.r1967/24543
+K 3
+bin
+V 20
+dir 1qy.0.r2087/1577
+K 12
+configure.ac
+V 21
+file 1r5.0.r2047/4753
+K 3
+doc
+V 19
+dir 1uv.0.r2086/338
+K 3
+etc
+V 19
+dir 1r6.0.r2081/394
+K 7
+include
+V 20
+dir 1rc.0.r2065/7083
+K 4
+meta
+V 19
+dir 1v3.0.r2088/793
+K 21
+sipXcommserverLib.dsp
+V 20
+file 1us.0.r2046/732
+K 13
+sipdbtest.dsp
+V 20
+file 1ut.0.r2046/491
+K 25
+sipxcommserverlib.spec.in
+V 20
+file 1v2.0.r2083/843
+K 3
+src
+V 20
+dir 1t1.0.r2077/1271
+END
+ENDREP
+id: 1qo.0.r2088/1801
+type: dir
+pred: 1qo.0.r2087/2589
+count: 182
+text: 2088 1018 770 770 6e722944aecf5260ebf16841e043c9f8
+props: 2067 2321 939 0 5c079a3ef8e487baeaa0e440afea7b1b
+cpath: /old/sipXcommserverLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1v5.0.r2084/2427
+K 4
+main
+V 20
+dir 1qo.0.r2088/1801
+K 4
+tags
+V 20
+dir 1uu.0.r2085/2710
+END
+ENDREP
+id: 1qn.0.r2088/2155
+type: dir
+pred: 1qn.0.r2087/2943
+count: 291
+text: 2088 2029 113 113 d6938cad92b7a0162900146f83d860b9
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2088/2155
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2088/2556
+type: dir
+pred: 1.0.r2087/3344
+count: 2087
+text: 2088 2322 221 221 3c18698d031c574e8d81f8d79c6540cf
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2088/2556
+END
+ENDREP
+id: 0.0.r2088/2751
+type: dir
+pred: 0.0.r2087/3539
+count: 2088
+text: 2088 2702 36 36 33ec198bd51b4b59ce0471583fbd422a
+cpath: /
+copyroot: 0 /
+
+1vr.0.t2087-1 modify false true /old/sipXcommserverLib/main/meta/regdisplay
+
+
+2751 2892

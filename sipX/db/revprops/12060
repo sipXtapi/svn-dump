@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2013-02-22T16:09:23.733598Z
+K 7
+svn:log
+V 187
+Added SDP media line unit tests for same codec payload ID used in multiple medial lines.
+There is one regression/fix where we no longer aggregate audio codecs from multiple media lines.
+
+
+END

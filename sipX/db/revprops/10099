@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-09-13T15:43:56.800930Z
+K 7
+svn:log
+V 122
+Parameterized output driver test for output frequency signal generated
+and the sample rate the driver and manager run at.
+
+END

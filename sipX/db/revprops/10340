@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-11-04T04:48:34.896559Z
+K 7
+svn:log
+V 137
+Add G722 plugin project for VC6.
+NOT FULLY TESTED -- spandsp project was unable to be compiled at the moment,
+but this is a good start.
+
+
+END

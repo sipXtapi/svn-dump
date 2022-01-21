@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-29T13:38:37.126941Z
+K 7
+svn:log
+V 151
+fixes to Swiss dialplan template based on feedback from Michal:
+- 9 should be PSTN prefix for international calls
+- PSTN prefix should not be optional
+
+END

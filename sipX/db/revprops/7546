@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-22T18:31:27.163653Z
+K 7
+svn:log
+V 277
+XCF-1240 properly compute translated pattern to be inserted in authorization rules - even if regex characters are in the dial pattern, according to current definition {vdigits} is understood as "The suffix of the dial string that starts with the first variable digit matched."
+
+END

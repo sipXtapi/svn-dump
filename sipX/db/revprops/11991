@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-10-29T11:11:09.748180Z
+K 7
+svn:log
+V 304
+Release sipXtapi conference data lock before calling callManager methods that may block significantly.
+This was causing some deadlock and prolonged unnessary locking of the conf object that was stopping call processing.
+It also caused some timeouts on callManager methods e.g. assert in sipXcallConnect.
+
+END

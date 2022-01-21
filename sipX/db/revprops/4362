@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-16T20:22:30.116849Z
+K 7
+svn:log
+V 104
+Allow RPM builds in any directory.
+Correct ANT_HOME.
+Correct build instructions for Makefile.developer.
+
+END

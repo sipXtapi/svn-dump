@@ -1,0 +1,80 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-05-02T20:24:33.144897Z
+K 7
+svn:log
+V 2947
+Merged revisions 499-530 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXpbx/branches/user_pin
+    ------------------------------------------------------------------------
+    r500 | dhsu | 2005-04-06 16:13:39 -0400 (Wed, 06 Apr 2005) | 5 lines
+    Changed paths:
+       M /branches/user_pin/src/mailboxmgr/MailboxManager.cpp
+    
+    Check in the change for using getUserPin() API.
+    
+    http://track.sipfoundry.org/browse/XPB-252
+    
+    
+    ------------------------------------------------------------------------
+    r523 | dhsu | 2005-04-27 18:03:41 -0400 (Wed, 27 Apr 2005) | 3 lines
+    Changed paths:
+       M /branches/user_pin/etc/voicemail.xml.in.in
+       M /branches/user_pin/src/mailboxmgr/AutoAttendantCGI.cpp
+       M /branches/user_pin/src/mailboxmgr/ChangePinCGI.cpp
+       M /branches/user_pin/src/mailboxmgr/MailboxManager.cpp
+       M /branches/user_pin/src/mailboxmgr/MailboxManager.h
+       M /branches/user_pin/src/mediaservercgi/main.cpp
+       M /branches/user_pin/src/wwwcontent/Makefile.am
+       A /branches/user_pin/src/wwwcontent/stdprompts/autoattendant.wav
+       A /branches/user_pin/src/wwwcontent/stdprompts/enter_pin.wav
+       A /branches/user_pin/src/wwwcontent/stdprompts/pin_not_changed.wav
+       M /branches/user_pin/src/wwwcontent/vm_vxml/changepin.vxml
+    
+    Use a soap message to send the changing pin request to the config server.
+    
+    
+    ------------------------------------------------------------------------
+    r524 | dhsu | 2005-04-28 15:16:41 -0400 (Thu, 28 Apr 2005) | 5 lines
+    Changed paths:
+       M /branches/user_pin/src/wwwcontent/Makefile.am
+       A /branches/user_pin/src/wwwcontent/stdprompts/thousand.wav
+    
+    Added the prompt "thousand.wav" to support the natural number pronounciation.
+    
+    http://track.sipfoundry.org/browse/XVX-138
+    
+    
+    ------------------------------------------------------------------------
+    r528 | dhsu | 2005-05-02 14:56:10 -0400 (Mon, 02 May 2005) | 3 lines
+    Changed paths:
+       M /branches/user_pin/src/wwwcontent/Makefile.am
+       A /branches/user_pin/src/wwwcontent/aa_vxml/autoattendant-operator.vxml
+    
+    Use autoattendant-operator.vxml as the default AA menu from now on.
+    
+    
+    ------------------------------------------------------------------------
+    r529 | dhsu | 2005-05-02 14:57:38 -0400 (Mon, 02 May 2005) | 3 lines
+    Changed paths:
+       M /branches/user_pin/src/mailboxmgr/MailboxManager.cpp
+    
+    Use UtlString for those constants instead of static char.
+    
+    
+    ------------------------------------------------------------------------
+    r530 | dhsu | 2005-05-02 15:23:38 -0400 (Mon, 02 May 2005) | 3 lines
+    Changed paths:
+       M /branches/user_pin/src/mailboxmgr/AutoAttendantCGI.cpp
+       M /branches/user_pin/src/wwwcontent/aa_vxml/autoattendant-operator.vxml
+    
+    We are going to only look for the AA prompts from aa_promptsalias directory.
+    
+    
+
+END

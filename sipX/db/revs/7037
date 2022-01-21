@@ -1,0 +1,993 @@
+PLAIN
+K 20
+HostAdapterAddress.h
+V 23
+file bdh.3ke.r6911/5669
+K 10
+OsAssert.h
+V 24
+file bdj.0.r6711/4362365
+K 8
+OsBSem.h
+V 23
+file bdk.3ke.r6900/6807
+K 8
+OsCSem.h
+V 23
+file bdl.3ke.r6900/7109
+K 12
+OsCallback.h
+V 24
+file bdm.0.r6711/4353920
+K 12
+OsConfigDb.h
+V 24
+file bdn.0.r6711/4372093
+K 20
+OsConfigEncryption.h
+V 24
+file bdo.0.r6711/4393297
+K 20
+OsConnectionSocket.h
+V 24
+file bdp.0.r6711/4391885
+K 18
+OsDatagramSocket.h
+V 24
+file bdq.0.r6711/4360598
+K 12
+OsDateTime.h
+V 26
+file bdr.3ke.r7025/1081952
+K 8
+OsDefs.h
+V 24
+file bds.0.r6711/4394350
+K 11
+OsDirBase.h
+V 24
+file bdt.0.r6711/4376647
+K 14
+OsEncryption.h
+V 24
+file bdu.0.r6711/4389082
+K 9
+OsEvent.h
+V 24
+file bdv.0.r6711/4394003
+K 12
+OsEventMsg.h
+V 24
+file bdw.0.r6711/4353204
+K 10
+OsExcept.h
+V 24
+file bdx.0.r6711/4360250
+K 6
+OsFS.h
+V 24
+file bdy.0.r6711/4356026
+K 12
+OsFileBase.h
+V 24
+file bdz.0.r6711/4356717
+K 16
+OsFileInfoBase.h
+V 24
+file be0.0.r6711/4374196
+K 20
+OsFileIteratorBase.h
+V 24
+file be1.0.r6711/4358135
+K 14
+OsFileSystem.h
+V 24
+file be2.0.r6711/4386981
+K 8
+OsLock.h
+V 23
+file be3.3ke.r6900/7414
+K 15
+OsLockingList.h
+V 24
+file be4.0.r6711/4394695
+K 7
+OsMsg.h
+V 24
+file be5.0.r6711/4374549
+K 11
+OsMsgPool.h
+V 24
+file be6.0.r6711/4393654
+K 8
+OsMsgQ.h
+V 26
+file be7.3ke.r7025/1082582
+K 19
+OsMulticastSocket.h
+V 24
+file be8.0.r6711/4357413
+K 9
+OsMutex.h
+V 23
+file be9.3ke.r6900/6193
+K 10
+OsNameDb.h
+V 24
+file bea.0.r6711/4374894
+K 16
+OsNatAgentTask.h
+V 26
+file beb.3ke.r7025/1079938
+K 21
+OsNatDatagramSocket.h
+V 26
+file bec.3ke.r7025/1080571
+K 16
+OsNotification.h
+V 24
+file bed.0.r6711/4358847
+K 12
+OsPathBase.h
+V 26
+file bee.3ke.r7025/1080257
+K 11
+OsProcess.h
+V 24
+file bef.0.r6711/4377345
+K 19
+OsProcessIterator.h
+V 24
+file beg.0.r6711/4388028
+K 14
+OsProcessMgr.h
+V 24
+file beh.0.r6711/4395396
+K 16
+OsProtectEvent.h
+V 24
+file bei.0.r6711/4386280
+K 19
+OsProtectEventMgr.h
+V 24
+file bej.0.r6711/4352847
+K 10
+OsPtrMsg.h
+V 26
+file bek.3ke.r7025/1082892
+K 15
+OsQueuedEvent.h
+V 24
+file bel.0.r6711/4360954
+K 11
+OsRWMutex.h
+V 24
+file bem.0.r6711/4376996
+K 12
+OsReadLock.h
+V 24
+file ben.0.r6711/4395047
+K 10
+OsRpcMsg.h
+V 24
+file beo.0.r6711/4375603
+K 7
+OsSSL.h
+V 24
+file bep.0.r6711/4376302
+K 23
+OsSSLConnectionSocket.h
+V 24
+file beq.0.r6711/4375242
+K 19
+OsSSLServerSocket.h
+V 24
+file ber.0.r6711/4354619
+K 16
+OsServerSocket.h
+V 24
+file bes.0.r6711/4372792
+K 14
+OsServerTask.h
+V 24
+file bet.0.r6711/4388730
+K 16
+OsSharedLibMgr.h
+V 24
+file beu.0.r6711/4355323
+K 10
+OsSocket.h
+V 26
+file bev.3ke.r7025/1079625
+K 10
+OsStatus.h
+V 24
+file bew.0.r6711/4386633
+K 12
+OsSyncBase.h
+V 23
+file bex.3ke.r6900/6499
+K 10
+OsSysLog.h
+V 26
+file bey.3ke.r7025/1083203
+K 20
+OsSysLogFacilities.h
+V 24
+file bez.0.r6711/4392590
+K 13
+OsSysLogMsg.h
+V 24
+file bf0.0.r6711/4359549
+K 14
+OsSysLogTask.h
+V 26
+file bf1.3ke.r7025/1082266
+K 12
+OsSysTimer.h
+V 24
+file bf2.0.r6711/4372443
+K 7
+OsTLS.h
+V 24
+file bf3.0.r6711/4390492
+K 29
+OsTLSClientConnectionSocket.h
+V 24
+file bf4.0.r6711/4353554
+K 23
+OsTLSConnectionSocket.h
+V 24
+file bf5.0.r6711/4389434
+K 29
+OsTLSServerConnectionSocket.h
+V 24
+file bf6.0.r6711/4357769
+K 19
+OsTLSServerSocket.h
+V 24
+file bf7.0.r6711/4362712
+K 8
+OsTask.h
+V 24
+file bf8.0.r6711/4390145
+K 8
+OsTime.h
+V 24
+file bf9.0.r6711/4362019
+K 11
+OsTimeLog.h
+V 24
+file bfa.0.r6711/4354270
+K 9
+OsTimer.h
+V 26
+file bfb.3ke.r7025/1080895
+K 11
+OsTimerDb.h
+V 24
+file bfc.0.r6711/4359200
+K 12
+OsTimerMsg.h
+V 24
+file bfd.0.r6711/4387679
+K 13
+OsTimerTask.h
+V 24
+file bfe.0.r6711/4363069
+K 13
+OsTokenizer.h
+V 24
+file bff.0.r6711/4371743
+K 8
+OsUtil.h
+V 24
+file bfg.0.r6711/4357067
+K 13
+OsWriteLock.h
+V 24
+file bfh.0.r6711/4391189
+K 13
+StunMessage.h
+V 24
+file bfi.0.r6711/4361667
+K 11
+StunUtils.h
+V 24
+file bfj.0.r6711/4356369
+K 13
+TurnMessage.h
+V 24
+file bfk.0.r6711/4375951
+K 7
+fstream
+V 25
+file bfl.0.r6469/21518942
+K 8
+iostream
+V 25
+file bfm.0.r6469/21496584
+K 7
+istream
+V 25
+file bfn.0.r6469/21507384
+K 5
+linux
+V 23
+dir bfo.0.r6711/4371461
+K 7
+ostream
+V 25
+file bg8.0.r6469/21508310
+K 9
+qsTypes.h
+V 24
+file bg9.0.r6711/4363420
+K 6
+shared
+V 25
+dir bga.3ke.r7025/1081704
+K 3
+wnt
+V 23
+dir bge.0.r6711/4386000
+END
+ENDREP
+id: bdg.3ke.r7037/4058
+type: dir
+pred: bdg.3ke.r7025/1087618
+count: 5
+text: 7037 0 4045 4045 b7b8faa1ae532ca5b537734f97326c1d
+cpath: /branches/sipXtapi-media-update/sipXportLib/include/os
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+K 11
+Makefile.am
+V 25
+file bdf.0.r6469/21532846
+K 2
+os
+V 22
+dir bdg.3ke.r7037/4058
+K 3
+utl
+V 25
+dir bgw.3ke.r7025/1091619
+K 9
+xmlparser
+V 23
+dir bhs.0.r6711/4413807
+END
+ENDREP
+id: bde.3ke.r7037/4476
+type: dir
+pred: bde.3ke.r7025/1092174
+count: 5
+text: 7037 4294 169 169 5370865a6838bbfd715287267e0cc3cb
+props: 7025 1092048 113 0 c56892d1f909c394e3349667b1dfa922
+cpath: /branches/sipXtapi-media-update/sipXportLib/include
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 25
+file bcg.0.r6469/21591964
+K 9
+ChangeLog
+V 25
+file bch.0.r6469/21535752
+K 7
+INSTALL
+V 25
+file bci.0.r6469/21598099
+K 11
+Makefile.am
+V 25
+file bcj.0.r6469/21599591
+K 4
+NEWS
+V 25
+file bck.0.r6469/21599943
+K 6
+README
+V 25
+file bcl.0.r6469/21591797
+K 4
+TODO
+V 25
+file bcm.0.r6469/21597743
+K 9
+acsite.m4
+V 25
+file bcn.0.r6469/21535585
+K 3
+bin
+V 24
+dir bco.0.r6469/21599429
+K 12
+configure.ac
+V 24
+file bd3.0.r6711/4505206
+K 3
+doc
+V 24
+dir bd4.0.r6469/21595508
+K 7
+include
+V 22
+dir bde.3ke.r7037/4476
+K 4
+meta
+V 24
+dir bhw.0.r6469/21535422
+K 18
+sipXportLib.vcproj
+V 26
+file bi1.3ke.r7025/1079376
+K 19
+sipXportLibTest.sln
+V 25
+file bi2.0.r6469/21599763
+K 22
+sipXportLibTest.vcproj
+V 25
+file bi3.0.r6469/21495638
+K 29
+sipXportLib_NoSecurity.vcproj
+V 26
+file bi4.3ke.r7025/1102599
+K 19
+sipxportlib.spec.in
+V 25
+file bi5.0.r6469/21600103
+K 3
+src
+V 22
+dir bi6.3ke.r7036/1352
+K 12
+syslogviewer
+V 23
+dir bom.0.r6711/4504928
+END
+ENDREP
+id: bcf.3ke.r7037/5718
+type: dir
+pred: bcf.3ke.r7036/2531
+count: 12
+text: 7037 4769 936 936 095588ad543bbd292cf347513479f588
+props: 6718 0 110 0 d239bb82cadefea8ebc85ad6b3eed562
+cpath: /branches/sipXtapi-media-update/sipXportLib
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+K 15
+PToverview.html
+V 25
+file au4.0.r6469/21629328
+K 22
+PtAddessCapabilities.h
+V 24
+file au5.0.r6711/4556900
+K 11
+PtAddress.h
+V 24
+file au6.0.r6711/4538901
+K 16
+PtAddressEvent.h
+V 24
+file au7.0.r6711/4540337
+K 21
+PtAddressForwarding.h
+V 24
+file au8.0.r6711/4555829
+K 19
+PtAddressListener.h
+V 24
+file au9.0.r6711/4551151
+K 14
+PtAudioCodec.h
+V 24
+file aua.0.r6711/4552222
+K 8
+PtCall.h
+V 24
+file aub.0.r6711/4556191
+K 20
+PtCallCapabilities.h
+V 24
+file auc.0.r6711/4539254
+K 13
+PtCallEvent.h
+V 24
+file aud.0.r6711/4557262
+K 16
+PtCallListener.h
+V 24
+file aue.0.r6711/4548989
+K 13
+PtComponent.h
+V 24
+file auf.0.r6711/4554035
+K 18
+PtComponentGroup.h
+V 24
+file aug.0.r6711/4557616
+K 30
+PtComponentGroupCapabilities.h
+V 24
+file auh.0.r6711/4541414
+K 27
+PtComponentIntChangeEvent.h
+V 24
+file aui.0.r6711/4550065
+K 30
+PtComponentStringChangeEvent.h
+V 24
+file auj.0.r6711/4553294
+K 12
+PtConfigDb.h
+V 24
+file auk.0.r6711/4546870
+K 14
+PtConnection.h
+V 24
+file aul.0.r6711/4543955
+K 26
+PtConnectionCapabilities.h
+V 24
+file aum.0.r6711/4546504
+K 19
+PtConnectionEvent.h
+V 24
+file aun.0.r6711/4544678
+K 22
+PtConnectionListener.h
+V 24
+file auo.0.r6711/4555106
+K 8
+PtDefs.h
+V 24
+file aup.0.r6711/4548641
+K 9
+PtEvent.h
+V 24
+file auq.0.r6711/4548290
+K 17
+PtEventListener.h
+V 24
+file aur.0.r6711/4539979
+K 13
+PtEventMask.h
+V 24
+file aus.0.r6711/4551868
+K 20
+PtGatewayInterface.h
+V 24
+file aut.0.r6711/4549347
+K 21
+PtMediaCapabilities.h
+V 24
+file auu.0.r6711/4541052
+K 13
+PtMetaEvent.h
+V 24
+file auv.0.r6711/4550797
+K 18
+PtMultiCallEvent.h
+V 24
+file auw.0.r6711/4540693
+K 22
+PtMultiCallMetaEvent.h
+V 24
+file aux.0.r6711/4543592
+K 15
+PtPhoneButton.h
+V 24
+file auy.0.r6711/4554750
+K 16
+PtPhoneDisplay.h
+V 24
+file auz.0.r6711/4552577
+K 19
+PtPhoneExtSpeaker.h
+V 24
+file av0.0.r6711/4555470
+K 23
+PtPhoneGraphicDisplay.h
+V 24
+file av1.0.r6711/4542502
+K 19
+PtPhoneHookswitch.h
+V 24
+file av2.0.r6711/4556541
+K 13
+PtPhoneLamp.h
+V 24
+file av3.0.r6711/4558691
+K 19
+PtPhoneMicrophone.h
+V 24
+file av4.0.r6711/4542865
+K 15
+PtPhoneRinger.h
+V 24
+file av5.0.r6711/4547934
+K 16
+PtPhoneSpeaker.h
+V 24
+file av6.0.r6711/4549709
+K 17
+PtPhoneTerminal.h
+V 24
+file av7.0.r6711/4545772
+K 20
+PtPhoneTextDisplay.h
+V 24
+file av8.0.r6711/4554389
+K 12
+PtProvider.h
+V 24
+file av9.0.r6711/4541784
+K 24
+PtProviderCapabilities.h
+V 24
+file ava.0.r6711/4545037
+K 17
+PtProviderEvent.h
+V 24
+file avb.0.r6711/4551511
+K 20
+PtProviderListener.h
+V 24
+file avc.0.r6711/4552933
+K 15
+PtSessionDesc.h
+V 24
+file avd.0.r6711/4558336
+K 23
+PtSingleCallMetaEvent.h
+V 24
+file ave.0.r6711/4539615
+K 12
+PtTerminal.h
+V 24
+file avf.0.r6711/4547223
+K 24
+PtTerminalCapabilities.h
+V 24
+file avg.0.r6711/4550432
+K 26
+PtTerminalComponentEvent.h
+V 24
+file avh.0.r6711/4544311
+K 29
+PtTerminalComponentListener.h
+V 24
+file avi.0.r6711/4545401
+K 22
+PtTerminalConnection.h
+V 24
+file avj.0.r6711/4542138
+K 34
+PtTerminalConnectionCapabilities.h
+V 24
+file avk.0.r6711/4546130
+K 27
+PtTerminalConnectionEvent.h
+V 24
+file avl.0.r6711/4543224
+K 30
+PtTerminalConnectionListener.h
+V 24
+file avm.0.r6711/4553664
+K 17
+PtTerminalEvent.h
+V 24
+file avn.0.r6711/4547577
+K 20
+PtTerminalListener.h
+V 24
+file avo.0.r6711/4557975
+END
+ENDREP
+id: au2.3ke.r7037/9133
+type: dir
+pred: au2.0.r6711/4562145
+count: 2
+text: 7037 5995 3125 3125 98b4e115178aa04f46e0c0dbbad72e4f
+cpath: /branches/sipXtapi-media-update/sipXcallLib/include/ptapi
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+K 11
+Makefile.am
+V 25
+file asp.0.r6469/21623099
+K 2
+cp
+V 22
+dir asq.3ke.r7036/4036
+K 2
+ps
+V 23
+dir at8.0.r6711/4527321
+K 5
+ptapi
+V 22
+dir au2.3ke.r7037/9133
+K 3
+tao
+V 23
+dir avp.0.r6711/4538622
+K 4
+tapi
+V 25
+dir awh.3ke.r7025/1109188
+K 4
+test
+V 23
+dir awq.0.r6711/4508609
+END
+ENDREP
+id: aso.3ke.r7037/9662
+type: dir
+pred: aso.3ke.r7036/4563
+count: 7
+text: 7037 9373 276 276 4131d23a60156807e70b7b395b3ef28d
+cpath: /branches/sipXtapi-media-update/sipXcallLib/include
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 25
+file 9wu.0.r6469/21689575
+K 9
+ChangeLog
+V 25
+file 9wv.0.r6469/21643511
+K 7
+INSTALL
+V 25
+file 9ww.0.r6469/21714722
+K 11
+Makefile.am
+V 25
+file 9wx.0.r6469/21715466
+K 4
+NEWS
+V 25
+file 9wy.0.r6469/21715635
+K 6
+README
+V 25
+file 9wz.0.r6469/21689416
+K 4
+TODO
+V 25
+file 9x0.0.r6469/21714560
+K 9
+acsite.m4
+V 25
+file 9x1.0.r6469/21643347
+K 3
+bin
+V 24
+dir 9x2.0.r6469/21715124
+K 12
+configure.ac
+V 24
+file 9xd.0.r6711/4638639
+K 3
+doc
+V 24
+dir 9xe.0.r6469/21712349
+K 8
+examples
+V 22
+dir 9zh.3ke.r7028/2631
+K 7
+include
+V 22
+dir aso.3ke.r7037/9662
+K 4
+meta
+V 24
+dir aww.0.r6469/21643184
+K 10
+resource.h
+V 24
+file ax6.0.r6711/4638971
+K 18
+sipXcallLib.vcproj
+V 26
+file ax7.3ke.r7025/1128963
+K 8
+sipXtapi
+V 25
+dir ax8.3ke.r7025/1128225
+K 12
+sipXtapi.def
+V 26
+file axe.3ke.r7025/1126355
+K 11
+sipXtapi.rc
+V 21
+file axf.3ke.r7030/97
+K 12
+sipXtapi.sln
+V 26
+file axg.3ke.r7025/1126112
+K 15
+sipXtapi.vcproj
+V 26
+file axh.3ke.r7025/1128463
+K 19
+sipXtapiTest.vcproj
+V 26
+file axi.3ke.r7025/1128710
+K 19
+sipxcalllib.spec.in
+V 25
+file axj.0.r6469/21692045
+K 3
+src
+V 25
+dir axk.3ke.r7025/1125879
+END
+ENDREP
+id: 9wt.3ke.r7037/11001
+type: dir
+pred: 9wt.3ke.r7036/5905
+count: 15
+text: 7037 9893 1095 1095 5c4278e57ccc2a67a6d1b50b21372a9c
+props: 6718 393 110 0 d239bb82cadefea8ebc85ad6b3eed562
+cpath: /branches/sipXtapi-media-update/sipXcallLib
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+K 6
+config
+V 24
+dir 9wj.0.r6469/21603218
+K 10
+readme.txt
+V 25
+file 9ws.0.r6469/22059939
+K 11
+sipXcallLib
+V 23
+dir 9wt.3ke.r7037/11001
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.3ke.r7036/11101
+K 12
+sipXmediaLib
+V 22
+dir b40.3ke.r7036/8214
+K 11
+sipXportLib
+V 22
+dir bcf.3ke.r7037/5718
+K 11
+sipXtackLib
+V 23
+dir boq.3ke.r7036/15914
+END
+ENDREP
+id: 9wi.3ke.r7037/11625
+type: dir
+pred: 9wi.3ke.r7036/16541
+count: 37
+text: 7037 11283 329 329 3a77cdcc54ca1af69e8f32632912fd8b
+props: 7030 2069 90 0 b49455719aa6e9d5cbdb7dad29818b7b
+cpath: /branches/sipXtapi-media-update
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r6684/6307
+K 3
+3.4
+V 22
+dir 7q4.3ib.r7035/1101
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r6919/2247
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 21
+dir 9wi.0.r6974/28863
+K 21
+sipXtapi-media-update
+V 23
+dir 9wi.3ke.r7037/11625
+K 12
+solaris_port
+V 22
+dir 7q4.39l.r6816/2732
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r7037/12607
+type: dir
+pred: 7pt.0.r7036/17522
+count: 714
+text: 7037 11895 699 699 7a03940ca21db38566d554a97bfefa5e
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r7037/12607
+K 4
+main
+V 20
+dir 7q4.0.r7034/3390
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r7037/12892
+type: dir
+pred: 0.0.r7036/17806
+count: 7037
+text: 7037 12764 115 115 80c010414b5e215cbe87852198f6d312
+cpath: /
+copyroot: 0 /
+
+bdi.0.r6469/21499383 delete false false /branches/sipXtapi-media-update/sipXportLib/include/os/Makefile
+
+au3.0.r6469/21629146 delete false false /branches/sipXtapi-media-update/sipXcallLib/include/ptapi/Makefile
+
+
+12892 13038

@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-07-15T14:26:14.982509Z
+K 7
+svn:log
+V 251
+Fix automake to correctly incorporate etc and etc/cert
+Reorder them so they come up last in the install
+Fix make dist problem with mediaserver/userui
+  (putting a directory in the DIST list tries to do things
+   with subversion files that don't work)
+
+END

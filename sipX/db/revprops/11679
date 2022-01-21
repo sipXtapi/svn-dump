@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-11-30T05:22:19.672353Z
+K 7
+svn:log
+V 60
+Return status if line credentials are really removed or not
+
+END

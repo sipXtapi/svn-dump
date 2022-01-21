@@ -1,0 +1,31 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-20T16:34:27.238664Z
+K 7
+svn:log
+V 732
+Merged revisions 8065 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+
+........
+  r8065 | dworley | 2006-11-22 01:09:33 +0300 | 15 lines
+  
+  mergefrom pingtel-3.6 7543
+  Fix race condition in OsTimer:
+  If the application side of OsTimer::stop() has executed on a periodic
+  timer before it fires, but the resulting message to OsTimerTask is
+  processed after it fires, assert(current) fails in
+  OsTimerTask::removeTimer().
+  Also, improve the documentation of OsTimerTask::fireTimer(), add a
+  (messy) test to show this race condition has been fixed, remove all
+  uses of OsTimer::mDeleting when NDEBUG is #define'd (except
+  initializing it when the OsTimer is allocated).
+  This fixes XPB-630.
+........
+
+END

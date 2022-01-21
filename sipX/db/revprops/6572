@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-04-13T00:09:14.953121Z
+K 7
+svn:log
+V 262
+Fix XPB-557: Call Resolver (CDR): if the daily run start time is set after 4 AM, then CDRs will be missing.
+Remove the ability to configure the time window for call resolver nightly runs, it's too confusing without the ability to control when the resolver runs.
+
+END

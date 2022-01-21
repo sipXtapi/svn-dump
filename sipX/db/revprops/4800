@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-04-29T12:49:47.017554Z
+K 7
+svn:log
+V 156
+Added a quick/simple MFC application that can be used to
+preconfigure sipXphone for a calling service.  This serves
+more as an example.  Work in progress.
+
+
+END

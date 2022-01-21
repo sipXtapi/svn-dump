@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-02-07T23:34:49.160409Z
+K 7
+svn:log
+V 45
+revert r8715 by dworley: it breaks RPM build
+
+END

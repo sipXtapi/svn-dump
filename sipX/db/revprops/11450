@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-09-19T13:36:24.249414Z
+K 7
+svn:log
+V 293
+sipXmediaLib: Quick fix for MprFromFile.
+MprFromFile should signel to upper levels when it rejects a command. But for now we just add a quick fix for sipX play file function to work when play file stop was not called. Previously they were not able to play new file and where failing silently.
+
+END

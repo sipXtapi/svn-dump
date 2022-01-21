@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-10-21T22:49:04.495610Z
+K 7
+svn:log
+V 166
+FIX: listener parameters that are used by direct link componets have to be declared as auto
+otherwise they become invalid (null) when component disappears from cache
+
+END

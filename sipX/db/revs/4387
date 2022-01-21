@@ -1,0 +1,211 @@
+PLAIN
+K 13
+svn:externals
+V 68
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6.1/config
+
+K 10
+svn:ignore
+V 156
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+sipxpbx-*.tar.gz
+sipxpbx.spec
+
+K 17
+svnmerge-2.6-head
+V 51
+https://scm.sipfoundry.org/rep/sipXpbx/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 5
+1-293
+K 18
+svnmerge-main-head
+V 43
+https://scm.sipfoundry.org/rep/sipXpbx/main
+K 18
+svnmerge-main-revs
+V 5
+1-265
+K 24
+svnmerge-post-2.6.1-head
+V 58
+https://scm.sipfoundry.org/rep/sipXpbx/branches/post-2.6.1
+K 24
+svnmerge-post-2.6.1-revs
+V 13
+1-111,220-221
+END
+ENDREP
+id: 5g6.z3.r4387/652
+type: dir
+pred: 5g6.yq.r4386/2633
+count: 242
+text: 4386 1943 677 677 d890af45b4f21699b868db04345e778c
+props: 4387 0 639 0 85fbd9f9d1e92de0472e9ffd703d3519
+cpath: /old/sipXpbx/tags/2.6.1
+copyfrom: 4386 /old/sipXpbx/branches/2.6
+
+PLAIN
+K 5
+2.5.1
+V 22
+dir 5g6.y3.r4102/11489
+K 5
+2.5.2
+V 21
+dir 5g6.y5.r4134/2397
+K 12
+2.6-export-A
+V 20
+dir 5g6.yr.r4360/659
+K 12
+2.6-export-B
+V 20
+dir 5g6.yt.r4367/659
+K 12
+2.6-export-C
+V 20
+dir 5g6.yz.r4378/659
+K 12
+2.6-export-D
+V 20
+dir 5g6.z0.r4380/659
+K 12
+2.6-export-E
+V 20
+dir 5g6.z1.r4382/659
+K 12
+2.6-export-F
+V 20
+dir 5g6.z2.r4384/659
+K 5
+2.6.1
+V 20
+dir 5g6.z3.r4387/652
+K 13
+main-export-B
+V 20
+dir 5g6.yl.r4323/547
+K 13
+main-export-C
+V 20
+dir 5g6.yp.r4354/547
+END
+ENDREP
+id: 5kn.0.r4387/1383
+type: dir
+pred: 5kn.0.r4384/1359
+count: 15
+text: 4387 901 469 469 61008d98400f632f90b44c9654ab8dcf
+cpath: /old/sipXpbx/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 6o1.0.r4386/2937
+K 4
+main
+V 20
+dir 5g6.0.r4381/1199
+K 4
+tags
+V 20
+dir 5kn.0.r4387/1383
+END
+ENDREP
+id: 5g5.0.r4387/1669
+type: dir
+pred: 5g5.0.r4386/3226
+count: 294
+text: 4387 1543 113 113 8933741cedf5243b84444d749f777cbf
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4387/1669
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4387/2309
+type: dir
+pred: 1.0.r4386/3866
+count: 4385
+text: 4387 1826 470 470 11f24af4048bb3f1ee98fb653020ce1c
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4387/2309
+END
+ENDREP
+id: 0.0.r4387/2504
+type: dir
+pred: 0.0.r4386/4061
+count: 4387
+text: 4387 2455 36 36 d4ad1116918e53a4e03cdbc70985b9db
+cpath: /
+copyroot: 0 /
+
+5g6._0.t4386-1 add false true /old/sipXpbx/tags/2.6.1
+4386 /old/sipXpbx/branches/2.6
+
+2504 2645

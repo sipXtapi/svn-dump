@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-07-12T20:46:14.419483Z
+K 7
+svn:log
+V 215
+UI tweaks: add descriptions to the gateway form fields, move the serial number down since it is no longer common to all gateway models.
+Finishes XCF-1100, except for a UI annoyance that I have spun off as XCF-1136.
+
+END

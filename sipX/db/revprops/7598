@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-28T21:52:02.350042Z
+K 7
+svn:log
+V 201
+XCF-1278 attempt to fix:
+- fix generated XML (back to: domain, alias from target_domain, caller_alias)
+- add generating caller-alias whenever gateway data is changed
+- add caller-alias to resource map
+
+END

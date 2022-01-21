@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-04T14:33:09.980209Z
+K 7
+svn:log
+V 662
+Botched a merge in my previous checkin:
+
+Project sipXcallLib 
+New Revision 209 
+Committer bob (Bob Andreasen) 
+Date 2005-02-04 06:09:31 -0800 (Fri, 04 Feb 2005) 
+
+Log
+
+ A number of changes to the sipXtapi API:
+ 
+ - Removed a number of redundant settings/variables passed to the sipxInitialize method.  These settings are obtainable else where.
+ - Add the regression test (sipXtapiTest) to the workspace.
+ - The sipXtapiTest regression tests now working again.  Code was changed in both the lib and the tests.
+ - sipXtapiInternal.cpp attempts to conform to coding standards.
+ - I moved the handle mapping/allocation logic into a class
+ - Regenerated documentatio
+
+END

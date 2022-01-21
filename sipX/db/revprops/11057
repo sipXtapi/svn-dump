@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-09T00:34:03.117792Z
+K 7
+svn:log
+V 65
+mstream: Add ability to enter commands from keyboard at runtime.
+
+END

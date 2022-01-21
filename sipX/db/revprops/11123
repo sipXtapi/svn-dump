@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-19T18:48:41.769304Z
+K 7
+svn:log
+V 38
+Add sipXcallLib to doxygen doc build.
+
+END

@@ -1,0 +1,152 @@
+PLAIN
+K 13
+svn:externals
+V 77
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/post-2.6.1/config
+
+K 10
+svn:ignore
+V 156
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.properties
+config.status
+configure
+libtool
+stamp-h1
+bin.eclipse
+
+K 17
+svnmerge-2.6-head
+V 54
+https://scm.sipfoundry.org/rep/sipXconfig/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 5
+1-137
+K 18
+svnmerge-main-head
+V 46
+https://scm.sipfoundry.org/rep/sipXconfig/main
+K 18
+svnmerge-main-revs
+V 5
+1-134
+K 24
+svnmerge-post-2.6.1-head
+V 61
+https://scm.sipfoundry.org/rep/sipXconfig/branches/post-2.6.1
+K 24
+svnmerge-post-2.6.1-revs
+V 5
+1-143
+END
+ENDREP
+id: 2hf.0.r3168/661
+type: dir
+pred: 2hf.0.r3167/661
+count: 109
+text: 3157 23087 1184 1184 9af81d5739dd0c85002e448c90808bb0
+props: 3168 0 648 0 406c689d5ff011608f62b0dbe2b151cc
+cpath: /old/sipXconfig/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 4c1.0.r3166/2566
+K 4
+main
+V 19
+dir 2hf.0.r3168/661
+K 4
+tags
+V 20
+dir 4b6.0.r3163/1149
+END
+ENDREP
+id: 2he.0.r3168/1005
+type: dir
+pred: 2he.0.r3167/1007
+count: 144
+text: 3168 880 112 112 34781867115817362df809e7a2a3524d
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 20
+dir 2he.0.r3168/1005
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3168/1608
+type: dir
+pred: 1.0.r3167/1610
+count: 3167
+text: 3168 1164 431 431 5d679b0dbee7306fbd7b0310ed0222b4
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3168/1608
+END
+ENDREP
+id: 0.0.r3168/1803
+type: dir
+pred: 0.0.r3167/1805
+count: 3168
+text: 3168 1754 36 36 1c8a305ecb0de062d16f5b517e00d305
+cpath: /
+copyroot: 0 /
+
+2hf.0.t3167-1 modify false true /old/sipXconfig/main
+
+
+1803 1944

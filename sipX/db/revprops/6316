@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-03-08T22:23:36.075292Z
+K 7
+svn:log
+V 214
+XCF-903 conditionally display additional column ("Primary registrar") on a Registrations page
+It is only usable if you have HA configured: it displays the name of the registrar that initially handled registration.
+
+END

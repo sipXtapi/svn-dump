@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-11-10T16:04:16.823469Z
+K 7
+svn:log
+V 67
+Add dialog-event-harvest script to stimulate dialog event notices.
+
+END

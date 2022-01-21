@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2021-06-18T16:45:06.980442Z
+K 7
+svn:log
+V 107
+Report error and don't assert on push erros in MpAudioOutputConnection in case device has become unusable.
+
+END

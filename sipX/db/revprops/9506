@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-10T09:37:35.667469Z
+K 7
+svn:log
+V 103
+MpInputOutputFrameworkTest: Create input and output device managers in setUp() instead of test itself.
+
+END

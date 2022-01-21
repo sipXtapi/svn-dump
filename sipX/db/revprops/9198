@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-03-29T23:48:46.096654Z
+K 7
+svn:log
+V 404
+in MpInputDeviceManager::disableDevice, when trying to acquire a device, 
+break out of the mutex acquire loop if a device is not valid, or not in use.
+It is now more simplified, and description is provided for the #times through.
+10ms wait time now used, as resolution of clocks generally isn't any higher
+than this.
+
+Fix some compiler warnings (unsigned/signed, precision) in
+MpInputDeviceManagerTest.
+
+
+END

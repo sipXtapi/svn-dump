@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-12-06T19:11:20.391495Z
+K 7
+svn:log
+V 121
+The transparent reads boolean should be defaulted to FALSE.  This fixes some problems with
+dropped RTP after 30 seconds.
+
+END

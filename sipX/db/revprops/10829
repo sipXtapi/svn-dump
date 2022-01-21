@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-10-11T02:08:58.824278Z
+K 7
+svn:log
+V 99
+Gracefully handle situation when no codecs are present when calling sipxConfigGetNumAudioCodecs().
+
+END

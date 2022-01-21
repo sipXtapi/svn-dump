@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-11-09T22:58:28.008474Z
+K 7
+svn:log
+V 283
+XCF-1312 added tool to extract label and descritpion information from xml model to allow for localization
+sipxconfig/meta/xml_to_properties --file 'path/to/xml/model/file.xml
+checking in default (English) properties for user-settings (permissions), sitrunk (gateway) and snom phones
+
+END

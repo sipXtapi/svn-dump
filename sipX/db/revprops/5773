@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-12-20T21:06:52.950774Z
+K 7
+svn:log
+V 128
+XCF-818 activating dial plans with autoattendant rule was causing NullPointerException unless all auto-attendants were selected
+
+END

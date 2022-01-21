@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-31T15:37:22.609295Z
+K 7
+svn:log
+V 94
+sipXmediaLib: Initialize speaker weight to some reasonable number at MpSpeechParams creation.
+
+END

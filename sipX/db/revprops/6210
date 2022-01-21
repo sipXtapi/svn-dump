@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-02-22T15:14:55.210662Z
+K 7
+svn:log
+V 119
+BugFix: Locking for SipRefreshManager was effectively a noop -- it 
+called the OsTask::lock which was not implemented.
+
+END

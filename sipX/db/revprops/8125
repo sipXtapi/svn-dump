@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-11-27T18:46:37.153105Z
+K 7
+svn:log
+V 196
+XCF-478 Support polycom localization by allowing entire polycom firmware to be uploaded by zip file. Refactoring required I clear all existing uploads on upgrade, requiring user to re-upload files
+END

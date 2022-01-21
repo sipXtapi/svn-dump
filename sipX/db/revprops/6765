@@ -1,0 +1,34 @@
+K 10
+svn:author
+V 6
+prikov
+K 8
+svn:date
+V 27
+2006-05-08T14:23:03.823029Z
+K 7
+svn:log
+V 444
+Uninstall auxilliary rpms by demand.
+
+Add w3c-libwww to the "required" list.
+
+Remove auxiliaries devel pkgs. Ignore dependencies
+
+No need to build the rubygems rpm
+
+Do not upgrade sipx-w3c-libwww*
+
+Add an 'install auxilliaries' option
+
+Do not build ruby-gems, use the available one
+
+Specify a path to install the auxilliaries
+
+Do not un/install ruby rpms
+
+Build rubygems for both FC4 and FC5.
+
+Add AM_CONDITIONAL for the platform dependencies.
+
+END

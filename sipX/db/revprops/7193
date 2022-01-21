@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-08-04T22:10:05.434258Z
+K 7
+svn:log
+V 108
+Manually merged the Url class between main and tapi branches to support
+a sipXtapi fix on the main branch.
+
+
+END

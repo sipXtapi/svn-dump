@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-28T20:13:48.163786Z
+K 7
+svn:log
+V 179
+Fix bug in sipXmediaFactoryImpl constructor - number of samples per second and per frame were messed.
+Also change default to 80/8000. Let users to explicitely request WB support.
+
+END

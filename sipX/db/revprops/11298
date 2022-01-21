@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-03-11T19:05:24.539839Z
+K 7
+svn:log
+V 174
+sipXmediaAdapterLib: We should pass protected event to MprFromFile::playBuffer() because it is used by CpPeerCall to determine when it is safe to free original audio buffer.
+
+END

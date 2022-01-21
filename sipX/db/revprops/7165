@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-08-03T03:56:50.199968Z
+K 7
+svn:log
+V 105
+XCF-1175 Experimental, but benign - Start replacing functionality in build script with top level autoconf
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-09T21:19:32.742271Z
+K 7
+svn:log
+V 165
+XCF-1153 Implemented SipxServer.reset that clears setting cache and is called when Cancel button is pressed. Clean validation errors before calling cancel listener.
+
+END

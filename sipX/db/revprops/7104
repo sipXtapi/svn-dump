@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+cypromis
+K 8
+svn:date
+V 27
+2006-07-21T14:52:29.746943Z
+K 7
+svn:log
+V 116
+xargs -I does not work on RHEL4 and centos, so changed to -i
+its a known bug from redhat .. but what can one do ...
+
+END

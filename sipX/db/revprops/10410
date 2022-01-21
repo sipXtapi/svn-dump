@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-12-16T16:03:39.213012Z
+K 7
+svn:log
+V 64
+Reformat MpEncoderBase docs to better conform to Doxygen style.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-11-24T04:39:30.869346Z
+K 7
+svn:log
+V 186
+XCF-767 Remove upload staging directory, synchronizing w/final directory was too messy.  Now file upload and delete from final destination. Much simpler.  Java file renaming coming next.
+END

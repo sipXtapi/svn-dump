@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-07-30T08:05:53.996265Z
+K 7
+svn:log
+V 112
+Check in temporary kludge to make unit tests work with
+ralative project locations without doing _make instal_.
+
+
+END

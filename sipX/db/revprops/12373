@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-05-30T19:12:46.283821Z
+K 7
+svn:log
+V 72
+Updated MprRecorder resource factory to support multi-channel recording
+
+END

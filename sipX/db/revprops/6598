@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-04-17T17:28:31.744758Z
+K 7
+svn:log
+V 126
+XCF-961 Restore finding java via the sipx-config script as sipx 3.2 did. Save finding java by trusting what is in path for 4.0
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-01-13T20:46:22.452173Z
+K 7
+svn:log
+V 246
+Access phone context from IRequestCycle, not from pages definitions. page properties are not called in time for DirectLink calls to components among other advantages. global access was possible anyway, just made utility routines to make it easier
+END

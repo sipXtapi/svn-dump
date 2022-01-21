@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2013-04-06T02:29:02.532876Z
+K 7
+svn:log
+V 141
+Merge r12107-12109 from rtcp-reenable branch (in coordination with r374 in sipezlib/src/video -- same merge): fix handling of SSRC collisions
+END

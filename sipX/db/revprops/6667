@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-04-26T19:40:09.528368Z
+K 7
+svn:log
+V 176
+XCF-1004 ConfigFileStorage could not read properly integer settings if there were extra spaces following the value.
+I fixed it by trimming value returned by Properties object.
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-08-01T13:35:41.646620Z
+K 7
+svn:log
+V 368
+Fix for STUN/TURN: Previously, if you enabled STUN/TURN on an outbound call, we would attempt to wait for a STUN/TURN response prior to starting the packet pump (NetInTask).  Effectively, the responses would queue up and would not be processed until after all of the timeouts.  We now start the NetInTask (without selecting any codecs) after creating the connection
+
+
+
+END

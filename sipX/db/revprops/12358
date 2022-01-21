@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2016-12-19T20:58:21.336003Z
+K 7
+svn:log
+V 41
+Fix conditional compile for EXCLUDE_RTCP
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-08-21T11:33:46.619979Z
+K 7
+svn:log
+V 55
+Fix sipXportLib build with "-j 2" make flag specified.
+
+END

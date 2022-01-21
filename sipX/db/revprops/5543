@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-11-09T02:50:31.729810Z
+K 7
+svn:log
+V 85
+XCF-765 - use UserSearch form in UserService api to edit/delete by submitting search
+
+END

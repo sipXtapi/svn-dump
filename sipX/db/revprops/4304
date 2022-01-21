@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-26T12:47:22.647125Z
+K 7
+svn:log
+V 78
+http://track.sipfoundry.org/browse/XVX-64
+Get forwarding of messages to work.
+
+END

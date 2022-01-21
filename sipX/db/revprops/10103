@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-13T19:37:29.383240Z
+K 7
+svn:log
+V 103
+Some plugin code clean up, documentation fixes and loaded codec list de-initialization implementation.
+
+END

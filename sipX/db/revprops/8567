@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-01-17T03:08:24.003698Z
+K 7
+svn:log
+V 67
+Increase priority of OsTimerTask on all platforms, not just posix.
+
+END

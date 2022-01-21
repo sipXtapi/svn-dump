@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-10-25T23:06:47.427744Z
+K 7
+svn:log
+V 111
+Bug XCF-44 : Experienced different affects of relaxing https in different jvms, new fix should work in all jvms
+END

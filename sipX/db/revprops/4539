@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-15T20:46:42.175159Z
+K 7
+svn:log
+V 86
+Remove unused PHP files from web interface.
+http://track.sipfoundry.org/browse/XPB-45
+
+END

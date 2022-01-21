@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-11T13:42:58.797624Z
+K 7
+svn:log
+V 597
+Visual Studio 6 build fixes
+
+* Added VS6 project files for sipXsdpLib ad sipXsdpLibTest.
+* Do not use require SSL by default.
+* sdpTest.cpp: char * could not be outputed to cout directly. Use printf instead.
+* Static CPPUnit library used, include dirs for CPPUnit added.
+* Added links to sipXsdpLib in all other libraries.
+* Counters declarations taked out of the loops.
+* Added sipXtapi.dsw VS6 solution.
+* Added missed source files to sipXmediaLib and sipXportLib.
+* More tests added to sipXportLib, sipXmediaLib and sipXtackLib projects.
+* UtlLongLongInt.h: LLONG_MAX was undefined under VS6.
+
+
+END

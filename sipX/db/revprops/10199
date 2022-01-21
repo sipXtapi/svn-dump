@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-17T05:44:16.705250Z
+K 7
+svn:log
+V 70
+Add G.729 codec plugin wrapper to VS2003 build (disabled by default).
+
+END

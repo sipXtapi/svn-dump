@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-09-26T20:44:17.959426Z
+K 7
+svn:log
+V 218
+1) Fixed a stun problem introduced by my last stun update/merge (when adding data indication support for TURN)
+2) Created a duplicated OsTime::NO_WAIT_TIME (same OsTime::NO_WAIT) to minimize differences during merge.
+
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-06-27T20:09:30.820011Z
+K 7
+svn:log
+V 287
+MpMediaTask priority was set using an enum value titled "MEDIA_TASK_PRIO_NORMAL", which was entirely incorrect, as it's value was set to 0, the highest priority.
+It was also difficult to figure out what the range of priorities were, so documentation of OsServerTask parameters was added.
+END

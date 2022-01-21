@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-23T16:57:19.856287Z
+K 7
+svn:log
+V 194
+ - Generated a .dsp file (MSVC 6 project/makefile) for the C++ portion of the sipXconfig project.
+
+- Add a blurb in the INSTALL on how to "Compiling the Profile Publisher's SIP agent w/ MSVC 6".
+END

@@ -1,0 +1,481 @@
+PLAIN
+K 13
+svn:externals
+V 71
+tapi https://scm.sipfoundry.org/rep/sipX/main/sipXcallLib/include/tapi
+
+K 10
+svn:ignore
+V 22
+Makefile
+Makefile.in
+
+
+END
+ENDREP
+id: bde.7n5.r11825/157
+type: dir
+pred: bde.7n5.r11751/3248
+count: 217
+text: 11751 3020 215 215 f37ca43f1e4f07a68cf87217c8042fa8
+props: 11825 0 144 0 362d9ab6e02fa54d85ec3f989567969c
+cpath: /main/sipXportLib/include
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 28
+Makefile
+Makefile.in
+.deps
+
+
+END
+ENDREP
+id: bmc.7n5.r11825/462
+type: dir
+pred: bmc.7n5.r11497/4025
+count: 23
+text: 11497 3342 670 670 aadd8569fa91f115bd52d3d4d3355c5a
+props: 11825 395 54 0 9e8708e9b4786ab3c7ff09e372496a63
+cpath: /main/sipXportLib/src/test/sipxunit
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 28
+Makefile
+Makefile.in
+.deps
+
+
+END
+ENDREP
+id: g99.7n5.r11825/777
+type: dir
+pred: g99.7n5.r11761/2497
+count: 13
+text: 11761 1506 978 978 2763489d137c5105415acca20d44b91e
+props: 11825 710 54 0 9e8708e9b4786ab3c7ff09e372496a63
+cpath: /main/sipXportLib/src/test/sipxportunit
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 28
+Makefile
+Makefile.in
+.deps
+
+
+END
+ENDREP
+id: bmo.7n5.r11825/1096
+type: dir
+pred: bmo.0.r9285/31257
+count: 3
+text: 9285 31145 99 99 fb3f34d22cf6276fe45ec8ecb0934256
+props: 11825 1029 54 0 9e8708e9b4786ab3c7ff09e372496a63
+cpath: /main/sipXportLib/src/test/testplugin
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file blj.7n5.r11761/2695
+K 6
+README
+V 24
+file blk.0.r6955/1418140
+K 2
+os
+V 23
+dir bll.7n5.r11759/2452
+K 12
+sipxportunit
+V 22
+dir g99.7n5.r11825/777
+K 8
+sipxunit
+V 22
+dir bmc.7n5.r11825/462
+K 15
+sipxunittests.h
+V 25
+file g98.7n5.r11499/38533
+K 10
+testplugin
+V 23
+dir bmo.7n5.r11825/1096
+K 3
+utl
+V 23
+dir bmr.7n5.r11748/8842
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 34
+*.log
+Makefile
+Makefile.in
+.deps
+
+
+END
+ENDREP
+id: bli.7n5.r11825/1778
+type: dir
+pred: bli.7n5.r11761/3310
+count: 99
+text: 11825 1343 349 349 d3f8f98cfad238ed0310eafd421b9c6e
+props: 11825 1705 60 0 96dd1f1b74f815d05e7c4665354ee8ac
+cpath: /main/sipXportLib/src/test
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file bi7.7n5.r11750/97
+K 9
+hmac-sha1
+V 21
+dir bi8.0.r8293/62183
+K 2
+os
+V 24
+dir bic.7n5.r11824/11159
+K 4
+test
+V 23
+dir bli.7n5.r11825/1778
+K 3
+utl
+V 23
+dir bnl.7n5.r11760/3219
+K 9
+xmlparser
+V 22
+dir bog.0.r8484/441273
+END
+ENDREP
+id: bi6.7n5.r11825/2276
+type: dir
+pred: bi6.7n5.r11824/11603
+count: 317
+text: 11825 2019 244 244 2ff71703f31795d6db4eb5612f513364
+cpath: /main/sipXportLib/src
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 28
+Makefile
+Makefile.in
+.deps
+
+
+END
+ENDREP
+id: bom.7n5.r11825/2525
+type: dir
+pred: bom.0.r9285/33145
+count: 4
+text: 9285 33001 131 131 acf0bddbf60c8cc1b5669a23e6258c9a
+props: 11825 2458 54 0 9e8708e9b4786ab3c7ff09e372496a63
+cpath: /main/sipXportLib/syslogviewer
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 22
+Makefile
+Makefile.in
+
+
+END
+ENDREP
+id: bd4.7n5.r11825/2828
+type: dir
+pred: bd4.7n5.r11139/1613
+count: 9
+text: 11139 1160 440 440 12d3dbacd317368d8fc0566f38b5404b
+props: 11825 2767 48 0 86168c69db02cf3306494c6df91bc2ed
+cpath: /main/sipXportLib/doc
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 22
+Makefile
+Makefile.in
+
+
+END
+ENDREP
+id: bco.7n5.r11825/3124
+type: dir
+pred: bco.0.r9285/34903
+count: 4
+text: 9285 34638 252 252 6220863f6e7de85e4ce9c9797b05f5cb
+props: 11825 3063 48 0 86168c69db02cf3306494c6df91bc2ed
+cpath: /main/sipXportLib/bin
+copyroot: 10815 /main
+
+PLAIN
+K 15
+Android-core.mk
+V 24
+file fxm.7o3.r11478/2088
+K 10
+Android.mk
+V 23
+file g8v.7n5.r11700/367
+K 14
+Application.mk
+V 23
+file g8w.7n5.r11479/154
+K 12
+CONTRIBUTORS
+V 25
+file bcg.0.r6469/21591964
+K 9
+ChangeLog
+V 25
+file bch.0.r6469/21535752
+K 7
+INSTALL
+V 22
+file bci.0.r10440/5721
+K 11
+Makefile.am
+V 22
+file bcj.0.r9285/35165
+K 4
+NEWS
+V 25
+file bck.0.r6469/21599943
+K 6
+README
+V 24
+file bcl.0.r6955/1419372
+K 4
+TODO
+V 25
+file bcm.0.r6469/21597743
+K 9
+acsite.m4
+V 24
+file bcn.0.r6955/1417808
+K 3
+bin
+V 23
+dir bco.7n5.r11825/3124
+K 12
+configure.ac
+V 23
+file bd3.7n5.r11718/775
+K 3
+doc
+V 23
+dir bd4.7n5.r11825/2828
+K 7
+include
+V 22
+dir bde.7n5.r11825/157
+K 4
+meta
+V 24
+dir bhw.0.r6469/21535422
+K 24
+sipXportLib-msvc8.vcproj
+V 24
+file e78.7n5.r11387/2841
+K 15
+sipXportLib.dsp
+V 23
+file 4c.7ng.r11387/6906
+K 15
+sipXportLib.vcp
+V 22
+file e6k.0.r8667/79650
+K 18
+sipXportLib.vcproj
+V 24
+file bi1.7n5.r11387/3041
+K 28
+sipXportLibTest-msvc8.vcproj
+V 24
+file e79.7n5.r10871/4946
+K 19
+sipXportLibTest.dsp
+V 23
+file ap.7nh.r11289/5728
+K 19
+sipXportLibTest.sln
+V 25
+file bi2.0.r6469/21599763
+K 19
+sipXportLibTest.vcp
+V 22
+file e6l.0.r9027/28874
+K 22
+sipXportLibTest.vcproj
+V 24
+file bi3.7n5.r10871/5348
+K 29
+sipXportLib_NoSecurity.vcproj
+V 24
+file bi4.7n5.r11387/7194
+K 30
+sipXunitTestSuite-msvc8.vcproj
+V 22
+file exf.0.r10789/8760
+K 24
+sipXunitTestSuite.vcproj
+V 21
+file eb6.0.r8855/8132
+K 19
+sipxportlib.spec.in
+V 24
+file bi5.7n5.r11457/1633
+K 3
+src
+V 23
+dir bi6.7n5.r11825/2276
+K 12
+syslogviewer
+V 23
+dir bom.7n5.r11825/2525
+END
+ENDREP
+id: bcf.7n5.r11825/4886
+type: dir
+pred: bcf.7n5.r11824/13313
+count: 476
+text: 11825 3357 1516 1516 60ead98ccbd469ac8a172e6de45777ca
+props: 10826 0 249 0 4dc921241e151c92556ecd0bcbddba88
+cpath: /main/sipXportLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 24
+file g8y.7n5.r11608/2763
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 23
+dir 9wj.7n5.r11721/1537
+K 10
+readme.txt
+V 24
+file 9ws.7n5.r11483/5210
+K 7
+scripts
+V 23
+dir fxk.7n5.r11663/1205
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r11804/3720
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r11817/2904
+K 12
+sipXmediaLib
+V 24
+dir b40.7n5.r11822/20848
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r11825/4886
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r11823/5524
+K 11
+sipXtackLib
+V 24
+dir boq.7n5.r11813/10922
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r11825/5781
+type: dir
+pred: 9wi.7n5.r11824/14210
+count: 2818
+text: 11825 5120 648 648 ff3efc4818bb54521e49c5d4eb324650
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r11666/17573
+K 4
+main
+V 23
+dir 9wi.7n5.r11825/5781
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r11825/6120
+type: dir
+pred: 0.0.r11824/14551
+count: 11825
+text: 11825 5948 159 159 0a81106a3ee8c768f9a8d43448a584cc
+cpath: /
+copyroot: 0 /
+
+g99.7n5.t11824-1 modify false true /main/sipXportLib/src/test/sipxportunit
+
+bom.7n5.t11824-1 modify false true /main/sipXportLib/syslogviewer
+
+bde.7n5.t11824-1 modify false true /main/sipXportLib/include
+
+bmo.7n5.t11824-1 modify false true /main/sipXportLib/src/test/testplugin
+
+bd4.7n5.t11824-1 modify false true /main/sipXportLib/doc
+
+bli.7n5.t11824-1 modify false true /main/sipXportLib/src/test
+
+bco.7n5.t11824-1 modify false true /main/sipXportLib/bin
+
+bmc.7n5.t11824-1 modify false true /main/sipXportLib/src/test/sipxunit
+
+
+6120 6268

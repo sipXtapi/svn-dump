@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-03-16T16:32:17.212657Z
+K 7
+svn:log
+V 112
+Change throw fatal error to disconnect in the case of user hangup.
+
+http://track.sipfoundry.org/browse/XVX-128
+
+
+END

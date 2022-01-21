@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-14T18:33:28.178408Z
+K 7
+svn:log
+V 129
+XCF-971 Move tab background color to colors.css and remove tab link colors and make active tab default attributes: bold and black
+END

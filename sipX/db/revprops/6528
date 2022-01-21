@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-04-06T21:56:16.418785Z
+K 7
+svn:log
+V 168
+XPB-547: We now account for the fact that from and to tags can switch 
+between ACKS and BYES if the callee sends the BYE. 
+
+Add UI element for enabling call direction.
+
+END

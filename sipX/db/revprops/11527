@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-01-23T20:26:06.153122Z
+K 7
+svn:log
+V 86
+Added build rules and fixed compilation issues for mediaAdapter unit tests on Android
+
+END

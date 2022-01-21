@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-09T19:38:35.746585Z
+K 7
+svn:log
+V 140
+Use @APACHE2_STARTUP@ instead of /usr/sbin/apachectl.
+Regenerate the Apache configuration files from their .in's each time sipX
+is started.
+
+END

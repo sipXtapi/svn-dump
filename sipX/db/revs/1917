@@ -1,0 +1,88 @@
+PLAIN
+K 3
+2.6
+V 21
+dir 1qo.8e.r1916/1444
+END
+ENDREP
+id: 1v5.0.r1917/52
+type: dir
+pred: 1v5.0.r1916/1809
+count: 14
+text: 1917 0 39 39 88489f15901952b739f58c90e41d6235
+cpath: /old/sipXcommserverLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 1v5.0.r1917/52
+K 4
+main
+V 20
+dir 1qo.0.r1915/6593
+K 4
+tags
+V 20
+dir 1uu.0.r1911/1106
+END
+ENDREP
+id: 1qn.0.r1917/344
+type: dir
+pred: 1qn.0.r1916/2108
+count: 120
+text: 1917 220 111 111 6468a9034fe0b4fc3cc16052da2cad6e
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 19
+dir 1qn.0.r1917/344
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1917/742
+type: dir
+pred: 1.0.r1916/2509
+count: 1916
+text: 1917 509 220 220 324155cca0b3a7608581b6c8762929b8
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r1917/742
+END
+ENDREP
+id: 0.0.r1917/934
+type: dir
+pred: 0.0.r1916/2704
+count: 1917
+text: 1917 886 35 35 463276dadbd63c897fcf0980d2bf529a
+cpath: /
+copyroot: 0 /
+
+1qo.83.r1914/6260 delete false false /old/sipXcommserverLib/branches/post-2.6.1
+
+
+934 1073

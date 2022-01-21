@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-03-11T06:42:47.123341Z
+K 7
+svn:log
+V 118
+Fixed the build for the SIP status server so that it
+build on windows where the *buildversion.h file does not
+exist.
+
+
+END

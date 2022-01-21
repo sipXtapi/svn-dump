@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-13T20:46:22.605878Z
+K 7
+svn:log
+V 138
+Roll back change from ruby-gems to rubygems until an alternative
+on rhe4 is available. Command performed was 
+  svn merge -r 9070:9069 .
+
+
+END

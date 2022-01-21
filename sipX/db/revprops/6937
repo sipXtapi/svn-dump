@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-06-08T18:46:40.606352Z
+K 7
+svn:log
+V 283
+Some tweaks needed to build under Visual Studio 8 (Used Express version).  
+I was able to run sipXezPhone and setup calls.  I did not check-in the 
+project files -- they seemed to auto-converted correctly.  However, the 
+build is filled with warnings (strcpy vs strcpy_s, etc.).  
+
+
+
+END

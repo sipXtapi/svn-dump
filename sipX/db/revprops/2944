@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-02-25T19:59:00.825150Z
+K 7
+svn:log
+V 51
+Do not enunciate "00" in numbers such as 300, etc.
+
+END

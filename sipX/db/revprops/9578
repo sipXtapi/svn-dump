@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-05-18T18:23:53.270320Z
+K 7
+svn:log
+V 136
+Under VS6, new static TapiMgr instance cannot be destructed, as the destructor is private.
+Making destructor public solves this issue.
+
+
+END

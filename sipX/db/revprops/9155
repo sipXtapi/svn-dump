@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-03-23T22:06:43.188682Z
+K 7
+svn:log
+V 158
+Revert rev. 9150 and replace it with a better solution to the same
+problem:
+
+mergefrom pingtel-main 8083
+
+[XPR-193] Improve configtest for domain->ip mapping
+
+END

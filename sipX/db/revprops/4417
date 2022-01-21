@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-12-22T16:45:34.615291Z
+K 7
+svn:log
+V 248
+Add 'status' argument to sipxpbx init script to display process statuses
+  http://track.sipfoundry.org/browse/XPB-154
+
+Also remove the use of ps to detect running watchdog
+  (this is not a portable enough thing to do - do not use ps in
+  scripts)
+
+
+END

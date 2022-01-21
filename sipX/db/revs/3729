@@ -1,0 +1,354 @@
+PLAIN
+K 8
+line.xml
+V 22
+file 4vu.0.r3632/22983
+K 18
+mac-address.cfg.vm
+V 22
+file 4xu.0.r3510/39436
+K 13
+mac-address.d
+V 22
+dir 4wf.r0.r3672/18528
+K 9
+phone.xml
+V 23
+file 4qc.pt.r3632/23236
+END
+ENDREP
+id: 4q0.r0.r3729/200
+type: dir
+pred: 4q0.r0.r3672/19008
+count: 30
+text: 3729 0 187 187 3c02516a7f31c818a2b0ebd6fe34d3c1
+cpath: /old/sipXconfig/branches/2.8/neoconf/etc/polycom
+copyroot: 3639 /old/sipXconfig/branches/2.8
+
+PLAIN
+K 20
+VM_global_library.vm
+V 21
+file 52h.0.r3619/5280
+K 7
+polycom
+V 20
+dir 4q0.r0.r3729/200
+K 24
+sipxconfig.properties.in
+V 23
+file 52x.r0.r3699/20437
+END
+ENDREP
+id: 4pz.r0.r3729/588
+type: dir
+pred: 4pz.r0.r3699/20902
+count: 36
+text: 3729 421 154 154 277514bd2154e92e1463aac37ad6ba12
+cpath: /old/sipXconfig/branches/2.8/neoconf/etc
+copyroot: 3639 /old/sipXconfig/branches/2.8
+
+PLAIN
+K 10
+.classpath
+V 23
+file 4ep.r0.r3704/17921
+K 8
+.project
+V 20
+file 4eq.0.r3469/735
+K 19
+.springBeansProject
+V 20
+file 4xc.0.r3469/568
+K 11
+Makefile.am
+V 23
+file 4er.0.r3393/880810
+K 9
+build.xml
+V 23
+file 4es.r0.r3705/17308
+K 3
+etc
+V 20
+dir 4pz.r0.r3729/588
+K 27
+sipXconfig-profilegenerator
+V 18
+dir 543.r0.r3714/0
+K 3
+src
+V 21
+dir 4ev.r0.r3726/5115
+K 4
+test
+V 21
+dir 4g2.r0.r3723/7333
+END
+ENDREP
+id: 4eo.r0.r3729/1206
+type: dir
+pred: 4eo.r0.r3726/5736
+count: 247
+text: 3729 803 390 390 ecb4d0ff5ad9ca0d747eb4dfa9bfd2ae
+props: 3257 35273 70 0 3abbb3844767b5e993328a3487bbdfd7
+cpath: /old/sipXconfig/branches/2.8/neoconf
+copyroot: 3639 /old/sipXconfig/branches/2.8
+
+PLAIN
+K 10
+.classpath
+V 23
+file 4do.ia.r3393/22413
+K 8
+.project
+V 23
+file 4dp.ib.r3393/15834
+K 12
+CONTRIBUTORS
+V 22
+file 2hg.0.r3393/21790
+K 9
+ChangeLog
+V 20
+file 2hh.0.r3490/576
+K 7
+INSTALL
+V 22
+file 2hi.r0.r3727/6309
+K 7
+LICENSE
+V 23
+file 2hj.0.r3393/851332
+K 11
+Makefile.am
+V 21
+file 2hk.r0.r3692/774
+K 4
+NEWS
+V 23
+file 2hl.0.r3393/808567
+K 6
+README
+V 21
+file 2hm.0.r3573/5968
+K 4
+TODO
+V 21
+file 2hn.0.r3573/6199
+K 9
+acsite.m4
+V 22
+file 2ho.0.r3393/21475
+K 14
+ant-targets.am
+V 21
+file 2hp.r0.r3685/421
+K 15
+ant-targets.xml
+V 22
+file 2hq.0.r3603/26326
+K 3
+bin
+V 20
+dir 4bz.0.r3500/1858
+K 9
+build.xml
+V 22
+file 4h8.0.r3393/22103
+K 6
+common
+V 21
+dir 2hs.r0.r3728/2713
+K 20
+config.properties.in
+V 22
+file 2jf.r0.r3699/7272
+K 12
+configure.ac
+V 21
+file 2jg.r0.r3644/247
+K 3
+doc
+V 21
+dir 2jh.r0.r3727/6044
+K 3
+etc
+V 22
+dir 4b7.0.r3393/927179
+K 3
+lib
+V 22
+dir 2jy.0.r3554/861448
+K 4
+meta
+V 21
+dir 4ea.r0.r3725/1597
+K 7
+neoconf
+V 21
+dir 4eo.r0.r3729/1206
+K 16
+profilegenerator
+V 21
+dir 2kj.r0.r3720/8252
+K 23
+profilepub_sipagent.dsp
+V 22
+file 4b5.0.r3393/16177
+K 16
+profilepublisher
+V 22
+dir 485.r0.r3648/38962
+K 13
+profilewriter
+V 22
+dir 4a9.r0.r3656/28245
+K 12
+sipagent-jni
+V 21
+dir 48h.h9.r3500/2967
+K 26
+sipx-jboss-configure.patch
+V 23
+file 4bi.0.r3393/927483
+K 18
+sipxconfig.spec.in
+V 21
+file 4bh.r0.r3644/516
+K 18
+subant-targets.xml
+V 21
+file 4h9.0.r3453/6142
+K 3
+web
+V 21
+dir 4l5.r0.r3721/4660
+END
+ENDREP
+id: 2hf.r0.r3729/2880
+type: dir
+pred: 2hf.r0.r3728/4387
+count: 596
+text: 3729 1474 1393 1393 15999b4420d3b0a80c5c85029b0e208c
+props: 3639 0 647 0 cee414232d58d2302e5f33c28e44a4f0
+cpath: /old/sipXconfig/branches/2.8
+copyroot: 3639 /old/sipXconfig/branches/2.8
+
+PLAIN
+K 3
+2.6
+V 21
+dir 2hf.jd.r3596/6164
+K 3
+2.8
+V 21
+dir 2hf.r0.r3729/2880
+K 9
+user_ping
+V 20
+dir 2hf.sw.r3716/786
+END
+ENDREP
+id: 4c1.0.r3729/3267
+type: dir
+pred: 4c1.0.r3728/4774
+count: 134
+text: 3729 3140 114 114 b787c25635a37c40a7ac1657ec150b31
+cpath: /old/sipXconfig/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 4c1.0.r3729/3267
+K 4
+main
+V 20
+dir 2hf.0.r3722/1701
+K 4
+tags
+V 20
+dir 4b6.0.r3713/2194
+END
+ENDREP
+id: 2he.0.r3729/3562
+type: dir
+pred: 2he.0.r3728/5069
+count: 704
+text: 3729 3436 113 113 17b752b2e310d843f7ee81727990fe4b
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 20
+dir 2he.0.r3729/3562
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3729/4166
+type: dir
+pred: 1.0.r3728/5673
+count: 3727
+text: 3729 3722 431 431 232bbfb1da1e5d792f714bd4ae029b1e
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3729/4166
+END
+ENDREP
+id: 0.0.r3729/4361
+type: dir
+pred: 0.0.r3728/5868
+count: 3729
+text: 3729 4312 36 36 237761de8c2878dd477291841664d613
+cpath: /
+copyroot: 0 /
+
+4wj.pu.r3463/36731 delete false false /old/sipXconfig/branches/2.8/neoconf/etc/polycom/sip.ld
+
+
+4361 4502

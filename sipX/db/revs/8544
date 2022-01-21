@@ -1,0 +1,309 @@
+id: 7q4.6ab.r8544/0
+type: dir
+pred: 7q4.50x.r8527/4487
+count: 1951
+text: 8527 2693 980 980 a1d99f26e3b7d68dec326c9a4716fa00
+props: 8527 3686 788 0 ccd2a54f018e4d9733c2213c7ed52b3c
+cpath: /tags/3.6/beta/7
+copyfrom: 8527 /branches/3.6
+
+PLAIN
+K 1
+2
+V 19
+dir 7q4.5h9.r7783/0
+K 1
+3
+V 19
+dir 7q4.5j8.r7869/0
+K 1
+4
+V 19
+dir 7q4.5j9.r7874/0
+K 1
+5
+V 19
+dir 7q4.66l.r8202/0
+K 1
+6
+V 19
+dir 7q4.66s.r8275/0
+K 1
+7
+V 19
+dir 7q4.6ab.r8544/0
+END
+ENDREP
+id: dp8.0.r8544/437
+type: dir
+pred: dp8.0.r8275/406
+count: 6
+text: 8544 234 190 190 a699dffe824cb56e28ec72acc70252b0
+cpath: /tags/3.6/beta
+copyroot: 0 /
+
+PLAIN
+K 4
+beta
+V 19
+dir dp8.0.r8544/437
+END
+ENDREP
+id: dp7.0.r8544/642
+type: dir
+pred: dp7.0.r8275/611
+count: 7
+text: 8544 591 38 38 0dc5286607f120edb1f1966148381561
+cpath: /tags/3.6
+copyroot: 0 /
+
+PLAIN
+K 5
+2.5.1
+V 22
+dir 7q6.0.r4813/178761
+K 5
+2.5.2
+V 22
+dir 7q7.0.r4813/187675
+K 12
+2.6-export-A
+V 21
+dir 7q8.0.r4813/52805
+K 12
+2.6-export-B
+V 21
+dir 7q9.0.r4813/56374
+K 12
+2.6-export-C
+V 21
+dir 7qa.0.r4813/63518
+K 12
+2.6-export-D
+V 21
+dir 7qb.0.r4813/71168
+K 12
+2.6-export-E
+V 21
+dir 7qc.0.r4813/78313
+K 12
+2.6-export-F
+V 21
+dir 7qd.0.r4813/85457
+K 12
+2.6-export-G
+V 21
+dir 7qe.0.r4813/92604
+K 12
+2.6-export-H
+V 21
+dir 7qf.0.r4813/99752
+K 12
+2.6-export-J
+V 22
+dir 7qg.0.r4813/110551
+K 12
+2.6-export-K
+V 22
+dir 7qh.0.r4813/114143
+K 12
+2.6-export-L
+V 22
+dir 7qi.0.r4813/121343
+K 12
+2.6-export-M
+V 22
+dir 7qj.0.r4813/128542
+K 12
+2.6-export-N
+V 22
+dir 7qk.0.r4813/135739
+K 12
+2.6-export-O
+V 22
+dir 7ql.0.r4813/142936
+K 12
+2.6-export-P
+V 22
+dir 7qm.0.r4813/150133
+K 12
+2.6-export-Q
+V 22
+dir 7qn.0.r4813/157330
+K 12
+2.6-export-R
+V 22
+dir 7qo.0.r4813/164529
+K 12
+2.6-export-S
+V 22
+dir 7qp.0.r4813/168125
+K 12
+2.6-export-T
+V 22
+dir 7qq.0.r4813/171721
+K 12
+2.6-export-U
+V 22
+dir 7qr.0.r4813/175318
+K 5
+2.6.1
+V 22
+dir 7qs.0.r4813/182188
+K 5
+2.6.2
+V 22
+dir 7qt.0.r4813/191148
+K 12
+2.8-export-A
+V 21
+dir 7qu.0.r4813/59950
+K 12
+2.8-export-B
+V 21
+dir 7qv.0.r4813/67600
+K 12
+2.8-export-C
+V 21
+dir 7qw.0.r4813/74745
+K 12
+2.8-export-D
+V 21
+dir 7qx.0.r4813/81896
+K 12
+2.8-export-E
+V 21
+dir 7qy.0.r4813/89040
+K 12
+2.8-export-F
+V 21
+dir 7qz.0.r4813/96186
+K 12
+2.8-export-G
+V 22
+dir 7r0.0.r4813/103355
+K 12
+2.8-export-H
+V 22
+dir 7r1.0.r4813/106962
+K 12
+2.8-export-I
+V 22
+dir 7r2.0.r4813/117750
+K 12
+2.8-export-J
+V 22
+dir 7r3.0.r4813/124950
+K 12
+2.8-export-K
+V 22
+dir 7r4.0.r4813/132148
+K 12
+2.8-export-L
+V 22
+dir 7r5.0.r4813/139347
+K 12
+2.8-export-M
+V 22
+dir 7r6.0.r4813/146544
+K 12
+2.8-export-N
+V 22
+dir 7r7.0.r4813/153740
+K 12
+2.8-export-O
+V 22
+dir 7r8.0.r4813/160938
+K 5
+2.8.1
+V 22
+dir 7r9.0.r4813/198208
+K 12
+2.9-export-A
+V 22
+dir 7ra.0.r4813/194756
+K 5
+3.0.0
+V 19
+dir 7q4.2dm.r5723/0
+K 5
+3.0.1
+V 23
+dir 7q4.2do.r5758/15765
+K 3
+3.6
+V 19
+dir dp7.0.r8544/642
+K 9
+copy-test
+V 21
+dir 7rb.0.r4813/43478
+K 13
+main-export-A
+V 21
+dir 7rc.0.r4813/35842
+K 13
+main-export-B
+V 21
+dir 7rd.0.r4813/39427
+K 13
+main-export-C
+V 21
+dir 7re.0.r4813/43016
+K 17
+sipxtapi-export-A
+V 21
+dir 7rf.0.r4813/44909
+K 17
+sipxtapi-export-B
+V 21
+dir 7rg.0.r4813/46352
+K 17
+sipxtapi-export-C
+V 21
+dir 7rh.0.r4813/47793
+K 17
+sipxtapi-export-D
+V 21
+dir 7ri.0.r4813/49235
+K 23
+user_dworley_redirect_A
+V 21
+dir 7rj.0.r4813/64015
+END
+ENDREP
+id: 7q5.0.r8544/3180
+type: dir
+pred: 7q5.0.r8275/3149
+count: 12
+text: 8544 789 2378 2378 932ae43bd4884bd56c31b77a42c73e52
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r8543/10043
+K 4
+main
+V 21
+dir 7q4.0.r8540/28906
+K 4
+tags
+V 20
+dir 7q5.0.r8544/3180
+END
+ENDREP
+id: 0.0.r8544/3458
+type: dir
+pred: 0.0.r8543/10330
+count: 8544
+text: 8544 3330 115 115 364e00518c457358f89b14b0bb70f1f1
+cpath: /
+copyroot: 0 /
+
+7q4._0.t8543-1 add false false /tags/3.6/beta/7
+8527 /branches/3.6
+
+3458 3602

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-03T10:03:47.695749Z
+K 7
+svn:log
+V 110
+MSVS automated build script
+
+Don't use /USEENV param with msdev -- msdev's usual environment is what we
+want.
+
+END

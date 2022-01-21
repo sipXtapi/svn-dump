@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-20T20:17:16.778026Z
+K 7
+svn:log
+V 280
+iXCF-1236 if area code is longer than external number length, do not generate pattern that matches everything prefixed with area code, instead cut the lenght of the area code
+area code = 123456, external number lenght = 3 ==> dial pattern = 123 (and not 123456. as it used to be)
+
+END

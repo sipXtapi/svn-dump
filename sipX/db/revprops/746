@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-12-29T21:15:49.895622Z
+K 7
+svn:log
+V 96
+Lower the logging level of several messages to DEBUG.
+http://track.sipfoundry.org/browse/XSL-46
+
+END

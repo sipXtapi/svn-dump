@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-11T15:01:46.068350Z
+K 7
+svn:log
+V 72
+XCF-1318 change log4j configuration to only log warings and errors once
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-09T18:11:48.031704Z
+K 7
+svn:log
+V 169
+Change the example ANT_HOME to be the usual Ant installation location.
+
+Replace the instruction to run httpd-sipxchange-config.sh before using
+apachectl to test Apache.
+
+END

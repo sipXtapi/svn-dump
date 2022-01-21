@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-10-30T06:24:22.384804Z
+K 7
+svn:log
+V 93
+* Add UtlCrypto* and OsCryptoSocket files to VS6, VS2003 and VS2005 builds.
+* Fix SSL build.
+
+END

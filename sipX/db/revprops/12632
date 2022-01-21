@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2018-01-01T22:02:33.813724Z
+K 7
+svn:log
+V 135
+Added some more test cases, changed media frame size to 10 ms (as is typical), fixed a number of issues in unit test and in plugins.  
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-06-07T13:25:30.786163Z
+K 7
+svn:log
+V 41
+Require postgres-server for sipXproxy RPM
+END

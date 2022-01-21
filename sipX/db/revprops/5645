@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-11-23T22:30:28.792181Z
+K 7
+svn:log
+V 144
+XCF-756 phones are now properly displayed in search results
+added test that verifies that all edit pages can be activated from test result page
+
+END

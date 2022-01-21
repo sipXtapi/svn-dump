@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-09T18:55:53.859613Z
+K 7
+svn:log
+V 62
+Avoid string copying in MpResourceTopology::addConnections().
+
+END

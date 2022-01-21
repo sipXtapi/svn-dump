@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-07-16T02:28:26.498844Z
+K 7
+svn:log
+V 246
+move hitachi phone lugin to a separate project/jar
+modified build.xml to build plugins
+created separate sipxconfig-plugin-hitachi project
+note: hitachi plugin is not installed by rpm at the moment, you need to install hitachi-phones.jar manually 
+END

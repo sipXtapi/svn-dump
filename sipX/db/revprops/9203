@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-30T17:40:23.313006Z
+K 7
+svn:log
+V 60
+NT-94 Rewrite sipX to generic text and change sipXacd to ACD
+END

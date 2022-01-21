@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-04-06T05:09:06.800599Z
+K 7
+svn:log
+V 74
+Allow Sipx derived classes of Android AudioTrack to be a friend class too
+
+END

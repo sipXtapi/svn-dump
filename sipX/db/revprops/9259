@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-04-05T22:00:47.928118Z
+K 7
+svn:log
+V 342
+XPB-1008 acount for multiple 'setup' and 'end' events on the same call leg: it fixes several problems related to calculating call duration
+improve handling of the 'failed' event so that calls do not get treated as failed prematurely (it resulted in some calls never showing up in Acive window, they were still displayed in Historic CDR list)
+
+END

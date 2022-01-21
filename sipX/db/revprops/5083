@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-20T21:45:04.093885Z
+K 7
+svn:log
+V 312
+Fix XCF-588: When editing a phone line, make phone label a link. Also:
+Add DB constraints requiring phone serial # to be unique and non-null.
+Replace ok/cancel/apply buttons on the EditPhone page with FormActions, for simplicity and to get callback handling, since EditPhone is now accessed from multiple pages.
+
+END

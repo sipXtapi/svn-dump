@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-04-24T21:03:10.736185Z
+K 7
+svn:log
+V 104
+Delete properties svnmerge-pingtel-3.{0,1,2}-{head,revs} because sipx-3.3
+only merges with pingtel-3.3.
+
+END

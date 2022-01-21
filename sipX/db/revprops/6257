@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-02-27T19:13:30.839837Z
+K 7
+svn:log
+V 211
+Provide an implementation for ResultSet::clear.
+This resolves a failure in DialByNameDB.cpp that prevented the
+dial-by-name feature of the auto-attendant from working.
+http://track.sipfoundry.org/browse/XPB-461
+
+END

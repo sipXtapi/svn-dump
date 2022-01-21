@@ -1,0 +1,162 @@
+PLAIN
+K 10
+svn:ignore
+V 206
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxportlib.spec
+sipxportlib-*.rpm
+sipxportlib-*.tar.gz
+stamp-h1
+textfiles
+Debug
+Release
+
+K 17
+svnmerge-2.6-head
+V 55
+https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 5
+1-304
+K 18
+svnmerge-main-head
+V 47
+https://scm.sipfoundry.org/rep/sipXportLib/main
+K 18
+svnmerge-main-revs
+V 5
+1-285
+END
+ENDREP
+id: 3.y.r307/474
+type: dir
+pred: 3.s.r306/1255
+count: 268
+text: 306 560 682 682 c5bb3860333dcc5ce2d38990b4509392
+props: 307 0 461 0 fb1acf6c104355ed9436d473f605ca0c
+cpath: /old/sipXportLib/tags/2.6-export-F
+copyfrom: 306 /old/sipXportLib/branches/2.6
+
+PLAIN
+K 5
+2.5.1
+V 17
+dir 3.e.r115/2794
+K 5
+2.5.2
+V 17
+dir 3.h.r169/1469
+K 12
+2.6-export-A
+V 16
+dir 3.t.r290/474
+K 12
+2.6-export-B
+V 16
+dir 3.u.r294/474
+K 12
+2.6-export-C
+V 16
+dir 3.v.r302/474
+K 12
+2.6-export-D
+V 16
+dir 3.w.r303/474
+K 12
+2.6-export-E
+V 16
+dir 3.x.r305/474
+K 12
+2.6-export-F
+V 16
+dir 3.y.r307/474
+K 13
+main-export-A
+V 14
+dir 3.p.r276/0
+K 13
+main-export-B
+V 16
+dir 3.q.r282/357
+K 13
+main-export-C
+V 16
+dir 3.r.r288/357
+END
+ENDREP
+id: an.0.r307/1170
+type: dir
+pred: an.0.r305/1131
+count: 13
+text: 307 726 431 431 5fadfa7c0a9be864bc116bad07f2b111
+cpath: /old/sipXportLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir ar.0.r306/1551
+K 4
+main
+V 17
+dir 3.0.r304/3142
+K 4
+tags
+V 18
+dir an.0.r307/1170
+END
+ENDREP
+id: 2.0.r307/1448
+type: dir
+pred: 2.0.r306/1830
+count: 305
+text: 307 1329 106 106 05b85cad88cf1b653788449ff81154ac
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r307/1448
+END
+ENDREP
+id: 1.0.r307/1659
+type: dir
+pred: 1.0.r306/2041
+count: 306
+text: 307 1602 44 44 496bbf64cba1e631e8d6a2b80d602e7a
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r307/1659
+END
+ENDREP
+id: 0.0.r307/1847
+type: dir
+pred: 0.0.r306/2229
+count: 307
+text: 307 1799 35 35 42cc315a02c400e72723be6d6f393a63
+cpath: /
+copyroot: 0 /
+
+3._0.t306-1 add false true /old/sipXportLib/tags/2.6-export-F
+306 /old/sipXportLib/branches/2.6
+
+1847 1984

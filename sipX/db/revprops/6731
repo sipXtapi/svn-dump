@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-05-04T19:05:20.695906Z
+K 7
+svn:log
+V 655
+Incorporate fix for a problem in commons-fileupload library:
+- commons-fileupload-1.1 (required by Tapestry 4.0.1) indiscriminately change all uploaded file names to lower case, this issue is fixed in the main but new version of library is not available yet
+- sipXconfig will be distributing custom version of the library jar (commons-fileupload-1.1.1) until 1.2 is released
+- like with all other java libraries we are distributing this in architecture independent jar format so no custom build procedures are required, however if you want to build it anyway I added a script (meta/build-commons-fileupload-1.1.1) and path file (meta/lowercase-fix.patch)
+
+END

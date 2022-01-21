@@ -1,0 +1,273 @@
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4c2.0.r3641/105
+type: file
+pred: 4c2.0.r3500/1561
+count: 5
+text: 3500 0 436 487 8e5aa5cfde2a359204bef76630e8ffe5
+props: 3641 0 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /old/sipXconfig/main/bin/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 20
+file 4c2.0.r3641/105
+END
+ENDREP
+id: 4bz.0.r3641/393
+type: dir
+pred: 4bz.0.r3640/433
+count: 9
+text: 3641 333 47 47 8b5d5ab3b1eac3b00bcf2c3851fec37b
+props: 3640 328 92 0 81ae3c8e6c2f5dd1c559310496708d69
+cpath: /old/sipXconfig/main/bin
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 23
+file 4do.ia.r3393/22413
+K 8
+.project
+V 23
+file 4dp.ib.r3393/15834
+K 12
+CONTRIBUTORS
+V 22
+file 2hg.0.r3393/21790
+K 9
+ChangeLog
+V 20
+file 2hh.0.r3490/576
+K 7
+INSTALL
+V 21
+file 2hi.0.r3574/6607
+K 7
+LICENSE
+V 23
+file 2hj.0.r3393/851332
+K 11
+Makefile.am
+V 21
+file 2hk.0.r3597/3609
+K 4
+NEWS
+V 23
+file 2hl.0.r3393/808567
+K 6
+README
+V 21
+file 2hm.0.r3573/5968
+K 4
+TODO
+V 21
+file 2hn.0.r3573/6199
+K 9
+acsite.m4
+V 22
+file 2ho.0.r3393/21475
+K 14
+ant-targets.am
+V 20
+file 2hp.0.r3396/365
+K 15
+ant-targets.xml
+V 22
+file 2hq.0.r3603/26326
+K 3
+bin
+V 19
+dir 4bz.0.r3641/393
+K 9
+build.xml
+V 22
+file 4h8.0.r3393/22103
+K 6
+common
+V 20
+dir 2hs.0.r3627/1334
+K 20
+config.properties.in
+V 22
+file 2jf.0.r3612/28419
+K 12
+configure.ac
+V 21
+file 2jg.0.r3597/3137
+K 3
+doc
+V 19
+dir 2jh.0.r3640/109
+K 3
+etc
+V 22
+dir 4b7.0.r3393/927179
+K 3
+lib
+V 22
+dir 2jy.0.r3554/861448
+K 4
+meta
+V 20
+dir 4ea.0.r3597/2966
+K 7
+neoconf
+V 21
+dir 4eo.0.r3638/26544
+K 16
+profilegenerator
+V 21
+dir 2kj.0.r3638/12621
+K 23
+profilepub_sipagent.dsp
+V 22
+file 4b5.0.r3393/16177
+K 16
+profilepublisher
+V 21
+dir 485.0.r3621/64644
+K 13
+profilewriter
+V 20
+dir 4a9.0.r3623/2828
+K 12
+sipagent-jni
+V 21
+dir 48h.h9.r3500/2967
+K 26
+sipx-jboss-configure.patch
+V 23
+file 4bi.0.r3393/927483
+K 18
+sipxconfig.spec.in
+V 21
+file 4bh.0.r3597/3370
+K 18
+subant-targets.xml
+V 21
+file 4h9.0.r3453/6142
+K 3
+web
+V 21
+dir 4l5.0.r3638/13486
+END
+ENDREP
+id: 2hf.0.r3641/2005
+type: dir
+pred: 2hf.0.r3640/2047
+count: 521
+text: 3641 609 1383 1383 ef38f9cc5ed0d408336d4954323b408f
+props: 3491 0 529 0 d451b1d7da8c161fcb9a6f086630e452
+cpath: /old/sipXconfig/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 4c1.0.r3639/998
+K 4
+main
+V 20
+dir 2hf.0.r3641/2005
+K 4
+tags
+V 20
+dir 4b6.0.r3484/5074
+END
+ENDREP
+id: 2he.0.r3641/2349
+type: dir
+pred: 2he.0.r3640/2392
+count: 616
+text: 3641 2224 112 112 0065ddc98bb65e56466c46ddf3b4a808
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 20
+dir 2he.0.r3641/2349
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3641/2953
+type: dir
+pred: 1.0.r3640/2996
+count: 3639
+text: 3641 2509 431 431 600bdc7f17b8df5e6365eb79dfa32eee
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3641/2953
+END
+ENDREP
+id: 0.0.r3641/3148
+type: dir
+pred: 0.0.r3640/3191
+count: 3641
+text: 3641 3099 36 36 0b3a237e0ebf10b442a5432ac0827897
+cpath: /
+copyroot: 0 /
+
+4c2.0.t3640-1 modify false true /old/sipXconfig/main/bin/Makefile.am
+
+
+3148 3289

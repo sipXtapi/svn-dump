@@ -1,0 +1,46 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-11-01T13:57:01.357972Z
+K 7
+svn:log
+V 1033
+Per P. van Bruggen (build error on VC7 w/ "interface"
+keywork):
+
+> The problem is that the new VC7 doesn't support the interface
+> keyword anymore. It only supports __interface keyword.
+> 
+> As MSDN states:
+> Microsoft Specific
+> In Microsoft C++, identifiers with two leading underscores
+> are reserved for compiler implementations. Therefore, the
+> Microsoft convention is to precede Microsoft-specific
+> keywords with double underscores. These words cannot be
+> used as identifier names
+> 
+> Therefore the used interface keyword must be changed to
+> __interface. As far as i know this will also compile
+> under VC6.
+> 
+> The best place to do this (and the most logical) is in
+> the same area as where the #define interface struct has
+> been done for Unix like / VXWORKS targets.
+> 
+> If the __inteface does not work on VC6 then the define
+> must be placed in the following block:
+> 
+> #ifdef _MSC_VER
+>     #if _MSC_VER >= 1300
+>         #define interface __interface
+>     #endif
+> #else
+>     #define interface struct
+> #endif
+
+
+END

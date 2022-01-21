@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-10-13T04:47:52.801236Z
+K 7
+svn:log
+V 135
+Added configure option: --with-gips to optionally
+compile the media subsystemand dependent executables
+with the gips library enabled.
+
+
+END

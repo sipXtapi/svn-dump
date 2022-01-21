@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-06-25T03:23:02.860722Z
+K 7
+svn:log
+V 56
+Added sipXtapi method to get lin handle for call handle
+
+END

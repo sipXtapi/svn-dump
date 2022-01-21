@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2013-02-26T02:39:32.533227Z
+K 7
+svn:log
+V 74
+Replace an assert in writeRtp with some sensible handling of the situation
+END

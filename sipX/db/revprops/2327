@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-14T11:55:51.847199Z
+K 7
+svn:log
+V 139
+http://track.sipfoundry.org/browse/XVX-26
+Remove tabs from sipXregistry source files.
+Update Makefile 'enforce-tabs' to scan sipXregistry.
+
+END

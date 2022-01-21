@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-02-28T23:19:54.332631Z
+K 7
+svn:log
+V 208
+XCF-886 extract profile generation mechanics into ProfileGenerator hierarchy
+- it allows for easier code sharing between phone and gateways 
+- removes explicit dependencies on Velocity in phones and gateways
+
+END

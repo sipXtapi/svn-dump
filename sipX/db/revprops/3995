@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-06-02T17:18:54.229867Z
+K 7
+svn:log
+V 102
+XCF-387 prototype for adding other phone types to phone defaults.  Merge sipxconfig.css from prototype
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+cypromis
+K 8
+svn:date
+V 27
+2006-10-03T11:04:20.602280Z
+K 7
+svn:log
+V 112
+fix for http://track.sipfoundry.org/browse/XCF-1037
+missing default value for SIP_PROXY_DEFAULT_SERIAL_EXPIRES
+
+
+END

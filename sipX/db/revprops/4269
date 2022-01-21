@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-08T19:23:39.754620Z
+K 7
+svn:log
+V 156
+Revamp references to temporary, log, and PID files to be in the right
+directories.
+Use the correct SIPX_* symbols to refer to the various sipX directories.
+
+END

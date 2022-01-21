@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2007-06-04T18:24:27.728406Z
+K 7
+svn:log
+V 489
+A few audio tweak to increase help audio quality on Vista.  Under vista, WM_DONE messages are only sent every 50ms resuling in poor audio quality.  These changes call signalFrameStart every 10ms (instead of 50ms) which allows you to understand the audio, but it still is clicky/glitchy.  I also disabled the decodeIn functionality -- I suspect the code on the main sipXtapi branch is better here.  Lastly, In increased the latency in the speaker queue to match what I was seeing in Vista
+
+
+END

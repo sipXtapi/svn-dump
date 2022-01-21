@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-05-04T17:00:56.548349Z
+K 7
+svn:log
+V 392
+Merged revisions 222 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.8
+    ------------------------------------------------------------------------
+    r222 | mardy | 2005-03-25 10:17:59 -0500 (Fri, 25 Mar 2005) | 2 lines
+    Changed paths:
+       M /branches/2.8/bin/sipx-upgrade
+    
+    Added support for upgrading version 2.6.1 & 2.6.2 of media server.
+    
+
+END

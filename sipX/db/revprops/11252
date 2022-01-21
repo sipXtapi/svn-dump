@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-02-05T14:12:12.150013Z
+K 7
+svn:log
+V 377
+sipXmediaLib: Fix decoding of RFC4733 tones.
+1) Our Jitter Buffer Estimator can't handle RFC4733 events correctly, because they always have timestamp of the *beginning* of the event, not the start of the current packet. Some day we should teach JBE to handle this correctly.
+2) Also do not update current stream position after RFC4733 packet docode because of the same reason.
+
+END

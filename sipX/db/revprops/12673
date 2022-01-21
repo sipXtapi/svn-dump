@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2018-02-21T21:30:40.225375Z
+K 7
+svn:log
+V 99
+7rtial implementation of MpCodecsQualityTest.
+Not quite ready to run yet.  Partial implementation.
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-19T17:27:06.442031Z
+K 7
+svn:log
+V 652
+First pack of changes in sipXmediaLib to support video. This include:
+1) MpConnection splitted to MpConnection itself and MpAudioConnection. MpConnection now include only resources common for audio and video RTP streams - MprFromNet, MprDejitter and MprToNet. MpAudioConnection include all other audio-specific resources: MprEncode and MprDecode and it maintain connection to MprBridge.
+2) From now MprFromNet, MprDejitter and MprToNet does not inherit MpResource at all. They were used in totally different style theh other resources. May be we may create new asynchronous resource abstraction for them.
+3) Some more code clean up and beautification.
+
+END

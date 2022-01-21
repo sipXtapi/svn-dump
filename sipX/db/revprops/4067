@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-06-22T15:04:09.095951Z
+K 7
+svn:log
+V 79
+XCF-295 Move common group management to components, check duplicate group names
+END

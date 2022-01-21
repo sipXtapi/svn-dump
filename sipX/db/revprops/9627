@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-31T13:06:12.051884Z
+K 7
+svn:log
+V 116
+Bugfix: Fix .wav and .au files read in MprFromFile - file header size should be subtracted from actual data length.
+
+END

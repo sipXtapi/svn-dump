@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2015-08-28T18:40:30.757663Z
+K 7
+svn:log
+V 90
+Set default rport options for RecieveCall and set explicit media and deivce sample rates.
+
+END

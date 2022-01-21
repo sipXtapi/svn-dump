@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-03-24T20:29:27.321862Z
+K 7
+svn:log
+V 240
+Convert an existing subscription database on upgrade.
+
+This appears to be the real source for all of these:
+  http://track.sipfoundry.org/browse/XCS-40
+  http://track.sipfoundry.org/browse/XPS-20
+  http://track.sipfoundry.org/browse/XRR-36
+
+END

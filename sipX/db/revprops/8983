@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-03-06T00:10:05.031728Z
+K 7
+svn:log
+V 266
+Calculate the frame time in the windows device driver wrapper properly - don't just increment, as this is in MS - add a frame period's worth.
+Calculate the frame time derivative properly - use the OsTime to determine the result, not the frame time that is included.
+
+END

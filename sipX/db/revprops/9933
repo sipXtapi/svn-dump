@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-08-10T15:32:39.354542Z
+K 7
+svn:log
+V 524
+Better tunning of new Windows output driver.
+Now it is resistant to short gaps of playback buffer level. Such gaps are often may be seen if soundcard driver could not fire WOM_DONE events with frequency it want to. In this case it fire WOM_DONE events with slightly slower rate and sometimes fire it twice to compensate skew. We should not react to this short fall through, as really playback buffer is on wanted level. Previous implementation tended to insert silence and thus raise buffer level by one frame in this case.
+
+END

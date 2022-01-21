@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-04-26T15:45:22.026480Z
+K 7
+svn:log
+V 321
+Fix for memory leak in SipXEventDispatcher::removeListener. It assumed mListeners.destroy will also delete object inside UtlVoidPtr, but UtlVoidPtr only has void* to the object, thus can't delete it. We have to delete the object inside UtlVoidPtr manually.
+The same problem was in SipXEventDispatcher::removeAllListeners.
+END

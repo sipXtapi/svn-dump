@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2005-03-10T15:19:19.052173Z
+K 7
+svn:log
+V 122
+Initialized merge tracking via svnmerge with revisions 1-230 from
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.8
+
+END

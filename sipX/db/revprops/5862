@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-01-12T01:38:28.453782Z
+K 7
+svn:log
+V 715
+[XRR-82] [XRR-85] header files and init restructuring for Registry HA
+- Header files for new registry objects, in some cases with stub
+  implementations.
+- Refactored initialization of the top level objects.
+  The OsConfigDb object created by main is now made available to all
+  major objects in the constructors, and each object reads what it
+  needs from the configuration.  This greatly simplifies the main
+  module and SipRegistrar top level object, since they don't have to
+  read configuration for other objects.
+- Added configuration item for XMLRPC port
+- Minor documentation improvements to ResultSet and XmlRpcRequest
+- Log clarification in SipUserAgent for messages in queue after
+  garbage collection.
+
+
+END

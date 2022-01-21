@@ -1,0 +1,352 @@
+PLAIN
+K 9
+.htaccess
+V 24
+file 8rf.1i7.r5725/70178
+K 8
+404.html
+V 24
+file 8rg.1i7.r5725/69812
+K 8
+500.html
+V 24
+file 8rh.1i7.r5725/68446
+K 12
+dispatch.cgi
+V 24
+file 8ri.1i7.r5725/67335
+K 13
+dispatch.fcgi
+V 24
+file 8rj.1i7.r5725/68022
+K 11
+dispatch.rb
+V 24
+file 8rk.1i7.r5725/67619
+K 11
+favicon.ico
+V 24
+file 8rl.1i7.r5725/70486
+K 10
+index.html
+V 24
+file 8rn.1i7.r5725/69993
+K 11
+javascripts
+V 23
+dir 8ro.1i7.r5725/69629
+K 10
+robots.txt
+V 24
+file 8rt.1i7.r5725/68264
+END
+ENDREP
+id: 8re.1i7.r5727/476
+type: dir
+pred: 8re.1i7.r5726/107
+count: 2
+text: 5727 0 463 463 405233479d7fa9c978a18034218ebbc4
+props: 5726 0 94 0 7c70d4c2a830476ad14bf4c732d774fd
+cpath: /main/sipXconfig/setup/public
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 8
+.project
+V 24
+file 8qh.1i7.r5725/58648
+K 6
+README
+V 24
+file 8qi.1i7.r5725/66772
+K 8
+Rakefile
+V 24
+file 8qj.1i7.r5725/58475
+K 3
+app
+V 23
+dir 8qk.1i7.r5725/58197
+K 10
+components
+V 23
+dir 8qy.1i7.r5725/63707
+K 6
+config
+V 23
+dir 8qz.1i7.r5725/65737
+K 2
+db
+V 23
+dir 8r8.1i7.r5725/65908
+K 3
+doc
+V 23
+dir 8r9.1i7.r5725/66268
+K 3
+lib
+V 23
+dir 8rb.1i7.r5725/66606
+K 3
+log
+V 23
+dir 8rd.1i7.r5725/58365
+K 6
+public
+V 21
+dir 8re.1i7.r5727/476
+K 6
+script
+V 23
+dir 8rv.1i7.r5725/63536
+K 4
+test
+V 23
+dir 8sb.1i7.r5725/55000
+K 6
+vendor
+V 23
+dir 8sl.1i7.r5725/67123
+END
+ENDREP
+id: 8qg.1i7.r5727/1286
+type: dir
+pred: 8qg.1i7.r5726/923
+count: 2
+text: 5727 717 556 556 49f65be15b2791fa744b97c3409442a4
+cpath: /main/sipXconfig/setup
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 2hg.0.r3393/21790
+K 9
+ChangeLog
+V 22
+file 2hh.1i7.r5673/634
+K 7
+INSTALL
+V 24
+file 2hi.1i7.r5443/27201
+K 7
+LICENSE
+V 23
+file 2hj.0.r3393/851332
+K 11
+Makefile.am
+V 23
+file 2hk.1i7.r5483/4846
+K 4
+NEWS
+V 23
+file 2hl.0.r3393/808567
+K 6
+README
+V 24
+file 2hm.1i7.r5365/24861
+K 4
+TODO
+V 22
+file 2hn.0.r4025/58643
+K 9
+acsite.m4
+V 22
+file 2ho.0.r3393/21475
+K 14
+ant-targets.am
+V 25
+file 2hp.1i7.r4886/145328
+K 15
+ant-targets.xml
+V 24
+file 2hq.1i7.r5690/57744
+K 3
+bin
+V 23
+dir 4bz.1i7.r5605/14993
+K 19
+build.properties.in
+V 23
+file 81e.1i7.r5483/4393
+K 9
+build.xml
+V 23
+file 4h8.1i7.r5469/1383
+K 12
+configure.ac
+V 22
+file 2jg.1i7.r5721/119
+K 16
+dependencies.xml
+V 26
+file 5d9.1i7.r4884/5719334
+K 3
+doc
+V 23
+dir 2jh.1i7.r5576/30542
+K 3
+etc
+V 25
+dir 4b7.1i7.r4884/5840691
+K 3
+lib
+V 24
+dir 2jy.1i7.r5647/361316
+K 14
+lib.properties
+V 25
+file 81m.1i7.r5647/356707
+K 4
+meta
+V 24
+dir 4ea.1i7.r5647/344212
+K 7
+neoconf
+V 23
+dir 4eo.1i7.r5724/48561
+K 23
+profilepub_sipagent.dsp
+V 22
+file 4b5.1i7.r4929/429
+K 5
+setup
+V 22
+dir 8qg.1i7.r5727/1286
+K 18
+sipxconfig.spec.in
+V 21
+file 4bh.1i7.r5606/43
+K 18
+subant-targets.xml
+V 23
+file 4h9.1i7.r5402/3659
+K 3
+web
+V 22
+dir 4l5.1i7.r5672/3962
+END
+ENDREP
+id: 2hf.1i7.r5727/2679
+type: dir
+pred: 2hf.1i7.r5726/2316
+count: 1285
+text: 5727 1471 1195 1195 180e3c31cc32698e1852d06b71243b54
+props: 5638 28909 606 0 75232b1661d6754472ef4cf809c492e0
+cpath: /main/sipXconfig
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 7
+bbridge
+V 21
+dir 8dl.0.r5657/26340
+K 5
+build
+V 20
+file 7ve.0.r5711/741
+K 6
+config
+V 21
+dir 91.1i4.r5681/1419
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 14
+resiprocateLib
+V 20
+dir 8g8.0.r5655/3734
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r5486/5421
+K 17
+sipXcommserverLib
+V 22
+dir 1qo.1i6.r5711/5575
+K 10
+sipXconfig
+V 22
+dir 2hf.1i7.r5727/2679
+K 19
+sipXmediaAdapterLib
+V 20
+dir 89s.0.r5622/5435
+K 12
+sipXmediaLib
+V 21
+dir mz.1i8.r5529/7334
+K 7
+sipXpbx
+V 23
+dir 5g6.1i9.r5724/18358
+K 9
+sipXphone
+V 22
+dir 6qk.1ia.r5262/5130
+K 11
+sipXportLib
+V 21
+dir 3.1ib.r5716/16914
+K 9
+sipXproxy
+V 23
+dir 1vt.1ic.r5657/10670
+K 13
+sipXpublisher
+V 23
+dir 20n.1id.r5657/28648
+K 12
+sipXregistry
+V 23
+dir 1y5.1ie.r5722/15186
+K 11
+sipXtackLib
+V 21
+dir dk.1if.r5720/4099
+K 8
+sipXvxml
+V 23
+dir 22d.1ig.r5657/13904
+END
+ENDREP
+id: 7q4.0.r5727/3729
+type: dir
+pred: 7q4.0.r5726/3367
+count: 778
+text: 5727 2922 794 794 bf7a628f767dcb4ca50b670c5af3b3e0
+props: 5724 51036 2516 0 5ec742b4a0031e5e1afc6d05c731cfc6
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r5710/14885
+K 4
+main
+V 20
+dir 7q4.0.r5727/3729
+K 4
+tags
+V 20
+dir 7q5.0.r5723/2547
+END
+ENDREP
+id: 0.0.r5727/4064
+type: dir
+pred: 0.0.r5726/3703
+count: 5727
+text: 5727 3937 114 114 9d74686cf2d6c5bd8138e8eb59cf9cd3
+cpath: /
+copyroot: 0 /
+
+8rm.1i7.r5725/67859 delete false false /main/sipXconfig/setup/public/images
+
+8ru.1i7.r5725/70361 delete false false /main/sipXconfig/setup/public/stylesheets
+
+
+4064 4207

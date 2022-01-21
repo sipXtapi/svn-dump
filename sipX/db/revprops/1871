@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-01T12:50:04.190276Z
+K 7
+svn:log
+V 94
+Add update-passtokens, a program to calculate the passtokens for users
+given their passwords.
+
+END

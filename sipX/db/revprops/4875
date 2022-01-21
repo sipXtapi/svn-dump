@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-07-27T13:38:07.637115Z
+K 7
+svn:log
+V 804
+Merged revisions 2615 via svnmerge from
+https://paradise.pingtel.com/rep/sipX/mirror/main
+  | ................................
+  | r2596 | lawrence | 2005-07-26 13:21:53 -0400 (Tue, 26 Jul 2005) | 1 line
+  | reduce the number of httpd logs by combining both error and both access logs
+  | ................................
+  | r2606 | lawrence | 2005-07-26 17:42:59 -0400 (Tue, 26 Jul 2005) | 10 lines
+  | Speed improvements to sipxpbx start and stop
+  | start is improved by removing waits in ProcessDefinitions.xml that
+  |   do not appear to be serving any useful purpose.
+  | stop is improved by splitting the process such that one pass is
+  |   made over all the processes to send the SIGTERM to each,
+  |   followed by another pass to verify that it has stopped and
+  |   sending SIGKILL if needed.
+
+END

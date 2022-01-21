@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-05-02T21:18:18.492713Z
+K 7
+svn:log
+V 82
+Added support for network asserted identity to SipMessage
+(P-Asserted-Identity).
+
+
+END

@@ -1,0 +1,42 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-06T18:44:26.114576Z
+K 7
+svn:log
+V 1544
+mergefrom pingtel-main 5518
+
+Add code to properly signal and release the OsProtectedEvent allocated
+in CallManager::bufferPlay.
+Correct how the ending time of a re-SUBSCRIBE is calculate.
+In getPublished, when the default constructor is missing, return NULL
+via the appropriate argument, rather than leaving it un-defined.
+Put the Subscription-State header in NOTIFYs, as required by RFC 3265.
+Remove a call to SipPublishContentMgr::unpublish, as with the new
+memory management scheme for that class, it is not needed.
+Correct the presence status values to "open" and "closed", per RFC
+3863 section 4.1.4.
+Fix a use of SipPublishContentMgr::publish which is usually
+conditionalized out, and so had suffered bit rot.
+Generate Accept headers on SUBSCRIBEs to specify the media-type we
+desire.  (Not mandatory under RFC 3265, but a good idea.)
+Put the right content-type (application/dialog-info+xml) on dialog events.
+Use the symbolic name SIP_DIALOG_EVENT_CONTENT_TYPE for that string.
+Put a comment on the call that puts an Accept-Language on most requests,
+noting what it means.
+Fix SipMessage::setSubscribeData to set the Route header only if there
+is a non-empty value for it.
+Add a default content constructor to SipPresenceMonitor so we can
+produce correct presence notifications for users that we know nothing
+about, which is the state before the user signs in/out the first time.
+Add an assert that will catch mis-used timers a little earlier than
+they are now.
+http://track.pingtel.com/browse/ACD-98
+Improve tests and debugging prints.
+
+END

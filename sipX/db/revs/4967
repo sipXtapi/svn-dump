@@ -1,0 +1,64 @@
+PLAIN
+K 10
+svn:ignore
+V 10
+build.err
+
+K 25
+svnmerge-mirror-main-head
+V 49
+https://paradise.pingtel.com/rep/sipX/mirror/main
+K 25
+svnmerge-mirror-main-revs
+V 151
+1-3294,3314,3342,3354-3359,3363,3368,3373,3381-3382,3415,3440-3441,3449,3454,3466,3508,3519,3523,3546,3550,3554,3588,3594,3601-3603,3608-3609,3611-3612
+K 26
+svnmerge-pingtel-main-head
+V 50
+https://paradise.pingtel.com/rep/sipX/pingtel/main
+K 29
+svnmerge-sipfoundry-main-head
+V 40
+https://scm.sipfoundry.org/rep/sipX/main
+K 29
+svnmerge-sipfoundry-main-revs
+V 16
+1-4887,4931-4932
+END
+ENDREP
+id: 7q4.0.r4967/550
+type: dir
+pred: 7q4.0.r4966/10478
+count: 153
+text: 4966 8610 715 715 ada641f9a39ca7d1eddf0cb41151d6d6
+props: 4967 0 537 0 f0fe46ef88de2690ffc4f35566fbc1ae
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r4813/32382
+K 4
+main
+V 19
+dir 7q4.0.r4967/550
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r4967/881
+type: dir
+pred: 0.0.r4966/10816
+count: 4967
+text: 4967 753 115 115 959427b2195df86145fcc6a548cb901d
+cpath: /
+copyroot: 0 /
+
+7q4.0.t4966-1 modify false true /main
+
+
+881 1023

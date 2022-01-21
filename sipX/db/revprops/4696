@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-10-18T15:31:02.564134Z
+K 7
+svn:log
+V 87
+First shot at changes required to build under linux with the new directory
+structure.
+
+
+END

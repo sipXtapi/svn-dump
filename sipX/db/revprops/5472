@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-11-02T15:53:01.108927Z
+K 7
+svn:log
+V 142
+XCF-742 - Make Add user link clear the user id on the new users page before displaying, was a PageLink which entered page w/o clearing user id
+END

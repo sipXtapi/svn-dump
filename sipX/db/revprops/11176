@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-13T18:56:29.003869Z
+K 7
+svn:log
+V 84
+sipXmediaLib: Fix compilation under Linux, while MpMMTimerPosix is not implemented.
+
+END

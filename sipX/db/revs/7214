@@ -1,0 +1,108 @@
+PLAIN
+K 10
+svn:ignore
+V 10
+build.err
+
+K 26
+svnmerge-pingtel-main-head
+V 50
+https://paradise.pingtel.com/rep/sipX/pingtel/main
+K 26
+svnmerge-pingtel-main-revs
+V 206
+1-5590,5645,5738,5954,5969,6041,6077,6139,6144,6156,6158,6187,6207-6208,6230,6285,6289,6292-6295,6298-6299,6301,6306,6308-6309,6311,6325-6327,6329,6333,6338,6342,6403,6538-6539,6551,6561,6937,6953,6960-6961
+K 22
+svnmerge-sipx-3.0-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.0
+K 22
+svnmerge-sipx-3.0-revs
+V 51
+1-5315,5348,5357,5382,5417,5451,5474-5478,5508,5621
+K 22
+svnmerge-sipx-3.2-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.2
+K 22
+svnmerge-sipx-3.2-revs
+V 41
+1-6323,6368-6370,6494,6521,6587-6588,6470
+K 22
+svnmerge-sipx-3.4-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.4
+K 22
+svnmerge-sipx-3.4-revs
+V 151
+1-6680,6748,6759,6763-6764,6773,6775,6777-6778,6784,6794-6795,6798,6803,6825,6888,6894,6902,6905,6926,6947,6956,6966,6976,6978,6987,7000,7077-7079,7095
+K 29
+svnmerge-sipx-modularity-head
+V 55
+https://scm.sipfoundry.org/rep/sipX/branches/modularity
+K 29
+svnmerge-sipx-modularity-revs
+V 6
+1-6845
+K 30
+svnmerge-sipx-replication-head
+V 67
+https://scm.sipfoundry.org/rep/sipX/branches/sipXconfig/replication
+K 30
+svnmerge-sipx-replication-revs
+V 6
+1-5723
+K 26
+svnmerge-solaris2main-head
+V 57
+https://scm.sipfoundry.org/rep/sipX/branches/solaris_port
+K 26
+svnmerge-solaris2main-revs
+V 6
+1-6454
+K 43
+svnmerge-user_dworley_redirectors2main-head
+V 69
+https://scm.sipfoundry.org/rep/sipX/branches/user_dworley_redirectors
+K 43
+svnmerge-user_dworley_redirectors2main-revs
+V 6
+1-7213
+END
+ENDREP
+id: 7q4.0.r7214/1594
+type: dir
+pred: 7q4.0.r7211/40786
+count: 1609
+text: 7211 39857 916 916 a319ec5b52f19538ef39dc41c37735a6
+props: 7214 0 1581 0 4a7d32a7e75d434998655ae8b33e7c01
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r7213/22261
+K 4
+main
+V 20
+dir 7q4.0.r7214/1594
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r7214/1929
+type: dir
+pred: 0.0.r7213/22546
+count: 7214
+text: 7214 1801 115 115 8043bcf2d967c3e14dfacdd8f847d01c
+cpath: /
+copyroot: 0 /
+
+7q4.0.t7213-1 modify false true /main
+
+
+1929 2073

@@ -1,0 +1,188 @@
+PLAIN
+K 5
+2.5.1
+V 17
+dir 3.e.r115/2794
+K 5
+2.5.2
+V 17
+dir 3.h.r169/1469
+K 12
+2.6-export-A
+V 16
+dir 3.t.r290/474
+K 12
+2.6-export-B
+V 16
+dir 3.u.r294/474
+K 12
+2.6-export-C
+V 16
+dir 3.v.r302/474
+K 12
+2.6-export-D
+V 16
+dir 3.w.r303/474
+K 12
+2.6-export-E
+V 16
+dir 3.x.r305/474
+K 12
+2.6-export-F
+V 16
+dir 3.y.r307/474
+K 12
+2.6-export-G
+V 15
+dir 3.10.r311/0
+K 12
+2.6-export-H
+V 15
+dir 3.11.r312/0
+K 12
+2.6-export-J
+V 15
+dir 3.12.r315/0
+K 12
+2.6-export-K
+V 15
+dir 3.13.r318/0
+K 12
+2.6-export-L
+V 15
+dir 3.14.r334/0
+K 12
+2.6-export-M
+V 15
+dir 3.15.r335/0
+K 12
+2.6-export-N
+V 15
+dir 3.16.r336/0
+K 12
+2.6-export-O
+V 15
+dir 3.19.r365/0
+K 12
+2.6-export-P
+V 15
+dir 3.1a.r366/0
+K 12
+2.6-export-Q
+V 15
+dir 3.1b.r368/0
+K 12
+2.6-export-R
+V 15
+dir 3.1c.r369/0
+K 12
+2.6-export-S
+V 15
+dir 3.1l.r376/0
+K 12
+2.6-export-T
+V 15
+dir 3.1m.r386/0
+K 12
+2.6-export-U
+V 15
+dir 3.1o.r392/0
+K 5
+2.6.1
+V 16
+dir 3.z.r309/474
+K 5
+2.6.2
+V 18
+dir 3.1p.r399/1682
+K 12
+2.8-export-A
+V 15
+dir 3.1r.r443/0
+K 12
+2.8-export-B
+V 15
+dir 3.1s.r459/0
+K 13
+main-export-A
+V 14
+dir 3.p.r276/0
+K 13
+main-export-B
+V 16
+dir 3.q.r282/357
+K 13
+main-export-C
+V 16
+dir 3.r.r288/357
+K 17
+sipxtapi-export-A
+V 15
+dir 3.1u.r469/0
+END
+ENDREP
+id: an.0.r483/1178
+type: dir
+pred: an.0.r482/1464
+count: 39
+text: 483 0 1165 1165 f0c64608b949e2b56512fb05df64bedc
+cpath: /old/sipXportLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir ar.0.r479/2485
+K 4
+main
+V 17
+dir 3.0.r481/2093
+K 4
+tags
+V 18
+dir an.0.r483/1178
+END
+ENDREP
+id: 2.0.r483/1456
+type: dir
+pred: 2.0.r482/1744
+count: 481
+text: 483 1337 106 106 12a44bc64b798e44a95570cec0538a53
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r483/1456
+END
+ENDREP
+id: 1.0.r483/1667
+type: dir
+pred: 1.0.r482/1955
+count: 482
+text: 483 1610 44 44 994f4f75c8ffb7f94d7ffbd042253102
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r483/1667
+END
+ENDREP
+id: 0.0.r483/1855
+type: dir
+pred: 0.0.r482/2143
+count: 483
+text: 483 1807 35 35 e1a4a95d207cbdec42e2b6ece329016a
+cpath: /
+copyroot: 0 /
+
+3.1v.r482/0 delete false false /old/sipXportLib/tags/2.8-export-C
+
+
+1855 1992

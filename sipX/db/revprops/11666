@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2010-07-25T18:34:33.514680Z
+K 7
+svn:log
+V 92
+Disable uPNP by default on Win32 and increase delay display no camera issue from 1s to 2.5s
+
+END

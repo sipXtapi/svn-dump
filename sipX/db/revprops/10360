@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-11-06T05:54:42.527440Z
+K 7
+svn:log
+V 73
+Slightly refactor variables names in PlgSpeex.c. No actual code changes.
+
+END

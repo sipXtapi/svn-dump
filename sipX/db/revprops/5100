@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-22T14:23:25.279580Z
+K 7
+svn:log
+V 273
+XCF-605 added 866 to the default list of toll free area codes
+BTW: this is North America specific at the moment but can be easily adjusted by adding defaultTollFreeRule.areaCodes property to sipxconfig.properties.in file and setting it to comma separated toll free prefixes
+END

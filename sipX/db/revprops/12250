@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2014-12-03T06:20:08.951777Z
+K 7
+svn:log
+V 55
+Added GSM_WAVE mime subtype for wave file gsm encoding
+
+END

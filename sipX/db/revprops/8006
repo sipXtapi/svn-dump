@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-11-16T15:55:05.425073Z
+K 7
+svn:log
+V 97
+XCF-1309 compiler warnings and bug mixing consumers and members fields on the phonebook edit page
+END

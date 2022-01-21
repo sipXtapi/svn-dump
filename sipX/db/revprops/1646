@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-13T19:43:21.709891Z
+K 7
+svn:log
+V 103
+Linkage change: SIPXTAPI_API methods are now declared as 'extern "C"' -- Please recompile and relink.
+
+
+END

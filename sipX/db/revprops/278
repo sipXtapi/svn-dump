@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-10-29T14:08:28.334620Z
+K 7
+svn:log
+V 283
+Fix multi-threading crash in glib lists.
+The glib2 package needs a call before any of its structures are used
+to activate its thread-safety (not the default, apparently), and an
+additional library linked.
+This checkin may break the stripped-down glib build that Dan did
+for Windows.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-10T00:24:17.996172Z
+K 7
+svn:log
+V 124
+XCF-730 - introduced  UserSearch.MAX_RESULT constant (set to 100) to limit the number of results displayed on Add Line page
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-06-22T18:05:53.735321Z
+K 7
+svn:log
+V 167
+Added operators == and != to UtlString, lack of support manifested horrible bugs in OsPath that extended UtlString.  Added UtlString unittests for new func.(of course)
+END

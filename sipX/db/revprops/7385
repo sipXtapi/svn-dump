@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-08-31T19:46:25.879972Z
+K 7
+svn:log
+V 69
+Fixed compiler warnings about converting a 64 bit integer to a long.
+
+END

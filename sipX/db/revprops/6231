@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-23T19:26:31.645572Z
+K 7
+svn:log
+V 156
+XCF-753 autoattendants tests fixed after updating to T4
+mostly problems with upload component that needs to be explicitely filled before forms are submited
+
+END

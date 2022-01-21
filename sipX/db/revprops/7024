@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-06-30T18:00:54.563224Z
+K 7
+svn:log
+V 193
+Merged revisions 6924-7021,7023 via svnmerge from
+/branches/3.4/sipXconfig
+
+Fix bug in CronScheduleTest that makes it fail on the last day of the month
+(use Calendar.add and not Calendar.roll)
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-03-15T17:44:32.038597Z
+K 7
+svn:log
+V 152
+Re-enable the default CpPhoneMediaInterface on MSVS6.  
+  Looks like I checked the mediaAdapterLib project with the TopologyGraph enabled by accident.
+
+
+END

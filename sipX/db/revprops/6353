@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-03-14T18:07:44.968558Z
+K 7
+svn:log
+V 393
+- added global message catalog - sipxconfig-web.properties - common localized labels can be added here, although - if it does not cause too much duplication - adding the labels to components' and pages' message catalog is still a preferred strategy
+- new version Table component - to support status/stats tables on JobStatus and Registration pages - no checkboxes column and volatile contents
+
+END

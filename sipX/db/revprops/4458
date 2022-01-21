@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-01-21T20:18:00.863952Z
+K 7
+svn:log
+V 156
+Fix watchdog processing so that '<process ... restart="disable" ...>'
+actually disables restarting of processes.
+http://track.sipfoundry.org/browse/XPB-192
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-11T11:40:01.754631Z
+K 7
+svn:log
+V 98
+Advanced scheme of underrun handling in OSS input driver.
+Small documentation fixes included too.
+
+END

@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-11-12T22:27:23.535029Z
+K 7
+svn:log
+V 291
+Fix dialog handling for SUBSCRIBE/NOTIFY
+http://track.sipfoundry.org/browse/XPS-13
+
+Update simple-message-summary notifications to RFC3842 
+http://track.sipfoundry.org/browse/XPS-5
+
+Actually use the maximum subscription time configuration parameter
+http://track.sipfoundry.org/browse/XPS-14
+
+END

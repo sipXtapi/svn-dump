@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-09-15T18:03:35.027307Z
+K 7
+svn:log
+V 96
+sipfoundry only change:  made release and debug version link options the same, except for paths
+
+END

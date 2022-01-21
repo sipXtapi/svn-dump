@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-07-10T12:49:34.299847Z
+K 7
+svn:log
+V 222
+Device could be changed to NONE and then back to real device.
+This bug is described at the end of the http://track.sipfoundry.org/browse/XMR-64 issue.
+Provided patch looks reasonable and applied with minimal modification.
+
+END

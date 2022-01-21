@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-24T22:43:18.990204Z
+K 7
+svn:log
+V 867
+Daily merge out from main
+    [XMR-56] Let media system decide which codecs it supports, don't let
+    media server override and talk it into supporting unknown codec types.
+
+    XCF-923 When SOAP starts up on first API call, it sends a Spring Application Refesh event to all Spring Application Event listeners, only the application context is the soap context, not the web context.  Replication and Alias collection receive these events and get pointed to wrong context and cannot find appropriate data.   Fix was to effectively ignore application context events and only clear state when new applicationcontext is injected.  Unsure if this is what spring engineering intended, but this is a common strategy used in other places in application can addresses this issue.
+
+    Checkstyle error
+
+    Remove extraneous logging
+
+    Revised removal of extraneous logging
+
+END

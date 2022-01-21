@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-03-29T16:55:31.551618Z
+K 7
+svn:log
+V 303
+Clean up building with (or without) SIP TLS support
+  TLS isn't working yet, but the build is better.
+Cleaned up lots of logging an added some disabled logging for connection managment tracking.
+Removed quite a bit of commented-out code and reindented stuff that
+  had been poorly converted from tabs.
+
+
+END

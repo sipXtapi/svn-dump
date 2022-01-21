@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-04-02T21:23:54.544208Z
+K 7
+svn:log
+V 179
+Enabled early media in sipXcallAccept and SipConnection::accept.
+  send 183 (instead of 180) with SDP if early media is requested
+  start sending RTP if early media is requested
+
+
+END

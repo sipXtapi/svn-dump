@@ -1,0 +1,820 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: li.0.r916/82
+type: file
+pred: li.0.r903/6039
+count: 2
+text: 903 1668 1842 5452 22f8acddfb46270c8fc53b47a87359e2
+props: 916 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/include/net/SipPimClient.h
+copyroot: 0 /
+
+PLAIN
+K 10
+HttpBody.h
+V 20
+file e8.0.r772/12628
+K 13
+HttpMessage.h
+V 21
+file e9.0.r891/120354
+K 20
+HttpRequestContext.h
+V 21
+file ea.0.r891/120846
+K 12
+HttpServer.h
+V 21
+file eb.0.r891/122088
+K 16
+MailAttachment.h
+V 20
+file ec.0.r772/11325
+K 13
+MailMessage.h
+V 20
+file ed.0.r772/17852
+K 14
+MimeBodyPart.h
+V 20
+file ee.0.r772/12306
+K 15
+NameValuePair.h
+V 21
+file ef.0.r891/117873
+K 20
+NameValueTokenizer.h
+V 21
+file eg.0.r891/119855
+K 23
+NetAttributeTokenizer.h
+V 20
+file eh.0.r772/14892
+K 16
+NetBase64Codec.h
+V 21
+file ei.0.r891/118120
+K 13
+NetMd5Codec.h
+V 20
+file ek.0.r772/18503
+K 5
+QoS.h
+V 20
+file el.0.r772/13605
+K 9
+SdpBody.h
+V 20
+file en.0.r874/21872
+K 10
+SdpCodec.h
+V 21
+file eo.0.r891/123569
+K 17
+SdpCodecFactory.h
+V 20
+file ep.0.r772/16214
+K 11
+SipClient.h
+V 21
+file er.0.r891/118368
+K 22
+SipConfigServerAgent.h
+V 20
+file es.0.r772/17518
+K 9
+SipLine.h
+V 19
+file et.0.r914/4998
+K 20
+SipLineCredentials.h
+V 21
+file eu.0.r891/123073
+K 14
+SipLineEvent.h
+V 20
+file ev.0.r772/21455
+K 13
+SipLineList.h
+V 21
+file ew.0.r891/121353
+K 12
+SipLineMgr.h
+V 19
+file ex.0.r914/5235
+K 12
+SipMessage.h
+V 21
+file ey.0.r891/118856
+K 17
+SipMessageEvent.h
+V 21
+file ez.0.r891/121598
+K 16
+SipMessageList.h
+V 20
+file f0.0.r772/11978
+K 12
+SipNonceDb.h
+V 21
+file f2.0.r891/123325
+K 20
+SipNotifyStateTask.h
+V 20
+file f3.0.r772/22106
+K 21
+SipObserverCriteria.h
+V 20
+file f4.0.r772/24395
+K 14
+SipPimClient.h
+V 17
+file li.0.r916/82
+K 23
+SipProtocolServerBase.h
+V 21
+file f5.0.r891/121098
+K 15
+SipRefreshMgr.h
+V 19
+file f9.0.r914/4753
+K 19
+SipRequestContext.h
+V 19
+file l5.0.r840/3941
+K 15
+SipServerBase.h
+V 21
+file fb.0.r891/122825
+K 12
+SipSession.h
+V 20
+file fc.0.r772/20152
+K 14
+SipSrvLookup.h
+V 19
+file fd.0.r911/4843
+K 14
+SipTcpServer.h
+V 21
+file fe.0.r891/120600
+K 14
+SipTlsServer.h
+V 21
+file ff.0.r891/119609
+K 16
+SipTransaction.h
+V 20
+file fg.0.r772/20476
+K 20
+SipTransactionList.h
+V 20
+file fh.0.r772/19160
+K 14
+SipUdpServer.h
+V 21
+file fi.0.r891/118610
+K 14
+SipUserAgent.h
+V 18
+file fj.0.r897/806
+K 18
+SipUserAgentBase.h
+V 21
+file fk.0.r891/119358
+K 23
+SipUserAgentStateless.h
+V 21
+file fl.0.r891/119102
+K 9
+TapiMgr.h
+V 17
+file ln.0.r900/42
+K 5
+Url.h
+V 20
+file fn.0.r772/13921
+END
+ENDREP
+id: e7.0.r916/2495
+type: dir
+pred: e7.0.r914/7655
+count: 52
+text: 916 320 2162 2162 a283b0435bb5671d0be5d17db609a7ef
+props: 657 0 36 0 ff257944efec6d85a2de8765123bcfd4
+cpath: /old/sipXtackLib/main/include/net
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 18
+file e6.0.r915/199
+K 3
+net
+V 18
+dir e7.0.r916/2495
+K 8
+resparse
+V 20
+dir fp.0.r891/117692
+END
+ENDREP
+id: e5.0.r916/2848
+type: dir
+pred: e5.0.r915/563
+count: 55
+text: 916 2719 116 116 f0c809b4dd9c822056abf818cc3059a0
+props: 657 399 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXtackLib/main/include
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: lj.0.r916/3150
+type: file
+pred: lj.0.r903/9090
+count: 2
+text: 903 3537 2428 8439 436e879f8e7403d86f73fa4c2e736387
+props: 916 3068 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/src/net/SipPimClient.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: lm.0.r916/3473
+type: file
+pred: lm.0.r840/7167
+count: 1
+text: 840 2209 1719 5766 425ee7dc71eacf6e902c902067787374
+props: 916 3391 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/src/net/SipRequestContext.cpp
+copyroot: 0 /
+
+PLAIN
+K 12
+HttpBody.cpp
+V 21
+file ib.0.r891/139103
+K 15
+HttpMessage.cpp
+V 21
+file ic.0.r891/140096
+K 22
+HttpRequestContext.cpp
+V 21
+file id.0.r891/140595
+K 14
+HttpServer.cpp
+V 21
+file ie.0.r891/136391
+K 18
+MailAttachment.cpp
+V 20
+file if.0.r772/45224
+K 15
+MailMessage.cpp
+V 20
+file ig.0.r772/51090
+K 16
+MimeBodyPart.cpp
+V 20
+file ih.0.r772/46206
+K 17
+NameValuePair.cpp
+V 21
+file ii.0.r891/137873
+K 22
+NameValueTokenizer.cpp
+V 21
+file ij.0.r891/139597
+K 25
+NetAttributeTokenizer.cpp
+V 20
+file ik.0.r772/48466
+K 18
+NetBase64Codec.cpp
+V 21
+file il.0.r891/138119
+K 15
+NetMd5Codec.cpp
+V 20
+file in.0.r772/51739
+K 11
+SdpBody.cpp
+V 20
+file ip.0.r874/25088
+K 12
+SdpCodec.cpp
+V 21
+file iq.0.r891/137632
+K 19
+SdpCodecFactory.cpp
+V 19
+file ir.0.r794/1271
+K 13
+SipClient.cpp
+V 21
+file it.0.r891/138366
+K 24
+SipConfigServerAgent.cpp
+V 21
+file iu.0.r891/140342
+K 11
+SipLine.cpp
+V 19
+file iv.0.r914/8479
+K 22
+SipLineCredentials.cpp
+V 21
+file iw.0.r891/137381
+K 16
+SipLineEvent.cpp
+V 21
+file ix.0.r891/136146
+K 15
+SipLineList.cpp
+V 21
+file iy.0.r891/135403
+K 14
+SipLineMgr.cpp
+V 19
+file iz.0.r914/8716
+K 14
+SipMessage.cpp
+V 20
+file j0.0.r880/16468
+K 19
+SipMessageEvent.cpp
+V 21
+file j1.0.r891/135898
+K 18
+SipMessageList.cpp
+V 21
+file j2.0.r891/138855
+K 14
+SipNonceDb.cpp
+V 20
+file j4.0.r772/43280
+K 22
+SipNotifyStateTask.cpp
+V 21
+file j5.0.r891/136635
+K 23
+SipObserverCriteria.cpp
+V 20
+file j6.0.r772/43919
+K 16
+SipPimClient.cpp
+V 19
+file lj.0.r916/3150
+K 25
+SipProtocolServerBase.cpp
+V 21
+file j7.0.r891/135148
+K 17
+SipRefreshMgr.cpp
+V 19
+file jb.0.r914/9201
+K 21
+SipRequestContext.cpp
+V 19
+file lm.0.r916/3473
+K 17
+SipServerBase.cpp
+V 20
+file jd.0.r772/42622
+K 14
+SipSession.cpp
+V 20
+file je.0.r772/39051
+K 16
+SipSrvLookup.cpp
+V 19
+file jf.0.r911/8093
+K 16
+SipTcpServer.cpp
+V 19
+file jg.0.r884/8405
+K 16
+SipTlsServer.cpp
+V 20
+file jh.0.r880/16712
+K 18
+SipTransaction.cpp
+V 19
+file ji.0.r914/8233
+K 22
+SipTransactionList.cpp
+V 19
+file jj.0.r884/8646
+K 16
+SipUdpServer.cpp
+V 19
+file jk.0.r914/8956
+K 16
+SipUserAgent.cpp
+V 21
+file jl.0.r891/137132
+K 20
+SipUserAgentBase.cpp
+V 20
+file jm.0.r772/48137
+K 25
+SipUserAgentStateless.cpp
+V 21
+file jn.0.r891/139343
+K 11
+TapiMgr.cpp
+V 18
+file lo.0.r858/452
+K 7
+Url.cpp
+V 20
+file jp.0.r772/47507
+END
+ENDREP
+id: ia.0.r916/5950
+type: dir
+pred: ia.0.r914/11676
+count: 104
+text: 916 3719 2218 2218 72bec211183aa55bc4b3f725733cfb24
+cpath: /old/sipXtackLib/main/src/net
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file i9.0.r891/143366
+K 3
+net
+V 18
+dir ia.0.r916/5950
+K 8
+resparse
+V 20
+dir jq.0.r891/134971
+K 4
+test
+V 20
+dir k9.0.r891/129598
+END
+ENDREP
+id: i8.0.r916/6289
+type: dir
+pred: i8.0.r914/12017
+count: 122
+text: 916 6122 154 154 897eb610b0bb4b19ffacae9ddb4a286e
+props: 657 1149 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /old/sipXtackLib/main/src
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 4
+CRLF
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: le.0.r916/6589
+type: file
+pred: le.0.r903/12181
+count: 2
+text: 836 0 1545 5014 c185016405b54c97184a1b637cad0df7
+props: 916 6509 67 0 40862581c28acc44b2153a4f7a6c3f75
+cpath: /old/sipXtackLib/main/basicimclient.dsp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: lh.0.r916/6903
+type: file
+pred: lh.0.r903/12462
+count: 2
+text: 903 0 1641 5137 02a1dad4b8a89be355bdba3db06b0ddd
+props: 916 6821 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/examples/im/basicImClient.cpp
+copyroot: 0 /
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+END
+ENDREP
+id: ll.0.r916/7217
+type: file
+pred: ll.0.r903/12755
+count: 2
+text: 840 226 198 227 f5f53c80aca6dfeb291bab24a18560d8
+props: 916 7147 57 0 6cf7b9a5851486d474da139b168458a4
+cpath: /old/sipXtackLib/main/examples/im/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 19
+file ll.0.r916/7217
+K 17
+basicImClient.cpp
+V 19
+file lh.0.r916/6903
+END
+ENDREP
+id: lg.0.r916/7562
+type: dir
+pred: lg.0.r903/13104
+count: 4
+text: 916 7455 94 94 d7c6b8dcc640fa406359e31270e4fa1d
+props: 846 297 73 0 f181de05f80f20132ea353bf5a884ada
+cpath: /old/sipXtackLib/main/examples/im
+copyroot: 0 /
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+END
+ENDREP
+id: lk.0.r916/7855
+type: file
+pred: lk.0.r903/13374
+count: 2
+text: 840 130 83 72 cf1167624d9d1c30fb0437b6b63269a4
+props: 916 7785 57 0 6cf7b9a5851486d474da139b168458a4
+cpath: /old/sipXtackLib/main/examples/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 19
+file lk.0.r916/7855
+K 2
+im
+V 18
+dir lg.0.r916/7562
+END
+ENDREP
+id: lf.0.r916/8178
+type: dir
+pred: lf.0.r903/13701
+count: 4
+text: 916 8088 77 77 3255acd7cef2f1116d70217aa37a9614
+props: 846 696 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXtackLib/main/examples
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 20
+file dl.0.r772/70283
+K 9
+ChangeLog
+V 21
+file dm.0.r891/128130
+K 7
+INSTALL
+V 21
+file dn.0.r891/155358
+K 7
+LICENSE
+V 21
+file do.0.r891/111455
+K 11
+Makefile.am
+V 21
+file dp.0.r891/156301
+K 4
+NEWS
+V 20
+file dq.0.r772/79111
+K 6
+README
+V 20
+file dr.0.r772/69980
+K 4
+TODO
+V 20
+file ds.0.r772/75936
+K 9
+acsite.m4
+V 20
+file dt.0.r772/28655
+K 14
+ant-targets.am
+V 21
+file du.0.r891/127031
+K 15
+ant-targets.xml
+V 21
+file dv.0.r891/143992
+K 17
+basicimclient.dsp
+V 19
+file le.0.r916/6589
+K 3
+bin
+V 20
+dir l0.0.r891/155979
+K 20
+config.properties.in
+V 20
+file dz.0.r772/75620
+K 12
+configure.ac
+V 19
+file e0.0.r861/3376
+K 3
+doc
+V 20
+dir e1.0.r891/155141
+K 8
+examples
+V 18
+dir lf.0.r916/8178
+K 7
+include
+V 18
+dir e5.0.r916/2848
+K 3
+lib
+V 20
+dir gh.0.r650/115439
+K 4
+meta
+V 20
+dir l6.0.r891/127911
+K 15
+sipXtackLib.dsp
+V 18
+file gj.0.r909/937
+K 18
+sipXtackLib.vcproj
+V 18
+file ld.0.r906/267
+K 15
+siplog2siptrace
+V 20
+dir gk.0.r891/156923
+K 7
+siptest
+V 18
+dir gn.0.r915/2705
+K 11
+siptest.dsp
+V 18
+file kv.0.r909/714
+K 9
+sipviewer
+V 20
+dir hn.0.r891/159552
+K 19
+sipxtacklib.spec.in
+V 19
+file kw.0.r902/2184
+K 3
+src
+V 18
+dir i8.0.r916/6289
+K 15
+syslog2siptrace
+V 20
+dir kk.0.r891/154350
+END
+ENDREP
+id: dk.0.r916/9603
+type: dir
+pred: dk.0.r915/4134
+count: 223
+text: 916 8398 1192 1192 7167866aa6ee8db6ffecd0465852b4ad
+props: 896 0 894 0 87d8655086cd050aba68a5a27a8aa99f
+cpath: /old/sipXtackLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir kz.0.r895/1308
+K 4
+main
+V 18
+dir dk.0.r916/9603
+K 4
+tags
+V 18
+dir kr.0.r913/2661
+END
+ENDREP
+id: dj.0.r916/9938
+type: dir
+pred: dj.0.r915/4470
+count: 317
+text: 916 9818 107 107 429093b17d3c4d7242cfce9425008d9f
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 18
+dir dj.0.r916/9938
+END
+ENDREP
+id: 1.0.r916/10192
+type: dir
+pred: 1.0.r915/4725
+count: 915
+text: 916 10094 85 85 99ba56a545d0b8c06aca79d53617457a
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r916/10192
+END
+ENDREP
+id: 0.0.r916/10383
+type: dir
+pred: 0.0.r915/4914
+count: 916
+text: 916 10334 36 36 8a6d22a48e6ac66c5db216ef0deef9ef
+cpath: /
+copyroot: 0 /
+
+lk.0.t915-1 modify false true /old/sipXtackLib/main/examples/Makefile.am
+
+lm.0.t915-1 modify false true /old/sipXtackLib/main/src/net/SipRequestContext.cpp
+
+lh.0.t915-1 modify false true /old/sipXtackLib/main/examples/im/basicImClient.cpp
+
+le.0.t915-1 modify false true /old/sipXtackLib/main/basicimclient.dsp
+
+ll.0.t915-1 modify false true /old/sipXtackLib/main/examples/im/Makefile.am
+
+lj.0.t915-1 modify false true /old/sipXtackLib/main/src/net/SipPimClient.cpp
+
+li.0.t915-1 modify false true /old/sipXtackLib/main/include/net/SipPimClient.h
+
+
+10383 10522

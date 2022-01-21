@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-04-22T04:40:44.255938Z
+K 7
+svn:log
+V 348
+Progress on XPR-120: Call resolver (CDR): support HA configurations with distributed proxies.  Work on loading CSEs from multiple DBs and merging the resulting event sets.
+Tune up some logging code.  Using blocks with log methods is a cleaner way of avoiding extra work, rather than checking explicitly whether logging at a given level is enabled.
+
+END

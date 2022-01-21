@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2010-03-31T20:33:29.191680Z
+K 7
+svn:log
+V 118
+sipXmediaLib: Add ability to write all audio from Mic and to Speaker to files in MpidAndroid.cpp and MpodAndroid.cpp.
+
+END

@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2011-01-19T19:43:33.118266Z
+K 7
+svn:log
+V 376
+-added setsockopt calls for windows QOS - works under NT 4.0 and Windows 9x only 
+ (http://support.microsoft.com/kb/248611), no-ops for other windows versions
+-Note: it is possible to link sipXtapi with a special library that intercepts calls 
+ to the ws2_32.lib API's and allows a setsockopt call to work for other versions of 
+ windows as well (using the windows QOS2 APIs)
+
+END

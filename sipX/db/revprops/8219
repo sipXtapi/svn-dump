@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-12-08T17:33:36.335350Z
+K 7
+svn:log
+V 289
+H.264 rtp depacketizer improvements:
+1) Force flag could be passed to decoder/depacketizer to force frame decoding, even if frame is not complete.
+2) Frame boundaries are calculated now depending on RTP timestamp. I.e. we always know is incoming RTP packet wanted in current frame or not.
+
+END

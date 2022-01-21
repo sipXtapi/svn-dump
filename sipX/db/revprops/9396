@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-19T20:51:34.559031Z
+K 7
+svn:log
+V 187
+No need to be allocated in dynamic memory for OsSysLog::spPriorities array.
+It have fixed size and could be allocated as usual array. This decreases number of reported memory leaks also.
+
+END

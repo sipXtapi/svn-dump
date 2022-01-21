@@ -1,0 +1,593 @@
+PLAIN
+K 26
+draft-ietf-sip-gruu-02.txt
+V 25
+file 8hm.28x.r5457/184314
+K 26
+draft-ietf-sip-gruu-03.txt
+V 25
+file 8hn.28x.r5457/184679
+K 26
+draft-ietf-sip-gruu-04.txt
+V 25
+file 8ho.28x.r5457/185045
+K 10
+getargs.pl
+V 21
+file 201.d5.r2532/915
+K 11
+gruu.test.1
+V 25
+file 8hp.28x.r5457/183351
+K 11
+gruu.test.2
+V 25
+file 8hq.28x.r5457/183659
+K 11
+gruu.test.3
+V 25
+file 8hr.28x.r5457/183967
+K 15
+redirector-test
+V 21
+file 202.d6.r2532/108
+K 20
+redirector-test-pick
+V 21
+file 20c.d7.r2532/519
+K 23
+redirector-test-suspend
+V 22
+file 20c.d8.r2532/1319
+K 10
+sipsend.pl
+V 25
+file 203.28y.r6259/133546
+END
+ENDREP
+id: 200.4sq.r7670/598
+type: dir
+pred: 200.4sq.r7470/21583
+count: 18
+text: 7670 0 585 585 94aaf909bdf44c78efaa8855249cfe28
+cpath: /branches/user_dworley_redirectors/sipXregistry/doc/developer
+copyroot: 2521 /old/sipXregistry/main/doc/developer
+
+PLAIN
+K 11
+Doxyfile.in
+V 24
+file 1zh.1ie.r7147/16792
+K 15
+HaScenarios.odt
+V 25
+file 8w8.2e9.r5815/211055
+K 15
+HaScenarios.pdf
+V 25
+file 8w9.2ea.r5815/211340
+K 11
+HaSetup.odt
+V 24
+file 8zd.2oa.r6826/81793
+K 11
+HaSetup.pdf
+V 24
+file 8ze.2ob.r6826/81510
+K 11
+Makefile.am
+V 25
+file 1z7.3yv.r7359/248616
+K 15
+Redirection.txt
+V 25
+file 1z8.3yv.r7460/720324
+K 15
+SyncDesign.html
+V 25
+file 8ox.1ie.r6259/135605
+K 14
+SyncDesign.txt
+V 25
+file 8oy.1ie.r6259/133278
+K 14
+SyncDesign.xml
+V 25
+file 8ow.1ie.r6259/135339
+K 9
+alias.xml
+V 21
+file 1z9.0.r2415/1312
+K 16
+call-pick-up.txt
+V 23
+file 8da.1ie.r5076/9685
+K 16
+caller-alias.xml
+V 25
+file d58.47x.r7460/720700
+K 9
+developer
+V 21
+dir 200.4sq.r7670/598
+K 17
+fallbackrules.xml
+V 25
+file 1zc.47y.r7359/248293
+K 11
+footer.html
+V 26
+file 1zi.1ie.r4884/6020637
+K 13
+huntgroup.xml
+V 21
+file 1za.0.r2415/1837
+K 16
+mappingrules.xml
+V 24
+file 1zb.1ie.r7159/11614
+K 16
+registration.xml
+V 22
+file 1zd.0.r2414/10316
+END
+ENDREP
+id: 1z6.3yv.r7670/1795
+type: dir
+pred: 1z6.3yv.r7470/22789
+count: 65
+text: 7670 842 940 940 09bb96c77d20a018742b5de82c182a66
+props: 5457 186797 69 0 79529bae43531362a7f9a067fcf6bf41
+cpath: /branches/user_dworley_redirectors/sipXregistry/doc
+copyroot: 4813 /main/sipXregistry
+
+id: 20d.51m.r7670/2071
+type: file
+pred: 20d.4sr.r7470/20530
+count: 6
+text: 7470 46 32 5943 2282e25ec737fd6a1654e197d9a8b5be
+props: 2521 31520 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins/SipRedirectorTest.cpp
+copyfrom: 7589 /branches/user_dworley_redirectors/sipXregistry/doc/developer/SipRedirectorTest.cpp
+
+id: 20e.51n.r7670/2449
+type: file
+pred: 20e.dv.r2522/9949
+count: 4
+text: 2504 11624 50 2255 398287296aacf1dbd23029ca11983809
+props: 2521 34466 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins/SipRedirectorTest.h
+copyfrom: 7589 /branches/user_dworley_redirectors/sipXregistry/doc/developer/SipRedirectorTest.h
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 87x.488.r7668/8023
+K 24
+SipRedirectorAliasDB.cpp
+V 24
+file 1zy.48m.r7459/18061
+K 22
+SipRedirectorAliasDB.h
+V 24
+file 1zz.48n.r7459/20703
+K 28
+SipRedirectorCallerAlias.cpp
+V 25
+file d70.4st.r7590/161792
+K 26
+SipRedirectorCallerAlias.h
+V 25
+file d71.4su.r7590/162279
+K 21
+SipRedirectorHunt.cpp
+V 24
+file 1ys.48o.r7459/23324
+K 19
+SipRedirectorHunt.h
+V 24
+file 1yt.48p.r7459/20335
+K 20
+SipRedirectorISN.cpp
+V 23
+file dib.488.r7651/1356
+K 18
+SipRedirectorISN.h
+V 23
+file dic.488.r7646/3989
+K 20
+SipRedirectorMPT.cpp
+V 24
+file 8hs.48q.r7459/18438
+K 18
+SipRedirectorMPT.h
+V 24
+file 8ht.48r.r7459/21076
+K 24
+SipRedirectorMapping.cpp
+V 24
+file 1zw.48s.r7459/22566
+K 22
+SipRedirectorMapping.h
+V 24
+file 1zx.48t.r7459/18809
+K 23
+SipRedirectorPickUp.cpp
+V 22
+file 20f.48u.r7653/216
+K 21
+SipRedirectorPickUp.h
+V 24
+file 20g.48v.r7459/19185
+K 22
+SipRedirectorRegDB.cpp
+V 24
+file 1zs.489.r7459/19942
+K 20
+SipRedirectorRegDB.h
+V 24
+file 1zt.48a.r7459/21821
+K 26
+SipRedirectorSubscribe.cpp
+V 24
+file 204.48w.r7470/23458
+K 24
+SipRedirectorSubscribe.h
+V 24
+file 205.48x.r7459/21443
+K 21
+SipRedirectorTest.cpp
+V 23
+file 20d.51m.r7670/2071
+K 19
+SipRedirectorTest.h
+V 23
+file 20e.51n.r7670/2449
+END
+ENDREP
+id: 87w.488.r7670/4041
+type: dir
+pred: 87w.488.r7668/9484
+count: 17
+text: 7670 2824 1204 1204 b198504aeb25cb501a01d5cc602bb532
+props: 7445 14488 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins
+copyroot: 7445 /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 87v.3yv.r7445/15224
+K 16
+redirect_plugins
+V 22
+dir 87w.488.r7670/4041
+K 16
+register_plugins
+V 23
+dir 87w.48b.r7445/14893
+END
+ENDREP
+id: 87u.3yv.r7670/4550
+type: dir
+pred: 87u.3yv.r7668/9993
+count: 17
+text: 7670 4385 152 152 e7dfc31292e5b8d2091e8ff9ac5f8257
+props: 5457 188544 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /branches/user_dworley_redirectors/sipXregistry/lib
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 21
+file 1y6.0.r2414/7414
+K 9
+ChangeLog
+V 20
+file 1y7.0.r2470/663
+K 7
+INSTALL
+V 22
+file 1y8.0.r2414/11973
+K 7
+LICENSE
+V 20
+file 1y9.0.r2470/440
+K 11
+Makefile.am
+V 25
+file 1ya.3yv.r7623/167364
+K 4
+NEWS
+V 22
+file 1yb.0.r2414/15680
+K 6
+README
+V 21
+file 1yc.0.r2414/7102
+K 4
+TODO
+V 22
+file 1yd.0.r2414/11664
+K 3
+bin
+V 24
+dir 1yf.3yv.r7359/250854
+K 6
+config
+V 24
+file d6l.3yv.r7351/25699
+K 12
+configure.ac
+V 23
+file 1yk.3yv.r7668/7738
+K 3
+doc
+V 22
+dir 1z6.3yv.r7670/1795
+K 3
+etc
+V 22
+dir 1yl.3yv.r7669/1183
+K 7
+include
+V 22
+dir 7v9.3yv.r7646/3348
+K 3
+lib
+V 22
+dir 87u.3yv.r7670/4550
+K 4
+meta
+V 24
+dir 1zk.3yv.r7460/715002
+K 16
+sipXregistry.dsp
+V 24
+file 1z4.1ie.r6813/55134
+K 20
+sipxregistry.spec.in
+V 25
+file 1ze.3yv.r7645/117723
+K 3
+src
+V 22
+dir 1yq.3yv.r7668/7463
+END
+ENDREP
+id: 1y5.3yv.r7670/5624
+type: dir
+pred: 1y5.3yv.r7669/2259
+count: 250
+text: 7670 4826 785 785 d4a0020c2453a8e4829b8ce9c710c205
+props: 7345 12073 908 0 fb4c6db7f7870bbd14ec49091b13a7c0
+cpath: /branches/user_dworley_redirectors/sipXregistry
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 11
+Makefile.in
+V 24
+file d0m.45p.r7523/66631
+K 7
+bbridge
+V 23
+dir 8dl.3xw.r7623/87903
+K 5
+build
+V 20
+file d5a.482.r7362/0
+K 6
+config
+V 22
+dir 91.439.r7623/91877
+K 12
+configure.ac
+V 24
+file d0n.3xw.r7623/90205
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 3
+lib
+V 23
+dir cyn.3xw.r7645/64590
+K 14
+resiprocateLib
+V 23
+dir 8g8.3xw.r7645/65863
+K 9
+sipXb2bua
+V 24
+dir dau.490.r7460/367128
+K 11
+sipXcallLib
+V 21
+dir va.3ym.r7668/5688
+K 17
+sipXcommserverLib
+V 24
+dir 1qo.3yn.r7645/124179
+K 10
+sipXconfig
+V 24
+dir 2hf.3yo.r7645/111254
+K 19
+sipXmediaAdapterLib
+V 24
+dir 89s.3xw.r7645/115338
+K 12
+sipXmediaLib
+V 23
+dir mz.3yp.r7645/113675
+K 7
+sipXpbx
+V 23
+dir 5g6.3yq.r7645/57417
+K 11
+sipXportLib
+V 21
+dir 3.3ys.r7645/36628
+K 9
+sipXproxy
+V 22
+dir 1vt.3yt.r7668/3213
+K 13
+sipXpublisher
+V 23
+dir 20n.3yu.r7645/59724
+K 12
+sipXregistry
+V 22
+dir 1y5.3yv.r7670/5624
+K 11
+sipXtackLib
+V 21
+dir dk.3yw.r7651/8269
+K 8
+sipXvxml
+V 23
+dir 22d.3yx.r7645/43865
+K 10
+top.mak.in
+V 25
+file d5l.481.r7359/276927
+END
+ENDREP
+id: 7q4.3xw.r7670/6899
+type: dir
+pred: 7q4.3xw.r7669/3535
+count: 1642
+text: 7670 5897 989 989 887dc496dbe6bae654f2d152bf87c1a2
+props: 7645 130104 177 0 67e409217bb00e55fd90268146f1410a
+cpath: /branches/user_dworley_redirectors
+copyroot: 7205 /branches/user_dworley_redirectors
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 22
+dir 7q4.3ib.r7575/4152
+K 3
+3.6
+V 21
+dir 7q4.50x.r7648/674
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 21
+dir 9wi.0.r7580/19825
+K 21
+sipXtapi-media-update
+V 24
+dir 9wi.3ke.r7655/227927
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 21
+dir 7q4.4t1.r7562/240
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 24
+user_dworley_redirectors
+V 22
+dir 7q4.3xw.r7670/6899
+K 14
+virtual-domain
+V 22
+dir 7q4.4t6.r7558/6680
+END
+ENDREP
+id: 7pt.0.r7670/8081
+type: dir
+pred: 7pt.0.r7669/4718
+count: 957
+text: 7670 7177 891 891 fba05c1fb3af7cb5715d6ec3d564271d
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r7670/8081
+K 4
+main
+V 21
+dir 7q4.0.r7667/30612
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r7670/8363
+type: dir
+pred: 0.0.r7669/5001
+count: 7670
+text: 7670 8235 115 115 f3afbccf37674ef2e868ac23d1875e1a
+cpath: /
+copyroot: 0 /
+
+20d._0.t7669-1 add false false /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins/SipRedirectorTest.cpp
+7589 /branches/user_dworley_redirectors/sipXregistry/doc/developer/SipRedirectorTest.cpp
+20d.4sr.r7470/20530 delete false false /branches/user_dworley_redirectors/sipXregistry/doc/developer/SipRedirectorTest.cpp
+
+20e._1.t7669-1 add false false /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins/SipRedirectorTest.h
+7589 /branches/user_dworley_redirectors/sipXregistry/doc/developer/SipRedirectorTest.h
+20e.dv.r2522/9949 delete false false /branches/user_dworley_redirectors/sipXregistry/doc/developer/SipRedirectorTest.h
+
+
+8363 8506

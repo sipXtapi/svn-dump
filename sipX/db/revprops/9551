@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-05-15T22:11:01.222806Z
+K 7
+svn:log
+V 46
+Fixed documentation for DTMF, made it clearer.
+END

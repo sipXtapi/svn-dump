@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-10-08T16:23:11.972083Z
+K 7
+svn:log
+V 70
+allow apache module directory that is not there if explictly specified
+END

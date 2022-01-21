@@ -1,0 +1,133 @@
+PLAIN
+K 13
+svn:externals
+V 55
+config https://scm.sipfoundry.org/rep/sipX/main/config
+
+K 10
+svn:ignore
+V 132
+aclocal.m4
+config.h
+config.h.in
+configure
+libtool
+BUILDSTAMP
+Makefile
+Makefile.in
+config.log
+config.status
+stamp-h1
+autom4te.cache
+
+
+END
+ENDREP
+id: 9wt.7n5.r12213/252
+type: dir
+pred: 9wt.7n5.r12195/5622
+count: 376
+text: 12195 3944 1665 1665 73cc989c09a487d3228b50d6e59d60e1
+props: 12213 0 239 0 a6c7c39a38a9c961b51f151ae351c15e
+cpath: /main/sipXcallLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g8y.7n5.r12172/315
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 23
+dir 9wj.7n5.r12202/3039
+K 10
+readme.txt
+V 26
+file 9ws.7n5.r12043/247879
+K 7
+scripts
+V 23
+dir fxk.7n5.r12171/1617
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 22
+dir 9wt.7n5.r12213/252
+K 19
+sipXmediaAdapterLib
+V 22
+dir b2p.7n5.r12210/378
+K 12
+sipXmediaLib
+V 23
+dir b40.7n5.r12208/3576
+K 11
+sipXportLib
+V 22
+dir bcf.7n5.r12211/429
+K 10
+sipXsdpLib
+V 22
+dir e7v.7n5.r12212/270
+K 11
+sipXtackLib
+V 22
+dir boq.7n5.r12209/476
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r12213/1139
+type: dir
+pred: 9wi.7n5.r12212/1155
+count: 3151
+text: 12213 484 642 642 166aa7a4872bb34adc0012e5ac729507
+props: 12114 59175 76 0 1dd3880c3272b32f88d1700b38908223
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r12113/17441
+K 4
+main
+V 23
+dir 9wi.7n5.r12213/1139
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r12213/1533
+type: dir
+pred: 0.0.r12212/1549
+count: 12213
+text: 12213 1361 159 159 11ed805d8bb68a5d76fe82a96a3fdace
+cpath: /
+copyroot: 0 /
+
+9wt.7n5.t12212-1 modify false true /main/sipXcallLib
+
+
+1533 1680

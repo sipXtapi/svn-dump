@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-29T14:55:19.985989Z
+K 7
+svn:log
+V 161
+XCF-278 Fixed, Jboss changed the name of thier Jaas service manager from 2.4 to 4.0.  password was always changing in config server db, but not getting sent IMDB
+END

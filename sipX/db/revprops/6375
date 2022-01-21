@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-03-16T20:26:23.751638Z
+K 7
+svn:log
+V 91
+XCF-955 Use log4j instead of jetty's logger, this is not the fix, but just a stepping stone
+END

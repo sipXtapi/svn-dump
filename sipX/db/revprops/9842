@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-16T21:08:20.950665Z
+K 7
+svn:log
+V 66
+Rollback to revision 9840, as part of this was a mistaken checkin.
+END

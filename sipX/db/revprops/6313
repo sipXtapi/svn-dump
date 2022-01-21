@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-03-08T19:21:32.923081Z
+K 7
+svn:log
+V 188
+First check in of general framework to build with and link up to 
+unixODBC. The actual ODBC wrapper interface (OdbcWrapper.(h|cpp))
+is essentially empty and still needs to be implemented.
+
+END

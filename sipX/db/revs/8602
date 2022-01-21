@@ -1,0 +1,147 @@
+id: 7q4.6ae.r8602/0
+type: dir
+pred: 7q4.0.r8601/6372
+count: 2330
+text: 8601 5357 1002 1002 541954551ae015ba6c439152386ffcc3
+props: 8597 10408 2703 0 8f5f5c52eb7cf6da31085b0974b5429e
+cpath: /branches/freeswitch
+copyfrom: 8601 /main
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r8066/42815
+K 3
+3.6
+V 22
+dir 7q4.50x.r8527/4487
+K 7
+bbridge
+V 22
+dir 7q4.68z.r8427/2781
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 10
+freeswitch
+V 19
+dir 7q4.6ae.r8602/0
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 16
+proxy_simple_cdr
+V 23
+dir 1vt.5hb.r7955/13127
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 21
+dir 9wi.0.r8587/12638
+K 21
+sipXtapi-media-update
+V 24
+dir 9wi.3ke.r8483/226077
+K 14
+sipXtapi.wince
+V 24
+dir 9wi.662.r8313/638537
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 21
+dir 7q4.4t1.r7562/240
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 24
+user_dworley_redirectors
+V 22
+dir 7q4.3xw.r7858/7806
+K 30
+user_dworley_redirectors_merge
+V 22
+dir 7q4.5ja.r7925/6442
+K 14
+virtual-domain
+V 24
+dir 7q4.4t6.r8010/314955
+END
+ENDREP
+id: 7pt.0.r8602/1386
+type: dir
+pred: 7pt.0.r8587/13916
+count: 1446
+text: 8602 232 1141 1141 c403d2f1f23f4cf8ee91dd2c8ec6bdb9
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r8602/1386
+K 4
+main
+V 20
+dir 7q4.0.r8601/6372
+K 4
+tags
+V 20
+dir 7q5.0.r8544/3180
+END
+ENDREP
+id: 0.0.r8602/1669
+type: dir
+pred: 0.0.r8601/6711
+count: 8602
+text: 8602 1543 113 113 9bf55ebbd9633a80246077a8eeb9d409
+cpath: /
+copyroot: 0 /
+
+7q4._0.t8601-1 add false false /branches/freeswitch
+8601 /main
+
+1669 1812

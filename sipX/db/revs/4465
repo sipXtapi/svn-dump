@@ -1,0 +1,348 @@
+PLAIN
+K 10
+svn:ignore
+V 54
+.deps
+.libs
+Makefile
+Makefile.in
+watchdog
+watchdog.sh
+
+END
+ENDREP
+id: 5kc.0.r4465/93
+type: dir
+pred: 5kc.0.r4458/1531
+count: 30
+text: 4458 957 561 561 612f808319586cbb26235dc2d91642ff
+props: 4465 0 80 0 5cc08d59c2cf978d4d1ab5601f2176d0
+cpath: /old/sipXpbx/main/src/watchdog
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 5hc.0.r4454/284715
+K 13
+emailnotifier
+V 22
+dir 5hd.0.r4454/284396
+K 10
+mailboxmgr
+V 22
+dir 5hi.0.r4464/189400
+K 14
+mediaservercgi
+V 22
+dir 5jf.0.r4454/285724
+K 12
+mod_sipxauth
+V 22
+dir 5ji.0.r4464/190068
+K 10
+processcgi
+V 22
+dir 5jm.0.r4454/280207
+K 14
+replicationcgi
+V 22
+dir 5ju.0.r4454/286732
+K 7
+sipxcgi
+V 22
+dir 5jx.0.r4454/282628
+K 4
+test
+V 20
+dir 5k0.0.r4454/7208
+K 8
+watchdog
+V 18
+dir 5kc.0.r4465/93
+K 10
+wwwcontent
+V 22
+dir 5r8.0.r4464/184807
+END
+ENDREP
+id: 5hb.0.r4465/812
+type: dir
+pred: 5hb.0.r4464/190805
+count: 100
+text: 4465 316 483 483 93ea61826cba5040d6a29362d228f3ba
+props: 4144 5413 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpbx/main/src
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 85
+Makefile
+Makefile.in
+keepalive.sh
+sipx-chkspace
+sipx-snapshot
+sipxpbx
+sipxpbx-config
+
+END
+ENDREP
+id: 5gg.0.r4465/1157
+type: dir
+pred: 5gg.0.r4456/7062
+count: 73
+text: 4456 6570 479 479 bcf14827386b64493633178caa4e632e
+props: 4465 1033 111 0 58b2adbe00b15c2d3d5f7ca061e7df89
+cpath: /old/sipXpbx/main/bin
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 285
+Makefile
+Makefile.in
+ProcessDefinitions.xml
+WatchDog.xml
+httpd-sipxchange-common-ssl.conf.in
+httpd-sipxchange-common.conf.in
+httpd-sipxchange-configserver.conf.in
+httpd-sipxchange-mediaserver-ssl.conf.in
+httpd-sipxchange-mediaserver.conf.in
+httpd.conf
+resourcemap.xml
+voicemail.xml.in
+
+END
+ENDREP
+id: 5gp.0.r4465/1703
+type: dir
+pred: 5gp.0.r4464/193786
+count: 58
+text: 4464 193003 770 770 1ae21725f7f9b8b0fe70d4110ddf2e74
+props: 4465 1378 312 0 d665229c3f5898ccdf6e5493b89944d0
+cpath: /old/sipXpbx/main/etc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4454/288397
+K 9
+ChangeLog
+V 21
+file 5g8.0.r4454/4401
+K 7
+INSTALL
+V 23
+file 5g9.0.r4454/289610
+K 7
+LICENSE
+V 19
+file 5ga.0.r4454/82
+K 11
+Makefile.am
+V 23
+file 5gb.0.r4454/294056
+K 4
+NEWS
+V 23
+file 5gc.0.r4454/299658
+K 6
+README
+V 23
+file 5gd.0.r4454/288092
+K 4
+TODO
+V 23
+file 5ge.0.r4454/289304
+K 9
+acsite.m4
+V 21
+file 5gf.0.r4454/4092
+K 3
+bin
+V 20
+dir 5gg.0.r4465/1157
+K 12
+configure.ac
+V 23
+file 5gl.0.r4454/288711
+K 3
+doc
+V 22
+dir 5gm.0.r4464/192291
+K 3
+etc
+V 20
+dir 5gp.0.r4465/1703
+K 7
+include
+V 20
+dir 5h2.0.r4454/3129
+K 4
+meta
+V 21
+dir 6of.z4.r4454/3822
+K 15
+sipxpbx.spec.in
+V 21
+file 6mo.0.r4456/5587
+K 3
+src
+V 19
+dir 5hb.0.r4465/812
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 181
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+sipxpbx-*.rpm
+sipxpbx-*.tar.gz
+sipxpbx.spec
+
+K 17
+svnmerge-2.6-head
+V 51
+https://scm.sipfoundry.org/rep/sipXpbx/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 49
+1-307,310-311,316-317,321-324,326,337,341,343,351
+END
+ENDREP
+id: 5g6.0.r4465/3086
+type: dir
+pred: 5g6.0.r4464/195148
+count: 286
+text: 4465 1928 679 679 2ffc874dca9b30343576a7a284441ef4
+props: 4465 2620 453 0 99d99175ec1f50413630934e03ee16bc
+cpath: /old/sipXpbx/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 6o1.0.r4460/2284
+K 4
+main
+V 20
+dir 5g6.0.r4465/3086
+K 4
+tags
+V 20
+dir 5kn.0.r4461/1860
+END
+ENDREP
+id: 5g5.0.r4465/3432
+type: dir
+pred: 5g5.0.r4464/195500
+count: 372
+text: 4465 3306 113 113 8868f11f0f9439b5f734e6ca380a0e0c
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4465/3432
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4465/4074
+type: dir
+pred: 1.0.r4464/196147
+count: 4463
+text: 4465 3591 470 470 77204bfe787dcb91c5be48a840a1f868
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4465/4074
+END
+ENDREP
+id: 0.0.r4465/4271
+type: dir
+pred: 0.0.r4464/196349
+count: 4465
+text: 4465 4222 36 36 ca15722379d5fa6aeb93974ae5ccc50d
+cpath: /
+copyroot: 0 /
+
+5kc.0.t4464-1 modify false true /old/sipXpbx/main/src/watchdog
+
+5gg.0.t4464-1 modify false true /old/sipXpbx/main/bin
+
+5gp.0.t4464-1 modify false true /old/sipXpbx/main/etc
+
+5g6.0.t4464-1 modify false true /old/sipXpbx/main
+
+
+4271 4414

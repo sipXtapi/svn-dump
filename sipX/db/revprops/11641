@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-04-09T04:44:08.767633Z
+K 7
+svn:log
+V 41
+Added CpPeerCall logging of contact list
+
+END

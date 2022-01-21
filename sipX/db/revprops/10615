@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-03-23T10:57:24.148791Z
+K 7
+svn:log
+V 251
+* PLC infrastructure updated. Factory method implemented with support of creating PLCs by name.
+* PLC is now used in MpJitterBuffer, still very basically yet.
+* Implemented generic message class for passing strings to resources - MpStringResourceMsg.
+
+END

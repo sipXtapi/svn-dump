@@ -1,0 +1,45 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-08-22T22:53:14.126305Z
+K 7
+svn:log
+V 1544
+r3040 | dworley | 2005-08-11 11:51:18 -0400 (Thu, 11 Aug 2005) | 2 lines
+First checkin of conference bridge code that compiles.
+................................
+r3043 | dworley | 2005-08-11 12:33:23 -0400 (Thu, 11 Aug 2005) | 2 lines
+Get svn:ignore in order.
+................................
+r3045 | dworley | 2005-08-11 12:41:10 -0400 (Thu, 11 Aug 2005) | 2 lines
+Remove files inherited from sipXpark.
+................................
+r3047 | dworley | 2005-08-11 13:40:04 -0400 (Thu, 11 Aug 2005) | 2 lines
+Conference bridge code now opens listening ports.
+................................
+r3126 | dworley | 2005-08-16 12:47:45 -0400 (Tue, 16 Aug 2005) | 2 lines
+First version of clean-check that actually works.
+................................
+r3184 | dworley | 2005-08-18 13:16:40 -0400 (Thu, 18 Aug 2005) | 3 lines
+First version of sipXconference that runs, and processes sipXtapi events
+asynchronously as it should.
+................................
+r3245 | dworley | 2005-08-19 13:51:37 -0400 (Fri, 19 Aug 2005) | 2 lines
+Fix typos.
+................................
+r3247 | dworley | 2005-08-19 13:53:48 -0400 (Fri, 19 Aug 2005) | 2 lines
+Also print the line handle in a sipXtapi event callback.
+
+
+Merged revisions 3314 via svnmerge from
+https://paradise.pingtel.com/rep/sipX/mirror/main
+  | ................................
+  | r3314 | dworley | 2005-08-22 17:59:18 -0400 (Mon, 22 Aug 2005) | 27 lines
+  | Merged revisions 3040,3043,3045,3047,3126,3184,3245,3247 via svnmerge from
+  | https://paradise.pingtel.com/rep/sipX/pingtel/main
+
+END

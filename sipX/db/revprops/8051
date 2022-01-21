@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-11-20T23:10:15.710013Z
+K 7
+svn:log
+V 62
+Add sipXtools to normal build, use --disable-tools to turn off
+END

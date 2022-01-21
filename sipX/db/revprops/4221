@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-09-30T17:47:10.983024Z
+K 7
+svn:log
+V 84
+remove use of @SIPX_...@ from spec files because $prefix is not correct in rpm build
+END

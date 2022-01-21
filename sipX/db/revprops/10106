@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-13T19:59:36.012522Z
+K 7
+svn:log
+V 91
+VS2003 build: Add dependency of sipXmediaLib from all codecs plugins.
+(see rev 10104 also)
+
+END

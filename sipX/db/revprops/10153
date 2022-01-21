@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-09-15T23:22:37.089096Z
+K 7
+svn:log
+V 408
+Add runtime settable codec path support to CpMediaInterfaceFactory.
+
+To use, supply codec paths prior to instantiating a CpMediaInterfaceFactory,
+as codec paths are supplied to media subsystem upon media factory construction.
+An example can be seen in CpPhoneMediaInterfaceTest.
+
+To make purify and variants happy, be sure to clear the codec paths with clearCodecPaths after you are done using any factories.
+END

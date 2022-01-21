@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-06-09T19:58:32.317913Z
+K 7
+svn:log
+V 84
+XCF-427 merge 2 AA patches that needs to dance around code that uses AA in hibernate
+END

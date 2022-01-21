@@ -1,0 +1,33 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-09-25T00:09:54.344572Z
+K 7
+svn:log
+V 755
+Address a bunch of PBX build/configuration issues:
+
+  http://track.sipfoundry.org/browse/XPB-47
+    SSL certs and keys are now $prefix/etc/sipxpbx/ssl/ssl.{key,crt}
+
+  http://track.sipfoundry.org/browse/XPB-41
+    Apache logs are now in $prefix/var/log/sipxpbx
+
+  http://track.sipfoundry.org/browse/XPB-20
+    All Apache configuration is now in $prefix/etc/sipxpbx
+
+Search rules for many of configure --with-<something> arguments 
+have been changed so that if the switch is given, then configure
+does not look elsewhere (you get what you asked for, or nothing).
+Failure messages for these now list where the search looked.
+
+Apache components now all search in the same order, decreasing the 
+chance of getting components from different installations.
+
+  
+
+END

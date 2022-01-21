@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2016-09-13T04:47:32.450044Z
+K 7
+svn:log
+V 65
+Forward speaker and RTP energy notifications from CP to sipXtapi
+
+END

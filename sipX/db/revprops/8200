@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2006-12-05T22:34:45.892339Z
+K 7
+svn:log
+V 618
+Bugfix on WINCE - need to more accurately emulate file descriptors in the absence of open().  HANDLE values that are negative when interpreted as int are possible (and happen fairly often), which causes code expecting file descriptors to fail a good deal of the time, since an invalid file descriptor is -1, and much code checks < 0 for that sort of test.  File descriptors are supposed to be positive int values.
+
+This fix defines "file descriptors" for wince, and provides mapping between these file descriptors and the HANDLEs that are required by the windows calls that are in use in the wrappers that are defined.
+END

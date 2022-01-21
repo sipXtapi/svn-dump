@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-09-22T18:43:33.465864Z
+K 7
+svn:log
+V 90
+Made virtual destructors for UtlObservable and UtlObserver to eliminate compiler warning.
+
+END

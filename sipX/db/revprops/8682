@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-02-01T20:35:12.126535Z
+K 7
+svn:log
+V 467
+XCF-1390 moved and renamed sipxproxy-cdr.wsdl - it now resides in sipXconfig as meta/sipxcallresolver.wsdl
+sipXconfig is the only component of the system that requires this .wsdl file (SOAP server that we use does not support serving WSDL yet)
+in future we need a better strategy for sharing .wsdl - in general case they need to be available both for servers and clients, at the moment we take advantage of the fact that other SOAP servers live in sipXconfig project
+
+END

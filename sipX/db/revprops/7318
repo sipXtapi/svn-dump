@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-21T20:39:04.277661Z
+K 7
+svn:log
+V 172
+Relax requirements for checking phone serial numbers. It has to have at least (was: eaxactly) 12 hex digits now.
+Ideally each phone plugin would provide its own validator.
+
+END

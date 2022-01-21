@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-11-04T05:42:03.894386Z
+K 7
+svn:log
+V 93
+New libspandsp VC6 project needed for G711, G722 and G726 created, using vc7 as a template.
+
+
+END

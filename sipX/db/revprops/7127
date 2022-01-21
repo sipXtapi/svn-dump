@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-07-26T20:09:48.123243Z
+K 7
+svn:log
+V 240
+WIP: A number of turn-related parsing update to allow compability with behave-turn-01.  Not everything is here yet, but making progress.
+
+I also fixed a few issues in the contact database, where we were creating incorrect RELAY contacts.
+
+
+
+END

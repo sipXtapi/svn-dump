@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-08-15T18:28:14.023969Z
+K 7
+svn:log
+V 98
+Add mediaLib to sipXmediaAdapterLibTest VC6 project, as it is needed for new notification testing.
+END

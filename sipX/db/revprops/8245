@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-12-13T03:22:49.785446Z
+K 7
+svn:log
+V 201
+Add the RLS to the list of OsSysLog facilities, and remove some errors
+from those files.  (Some of these fixes are being checked into other
+branches independently, but merging shouldn't be difficult.)
+
+END

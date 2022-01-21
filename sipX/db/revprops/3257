@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-12-13T11:24:05.055342Z
+K 7
+svn:log
+V 171
+Move core package to phone, create settings package,  neoconf wasn't doing clover right, unnec. overriding compile target, svn:ignore .settings in doc and neoconf projects
+END

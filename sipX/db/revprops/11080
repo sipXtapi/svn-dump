@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-11T00:10:40.109988Z
+K 7
+svn:log
+V 249
+Add the following projects to VS6 Workspace:
+libspandsp, libspeex
+plgg722, plgg726, plgpcmapcmu, plgl16, plgspeex, plggsm, plgtones
+
+Added dependencies to all projects requiring it.
+plg* projects were not specified as dependencies to any projects.
+
+
+END

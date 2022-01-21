@@ -1,0 +1,174 @@
+id: 9wi.7n6.r10817/0
+type: dir
+pred: 9wi.7jw.r10605/3171
+count: 88
+text: 10605 2626 532 532 cc7dd49bf6ba83e40f9cb56d7fc17c92
+cpath: /branches/sipXtapi-AOL
+copyfrom: 10816 /sipXecs.old/branches/sipXtapi-AOL
+
+PLAIN
+K 12
+sipXtapi-AOL
+V 20
+dir 9wi.7n6.r10817/0
+END
+ENDREP
+id: fuu.0.r10817/268
+type: dir
+pred: fuu.0.r10816/0
+count: 1
+text: 10817 207 48 48 6dd6b179cebc7d61766dbbd8ecd316f6
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r8066/42815
+K 3
+3.6
+V 23
+dir 7q4.50x.r9677/12870
+K 29
+bandreasen-sipXtapi-AOL-merge
+V 23
+dir 9wi.7mo.r10787/8458
+K 7
+bbridge
+V 22
+dir 7q4.68z.r9829/4609
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 11
+sipXtapi-UC
+V 22
+dir 9wi.7jy.r9594/5049
+K 21
+sipXtapi-media-update
+V 23
+dir 9wi.3ke.r10308/4876
+K 14
+sipXtapi.wince
+V 24
+dir 9wi.662.r8313/638537
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 23
+dir 7q4.4t1.r10445/8915
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 14
+virtual-domain
+V 24
+dir 7q4.4t6.r8010/314955
+END
+ENDREP
+id: 7pt.7n4.r10817/1387
+type: dir
+pred: 7pt.7n4.r10815/1203
+count: 3257
+text: 10817 416 958 958 3a20d7501696129a5bc2ec87c090631a
+cpath: /sipXecs.old/branches
+copyroot: 10814 /sipXecs.old/branches
+
+PLAIN
+K 8
+branches
+V 23
+dir 7pt.7n4.r10817/1387
+K 4
+main
+V 20
+dir 7q4.7n2.r10811/0
+K 4
+tags
+V 20
+dir 7q5.7n3.r10812/0
+END
+ENDREP
+id: fus.0.r10817/1713
+type: dir
+pred: fus.0.r10815/1528
+count: 5
+text: 10817 1584 116 116 6550e6deaaf4b660cd57ddc98aa662aa
+cpath: /sipXecs.old
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir fuu.0.r10817/268
+K 4
+main
+V 20
+dir 9wi.7n5.r10815/0
+K 11
+sipXecs.old
+V 21
+dir fus.0.r10817/1713
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r10817/2039
+type: dir
+pred: 0.0.r10816/236
+count: 10817
+text: 10817 1871 155 155 23af6fdb987efe857273e83c0ef492bc
+cpath: /
+copyroot: 0 /
+
+9wi.7jw.r10605/3171 delete false false /sipXecs.old/branches/sipXtapi-AOL
+
+9wi._0.t10816-1 add false false /branches/sipXtapi-AOL
+10816 /sipXecs.old/branches/sipXtapi-AOL
+
+2039 2185

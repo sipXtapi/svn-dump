@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-13T15:35:45.719422Z
+K 7
+svn:log
+V 131
+Use the standard Perl interpreter (/usr/bin/perl) rather than
+/bin/perl, so that rpmbuild records the dependency on /usr/bin/perl.
+
+END

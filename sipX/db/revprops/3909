@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-05-16T18:20:16.916194Z
+K 7
+svn:log
+V 148
+XPB-253 separate pintoken from sip passtoken, on create they are same, on edit they diverge.  editing sip passtoken from soap and gui coming soon...
+END

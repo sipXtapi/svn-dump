@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-17T00:39:27.893941Z
+K 7
+svn:log
+V 137
+off by one error checking thresholds in MMTimerTest.
+Shouldn't assert failure in MMTimerTest if a value lies *on* the threshold boundary.
+END

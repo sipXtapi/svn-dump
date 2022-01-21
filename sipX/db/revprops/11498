@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-01-13T05:23:31.563901Z
+K 7
+svn:log
+V 88
+Unit test framework, replacement for CPPUNIT that does not require
+RTTI and exceptions.
+
+END

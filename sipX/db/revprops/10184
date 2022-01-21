@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-17T03:01:55.746446Z
+K 7
+svn:log
+V 40
+Add G.726 codec plugin to VS2003 build.
+
+END

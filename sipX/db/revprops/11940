@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-05-25T05:13:35.388414Z
+K 7
+svn:log
+V 509
+Major refactoring of SdpBody to move codec comparison to sdpLib and start of support of true m line independent codec negotiation.
+Started to use SdpMediaLine container to support multi m line negotiation and fix bug where m line order was not preserved when
+there were multiple m lines (besides simple 1 audio and 1 video m line).
+
+NOTE: This check in breaks:
+  RTP/TCP
+  ICE candidate parsing and handling in the SDP
+  SRTP crypto key handling in the SDP
+
+This features will be fixed in subsequent checkins
+
+END

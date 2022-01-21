@@ -1,0 +1,526 @@
+PLAIN
+K 13
+svn:externals
+V 90
+tapi https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi.wince/sipXcallLib/include/tapi
+
+END
+ENDREP
+id: bde.662.r8020/132
+type: dir
+pred: bde.662.r8019/10884
+count: 32
+text: 8019 10709 162 162 fa93cb472c2bed15d545ad91613c2590
+props: 8020 0 119 0 094fc95c27e9a7aaac1ce277dd169fcc
+cpath: /branches/sipXtapi.wince/sipXportLib/include
+copyroot: 8018 /branches/sipXtapi.wince
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 25
+file bcg.0.r6469/21591964
+K 9
+ChangeLog
+V 25
+file bch.0.r6469/21535752
+K 7
+INSTALL
+V 24
+file bci.0.r6955/1421671
+K 11
+Makefile.am
+V 25
+file bcj.0.r6469/21599591
+K 4
+NEWS
+V 25
+file bck.0.r6469/21599943
+K 6
+README
+V 24
+file bcl.0.r6955/1419372
+K 4
+TODO
+V 25
+file bcm.0.r6469/21597743
+K 9
+acsite.m4
+V 24
+file bcn.0.r6955/1417808
+K 3
+bin
+V 19
+dir bco.0.r7996/554
+K 12
+configure.ac
+V 24
+file bd3.0.r6711/4505206
+K 3
+doc
+V 22
+dir bd4.0.r7701/421085
+K 7
+include
+V 21
+dir bde.662.r8020/132
+K 4
+meta
+V 24
+dir bhw.0.r6469/21535422
+K 18
+sipXportLib.vcproj
+V 21
+file bi1.0.r7944/1810
+K 19
+sipXportLibTest.sln
+V 25
+file bi2.0.r6469/21599763
+K 22
+sipXportLibTest.vcproj
+V 21
+file bi3.0.r7434/5647
+K 29
+sipXportLib_NoSecurity.vcproj
+V 23
+file bi4.0.r7990/256638
+K 19
+sipxportlib.spec.in
+V 24
+file bi5.0.r6955/1422006
+K 3
+src
+V 23
+dir bi6.662.r8019/13898
+K 12
+syslogviewer
+V 23
+dir bom.0.r6955/1420114
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 74
+config https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi.wince/config
+
+END
+ENDREP
+id: bcf.662.r8020/1446
+type: dir
+pred: bcf.662.r8019/15039
+count: 58
+text: 8020 404 913 913 c547ab69275572b1019949ccc2c65279
+props: 8020 1330 103 0 878a43c6e754004bcdac15171dc7d8b7
+cpath: /branches/sipXtapi.wince/sipXportLib
+copyroot: 8018 /branches/sipXtapi.wince
+
+PLAIN
+K 13
+svn:externals
+V 74
+config https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi.wince/config
+
+END
+ENDREP
+id: 9wt.662.r8020/1828
+type: dir
+pred: 9wt.0.r7997/4478
+count: 48
+text: 7997 3407 1058 1058 ff5d0a8dbe17b6bc74dc9327bd80a863
+props: 8020 1712 103 0 878a43c6e754004bcdac15171dc7d8b7
+cpath: /branches/sipXtapi.wince/sipXcallLib
+copyroot: 8018 /branches/sipXtapi.wince
+
+PLAIN
+K 13
+svn:externals
+V 74
+config https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi.wince/config
+
+END
+ENDREP
+id: b40.662.r8020/2210
+type: dir
+pred: b40.0.r7749/33421
+count: 17
+text: 7749 32681 727 727 9aba60480c953f31a9d4fe96dd73694e
+props: 8020 2094 103 0 878a43c6e754004bcdac15171dc7d8b7
+cpath: /branches/sipXtapi.wince/sipXmediaLib
+copyroot: 8018 /branches/sipXtapi.wince
+
+PLAIN
+K 13
+svn:externals
+V 74
+config https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi.wince/config
+
+END
+ENDREP
+id: b2p.662.r8020/2593
+type: dir
+pred: b2p.0.r7749/39248
+count: 12
+text: 7749 38509 726 726 438ba199753f2f254087a0d9f6a1eab5
+props: 8020 2477 103 0 878a43c6e754004bcdac15171dc7d8b7
+cpath: /branches/sipXtapi.wince/sipXmediaAdapterLib
+copyroot: 8018 /branches/sipXtapi.wince
+
+PLAIN
+K 13
+svn:externals
+V 90
+tapi https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi.wince/sipXcallLib/include/tapi
+
+END
+ENDREP
+id: bq1.662.r8020/2999
+type: dir
+pred: bq1.0.r7990/296441
+count: 14
+text: 7990 296302 126 126 e43ec1049d44ba5860d3c7a014d6d3ad
+props: 8020 2867 119 0 094fc95c27e9a7aaac1ce277dd169fcc
+cpath: /branches/sipXtapi.wince/sipXtackLib/include
+copyroot: 8018 /branches/sipXtapi.wince
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 25
+file bor.0.r6469/22114347
+K 9
+ChangeLog
+V 25
+file bos.0.r6469/22149247
+K 7
+INSTALL
+V 24
+file bot.0.r6955/1737850
+K 11
+Makefile.am
+V 25
+file bou.0.r6469/22154175
+K 4
+NEWS
+V 25
+file bov.0.r6469/22121423
+K 6
+README
+V 24
+file bow.0.r6955/1738184
+K 4
+TODO
+V 25
+file box.0.r6469/22151942
+K 9
+acsite.m4
+V 24
+file boy.0.r6955/1731963
+K 14
+ant-targets.am
+V 24
+file boz.0.r6711/5226484
+K 15
+ant-targets.xml
+V 25
+file bp0.0.r6469/22149418
+K 3
+bin
+V 24
+dir bp1.0.r6469/22120299
+K 8
+cert8.db
+V 25
+file bp3.0.r6469/22154413
+K 20
+config.properties.in
+V 24
+file bpd.0.r6955/1734502
+K 12
+configure.ac
+V 21
+file bpe.0.r7964/1155
+K 11
+dialogwatch
+V 22
+dir dsz.0.r7990/266173
+K 3
+doc
+V 22
+dir bpf.0.r7945/108553
+K 8
+examples
+V 21
+dir bpw.0.r7949/76136
+K 7
+include
+V 22
+dir bq1.662.r8020/2999
+K 7
+key3.db
+V 25
+file bt7.0.r6469/22151521
+K 3
+lib
+V 24
+dir bt8.0.r6469/22119550
+K 22
+mcohen@pingtel.com.p12
+V 25
+file btb.0.r6469/22121180
+K 4
+meta
+V 24
+dir btc.0.r6469/22073901
+K 9
+secmod.db
+V 25
+file btj.0.r6469/22151225
+K 18
+sipXtackLib.vcproj
+V 23
+file btk.0.r7990/265268
+K 19
+sipXtackLibTest.sln
+V 23
+file btl.0.r7990/285820
+K 22
+sipXtackLibTest.vcproj
+V 23
+file btm.0.r7990/265067
+K 29
+sipXtackLib_NoSecurity.vcproj
+V 21
+file btn.0.r7994/3521
+K 15
+siplog2siptrace
+V 21
+dir bto.0.r7949/66752
+K 7
+siptest
+V 21
+dir btr.0.r7949/66198
+K 9
+sipviewer
+V 23
+dir buv.0.r6955/1740007
+K 19
+sipxtacklib.spec.in
+V 24
+file bvi.0.r6955/1738517
+K 3
+src
+V 22
+dir bvj.0.r7990/285639
+K 15
+syslog2siptrace
+V 21
+dir byz.0.r7949/75162
+K 16
+tcpdump2siptrace
+V 25
+file bz3.0.r6469/22149596
+K 32
+user_cert_mcohen@pingtel.com.der
+V 25
+file bz4.0.r6469/22150908
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 74
+config https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi.wince/config
+
+END
+ENDREP
+id: boq.662.r8020/5044
+type: dir
+pred: boq.0.r7994/5382
+count: 25
+text: 8020 3275 1640 1640 41c902dd5204eac70065fa70d7935798
+props: 8020 4928 103 0 878a43c6e754004bcdac15171dc7d8b7
+cpath: /branches/sipXtapi.wince/sipXtackLib
+copyroot: 8018 /branches/sipXtapi.wince
+
+PLAIN
+K 6
+config
+V 20
+dir 9wj.0.r8007/4940
+K 10
+readme.txt
+V 20
+file 9ws.0.r6962/878
+K 11
+sipXcallLib
+V 22
+dir 9wt.662.r8020/1828
+K 19
+sipXmediaAdapterLib
+V 22
+dir b2p.662.r8020/2593
+K 12
+sipXmediaLib
+V 22
+dir b40.662.r8020/2210
+K 11
+sipXportLib
+V 22
+dir bcf.662.r8020/1446
+K 11
+sipXtackLib
+V 22
+dir boq.662.r8020/5044
+END
+ENDREP
+id: 9wi.662.r8020/5640
+type: dir
+pred: 9wi.662.r8019/15628
+count: 116
+text: 8020 5310 317 317 b8e1ce598eeb95927564c801508f905c
+cpath: /branches/sipXtapi.wince
+copyroot: 8018 /branches/sipXtapi.wince
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r7819/13302
+K 3
+3.6
+V 22
+dir 7q4.50x.r8012/5069
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 16
+proxy_simple_cdr
+V 23
+dir 1vt.5hb.r7955/13127
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 21
+dir 9wi.0.r8015/59060
+K 21
+sipXtapi-media-update
+V 22
+dir 9wi.3ke.r8008/5818
+K 14
+sipXtapi.wince
+V 22
+dir 9wi.662.r8020/5640
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 21
+dir 7q4.4t1.r7562/240
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 24
+user_dworley_redirectors
+V 22
+dir 7q4.3xw.r7858/7806
+K 30
+user_dworley_redirectors_merge
+V 22
+dir 7q4.5ja.r7925/6442
+K 14
+virtual-domain
+V 24
+dir 7q4.4t6.r8010/314955
+END
+ENDREP
+id: 7pt.0.r8020/6909
+type: dir
+pred: 7pt.0.r8019/16896
+count: 1159
+text: 8020 5840 1056 1056 6d21f3f91e285bace3e8266d36498c0a
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r8020/6909
+K 4
+main
+V 21
+dir 7q4.0.r8017/34086
+K 4
+tags
+V 20
+dir 7q5.0.r7874/3088
+END
+ENDREP
+id: 0.0.r8020/7194
+type: dir
+pred: 0.0.r8019/17183
+count: 8020
+text: 8020 7067 114 114 711bafa014fa1363e506eb268c230b86
+cpath: /
+copyroot: 0 /
+
+9wt.662.t8019-1 modify false true /branches/sipXtapi.wince/sipXcallLib
+
+b40.662.t8019-1 modify false true /branches/sipXtapi.wince/sipXmediaLib
+
+b2p.662.t8019-1 modify false true /branches/sipXtapi.wince/sipXmediaAdapterLib
+
+boq.662.t8019-1 modify false true /branches/sipXtapi.wince/sipXtackLib
+
+bcf.662.t8019-1 modify false true /branches/sipXtapi.wince/sipXportLib
+
+bq1.662.t8019-1 modify false true /branches/sipXtapi.wince/sipXtackLib/include
+
+bde.662.t8019-1 modify false true /branches/sipXtapi.wince/sipXportLib/include
+
+
+7194 7338

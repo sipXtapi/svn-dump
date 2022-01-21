@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-10-06T19:49:06.507611Z
+K 7
+svn:log
+V 164
+XCF-610 simplified UI for activating dial plans
+- displaying XML format is moved to "advanced section"
+- reminder about restarting services is now on the same page
+
+END

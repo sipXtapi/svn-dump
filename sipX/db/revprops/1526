@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-02-02T22:58:29.514227Z
+K 7
+svn:log
+V 225
+When doHangup calls sipUserAgent->send, if that returns an error (cannot send
+the BYE), post an immediate disconnect event, since there will be no response
+to cause one to be posted.
+http://track.sipfoundry.org/browse/XCL-24
+
+END

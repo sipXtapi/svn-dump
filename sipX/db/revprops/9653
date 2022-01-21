@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-02T22:36:23.004749Z
+K 7
+svn:log
+V 35
+Fix wrong comment in OsSocket.cpp.
+
+END

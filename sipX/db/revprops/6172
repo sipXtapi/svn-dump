@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-02-16T23:30:00.380551Z
+K 7
+svn:log
+V 129
+XCF-916 Remove listener from form and put on activate/inactivate buttons so cancel button is handled exclusively from FormActions
+END

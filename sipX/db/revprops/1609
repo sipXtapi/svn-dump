@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-03T22:26:49.903776Z
+K 7
+svn:log
+V 159
+Add sipxcalllib and sipxcalllib.tag (Doxygen output files) to svn:ignore.
+Comment out the code in CallObject.cpp using #if 0 ... #endif rather than
+/* ... */.
+
+END

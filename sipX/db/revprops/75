@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-06-18T04:19:25.439456Z
+K 7
+svn:log
+V 187
+1.) Pull tests back into testsuite but mark them as KNOWN_BUGs
+2.) Fix one dibilitating bug with UtlString::operator==(UtlString &s)
+not defined
+3.) Update README/INSTALL with more info
+
+
+END

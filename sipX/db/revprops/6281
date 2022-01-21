@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-03-02T04:43:18.979683Z
+K 7
+svn:log
+V 60
+XCF-933 Do not report error if index lock files do not exist
+END

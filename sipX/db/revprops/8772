@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2007-02-13T21:27:07.021305Z
+K 7
+svn:log
+V 349
+Add OsSysLog logging to sipxunit framework so that
+unit tests now generate log files.
+
+   The unit test log files are generated in the directory
+   where the test is run, which is normally the same as
+   where the 'testsuite' libtool wrapper script is created.
+
+   Log files are named <class>__<test>.log, so identifying
+   them is straightforward.
+
+END

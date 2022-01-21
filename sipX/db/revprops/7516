@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-09-19T19:53:22.819520Z
+K 7
+svn:log
+V 125
+do not cache dial plan config generator in dial plan context, otherwise xml files do not update with new system configuration
+END

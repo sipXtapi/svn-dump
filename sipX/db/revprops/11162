@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-11T19:08:32.590378Z
+K 7
+svn:log
+V 93
+sipXmediaLib: MpMMTimer::getResolution() and MpMMTimer::getPeriodRange() methods non-static.
+
+END

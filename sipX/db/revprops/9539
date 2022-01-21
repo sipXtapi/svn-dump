@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-14T16:32:33.489232Z
+K 7
+svn:log
+V 97
+Audio output drivers API update - frame time is now passed to MpOutputDeviceDriver::pushFrame().
+
+END

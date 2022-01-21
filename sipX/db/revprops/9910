@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-28T19:23:52.100636Z
+K 7
+svn:log
+V 68
+Remove uninteresting debug output from CpPhoneMediaInterface tests.
+
+END

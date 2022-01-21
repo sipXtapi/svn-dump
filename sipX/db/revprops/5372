@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-10-19T22:22:50.358654Z
+K 7
+svn:log
+V 184
+XCF-709 disable caching of phone table model in the table view; in some cases it prevents user from switching active group and it is unnecessary since table model is kept as page bean
+
+END

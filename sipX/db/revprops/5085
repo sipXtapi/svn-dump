@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-09-20T22:30:46.726625Z
+K 7
+svn:log
+V 108
+XCF-459 Pull voicemail ext from dialplans.  if there are multiple internal rules, it will pull the first one
+END

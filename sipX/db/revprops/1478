@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-01-15T15:20:43.880293Z
+K 7
+svn:log
+V 567
+Change to .dsp files.
+sipXcallLib .dsp now has two new project configurations:
+Debug_sipXcallLib_TAPI
+and 
+Release_sipXcallLib_TAPI
+This was a necessary change due to the fact that the
+sipXcallLib project configurations, by default,
+did not have SIPXTAPI defined as a preprocessor
+definition.  We did not want to force developers
+to have to manually add the preprocessor definition
+to the project configuration every time they updated
+the .dsp file from version control.  
+sipXtapi and sipXezPhone .dsp files were changed to
+reference the new sipXcallLib directories.
+END

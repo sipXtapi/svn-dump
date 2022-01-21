@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-01-11T00:04:40.147199Z
+K 7
+svn:log
+V 97
+Move "--" to before $TO in the invocation of sendmail, because $TO is
+an address, not an option.
+
+END

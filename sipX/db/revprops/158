@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-07-29T18:02:40.461085Z
+K 7
+svn:log
+V 48
+patch based on Dmitry's sug. for gcc 3.4 warning
+END

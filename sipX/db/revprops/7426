@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2006-09-06T21:17:21.226727Z
+K 7
+svn:log
+V 437
+Fix noinput handling after recording a Voice Mail message.
+
+Previously after recording a vm message, if no input was detected in 
+the "confirm" field after prompting the user to "listen, save, or cancel" 
+the system would drop into the "login" subdialog  because of it's 
+physical placement in the source file.
+
+Correct this so the login subdialog isn't inadvertantly visited
+by protecting it with a condition.
+
+VoiceXML Sucks!
+
+--Woof!
+
+END

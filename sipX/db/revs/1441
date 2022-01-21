@@ -1,0 +1,236 @@
+PLAIN
+K 13
+svn:mime-type
+V 11
+audio/x-wav
+END
+ENDREP
+id: vr.6c.r1441/53
+type: file
+pred: vr.0.r1322/795139
+count: 1
+text: 1322 17978 30006 31478 b375d7e15c32348b8832cefac48f7527
+props: 1441 0 40 0 5c6e7365f4fa3836da473af57fab08b4
+cpath: /old/sipXcallLib/branches/2.6/examples/musicServer/default.wav
+copyroot: 1387 /old/sipXcallLib/branches/2.6
+
+PLAIN
+K 11
+Makefile.am
+V 20
+file vq.0.r1341/3388
+K 11
+default.wav
+V 19
+file vr.6c.r1441/53
+K 12
+listener.cpp
+V 23
+file vo.64.r1361/132575
+K 10
+listener.h
+V 23
+file vp.65.r1361/132889
+K 8
+main.cpp
+V 22
+file vs.0.r1361/132323
+K 15
+musicServer.dsp
+V 20
+file 157.0.r1351/524
+END
+ENDREP
+id: vn.6c.r1441/628
+type: dir
+pred: vn.0.r1361/133486
+count: 15
+text: 1441 346 269 269 7900d0c9132f2503a2dc8bf8c11a1c0d
+props: 1356 1422 71 0 470681d7ea2544ee0b61e695a0d33996
+cpath: /old/sipXcallLib/branches/2.6/examples/musicServer
+copyroot: 1387 /old/sipXcallLib/branches/2.6
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file vm.0.r1322/796690
+K 11
+musicServer
+V 19
+dir vn.6c.r1441/628
+END
+ENDREP
+id: vl.6c.r1441/1011
+type: dir
+pred: vl.0.r1361/133835
+count: 15
+text: 1441 907 91 91 a3690cd3392eaa6ce159a44843ae90fc
+props: 1356 1849 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXcallLib/branches/2.6/examples
+copyroot: 1387 /old/sipXcallLib/branches/2.6
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file vb.0.r1322/794377
+K 9
+ChangeLog
+V 20
+file vc.6c.r1408/298
+K 7
+INSTALL
+V 19
+file vd.0.r1362/532
+K 7
+LICENSE
+V 22
+file ve.0.r1322/684024
+K 11
+Makefile.am
+V 20
+file vf.6c.r1389/751
+K 4
+NEWS
+V 22
+file vg.0.r1322/794232
+K 6
+README
+V 19
+file vh.0.r1328/613
+K 4
+TODO
+V 22
+file vi.0.r1322/732281
+K 9
+acsite.m4
+V 22
+file vj.0.r1322/732833
+K 3
+bin
+V 18
+dir 15f.0.r1379/60
+K 12
+configure.ac
+V 19
+file vk.6c.r1404/48
+K 3
+doc
+V 20
+dir 158.0.r1356/1197
+K 8
+examples
+V 20
+dir vl.6c.r1441/1011
+K 7
+include
+V 19
+dir vt.0.r1370/3190
+K 15
+sipXcallLib.dsp
+V 20
+file 155.0.r1373/115
+K 19
+sipxcalllib.spec.in
+V 20
+file 15d.6c.r1406/88
+K 3
+src
+V 21
+dir 10q.6c.r1395/2049
+END
+ENDREP
+id: va.6c.r1441/1970
+type: dir
+pred: va.6c.r1408/1200
+count: 59
+text: 1441 1277 680 680 a6d3a959aae9f9d349caad7ffd0d0cd4
+props: 1395 3006 420 0 297ed7681427b3df815190b7d261e4d1
+cpath: /old/sipXcallLib/branches/2.6
+copyroot: 1387 /old/sipXcallLib/branches/2.6
+
+PLAIN
+K 3
+2.6
+V 20
+dir va.6c.r1441/1970
+END
+ENDREP
+id: 15e.0.r1441/2281
+type: dir
+pred: 15e.0.r1408/1510
+count: 15
+text: 1441 2230 38 38 ff930802fb3eb9491fb6c30d6fa32eb8
+cpath: /old/sipXcallLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 15e.0.r1441/2281
+K 4
+main
+V 19
+dir va.0.r1440/2277
+K 4
+tags
+V 20
+dir 156.0.r1435/1469
+END
+ENDREP
+id: v9.0.r1441/2573
+type: dir
+pred: v9.0.r1440/2622
+count: 120
+text: 1441 2448 112 112 3f4fddfe320aa3400559fdc7d6530dfc
+cpath: /old/sipXcallLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1441/2573
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1441/2917
+type: dir
+pred: 1.0.r1440/2967
+count: 1440
+text: 1441 2732 172 172 eb28511204e1eea5de40286c220fb8f7
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1441/2917
+END
+ENDREP
+id: 0.0.r1441/3112
+type: dir
+pred: 0.0.r1440/3163
+count: 1441
+text: 1441 3063 36 36 2a074ebc06068ac0794299e8a7101341
+cpath: /
+copyroot: 0 /
+
+vr.6c.t1440-1 modify false true /old/sipXcallLib/branches/2.6/examples/musicServer/default.wav
+
+
+3112 3253

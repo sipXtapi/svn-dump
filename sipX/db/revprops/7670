@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-06T02:37:56.393843Z
+K 7
+svn:log
+V 90
+Relocate test redirector to redirect_plugins, in preparation for
+making it into a plugin.
+
+END

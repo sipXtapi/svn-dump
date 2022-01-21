@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2004-11-22T20:08:05.226793Z
+K 7
+svn:log
+V 57
+Adding Makefile.am in doc for autoconf 2.57 compatibility
+END

@@ -1,0 +1,28 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2020-02-04T23:51:02.336126Z
+K 7
+svn:log
+V 771
+A bunch of bug fixes and additional logging and checking:
+  Log if buffer is not big enough before asserting in opusenc callback
+  Made opusenc stream buffer bigger as it was too small
+  Set MprRecorder opusenc object pointer so that buffer can be flushed to file
+  Don't check if steam buffer is not null if opusenc object (buffer container) is null
+  Corrected drain comments
+  Enabled opusenc drain
+  Use correct buffer to write to file when draining
+  Don't write wav header for Opus
+  Correct samples written count for Opus to take up/down sampling in consideration
+  Fix MprRecorder::wrieFile return code
+  Declair and test size of interlace buffer only when its used
+  More logging and error reporting in MprRecorder::writeFile
+  Set bytesPerSample for Opus case
+
+
+END

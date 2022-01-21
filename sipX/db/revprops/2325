@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-09-03T15:49:03.453736Z
+K 7
+svn:log
+V 269
+Clean up and comment default mapping rules.
+
+Improve logging of all redirect server operations.
+All address transformations are now logged at NOTICE level and
+contain the string 'URI MAP' for easy searching.
+
+Rename mappingrules2.xml to fallbackrules.xml for clarity.
+
+
+END

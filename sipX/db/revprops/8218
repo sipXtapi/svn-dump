@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-12-08T16:57:36.782469Z
+K 7
+svn:log
+V 122
+RTP payload type for H.264 corrected to be equal to SDP anounced one.
+We still need dynamic payload type for this codec..
+
+END

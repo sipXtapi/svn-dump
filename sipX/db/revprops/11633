@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-04-01T13:03:27.582779Z
+K 7
+svn:log
+V 131
+Correctly set Mi energy level notification period for outgoing calls.
+It was not being set and defaulting to slow once per second.
+
+END

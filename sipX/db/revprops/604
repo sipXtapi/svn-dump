@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-17T16:13:24.135453Z
+K 7
+svn:log
+V 539
+All of the changes needed to build the sipXtack project with the new
+set of utility libraries.  I did make a few hack to get this to compile:
+
+1) In SipLine::copyCredentials(...), I casted form a const reference to a
+   non-cast reference.  Needs to be looked at. (Jira: XSL-2)
+
+
+2) I commented out the ->insert(...) in SipMessage::parseViaParameters.
+   The parameter is passed in as a UtlContainer, however, that class
+   does not define an insert method.  Scott will reworking the class
+   hierarchy to accommodate this. (Jira: XSL-3)
+
+
+END

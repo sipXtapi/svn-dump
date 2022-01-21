@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-03-12T14:04:16.896121Z
+K 7
+svn:log
+V 239
+Merged revisions 8177 via svnmerge from sipXmediaAdapterLib main branch
+
+........
+  r8177 | dpetrie | 2006-12-01 06:44:46 +0300 | 10 lines
+  
+  Number, assigned to invalid media interface connection is standatized and abstracted.
+........
+
+END

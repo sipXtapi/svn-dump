@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-12-26T18:04:12.388658Z
+K 7
+svn:log
+V 346
+XCF-787 remove unused deprecated methods from PhoneDefaults 
+replace calls to PhoneDefaults.getOutboundProxy with PhoneDefaults.getDomainName in GrandstreamPhone
+relax parsing of sipxconfig.properties - invalid properties are logged on DEBUG level but sipXconfig still starts properly - it allows changing or removing Spring beans property names
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-10-05T19:16:46.437139Z
+K 7
+svn:log
+V 297
+We were using a mix of "PIN" and "password" in the UI.  Standardize on "PIN".  This is a little strange because PINs can be alphanumeric, they are not strictly personal identification *numbers*.  But we are stuck with the term "PIN" as long as that is what the voicemail server asks the user for.
+
+END

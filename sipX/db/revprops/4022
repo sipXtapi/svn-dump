@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-06-08T21:36:08.932225Z
+K 7
+svn:log
+V 100
+XCF-423 - Clear DB at end of 'ant reset-db' task so that 'ant run' is not dependant on 'ant test-db'
+END

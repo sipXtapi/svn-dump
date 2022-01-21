@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2021-06-23T07:37:43.844385Z
+K 7
+svn:log
+V 37
+Changes for new device event passing
+
+END

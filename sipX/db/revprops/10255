@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-03T19:09:31.963529Z
+K 7
+svn:log
+V 156
+Add constructor parameter to MprBridge to enable/disable mixing of silent frames.
+For now I set it to mix silent frames, because our bad VAD confuse users.
+
+END

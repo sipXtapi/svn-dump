@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2007-11-08T13:55:12.881741Z
+K 7
+svn:log
+V 200
+Experimental: Added a #define to force symmetric RTP in cases where the send/receive IP matches, but the ports are different.  Must be compiled with SYMMETRIC_RTP_HACK to use -- disabled by default.
+
+
+END

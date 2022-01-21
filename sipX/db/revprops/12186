@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2013-11-25T21:53:01.949644Z
+K 7
+svn:log
+V 130
+Roughed out MprRecorder to optionally record wave files encoded with GSM
+This was only tested to see if WAV_PCM_16 was not broken
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-07-23T08:51:19.538084Z
+K 7
+svn:log
+V 78
+sipXmediaLib: Fix Speex - wb_skip_table variable should be declared external.
+
+END

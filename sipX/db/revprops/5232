@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-29T22:04:44.847296Z
+K 7
+svn:log
+V 375
+Fix bug XCF-696: Replace Apache DBCP jar with C3P0 jar in build.xml.
+Remove the property dataSource.url from sipconfig.properties.in.  Having switched to C3P0, the new property should be dataSource.jdbcUrl.  But this is redundant with applicationContext-sipconfig.xml, which already defines this property, so just remove it from sipconfig.properties.in rather than fixing it.
+END

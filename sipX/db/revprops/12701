@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2019-02-21T03:56:56.576967Z
+K 7
+svn:log
+V 198
+Fixed sipxCallCreate, sipxCallAccept and sipxCallConnect so that they reliably set the energy level notification periods for the mic and speaker, including a value of zero to disable notifications.
+
+END

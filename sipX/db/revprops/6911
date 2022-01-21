@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-06-06T16:50:11.861507Z
+K 7
+svn:log
+V 115
+BUGFIX: getContactAdapterName() and getAllLocalHostIps() enter infinite loop
+if one adapter have more then one IP.
+
+END

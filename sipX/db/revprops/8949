@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2007-03-01T20:36:23.836381Z
+K 7
+svn:log
+V 182
+Various small contributed fixes
+
+XPL-190 UtlHashMap does a wrong insert and causes retrieval failure
+XPL-141 OsFile::touch fails when called on an existing zero-length file
+
+--Woof!
+
+END

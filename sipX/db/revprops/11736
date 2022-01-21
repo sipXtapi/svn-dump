@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-07-12T20:47:26.908488Z
+K 7
+svn:log
+V 81
+Added sipXtapi methods do video pass through and stream RTP independent of calls
+
+END

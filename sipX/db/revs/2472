@@ -1,0 +1,123 @@
+id: 1y5.cn.r2472/0
+type: dir
+pred: 1y5.cm.r2471/9571
+count: 104
+text: 2471 8883 675 675 bdbd76b26d448d628069b74a7cff35b4
+props: 2464 2277 688 0 32171479a390e2765bbd4fbbd3b5f9ac
+cpath: /old/sipXregistry/branches/user_dworley_redirect
+copyfrom: 2471 /old/sipXregistry/branches/user_dworley_1
+
+PLAIN
+K 3
+2.6
+V 21
+dir 1y5.bo.r2429/1648
+K 3
+2.8
+V 21
+dir 1y5.cd.r2456/1514
+K 21
+user_dworley_redirect
+V 18
+dir 1y5.cn.r2472/0
+K 8
+user_pin
+V 20
+dir 1y5.cl.r2468/826
+K 9
+user_ping
+V 20
+dir 1y5.ci.r2461/683
+END
+ENDREP
+id: 1zf.0.r2472/508
+type: dir
+pred: 1zf.0.r2471/10051
+count: 29
+text: 2472 291 204 204 a300642af86abc990b1cacac5d8480ad
+cpath: /old/sipXregistry/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 1zf.0.r2472/508
+K 4
+main
+V 20
+dir 1y5.0.r2470/1578
+K 4
+tags
+V 20
+dir 1z5.0.r2466/2168
+END
+ENDREP
+id: 1y4.0.r2472/802
+type: dir
+pred: 1y4.0.r2471/10349
+count: 173
+text: 2472 677 112 112 1a97052eabe31080d6cfd6a93c1d8292
+cpath: /old/sipXregistry
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 12
+sipXregistry
+V 19
+dir 1y4.0.r2472/802
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2472/1280
+type: dir
+pred: 1.0.r2471/10832
+count: 2471
+text: 2472 963 304 304 c3c7f3d997e28796a020b3dd4987e725
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2472/1280
+END
+ENDREP
+id: 0.0.r2472/1475
+type: dir
+pred: 0.0.r2471/11030
+count: 2472
+text: 2472 1426 36 36 eb46279fe533d90e91d80306fbf904ef
+cpath: /
+copyroot: 0 /
+
+1y5.cm.r2471/9571 delete false false /old/sipXregistry/branches/user_dworley_1
+
+1y5._0.t2471-1 add false false /old/sipXregistry/branches/user_dworley_redirect
+2471 /old/sipXregistry/branches/user_dworley_1
+
+1475 1617

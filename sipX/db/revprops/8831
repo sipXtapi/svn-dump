@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-20T16:49:58.660692Z
+K 7
+svn:log
+V 259
+Merged revisions 8122 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+
+........
+  r8122 | mdm2000 | 2006-11-27 11:48:22 +0300 | 2 lines
+  
+  Make sure to zero out the struct sockaddr_in for systems that require it, like OS X.
+........
+
+END

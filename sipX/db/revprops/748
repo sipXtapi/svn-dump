@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-12-29T22:55:25.332170Z
+K 7
+svn:log
+V 325
+Do not copy this change to release 2.7!
+Lower the logging level of some messages to INFO so that release 2.6
+does not generate logs that are too large.  But these problems should
+be investigated further and the underlying problems resolved.
+http://track.sipfoundry.org/browse/XSL-41
+http://track.sipfoundry.org/browse/XSL-47
+
+END

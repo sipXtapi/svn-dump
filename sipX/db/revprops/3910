@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-05-16T18:37:41.751702Z
+K 7
+svn:log
+V 130
+XPB-253 Add SOAP method to edit pin token, remove setSipPassword function as it's not needed anywhere, it will be set from neoconf
+END

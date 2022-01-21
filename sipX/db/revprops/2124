@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-08-24T07:59:42.645085Z
+K 7
+svn:log
+V 260
+Fixed the authproxy SIP_AUTHPROXY_ROUTE_NAME parameter so that
+it is actually used as the SIP URI that is added as the 
+Record-Route URI.  This allows the use of a DNS SRV name so that
+the authproxy can be a named service with failover or scaled
+duplication.
+
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2005-02-16T20:35:21.470120Z
+K 7
+svn:log
+V 165
+Fixing location of called voicemail_clean script, making backup- and restore- scripts less interactive if given a switch. Fix uninstall script to be more interactive
+END

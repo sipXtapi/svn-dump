@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2008-11-15T01:52:53.282685Z
+K 7
+svn:log
+V 283
+The Contact of a subscribe gets used as the URI in the NOTIFY.  If the
+Contact is in name-addr format it need to be converted to request URI
+format.
+
+Set the Contact in the NOTIFY to that of the request URI of the SUBSCRIBE
+so that reSUBSCRIBE requests have the correct resourceID.
+
+
+END

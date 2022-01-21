@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-29T17:45:21.045556Z
+K 7
+svn:log
+V 145
+default digitmap for Polycom phone updated to match default dialing plan for sipx
+the new value is: [2-9]11|0T|011xxx.T|91[2-9]xxxxxxxxx|[1-8]xx
+
+END

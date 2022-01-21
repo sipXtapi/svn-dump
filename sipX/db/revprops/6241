@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-02-24T20:28:34.135663Z
+K 7
+svn:log
+V 76
+Merge rev, 5467 from http-persistence branch. Clean up after
+failed socket.
+
+END

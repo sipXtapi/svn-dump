@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-12-18T23:02:14.241082Z
+K 7
+svn:log
+V 138
+Fix return value of MpTopologyGraph::addResources() - it should be OS_SUCCESS, not OS_NOT_YET_IMPLEMENTED.
+Two indent fixes are here too.
+
+END

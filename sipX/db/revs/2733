@@ -1,0 +1,72 @@
+id: 22c.0.r2733/0
+type: dir
+count: 0
+cpath: /old/sipXvxml
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 17
+dir 22c.0.r2733/0
+END
+ENDREP
+id: 1.0.r2733/472
+type: dir
+pred: 1.0.r2732/3794
+count: 2732
+text: 2733 73 386 386 8f6ea3ed2c6b016f4d331129ef2de2bd
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r2733/472
+END
+ENDREP
+id: 0.0.r2733/663
+type: dir
+pred: 0.0.r2732/3989
+count: 2733
+text: 2733 615 35 35 7e77e08cb58d1d65a799c6aa6b497978
+cpath: /
+copyroot: 0 /
+
+_0.0.t2732-1 add false false /old/sipXvxml
+
+
+663 802

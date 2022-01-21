@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-08-23T10:04:42.427276Z
+K 7
+svn:log
+V 303
+MpBuf interface extended.
+
+1) New buffers function: MpBufPtr::makeClone() - creates duplicate of the buffer.
+2) MpBuf::isWritable() moved to MpBufPtr.
+3) Added function MpBufPtr::requestWrite() - if isWritable() return false it creates a clone of the buffer.
+4) Buffers documentation slightly updated.
+
+
+END

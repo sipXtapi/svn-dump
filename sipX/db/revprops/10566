@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-31T13:01:33.276814Z
+K 7
+svn:log
+V 171
+Rearrange methods in MpCodecFactory to match their actual purpose and access type.
+No real code changed, only const qualifiers add to createDecoder() and createEncoder().
+
+END

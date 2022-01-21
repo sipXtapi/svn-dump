@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-09-08T00:03:09.140971Z
+K 7
+svn:log
+V 248
+Rename max, min macros to sipx_max and sipx_min to prevent collision
+with other identifier names named max and min.
+
+This specifically had issues with STL implementation on Linux 
+(Gnu G++ 4.1.2, libstdc++ 6.0.8)
+relating to things in STL vector.
+
+
+END

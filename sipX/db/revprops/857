@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-22T18:06:14.199494Z
+K 7
+svn:log
+V 24
+Fix svn:ignore property.
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2006-05-04T19:39:36.945543Z
+K 7
+svn:log
+V 71
+Don't set SO_DONTROUTE on server sockets.  We want to support subnets.
+
+END

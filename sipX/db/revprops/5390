@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-10-23T17:01:52.191379Z
+K 7
+svn:log
+V 203
+XCF-709 - slightly better fix that the one commited to 3.0 branch
+we now only provide data model (source propery) to users table, column model and all tapestry caching and session management is standard
+
+END

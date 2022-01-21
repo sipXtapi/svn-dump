@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-02-16T23:49:39.446043Z
+K 7
+svn:log
+V 186
+Fix XSL-116: XML-RPC must escape special chars in string values.
+This should also fix XRR-100 and XRR-101, since it is the underlying cause.
+Also fix an incorrect XML-RPC fault message.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-02-24T23:02:37.089395Z
+K 7
+svn:log
+V 75
+Sleeping for 3 seconds on shutdown, to make sure unREGISTER gets executed.
+
+END

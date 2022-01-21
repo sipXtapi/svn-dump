@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-04-09T17:50:20.312396Z
+K 7
+svn:log
+V 529
+XCF-1624 - Upgrade polycom 2.0 support to 2.1 (still need to change labels to 1.X and 2.X) by taking a whole new approach to polycom profiles. according to a whitepaper published by polycom, we should be installing pristine copies of the profile templates shipped with polycom firmware and only be generate configuration settings that sipxconfig supports.  Therefore we can remove boilerplate content from our velocity files.  This also means that uploading new firmware will provide a new set of pristine templates automatically
+END

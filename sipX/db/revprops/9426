@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-27T11:53:44.399004Z
+K 7
+svn:log
+V 65
+Fix mime-type and eol-style on sipXmediaLib *.cpp and *.h files.
+
+END

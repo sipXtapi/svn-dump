@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-11-09T16:02:54.980764Z
+K 7
+svn:log
+V 241
+XCF-778 fixed configuration for presence server logging level
+- presence server was not added to Process enumeration - in consequence it was not restarted properly
+- name of the configuration file for presence server in server.xml was wrong
+
+END

@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-09-29T20:16:50.925177Z
+K 7
+svn:log
+V 284
+mergefrom pingtel-main 6491
+
+Improve log message.
+
+mergefrom-incremental pingtel-main 6587 (partial)
+
+Merge revision 6518,6528,6550,6571 and 6581 from pingtel-3.4
+to pingtel-main.
+Implement parked call retrieval by having the park server transfer 
+the original call to the executor.
+
+
+END

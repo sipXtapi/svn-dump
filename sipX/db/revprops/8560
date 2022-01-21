@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-16T22:58:49.619413Z
+K 7
+svn:log
+V 157
+GSM updates for VS6 build.
+
+* libgsm project added to solution.
+* libgsm added to linker input directories for test projects.
+* HAVE_GSM defined by default.
+
+END

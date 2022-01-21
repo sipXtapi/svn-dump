@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-03-06T22:49:33.977580Z
+K 7
+svn:log
+V 79
+XCF-753 UserCallForwarding: use For components instead of ListEdit/ListEditMap
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+zhuwei77
+K 8
+svn:date
+V 27
+2004-06-10T12:46:31.504752Z
+K 7
+svn:log
+V 122
+Modify all containers and their iterators but UtlHashBag and UtlHashMap according to new design.
+Fix some UtlString's bugs
+END

@@ -1,0 +1,623 @@
+id: dnr.5lh.r7906/0
+type: file
+pred: dnr.50m.r7768/2029
+count: 1
+text: 7768 0 2016 160471 736b62c81d5bbbd4a05778292ffefa23
+cpath: /branches/user_dworley_redirectors_merge/sipXpbx/doc/developer/interop.pingtel.com/sipx_dbdir/credential.xml.in.pre
+copyfrom: 7768 /branches/user_dworley_redirectors/sipXpbx/doc/developer/interop.pingtel.com/sipx_dbdir/credential.xml.in.pre
+
+PLAIN
+K 13
+alias.xml.pre
+V 23
+file c13.5le.r7905/8720
+K 21
+credential.xml.in.pre
+V 20
+file dnr.5lh.r7906/0
+K 17
+huntgroup.xml.pre
+V 23
+file c15.5lf.r7905/7712
+K 18
+permission.xml.pre
+V 23
+file c16.5lg.r7905/8214
+END
+ENDREP
+id: c12.5ld.r7906/595
+type: dir
+pred: c12.5ld.r7905/9356
+count: 3
+text: 7906 372 210 210 968fcd151e0d0cbb024266b802593e8a
+cpath: /branches/user_dworley_redirectors_merge/sipXpbx/doc/developer/interop.pingtel.com/sipx_dbdir
+copyroot: 7618 /main/sipXpbx/doc/developer/interop.pingtel.com/sipx_dbdir
+
+PLAIN
+K 8
+Makefile
+V 23
+file dje.5jf.r7905/9657
+K 6
+README
+V 23
+file 901.1i9.r7729/3990
+K 12
+http_rootdir
+V 22
+dir 8zk.5l5.r7905/4490
+K 7
+scripts
+V 21
+dir 91f.1i9.r7560/926
+K 12
+sipx_confdir
+V 22
+dir 902.5l0.r7905/7325
+K 10
+sipx_dbdir
+V 21
+dir c12.5ld.r7906/595
+END
+ENDREP
+id: 8zj.5jf.r7906/1166
+type: dir
+pred: 8zj.5jf.r7905/10239
+count: 56
+text: 7906 893 260 260 5b36dfd9642b210a17aae3e1b774af4d
+cpath: /branches/user_dworley_redirectors_merge/sipXpbx/doc/developer/interop.pingtel.com
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 18
+INSTALLATION.NOTES
+V 23
+file 6mg.0.r4571/100158
+K 18
+Makefile.config.in
+V 22
+file 6mh.1w5.r6079/421
+K 14
+Makefile.devel
+V 22
+file 6mh.5k0.r7890/453
+K 6
+README
+V 21
+file 6mf.y6.r4450/661
+K 18
+buildloop.switches
+V 22
+file 6o2.0.r4618/56832
+K 15
+check-libraries
+V 20
+file 6os.0.r4481/918
+K 14
+clean-check.sh
+V 25
+file 6p1.1i9.r5457/151339
+K 10
+config-xml
+V 26
+file 6mk.1i9.r4884/6151044
+K 12
+eol-check.sh
+V 20
+file 6om.0.r4615/457
+K 24
+find-call-transitions.pl
+V 23
+file 6ov.0.r4571/100413
+K 13
+gen-config.sh
+V 21
+file 6ml.0.r4451/1049
+K 19
+interop.pingtel.com
+V 22
+dir 8zj.5jf.r7906/1166
+K 10
+port-usage
+V 22
+file 6mm.0.r4571/99914
+K 14
+profile-driver
+V 20
+file 6pc.0.r4587/456
+K 14
+profile-format
+V 20
+file 6pd.0.r4587/108
+K 7
+sipX.el
+V 22
+file 6mn.1i9.r5809/125
+K 12
+tab-check.sh
+V 23
+file 8jg.1i9.r5494/1174
+K 11
+test-config
+V 23
+dir 6mx.1i9.r5464/19020
+END
+ENDREP
+id: 6me.5jf.r7906/2288
+type: dir
+pred: 6me.5jf.r7905/11364
+count: 156
+text: 7906 1411 864 864 5d66252fb3b78f9256cedb61c0f97b9a
+props: 4503 0 42 0 53dbb2403cdf571d867f8a60d94ee489
+cpath: /branches/user_dworley_redirectors_merge/sipXpbx/doc/developer
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 11
+Doxyfile.in
+V 23
+file 6oj.1i9.r7147/7466
+K 11
+Makefile.am
+V 24
+file 6oh.1i9.r7320/54023
+K 9
+developer
+V 22
+dir 6me.5jf.r7906/2288
+K 11
+footer.html
+V 26
+file 6ok.1i9.r4884/6150408
+K 7
+license
+V 21
+dir 5gn.0.r4618/56659
+END
+ENDREP
+id: 5gm.5jf.r7906/2807
+type: dir
+pred: 5gm.5jf.r7905/11886
+count: 178
+text: 7906 2567 227 227 17cf48aa81ae6d09e2c1b10a63263a85
+props: 5457 153170 64 0 e19f173046f394aff8f05c9ce51adc16
+cpath: /branches/user_dworley_redirectors_merge/sipXpbx/doc
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4454/288397
+K 9
+ChangeLog
+V 21
+file 5g8.0.r4571/9011
+K 7
+INSTALL
+V 23
+file 5g9.0.r4454/289610
+K 7
+LICENSE
+V 21
+file 5ga.0.r4571/8791
+K 11
+Makefile.am
+V 23
+file 5gb.1i9.r7616/6351
+K 4
+NEWS
+V 23
+file 5gc.0.r4454/299658
+K 6
+README
+V 23
+file 5gd.0.r4454/288092
+K 4
+TODO
+V 23
+file 5ge.0.r4454/289304
+K 3
+bin
+V 22
+dir 5gg.1i9.r7849/4974
+K 6
+config
+V 24
+file d3o.1i9.r7274/13520
+K 12
+configure.ac
+V 23
+file 5gl.1i9.r7696/6698
+K 3
+doc
+V 22
+dir 5gm.5jf.r7906/2807
+K 3
+etc
+V 22
+dir 5gp.1i9.r7598/3275
+K 7
+include
+V 22
+dir 5h2.1i9.r7322/6844
+K 4
+meta
+V 22
+dir 6of.1z3.r7758/1493
+K 14
+sipXconference
+V 23
+dir 86e.1i9.r7707/47482
+K 10
+sipXdialog
+V 22
+dir 7vj.1i9.r7548/6621
+K 8
+sipXpark
+V 23
+dir 6pl.1i9.r7867/13135
+K 12
+sipXpresence
+V 22
+dir 7w9.1i9.r7679/8094
+K 15
+sipxpbx.spec.in
+V 23
+file 6mo.1i9.r7849/3706
+K 3
+src
+V 22
+dir 5hb.5jf.r7886/1317
+END
+ENDREP
+id: 5g6.5jf.r7906/3968
+type: dir
+pred: 5g6.5jf.r7905/13050
+count: 645
+text: 7906 3081 874 874 26542bb9bf733a417c46e6f8e35d0fc1
+props: 7274 14626 838 0 253428b826320ceabffbfa339b5e7dbb
+cpath: /branches/user_dworley_redirectors_merge/sipXpbx
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 11
+Makefile.in
+V 22
+file d0m.421.r7476/352
+K 7
+bbridge
+V 20
+dir 8dl.0.r7696/8716
+K 5
+build
+V 22
+file d5a.0.r7664/15661
+K 6
+config
+V 21
+dir 91.1i4.r7866/1575
+K 12
+configure.ac
+V 22
+file d0n.0.r7696/10199
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 3
+lib
+V 22
+dir cyn.5ja.r7882/1105
+K 14
+msvs6build.bat
+V 20
+file dm4.0.r7715/812
+K 14
+resiprocateLib
+V 21
+dir 8g8.0.r7696/13751
+K 9
+sipXb2bua
+V 22
+dir dau.0.r7443/443096
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r7870/8549
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r7870/18069
+K 10
+sipXconfig
+V 23
+dir 2hf.5kz.r7902/28305
+K 19
+sipXmediaAdapterLib
+V 20
+dir 89s.0.r7761/9455
+K 12
+sipXmediaLib
+V 21
+dir mz.1i8.r7761/7877
+K 7
+sipXpbx
+V 22
+dir 5g6.5jf.r7906/3968
+K 11
+sipXportLib
+V 20
+dir 3.5je.r7884/1293
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r7852/3172
+K 13
+sipXpublisher
+V 22
+dir 20n.1id.r7870/4851
+K 12
+sipXregistry
+V 23
+dir 1y5.5jg.r7902/42286
+K 11
+sipXtackLib
+V 21
+dir dk.5jb.r7877/1988
+K 8
+sipXvxml
+V 23
+dir 22d.1ig.r7867/11456
+K 10
+top.mak.in
+V 21
+file d5l.0.r7330/2797
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 46
+build.err
+configure
+autom4te.cache
+aclocal.m4
+
+K 38
+svnmerge-dworley-URI-parsing2main-head
+V 74
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/dworley-URI-parsing
+K 38
+svnmerge-dworley-URI-parsing2main-revs
+V 6
+1-7477
+K 49
+svnmerge-main2user_dworley_redirectors_merge-head
+V 40
+https://scm.sipfoundry.org/rep/sipX/main
+K 49
+svnmerge-main2user_dworley_redirectors_merge-revs
+V 6
+1-7875
+K 26
+svnmerge-pingtel-main-head
+V 50
+https://paradise.pingtel.com/rep/sipX/pingtel/main
+K 26
+svnmerge-pingtel-main-revs
+V 456
+1-5590,5645,5738,5813,5840,5842,5914,5954,5969,5982,6041,6077,6085,6139,6144,6156,6158,6182,6187,6207-6208,6230,6285,6289,6292-6295,6298-6299,6301,6306,6308-6309,6311,6325-6327,6329,6333,6338,6342,6403,6441,6491,6538-6539,6551,6561,6587,6936-6937,6953,6960-6961,6997,7053,7062-7065,7067-7070,7080,7087,7092-7093,7105,7115-7116,7164,7169-7170,7180,7199,7241-7242,7274,7276-7277,7280,7293,7295,7359-7360,7374,7380-7382,7385,7389,7392,7394,7405,7408,7460,7468
+K 22
+svnmerge-sipx-3.0-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.0
+K 22
+svnmerge-sipx-3.0-revs
+V 51
+1-5315,5348,5357,5382,5417,5451,5474-5478,5508,5621
+K 22
+svnmerge-sipx-3.2-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.2
+K 22
+svnmerge-sipx-3.2-revs
+V 16
+1-6588,6684,7229
+K 22
+svnmerge-sipx-3.4-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.4
+K 22
+svnmerge-sipx-3.4-revs
+V 166
+1-6680,6748,6759,6763-6764,6773,6775,6777-6778,6784,6794-6795,6798,6803,6825,6830,6888,6894,6902,6905,6926,6947,6956,6966,6976,6978,6981,6987,7000,7077-7079,7095,7249
+K 22
+svnmerge-sipx-3.6-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.6
+K 22
+svnmerge-sipx-3.6-revs
+V 21
+1-7636,7693-7694,7770
+K 29
+svnmerge-sipx-modularity-head
+V 55
+https://scm.sipfoundry.org/rep/sipX/branches/modularity
+K 29
+svnmerge-sipx-modularity-revs
+V 6
+1-6845
+K 30
+svnmerge-sipx-replication-head
+V 67
+https://scm.sipfoundry.org/rep/sipX/branches/sipXconfig/replication
+K 30
+svnmerge-sipx-replication-revs
+V 6
+1-5723
+K 26
+svnmerge-solaris2main-head
+V 57
+https://scm.sipfoundry.org/rep/sipX/branches/solaris_port
+K 26
+svnmerge-solaris2main-revs
+V 6
+1-6454
+K 43
+svnmerge-user_dworley_redirectors2main-head
+V 69
+https://scm.sipfoundry.org/rep/sipX/branches/user_dworley_redirectors
+K 43
+svnmerge-user_dworley_redirectors2main-revs
+V 201
+1-7213,7345,7348,7350,7361-7362,7444-7445,7456-7459,7469-7470,7472,7509-7510,7518,7522,7588,7591,7646,7651-7654,7668-7671,7690,7692,7738,7741,7744,7747-7748,7751-7756,7766-7768,7788-7791,7823-7824,7827
+K 44
+svnmerge-user_dworley_redirectors2merge-head
+V 69
+https://scm.sipfoundry.org/rep/sipX/branches/user_dworley_redirectors
+K 44
+svnmerge-user_dworley_redirectors2merge-revs
+V 21
+1-7203,7205,7213,7345
+END
+ENDREP
+id: 7q4.5ja.r7906/8013
+type: dir
+pred: 7q4.5ja.r7905/17098
+count: 2013
+text: 7906 4238 1010 1010 b974a4e812756f4f36d182e05213dd58
+props: 7906 5261 2739 0 eb0d7cb193686908b3d355549c394c73
+cpath: /branches/user_dworley_redirectors_merge
+copyroot: 7876 /branches/user_dworley_redirectors_merge
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r7819/13302
+K 3
+3.6
+V 23
+dir 7q4.50x.r7904/26263
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 16
+proxy_simple_cdr
+V 22
+dir 1vt.5hb.r7859/8981
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 21
+dir 9wi.0.r7794/23342
+K 21
+sipXtapi-media-update
+V 22
+dir 9wi.3ke.r7871/8308
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 21
+dir 7q4.4t1.r7562/240
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 24
+user_dworley_redirectors
+V 22
+dir 7q4.3xw.r7858/7806
+K 30
+user_dworley_redirectors_merge
+V 22
+dir 7q4.5ja.r7906/8013
+K 14
+virtual-domain
+V 22
+dir 7q4.4t6.r7863/5241
+END
+ENDREP
+id: 7pt.0.r7906/9324
+type: dir
+pred: 7pt.0.r7905/18413
+count: 1085
+text: 7906 8305 1006 1006 e56dee7f756fb07bf5d9b80363cd07b2
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r7906/9324
+K 4
+main
+V 20
+dir 7q4.0.r7903/8204
+K 4
+tags
+V 20
+dir 7q5.0.r7874/3088
+END
+ENDREP
+id: 0.0.r7906/9608
+type: dir
+pred: 0.0.r7905/18700
+count: 7906
+text: 7906 9482 113 113 4e592880407cb687651f169345463acd
+cpath: /
+copyroot: 0 /
+
+c14.4zl.r7618/9666 delete false false /branches/user_dworley_redirectors_merge/sipXpbx/doc/developer/interop.pingtel.com/sipx_dbdir/credential.xml
+
+dnr._0.t7905-1 add false false /branches/user_dworley_redirectors_merge/sipXpbx/doc/developer/interop.pingtel.com/sipx_dbdir/credential.xml.in.pre
+7768 /branches/user_dworley_redirectors/sipXpbx/doc/developer/interop.pingtel.com/sipx_dbdir/credential.xml.in.pre
+7q4.5ja.t7905-1 modify false true /branches/user_dworley_redirectors_merge
+
+
+9608 9752

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-04-04T14:21:04.335182Z
+K 7
+svn:log
+V 100
+Update crontab to restart sipX once a week, rather than once a day (to
+test the restart mechanism).
+
+END

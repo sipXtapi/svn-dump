@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-05-25T05:04:26.922005Z
+K 7
+svn:log
+V 98
+Lots of new sdpLib unit test cases for uncovered old code and new codec comparison functionality.
+
+END

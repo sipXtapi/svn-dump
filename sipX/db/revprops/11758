@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-09-22T19:40:33.093778Z
+K 7
+svn:log
+V 309
+Explicity copy payload IDs from remote side only when we receive SDP offer.
+  We cannot change the payload IDs that we expect to recieve after we make an offer.
+  (i.e. don't try to match payload IDs for receive from SDP answer after we offer)
+  Always be prepared to receive our full set of enabled codecs.
+
+
+END

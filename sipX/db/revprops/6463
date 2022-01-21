@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-03-29T21:44:37.213452Z
+K 7
+svn:log
+V 96
+Update release notes and bump rev from 3.3.0 to 3.3.2 (forgot to update notes and ver for 3.3.1)
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-24T00:17:51.020046Z
+K 7
+svn:log
+V 68
+Fix Makefile.am so that it makes bin/sipxtacklib-config executable.
+
+END

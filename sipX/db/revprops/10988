@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-11-26T21:19:39.481484Z
+K 7
+svn:log
+V 44
+Remove excessive "const enum" from casting.
+
+END

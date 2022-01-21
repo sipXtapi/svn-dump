@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-07-12T17:59:53.597964Z
+K 7
+svn:log
+V 62
+Created the UtlContainable wrappers for bool and OsDateTime.
+
+
+END

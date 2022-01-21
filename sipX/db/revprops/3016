@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-05-23T22:30:36.614758Z
+K 7
+svn:log
+V 126
+Fixed to allow compilation on Fedora Core 4.
+Thanks to Hannu Strang for his help.
+
+http://track.sipfoundry.org/browse/XVX-143
+
+END

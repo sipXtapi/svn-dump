@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-08-26T19:41:44.038995Z
+K 7
+svn:log
+V 476
+[XRR-32] {vdigits} hangs redirect server if rule has no variable part.
+   http://track.sipfoundry.org/browse/XRR-32
+   This was actually already fixed (the URL manipulating code has been
+   extensively reworked), but I added some tests for this case.
+[XRR-60] Generalize default mappingrule for any length userid
+   http://track.sipfoundry.org/browse/XRR-60
+[XRR-61] Install (empty) example huntgroup and alias xml files for sipdb
+   http://track.sipfoundry.org/browse/XRR-61
+
+END

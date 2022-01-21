@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-10-31T21:29:55.688429Z
+K 7
+svn:log
+V 67
+Remove unnec. setting of phone modelIds, use spring bean id instead
+END

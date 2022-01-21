@@ -1,0 +1,192 @@
+PLAIN
+K 5
+2.5.1
+V 19
+dir dk.2k.r622/2796
+K 5
+2.5.2
+V 19
+dir dk.2l.r641/1720
+K 12
+2.6-export-A
+V 18
+dir dk.2v.r697/562
+K 12
+2.6-export-B
+V 18
+dir dk.2w.r699/562
+K 12
+2.6-export-C
+V 18
+dir dk.2x.r706/563
+K 12
+2.6-export-D
+V 18
+dir dk.2y.r707/563
+K 12
+2.6-export-E
+V 18
+dir dk.2z.r708/563
+K 12
+2.6-export-F
+V 18
+dir dk.30.r713/563
+K 12
+2.6-export-G
+V 18
+dir dk.32.r718/446
+K 12
+2.6-export-H
+V 18
+dir dk.33.r719/446
+K 12
+2.6-export-J
+V 18
+dir dk.34.r722/446
+K 12
+2.6-export-K
+V 18
+dir dk.35.r725/446
+K 12
+2.6-export-L
+V 18
+dir dk.36.r728/446
+K 12
+2.6-export-M
+V 18
+dir dk.37.r730/446
+K 12
+2.6-export-N
+V 18
+dir dk.38.r732/446
+K 12
+2.6-export-O
+V 18
+dir dk.3b.r761/446
+K 12
+2.6-export-P
+V 18
+dir dk.3c.r762/446
+K 12
+2.6-export-Q
+V 18
+dir dk.3d.r764/446
+K 12
+2.6-export-R
+V 18
+dir dk.3e.r767/446
+K 12
+2.6-export-S
+V 18
+dir dk.3f.r769/446
+K 12
+2.6-export-T
+V 18
+dir dk.3g.r774/446
+K 12
+2.6-export-U
+V 18
+dir dk.3i.r778/446
+K 5
+2.6.1
+V 18
+dir dk.31.r715/556
+K 5
+2.6.2
+V 19
+dir dk.3j.r788/2756
+K 12
+2.8-export-A
+V 18
+dir dk.3m.r835/630
+K 12
+2.8-export-B
+V 18
+dir dk.3n.r852/630
+K 9
+copy-test
+V 19
+dir dk.39.r757/7734
+K 13
+main-export-B
+V 18
+dir dk.2s.r692/447
+K 13
+main-export-C
+V 18
+dir dk.2t.r694/447
+K 17
+sipxtapi-export-A
+V 18
+dir dk.3p.r864/658
+END
+ENDREP
+id: kr.0.r870/1252
+type: dir
+pred: kr.0.r869/2196
+count: 39
+text: 870 0 1239 1239 09e52f8a9465f044acf1e2bd23871120
+cpath: /old/sipXtackLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir kz.0.r857/1772
+K 4
+main
+V 18
+dir dk.0.r868/1436
+K 4
+tags
+V 18
+dir kr.0.r870/1252
+END
+ENDREP
+id: dj.0.r870/1531
+type: dir
+pred: dj.0.r869/2477
+count: 271
+text: 870 1411 107 107 076fda908086711db47c3fc8bc6fbc14
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 18
+dir dj.0.r870/1531
+END
+ENDREP
+id: 1.0.r870/1785
+type: dir
+pred: 1.0.r869/2731
+count: 869
+text: 870 1687 85 85 8b9871d5e2e525d54ae6cfcde9a5ebe6
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r870/1785
+END
+ENDREP
+id: 0.0.r870/1973
+type: dir
+pred: 0.0.r869/2919
+count: 870
+text: 870 1925 35 35 eeccc3d2f152ff4189e89c52ece70885
+cpath: /
+copyroot: 0 /
+
+dk.3q.r869/653 delete false false /old/sipXtackLib/tags/2.8-export-C
+
+
+1973 2110

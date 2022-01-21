@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-01-25T19:29:20.390179Z
+K 7
+svn:log
+V 67
+Refactor new user page into position it can be to fixed for XCF-712
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-01-28T05:41:26.122899Z
+K 7
+svn:log
+V 102
+add unittest for creating a line, also add p6spy for unittests to see SQL getting submitting by dbunit
+END

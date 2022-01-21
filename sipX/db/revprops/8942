@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-03-01T15:34:59.268524Z
+K 7
+svn:log
+V 73
+Fix build with TEST_PRINT enabled in SipClient.cpp.
+Two typos fixed too.
+
+END

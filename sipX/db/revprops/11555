@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-02-02T04:29:01.355048Z
+K 7
+svn:log
+V 99
+A few sipXport unit test fixes to resolve false failures due to differences in unit test framework
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-07-01T10:13:08.897699Z
+K 7
+svn:log
+V 131
+Fix usage of va_list in OsSyslog - on some platforms (e.g. x86_64) va_list arguments can't be reused and should be copied instead.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-23T23:10:26.624296Z
+K 7
+svn:log
+V 194
+CpPhoneMediaInterface constructor parameter renamed from mbEnableICE to bEnableICE for clarity.
+Check for return value of getMediaConnection() in CpPhoneMediaInterface::getPrimaryCodec() added.
+
+END

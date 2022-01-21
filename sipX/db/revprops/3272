@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-12-14T23:12:55.402599Z
+K 7
+svn:log
+V 54
+move a lot of the base classes for settings into phone
+END

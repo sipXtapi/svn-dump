@@ -1,0 +1,294 @@
+PLAIN
+END
+ENDREP
+id: diz.0.r7592/17
+type: file
+pred: diz.0.r7570/7121
+count: 1
+text: 7570 5115 1227 4338 ccf5a6104d2fef237bfe797f5ce92a7c
+props: 7592 0 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /main/sipXmediaAdapterLib/sipXmediaMediaProcessing/src/test/CpPhoneMediaInterfaceTest.cpp
+copyroot: 0 /
+
+PLAIN
+K 29
+CpPhoneMediaInterfaceTest.cpp
+V 19
+file diz.0.r7592/17
+END
+ENDREP
+id: diy.0.r7592/378
+type: dir
+pred: diy.0.r7570/7467
+count: 1
+text: 7592 301 64 64 1423a5e82f481bca2cea9f2370dec9eb
+cpath: /main/sipXmediaAdapterLib/sipXmediaMediaProcessing/src/test
+copyroot: 0 /
+
+PLAIN
+K 25
+CpPhoneMediaInterface.cpp
+V 21
+file 8az.0.r7570/7644
+K 11
+Makefile.am
+V 23
+file 8b0.0.r4939/387173
+K 24
+sipXmediaFactoryImpl.cpp
+V 19
+file 8b1.0.r6723/79
+K 4
+test
+V 19
+dir diy.0.r7592/378
+END
+ENDREP
+id: 8ay.0.r7592/786
+type: dir
+pred: 8ay.0.r7570/8138
+count: 9
+text: 7592 576 197 197 803e7b1369d75b89d084833daeff1f9d
+props: 5457 175932 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /main/sipXmediaAdapterLib/sipXmediaMediaProcessing/src
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 8as.0.r4939/388665
+K 7
+include
+V 20
+dir 8at.0.r7570/6818
+K 31
+sipXmediaMediaProcessing.vcproj
+V 19
+file 8ax.0.r5308/59
+K 3
+src
+V 19
+dir 8ay.0.r7592/786
+END
+ENDREP
+id: 8ar.0.r7592/1234
+type: dir
+pred: 8ar.0.r7570/8588
+count: 10
+text: 7592 1038 183 183 61238e3ef68f6a20167903b4e23ffc87
+props: 5457 176463 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXmediaAdapterLib/sipXmediaMediaProcessing
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 89t.0.r4939/395026
+K 9
+ChangeLog
+V 23
+file 89u.0.r4939/393278
+K 7
+INSTALL
+V 22
+file 89v.0.r4982/17330
+K 11
+Makefile.am
+V 23
+file 89w.0.r7320/108618
+K 4
+NEWS
+V 23
+file 89x.0.r4939/394875
+K 6
+README
+V 23
+file 89y.0.r4939/395189
+K 4
+TODO
+V 23
+file 89z.0.r4939/389559
+K 3
+bin
+V 22
+dir 8a1.0.r7320/108442
+K 6
+config
+V 22
+file d3m.0.r7274/32155
+K 12
+configure.ac
+V 23
+file 8a3.0.r7320/107225
+K 3
+doc
+V 22
+dir 8a4.0.r7320/107899
+K 9
+interface
+V 21
+dir 8ab.0.r7570/10069
+K 4
+meta
+V 22
+dir 8am.0.r4939/393124
+K 23
+sipXmediaAdapterLib.dsp
+V 23
+file up.36b.r6365/11117
+K 27
+sipXmediaAdapterLibTest.dsp
+V 22
+file dix.0.r7570/10350
+K 24
+sipXmediaMediaProcessing
+V 20
+dir 8ar.0.r7592/1234
+K 27
+sipxmediaadapterlib.spec.in
+V 22
+file 8b2.0.r6690/18960
+END
+ENDREP
+id: 89s.0.r7592/2266
+type: dir
+pred: 89s.0.r7570/11364
+count: 32
+text: 7592 1485 768 768 fa13bd540d279569c0eb5c82640ba386
+props: 7274 33080 176 0 e6704be46323a030c69bfa8e9ab992a7
+cpath: /main/sipXmediaAdapterLib
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.in
+V 22
+file d0m.421.r7476/352
+K 7
+bbridge
+V 21
+dir 8dl.0.r7320/66517
+K 5
+build
+V 22
+file d5a.0.r7320/66775
+K 6
+config
+V 21
+dir 91.1i4.r7572/5318
+K 12
+configure.ac
+V 22
+file d0n.0.r7375/40114
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 3
+lib
+V 20
+dir cyn.0.r7587/4615
+K 14
+resiprocateLib
+V 20
+dir 8g8.0.r7462/1081
+K 9
+sipXb2bua
+V 22
+dir dau.0.r7443/443096
+K 11
+sipXcallLib
+V 22
+dir va.1i5.r7585/39619
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r7586/22333
+K 10
+sipXconfig
+V 22
+dir 2hf.1i7.r7589/6583
+K 19
+sipXmediaAdapterLib
+V 20
+dir 89s.0.r7592/2266
+K 12
+sipXmediaLib
+V 22
+dir mz.1i8.r7585/46747
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r7581/5134
+K 9
+sipXphone
+V 24
+dir 6qk.1ia.r7320/116868
+K 11
+sipXportLib
+V 20
+dir 3.1ib.r7586/9540
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r7587/2904
+K 13
+sipXpublisher
+V 23
+dir 20n.1id.r7545/41310
+K 12
+sipXregistry
+V 23
+dir 1y5.1ie.r7586/16387
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r7586/29210
+K 8
+sipXvxml
+V 23
+dir 22d.1ig.r7545/21876
+K 10
+top.mak.in
+V 21
+file d5l.0.r7330/2797
+END
+ENDREP
+id: 7q4.0.r7592/3515
+type: dir
+pred: 7q4.0.r7589/7850
+count: 1833
+text: 7592 2493 1009 1009 ca60d21a02697953a2ab7fbb42bf02a0
+props: 7586 30482 1792 0 621c6a787004555d917f62806eb0dab1
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r7591/5594
+K 4
+main
+V 20
+dir 7q4.0.r7592/3515
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r7592/3853
+type: dir
+pred: 0.0.r7591/5877
+count: 7592
+text: 7592 3726 114 114 3172c5c253a436c2e6ec923ab696f233
+cpath: /
+copyroot: 0 /
+
+diz.0.t7591-1 modify false true /main/sipXmediaAdapterLib/sipXmediaMediaProcessing/src/test/CpPhoneMediaInterfaceTest.cpp
+
+
+3853 3996

@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-09-15T15:15:39.149622Z
+K 7
+svn:log
+V 212
+Assorted fixes to sipXlib.m4 found while doing RPM builds
+  Make it print paths it found
+  Reduce duplicate library paths (-L switches)
+  Remove a redundant test
+Make the spec file do more explicit file listings
+
+END

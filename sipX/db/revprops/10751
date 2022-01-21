@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-08-08T16:30:27.955333Z
+K 7
+svn:log
+V 131
+Use appropriate sized constant for MP_BRIDGE_GAIN_UNDEFINED.
+Size of MP_BRIDGE_GAIN_UNDEFINED must be the same as of MpBridgeGain.
+
+END

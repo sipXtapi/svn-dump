@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-04-25T21:40:20.718855Z
+K 7
+svn:log
+V 154
+Working on XPR-120: resolver (CDR): support HA configurations with distributed proxies.  Order events for a given call by event_time rather than by cseq.
+
+END

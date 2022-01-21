@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+cypromis
+K 8
+svn:date
+V 27
+2006-08-30T10:53:33.356071Z
+K 7
+svn:log
+V 309
+Preliminary germany and poland versions of dialplan template added.
+Still need to decide if we should by default add a permission for 
+infolines (requested by most installations I have done) and also split the
+900 access to completely blocked class and primary rate class.
+UK numbers will be even more fun ...
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-02-16T18:35:06.953694Z
+K 7
+svn:log
+V 64
+Linux build: Add L16 codec to Linux build. Dusabled by default.
+
+END

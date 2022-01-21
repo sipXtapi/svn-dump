@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+mdm2000
+K 8
+svn:date
+V 27
+2007-01-02T23:40:16.792261Z
+K 7
+svn:log
+V 105
+On OS X, the extension for dynamic libraries is .dylib and not .so, so use that when running unit tests.
+
+END

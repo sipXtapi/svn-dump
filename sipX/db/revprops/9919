@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-30T23:36:22.634704Z
+K 7
+svn:log
+V 158
+Revert rev 9901 - addition of winmm.lib to all projects,
+as next checkin will have a better approach for including this particular library where it is needed.
+END

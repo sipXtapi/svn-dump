@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-08-30T16:56:18.237342Z
+K 7
+svn:log
+V 403
+Clarify the reason for an unsupported encoding error
+This was inspired by a problem seen at SIPit15; an overzealous
+implementation included 'Content-Encoding: identity' in the request,
+which caused a 'Bad Media' response.  The 'identity' token is not
+defined in that header (only in the corresponding Accept-Encoding
+header).
+This was the right error code to send, but the text expansion was
+not clear.
+
+END

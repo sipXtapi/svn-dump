@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-09-02T18:09:51.834085Z
+K 7
+svn:log
+V 286
+Patch from Marden P. Marshall to fix compiler problem on
+Yellow Dog Linux (PowerPC) system.  I had to tweek this a
+bit so that MSVS 6 was happy too as va_arg on Window will
+not take a const va_list.  This also seems to compile ok
+on RH9/gcc 3.2.2 Hopefully all platforms are happy
+now.
+
+END

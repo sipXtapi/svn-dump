@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-05-13T15:18:27.179213Z
+K 7
+svn:log
+V 325
+[XSL-48] addMessageObserver support for proxied responses
+   The stack will now allow observers to register for and receive
+   responses in a proxy.  100 responses are not dispatched to
+   observers.
+
+Many cleanups of log messages and assorted changes to make
+  things conform to the coding standard and improve readability.
+
+END

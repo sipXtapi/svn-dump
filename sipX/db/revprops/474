@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-03-24T21:21:43.131707Z
+K 7
+svn:log
+V 44
+improve ssl logging and correct key location
+END

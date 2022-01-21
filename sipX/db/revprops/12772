@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2020-06-19T06:31:40.071594Z
+K 7
+svn:log
+V 99
+Fixed some incorrect paths in MSVS2019 projects that were refering to MSVS2015 projects in contrib
+
+END

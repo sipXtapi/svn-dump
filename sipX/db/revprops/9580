@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-05-18T18:58:12.296646Z
+K 7
+svn:log
+V 93
+VS6 doesn't handle reference initialization very well it seems.
+Fixed initWaveHdr for VS6..
+
+
+END

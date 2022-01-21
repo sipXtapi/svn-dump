@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-10-11T14:32:27.049795Z
+K 7
+svn:log
+V 137
+[XPB-808] Correct spelling of namespace (prevents bogus warning at
+          startup)
+          Added a couple of files to the snapshot.
+
+END

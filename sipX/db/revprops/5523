@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-11-07T15:59:11.252771Z
+K 7
+svn:log
+V 75
+XCF-772 Point Jetty to temp dir prepated by sipxpbx and not systems tmp dir
+END

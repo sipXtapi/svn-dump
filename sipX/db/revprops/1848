@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-09-15T17:47:13.701062Z
+K 7
+svn:log
+V 245
+Add example xml files to doc distribution
+Remove ownership changes from 'make install' in favor of rpm
+Clean up use of wildcards in spec file
+
+  This still has problems with directory ownerships.
+  See http://track.sipfoundry.org/browse/XCS-21
+
+
+END

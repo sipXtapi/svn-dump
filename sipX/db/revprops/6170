@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-16T22:08:43.240283Z
+K 7
+svn:log
+V 39
+add checks for the HA service SRV names
+END

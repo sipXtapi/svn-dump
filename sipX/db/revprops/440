@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-03-11T19:15:42.004753Z
+K 7
+svn:log
+V 199
+- Call OsTaskBase::waitUntilShutDown() in destructor.
+- Bracket pTask->run() with mDeleteGuard to ensure that OsTask
+  object cannot be destroyed before pthread terminates.
+- Clean up error logging.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2004-12-17T23:02:21.027355Z
+K 7
+svn:log
+V 90
+- Added additional debug trace info.
+- Made the state conditions for wait() for explicit.
+
+END

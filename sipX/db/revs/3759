@@ -1,0 +1,313 @@
+PLAIN
+K 13
+svn:externals
+V 3
+
+
+
+
+K 10
+svn:ignore
+V 47
+.settings
+Makefile
+Makefile.in
+api
+bin.eclipse
+
+END
+ENDREP
+id: 2jh.0.r3759/113
+type: dir
+pred: 2jh.0.r3742/52874
+count: 98
+text: 3742 52653 208 208 cf1221089ef8f3ba7c61f856ffa2688e
+props: 3759 0 100 0 b3e133322d8b30c4b4e9cfb34092576c
+cpath: /old/sipXconfig/main/doc
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 75
+.settings
+Makefile
+Makefile.in
+bin.eclipse
+classes
+dist
+test-results
+tests
+
+END
+ENDREP
+id: 4l5.0.r3759/449
+type: dir
+pred: 4l5.0.r3751/13461
+count: 195
+text: 3751 13076 372 372 934198c13b95d7e30c01c68f7088e368
+props: 3759 335 101 0 239e03791e25e0db51af6367844e70e8
+cpath: /old/sipXconfig/main/web
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 75
+.settings
+Makefile
+Makefile.in
+bin.eclipse
+classes
+dist
+test-results
+tests
+
+END
+ENDREP
+id: 4eo.0.r3759/788
+type: dir
+pred: 4eo.0.r3758/5601
+count: 220
+text: 3758 5255 333 333 f36033c3d78e23bddeab587d82c8f930
+props: 3759 674 101 0 239e03791e25e0db51af6367844e70e8
+cpath: /old/sipXconfig/main/neoconf
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 23
+file 4do.ia.r3393/22413
+K 8
+.project
+V 23
+file 4dp.ib.r3393/15834
+K 12
+CONTRIBUTORS
+V 22
+file 2hg.0.r3393/21790
+K 9
+ChangeLog
+V 20
+file 2hh.0.r3490/576
+K 7
+INSTALL
+V 22
+file 2hi.0.r3742/53342
+K 7
+LICENSE
+V 23
+file 2hj.0.r3393/851332
+K 11
+Makefile.am
+V 23
+file 2hk.0.r3742/169027
+K 4
+NEWS
+V 23
+file 2hl.0.r3393/808567
+K 6
+README
+V 21
+file 2hm.0.r3573/5968
+K 4
+TODO
+V 21
+file 2hn.0.r3573/6199
+K 9
+acsite.m4
+V 22
+file 2ho.0.r3393/21475
+K 14
+ant-targets.am
+V 23
+file 2hp.0.r3742/119328
+K 15
+ant-targets.xml
+V 22
+file 2hq.0.r3603/26326
+K 3
+bin
+V 19
+dir 4bz.0.r3641/393
+K 9
+build.xml
+V 22
+file 4h8.0.r3393/22103
+K 6
+common
+V 22
+dir 2hs.0.r3742/168794
+K 20
+config.properties.in
+V 22
+file 2jf.0.r3742/53097
+K 12
+configure.ac
+V 19
+file 2jg.0.r3722/68
+K 3
+doc
+V 19
+dir 2jh.0.r3759/113
+K 3
+etc
+V 22
+dir 4b7.0.r3393/927179
+K 3
+lib
+V 22
+dir 2jy.0.r3554/861448
+K 4
+meta
+V 21
+dir 4ea.0.r3742/50553
+K 7
+neoconf
+V 19
+dir 4eo.0.r3759/788
+K 16
+profilegenerator
+V 20
+dir 2kj.0.r3749/6508
+K 23
+profilepub_sipagent.dsp
+V 22
+file 4b5.0.r3393/16177
+K 16
+profilepublisher
+V 22
+dir 485.0.r3679/157805
+K 13
+profilewriter
+V 22
+dir 4a9.0.r3679/154644
+K 12
+sipagent-jni
+V 21
+dir 48h.h9.r3500/2967
+K 26
+sipx-jboss-configure.patch
+V 23
+file 4bi.0.r3393/927483
+K 18
+sipxconfig.spec.in
+V 20
+file 4bh.0.r3650/477
+K 18
+subant-targets.xml
+V 21
+file 4h9.0.r3453/6142
+K 3
+web
+V 19
+dir 4l5.0.r3759/449
+END
+ENDREP
+id: 2hf.0.r3759/2415
+type: dir
+pred: 2hf.0.r3758/7236
+count: 536
+text: 3759 1015 1387 1387 66b449274f82640712cf0d63c7ab1763
+props: 3757 0 910 0 96c1173248189d31d4aae8518583b2ac
+cpath: /old/sipXconfig/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 4c1.0.r3756/1339
+K 4
+main
+V 20
+dir 2hf.0.r3759/2415
+K 4
+tags
+V 20
+dir 4b6.0.r3746/2284
+END
+ENDREP
+id: 2he.0.r3759/2761
+type: dir
+pred: 2he.0.r3758/7581
+count: 734
+text: 3759 2635 113 113 5d7181851ae2f788632f4009378e0aa7
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 20
+dir 2he.0.r3759/2761
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3759/3365
+type: dir
+pred: 1.0.r3758/8185
+count: 3757
+text: 3759 2921 431 431 188e244095400d63a79b88ccbf22ec70
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3759/3365
+END
+ENDREP
+id: 0.0.r3759/3560
+type: dir
+pred: 0.0.r3758/8380
+count: 3759
+text: 3759 3511 36 36 6abd2e615a4d2810a5ad618f6c516854
+cpath: /
+copyroot: 0 /
+
+2jh.0.t3758-1 modify false true /old/sipXconfig/main/doc
+
+4eo.0.t3758-1 modify false true /old/sipXconfig/main/neoconf
+
+4l5.0.t3758-1 modify false true /old/sipXconfig/main/web
+
+
+3560 3701

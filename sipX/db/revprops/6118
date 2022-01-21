@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-13T20:52:07.554730Z
+K 7
+svn:log
+V 97
+- common pom.xml elements moved to parent pom
+- some progress towards implementing install phase
+
+END

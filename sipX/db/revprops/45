@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+apex_li
+K 8
+svn:date
+V 27
+2004-06-07T14:44:05.660256Z
+K 7
+svn:log
+V 189
+Update UtlContainer CLASS
+UtlHashMap and UtlHashMapIterator Passed Raghu test cases.
+Change Code style for UtlInt/UtlVoidPtr/UtlString etc except UtlHashMap/Iterator & UtlHashBag/Iterator.
+
+END

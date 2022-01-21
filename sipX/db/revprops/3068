@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-09-17T20:28:10.738075Z
+K 7
+svn:log
+V 154
+make progress towards editing authrules and fallbackrules, change pingtel logos to sipXconfig logos, fix bug with ConfigSrvr.htm should be configsrvr.html
+END

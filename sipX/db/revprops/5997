@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-01-31T06:31:31.422112Z
+K 7
+svn:log
+V 115
+Start implementing RegistrarSync.  Add RegistrationDB methods in support of that.  Improve SyncRpc error handling.
+
+END

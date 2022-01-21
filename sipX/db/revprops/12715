@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2019-09-05T23:35:16.374892Z
+K 7
+svn:log
+V 57
+Fixed printf macro in SipConnection for MSVS 2019 build.
+
+END

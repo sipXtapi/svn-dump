@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-04-21T16:55:26.291368Z
+K 7
+svn:log
+V 81
+XCF-347 - Allow script to install cert and private key into Jboss having any name
+END

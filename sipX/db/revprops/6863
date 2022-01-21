@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-05-29T15:18:46.541419Z
+K 7
+svn:log
+V 52
+Typo fix: 01 should have been 1 in call to record.
+
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-12-06T00:15:50.443273Z
+K 7
+svn:log
+V 188
+Add --verbose to suppress -s from "make" invocations.
+Add --configure to allow ./configure options to be specified on the
+command line.
+Allow relative directories as destination argument.
+
+END

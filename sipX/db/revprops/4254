@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-06T16:32:13.467234Z
+K 7
+svn:log
+V 34
+Fix path names by removing /conf/.
+END

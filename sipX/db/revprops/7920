@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-11-01T22:42:50.194804Z
+K 7
+svn:log
+V 192
+Merge revs. 7879-7918 from branch user_dworley_redirectors_merge,
+which is the merge branch from user_dworley_redirectors.
+This is the reorganization of the redirectors into a set of plugins.
+
+END

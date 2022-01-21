@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-02-03T21:50:12.117121Z
+K 7
+svn:log
+V 549
+Start of changes to get core dumps produced when we want them.
+This is a revision of the signal handling code in sipXvxml.  Unknown
+signals are caught and logged, but then the signal handler sends a
+SEGV to itself to cause a core dump to be produced.
+(Core dumps are suppressed by default, via SIPX_CORELIMIT=0 in
+config.defs.  But that is enforced by the ulimit mechanism.)
+Unfortunately, this doesn't work for sipXvxml, because it runs setuid,
+and the kernel won't write core dumps for setuid processes.
+http://track.sipfoundry.org/browse/XPB-205
+
+END

@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-03T20:46:14.940067Z
+K 7
+svn:log
+V 413
+MpDspUtils updated:
+* Implemented background utils to perform saturation. From now all functions where target is integer saturate result.
+* Improved documentation.
+* Improved function naming - separated scale functions to Gain and Attenuate ones.
+* Implemented non-scaling versions of scaling functions.
+* Unitests, covering all (hopefully) MpDspUtils functions, written. Both for fixed-point and floating-point.
+
+END

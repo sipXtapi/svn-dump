@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-07T18:26:35.952298Z
+K 7
+svn:log
+V 250
+Remove bogus SPEEX_CFLAGS additions made in last checkin.
+SPEEX_CFLAGS are cflags that are needed when *using* speex, not compiling it,
+which is what was originally intended.  Removing these.  Proper intended
+changes will be in contrib/Makefile.am.
+
+
+END

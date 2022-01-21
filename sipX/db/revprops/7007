@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+cypromis
+K 8
+svn:date
+V 27
+2006-06-28T07:40:01.433035Z
+K 7
+svn:log
+V 67
+small fix that makes make check find cppunit in non
+default places
+
+END

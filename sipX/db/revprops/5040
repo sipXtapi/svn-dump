@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-14T20:16:16.996795Z
+K 7
+svn:log
+V 61
+Change the tapestry source classpath to point to 3.0.3 source
+END

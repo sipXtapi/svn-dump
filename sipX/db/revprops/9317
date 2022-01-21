@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-04-11T13:46:42.684976Z
+K 7
+svn:log
+V 121
+Cleaned up references to MpConnection from iLBC codec binding.
+  I missed this on the first pass with the other codecs.
+
+
+END

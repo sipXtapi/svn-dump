@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-16T18:05:35.698026Z
+K 7
+svn:log
+V 252
+Merged revisions 8007 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8007 | dpetrie | 2006-11-16 20:04:17 +0300 | 3 lines
+  
+  Changes so that cross compiler can find the sipX unit test lib and includes.
+........
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-16T23:47:10.104383Z
+K 7
+svn:log
+V 136
+XCF-1121 admin can now define the default value of the custom permission
+bug fix: only one custom permission was displayed on User page
+
+END

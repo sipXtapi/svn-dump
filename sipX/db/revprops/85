@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-06-22T13:47:39.356021Z
+K 7
+svn:log
+V 59
+fix INTERNAL_NULL to not require implicit cast to base type
+END

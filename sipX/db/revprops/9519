@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-11T09:44:44.922371Z
+K 7
+svn:log
+V 112
+MpInputOutputFrameworkTest: No need to delete MpMediaTask instance manually - it will be deleted in mpShutdown.
+
+END

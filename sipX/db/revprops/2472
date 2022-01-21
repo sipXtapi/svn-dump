@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-07T18:22:22.339049Z
+K 7
+svn:log
+V 250
+Give this branch a more mnemonic name.
+Since the branch is for reworking the redirection feature of
+sipXregistry, especially in order to support call pick-up and related
+features, I'm calling it "redirect".
+http://track.sipfoundry.org/browse/XPB-262
+
+END

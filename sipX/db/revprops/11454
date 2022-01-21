@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-09-22T18:05:20.277207Z
+K 7
+svn:log
+V 164
+sipXtapi: Remove check of ongoing file playback when dropping a call or conference.
+This is not required with sipXmediaLib and causes many problems with call drop.
+
+END

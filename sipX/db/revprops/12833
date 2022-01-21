@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2021-06-23T07:47:18.776118Z
+K 7
+svn:log
+V 34
+Emit new input audio device event
+
+END

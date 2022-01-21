@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-17T19:35:09.573369Z
+K 7
+svn:log
+V 249
+XCF-1187 updates to gateway DB to store caller alias info
+remove users.external_number field from DB - it's stored in used settings
+changed names of several database test file (*.xml - *.db.xml) to enable checking syntaxt against sipxconfig_db.dtd 
+
+END

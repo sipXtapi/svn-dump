@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-12-21T23:07:56.171973Z
+K 7
+svn:log
+V 150
+Do not copy this change to 2.7!
+Reduce the logging level of "Message queue increased to 1600 msgs" to INFO.
+http://track.sipfoundry.org/browse/XMR-18
+
+END

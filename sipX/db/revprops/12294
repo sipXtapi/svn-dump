@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2015-04-29T16:26:18.273607Z
+K 7
+svn:log
+V 121
+New MprRecorder feature to record to application's circular buffer with notifications.
+ Contribution from: Mihai Codrean
+
+END

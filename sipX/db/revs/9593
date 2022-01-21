@@ -1,0 +1,307 @@
+PLAIN
+K 16
+svnmerge-blocked
+V 37
+/main/sipXportLib:8363,8539,8597,8691
+K 19
+svnmerge-integrated
+V 69
+/main/sipXportLib:1-8362,8364-8538,8540-8596,8598-8690,8692-8860,8949
+END
+ENDREP
+id: bcf.7jy.r9593/182
+type: dir
+pred: bcf.0.r9573/1637
+count: 188
+text: 9573 277 1347 1347 3457798cc2d8d44232035760fd5564cb
+props: 9593 0 169 0 aabd506067ca93427d6e5d0fa677216b
+cpath: /branches/sipXtapi-UC/sipXportLib
+copyroot: 9592 /branches/sipXtapi-UC
+
+PLAIN
+END
+ENDREP
+id: e7v.7jy.r9593/455
+type: dir
+pred: e7v.0.r9456/16207
+count: 40
+text: 9456 15336 858 858 bc07c2734d83f43595e5a4af8bd9f552
+props: 9593 438 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /branches/sipXtapi-UC/sipXsdpLib
+copyroot: 9592 /branches/sipXtapi-UC
+
+PLAIN
+END
+ENDREP
+id: 9wt.7jy.r9593/727
+type: dir
+pred: 9wt.0.r9568/10108
+count: 128
+text: 9568 8518 1577 1577 77e123548593eda4c2fed38eff1c8124
+props: 9593 710 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /branches/sipXtapi-UC/sipXcallLib
+copyroot: 9592 /branches/sipXtapi-UC
+
+PLAIN
+K 16
+svnmerge-blocked
+V 28
+/main/sipXmediaLib:8363,8539
+K 19
+svnmerge-integrated
+V 30
+/main/sipXmediaLib:1-7992,8309
+END
+ENDREP
+id: b40.7jy.r9593/1119
+type: dir
+pred: b40.0.r9590/17920
+count: 351
+text: 9590 16705 1202 1202 5ca99f2a6dbfe27958326ca44748535b
+props: 9593 985 121 0 e51fb9b0857083af9ed3ed2e256fe8b8
+cpath: /branches/sipXtapi-UC/sipXmediaLib
+copyroot: 9592 /branches/sipXtapi-UC
+
+PLAIN
+K 16
+svnmerge-blocked
+V 30
+/main/sipXmediaAdapterLib:8363
+K 19
+svnmerge-integrated
+V 37
+/main/sipXmediaAdapterLib:1-7992,8177
+END
+ENDREP
+id: b2p.7jy.r9593/1525
+type: dir
+pred: b2p.0.r9591/3446
+count: 99
+text: 9591 2179 1254 1254 341d28dd590b66f5b7cd53160a7a6a44
+props: 9593 1382 130 0 7380d7d449a825d8303e73073477a313
+cpath: /branches/sipXtapi-UC/sipXmediaAdapterLib
+copyroot: 9592 /branches/sipXtapi-UC
+
+PLAIN
+K 16
+svnmerge-blocked
+V 37
+/main/sipXtackLib:8363,8539,8582,8758
+K 19
+svnmerge-integrated
+V 109
+/main/sipXtackLib:1-7992,8004,8063,8127,8232,8247,8274,8318,8326,8338-8340,8362,8431,8449,8526,8700,8806,8891
+END
+ENDREP
+id: boq.7jy.r9593/2016
+type: dir
+pred: boq.0.r9579/13311
+count: 133
+text: 9579 11353 1945 1945 3afe2d7ca1b5fa43a9c7a0dc41bc92c7
+props: 9593 1793 210 0 880bd3284da0b593163e1cc6ba0fe606
+cpath: /branches/sipXtapi-UC/sipXtackLib
+copyroot: 9592 /branches/sipXtapi-UC
+
+PLAIN
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 14
+build_evc4.bat
+V 21
+file e6c.0.r8504/2231
+K 14
+buildmsvs6.bat
+V 22
+file dm4.66u.r9234/175
+K 6
+config
+V 20
+dir 9wj.0.r8547/1557
+K 10
+readme.txt
+V 20
+file 9ws.0.r9463/434
+K 14
+sipX-msvc8.sln
+V 22
+file e73.0.r9456/22698
+K 11
+sipXcallLib
+V 21
+dir 9wt.7jy.r9593/727
+K 19
+sipXmediaAdapterLib
+V 22
+dir b2p.7jy.r9593/1525
+K 12
+sipXmediaLib
+V 22
+dir b40.7jy.r9593/1119
+K 11
+sipXportLib
+V 21
+dir bcf.7jy.r9593/182
+K 10
+sipXsdpLib
+V 21
+dir e7v.7jy.r9593/455
+K 11
+sipXtackLib
+V 22
+dir boq.7jy.r9593/2016
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7jy.r9593/2928
+type: dir
+pred: 9wi.7jy.r9592/0
+count: 719
+text: 9593 2279 636 636 aa24fc7c5f12780077f26107b1fbeb1c
+cpath: /branches/sipXtapi-UC
+copyroot: 9592 /branches/sipXtapi-UC
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r8066/42815
+K 3
+3.6
+V 22
+dir 7q4.50x.r8955/2083
+K 7
+bbridge
+V 22
+dir 7q4.68z.r8427/2781
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 8
+sipXtapi
+V 20
+dir 9wi.0.r9591/4330
+K 12
+sipXtapi-AOL
+V 22
+dir 9wi.7jw.r9588/3586
+K 11
+sipXtapi-UC
+V 22
+dir 9wi.7jy.r9593/2928
+K 21
+sipXtapi-media-update
+V 23
+dir 9wi.3ke.r8871/11907
+K 14
+sipXtapi.wince
+V 24
+dir 9wi.662.r8313/638537
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 21
+dir 7q4.4t1.r7562/240
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 14
+virtual-domain
+V 24
+dir 7q4.4t6.r8010/314955
+END
+ENDREP
+id: 7pt.0.r9593/4107
+type: dir
+pred: 7pt.0.r9592/1171
+count: 2042
+text: 9593 3118 976 976 a3c71e77eeb0f7e76cb7175706d93f8d
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r9593/4107
+K 4
+main
+V 20
+dir 7q4.0.r9374/1770
+K 4
+tags
+V 20
+dir 7q5.0.r9367/2658
+END
+ENDREP
+id: 0.0.r9593/4388
+type: dir
+pred: 0.0.r9592/1451
+count: 9593
+text: 9593 4262 113 113 100c4dfc2ef11c08128f346609fb3c89
+cpath: /
+copyroot: 0 /
+
+9wt.7jy.t9592-1 modify false true /branches/sipXtapi-UC/sipXcallLib
+
+b40.7jy.t9592-1 modify false true /branches/sipXtapi-UC/sipXmediaLib
+
+b2p.7jy.t9592-1 modify false true /branches/sipXtapi-UC/sipXmediaAdapterLib
+
+boq.7jy.t9592-1 modify false true /branches/sipXtapi-UC/sipXtackLib
+
+bcf.7jy.t9592-1 modify false true /branches/sipXtapi-UC/sipXportLib
+
+e7v.7jy.t9592-1 modify false true /branches/sipXtapi-UC/sipXsdpLib
+
+
+4388 4531

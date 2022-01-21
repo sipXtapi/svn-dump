@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2013-02-24T18:37:45.414361Z
+K 7
+svn:log
+V 119
+Split mMutex into two separate, and more descriptively named, mutexes to fix a deadlock that showed up in a stress test
+END

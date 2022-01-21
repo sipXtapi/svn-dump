@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-04-13T21:47:33.892153Z
+K 7
+svn:log
+V 63
+Fixed release builds -- missing some of the new glib settings.
+
+END

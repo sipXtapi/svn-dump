@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-09-17T20:52:49.476487Z
+K 7
+svn:log
+V 133
+change copyright and include xslt for fallback rules interface, note: xmleditor made this obsolete, but I include it for completeness
+END

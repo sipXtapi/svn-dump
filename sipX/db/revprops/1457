@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-12-30T21:27:42.494174Z
+K 7
+svn:log
+V 122
+Add CallScript (and ReceiveCall) to the EXTRA_DIST list, now that
+configure.ac refers to a Makefile.in in CallScript/src.
+
+END

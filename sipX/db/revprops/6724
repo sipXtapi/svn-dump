@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-05-04T01:06:16.846124Z
+K 7
+svn:log
+V 73
+Enable declarations for build of static library for sipXtapi
+on Windows.
+
+END

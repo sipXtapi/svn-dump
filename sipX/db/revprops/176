@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-08-03T21:28:43.823067Z
+K 7
+svn:log
+V 74
+Bug patch XVX-11: general.m4 uses --with-pcre for several different things
+END

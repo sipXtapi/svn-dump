@@ -1,0 +1,34 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-05-11T20:50:03.360705Z
+K 7
+svn:log
+V 747
+A bunch of portablity changes:
+  cleanup and consolidated 64 bit integer declarations for
+  better portablity
+
+  Fixed some string manipulation to make it more portable
+
+  Fixed the MSVC6 build projects (dsp files) for:
+    sipXcommserverLib
+    sipXproxy
+    sipXregistry
+
+  Still have one outstanding compiler problem on MSCV6 for
+  the sipXregistry.  Compiler says the method declaration
+  and implementation differ, but I cannot seem to see 
+  what is wrong:
+
+sipXregistry\src\SyncRpc.cpp(72) : error C2511: 'registerMethod' : 
+overloaded member function 'void (const char *,class XmlRpcMethod *(__cde
+cl *)(void),class SipRegistrar &)' not found in 'SyncRpcMethod'
+        sipxregistry\src\syncrpc.h(34) : see declaration of 'SyncRpcMethod'
+
+
+END

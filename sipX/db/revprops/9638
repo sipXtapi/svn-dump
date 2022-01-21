@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-01T08:49:17.427345Z
+K 7
+svn:log
+V 111
+Pass correct isEnabled value when calling doProcessFrame for MprEncode and MprDecode.
+Several typos fixed too.
+
+END

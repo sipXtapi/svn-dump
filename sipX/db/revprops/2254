@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-03-11T06:38:37.116212Z
+K 7
+svn:log
+V 110
+Added a bunch of missing files to the MSVC dsp's for call state event files
+needed to build the SIP proxies.
+
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-03-22T00:52:35.459451Z
+K 7
+svn:log
+V 191
+Finished conversion to function pointer style callbacks for Tapi.
+Circumvents the need to link sipXtackLib / sipXcallLib with the sipXtapi layer.
+Thank you to Andy Jorde for this suggestion.
+
+END

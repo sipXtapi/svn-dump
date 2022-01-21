@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-27T12:52:08.519287Z
+K 7
+svn:log
+V 395
+Work towards linux softphone support: Added the ability to enable local audio
+support (mic and speaker) in the media processing lib.  Support for the local
+audio was disabled by default for the server environments.   To enable local
+audio support, please include the "--enable-local-audio" when configuring 
+sipXmediaLib.  For example:
+
+ ./configure --prefix=/myinstalldir --enable-local-audio
+
+
+END

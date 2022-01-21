@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-13T23:10:16.712162Z
+K 7
+svn:log
+V 65
+XCF-753 migrate DownloadService and DownloadLink to Tapestry 4.0
+
+END

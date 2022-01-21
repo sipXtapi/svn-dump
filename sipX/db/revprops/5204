@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-27T15:37:53.435727Z
+K 7
+svn:log
+V 317
+XCF-613 fix font colors in CSS - errors are red, links are blue and violet, success messages are dark blue
+XCF-??? (JIRA problems) - added recordSuccess function to validator, one can one add success messages to be displayed on the screen
+If one uses ActionForms standard success message is provided automatically.  
+
+END

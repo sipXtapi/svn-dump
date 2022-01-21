@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-05-03T14:03:35.757149Z
+K 7
+svn:log
+V 283
+Add some missing configuration, clean up watchdog config
+
+Fix display of User Agent when an extension is reused
+Add server name to header
+Improve readability of the table
+Add implicit q values
+Add warning for missing instances
+
+Convert to perl and other improvements
+
+Left-align AOR
+
+END

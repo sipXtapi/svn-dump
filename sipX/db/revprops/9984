@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-08-21T18:10:21.899741Z
+K 7
+svn:log
+V 214
+Add MPRNM_FROMFILE_FINISHED message to differentiate play finish from play stop (stop before finished).
+Add new testPlayPauseResumeStop test that solely tests notification messages from playing files (MprFromFile).
+END

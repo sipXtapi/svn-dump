@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-07-06T18:41:29.039426Z
+K 7
+svn:log
+V 647
+XCF-1115 Experimental support for polycom 430 phone.  Also includes even more updates of profiles for all polycom phones according to latest 1.6.5.  Unclear this was strictly nec. for polycom 430, but fixed along the way.  output xml profiles are now formatted, reducing their size.  Unclear why 430 would reject unformatted configs, but it did.  Verified 430 can make/receive calls and mwi works.   WARNING : Apparently 430 does not give option to use TFTP.  Inorder to make this work, I had to install an FTP server, docs on wiki.  Unclear is TFTP would still work under the covers set via DHCP options, but it's not an option from phone top ui.
+END

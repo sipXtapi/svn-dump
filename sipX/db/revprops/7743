@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-10-12T04:07:10.294505Z
+K 7
+svn:log
+V 270
+Merged revisions 7737-7742 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/3.6/sipXconfig
+
+XCF-1275 always keep stderr from database command going to console, dump stdout if there was an error (helpful) and always supress output about missing tools.jar
+
+
+END

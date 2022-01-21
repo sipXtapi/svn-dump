@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-02-22T20:37:50.497012Z
+K 7
+svn:log
+V 82
+implementation for enableDevice and disableDevice for windows input audio driver.
+
+END

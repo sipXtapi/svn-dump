@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-05-17T21:11:19.033580Z
+K 7
+svn:log
+V 238
+Don't try to eliminate angle brackets on sip or sips urls unless there
+  are no parameters of any flavor.
+
+Enhance the unit test to check for
+  - the difference between toString and getUri
+  - semicolons in header/query parameter values
+
+
+END

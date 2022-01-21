@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-10-21T17:28:14.298590Z
+K 7
+svn:log
+V 127
+XCF-723 Presence server aliases now take presence server location from sipxpresence-config (SIP_PRESENCE_DOMAIN_NAME variable)
+
+END

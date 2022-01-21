@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-12-09T23:41:18.179494Z
+K 7
+svn:log
+V 570
+XCF-817 Change the way the groups are deleted: replace deleteGroup function that was taking group instance with deleteGroups function that is taking colection of group ids - this allows us to load and delete groups in the same hibernate session.
+Small optimization in the way objects are removed from index: only beans that are index-able are now passed to removeBean function.
+XCF-801 Synchronization added to FastIndexer - to make IndexReader operation atomic (open, remove bean, close) - that should fix rae condition resulting in "IndexReader out of date exception"
+
+END

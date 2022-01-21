@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-10-18T07:05:17.627585Z
+K 7
+svn:log
+V 208
+Fix to make NetInTask deal with socket descriptors that get set to -1
+This is a simptom of a larger problem which we have yet to identify.
+However we found FD_SET to be unsafe to use if file descriptor is -1
+
+END

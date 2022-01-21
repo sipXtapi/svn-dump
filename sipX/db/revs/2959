@@ -1,0 +1,160 @@
+PLAIN
+K 13
+svn:externals
+V 70
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.8/config
+
+K 10
+svn:ignore
+V 169
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxvxml-*.tar.gz
+sipxvxml.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 52
+https://scm.sipfoundry.org/rep/sipXvxml/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 25
+1-141,144-145,153,160,188
+K 18
+svnmerge-main-head
+V 44
+https://scm.sipfoundry.org/rep/sipXvxml/main
+K 18
+svnmerge-main-revs
+V 5
+1-225
+END
+ENDREP
+id: 22d.gm.r2959/547
+type: dir
+pred: 22d.0.r2958/3063
+count: 163
+text: 2958 2335 715 715 ec45f76a064d3f6c71664e0112983c52
+props: 2959 0 534 0 4fd6dcfc25b8fd464541f0a56b8a4116
+cpath: /old/sipXvxml/branches/2.8
+copyfrom: 2958 /old/sipXvxml/main
+
+PLAIN
+K 3
+2.6
+V 21
+dir 22d.fx.r2935/6211
+K 3
+2.8
+V 20
+dir 22d.gm.r2959/547
+END
+ENDREP
+id: 2h1.0.r2959/877
+type: dir
+pred: 2h1.0.r2935/6520
+count: 29
+text: 2959 791 73 73 8c496484eb2a48046f5ff492641bdad6
+cpath: /old/sipXvxml/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 2h1.0.r2959/877
+K 4
+main
+V 20
+dir 22d.0.r2958/3063
+K 4
+tags
+V 20
+dir 2gd.0.r2922/4625
+END
+ENDREP
+id: 22c.0.r2959/1164
+type: dir
+pred: 22c.0.r2958/3408
+count: 226
+text: 2959 1039 112 112 e1ce32a9cea04d2067a246ee395777c3
+cpath: /old/sipXvxml
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r2959/1164
+END
+ENDREP
+id: 1.0.r2959/1724
+type: dir
+pred: 1.0.r2958/3968
+count: 2958
+text: 2959 1322 389 389 24e9942d718b28bd18b12c799562af82
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2959/1724
+END
+ENDREP
+id: 0.0.r2959/1919
+type: dir
+pred: 0.0.r2958/4163
+count: 2959
+text: 2959 1870 36 36 109ba1343876099149c6d76980c62ab1
+cpath: /
+copyroot: 0 /
+
+22d._0.t2958-1 add false true /old/sipXvxml/branches/2.8
+2958 /old/sipXvxml/main
+
+1919 2060

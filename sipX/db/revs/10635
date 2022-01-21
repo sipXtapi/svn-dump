@@ -1,0 +1,645 @@
+PLAIN
+K 13
+svn:externals
+V 105
+tapi https://scm.sipfoundry.org/rep/sipX/branches/bandreasen-sipXtapi-AOL-merge/sipXcallLib/include/tapi
+
+END
+ENDREP
+id: bde.7mo.r10635/148
+type: dir
+pred: bde.0.r10582/4607
+count: 138
+text: 10582 4383 211 211 b3372de4764fbc73f929c612a0e3c889
+props: 10635 0 135 0 03f7ad463bd701e99152a93ad9a7a0ee
+cpath: /branches/bandreasen-sipXtapi-AOL-merge/sipXportLib/include
+copyroot: 10633 /branches/bandreasen-sipXtapi-AOL-merge
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 25
+file bcg.0.r6469/21591964
+K 9
+ChangeLog
+V 25
+file bch.0.r6469/21535752
+K 7
+INSTALL
+V 22
+file bci.0.r10440/5721
+K 11
+Makefile.am
+V 22
+file bcj.0.r9285/35165
+K 4
+NEWS
+V 25
+file bck.0.r6469/21599943
+K 6
+README
+V 24
+file bcl.0.r6955/1419372
+K 4
+TODO
+V 25
+file bcm.0.r6469/21597743
+K 9
+acsite.m4
+V 24
+file bcn.0.r6955/1417808
+K 3
+bin
+V 21
+dir bco.0.r9285/34903
+K 12
+configure.ac
+V 24
+file bd3.0.r6711/4505206
+K 3
+doc
+V 20
+dir bd4.0.r9970/1198
+K 7
+include
+V 22
+dir bde.7mo.r10635/148
+K 4
+meta
+V 24
+dir bhw.0.r6469/21535422
+K 24
+sipXportLib-msvc8.vcproj
+V 22
+file e78.0.r10399/1977
+K 15
+sipXportLib.dsp
+V 23
+file 4c.672.r10399/2377
+K 15
+sipXportLib.vcp
+V 22
+file e6k.0.r8667/79650
+K 18
+sipXportLib.vcproj
+V 22
+file bi1.0.r10399/2180
+K 28
+sipXportLibTest-msvc8.vcproj
+V 20
+file e79.0.r9977/380
+K 19
+sipXportLibTest.dsp
+V 21
+file ap.673.r9977/777
+K 19
+sipXportLibTest.sln
+V 25
+file bi2.0.r6469/21599763
+K 19
+sipXportLibTest.vcp
+V 22
+file e6l.0.r9027/28874
+K 22
+sipXportLibTest.vcproj
+V 20
+file bi3.0.r9977/582
+K 29
+sipXportLib_NoSecurity.vcproj
+V 21
+file bi4.0.r10604/601
+K 30
+sipXunitTestSuite-msvc8.vcproj
+V 22
+file exf.0.r9456/13327
+K 24
+sipXunitTestSuite.vcproj
+V 21
+file eb6.0.r8855/8132
+K 19
+sipxportlib.spec.in
+V 24
+file bi5.0.r6955/1422006
+K 3
+src
+V 21
+dir bi6.0.r10562/2820
+K 12
+syslogviewer
+V 21
+dir bom.0.r9285/33145
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 90
+config https://scm.sipfoundry.org/rep/sipX/branches/bandreasen-sipXtapi-AOL-merge/config
+
+
+K 16
+svnmerge-blocked
+V 37
+/main/sipXportLib:8363,8539,8597,8691
+K 19
+svnmerge-integrated
+V 69
+/main/sipXportLib:1-8362,8364-8538,8540-8596,8598-8690,8692-8860,8949
+END
+ENDREP
+id: bcf.7mo.r10635/2108
+type: dir
+pred: bcf.0.r10629/1358
+count: 299
+text: 10635 452 1346 1346 36e0ff615faf94c0a75e0a54e1407c72
+props: 10635 1811 284 0 05ed40344174c629aa80fe6221b97047
+cpath: /branches/bandreasen-sipXtapi-AOL-merge/sipXportLib
+copyroot: 10633 /branches/bandreasen-sipXtapi-AOL-merge
+
+PLAIN
+K 13
+svn:externals
+V 89
+config https://scm.sipfoundry.org/rep/sipX/branches/bandreasen-sipXtapi-AOL-merge/config
+
+END
+ENDREP
+id: e7v.7mo.r10635/2540
+type: dir
+pred: e7v.0.r10631/4452
+count: 82
+text: 10631 3572 867 867 c0d9154fb5bab63c41fc6c27a4feeabb
+props: 10635 2409 118 0 f8c520b555fd9c30ce8932dd417f2526
+cpath: /branches/bandreasen-sipXtapi-AOL-merge/sipXsdpLib
+copyroot: 10633 /branches/bandreasen-sipXtapi-AOL-merge
+
+PLAIN
+K 13
+svn:externals
+V 89
+config https://scm.sipfoundry.org/rep/sipX/branches/bandreasen-sipXtapi-AOL-merge/config
+
+K 16
+svnmerge-blocked
+V 28
+/main/sipXmediaLib:8363,8539
+K 19
+svnmerge-integrated
+V 30
+/main/sipXmediaLib:1-7992,8309
+END
+ENDREP
+id: b40.7mo.r10635/3086
+type: dir
+pred: b40.0.r10632/9358
+count: 1016
+text: 10632 8070 1275 1275 528558abc36d7acc6027fc6f746a9a59
+props: 10635 2838 235 0 0de0e4048d2fc900575641da94974eae
+cpath: /branches/bandreasen-sipXtapi-AOL-merge/sipXmediaLib
+copyroot: 10633 /branches/bandreasen-sipXtapi-AOL-merge
+
+PLAIN
+K 13
+svn:externals
+V 89
+config https://scm.sipfoundry.org/rep/sipX/branches/bandreasen-sipXtapi-AOL-merge/config
+
+K 16
+svnmerge-blocked
+V 30
+/main/sipXmediaAdapterLib:8363
+K 19
+svnmerge-integrated
+V 37
+/main/sipXmediaAdapterLib:1-7992,8177
+END
+ENDREP
+id: b2p.7mo.r10635/3647
+type: dir
+pred: b2p.0.r10619/9274
+count: 247
+text: 10619 7959 1302 1302 4f9760549af51375502280f9bf476498
+props: 10635 3390 244 0 feaf3cb834f4ea7c59db692bfd22eb6a
+cpath: /branches/bandreasen-sipXtapi-AOL-merge/sipXmediaAdapterLib
+copyroot: 10633 /branches/bandreasen-sipXtapi-AOL-merge
+
+PLAIN
+K 13
+svn:externals
+V 106
+tapi https://scm.sipfoundry.org/rep/sipX/branches/bandreasen-sipXtapi-AOL-merge/sipXcallLib/include/tapi
+
+
+END
+ENDREP
+id: bq1.7mo.r10635/4106
+type: dir
+pred: bq1.0.r10056/143377
+count: 55
+text: 10056 143236 128 128 515431be2ac0c58d269f6f063a31d730
+props: 10635 3957 136 0 41bb4c74daf643f2ed0d4b906f3ea55c
+cpath: /branches/bandreasen-sipXtapi-AOL-merge/sipXtackLib/include
+copyroot: 10633 /branches/bandreasen-sipXtapi-AOL-merge
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 25
+file bor.0.r6469/22114347
+K 9
+ChangeLog
+V 25
+file bos.0.r6469/22149247
+K 7
+INSTALL
+V 24
+file bot.0.r6955/1737850
+K 11
+Makefile.am
+V 22
+file bou.0.r9285/80469
+K 4
+NEWS
+V 25
+file bov.0.r6469/22121423
+K 6
+README
+V 24
+file bow.0.r6955/1738184
+K 4
+TODO
+V 25
+file box.0.r6469/22151942
+K 9
+acsite.m4
+V 24
+file boy.0.r6955/1731963
+K 14
+ant-targets.am
+V 24
+file boz.0.r6711/5226484
+K 15
+ant-targets.xml
+V 25
+file bp0.0.r6469/22149418
+K 3
+bin
+V 21
+dir bp1.0.r9285/78161
+K 8
+cert8.db
+V 25
+file bp3.0.r6469/22154413
+K 20
+config.properties.in
+V 24
+file bpd.0.r6955/1734502
+K 12
+configure.ac
+V 22
+file bpe.0.r10042/8497
+K 11
+dialogwatch
+V 21
+dir dsz.0.r9285/71995
+K 3
+doc
+V 21
+dir bpf.0.r9285/77584
+K 8
+examples
+V 20
+dir bpw.0.r10110/741
+K 7
+include
+V 23
+dir bq1.7mo.r10635/4106
+K 7
+key3.db
+V 25
+file bt7.0.r6469/22151521
+K 3
+lib
+V 24
+dir bt8.0.r6469/22119550
+K 22
+mcohen@pingtel.com.p12
+V 25
+file btb.0.r6469/22121180
+K 4
+meta
+V 21
+dir btc.0.r9285/71316
+K 9
+secmod.db
+V 25
+file btj.0.r6469/22151225
+K 24
+sipXtackLib-msvc8.vcproj
+V 24
+file e7a.0.r10056/144353
+K 15
+sipXtackLib.dsp
+V 25
+file gj.674.r10056/143627
+K 15
+sipXtackLib.vcp
+V 24
+file e6m.0.r10056/144149
+K 18
+sipXtackLib.vcproj
+V 24
+file btk.0.r10056/131045
+K 28
+sipXtackLibTest-msvc8.vcproj
+V 22
+file e7b.0.r9919/14486
+K 19
+sipXtackLibTest.dsp
+V 23
+file mh.675.r9919/14234
+K 19
+sipXtackLibTest.sln
+V 23
+file btl.0.r7990/285820
+K 19
+sipXtackLibTest.vcp
+V 22
+file e6n.0.r9041/21232
+K 22
+sipXtackLibTest.vcproj
+V 22
+file btm.0.r9919/14033
+K 29
+sipXtackLib_NoSecurity.vcproj
+V 24
+file btn.0.r10056/143934
+K 15
+siplog2siptrace
+V 21
+dir bto.0.r10063/5427
+K 7
+siptest
+V 21
+dir btr.0.r10063/4881
+K 9
+sipviewer
+V 21
+dir buv.0.r9285/81324
+K 19
+sipxtacklib.spec.in
+V 24
+file bvi.0.r6955/1738517
+K 3
+src
+V 22
+dir bvj.0.r10479/75984
+K 15
+syslog2siptrace
+V 21
+dir byz.0.r10063/6033
+K 16
+tcpdump2siptrace
+V 25
+file bz3.0.r6469/22149596
+K 32
+user_cert_mcohen@pingtel.com.der
+V 25
+file bz4.0.r6469/22150908
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 89
+config https://scm.sipfoundry.org/rep/sipX/branches/bandreasen-sipXtapi-AOL-merge/config
+
+K 16
+svnmerge-blocked
+V 37
+/main/sipXtackLib:8363,8539,8582,8758
+K 19
+svnmerge-integrated
+V 109
+/main/sipXtackLib:1-7992,8004,8063,8127,8232,8247,8274,8318,8326,8338-8340,8362,8431,8449,8526,8700,8806,8891
+END
+ENDREP
+id: boq.7mo.r10635/6730
+type: dir
+pred: boq.0.r10479/78144
+count: 181
+text: 10635 4417 1963 1963 f6630f2d17f7c199d76fec5206c832df
+props: 10635 6393 324 0 28cf7075de6f918b419a0d26c3dfc874
+cpath: /branches/bandreasen-sipXtapi-AOL-merge/sipXtackLib
+copyroot: 10633 /branches/bandreasen-sipXtapi-AOL-merge
+
+PLAIN
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 14
+build_evc4.bat
+V 21
+file e6c.0.r8504/2231
+K 14
+buildmsvs6.bat
+V 22
+file dm4.66u.r9234/175
+K 6
+config
+V 20
+dir 9wj.0.r10561/767
+K 10
+readme.txt
+V 20
+file 9ws.0.r9463/434
+K 14
+sipX-msvc8.sln
+V 23
+file e73.0.r10313/12859
+K 11
+sipXcallLib
+V 21
+dir 9wt.0.r10595/3687
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7mo.r10635/3647
+K 12
+sipXmediaLib
+V 23
+dir b40.7mo.r10635/3086
+K 11
+sipXportLib
+V 23
+dir bcf.7mo.r10635/2108
+K 10
+sipXsdpLib
+V 23
+dir e7v.7mo.r10635/2540
+K 11
+sipXtackLib
+V 23
+dir boq.7mo.r10635/6730
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7mo.r10635/7690
+type: dir
+pred: 9wi.7mo.r10634/74
+count: 1716
+text: 10635 7033 644 644 ef175544678818bf69c261fbc1305399
+props: 10634 0 61 0 205f8042d9e3a641f642980eff62f5f5
+cpath: /branches/bandreasen-sipXtapi-AOL-merge
+copyroot: 10633 /branches/bandreasen-sipXtapi-AOL-merge
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r8066/42815
+K 3
+3.6
+V 23
+dir 7q4.50x.r9677/12870
+K 29
+bandreasen-sipXtapi-AOL-merge
+V 23
+dir 9wi.7mo.r10635/7690
+K 7
+bbridge
+V 22
+dir 7q4.68z.r9829/4609
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 8
+sipXtapi
+V 22
+dir 9wi.0.r10632/10245
+K 12
+sipXtapi-AOL
+V 23
+dir 9wi.7jw.r10605/3171
+K 11
+sipXtapi-UC
+V 22
+dir 9wi.7jy.r9594/5049
+K 21
+sipXtapi-media-update
+V 23
+dir 9wi.3ke.r10308/4876
+K 14
+sipXtapi.wince
+V 24
+dir 9wi.662.r8313/638537
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 23
+dir 7q4.4t1.r10445/8915
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 14
+virtual-domain
+V 24
+dir 7q4.4t6.r8010/314955
+END
+ENDREP
+id: 7pt.0.r10635/9034
+type: dir
+pred: 7pt.0.r10634/1413
+count: 3080
+text: 10635 7975 1046 1046 e064bec78c275e58a7bbbd50a08f2a9e
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r10635/9034
+K 4
+main
+V 20
+dir 7q4.0.r9837/8232
+K 4
+tags
+V 20
+dir 7q5.0.r9367/2658
+END
+ENDREP
+id: 0.0.r10635/9321
+type: dir
+pred: 0.0.r10634/1699
+count: 10635
+text: 10635 9194 114 114 f37386e14f80cf16005a2cbe8595a292
+cpath: /
+copyroot: 0 /
+
+b40.7mo.t10634-1 modify false true /branches/bandreasen-sipXtapi-AOL-merge/sipXmediaLib
+
+b2p.7mo.t10634-1 modify false true /branches/bandreasen-sipXtapi-AOL-merge/sipXmediaAdapterLib
+
+boq.7mo.t10634-1 modify false true /branches/bandreasen-sipXtapi-AOL-merge/sipXtackLib
+
+bcf.7mo.t10634-1 modify false true /branches/bandreasen-sipXtapi-AOL-merge/sipXportLib
+
+bq1.7mo.t10634-1 modify false true /branches/bandreasen-sipXtapi-AOL-merge/sipXtackLib/include
+
+e7v.7mo.t10634-1 modify false true /branches/bandreasen-sipXtapi-AOL-merge/sipXsdpLib
+
+bde.7mo.t10634-1 modify false true /branches/bandreasen-sipXtapi-AOL-merge/sipXportLib/include
+
+
+9321 9468

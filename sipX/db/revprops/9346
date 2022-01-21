@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-12T21:00:04.601152Z
+K 7
+svn:log
+V 174
+MpOutputDeviceDriver: remove 'enableDirectWriteMode' argument from enableDevice() method.
+Recent model doe snot require explicit notification of driver of direct write mode.
+
+END

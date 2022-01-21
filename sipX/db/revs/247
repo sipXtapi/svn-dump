@@ -1,0 +1,158 @@
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: as.0.r247/51
+type: dir
+pred: as.0.r245/516
+count: 2
+text: 245 416 87 87 93474956458837816b6bc0bf244d08e0
+props: 247 0 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXportLib/main/bin
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 19
+file 4.0.r22/520744
+K 9
+ChangeLog
+V 17
+file 5.0.r170/607
+K 7
+INSTALL
+V 17
+file 6.0.r218/548
+K 7
+LICENSE
+V 19
+file 7.0.r22/418615
+K 11
+Makefile.am
+V 17
+file 8.0.r243/366
+K 4
+NEWS
+V 19
+file 9.0.r22/520483
+K 6
+README
+V 16
+file a.0.r99/462
+K 4
+TODO
+V 18
+file b.0.r25/34332
+K 9
+acsite.m4
+V 19
+file c.0.r22/469495
+K 3
+bin
+V 16
+dir as.0.r247/51
+K 6
+config
+V 17
+dir 91.0.r246/924
+K 12
+configure.ac
+V 17
+file d.0.r243/143
+K 3
+doc
+V 18
+dir ac.0.r187/2079
+K 7
+include
+V 17
+dir e.0.r208/1769
+K 15
+sipXportLib.dsp
+V 19
+file 4c.0.r237/2071
+K 19
+sipxportlib.spec.in
+V 18
+file aq.0.r245/675
+K 3
+src
+V 18
+dir 4d.0.r217/4571
+K 12
+syslogviewer
+V 20
+dir 8y.0.r192/166453
+END
+ENDREP
+id: 3.0.r247/950
+type: dir
+pred: 3.0.r246/1832
+count: 231
+text: 247 259 678 678 216543d155f556019b048b939f1fe06c
+props: 207 5271 201 0 54aa01c31d2b62cada16756a7967ac75
+cpath: /old/sipXportLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir ar.0.r240/1677
+K 4
+main
+V 16
+dir 3.0.r247/950
+K 4
+tags
+V 18
+dir an.0.r169/1799
+END
+ENDREP
+id: 2.0.r247/1280
+type: dir
+pred: 2.0.r246/2165
+count: 245
+text: 247 1162 105 105 be2849f67a8bcfe3f507c112db85de68
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r247/1280
+END
+ENDREP
+id: 1.0.r247/1491
+type: dir
+pred: 1.0.r246/2376
+count: 246
+text: 247 1434 44 44 0e76074b79f8048699888d9285bf6238
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r247/1491
+END
+ENDREP
+id: 0.0.r247/1679
+type: dir
+pred: 0.0.r246/2564
+count: 247
+text: 247 1631 35 35 7cfaa84f79b6cd54bcff3cee302bb92e
+cpath: /
+copyroot: 0 /
+
+as.0.t246-1 modify false true /old/sipXportLib/main/bin
+
+
+1679 1816

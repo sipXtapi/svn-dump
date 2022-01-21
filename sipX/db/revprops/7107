@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-07-21T18:26:30.029293Z
+K 7
+svn:log
+V 82
+XCF-1116 Add concept of phone and gateway version so polycom 2.0 can be checked in
+END

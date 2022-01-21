@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-03-25T17:25:44.645084Z
+K 7
+svn:log
+V 65
+Temporarily increase the input device buffer length for Android.
+
+END

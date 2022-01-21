@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-01-18T19:06:37.455035Z
+K 7
+svn:log
+V 113
+Update Makefile.config so it knows how to substitute the SIP domain for [domain]
+in the sample config XML files.
+
+END

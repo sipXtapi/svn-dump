@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-11-03T20:55:24.967375Z
+K 7
+svn:log
+V 71
+CentOS 5 needs AM_PROG_CC_C_O with subdir-objects option in autoreconf
+
+END

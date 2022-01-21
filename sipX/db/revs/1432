@@ -1,0 +1,190 @@
+PLAIN
+K 13
+svn:externals
+V 75
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-L/config
+
+K 10
+svn:ignore
+V 185
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxcalllib-*.tar.gz
+sipxcalllib.spec
+stamp-h1
+Debug
+Release
+
+K 18
+svnmerge-main-head
+V 47
+https://scm.sipfoundry.org/rep/sipXcallLib/main
+K 18
+svnmerge-main-revs
+V 7
+1-60,72
+END
+ENDREP
+id: va.6r.r1432/438
+type: dir
+pred: va.6c.r1408/1200
+count: 59
+text: 1408 506 681 681 63103df02849a1ded161550883bf8c22
+props: 1432 0 425 0 b67da8b064159fd878dd2e363f51a1b2
+cpath: /old/sipXcallLib/tags/2.6-export-L
+copyfrom: 1431 /old/sipXcallLib/branches/2.6
+
+PLAIN
+K 5
+2.5.1
+V 20
+dir va.63.r1331/2380
+K 5
+2.5.2
+V 20
+dir va.66.r1347/1013
+K 12
+2.6-export-A
+V 19
+dir va.6d.r1388/551
+K 12
+2.6-export-B
+V 19
+dir va.6e.r1390/551
+K 12
+2.6-export-C
+V 19
+dir va.6f.r1401/554
+K 12
+2.6-export-D
+V 19
+dir va.6g.r1402/554
+K 12
+2.6-export-E
+V 19
+dir va.6h.r1403/554
+K 12
+2.6-export-F
+V 19
+dir va.6i.r1407/554
+K 12
+2.6-export-G
+V 19
+dir va.6k.r1412/438
+K 12
+2.6-export-H
+V 19
+dir va.6l.r1413/438
+K 12
+2.6-export-J
+V 19
+dir va.6m.r1414/438
+K 12
+2.6-export-K
+V 19
+dir va.6p.r1428/438
+K 12
+2.6-export-L
+V 19
+dir va.6r.r1432/438
+K 5
+2.6.1
+V 19
+dir va.6j.r1409/547
+K 13
+main-export-B
+V 19
+dir va.6a.r1385/436
+K 13
+main-export-C
+V 19
+dir va.6b.r1386/436
+END
+ENDREP
+id: 156.0.r1432/1383
+type: dir
+pred: 156.0.r1428/1340
+count: 18
+text: 1432 698 672 672 7341163fb8a884bf9d539e02211b799b
+cpath: /old/sipXcallLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 15e.0.r1408/1510
+K 4
+main
+V 20
+dir va.0.r1431/14033
+K 4
+tags
+V 20
+dir 156.0.r1432/1383
+END
+ENDREP
+id: v9.0.r1432/1673
+type: dir
+pred: v9.0.r1431/14380
+count: 111
+text: 1432 1547 113 113 f46ba4ed3c2e139519c14a07a7aaf5a5
+cpath: /old/sipXcallLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1432/1673
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1432/2018
+type: dir
+pred: 1.0.r1431/14727
+count: 1431
+text: 1432 1833 172 172 773b8e964057b4bafaa31f9a6a3f5d57
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1432/2018
+END
+ENDREP
+id: 0.0.r1432/2214
+type: dir
+pred: 0.0.r1431/14925
+count: 1432
+text: 1432 2165 36 36 a1d2dab8716c8d2358aeac9875a3c21c
+cpath: /
+copyroot: 0 /
+
+va._0.t1431-1 add false true /old/sipXcallLib/tags/2.6-export-L
+1431 /old/sipXcallLib/branches/2.6
+
+2214 2356

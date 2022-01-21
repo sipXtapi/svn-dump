@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-09-11T14:51:21.512150Z
+K 7
+svn:log
+V 122
+1) Speex lib path changed.
+2) Missed include added to MprEchoSuppress.cpp.
+3) Boring debug output in MpeSipxSpeex killed.
+
+END

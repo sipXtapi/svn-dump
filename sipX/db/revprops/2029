@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-03-30T03:44:15.318360Z
+K 7
+svn:log
+V 295
+Specify and stub new interface for access to the user pin
+  To be used for voice mail and web ui authentication.
+  http://track.sipfoundry.org/browse/XPB-251
+
+Did a very rough cut at adding some documentation to the interface;
+will complete this when I implement the underlying database change.
+
+END

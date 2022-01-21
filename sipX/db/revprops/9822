@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-10T23:50:09.698113Z
+K 7
+svn:log
+V 589
+Some fixes to the windows output device driver... 
+Latency reduced to 30ms within driver, but any lower, and clicking occurs.
+Fixed bug when MpOutputDeviceManager is in direct write mode, causing total starvation - ticker fell out of loop and stopped ticking (driven directly by incoming packets).  Solved with injection of silence when at critical low buffer level.
+Added more description in comments, updated some variable names to make them more clear.
+
+Occasionally, callback is called twice successively, without any delay at all, which seems to be a telltale sign something is amiss.
+END

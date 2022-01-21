@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-07-14T22:11:08.271316Z
+K 7
+svn:log
+V 54
+sipviewer throwing exception when branchIdSet is empty
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-03T21:51:05.226196Z
+K 7
+svn:log
+V 175
+Fix choppy sound on Windows.
+Actually this is more of a hack at this point, because it increase latency a bit. Proper fix would be to write a DirectSound input/output driver.
+
+END

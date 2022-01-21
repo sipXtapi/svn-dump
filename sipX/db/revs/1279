@@ -1,0 +1,152 @@
+PLAIN
+K 13
+svn:externals
+V 76
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/user_ping/config
+
+K 10
+svn:ignore
+V 217
+BUILDSTAMP
+Debug
+Makefile
+Makefile.in
+Release
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxmedialib-*.rpm
+sipxmedialib-*.tar.gz
+sipxmedialib.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 56
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 12
+1-75,104,124
+K 17
+svnmerge-2.8-head
+V 56
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 17
+1-183,185,197,201
+K 18
+svnmerge-main-head
+V 48
+https://scm.sipfoundry.org/rep/sipXmediaLib/main
+K 18
+svnmerge-main-revs
+V 5
+1-211
+END
+ENDREP
+id: mz.5j.r1279/727
+type: dir
+pred: mz.0.r1278/2707
+count: 149
+text: 1278 1935 759 759 70b3b0ca81c869400a679a5d549f9d1e
+props: 1279 0 714 0 21f9e07ae6c47a44a0c96926a84ab663
+cpath: /old/sipXmediaLib/branches/user_ping
+copyfrom: 1278 /old/sipXmediaLib/main
+
+PLAIN
+K 3
+2.6
+V 20
+dir mz.4n.r1191/1373
+K 3
+2.8
+V 20
+dir mz.5c.r1274/6272
+K 9
+user_ping
+V 19
+dir mz.5j.r1279/727
+END
+ENDREP
+id: ux.0.r1279/1107
+type: dir
+pred: ux.0.r1274/6621
+count: 23
+text: 1279 983 111 111 61938f2f0dfab5ac1af11d7d83577bbb
+cpath: /old/sipXmediaLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir ux.0.r1279/1107
+K 4
+main
+V 19
+dir mz.0.r1278/2707
+K 4
+tags
+V 19
+dir uq.0.r1277/2152
+END
+ENDREP
+id: my.0.r1279/1397
+type: dir
+pred: my.0.r1278/3048
+count: 212
+text: 1279 1274 110 110 6aa36ecbb3e67e544c1cbd2f73e39169
+cpath: /old/sipXmediaLib
+copyroot: 0 /
+
+PLAIN
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1279/1397
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1279/1700
+type: dir
+pred: 1.0.r1278/3351
+count: 1278
+text: 1279 1557 130 130 5983cacc563dc26385afa0f5e491ce23
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1279/1700
+END
+ENDREP
+id: 0.0.r1279/1895
+type: dir
+pred: 0.0.r1278/3546
+count: 1279
+text: 1279 1846 36 36 6487fd966077d273b8212838a09a57f0
+cpath: /
+copyroot: 0 /
+
+mz._0.t1278-1 add false true /old/sipXmediaLib/branches/user_ping
+1278 /old/sipXmediaLib/main
+
+1895 2036

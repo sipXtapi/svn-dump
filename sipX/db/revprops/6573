@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-04-13T00:51:29.456858Z
+K 7
+svn:log
+V 247
+Tune up the text and the setting order for better usability.  Emphasize "Call Detail Record" rather than "Call Resolver" since the user knows about CDRs, they really don't know or care about Call Resolver.
+Remove daily run start time per XPB-557.
+
+END

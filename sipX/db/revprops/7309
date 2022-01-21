@@ -1,0 +1,32 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-08-21T11:23:23.427101Z
+K 7
+svn:log
+V 589
+Blocked revisions 6938,6955,6960,7126 via svnmerge
+
+........
+  r6938 | bob | 2006-06-08 23:28:46 +0400 | 2 lines
+  
+  Updated doxygen docs for sipXtapi
+........
+  r6955 | bob | 2006-06-13 00:28:55 +0400 | 3 lines
+  
+  svn:eol-style and svn:mimetype fixes.
+........
+  r6960 | bob | 2006-06-13 16:40:20 +0400 | 3 lines
+  
+  Fixed svn:eol-style and svn:mime-type on root-level readme.txt.  My scripts which search/fix these properties ignored the root directory.
+........
+  r7126 | bob | 2006-07-27 00:06:42 +0400 | 3 lines
+  
+  Updated sipXtapi Win32 build scripts and doxygen docs
+........
+
+END

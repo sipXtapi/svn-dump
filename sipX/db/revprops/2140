@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-09-29T23:38:46.803126Z
+K 7
+svn:log
+V 108
+  Change all uses of SIPX_HOME to use the appropriate variable 
+  http://track.sipfoundry.org/browse/XPL-69
+
+END

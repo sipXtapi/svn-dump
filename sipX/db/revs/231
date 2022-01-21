@@ -1,0 +1,152 @@
+PLAIN
+K 12
+CONTRIBUTORS
+V 19
+file 4.0.r22/520744
+K 9
+ChangeLog
+V 17
+file 5.0.r170/607
+K 7
+INSTALL
+V 17
+file 6.0.r218/548
+K 7
+LICENSE
+V 19
+file 7.0.r22/418615
+K 11
+Makefile.am
+V 17
+file 8.0.r211/556
+K 4
+NEWS
+V 19
+file 9.0.r22/520483
+K 6
+README
+V 16
+file a.0.r99/462
+K 4
+TODO
+V 18
+file b.0.r25/34332
+K 9
+acsite.m4
+V 19
+file c.0.r22/469495
+K 6
+config
+V 18
+dir 91.i.r229/1824
+K 12
+configure.ac
+V 17
+file d.0.r186/933
+K 3
+doc
+V 18
+dir ac.0.r187/2079
+K 7
+include
+V 17
+dir e.0.r208/1769
+K 15
+sipXportLib.dsp
+V 20
+file 4c.0.r210/10824
+K 19
+sipxportlib.spec.in
+V 18
+file aq.0.r214/209
+K 3
+src
+V 18
+dir 4d.i.r228/6143
+K 12
+syslogviewer
+V 20
+dir 8y.0.r192/166453
+END
+ENDREP
+id: 3.i.r231/663
+type: dir
+pred: 3.i.r229/2785
+count: 221
+text: 231 0 650 650 fc065a851e7100fa83bf6a6b0efc8cb4
+props: 207 5271 201 0 54aa01c31d2b62cada16756a7967ac75
+cpath: /old/sipXportLib/branches/post-2.6.1
+copyroot: 225 /old/sipXportLib/branches/post-2.6.1
+
+PLAIN
+K 10
+post-2.6.1
+V 16
+dir 3.i.r231/663
+END
+ENDREP
+id: ar.0.r231/980
+type: dir
+pred: ar.0.r229/3107
+count: 6
+text: 231 925 42 42 e06a2562eacdf9b22b5a010e0bb5333c
+cpath: /old/sipXportLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 17
+dir ar.0.r231/980
+K 4
+main
+V 17
+dir 3.0.r230/1678
+K 4
+tags
+V 18
+dir an.0.r169/1799
+END
+ENDREP
+id: 2.0.r231/1257
+type: dir
+pred: 2.0.r230/2011
+count: 229
+text: 231 1139 105 105 d8a1defdcae66c19c4b5db38c1185245
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r231/1257
+END
+ENDREP
+id: 1.0.r231/1468
+type: dir
+pred: 1.0.r230/2222
+count: 230
+text: 231 1411 44 44 e1f3749900646b3d9ca2b112ecca1573
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r231/1468
+END
+ENDREP
+id: 0.0.r231/1656
+type: dir
+pred: 0.0.r230/2410
+count: 231
+text: 231 1608 35 35 a41414c05746846c66db2b914a080f42
+cpath: /
+copyroot: 0 /
+
+3.j.r227/0 delete false false /old/sipXportLib/branches/post-2.6.1/main
+
+
+1656 1793

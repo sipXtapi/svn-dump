@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-07-22T08:25:43.473450Z
+K 7
+svn:log
+V 167
+Created windows MSVS dsp for siptest.  Added a little more
+doc. in the readme on how to use it.  Included an example
+INVITE request file and config file for siptest.
+
+
+END

@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-03-16T23:38:40.779326Z
+K 7
+svn:log
+V 156
+Rollback changes, go with simple copytruncate. Quantom of time a log entry could be missed is not worth system instability:
+
+Did
+  svn merge -r6378:6375 .
+
+
+END

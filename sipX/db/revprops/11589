@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2010-03-07T23:31:05.227195Z
+K 7
+svn:log
+V 53
+sipXcallLib: Increase stack size for CpCall threads.
+
+END

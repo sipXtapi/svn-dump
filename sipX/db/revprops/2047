@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-04-13T22:41:15.864572Z
+K 7
+svn:log
+V 188
+Progress toward TLS support.
+Improve certificate generation and validation
+Add the beginnings of support for trusted CA configuration
+Add configuration definitions for secure port numbers
+
+END

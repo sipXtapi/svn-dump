@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-11-04T15:26:53.417472Z
+K 7
+svn:log
+V 134
+XCF-760 - Do not set outbound proxy by default for cisco ata and 7905-7960.  Its not needed, the registation server is used by default
+END

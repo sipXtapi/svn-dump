@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-04-12T21:19:03.384807Z
+K 7
+svn:log
+V 220
+Add the daily run and purging params to the user guide.
+Remove some hardwired constants from the call resolver unit test in favor of symbols.
+Extend the configure test with an example that has multiple colons in a line.
+
+END

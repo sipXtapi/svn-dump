@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-11-21T22:53:30.884425Z
+K 7
+svn:log
+V 126
+XCF-746 using LazyMap to create a cache of classes => bean names - we are only calling getBeanNamesForType once for each type
+
+END

@@ -1,0 +1,28 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-04-09T16:04:33.854251Z
+K 7
+svn:log
+V 441
+Updating Pinger (sipXphone) to work with the following change:
+
+> First checkin of N: Allowing pluggable media processing support
+> 
+> In this checkin:
+> - Cleaned up the CpMediaInterface by removing unused methods and
+>   adding some additional documentation.  All functions are also
+>   now pure virtual in CpMediaInterface.
+> - Introduced a factory mechanism to create/bind to a media
+>   processing subsystem.
+> 
+> More work to do...
+
+
+
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-16T23:54:41.893502Z
+K 7
+svn:log
+V 89
+Add Narrowband AMR codec wrapper plugin.
+Right now only octet-aligned mode is supported.
+
+END

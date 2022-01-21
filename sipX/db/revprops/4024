@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-06-08T22:18:46.923339Z
+K 7
+svn:log
+V 81
+XCF-341 Additional cleaning of phone serial numbers so they remove ':' and spaces
+END

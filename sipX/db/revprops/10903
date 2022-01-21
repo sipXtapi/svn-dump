@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-11-07T16:26:41.168523Z
+K 7
+svn:log
+V 42
+Fix compilation of OsSysLog under x86_64.
+
+END

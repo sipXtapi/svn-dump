@@ -1,0 +1,146 @@
+PLAIN
+K 10
+svn:ignore
+V 206
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxportlib.spec
+sipxportlib-*.rpm
+sipxportlib-*.tar.gz
+stamp-h1
+textfiles
+Debug
+Release
+
+K 17
+svnmerge-2.6-head
+V 55
+https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 5
+1-290
+K 18
+svnmerge-main-head
+V 47
+https://scm.sipfoundry.org/rep/sipXportLib/main
+K 18
+svnmerge-main-revs
+V 5
+1-285
+END
+ENDREP
+id: 3.u.r294/474
+type: dir
+pred: 3.s.r292/1695
+count: 267
+text: 292 1001 681 681 1d62fc855460d45e2c7278403228e0c2
+props: 294 0 461 0 de7d9458ab29e5a443edd7496ab46c20
+cpath: /old/sipXportLib/tags/2.6-export-B
+copyfrom: 293 /old/sipXportLib/branches/2.6
+
+PLAIN
+K 5
+2.5.1
+V 17
+dir 3.e.r115/2794
+K 5
+2.5.2
+V 17
+dir 3.h.r169/1469
+K 12
+2.6-export-A
+V 16
+dir 3.t.r290/474
+K 12
+2.6-export-B
+V 16
+dir 3.u.r294/474
+K 13
+main-export-A
+V 14
+dir 3.p.r276/0
+K 13
+main-export-B
+V 16
+dir 3.q.r282/357
+K 13
+main-export-C
+V 16
+dir 3.r.r288/357
+END
+ENDREP
+id: an.0.r294/1011
+type: dir
+pred: an.0.r290/970
+count: 9
+text: 294 727 271 271 dccbf922217d87302cee21f317342e02
+cpath: /old/sipXportLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir ar.0.r293/2201
+K 4
+main
+V 17
+dir 3.0.r291/1624
+K 4
+tags
+V 18
+dir an.0.r294/1011
+END
+ENDREP
+id: 2.0.r294/1287
+type: dir
+pred: 2.0.r293/2481
+count: 292
+text: 294 1168 106 106 9de76df1913835737ec6cdc685b1c25c
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r294/1287
+END
+ENDREP
+id: 1.0.r294/1498
+type: dir
+pred: 1.0.r293/2692
+count: 293
+text: 294 1441 44 44 7f4b549944d1ffaa65831f16f2d5b755
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r294/1498
+END
+ENDREP
+id: 0.0.r294/1686
+type: dir
+pred: 0.0.r293/2880
+count: 294
+text: 294 1638 35 35 4868c649fa09f8b1f876ebd72a30e24b
+cpath: /
+copyroot: 0 /
+
+3._0.t293-1 add false true /old/sipXportLib/tags/2.6-export-B
+293 /old/sipXportLib/branches/2.6
+
+1686 1823

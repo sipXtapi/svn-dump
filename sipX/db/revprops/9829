@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2007-07-13T21:28:18.469151Z
+K 7
+svn:log
+V 507
+Boston Bridge was using a generic api to get the local adapter address to place in the SDP body.  
+When there are multiple NICs this api can return an incorrect IP (from wrong NIC).  
+Previously modified to use the sentHost parameter form the top most via of the SIP Invite, 
+but this does not work when calling UA is on the same box as bbridge.
+
+New fix:
+  - New setting in .conf file BOSTON_BRIDGE_MEDIA_IP_ADDRESS - if blank (or not present) then behavior is as was before - OS is queried for IP address
+
+END

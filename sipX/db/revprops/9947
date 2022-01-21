@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-08-17T12:21:20.812642Z
+K 7
+svn:log
+V 185
+Remove GIPS NetEQ dependencies: Use C99 types instead of JB_* types in G711A/u codecs.
+Also move G711A_Encoder() and G711U_Encoder() declarations from "JB_API.h" to "MpSipxDecoders.h".
+
+END

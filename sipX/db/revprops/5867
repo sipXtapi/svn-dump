@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-01-12T17:47:38.407251Z
+K 7
+svn:log
+V 70
+XCF-328 Limit number of lines a phone can have based on the model type
+END

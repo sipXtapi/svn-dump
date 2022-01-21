@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-09-22T17:16:07.037319Z
+K 7
+svn:log
+V 127
+Created a starting main for the BOston Bridge that
+instantiates a sipX media interface factory and an
+single media interface.
+
+
+END

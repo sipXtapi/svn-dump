@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-11-03T12:56:24.999442Z
+K 7
+svn:log
+V 65
+Fixed warning of assignment in if statement in UtlhasBagIterator
+
+END

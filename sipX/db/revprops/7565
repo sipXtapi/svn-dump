@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-09-25T19:31:05.626070Z
+K 7
+svn:log
+V 139
+Last check-in was not quite right (fixing stun rfc3489 backwards compatibility).  I report the incorrect length for bis4 after my change.
+
+
+END

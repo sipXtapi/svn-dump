@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-03-31T19:23:46.181439Z
+K 7
+svn:log
+V 271
+Merged revisions 234 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.8
+    
+    r234 | xmlscott | 2005-03-31 12:26:10 -0500 (Thu, 31 Mar 2005) | 1 line
+    fix paths for some of the config files editted by the upgrade (cut and paste errors)
+
+END

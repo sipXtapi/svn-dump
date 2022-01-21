@@ -1,0 +1,288 @@
+PLAIN
+K 21
+DefaultJtapiPeer.java
+V 23
+file 6zw.0.r4753/297122
+K 4
+java
+V 23
+dir 7d3.0.r4673/7439390
+K 5
+javax
+V 23
+dir 7d6.0.r4673/7448860
+K 3
+org
+V 20
+dir 7n6.0.r4759/4334
+K 4
+test
+V 20
+dir 7dv.0.r4757/3577
+END
+ENDREP
+id: 6zv.0.r4760/219
+type: dir
+pred: 6zv.0.r4759/4764
+count: 18
+text: 4760 0 206 206 9332bfdf189552f8dc05facb8fad4e42
+cpath: /old/sipXphone/main/javacore/src
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 21
+file 7mg.0.r4721/1039
+K 8
+.project
+V 21
+file 7mh.0.r4721/1196
+K 11
+Makefile.am
+V 24
+file 6tb.0.r4673/7628219
+K 20
+build-wnt.properties
+V 21
+file 6tc.0.r4685/6661
+K 13
+build-wnt.xml
+V 22
+file 6td.0.r4753/44786
+K 9
+build.xml
+V 21
+file 6te.0.r4757/4654
+K 7
+classes
+V 20
+dir 6tf.0.r4757/4475
+K 4
+dist
+V 23
+dir 6th.0.r4673/7353150
+K 12
+javacore.iml
+V 21
+file 7me.0.r4692/3048
+K 4
+meta
+V 21
+dir 6tj.0.r4753/58179
+K 3
+src
+V 19
+dir 6zv.0.r4760/219
+K 12
+test-results
+V 23
+dir 7dy.0.r4673/7629166
+K 5
+tests
+V 23
+dir 7dz.0.r4673/7352893
+END
+ENDREP
+id: 6ta.0.r4760/955
+type: dir
+pred: 6ta.0.r4759/5505
+count: 25
+text: 4760 391 551 551 e12e5075953b08426ba73d5fcbce0def
+props: 4691 2492 42 0 36e19d5208d6fe4b81b1977390a5e6b2
+cpath: /old/sipXphone/main/javacore
+copyroot: 0 /
+
+PLAIN
+K 7
+AUTHORS
+V 24
+file 6ql.0.r4673/7300081
+K 7
+COPYING
+V 24
+file 6qm.0.r4673/7684481
+K 9
+ChangeLog
+V 24
+file 6qn.0.r4673/7300581
+K 7
+INSTALL
+V 21
+file 6qo.0.r4756/2256
+K 11
+Makefile.am
+V 21
+file 6qp.0.r4754/2671
+K 4
+NEWS
+V 24
+file 6qq.0.r4673/7685022
+K 6
+README
+V 21
+file 6qr.0.r4704/5629
+K 9
+acsite.m4
+V 24
+file 6qs.0.r4673/7300329
+K 14
+ant-targets.am
+V 20
+file 6qt.0.r4729/119
+K 15
+ant-targets.xml
+V 20
+file 6qu.0.r4698/428
+K 12
+applayer.ipr
+V 21
+file 7md.0.r4692/4793
+K 20
+config.properties.in
+V 21
+file 6qv.0.r4757/5922
+K 12
+configure.ac
+V 21
+file 6qw.0.r4757/5688
+K 3
+doc
+V 23
+dir 6qx.0.r4673/7642148
+K 7
+include
+V 21
+dir 6r2.0.r4753/17939
+K 8
+javacore
+V 19
+dir 6ta.0.r4760/955
+K 3
+lib
+V 22
+dir 7e0.0.r4687/165534
+K 13
+sipXphone.dsp
+V 23
+file 7m7.0.r4753/299093
+K 13
+sipXphone.dsw
+V 21
+file 7mc.0.r4691/3869
+K 9
+softphone
+V 22
+dir 7f3.0.r4753/304158
+K 3
+src
+V 20
+dir 7i2.0.r4757/2927
+END
+ENDREP
+id: 6qk.0.r4760/2085
+type: dir
+pred: 6qk.0.r4759/6638
+count: 77
+text: 4760 1180 892 892 397cc679d7e5ad2aafceb80b7f50a209
+props: 4692 5859 492 0 de69476469c1781d770f4b6bf6a326bd
+cpath: /old/sipXphone/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7n3.0.r4752/33218
+K 4
+main
+V 20
+dir 6qk.0.r4760/2085
+END
+ENDREP
+id: 6qj.0.r4760/2396
+type: dir
+pred: 6qj.0.r4759/6949
+count: 88
+text: 4760 2304 79 79 96d149148fb85a1b97cdb57990aea9e7
+cpath: /old/sipXphone
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4671/3383
+K 9
+sipXphone
+V 20
+dir 6qj.0.r4760/2396
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4760/3075
+type: dir
+pred: 1.0.r4759/7628
+count: 4758
+text: 4760 2552 510 510 91b3c2a66ccc4b11fa154860acfe05d7
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4760/3075
+END
+ENDREP
+id: 0.0.r4760/3270
+type: dir
+pred: 0.0.r4759/7823
+count: 4760
+text: 4760 3221 36 36 fa6bfa66eaab56b46ed3016b186a1fe8
+cpath: /
+copyroot: 0 /
+
+6zx.0.r4741/4893 delete false false /old/sipXphone/main/javacore/src/com
+
+
+3270 3411

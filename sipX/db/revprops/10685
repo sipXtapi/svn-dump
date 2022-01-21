@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-06-26T10:17:56.988343Z
+K 7
+svn:log
+V 60
+Bugfix: fix G.722 RTP payload type - it should be static 9.
+
+END

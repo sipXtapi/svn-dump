@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-06-02T20:40:35.757118Z
+K 7
+svn:log
+V 62
+add a log of the configtest output, and include it in snapshot
+END

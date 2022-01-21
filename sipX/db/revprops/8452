@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-01-05T21:23:07.553945Z
+K 7
+svn:log
+V 106
+XCF-1428 - Show ACD Calls web ui when sipxconfig-report bin script is available or when explicitly enabled
+END

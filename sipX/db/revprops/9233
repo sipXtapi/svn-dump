@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-04-04T02:58:59.483922Z
+K 7
+svn:log
+V 251
+NT-95 Increase window of history from 30 min to 90 min and set lower ceiling of historic events to 1000, disable unit test that does not run unless you have a development version of SOAP4R, add dumping ACD event state on SIGUSR1 for debugging purposes
+END

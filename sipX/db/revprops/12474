@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-09-29T14:03:23.783490Z
+K 7
+svn:log
+V 36
+Fix then/else problem in general.m4
+
+END

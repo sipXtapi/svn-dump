@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-04-11T15:33:45.489382Z
+K 7
+svn:log
+V 82
+Remove dialing rule for '0' from fallbackrules, as it is handled in
+mappingrules.
+
+END

@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-12-15T06:56:40.236258Z
+K 7
+svn:log
+V 522
+Many sdpLib changes to support multiple codecs enabeld with same Mime subtype (e.g. H.264)
+    SdpCodecList::containsCodec exact argument
+    SdpCodecList::getCodecByType optionally locks list
+    SdpCodecList::copyPayloadType unbinds conflict payloadIDs
+    SdpCodecList::limitCodecs uses exact match
+    created dpCodecList::unbindPayloadType
+    fixed channel compare in SdpCodec::isSameDefinition unset (-1) same as default 1
+    SdpCodec::isSameDefinition compares profile in addition to packetization-mode for H.264
+
+END

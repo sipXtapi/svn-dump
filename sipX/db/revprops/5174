@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+mdm2000
+K 8
+svn:date
+V 27
+2005-09-24T23:29:55.500854Z
+K 7
+svn:log
+V 75
+Making sure we get MCL_CURRENT and MCL_FUTURE (for mlockall) on OS X 10.3.
+
+END

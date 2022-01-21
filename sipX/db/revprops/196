@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-09T19:47:00.850502Z
+K 7
+svn:log
+V 107
+Apply 'const' as necessary to UtlString operators == and !=.
+See http://track.sipfoundry.org/browse/XVX-32
+
+END

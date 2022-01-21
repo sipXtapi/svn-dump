@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-04-19T11:29:07.413629Z
+K 7
+svn:log
+V 141
+Submitted on behalf of Muhammad Raza: sipXezPhone - changes to the configuration dialog so that new setitngs take effect after pressing OK.
+
+
+END

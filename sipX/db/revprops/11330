@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-05-07T15:18:48.075716Z
+K 7
+svn:log
+V 73
+sipXportLib: Fix possible use of freed OsEvent in OsSysLogTask::flush().
+
+END

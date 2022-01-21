@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-11-15T23:47:18.812879Z
+K 7
+svn:log
+V 313
+XCF-65 fix
+- display default values from - config.defs - during initialization process
+- allow user to edit default values for DNS Domain and Authorization Realm
+- modify the values in config.defs - so that when services are restarted new domain name and realm are used
+- implement tests for GlobalConfigUIHelper
+
+END

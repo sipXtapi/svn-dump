@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-03T20:31:25.322718Z
+K 7
+svn:log
+V 126
+Fix wrong condition in CpPhoneMediaInterfaceTest::waitForNotf().
+It could loop forever if ignored events are frequent enough.
+
+END

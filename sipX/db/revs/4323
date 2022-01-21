@@ -1,0 +1,171 @@
+PLAIN
+K 13
+svn:externals
+V 76
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/main-export-B/config
+
+K 10
+svn:ignore
+V 156
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+sipxpbx-*.tar.gz
+sipxpbx.spec
+
+K 18
+svnmerge-main-head
+V 43
+https://scm.sipfoundry.org/rep/sipXpbx/main
+K 18
+svnmerge-main-revs
+V 5
+1-229
+K 24
+svnmerge-post-2.6.1-head
+V 58
+https://scm.sipfoundry.org/rep/sipXpbx/branches/post-2.6.1
+K 24
+svnmerge-post-2.6.1-revs
+V 13
+1-111,220-221
+END
+ENDREP
+id: 5g6.yl.r4323/547
+type: dir
+pred: 5g6.0.r4322/2918
+count: 201
+text: 4322 2267 638 638 8ea154de386c6e77116471a1d2fd97a0
+props: 4323 0 534 0 8e7eef54fbe87f3f11201e08fae6fc19
+cpath: /old/sipXpbx/tags/main-export-B
+copyfrom: 4322 /old/sipXpbx/main
+
+PLAIN
+K 5
+2.5.1
+V 22
+dir 5g6.y3.r4102/11489
+K 5
+2.5.2
+V 21
+dir 5g6.y5.r4134/2397
+K 13
+main-export-B
+V 20
+dir 5g6.yl.r4323/547
+END
+ENDREP
+id: 5kn.0.r4323/932
+type: dir
+pred: 5kn.0.r4134/2736
+count: 7
+text: 4323 795 124 124 42a4351a6a99b50300a25b5b023587b9
+cpath: /old/sipXpbx/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 6o1.0.r4316/1463
+K 4
+main
+V 20
+dir 5g6.0.r4322/2918
+K 4
+tags
+V 19
+dir 5kn.0.r4323/932
+END
+ENDREP
+id: 5g5.0.r4323/1215
+type: dir
+pred: 5g5.0.r4322/3262
+count: 230
+text: 4323 1090 112 112 43aded78ae54b9a024baad4a0af39fc0
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4323/1215
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4323/1855
+type: dir
+pred: 1.0.r4322/3902
+count: 4321
+text: 4323 1372 470 470 bb8a0fea16a961cff97f614a407209f7
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4323/1855
+END
+ENDREP
+id: 0.0.r4323/2050
+type: dir
+pred: 0.0.r4322/4097
+count: 4323
+text: 4323 2001 36 36 3c63e46cc42c1ccf4021a3d467d013b1
+cpath: /
+copyroot: 0 /
+
+5g6._0.t4322-1 add false true /old/sipXpbx/tags/main-export-B
+4322 /old/sipXpbx/main
+
+2050 2191

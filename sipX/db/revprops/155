@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-07-27T22:17:00.447359Z
+K 7
+svn:log
+V 262
+Fixed a stack of bugs in UtlString:
+   memory leaks
+   memory violations
+   very ineffient use of memory, etc.
+
+Hopefully did not introduce many new issues.  I also
+added unit tests for some of the issues.  Fixed one
+unit test that was giving a false positive.
+
+
+END

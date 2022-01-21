@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-01-18T19:01:08.843197Z
+K 7
+svn:log
+V 96
+Put [domain] in XML files where the SIP domain should be substituted.
+Set file type properties.
+
+END

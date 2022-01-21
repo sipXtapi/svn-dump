@@ -1,0 +1,141 @@
+id: 2hf.wc.r4026/0
+type: dir
+pred: 2hf.0.r4025/64019
+count: 764
+text: 4025 62658 1348 1348 48ea595aa5d5de6e308f3a1bc36a91dc
+props: 3884 34833 919 0 b6db61a7c7314b6bbb61c600bc1c23dd
+cpath: /old/sipXconfig/branches/lowcarb
+copyfrom: 4025 /old/sipXconfig/main
+
+PLAIN
+K 3
+2.6
+V 21
+dir 2hf.jd.r3596/6164
+K 3
+2.8
+V 21
+dir 2hf.r0.r3961/2841
+K 10
+cert-login
+V 22
+dir 2hf.vc.r3888/21063
+K 7
+lowcarb
+V 18
+dir 2hf.wc.r4026/0
+K 7
+restful
+V 22
+dir 2hf.vj.r3903/20876
+K 8
+user_pin
+V 20
+dir 2hf.um.r3756/915
+K 9
+user_ping
+V 20
+dir 2hf.sw.r3716/786
+END
+ENDREP
+id: 4c1.0.r4026/544
+type: dir
+pred: 4c1.0.r3961/3352
+count: 182
+text: 4026 258 273 273 e486f7d5e08787c6785dc438861ba1bd
+cpath: /old/sipXconfig/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 4c1.0.r4026/544
+K 4
+main
+V 21
+dir 2hf.0.r4025/64019
+K 4
+tags
+V 20
+dir 4b6.0.r3962/2744
+END
+ENDREP
+id: 2he.0.r4026/837
+type: dir
+pred: 2he.0.r4025/64373
+count: 1001
+text: 4026 711 113 113 bceadda755b07700bffd91581f4a7a2c
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 19
+dir 2he.0.r4026/837
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4026/1440
+type: dir
+pred: 1.0.r4025/64982
+count: 4024
+text: 4026 997 430 430 25642f022d9e03acba843001b0350f04
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4026/1440
+END
+ENDREP
+id: 0.0.r4026/1635
+type: dir
+pred: 0.0.r4025/65181
+count: 4026
+text: 4026 1586 36 36 df4ebda679c0830d40c0d0bfc9f6bb12
+cpath: /
+copyroot: 0 /
+
+2hf._0.t4025-1 add false false /old/sipXconfig/branches/lowcarb
+4025 /old/sipXconfig/main
+
+1635 1777

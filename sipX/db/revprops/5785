@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-12-22T22:39:19.550691Z
+K 7
+svn:log
+V 191
+XCF-818 migration from 3.0 style atuoattendants to new type autoattendant dialing rules
+all auto attendants referenced by internal dialing rule are now represented by attendant dialing rules
+
+END

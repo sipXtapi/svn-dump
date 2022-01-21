@@ -1,0 +1,131 @@
+PLAIN
+K 10
+svn:ignore
+V 10
+build.err
+
+K 23
+svnmerge-sipx-main-head
+V 40
+https://scm.sipfoundry.org/rep/sipX/main
+K 23
+svnmerge-sipx-main-revs
+V 6
+1-6914
+END
+ENDREP
+id: 7q4.3lm.r7227/164
+type: dir
+pred: 7q4.3lm.r6919/2247
+count: 1395
+text: 6919 1421 813 813 0da2c32281063a3da29f1e8193cc78e9
+props: 7227 0 151 0 d6b7f838379515436e4cd12e0281801e
+cpath: /branches/modularity
+copyroot: 6845 /branches/modularity
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r6684/6307
+K 3
+3.4
+V 22
+dir 7q4.3ib.r7095/7472
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 21
+dir 7q4.3lm.r7227/164
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 22
+dir 7q4.3xt.r7226/6969
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 20
+dir 9wi.0.r7202/7293
+K 21
+sipXtapi-media-update
+V 22
+dir 9wi.3ke.r7220/7784
+K 12
+solaris_port
+V 23
+dir 7q4.3wa.r7093/50041
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 24
+user_dworley_redirectors
+V 23
+dir 7q4.3xw.r7213/21219
+END
+ENDREP
+id: 7pt.0.r7227/1170
+type: dir
+pred: 7pt.0.r7226/7991
+count: 795
+text: 7227 408 749 749 0d26566a6ef28ed6fd8eac6bd8b304ff
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r7227/1170
+K 4
+main
+V 20
+dir 7q4.0.r7224/9205
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r7227/1450
+type: dir
+pred: 0.0.r7226/8273
+count: 7227
+text: 7227 1323 114 114 fd4fddcd4974d042811e08238619ef5c
+cpath: /
+copyroot: 0 /
+
+7q4.3lm.t7226-1 modify false true /branches/modularity
+
+
+1450 1593

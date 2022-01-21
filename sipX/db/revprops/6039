@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-02-02T19:58:35.641803Z
+K 7
+svn:log
+V 69
+Remove errors when installing w/o any other sipx components installed
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-08T19:07:32.205328Z
+K 7
+svn:log
+V 67
+Add missing sipXmediaLib tests to sipXmediaLibTest VS2003 project.
+
+END

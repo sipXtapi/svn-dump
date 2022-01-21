@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-10-03T23:31:07.870533Z
+K 7
+svn:log
+V 280
+Move the .h files into src because they are purely internal;
+they don't define an external interface to this project (which
+does not export libraries).  Remove them from the files that are
+installed, which makes rpmbuild happy because it doesn't like
+unpackaged installed files.
+
+
+END

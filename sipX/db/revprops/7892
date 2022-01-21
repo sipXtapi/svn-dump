@@ -1,0 +1,29 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-31T06:05:29.692575Z
+K 7
+svn:log
+V 1346
+mergefrom user_dworley_redirectors2main 7470
+
+Turn SipRedirectorCallerAlias into a Plugin, including relocating
+SipRegistrar.h to include/registry, so it can be used by Plugins.
+
+Including bringing forward changes for:
+
+r7470 | dworley | 2006-09-12 23:41:53 -0400 (Tue, 12 Sep 2006) | 3 lines
+Changed paths:
+   A /branches/user_dworley_redirectors/sipXregistry/include/registry/SipRegistrar.h (from /branches/user_dworley_redirectors/sipXregistry/src/SipRegistrar.h:7468)
+   A /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins/SipRedirectorCallerAlias.cpp (from /branches/user_dworley_redirectors/sipXregistry/src/SipRedirectorCallerAlias.cpp:7468)
+   A /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins/SipRedirectorCallerAlias.h (from /branches/user_dworley_redirectors/sipXregistry/src/SipRedirectorCallerAlias.h:7468)
+
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/SipRegistrar.h sipXregistry/include/registry/SipRegistrar.h 
+svn merge -r 7455:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/SipRedirectorCallerAlias.cpp sipXregistry/lib/redirect_plugins/SipRedirectorCallerAlias.cpp 
+svn merge -r 7455:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/SipRedirectorCallerAlias.h sipXregistry/lib/redirect_plugins/SipRedirectorCallerAlias.h
+
+END

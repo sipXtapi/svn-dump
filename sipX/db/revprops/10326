@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-10-16T18:35:11.440306Z
+K 7
+svn:log
+V 231
+CPPUnit includes inttypes.h before we do in Linux implementation (or 1.10.2 release), specifying not to use __STDC_CONSTANT_MACROS which we need.  
+
+Fixed this by moving cppunit includes all the way past all of our other includes.
+
+END

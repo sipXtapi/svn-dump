@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-05-09T12:52:07.234732Z
+K 7
+svn:log
+V 172
+Added basic STUN server support to OsStunDatagramSocket (only supports basic Binding Requests -- does not support any shared secrets or the changed-address attribute yet.
+
+
+END

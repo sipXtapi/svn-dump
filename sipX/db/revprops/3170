@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-11-17T15:19:59.432370Z
+K 7
+svn:log
+V 206
+XCF-31 fix
+- Added a new property to buildVersion.properties to pass phone directory to PathLocatorUtil
+- Added test for PathLocatorUtil
+- Change the order in deleting applications (bean first, jars later)
+
+END

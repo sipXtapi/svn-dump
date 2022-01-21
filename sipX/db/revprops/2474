@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-07T19:59:11.237049Z
+K 7
+svn:log
+V 172
+First cut at SipRedirectorMapping to process mappingrules.xml.
+Also, change name of SipRedirectRegDB to SipRedirectorRegDB to make
+its relationship to SipRedirector clear.
+
+END

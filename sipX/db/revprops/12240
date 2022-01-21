@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2014-11-24T22:30:03.178864Z
+K 7
+svn:log
+V 128
+Exposed ability to record to file using GSM encoding to media interface.
+Can now record wave files using PCM16 or GSM encoding.
+
+END

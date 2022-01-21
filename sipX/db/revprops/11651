@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2010-05-07T16:27:15.293268Z
+K 7
+svn:log
+V 71
+sipXmediaLib: Notify sipXtapi layer if MediaInterface creation failed.
+
+END

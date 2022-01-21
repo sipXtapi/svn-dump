@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-03-21T09:32:41.556142Z
+K 7
+svn:log
+V 136
+Initial check in of MpOutputDeviceDriver and MpOutputDeviceManager interfaces.
+This version is labeled as draft1 in accompanying notes.
+
+END

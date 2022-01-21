@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-10T14:58:20.646630Z
+K 7
+svn:log
+V 90
+Gateways page UI test requires that table is sorted by name (otherwise it fails randomly)
+
+END

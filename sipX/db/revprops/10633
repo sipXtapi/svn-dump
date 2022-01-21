@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2008-04-14T15:13:56.934093Z
+K 7
+svn:log
+V 81
+Creating branch point to merging sipXtapi-AOL, sipXtapi (trunk) and other changes
+END

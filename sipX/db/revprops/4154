@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-09T18:33:35.635696Z
+K 7
+svn:log
+V 59
+Add logging.
+See http://track.sipfoundry.org/browse/XVX-33
+
+END

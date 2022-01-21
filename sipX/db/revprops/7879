@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-30T21:16:47.747358Z
+K 7
+svn:log
+V 137
+Initialized merge tracking via svnmerge with revisions 1-7203 from
+https://scm.sipfoundry.org/rep/sipX/branches/user_dworley_redirectors
+
+END

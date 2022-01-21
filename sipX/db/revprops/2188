@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-11-30T13:48:16.808084Z
+K 7
+svn:log
+V 192
+Fix auth proxy failure when realm != domain and username does not
+include the domain name.
+
+http://track.sipfoundry.org/browse/XPR-24
+
+Added release notes from 2.6.1
+(Merged from 2.6 branch)
+
+
+END

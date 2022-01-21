@@ -1,0 +1,172 @@
+PLAIN
+K 5
+2.5.1
+V 17
+dir 3.e.r115/2794
+K 5
+2.5.2
+V 17
+dir 3.h.r169/1469
+K 12
+2.6-export-A
+V 16
+dir 3.t.r290/474
+K 12
+2.6-export-B
+V 16
+dir 3.u.r294/474
+K 12
+2.6-export-C
+V 16
+dir 3.v.r302/474
+K 12
+2.6-export-D
+V 16
+dir 3.w.r303/474
+K 12
+2.6-export-E
+V 16
+dir 3.x.r305/474
+K 12
+2.6-export-F
+V 16
+dir 3.y.r307/474
+K 12
+2.6-export-G
+V 15
+dir 3.10.r311/0
+K 12
+2.6-export-H
+V 15
+dir 3.11.r312/0
+K 12
+2.6-export-J
+V 15
+dir 3.12.r315/0
+K 12
+2.6-export-K
+V 15
+dir 3.13.r318/0
+K 12
+2.6-export-L
+V 15
+dir 3.14.r334/0
+K 12
+2.6-export-M
+V 15
+dir 3.15.r335/0
+K 12
+2.6-export-N
+V 15
+dir 3.16.r336/0
+K 12
+2.6-export-O
+V 15
+dir 3.19.r365/0
+K 12
+2.6-export-P
+V 15
+dir 3.1a.r366/0
+K 12
+2.6-export-Q
+V 15
+dir 3.1b.r368/0
+K 12
+2.6-export-R
+V 15
+dir 3.1c.r369/0
+K 12
+2.6-export-S
+V 15
+dir 3.1l.r376/0
+K 12
+2.6-export-T
+V 15
+dir 3.1m.r386/0
+K 12
+2.6-export-U
+V 15
+dir 3.1o.r392/0
+K 5
+2.6.1
+V 16
+dir 3.z.r309/474
+K 13
+main-export-A
+V 14
+dir 3.p.r276/0
+K 13
+main-export-B
+V 16
+dir 3.q.r282/357
+K 13
+main-export-C
+V 16
+dir 3.r.r288/357
+END
+ENDREP
+id: an.0.r393/1022
+type: dir
+pred: an.0.r392/1307
+count: 30
+text: 393 0 1009 1009 854a0cfddaeb18aa2d361ad9ef68a5c6
+cpath: /old/sipXportLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir ar.0.r375/22709
+K 4
+main
+V 17
+dir 3.0.r391/4478
+K 4
+tags
+V 18
+dir an.0.r393/1022
+END
+ENDREP
+id: 2.0.r393/1301
+type: dir
+pred: 2.0.r392/1588
+count: 391
+text: 393 1181 107 107 3933f522c55e2abb9457f305e3eb25fa
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r393/1301
+END
+ENDREP
+id: 1.0.r393/1512
+type: dir
+pred: 1.0.r392/1799
+count: 392
+text: 393 1455 44 44 6ceb69ea86be3960cc2b8f006975bfd5
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r393/1512
+END
+ENDREP
+id: 0.0.r393/1700
+type: dir
+pred: 0.0.r392/1987
+count: 393
+text: 393 1652 35 35 759b837a4883d5e1aedba50da4bb72d9
+cpath: /
+copyroot: 0 /
+
+3.1n.r390/0 delete false false /old/sipXportLib/tags/2.6.2
+
+
+1700 1837

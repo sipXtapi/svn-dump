@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2009-09-27T15:16:16.378568Z
+K 7
+svn:log
+V 104
+Linux UPnp support:  Linux support for the new OsRegistry class. AdpatersInfo now retrieved under Linux.
+END

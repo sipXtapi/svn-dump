@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-09-28T20:04:24.206426Z
+K 7
+svn:log
+V 121
+Fixed a sign extension problem that cause crashes in the
+finalize/destructors of  PtConnection and PtTerminalConnection
+
+
+END

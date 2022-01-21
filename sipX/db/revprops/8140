@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-11-29T13:41:41.486193Z
+K 7
+svn:log
+V 207
+Fix for external transport hold problem (introduced in merge).  Was not sending subsequent methods over the transport.
+
+A problem still exists with sub/notify within a call context and external transports.
+
+
+END

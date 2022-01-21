@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+szuk
+K 8
+svn:date
+V 27
+2006-09-24T05:09:30.346075Z
+K 7
+svn:log
+V 245
+Added another version of SipUserAgent::setHostAliases that accepts a UtlSList of host aliases to speed up loading of a large number of aliases.
+Using this version reduced sipproxy startup time from ~25 sec to ~2 sec when loading 10000 domains.
+
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-11T21:13:08.575922Z
+K 7
+svn:log
+V 219
+sipXmediaLib:Don't try to free static codecs if MpCodecFactory instance does not exist.
+This mustn't happen, but we try to be polite and handle this situation gracefully.
+Thanks to Paul Whitfield for pointing out this,
+
+END

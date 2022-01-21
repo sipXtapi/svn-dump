@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-22T20:22:03.530441Z
+K 7
+svn:log
+V 208
+When comparing lines for inbound calls, use the Url object to check the username, host, port instead of string comparisons.
+
+Updated the ReceiveCall application to register w/ authentication to a registrar.
+
+
+END

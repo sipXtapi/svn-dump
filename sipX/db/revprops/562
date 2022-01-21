@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-11T13:47:19.169626Z
+K 7
+svn:log
+V 92
+Add OsTask::getCurrentProcessId to get the current process ID, which
+is unique in the host.
+
+END

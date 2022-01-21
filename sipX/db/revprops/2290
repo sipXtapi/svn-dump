@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-05-13T15:21:30.761828Z
+K 7
+svn:log
+V 65
+add support for call failure events (and minor cosmetic cleanups)
+END

@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-21T15:51:28.433589Z
+K 7
+svn:log
+V 279
+Merged revisions 8430 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+
+........
+  r8430 | mdm2000 | 2007-01-03 02:40:16 +0300 | 2 lines
+  
+  On OS X, the extension for dynamic libraries is .dylib and not .so, so use that when running unit tests.
+........
+
+END

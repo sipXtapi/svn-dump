@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-29T20:41:09.188589Z
+K 7
+svn:log
+V 147
+http://track.sipfoundry.org/browse/XVX-51
+Fix spelling of "february".
+Remove duplicated file names in Makefile.am.
+Sort file names in Makefile.am.
+
+END

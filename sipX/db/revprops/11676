@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-10-19T15:38:54.062660Z
+K 7
+svn:log
+V 235
+Deal with discontinuities in RTP time stamp:
+  Check for next sequential packet in buffer after discontinuity
+  Update RTP stream time after discontiuity
+  Update playback time after discontinuity
+  Android logging (disabled) of stats
+
+END

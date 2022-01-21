@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-29T22:52:16.693970Z
+K 7
+svn:log
+V 284
+mergefrom pingtel-main 7064,7068,7392,7201(partial)
+
+Use the library copy of functions to extract text from XML DOMs.
+Revise SipRedirectorPickUp to use OrbitFileReader to read orbits.xml.
+Fix reference to OrbitFileReader.h.
+Create bootable images, still having pacakge install issues
+
+END

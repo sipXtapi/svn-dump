@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-04-26T15:11:51.644732Z
+K 7
+svn:log
+V 332
+Fix for memory leak in CpMediaInterfaceFactoryImpl, in mlistFreePorts.find(new UtlInt(rtpPort)) it's not a good idea to allocate new object and forget it. It's better to use just find(&UtlInt(rtpPort)). From documentation - find - "Find the first occurence of the designated object by equality (as 
+     * opposed to by reference)."
+END

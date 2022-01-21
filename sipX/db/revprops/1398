@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-11-19T21:39:48.849062Z
+K 7
+svn:log
+V 429
+Checking in the start of a tapi-like API built on top of
+call processing.  This API is being built to customer
+requirements and is still under development.  Unit tests
+(sipXtapiTest), a "PlaceCall" example, a "ReceiveCall" 
+example, and doxygen generated API docs are also included.
+
+You must define "SIPXTAPI" when building sipXcallLib to
+receive event notifications.
+
+The examples and unit test will only build under Windows.
+
+
+END

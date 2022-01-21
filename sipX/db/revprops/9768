@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-06-27T20:59:36.668956Z
+K 7
+svn:log
+V 54
+Rolled back to r9766, as r9767 was a mistaken checkin.
+END

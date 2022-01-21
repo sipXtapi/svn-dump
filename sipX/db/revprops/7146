@@ -1,0 +1,38 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-08-01T13:46:09.231799Z
+K 7
+svn:log
+V 1256
+A number of bug fixes and minor enhancements to sipXtapi/call
+processing: 
+
+1) Added an accessor to get the contactId used when creating a line
+   definition.
+2) Added the ability to get the conference handle for a call handle.
+3) Added the ability to find a line given a URL.  Also loosened the
+   logic for finding a line.  We now check for exact matches (user,
+   host, port), followed by user,host) and then just user.
+4) Added some simple URL parsing/replacement utilities (VERY simple)
+5) Fixed the tone listener implementation -- It works better then
+   before, however, some bugs still exist:
+   - ToneIds are still in the 0-16 range -- they do not match the
+   SIPX_TONE_ID (translation is needed in both directions -- receiving
+   and sending).
+   - In some cases ToneIds are not received -- I believe we aren't
+   getting/decoding them in mp.  More investigation needed here.
+6) When acting as the transferee, use the contactId of the
+   SipConnection receiving the REFER method request.  Meaning, if that
+   connection was using a local address (not STUN or relay), then
+   continue to use that local address.
+7) If we create a new call (as a reaction to a transfer), make sure
+   that new call is associated with the conference in sipXtapi.
+
+
+
+END

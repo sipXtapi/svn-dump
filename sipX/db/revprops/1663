@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-19T02:17:50.910699Z
+K 7
+svn:log
+V 181
+Fix adding up weights for scripts.
+Add 'nonrandom' command so subjob scripts can be selected deterministically.
+Add comments.
+Have debugging output show the extra args for scripts.
+
+END

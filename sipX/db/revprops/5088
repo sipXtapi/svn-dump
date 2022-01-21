@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-09-21T15:46:29.907953Z
+K 7
+svn:log
+V 225
+Turn off route debug logging by default
+  (this is very chatty and in some cases may lead people to think
+  there is a problem when none exists; it is intended only for
+  debugging the internal logic - not the configuration)
+
+END

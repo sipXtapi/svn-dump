@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-08-15T21:40:25.832482Z
+K 7
+svn:log
+V 53
+Break CDR into separate RPM and refactor CSE db tests
+END

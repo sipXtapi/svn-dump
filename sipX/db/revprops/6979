@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-06-18T13:06:31.309799Z
+K 7
+svn:log
+V 140
+Change old implicit group name to new name too
+
+Use short form (-l) of --login argument to usermod,
+  since long form does not exist in FC4
+
+END

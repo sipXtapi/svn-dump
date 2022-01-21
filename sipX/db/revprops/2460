@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-25T22:57:19.066426Z
+K 7
+svn:log
+V 1212
+A number of changes to include automatic port selection for the SipUserAgent.  The SipUserAgent can now be configured to automatically select a free port.  Users of the SipUserAgent can query the actual port by invoking the SipUserAgent.getXXXPort() method.
+
+Basic Changes:
+
+- Sockets now save the bind-port instead of the specified port
+- The SipUserAgent now accepts a TLS port (not yet implemented)
+- The semantics for the SIP_XXX_PORT parameters as changed.  Previously an empty value or missing value defaults to some default port.  Now, an empty or missing value will disable that protocol.  All of the code that reads these settings has been updated.  Also, if no configuration file is found, the servers/user agents will generate a file with the default port.  **THIS IS GOING TO CAUSE PROBLEMS -- PLEASE BE AWARE OF THIS**.  
+- I added a helper routine to OsConfigDb that encapsulates the logic for port reading.  This wasn't my first choice, but I didn't want to clone the logic across all of the projects.
+
+TODO: Test disabling of ports.  I expect that disabling some ports will cause problems.  For example, I don't believe we have tested disabling UDP. I noticed some code that clearly won't work.
+
+
+END

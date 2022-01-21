@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-21T15:46:05.617027Z
+K 7
+svn:log
+V 252
+Merged revisions 8334 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+
+........
+  r8334 | dworley | 2006-12-21 22:37:13 +0300 | 4 lines
+  
+  mergefrom pingtel-main 7605
+  
+  Documentation update for OsSysLogFacilities.
+........
+
+END

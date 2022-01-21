@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-04T13:43:50.579283Z
+K 7
+svn:log
+V 175
+Bugfix: MpAudioOutputConnection: Data in muxer buffer was not correctly cleaned after frame have been pushed to device. This caused repetitive noise with increasing strength.
+
+END

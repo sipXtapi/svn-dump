@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-09-15T16:54:32.672089Z
+K 7
+svn:log
+V 37
+Reduce use of wildcards in spec file
+
+END

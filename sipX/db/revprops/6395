@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-03-17T23:01:15.032591Z
+K 7
+svn:log
+V 281
+Added configuration parameters to both proxies:
+
+CONFIG_SETTING_CALL_STATE_DB_NAME
+CONFIG_SETTING_CALL_STATE_DB_USER
+CONFIG_SETTING_CALL_STATE_DB_DRIVER
+
+Fixed crash that happened when the CSE observers were configured to log
+to a database but no connection could be established.
+
+
+END

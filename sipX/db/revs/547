@@ -1,0 +1,257 @@
+id: 3.2g.r547/0
+type: dir
+pred: 3.1q.r546/4432
+count: 381
+text: 546 3643 776 776 78efd41673ba1df57343d94e32ab0a27
+props: 457 12807 513 0 ffb7d480cf0fb96913fb1b9bfb606583
+cpath: /old/sipXportLib/tags/2.8-export-N
+copyfrom: 546 /old/sipXportLib/branches/2.8
+
+PLAIN
+K 5
+2.5.1
+V 17
+dir 3.e.r115/2794
+K 5
+2.5.2
+V 17
+dir 3.h.r169/1469
+K 12
+2.6-export-A
+V 16
+dir 3.t.r290/474
+K 12
+2.6-export-B
+V 16
+dir 3.u.r294/474
+K 12
+2.6-export-C
+V 16
+dir 3.v.r302/474
+K 12
+2.6-export-D
+V 16
+dir 3.w.r303/474
+K 12
+2.6-export-E
+V 16
+dir 3.x.r305/474
+K 12
+2.6-export-F
+V 16
+dir 3.y.r307/474
+K 12
+2.6-export-G
+V 15
+dir 3.10.r311/0
+K 12
+2.6-export-H
+V 15
+dir 3.11.r312/0
+K 12
+2.6-export-J
+V 15
+dir 3.12.r315/0
+K 12
+2.6-export-K
+V 15
+dir 3.13.r318/0
+K 12
+2.6-export-L
+V 15
+dir 3.14.r334/0
+K 12
+2.6-export-M
+V 15
+dir 3.15.r335/0
+K 12
+2.6-export-N
+V 15
+dir 3.16.r336/0
+K 12
+2.6-export-O
+V 15
+dir 3.19.r365/0
+K 12
+2.6-export-P
+V 15
+dir 3.1a.r366/0
+K 12
+2.6-export-Q
+V 15
+dir 3.1b.r368/0
+K 12
+2.6-export-R
+V 15
+dir 3.1c.r369/0
+K 12
+2.6-export-S
+V 15
+dir 3.1l.r376/0
+K 12
+2.6-export-T
+V 15
+dir 3.1m.r386/0
+K 12
+2.6-export-U
+V 15
+dir 3.1o.r392/0
+K 5
+2.6.1
+V 16
+dir 3.z.r309/474
+K 5
+2.6.2
+V 18
+dir 3.1p.r399/1682
+K 12
+2.8-export-A
+V 15
+dir 3.1r.r443/0
+K 12
+2.8-export-B
+V 15
+dir 3.1s.r459/0
+K 12
+2.8-export-C
+V 15
+dir 3.1w.r484/0
+K 12
+2.8-export-D
+V 15
+dir 3.1z.r496/0
+K 12
+2.8-export-E
+V 15
+dir 3.20.r498/0
+K 12
+2.8-export-F
+V 15
+dir 3.24.r505/0
+K 12
+2.8-export-G
+V 15
+dir 3.25.r506/0
+K 12
+2.8-export-H
+V 15
+dir 3.26.r507/0
+K 12
+2.8-export-I
+V 15
+dir 3.27.r509/0
+K 12
+2.8-export-J
+V 15
+dir 3.2c.r518/0
+K 12
+2.8-export-K
+V 15
+dir 3.2d.r521/0
+K 12
+2.8-export-L
+V 15
+dir 3.2e.r537/0
+K 12
+2.8-export-M
+V 15
+dir 3.2f.r545/0
+K 12
+2.8-export-N
+V 15
+dir 3.2g.r547/0
+K 13
+main-export-A
+V 14
+dir 3.p.r276/0
+K 13
+main-export-B
+V 16
+dir 3.q.r282/357
+K 13
+main-export-C
+V 16
+dir 3.r.r288/357
+K 17
+sipxtapi-export-A
+V 15
+dir 3.1u.r469/0
+K 17
+sipxtapi-export-B
+V 18
+dir 3.1y.r500/1096
+K 17
+sipxtapi-export-C
+V 15
+dir 3.22.r501/0
+K 17
+sipxtapi-export-D
+V 15
+dir 3.2b.r513/0
+END
+ENDREP
+id: an.0.r547/2038
+type: dir
+pred: an.0.r545/1999
+count: 55
+text: 547 257 1768 1768 170721ff288fa09cf7c63799691944cb
+cpath: /old/sipXportLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir ar.0.r546/4841
+K 4
+main
+V 17
+dir 3.0.r544/4842
+K 4
+tags
+V 18
+dir an.0.r547/2038
+END
+ENDREP
+id: 2.0.r547/2318
+type: dir
+pred: 2.0.r546/5124
+count: 545
+text: 547 2199 106 106 4e8074d6f9aa273ab9fdeb242f369945
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r547/2318
+END
+ENDREP
+id: 1.0.r547/2529
+type: dir
+pred: 1.0.r546/5335
+count: 546
+text: 547 2472 44 44 76b32c175836d2fa84e36019d81a6419
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r547/2529
+END
+ENDREP
+id: 0.0.r547/2717
+type: dir
+pred: 0.0.r546/5523
+count: 547
+text: 547 2669 35 35 92a50697d59478761889074bc0f483e0
+cpath: /
+copyroot: 0 /
+
+3._0.t546-1 add false false /old/sipXportLib/tags/2.8-export-N
+546 /old/sipXportLib/branches/2.8
+
+2717 2854

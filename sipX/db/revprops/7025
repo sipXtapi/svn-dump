@@ -1,0 +1,779 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-07-03T14:59:14.044967Z
+K 7
+svn:log
+V 36116
+Merged revisions 6929-6930,6932-6934 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+
+  r6929 | bob | 2006-06-08 17:26:38 +0400 | 731 lines
+
+  A number of updates/changes:
+
+  1) Updated sipXtapi branch to include the latest source tree (see commit lists below)
+  2) Updated the wxWidgets WIN32 headers/lib in the sipXcallLib to 2.6.3
+  3) Fixed some svn:externals properties (against my better judgement -- we have dups of the tapi include directory in sipXportLib/include and sipXtackLib/include)
+
+  Change from other branches [NOTE: this has been edited for content]
+
+    ------------------------------------------------------------------------
+    r6637 | mcohen | 2006-06-07 22:10:22 -0400 (Wed, 07 Jun 2006) | 3 lines
+
+    adding transport to target url for sipxConfigSubscribe
+    Removing any angle brackets or url parameters for the URI of the dialog.
+
+    ------------------------------------------------------------------------
+    r6636 | mcohen | 2006-06-07 20:46:59 -0400 (Wed, 07 Jun 2006) | 2 lines
+
+    shutdown of external transport task
+
+    ------------------------------------------------------------------------
+    r6635 | mcohen | 2006-06-07 20:12:49 -0400 (Wed, 07 Jun 2006) | 3 lines
+
+    As it turns out, 127.0.0.0.1 is not a good ip address.
+    127.0.0.1 is much better.
+
+    ------------------------------------------------------------------------
+    r6634 | mcohen | 2006-06-07 20:03:30 -0400 (Wed, 07 Jun 2006) | 2 lines
+
+    new test for external transport / subscribes
+
+    ------------------------------------------------------------------------
+    r6633 | mcohen | 2006-06-07 19:59:45 -0400 (Wed, 07 Jun 2006) | 2 lines
+
+    improved readability
+
+    ------------------------------------------------------------------------
+    r6628 | bandreasen | 2006-06-07 16:54:12 -0400 (Wed, 07 Jun 2006) | 3 lines
+
+    WIN32 sipXtapi project tweaks -- do not use custom build step to populate dirs -- instead use a post-build step  -- this stops confusing the dependencies and allows you to run without be prompted to build.
+
+    ------------------------------------------------------------------------
+    r6623 | mcohen | 2006-06-07 15:34:35 -0400 (Wed, 07 Jun 2006) | 2 lines
+
+    before making a call to handleOutgoing, inspect the SipMessage to see if an external transport mechanism should be looked up and used.
+
+    ------------------------------------------------------------------------
+    r6622 | mcohen | 2006-06-07 15:33:25 -0400 (Wed, 07 Jun 2006) | 3 lines
+
+    Before calling doFirstSend, take custom transport hints from the from-field and to-field, and look up the custom transport if applicable.
+
+    ------------------------------------------------------------------------
+    r6621 | mcohen | 2006-06-07 15:32:02 -0400 (Wed, 07 Jun 2006) | 2 lines
+
+    For subscribes, contstruct a contact with a transport parameter if applicable.
+
+    ------------------------------------------------------------------------
+    r6620 | bandreasen | 2006-06-07 15:28:44 -0400 (Wed, 07 Jun 2006) | 3 lines
+
+    Fix for sipXtapi includes in sipXportLib and sipXtackLib: svn:externals were point to pax-2 branch instead of the pax737 branch.
+
+
+    ------------------------------------------------------------------------
+    r6619 | bandreasen | 2006-06-07 14:56:22 -0400 (Wed, 07 Jun 2006) | 3 lines
+
+    A few more build tweaks for open source -- use cdecl for all callbacks (sipXtackLib and sipXtapiTest were configured used stdcall via SIPX_USE_STDCALL).
+
+
+    ------------------------------------------------------------------------
+    r6618 | bandreasen | 2006-06-07 14:30:02 -0400 (Wed, 07 Jun 2006) | 3 lines
+
+    BuildFixes for open source version of media processing.
+
+    ------------------------------------------------------------------------
+    r6613 | bandreasen | 2006-06-07 13:16:57 -0400 (Wed, 07 Jun 2006) | 8 lines
+
+    A number of changes:
+
+    1) Verify that we can build the open source version of sipXtapi (both debug and release)  I made project changes where needed -- although sipXezPhone doesn't build (need Mike's help on that one).
+    2) Removed some unused variables
+    3) Made sure all of the Video APIs are defined when video is disabled; however, return a non-supported error code.
+    4) If someone enables a STUN keepalive to a target host, pay attention to those results when sending data to it (e.g. populate the local contact with the STUN binding results)
+
+    ------------------------------------------------------------------------
+    r6606 | bandreasen | 2006-06-06 11:02:45 -0400 (Tue, 06 Jun 2006) | 4 lines
+
+    Tweaks to the STUN handling: If the STUN address changes (binding is lost/reallocated), we now update the contact DB and record the new binding information.
+
+
+
+    ------------------------------------------------------------------------
+    r6599 | mcohen | 2006-06-05 10:52:23 -0400 (Mon, 05 Jun 2006) | 2 lines
+
+    initial check in of RTP over TCP stuff
+
+    ------------------------------------------------------------------------
+    r6585 | mcohen | 2006-06-01 22:27:36 -0400 (Thu, 01 Jun 2006) | 2 lines
+
+    Added new test testSendInfoExternalTransport
+
+    ------------------------------------------------------------------------
+    r6572 | bandreasen | 2006-06-01 09:36:16 -0400 (Thu, 01 Jun 2006) | 3 lines
+
+    Some logging tweaks: Don't complain about unknown transports where it is legit and log the contactId details within sipXtapi's sipXacceptCall method.
+
+    ------------------------------------------------------------------------
+    r6568 | mcohen | 2006-05-31 11:38:58 -0400 (Wed, 31 May 2006) | 5 lines
+
+    make a "child transaction" when handling an external transport response.
+
+    Unfortunately, SipTransaction.cpp looks like it needs a complete re-write.
+    Nothing makes any sense in there.
+
+    ------------------------------------------------------------------------
+    r6567 | bandreasen | 2006-05-31 09:25:56 -0400 (Wed, 31 May 2006) | 3 lines
+
+    BugFix: do not assert in sipxDestroyMediaFactory if the factory was never created (e.g. running PlaceCall w/o any params).
+
+    ------------------------------------------------------------------------
+    r6537 | bandreasen | 2006-05-26 09:38:23 -0400 (Fri, 26 May 2006) | 9 lines
+
+    External transport bug fixes: 1) Bogus stun/external transport record, 2) needed to re-add a SIPX_CONTACT_ID param to sipxCallAccept.
+
+    1) When duplicating the STUN contact record for the external transport contact, I forgot to change the contact type resulting in a NAT-derived address showing up as a LOCAL contact.  This broke calls on the same LAN.
+
+    2) When using external transport, the request URI no longer contains the IP address of the callee.  This breaks sipXtapi's ability to automatically select the appropriate contact type for media (if the URI had the NAT address, we would use the NAT address for media).  I re-added the ability to select the contactId form sipXcallAccept.  If using a tunnel -- you likely know better (or will be using ICE).
+
+    ------------------------------------------------------------------------
+    r6522 | mcohen | 2006-05-25 15:13:20 -0400 (Thu, 25 May 2006) | 3 lines
+
+    fix for line registrations - registration failures caused
+    the refresh manager to not attempt to refresh the registration after the failure
+
+    ------------------------------------------------------------------------
+    r6507 | mcohen | 2006-05-23 18:32:53 -0400 (Tue, 23 May 2006) | 2 lines
+
+    The ordering of the BRIDGED, MEDIA_LOCAL_STOP, and MEDIA_REMOTE_STOP events is not guaranteed.
+
+    ------------------------------------------------------------------------
+    r6467 | mcohen | 2006-05-18 15:53:17 -0400 (Thu, 18 May 2006) | 2 lines
+
+    added mutex specifically for call object deletion
+
+    ------------------------------------------------------------------------
+    r6462 | mcohen | 2006-05-18 11:20:10 -0400 (Thu, 18 May 2006) | 2 lines
+
+    fixed tear down issue in testConferenceDisplayName
+
+    ------------------------------------------------------------------------
+    r6460 | bandreasen | 2006-05-17 18:28:44 -0400 (Wed, 17 May 2006) | 1 line
+
+    recording remote contact information - change by Marc Chenier
+
+    ------------------------------------------------------------------------
+    r6456 | mcohen | 2006-05-17 14:53:26 -0400 (Wed, 17 May 2006) | 3 lines
+
+    Added new unit test: testConferenceDisplayName,
+    Adds a 2nd party to the conference using a different line with a display name.
+
+    ------------------------------------------------------------------------
+    r6454 | mcohen | 2006-05-17 11:15:09 -0400 (Wed, 17 May 2006) | 5 lines
+
+    Added waitUntilCall event.  
+    This is very useful for setting up preconditions in unit tests.
+    We don't have to validate every event, we just wait for a specified event and ignore all previous ones.
+
+    ------------------------------------------------------------------------
+    r6443 | mcohen | 2006-05-16 10:27:21 -0400 (Tue, 16 May 2006) | 4 lines
+
+    checking for a positive number of addresses returned from
+    getAllLocalHostIps before trying to use the array,
+
+    ------------------------------------------------------------------------
+    r6436 | mcohen | 2006-05-14 13:56:58 -0400 (Sun, 14 May 2006) | 2 lines
+
+    Made the code surrounding the LoadLibrary of the ipHelper DLL much, much more efficient.
+
+    ------------------------------------------------------------------------
+    r6420 | bandreasen | 2006-05-11 16:07:27 -0400 (Thu, 11 May 2006) | 3 lines
+
+    Fixed some minor boundschecker complaints (uninitialized memory reference)
+
+    ------------------------------------------------------------------------
+    r6418 | mcohen | 2006-05-11 13:45:11 -0400 (Thu, 11 May 2006) | 3 lines
+
+    Added a getName to the queue, for logging purposes.
+    Now logging the queue name when SipUserAgent observer queue is full.
+
+    ------------------------------------------------------------------------
+    r6417 | bandreasen | 2006-05-11 13:00:31 -0400 (Thu, 11 May 2006) | 3 lines
+
+    Don't recommend local ring-back if your receive a 183 response (regardless of SDP).
+
+    ------------------------------------------------------------------------
+    r6413 | mcohen | 2006-05-10 16:40:28 -0400 (Wed, 10 May 2006) | 2 lines
+
+    new display name test.  Checking for "Flibble Flabble" on the second leg of the conference.
+
+    ------------------------------------------------------------------------
+    r6412 | mcohen | 2006-05-10 16:38:54 -0400 (Wed, 10 May 2006) | 2 lines
+
+    Setting the outbound line id for conference adds (nut just the first conference add)
+
+
+    ------------------------------------------------------------------------
+    r6392 | bandreasen | 2006-05-10 09:33:38 -0400 (Wed, 10 May 2006) | 3 lines
+
+    If the NSS runtimes aren't found and a TLS port was specified, log the error and disable TLS instead of failing to initialize sipXtapi.  This is technically a runtime problem, however should never be caused by the user (caused by packager of product)  -- given this, I believe it is better to continue then fail.
+
+    ------------------------------------------------------------------------
+    r6390 | mcohen | 2006-05-10 08:54:30 -0400 (Wed, 10 May 2006) | 3 lines
+
+    shorter wait for shutdown in sipxUninitialize
+
+    ------------------------------------------------------------------------
+    r6389 | bandreasen | 2006-05-10 08:39:46 -0400 (Wed, 10 May 2006) | 9 lines
+
+    A few nat-related changes:
+
+    1) Always enable STUN regardless of 'local' vs non-local (nat/relay) connection attempts if a stun server is specified.  In all cases, we are enabling stun as part of the initial setup, however, were not enabling stun on video sockets under the 'local' case.  This makes the logic more consistent, however, could be optimized later.
+
+    2) Only display "Turn destinaition" OsSysLog message if turn is enabled -- this was being logged when turn wasn't enabled and could be misleading.
+
+    3) We now send stun messages on the media port to the media destination address.  This allows one-way video (or audio) when working through a restricted cone nat.  The default keepalive is currently hard-coded to 28s.
+
+    ------------------------------------------------------------------------
+    r6388 | bandreasen | 2006-05-10 08:18:18 -0400 (Wed, 10 May 2006) | 6 lines
+
+    BugFix: If running multiple versions of sipXtapi on the same machine, sipXtapi could attempt to re-use the same media ports.  This resulted in write failures on the socket.  This was never caught by our unit tests, because we specify different port ranges for media.
+
+    I've updated isPortBusy(...) to verify that the socket is "ok" in addition to checking for available data.  In the case where the port is in use, no data was available and the port was re-used.  With the isOk() check, the port will be marked as busy if it fails to create the socket.
+
+    ------------------------------------------------------------------------
+    r6356 | mcohen | 2006-05-08 11:07:49 -0400 (Mon, 08 May 2006) | 2 lines
+
+    fixed timespec redefinition
+
+    ------------------------------------------------------------------------
+    r6351 | mcohen | 2006-05-06 16:14:07 -0400 (Sat, 06 May 2006) | 2 lines
+
+    Using "relay" contacts in prepareVia correctly now.
+
+    ------------------------------------------------------------------------
+    r6322 | mcohen | 2006-05-04 17:08:30 -0400 (Thu, 04 May 2006) | 3 lines
+
+    Potential fix for the issue of Windows system hibernation, or, more correctly, unhibernating causes timers to be stuck.
+    This required me to add accessors to the various timer objects held onto by other objects
+
+    ------------------------------------------------------------------------
+    r6321 | mcohen | 2006-05-04 17:05:57 -0400 (Thu, 04 May 2006) | 2 lines
+
+    test menu items for PrepareToHibernate and UnHibernate
+
+    ------------------------------------------------------------------------
+    r6320 | mcohen | 2006-05-04 17:04:51 -0400 (Thu, 04 May 2006) | 2 lines
+
+    minor formatting change
+
+    ------------------------------------------------------------------------
+    r6305 | mcohen | 2006-05-04 08:53:13 -0400 (Thu, 04 May 2006) | 2 lines
+
+    more readable
+
+    ------------------------------------------------------------------------
+    r6304 | mcohen | 2006-05-04 08:48:39 -0400 (Thu, 04 May 2006) | 4 lines
+
+    moving the lock release until after the timer is fired prevents a "pure virtual function call" error.
+    The handler of the timer event destroys the data, and the lock release accesses the data.  So, before, it was possible that the 
+    handler would destroy the data before the lock release used it. 
+
+    ------------------------------------------------------------------------
+    r6303 | mcohen | 2006-05-03 20:20:48 -0400 (Wed, 03 May 2006) | 2 lines
+
+    Fixed mismaching Lock/Release pairs.  Moved destroyCallData to only be called from a timer message handler (sipXMessageObserver)
+
+    ------------------------------------------------------------------------
+    r6297 | mcohen | 2006-05-03 14:11:18 -0400 (Wed, 03 May 2006) | 2 lines
+
+    another null pointer check for mpMediaInterface
+
+    ------------------------------------------------------------------------
+    r6278 | mcohen | 2006-05-02 10:52:40 -0400 (Tue, 02 May 2006) | 2 lines
+
+    correct lock release behavior in sipxCallAudioPlayStop
+
+    ------------------------------------------------------------------------
+    r6277 | mcohen | 2006-05-02 10:51:29 -0400 (Tue, 02 May 2006) | 2 lines
+
+    Null pointer check in processInviteRequestReinvite 
+
+    ------------------------------------------------------------------------
+    r6273 | mcohen | 2006-05-02 09:24:24 -0400 (Tue, 02 May 2006) | 2 lines
+
+    Added locking to methods that use hashmap iterators.
+
+    ------------------------------------------------------------------------
+    r6244 | mcohen | 2006-04-28 14:16:22 -0400 (Fri, 28 Apr 2006) | 4 lines
+
+    bMixWithMicrophone and fVolumeScaling parameters added to
+    sipxConferencePlayAudioFileStart()
+
+    ------------------------------------------------------------------------
+    r6196 | mcohen | 2006-04-26 15:11:50 -0400 (Wed, 26 Apr 2006) | 2 lines
+
+    fix to sipxCallStopTone so it doesn't deadlock
+
+    ------------------------------------------------------------------------
+    r6170 | mcohen | 2006-04-25 09:39:40 -0400 (Tue, 25 Apr 2006) | 2 lines
+
+    the handlemap locking here is not needed, the lookup itself is thread-safe, no need to take a lock surrounding the lookup
+
+    ------------------------------------------------------------------------
+    r6154 | mcohen | 2006-04-24 11:01:29 -0400 (Mon, 24 Apr 2006) | 3 lines
+
+    only delete a mutex after its object is deleted.
+    Added locks for gpSessionList
+
+    ------------------------------------------------------------------------
+    r6125 | mcohen | 2006-04-20 11:19:07 -0400 (Thu, 20 Apr 2006) | 2 lines
+
+    fixed typo
+
+    ------------------------------------------------------------------------
+    r6121 | mcohen | 2006-04-20 09:47:54 -0400 (Thu, 20 Apr 2006) | 3 lines
+
+    Removed workaround for the case where the to-tag that we receive has '+' characters.  We are still incorrectly un-escaping those into spaces.
+    However, this workaround was not appropriate, so it is being removed.
+
+    ------------------------------------------------------------------------
+    r6116 | mcohen | 2006-04-19 16:08:56 -0400 (Wed, 19 Apr 2006) | 8 lines
+
+    1.  Only using the SipXHandleMap lock externally, when an external iterator is in use.
+
+    ------------------------------------------------------------------------
+    r6109 | mcohen | 2006-04-19 12:35:33 -0400 (Wed, 19 Apr 2006) | 2 lines
+
+    fixed logging of method name
+
+    ------------------------------------------------------------------------
+    r6107 | mcohen | 2006-04-19 11:29:32 -0400 (Wed, 19 Apr 2006) | 2 lines
+
+    stack trace logging when locks are taken/released for sipxtapi internal objects
+
+    ------------------------------------------------------------------------
+    r6106 | mcohen | 2006-04-19 11:22:58 -0400 (Wed, 19 Apr 2006) | 2 lines
+
+    new tests for sipxCallAudioPlayFileStart and sipxCallAudioPlayFileStop
+
+    ------------------------------------------------------------------------
+    r6105 | mcohen | 2006-04-19 11:12:12 -0400 (Wed, 19 Apr 2006) | 3 lines
+
+    Added a constructor for the OsStackTraceLogger which, in addition to the other parameters, takes a reference to another OsStackTraceLogger object.  Allows the coder to keep track a callstack by creating an logging object that knows about a previous stacktace object.
+
+    ------------------------------------------------------------------------
+    r6095 | mcohen | 2006-04-18 10:49:59 -0400 (Tue, 18 Apr 2006) | 2 lines
+
+    removed lock
+
+    ------------------------------------------------------------------------
+    r6094 | mcohen | 2006-04-18 10:47:10 -0400 (Tue, 18 Apr 2006) | 2 lines
+
+    added lock release in the right place
+
+    ------------------------------------------------------------------------
+    r6059 | mcohen | 2006-04-13 14:43:33 -0400 (Thu, 13 Apr 2006) | 4 lines
+
+    In sipxCallPlayFileStart changed scope of lock.
+    In sipXezPhone moved the playing of the ringback file to PhoneStateRemoteAlerting.cpp
+
+    ------------------------------------------------------------------------
+    r6056 | mcohen | 2006-04-13 14:27:55 -0400 (Thu, 13 Apr 2006) | 2 lines
+
+    Possible crash fix.  We refrain from destroying the call object, if a file is playing on that channel.
+
+    ------------------------------------------------------------------------
+    r6037 | mcohen | 2006-04-11 21:32:50 -0400 (Tue, 11 Apr 2006) | 8 lines
+
+    several changes:
+
+    1.  Remove superfluous locking in sipxCallObjectFree
+    2.  Added a flag to the SIPX_CALL_DATA structure, indicating if the
+        call channel is being used to play a buffer or not (bTonePlaying).
+    3.  Added lookup of and value setting of bTonePlaying in sipxCallStartTone and sipxCallStopTone
+    4.  Only doing something substantive in sipxCallStopTone if bTonePlaying is true.
+
+    ------------------------------------------------------------------------
+    r6036 | mcohen | 2006-04-11 21:26:48 -0400 (Tue, 11 Apr 2006) | 2 lines
+
+    When ' ' (space characters) are escaped, the escaped character should be a '+'
+
+    ------------------------------------------------------------------------
+    r5990 | mcohen | 2006-04-10 10:23:52 -0400 (Mon, 10 Apr 2006) | 4 lines
+
+    Fixed interop issue:  we were sending unescaped spaces in the to-tag of our BYE message.
+    This was a problem for the Televantage sip server.
+    Fixed the issue by always escaping spaces in the to-tag of a BYE message.
+
+    ------------------------------------------------------------------------
+    r5975 | mcohen | 2006-04-07 16:03:31 -0400 (Fri, 07 Apr 2006) | 2 lines
+
+    removed NSS dependencies
+
+    ------------------------------------------------------------------------
+    r5974 | bandreasen | 2006-04-07 15:44:53 -0400 (Fri, 07 Apr 2006) | 1 line
+
+    calling RegCloseKey when done using the registry to get the DNS servers.
+
+    ------------------------------------------------------------------------
+    r5973 | bandreasen | 2006-04-07 15:42:21 -0400 (Fri, 07 Apr 2006) | 1 line
+
+    added a new SdpBody method ?\195?\142?\195?\173?\195?\142?\195?\177 findValueInField
+
+    ------------------------------------------------------------------------
+    r5972 | bandreasen | 2006-04-07 15:40:44 -0400 (Fri, 07 Apr 2006) | 1 line
+
+    searching the a-line of the sdp for sendonly, and setting the remote address
+
+    ------------------------------------------------------------------------
+    r5971 | mcohen | 2006-04-07 15:30:48 -0400 (Fri, 07 Apr 2006) | 3 lines
+
+    Now using the correct callId in sipxConferenceAdd when invoking setOutboundLineForCall
+    ------------------------------------------------------------------------
+    r5959 | mcohen | 2006-04-06 17:31:03 -0400 (Thu, 06 Apr 2006) | 3 lines
+
+    In sipxCallDestroy, increased scope of lock and added null pointer check.
+
+
+    ------------------------------------------------------------------------
+    r5953 | mcohen | 2006-04-06 15:05:12 -0400 (Thu, 06 Apr 2006) | 6 lines
+
+    When doing a consultative transfer, the transfer target has a call leg 'replaced'.
+    If the transfer target UA had previously called sipxCallHold on the replaced call leg, then, after the call leg is replaced, we are now sending a new re-invite to the new call leg.  
+
+    ------------------------------------------------------------------------
+    r5912 | dworley | 2006-04-04 21:57:43 -0400 (Tue, 04 Apr 2006) | 6 lines
+
+    Generate the "target" URIs in dialog events correctly by not putting them
+    in <...>.  Using <...> is syntactically incorrect (they are not part of the
+    URI), and tinyXML doesn't escape them properly.
+
+    ------------------------------------------------------------------------
+    r5872 | mcohen | 2006-04-02 18:02:45 -0400 (Sun, 02 Apr 2006) | 2 lines
+
+    Using the string-pooling compiler switch causes problems in release mode.
+
+    ------------------------------------------------------------------------
+    r5871 | mcohen | 2006-04-02 17:37:05 -0400 (Sun, 02 Apr 2006) | 2 lines
+
+    fixed a typo
+
+    ------------------------------------------------------------------------
+    r5870 | mcohen | 2006-04-02 17:35:11 -0400 (Sun, 02 Apr 2006) | 2 lines
+
+    added logging for when the setNextLocalTransactionInfo function cannot find a dialog with a given handle
+
+    ------------------------------------------------------------------------
+    r5869 | mcohen | 2006-04-02 17:33:55 -0400 (Sun, 02 Apr 2006) | 3 lines
+
+    When populating the array of notifies to be sent, do attempt to add a message to the array
+    if the Dialog Manager's setNextLocalTransactionInfo function fails.
+
+    ------------------------------------------------------------------------
+    r5868 | mcohen | 2006-04-02 17:31:31 -0400 (Sun, 02 Apr 2006) | 2 lines
+
+    Provisional responses for the NOTIFY sent during a transfer were treated as errors.  Changed the code to only react to final responses.
+
+    ------------------------------------------------------------------------
+    r5835 | mcohen | 2006-03-29 15:54:14 -0500 (Wed, 29 Mar 2006) | 2 lines
+
+    Vanquished another evil #define
+
+    ------------------------------------------------------------------------
+    r5834 | mcohen | 2006-03-29 15:30:51 -0500 (Wed, 29 Mar 2006) | 23 lines
+
+    Stop the "#defining"!!!
+
+    The strings used as test URLs were #defined.
+
+    #define URL_JILL_AT_LOCALHOST "sip:jill@example.org"
+
+    However, in the code, the address of the string was sent as a parameter to both a listener-add and a listener-removal function,
+    similar to the code below:
+
+
+    sipxEventListenerAdd(...,  (void*)URL_JILL_AT_LOCALHOST);
+    sipxEventListenerRemove(...,  (void*)URL_JILL_AT_LOCALHOST);
+
+    The memory for the string can be differently allocated for each appearance in the code!!!
+
+    PLEASE, DO NOT #define string constants!!!!!!
+
+    Instead, use something like:
+
+    const char* const szURL_JILL_AT_LOCALHOST = "sip:jill@example.org";
+
+    ------------------------------------------------------------------------
+    r5832 | mcohen | 2006-03-29 14:11:21 -0500 (Wed, 29 Mar 2006) | 2 lines
+
+    Removed superfluous locks.
+
+    ------------------------------------------------------------------------
+    r5818 | mcohen | 2006-03-29 11:39:31 -0500 (Wed, 29 Mar 2006) | 2 lines
+
+    Only fire the REMOTE_SILENCE event if we are in a connected state.
+
+    ------------------------------------------------------------------------
+    r5795 | mcohen | 2006-03-28 09:18:03 -0500 (Tue, 28 Mar 2006) | 3 lines
+
+    removed sprintf using %I64.
+    replaced '/' character with '_' for interop purposes.
+
+    ------------------------------------------------------------------------
+    r5749 | mcohen | 2006-03-25 14:52:26 -0500 (Sat, 25 Mar 2006) | 26 lines
+
+    A fix for hold/unhold: The code that record when the end user places a call on 
+    hold (so that it knows if a remote party can take it off hold) was flawed.
+
+    For example:
+
+      A  calls  B
+      B  holds  A
+      A  holds  B
+      A unholds B
+
+      At this point, B should still be in the HELD state and A should be on
+      REMOTE_HOLD.
+
+    The code which noted the "locally initiated hold" state was guarded by a hold 
+    state check.  Resulting in the following failure:
+      
+      A  calls  B
+      B  holds  A
+      A  holds  B
+      B unholds A  
+
+      At this point, both parties were taken off hold (A should have still forced
+      hold) -- Specifically A was BRIDGED when it should have been HELD.
+
+    ------------------------------------------------------------------------
+    r5748 | mcohen | 2006-03-25 12:01:57 -0500 (Sat, 25 Mar 2006) | 9 lines
+
+    Fixed a problem where the sipXtapi line id was incorrect on the transferee 
+    during blind and consultative transfers.
+
+    We were not setting the contact info correctly in SipConnection when creating 
+    a new call for the purpose of transfer.  This impacted SipConnection and the
+    unit tests.  Also, removed a different attempt at fixing this.
+
+
+
+    ------------------------------------------------------------------------
+    r5747 | mcohen | 2006-03-25 10:50:47 -0500 (Sat, 25 Mar 2006) | 17 lines
+
+    Outbound line id fix for transfer and patch for a possible buffer overrun on 
+    inbound SIP messages
+
+    1) Outbound line fix: When initiating a consultative transfer, use the outbound 
+       line of the original call.  TODO: Same logic must be applied for blind 
+       transfer.
+    2) When parsing the cseq msg -- if not method was included, the user could 
+       overrun a buffer on the stack (Buffer overrun exploit).  This has been 
+       patched.
+
+    WARNING: The buffer overrun patch in SipMessage *SHOULD* be branched to ALL
+    branches/code -- this bug is on all of our systems and could result in 
+    remote exploits -- A SECURITY ADVISOR WILL BE POSTED SHORTLY from an 
+    independant security agency.
+                       
+    ------------------------------------------------------------------------
+    r5724 | mcohen | 2006-03-23 13:32:36 -0500 (Thu, 23 Mar 2006) | 2 lines
+
+    added new unit test: testCallBasicNoRtcp
+
+    ------------------------------------------------------------------------
+    r5721 | mcohen | 2006-03-23 09:53:28 -0500 (Thu, 23 Mar 2006) | 1 line
+
+    fixed build
+    ------------------------------------------------------------------------
+    r5710 | mcohen | 2006-03-22 16:21:29 -0500 (Wed, 22 Mar 2006) | 2 lines
+
+    release versions should link cppunit.lib, not cppunitd.lib
+
+    ------------------------------------------------------------------------
+    r5708 | mcohen | 2006-03-22 16:07:38 -0500 (Wed, 22 Mar 2006) | 2 lines
+
+    Null pointer check.
+
+    ------------------------------------------------------------------------
+    r5707 | mcohen | 2006-03-22 16:06:20 -0500 (Wed, 22 Mar 2006) | 3 lines
+
+    Added ringback tone, implemented as a looped playback of a file.
+    This tests some of sipXtapi's file playing code with respect to call state.
+
+    ------------------------------------------------------------------------
+    r5706 | mcohen | 2006-03-22 16:03:41 -0500 (Wed, 22 Mar 2006) | 2 lines
+
+    Added object locking for SUBSCRIPTION and PUBLISHER data
+
+    ------------------------------------------------------------------------
+    r5705 | mcohen | 2006-03-22 16:02:26 -0500 (Wed, 22 Mar 2006) | 2 lines
+
+    removed logging
+
+    ------------------------------------------------------------------------
+    r5704 | mcohen | 2006-03-22 16:01:48 -0500 (Wed, 22 Mar 2006) | 2 lines
+
+    added another sipxPublisherUpdate test case
+
+    ------------------------------------------------------------------------
+    r5703 | mcohen | 2006-03-22 15:03:32 -0500 (Wed, 22 Mar 2006) | 24 lines
+
+    Changed the following For Loop:
+
+    From:
+
+            for(int notifyIndex = 0;
+                notifyArray != NULL && 
+                  notifyIndex < numSubscriptions && 
+                  notifyArray[notifyIndex+1] != NULL;
+                notifyIndex++)
+
+    To:
+
+            for(int notifyIndex = 0;
+                notifyArray != NULL && 
+                  notifyIndex < numSubscriptions && 
+                  notifyArray[notifyIndex] != NULL;
+                notifyIndex++)
+
+    Checking notifyArray[notifyIndex+1] was causing bad behavior, i.e. - not all notifies were being sent.
+    Didn't crash though, which is odd - and also, Purify never complained
+    about an out of bounds exception??
+    This change fixed the problem where all notifies were not being sent.
+
+
+    ------------------------------------------------------------------------
+    r5686 | mcohen | 2006-03-21 13:32:32 -0500 (Tue, 21 Mar 2006) | 2 lines
+
+    delays needed in test so that the autoanswer callback events are received
+
+    ------------------------------------------------------------------------
+    r5683 | mcohen | 2006-03-20 17:57:50 -0500 (Mon, 20 Mar 2006) | 2 lines
+
+    generating "Program Databases" (debug symbols) for Release configurations
+
+    ------------------------------------------------------------------------
+    r5682 | mcohen | 2006-03-20 15:58:17 -0500 (Mon, 20 Mar 2006) | 4 lines
+
+    Introduced a new state:
+    SIPX_INTERNAL_CALLSTATE_DESTROYING.
+    This prevents sipxCallDestroy from being called for the same call.
+
+    ------------------------------------------------------------------------
+    r5678 | mcohen | 2006-03-20 13:28:13 -0500 (Mon, 20 Mar 2006) | 2 lines
+
+    removed Mozilla NSS api from projects/ solutions
+
+    ------------------------------------------------------------------------
+    r5676 | mcohen | 2006-03-20 13:23:09 -0500 (Mon, 20 Mar 2006) | 2 lines
+
+    In sipxConferenceAdd, calling the CallManager::setOUtboundLineForCall
+
+    ------------------------------------------------------------------------
+    r5675 | mcohen | 2006-03-20 13:19:46 -0500 (Mon, 20 Mar 2006) | 3 lines
+
+    If attempting to play audio, and there is no connection, call
+    mpMediaInterface->playAudio, instead of mpMediaInterface->playChannelAudio
+
+    ------------------------------------------------------------------------
+    r5673 | mcohen | 2006-03-20 11:28:38 -0500 (Mon, 20 Mar 2006) | 2 lines
+
+    added sipxPublisherUpdate to tests
+
+    ------------------------------------------------------------------------
+    r5672 | mcohen | 2006-03-20 11:27:50 -0500 (Mon, 20 Mar 2006) | 2 lines
+
+    removed hardcoded facility and priority from OsStackTraceLogger
+
+
+    ------------------------------------------------------------------------
+    r5669 | mcohen | 2006-03-20 11:12:47 -0500 (Mon, 20 Mar 2006) | 5 lines
+
+    1.  Added stack trace logging to sipXtapi.cpp
+    2.  Modified SipConnection so that it is notifies the MediaEventEmitter that it is being destroyed.
+    3.  Added a CallLock to sipXtapi - an extra measure to ensure thread safety.
+
+    ------------------------------------------------------------------------
+    r5642 | dworley | 2006-03-16 11:49:14 -0500 (Thu, 16 Mar 2006) | 5 lines
+
+    Define symbol FORMAT_INTLL to provide the printf format length
+    specifier for values of type intll.
+    (This is needed because it is not standardized.)
+    Update CpCallManager to use FORMAT_INTLL.
+
+    ------------------------------------------------------------------------
+    r5637 | dworley | 2006-03-15 16:35:32 -0500 (Wed, 15 Mar 2006) | 3 lines
+
+    Update getNewCallId(const char*, UtlString*) to be static.
+    Add test that it is working properly.
+
+    ------------------------------------------------------------------------
+    r5632 | dworley | 2006-03-14 18:19:40 -0500 (Tue, 14 Mar 2006) | 4 lines
+
+    Update the handling of CpCallManager::mCallNum to match that in Pingtel-main,
+    viz., as an 8-byte signed integer (intll).  This requires installing a typedef
+    of "intll" into UtlDefs.h
+
+    ------------------------------------------------------------------------
+    r5628 | mcohen | 2006-03-14 14:06:45 -0500 (Tue, 14 Mar 2006) | 3 lines
+
+    The callId must be set before any sipXtapi events are fired, or
+    the events will never bubble up to the application.
+
+    ------------------------------------------------------------------------
+    r5620 | dworley | 2006-03-13 16:23:26 -0500 (Mon, 13 Mar 2006) | 4 lines
+
+    Set the CallManager to tell its SipUserAgent to add "Supported:
+    replaces" and to accept "Require: replaces".  This is OK because the
+    CallManager implements the INVITE-with-Replaces logic.
+
+    ------------------------------------------------------------------------
+    r5619 | dworley | 2006-03-13 15:28:16 -0500 (Mon, 13 Mar 2006) | 2 lines
+
+    Update the cppunit include file to work with either 1.11 or 1.10.
+
+    ------------------------------------------------------------------------
+    r5606 | bandreasen | 2006-03-10 13:58:58 -0500 (Fri, 10 Mar 2006) | 3 lines
+
+    Updated solution to use the no-security sipXtack project
+
+........
+  r6930 | bob | 2006-06-08 18:42:35 +0400 | 15 lines
+  
+  BuildFix: Linux build
+  
+  1) I left in a few WIN32ism (OuputDebugString and Sleep)
+  2) FC5/gcc 4.1.1-1 is fairly picky -- It does not allows the following:
+  
+  class MyClassName
+  {
+  public:
+     void MyClassName::MyFunction1() ;
+     void MyFunction2() ;
+  }
+  
+  An error was thrown whenever a function declaration followed the MyFunction1 example.
+........
+  r6932 | bob | 2006-06-08 20:55:40 +0400 | 3 lines
+  
+  Checking in missing files (merged blunder)
+........
+  r6933 | bob | 2006-06-08 21:02:17 +0400 | 3 lines
+  
+  More missed files...
+........
+  r6934 | bob | 2006-06-08 22:13:53 +0400 | 3 lines
+  
+  Debug build of sipXezPhone should use debug lib of sipXportLib -- not release version.
+........
+
+
+END

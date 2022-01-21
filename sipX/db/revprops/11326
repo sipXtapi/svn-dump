@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-04-30T18:52:57.566170Z
+K 7
+svn:log
+V 263
+sipXsdpLib: Relax RFC4733 tones ftp check by default when performing SDP negotiation.
+Previous version was correct, but introduced too much incompatibility with other implementations. If you want you still can enable it by defining SDP_RFC4733_STRICT_FMTP_CHECK.
+
+END

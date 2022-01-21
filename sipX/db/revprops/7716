@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-10-10T05:20:19.408718Z
+K 7
+svn:log
+V 309
+XCF-1308 Refactor how phone and to a degree how gateway models are declared. Define all phone models in spring files, make model_id required and unique within the system, add TestPhone to test phone api, instead of sample AcmePhone, have only 1 place to register phone models ModelSource instead of Enum class
+END

@@ -1,0 +1,193 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: d4.0.r554/82
+type: file
+pred: d4.0.r550/2779
+count: 1
+text: 550 0 711 1123 8e6486af3bf84a9d850032c4f9ae5d67
+props: 554 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/syslogviewer/README
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file 8z.0.r381/146164
+K 6
+README
+V 17
+file d4.0.r554/82
+K 6
+main.c
+V 19
+file 90.0.r550/2540
+END
+ENDREP
+id: 8y.0.r554/440
+type: dir
+pred: 8y.0.r550/3069
+count: 11
+text: 554 309 118 118 ad37f3f558facb0d0d57d7af67de8015
+props: 187 1701 72 0 7e7839f806998caa7ca8ab99628e9156
+cpath: /old/sipXportLib/main/syslogviewer
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 20
+file 4.0.r381/145534
+K 9
+ChangeLog
+V 20
+file 5.0.r444/130192
+K 7
+INSTALL
+V 18
+file 6.0.r514/2774
+K 7
+LICENSE
+V 20
+file 7.0.r444/115426
+K 11
+Makefile.am
+V 17
+file 8.0.r456/117
+K 4
+NEWS
+V 20
+file 9.0.r381/150995
+K 6
+README
+V 20
+file a.0.r381/145234
+K 4
+TODO
+V 20
+file b.0.r381/149109
+K 9
+acsite.m4
+V 19
+file c.0.r381/72051
+K 3
+bin
+V 20
+dir as.0.r444/156183
+K 6
+config
+V 17
+dir 91.0.r536/807
+K 12
+configure.ac
+V 19
+file d.0.r490/19311
+K 3
+doc
+V 20
+dir ac.0.r444/153746
+K 7
+include
+V 17
+dir e.0.r551/5632
+K 4
+meta
+V 18
+dir b6.0.r425/2853
+K 15
+sipXportLib.dsp
+V 20
+file 4c.0.r522/17767
+K 18
+sipXportLib.vcproj
+V 18
+file ba.0.r462/771
+K 19
+sipxportlib.spec.in
+V 18
+file aq.0.r442/445
+K 3
+src
+V 18
+dir 4d.0.r553/4401
+K 12
+syslogviewer
+V 17
+dir 8y.0.r554/440
+END
+ENDREP
+id: 3.0.r554/1456
+type: dir
+pred: 3.0.r553/5412
+count: 442
+text: 554 665 778 778 1ce673b71a50adaebcc51f796ba6b052
+props: 542 7001 824 0 e74749dd2c6848e0ede3f78b372a26db
+cpath: /old/sipXportLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir ar.0.r546/4841
+K 4
+main
+V 17
+dir 3.0.r554/1456
+K 4
+tags
+V 18
+dir an.0.r547/2038
+END
+ENDREP
+id: 2.0.r554/1788
+type: dir
+pred: 2.0.r553/5745
+count: 552
+text: 554 1669 106 106 c1b48685b9c53a78c22040db220c4216
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r554/1788
+END
+ENDREP
+id: 1.0.r554/1999
+type: dir
+pred: 1.0.r553/5956
+count: 553
+text: 554 1942 44 44 ffeb65851bc5a88ffe74f8d8d87be1db
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r554/1999
+END
+ENDREP
+id: 0.0.r554/2187
+type: dir
+pred: 0.0.r553/6144
+count: 554
+text: 554 2139 35 35 9f1ce0e2cfcf449cab8592896bb2a605
+cpath: /
+copyroot: 0 /
+
+d4.0.t553-1 modify false true /old/sipXportLib/main/syslogviewer/README
+
+
+2187 2324

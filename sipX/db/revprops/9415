@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-04-26T17:05:30.466629Z
+K 7
+svn:log
+V 360
+Previous commit fixed XCL-127 "If you call sipxConfigEnableStun multiple times very fast, no stun response is received because we call enableStun(szServer, iServerPort, iKeepAliveInSecs, NULL) in it , which causes the old Notification object in OsNatDatagramSocket to be overwritten with NULL, so they don't know where to send the result. ", not a memory leak.
+END

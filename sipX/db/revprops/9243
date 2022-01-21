@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-04-04T18:23:44.956790Z
+K 7
+svn:log
+V 312
+Windows CE 6.0 changes.
+Fix getFileInfo implementation so that it works properly under Windows CE.
+
+Enable some tests that were disabled under CE previously.
+
+NOTE: This will result in some currently expected failures.
+This needs to be fixed though, as it is some fairly crucial functionality dealing with files.
+END

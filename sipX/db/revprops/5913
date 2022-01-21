@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-19T21:42:24.781175Z
+K 7
+svn:log
+V 185
+XCF-844 instead of loading phones from the database when scheduling profile generation, we are loading them only when actually generating profiles
+scheduling only requires phone id now
+
+END

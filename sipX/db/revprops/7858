@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-28T13:49:06.136451Z
+K 7
+svn:log
+V 60
+mergefrom sipx 7849
+
+Merge r7832, r7831 from sipfoundry 3.6
+
+END

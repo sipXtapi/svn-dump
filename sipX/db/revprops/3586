@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-02-25T17:18:57.851512Z
+K 7
+svn:log
+V 759
+Added "Use caller sensitive forwarding" option to "Emergency Dialing Rule" screen.
+Added link from Emergency Dialing to Caller Sensitive Forwarding.
+
+Some changes in the algorithm that places rules in mappingrules.xml vs. fallbackrules.xml. Before the presence of gateways was used to determine if rule is places in fallbackrules.xml (all rules with gateways were "external", all rules without them were considered internal and places in mappingrules). I added DialingRule.isInternal function that supersedes the former mechanism. It was needed because sos calls are forwarded to mediaserver (not to the gateway) and the rule responsible for that needs to be located in fallbackrules.xml.
+
+Database schema updated to allow for storing "useMediaServer" field.
+
+END

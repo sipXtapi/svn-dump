@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-02-25T19:06:07.392572Z
+K 7
+svn:log
+V 250
+All kinda related: XCF-197 Remove servlet filter so autosave doesn't happen on cancel, XCF-196 duplicate endpoints showing up when it has multiple lines, XCF-199, NOT RESOLVED, but progress by adding a test suite workaround until I have a better idea
+END

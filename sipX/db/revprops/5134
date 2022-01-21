@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-23T18:21:51.266907Z
+K 7
+svn:log
+V 316
+Provide a sample log4j.properties for convenience.  Rename it to log4j.properties to activate it.  Check in a sample file rather than an actual log4j.properties file so that changes to logging parameters in log4j.properties don't appear as a modified source file, since log4j.properties is not under source control.
+
+END

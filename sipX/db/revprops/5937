@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-01-23T22:41:19.487912Z
+K 7
+svn:log
+V 149
+XCF-811 - Report a UserException when attempting to change a user name w/o changing the PIN.  Web ui will show form error, SOAP will report exception
+END

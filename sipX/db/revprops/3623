@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-07T15:52:07.675316Z
+K 7
+svn:log
+V 133
+XCF-220 - Remove a unittest that deals w/application config deployment. Eclipse was compiling only, so it's why build was succeeding.
+END

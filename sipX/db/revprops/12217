@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2014-07-08T21:52:06.522375Z
+K 7
+svn:log
+V 93
+Fixed include path for plgopus for case when not building/configure directly in sipXmediaLib
+
+END

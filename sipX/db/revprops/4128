@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-07-30T16:17:00.297712Z
+K 7
+svn:log
+V 264
+XPB-15:
+Clean up start/stop scripts to do all the startup correctly.
+
+We need the various config server components to record .pid files in $prefix/var/run , and bin/sipxpbx.in needs to then get the names of those processes added to the list of processes to stop.
+
+
+END

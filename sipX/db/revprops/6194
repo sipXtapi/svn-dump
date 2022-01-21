@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-21T20:11:12.177363Z
+K 7
+svn:log
+V 442
+XCF-753 fix for EditCallGroup unit tests
+we no longer can use SiteTestHelper.submitLink (which is probably a good think since it was a hack)
+Tapestry 4 javascript is much cleaner and we can use httpunit/rhino support to execute javascript on client side during unit tests: I checked in js.jar (rhino)
+When writing unit tests one can treat submit links as any other links. To click it use "clickLink" method and pass link id (not link name!).
+
+END

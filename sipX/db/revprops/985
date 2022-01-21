@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-05-13T16:24:20.188938Z
+K 7
+svn:log
+V 168
+Oops.  FOrgot to check in SdpBody.cpp with the HttpBody.h
+change.  HttpBody is now inherits from UtlString.  The
+parent now stores the HttpBody's content-type member.
+
+
+END

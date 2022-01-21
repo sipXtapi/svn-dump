@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-03-25T00:07:24.538771Z
+K 7
+svn:log
+V 513
+Media services stability improvements
+    Force MailboxManager to use non-persistent HTTP connections.
+    Change default persistent connection parameter to be false
+    for HttpMessage and HttpServer, enable persistent connections
+    in MwiPlugin.
+    reduce timeout on mailbox status probe to 3 seconds
+    shorten timeout for mailbox update request and clarify log entry for it
+    Do not invalidate an SSL Server Socket when the SSL handshake fails
+    Reducing timeout values an logging timed out functions
+
+END

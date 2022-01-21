@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-05-08T19:02:24.967082Z
+K 7
+svn:log
+V 157
+Merge rev 6775 from Sipfoundry 3.4
+
+XPR-158: Don't do name resolution if the contact is a domain name instead
+of an IP address. Add unit test for that case.
+
+END

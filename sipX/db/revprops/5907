@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-01-19T17:47:29.559306Z
+K 7
+svn:log
+V 80
+FIX BUILD: Rpm build, need to clean sipxvxml root build dir before rpm packaging
+END

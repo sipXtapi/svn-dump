@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-15T15:44:35.764219Z
+K 7
+svn:log
+V 91
+XCF-244 Use buildtime settings for log data and etc directories instead of from config.defs
+END

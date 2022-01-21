@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-07-06T16:49:58.506615Z
+K 7
+svn:log
+V 72
+Fix build under Windows. Resource file was corrupted by
+last svn-merge.
+
+END

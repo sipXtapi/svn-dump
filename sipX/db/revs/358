@@ -1,0 +1,168 @@
+PLAIN
+K 10
+svn:ignore
+V 134
+*-buildstamp.cpp
+*-buildstamp.h
+config.guess
+config.sub
+depcomp
+install-sh
+ltmain.sh
+missing
+mkinstalldirs
+sipX-config
+sipXcommon.mak
+
+END
+ENDREP
+id: 91.0.r358/174
+type: dir
+pred: 91.0.r357/480
+count: 89
+text: 356 727 376 376 136a1b7814eb22e453e730a7d9482025
+props: 358 0 161 0 ebc1a9362b3b594e296e14a3a1bcf1aa
+cpath: /old/sipXportLib/main/config
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 19
+file 4.0.r22/520744
+K 9
+ChangeLog
+V 17
+file 5.0.r310/497
+K 7
+INSTALL
+V 18
+file 6.0.r343/1277
+K 7
+LICENSE
+V 19
+file 7.0.r22/418615
+K 11
+Makefile.am
+V 18
+file 8.0.r355/1362
+K 4
+NEWS
+V 19
+file 9.0.r22/520483
+K 6
+README
+V 16
+file a.0.r99/462
+K 4
+TODO
+V 18
+file b.0.r25/34332
+K 9
+acsite.m4
+V 19
+file c.0.r22/469495
+K 3
+bin
+V 17
+dir as.0.r357/778
+K 6
+config
+V 17
+dir 91.0.r358/174
+K 12
+configure.ac
+V 17
+file d.0.r347/987
+K 3
+doc
+V 16
+dir ac.0.r357/74
+K 7
+include
+V 17
+dir e.0.r353/4135
+K 15
+sipXportLib.dsp
+V 19
+file 4c.0.r237/2071
+K 19
+sipxportlib.spec.in
+V 19
+file aq.0.r355/1584
+K 3
+src
+V 18
+dir 4d.0.r352/2188
+K 12
+syslogviewer
+V 18
+dir 8y.0.r337/1290
+END
+ENDREP
+id: 3.0.r358/1081
+type: dir
+pred: 3.0.r357/2060
+count: 308
+text: 358 390 678 678 a07c59dbc6ffcdbaf496fa78c9e048fc
+props: 357 1682 365 0 862097bfe4573ca428fdadce097781b4
+cpath: /old/sipXportLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir ar.0.r346/2871
+K 4
+main
+V 17
+dir 3.0.r358/1081
+K 4
+tags
+V 18
+dir an.0.r336/1000
+END
+ENDREP
+id: 2.0.r358/1413
+type: dir
+pred: 2.0.r357/2392
+count: 356
+text: 358 1294 106 106 e380a594301d615e9100f974e28c962c
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r358/1413
+END
+ENDREP
+id: 1.0.r358/1624
+type: dir
+pred: 1.0.r357/2603
+count: 357
+text: 358 1567 44 44 354e123070a23b409d65ee6ce5c42629
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r358/1624
+END
+ENDREP
+id: 0.0.r358/1812
+type: dir
+pred: 0.0.r357/2791
+count: 358
+text: 358 1764 35 35 02d356faa077e5bfe776d80de842ef4e
+cpath: /
+copyroot: 0 /
+
+91.0.t357-1 modify false true /old/sipXportLib/main/config
+
+
+1812 1949

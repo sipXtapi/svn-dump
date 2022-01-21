@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-06T18:30:33.415931Z
+K 7
+svn:log
+V 58
+Roll back commit 292, as I expanded the tabs incorrectly.
+
+END

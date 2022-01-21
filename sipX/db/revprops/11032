@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-05T19:53:27.719765Z
+K 7
+svn:log
+V 538
+Fix deadlocks in Windows output driver.
+With WMM you're alowed to call only tight set of functions from device callback (see MSDN documentation for waveOutOpen()), while we used to send ticker notification with mpNotifier->signal() from there, which led to call of MpodWinMM::pushFrame() and in turn waveOutWrite(). This sequence causes deadlock deep inside of WMM code in recent Vista versions.
+So, to workaround this we've created a separate thread which do nothing but waits for sugnal from WMM callback and sends ticker notification.
+
+END

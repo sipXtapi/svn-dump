@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-04-26T15:58:21.930945Z
+K 7
+svn:log
+V 305
+On 484 "Address Incomplete" response on INVITE, fire (CALLSTATE_DISCONNECTED,CALLSTATE_CAUSE_BAD_ADDRESS) event from calllib instead of (CALLSTATE_DISCONNECTED,CALLSTATE_CAUSE_UNKNOWN) as we know the cause. Internal state of connection is set to the same state as with unknown reason - CONNECTION_FAILED. 
+END

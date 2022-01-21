@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-03-04T14:36:31.246718Z
+K 7
+svn:log
+V 127
+sipXtapi - added sipxConfigSetDnsSrvFailoverTimeout.
+ Allows for the setting of the failover time for DNS SRV record lookups.
+
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-09T19:59:30.886331Z
+K 7
+svn:log
+V 55
+Fix comments on 'export CFLAGS'.
+
+Fix value of SCRIPT.
+
+END

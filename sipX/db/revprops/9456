@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-05-01T22:52:09.026286Z
+K 7
+svn:log
+V 171
+More small tweaks to VS 2005 projects, removed Release build for tests as they are not needed and weren't configured properly anyway, Debug build should be used for tests.
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-05T12:27:52.769167Z
+K 7
+svn:log
+V 245
+Remove SdpCodec::SDP_CODEC_GIPS_PCM[A|U] and replace it with more generic SdpCodec::SDP_CODEC_PCM[A|U].
+There was strange situation, when SDP_CODEC_GIPS_PCM[A|U] where used even if no GIPS is present and SDP_CODEC_PCM[A|U] were not used at all.
+
+END

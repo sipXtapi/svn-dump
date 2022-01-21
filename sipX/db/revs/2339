@@ -1,0 +1,105 @@
+id: 1y5.bk.r2339/0
+type: dir
+pred: 1y5.0.r2337/1237
+count: 34
+text: 2337 579 645 645 13553ff3b1666c930533acdf0f40f9a0
+props: 2332 0 258 0 1a61ae1164ac0c19824dad4e3902e67e
+cpath: /old/sipXregistry/branches/post-2.6.1
+copyfrom: 2338 /old/sipXregistry/main
+
+PLAIN
+K 10
+post-2.6.1
+V 18
+dir 1y5.bk.r2339/0
+END
+ENDREP
+id: 1zf.0.r2339/312
+type: dir
+pred: 1zf.0.r2338/0
+count: 1
+text: 2339 255 44 44 d7c208f6812dd348af83ca8e24fb4ec5
+cpath: /old/sipXregistry/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 1zf.0.r2339/312
+K 4
+main
+V 20
+dir 1y5.0.r2337/1237
+K 4
+tags
+V 20
+dir 1z5.0.r2316/1476
+END
+ENDREP
+id: 1y4.0.r2339/599
+type: dir
+pred: 1y4.0.r2338/209
+count: 40
+text: 2339 474 112 112 12c8d204b90937c6da5939d4b8690f34
+cpath: /old/sipXregistry
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 12
+sipXregistry
+V 19
+dir 1y4.0.r2339/599
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2339/1074
+type: dir
+pred: 1.0.r2338/684
+count: 2338
+text: 2339 757 304 304 1abafcfb0130f385e5ab26c91c076065
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2339/1074
+END
+ENDREP
+id: 0.0.r2339/1267
+type: dir
+pred: 0.0.r2338/876
+count: 2339
+text: 2339 1218 36 36 fdca51667856057eb915221adda8feb1
+cpath: /
+copyroot: 0 /
+
+1y5._0.t2338-1 add false false /old/sipXregistry/branches/post-2.6.1
+2338 /old/sipXregistry/main
+
+1267 1407

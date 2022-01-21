@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-17T22:06:58.818771Z
+K 7
+svn:log
+V 603
+XCF-1407 add ability to localize enumeration labels in sipXconfig setting files
+Enumeration type label keys have to be added to .properties file coresponding to the model in which types are used (usually phone.properties or line.properties)
+sipXconfig will use the value from .xml file in the label key is not found.
+Label key can be constructed in couple ways
+(1) from type id - type.{type id}.{option value}
+(2) from explicit 'labelKeyPrefix' - {labelKeyPrefix}.{option value}
+(3) from the name of the setting for which type is used - {full setting name}.label.{option value} 
+check wiki for examples
+
+END

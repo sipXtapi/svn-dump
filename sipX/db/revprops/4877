@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-08-04T13:51:29.544249Z
+K 7
+svn:log
+V 136
+re-added glib references in the .vcproj for
+sipXezPhone
+In this branch of the code
+glib-2.0.lib and gthread-2.0.lib must
+be linked-in.
+
+
+END

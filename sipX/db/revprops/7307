@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-08-21T07:50:29.088112Z
+K 7
+svn:log
+V 398
+Merged revisions 7301 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7301 | bob | 2006-08-19 17:44:11 +0400 | 5 lines
+  
+  1) Fixed some argument inconsistency problems found by Wolfgang Pichler on sipxInitialize/sipxReInitialize.  
+  2) Updated the docs on sipxReInitialize to spell out that users must also reconfigure the stack (e.g. rport, etc).
+........
+
+END

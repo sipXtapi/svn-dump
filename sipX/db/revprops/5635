@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-11-23T04:10:11.315351Z
+K 7
+svn:log
+V 395
+Update all setting models to 2.0, this should fix issue w/build breaking w/o network connection.  Why? because xmlvalidate ant task defined DTD for 1.0 models, but not 2.0 models, hence this went out to sipfoundry to resolve.  I thought of just adding 2.0 to xmlvalidate, but then i'd have to download 1.0 dtd and put it in meta directory. more mess then officially updating all the dtd versions
+END

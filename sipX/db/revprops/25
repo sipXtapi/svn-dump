@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-05-31T02:56:27.056636Z
+K 7
+svn:log
+V 261
+Convert all OsRegExp (roguewave) regular expression usages
+to utl/UtlRegex (pcre).
+Added pointer to TODO to the tracker
+Assorted incidental cleanups.
+
+Comment out all failing unit tests - most of the new failures
+appear to be due to bugs in appending strings.
+
+
+END

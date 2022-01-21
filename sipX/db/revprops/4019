@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-06-08T19:32:34.033872Z
+K 7
+svn:log
+V 106
+ENG-131 Check that DNS IP and Local IP match, otherwise fail --configtest, which issues warning on startup
+END

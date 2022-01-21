@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-05-04T13:17:30.622308Z
+K 7
+svn:log
+V 775
+Merged revisions 492-493 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXportLib/branches/2.8
+    ------------------------------------------------------------------------
+    r492 | mardy | 2005-03-31 14:55:37 -0500 (Thu, 31 Mar 2005) | 2 lines
+    Changed paths:
+       M /branches/2.8/src/os/OsUtil.cpp
+    
+    Removed exception throw and replaced with error log in OsUtil::insertKeyValue.
+    
+    ------------------------------------------------------------------------
+    r493 | mardy | 2005-03-31 16:15:51 -0500 (Thu, 31 Mar 2005) | 3 lines
+    Changed paths:
+       M /branches/2.8/src/test/os/OsMsgQTest.cpp
+    
+    Remove portion of unit test that attempts to catch exception from
+    OsUtil::insertKeyValue() since we no longer throw exceptions there.
+    
+
+END

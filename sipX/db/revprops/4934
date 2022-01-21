@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-08-30T13:25:34.563189Z
+K 7
+svn:log
+V 133
+removing bin/sipxconfig.sh.in file - it's not used at the moment
+to start sipXconfig we use script that resides in web/bin directory
+
+END

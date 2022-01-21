@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2008-02-29T15:04:33.539879Z
+K 7
+svn:log
+V 110
+Added script to build src and updated build_zip.bat to include the repository revision in the final .zip file
+
+END

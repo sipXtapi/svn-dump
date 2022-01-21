@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-07-02T15:16:27.102451Z
+K 7
+svn:log
+V 88
+Bug XSL-5: Fix all known bugs in unittests, all failures where failures 
+in unittests.
+
+
+END

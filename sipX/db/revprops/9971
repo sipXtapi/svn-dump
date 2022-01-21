@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-08-21T12:23:18.051610Z
+K 7
+svn:log
+V 243
+Add preliminary support of DirectShow video capture.
+This implemenation use VideoSupport library, wrote by Andrzej Ciarkowski. VideoSupport library is placed under sipXmediaLib/contrib dir.
+
+Note, that this implementation is not finished yet.
+
+END

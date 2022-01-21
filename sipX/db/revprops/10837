@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-10-15T22:55:19.702222Z
+K 7
+svn:log
+V 46
+Style fixes in SDP handling. No code changes.
+
+END

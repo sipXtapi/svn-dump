@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+raghu
+K 8
+svn:date
+V 27
+2004-06-30T16:31:46.443557Z
+K 7
+svn:log
+V 126
+Implemented tests for the UtlSortedListIterator and removeAt() method for the UtlSortedList. Also fixed previous build failure
+END

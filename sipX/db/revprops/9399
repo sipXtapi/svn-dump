@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-20T08:38:17.124617Z
+K 7
+svn:log
+V 129
+Remove wrong assert from MpeSipxILBC constructor. Codec payload type is derived from SDP and may be diffent from predefined one.
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2006-11-21T01:41:04.778771Z
+K 7
+svn:log
+V 176
+Fixes to make project files compile and run for wince emulator.
+ARM still a bit broken, need to reconcile between emu and arm project settings
+(defines, includes, link paths)
+
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-21T20:22:31.300467Z
+K 7
+svn:log
+V 51
+trivial Javadoc changes to remove Eclipse warnings
+
+END

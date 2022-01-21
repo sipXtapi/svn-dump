@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2005-11-04T03:44:19.649615Z
+K 7
+svn:log
+V 66
+- temporary fix for receiving a re-invite (due to session refresh)
+END

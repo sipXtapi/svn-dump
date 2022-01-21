@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-08-24T17:13:22.678627Z
+K 7
+svn:log
+V 63
+Add --tarball option to build for a quick check of packaging.
+
+
+END

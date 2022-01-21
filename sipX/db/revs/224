@@ -1,0 +1,63 @@
+id: ar.0.r224/0
+type: dir
+count: 0
+cpath: /old/sipXportLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 15
+dir ar.0.r224/0
+K 4
+main
+V 17
+dir 3.0.r223/1757
+K 4
+tags
+V 18
+dir an.0.r169/1799
+END
+ENDREP
+id: 2.0.r224/199
+type: dir
+pred: 2.0.r223/2053
+count: 222
+text: 224 83 103 103 a59d35133d82c283507f6ba66e614329
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 16
+dir 2.0.r224/199
+END
+ENDREP
+id: 1.0.r224/406
+type: dir
+pred: 1.0.r223/2262
+count: 223
+text: 224 350 43 43 cb18b4498c4b752d36059cba00d988a2
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 16
+dir 1.0.r224/406
+END
+ENDREP
+id: 0.0.r224/591
+type: dir
+pred: 0.0.r223/2450
+count: 224
+text: 224 544 34 34 ee80909bc8a89672a327162014aa4595
+cpath: /
+copyroot: 0 /
+
+_0.0.t223-1 add false false /old/sipXportLib/branches
+
+
+591 726

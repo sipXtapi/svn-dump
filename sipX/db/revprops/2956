@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-07T23:03:02.326649Z
+K 7
+svn:log
+V 152
+Apply the rules for tabs (coding standard section 2.10) to sipXvxml.
+Many of these files are from third parties, so they just have sf:tab
+set to "yes".
+
+END

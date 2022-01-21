@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-03-26T14:03:27.000936Z
+K 7
+svn:log
+V 73
+Indent the <duration> element properly in dialog-event-summary
+messages.
+
+END

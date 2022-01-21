@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-03-30T20:50:02.125007Z
+K 7
+svn:log
+V 81
+Added the feature of sendbylist to the no operator version of savemessage.vxml.
+
+
+END

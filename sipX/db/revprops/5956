@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-01-25T03:28:43.801803Z
+K 7
+svn:log
+V 223
+Unit test failing on windows, timing related code was a bit delayed on windows.  Damian, feel free to review.  Adding a timing fudge of 100 seemed to work, first value I tried, and i think is small relative to millis units.
+END

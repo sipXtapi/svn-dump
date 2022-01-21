@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-07-01T21:32:04.457353Z
+K 7
+svn:log
+V 60
+Minor cleanup of positioning code in MprFromInputDevice.cpp
+
+END

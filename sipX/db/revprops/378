@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-01-18T19:48:53.326581Z
+K 7
+svn:log
+V 100
+Merging up container/iterator locking fixes from 2.6
+
+(also cleaned up logging in OsProcessMgr.cpp)
+
+END

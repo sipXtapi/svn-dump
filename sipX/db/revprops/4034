@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-06-09T22:16:30.510892Z
+K 7
+svn:log
+V 92
+removed unused code for creating additional user lines in original huntgroup implementation
+
+END

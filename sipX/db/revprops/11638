@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-04-02T20:11:29.714859Z
+K 7
+svn:log
+V 85
+Put asserts after syslog.  Also flush syslog before asserting in MprFromInputDevice
+
+
+END

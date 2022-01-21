@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-05-16T21:48:59.473696Z
+K 7
+svn:log
+V 417
+Adjust merge property names to match the new scheme.  Viz.:  Delete
+pingtel-3.3 and use only pingtel-main.
+But both properties have been used in the past (to merge from the same
+branch!), so merge their values to account for all the revs. that have
+been merged from pingtel-main.
+Restore listing of revs. that have been deleted during previous
+merges:  6144, 6158, 6187, 6230 (lost in 6765), and 5738 (lost in 6484).
+
+END

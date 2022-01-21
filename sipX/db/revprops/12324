@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2015-07-23T16:48:46.731680Z
+K 7
+svn:log
+V 58
+Added SINE wave type signal for output from test resource
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-03-22T16:20:59.921740Z
+K 7
+svn:log
+V 46
+Fix indentation in SipProtocolServerBase.cpp.
+
+END

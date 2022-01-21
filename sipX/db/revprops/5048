@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-09-15T17:06:51.762159Z
+K 7
+svn:log
+V 136
+XCF-604 Make some progress towards performance issues on user page, use table model that only loads window of users on manage users page
+END

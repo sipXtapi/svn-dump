@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-09-27T03:52:11.148172Z
+K 7
+svn:log
+V 243
+mergefrom pingtel-main 7293
+
+Fix problems found by Valgrind:  uninitialized variables and SipRouter
+not removing from the SipUserAgent the message listener it attaches.
+This appears to fix the intermittent crashes seen in the sipXproxy
+tests.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-07-01T21:57:41.489817Z
+K 7
+svn:log
+V 184
+Use 48000 samplerate for audio I/O while leaving flowgraph at 8000 samplerate.
+This allow us to get less audio I/O jitter on many modern soundcards, which operate on 48000 internally.
+
+END

@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-02-09T19:30:09.533705Z
+K 7
+svn:log
+V 286
+Backported 2 fixes from main:
+
+  * r389 | dhsu
+  Check for whether the mWorkPath exists or not. If not, use /var/tmp. Also changed some logging messages.
+
+  * r387 | dhsu
+  Changed localFileLocks to a static memeber variable, and added a lock in LockAliasFile() and UnlockAliasFile().
+
+
+END

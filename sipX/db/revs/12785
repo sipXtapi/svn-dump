@@ -1,0 +1,296 @@
+PLAIN
+K 10
+svn:ignore
+V 34
+*.vcxproj.user
+bin
+Debug
+Release
+
+
+END
+ENDREP
+id: fx8.7n5.r12785/73
+type: dir
+pred: fx8.7n5.r12784/9546
+count: 12
+text: 12784 9007 471 471 5ffc0dfb2c9ae216624e7157d7cb9f4c
+props: 12785 0 60 0 5e98ba2506504384725bc555e9ba52c1
+cpath: /main/sipXmediaAdapterLib/examples/mstream
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 25
+file fxc.7n5.r10898/10956
+K 7
+mstream
+V 21
+dir fx8.7n5.r12785/73
+END
+ENDREP
+id: fx7.7n5.r12785/429
+type: dir
+pred: fx7.7n5.r12784/9911
+count: 13
+text: 12785 325 91 91 4b794615d1d865f06dfe391e569888cd
+props: 11859 2505 48 0 86168c69db02cf3306494c6df91bc2ed
+cpath: /main/sipXmediaAdapterLib/examples
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g94.7n5.r11851/338
+K 12
+CONTRIBUTORS
+V 25
+file b2q.0.r6469/22070758
+K 9
+ChangeLog
+V 25
+file b2r.0.r6469/22069861
+K 7
+INSTALL
+V 23
+file b2s.0.r8484/550333
+K 11
+Makefile.am
+V 25
+file b2t.7n5.r12466/11323
+K 4
+NEWS
+V 25
+file b2u.0.r6469/22070590
+K 6
+README
+V 24
+file b2v.0.r6955/1730763
+K 4
+TODO
+V 25
+file b2w.0.r6469/22065755
+K 9
+acsite.m4
+V 24
+file b2x.0.r6955/1730061
+K 12
+configure.ac
+V 24
+file b37.7n5.r12450/1128
+K 3
+doc
+V 23
+dir fxw.7n5.r11859/2260
+K 8
+examples
+V 22
+dir fx7.7n5.r12785/429
+K 9
+interface
+V 24
+dir b38.7n5.r12754/17221
+K 4
+meta
+V 24
+dir b3i.0.r6469/22069690
+K 19
+playback_prompt.wav
+V 22
+file e6d.0.r9479/50558
+K 17
+record_prompt.wav
+V 22
+file e6e.0.r9479/50821
+K 9
+short.wav
+V 23
+file f66.0.r10234/24599
+K 34
+sipXmediaAdapterLib-msvc16.vcxproj
+V 24
+file r9m.7n5.r12784/7250
+K 42
+sipXmediaAdapterLib-msvc16.vcxproj.filters
+V 24
+file r9g.7n5.r12784/8148
+K 32
+sipXmediaAdapterLib-msvc8.vcproj
+V 24
+file e74.7n5.r12305/1171
+K 23
+sipXmediaAdapterLib.dsp
+V 22
+file up.7na.r11365/755
+K 23
+sipXmediaAdapterLib.vcp
+V 22
+file e6f.0.r8667/83038
+K 26
+sipXmediaAdapterLib.vcproj
+V 24
+file b3u.7nb.r12305/1388
+K 27
+sipXmediaAdapterLib.vcxproj
+V 26
+file nqv.7n5.r12361/121193
+K 38
+sipXmediaAdapterLibTest-msvc16.vcxproj
+V 24
+file r9o.7n5.r12784/7544
+K 46
+sipXmediaAdapterLibTest-msvc16.vcxproj.filters
+V 24
+file r9i.7n5.r12784/7843
+K 36
+sipXmediaAdapterLibTest-msvc8.vcproj
+V 24
+file e75.7n5.r11268/3305
+K 27
+sipXmediaAdapterLibTest.dsp
+V 25
+file dix.7np.r11289/26444
+K 27
+sipXmediaAdapterLibTest.sln
+V 23
+file dmk.0.r8350/303097
+K 27
+sipXmediaAdapterLibTest.vcp
+V 22
+file e6g.0.r8865/22166
+K 30
+sipXmediaAdapterLibTest.vcproj
+V 24
+file dml.7n5.r12349/1350
+K 31
+sipXmediaAdapterLibTest.vcxproj
+V 26
+file nqx.7n5.r12361/121385
+K 24
+sipXmediaMediaProcessing
+V 24
+dir b3o.7n5.r12754/15240
+K 27
+sipxmediaadapterlib.spec.in
+V 24
+file b3z.7n5.r10867/7578
+END
+ENDREP
+id: b2p.7n5.r12785/2570
+type: dir
+pred: b2p.7n5.r12784/12454
+count: 479
+text: 12785 674 1883 1883 583801cfdfa66c0ea918520e106e933b
+props: 12784 12057 384 0 e0bd9077ee120f8011fd6314caafd011
+cpath: /main/sipXmediaAdapterLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g8y.7n5.r12172/315
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 22
+dir 9wj.7n5.r12744/788
+K 15
+configure.patch
+V 23
+file o60.7n5.r12434/574
+K 10
+readme.txt
+V 23
+file 9ws.7n5.r12464/516
+K 7
+scripts
+V 23
+dir fxk.7n5.r12171/1617
+K 15
+sipX-msvc16.sln
+V 25
+file r8b.7n5.r12778/15832
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 24
+dir 9wt.7n5.r12754/13586
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r12785/2570
+K 12
+sipXmediaLib
+V 24
+dir b40.7n5.r12783/12522
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r12781/2317
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r12761/5372
+K 11
+sipXtackLib
+V 23
+dir boq.7n5.r12779/2727
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r12785/3575
+type: dir
+pred: 9wi.7n5.r12784/13463
+count: 3723
+text: 12785 2815 747 747 5bedafb3ead6b7158c8ecfacf8a43a04
+props: 12114 59175 76 0 1dd3880c3272b32f88d1700b38908223
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r12113/17441
+K 4
+main
+V 23
+dir 9wi.7n5.r12785/3575
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r12785/3971
+type: dir
+pred: 0.0.r12784/13862
+count: 12785
+text: 12785 3799 159 159 00d6255bd785ccc792363ef55845d246
+cpath: /
+copyroot: 0 /
+
+fx8.7n5.t12784-1 modify false true /main/sipXmediaAdapterLib/examples/mstream
+
+
+3971 4119

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2013-01-23T19:06:54.323361Z
+K 7
+svn:log
+V 138
+Fixed leak of INFO data in SipXMessageObserver.
+Use stack variable instead of dynamic variable as its only need for duration of callback.
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-05-01T02:19:47.665545Z
+K 7
+svn:log
+V 620
+Remove the "redo" flag -- low priority and partially implemented, so confusing to leave it in the code.
+Drop the DB constraints mandating that start time, connect time, and end time be in time sequence.  In an HA configuration, they might be misordered due to clock differences.  Simply record the observed times rather than trying to correct that at the data level -- let the reporting level make those decisions.  Along those lines, remove the max clock diff config param.
+Add to the user guide an explanation that times supplied in command-line args are interpreted in the local time zone unless otherwise specified.
+
+END

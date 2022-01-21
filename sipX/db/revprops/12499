@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-10-05T02:39:01.584682Z
+K 7
+svn:log
+V 199
+Fix the include paths for PlaceCall and ReceiveCall when built out of src dir.
+That is when configure is run with a path other than ./configure.  This is the
+case on cross compilation such as Yacto.
+
+END

@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-05-04T17:42:04.632499Z
+K 7
+svn:log
+V 219
+XVX-147 Correct permissions on ssl certificate directory.
+  This was causing the ssl certificate initialization to fail in the
+  status server, and so disabling mwi and hanging some functions
+  in the web mailboxy UI.
+
+
+END

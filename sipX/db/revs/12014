@@ -1,0 +1,66 @@
+id: 9wi.7of.r12014/0
+type: dir
+pred: 9wi.7n5.r12013/6433
+count: 3007
+text: 12013 5773 647 647 b8fabeebaba3bd1ace189f6a2183dd3d
+cpath: /branches/rtcp-reenable
+copyfrom: 12013 /main
+
+PLAIN
+K 13
+rtcp-reenable
+V 20
+dir 9wi.7of.r12014/0
+K 12
+sipXtapi-3.2
+V 23
+dir 9wi.7ne.r11085/8342
+K 12
+sipXtapi-AOL
+V 24
+dir 9wi.7n8.r11666/17150
+K 21
+sipXtapi-media-update
+V 23
+dir 9wi.7n7.r10832/1050
+END
+ENDREP
+id: fuu.0.r12014/394
+type: dir
+pred: fuu.0.r11666/17573
+count: 66
+text: 12014 181 200 200 cfe3936b65e11d11554eebbf67e2f5f3
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir fuu.0.r12014/394
+K 4
+main
+V 23
+dir 9wi.7n5.r12013/6433
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r12014/719
+type: dir
+pred: 0.0.r12013/6771
+count: 12014
+text: 12014 549 157 157 00a9a925c25792a05bd4c6231e290a62
+cpath: /
+copyroot: 0 /
+
+9wi._0.t12013-1 add false false /branches/rtcp-reenable
+12013 /main
+
+719 864

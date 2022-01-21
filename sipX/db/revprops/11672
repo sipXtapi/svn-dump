@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-10-09T04:00:55.403744Z
+K 7
+svn:log
+V 84
+Distuguish between 500 class errors and unknown error cause in sipXtapi call events
+
+END

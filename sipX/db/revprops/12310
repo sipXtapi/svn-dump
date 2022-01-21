@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2015-06-02T00:11:25.380809Z
+K 7
+svn:log
+V 199
+When recording to GSM wave file, need even number of GSM frames, which may require more than one additional media frame to be written.
+  e.g. it takes 2 - 10 ms flowgraph frames to make 1 GSM frame.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-06-09T23:33:58.847195Z
+K 7
+svn:log
+V 129
+In MprRecorder have to check if buffer is valid before checking speech type.  Also sample count is dependant upon channel count.
+
+END

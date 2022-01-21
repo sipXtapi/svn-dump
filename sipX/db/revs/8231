@@ -1,0 +1,413 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: dyp.0.r8231/82
+type: file
+pred: dyp.0.r8228/5850
+count: 1
+text: 8228 3042 2337 7526 a4cacb2ed15c39682d9b00b52390ee47
+props: 8231 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXtools/src/monitor-spread.in
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: dyt.0.r8231/332
+type: file
+pred: dyt.0.r8230/3417
+count: 1
+text: 8230 2587 768 1434 a13652ab99ca5e796f567a8b0b119062
+props: 8231 315 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /main/sipXtools/src/man/monitor-spread.txt2man
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: dys.0.r8231/592
+type: file
+pred: dys.0.r8230/3689
+count: 1
+text: 8230 1670 904 1653 22e59481fa9d11d986cd8ed668acd682
+props: 8231 575 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /main/sipXtools/src/man/monitor-spread.1
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: dyr.0.r8231/846
+type: file
+pred: dyr.0.r8230/3955
+count: 1
+text: 8230 910 747 1307 896522b4d1f63f25dd85ee40bcd674ca
+props: 8231 829 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /main/sipXtools/src/man/expire-spread.txt2man
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: dyq.0.r8231/1104
+type: file
+pred: dyq.0.r8230/4225
+count: 1
+text: 8230 0 897 1445 637e62e1af11aaf7f04e5da4623b9955
+props: 8231 1087 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /main/sipXtools/src/man/expire-spread.1
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file du1.0.r8228/6240
+K 15
+expire-spread.1
+V 21
+file dyq.0.r8231/1104
+K 21
+expire-spread.txt2man
+V 20
+file dyr.0.r8231/846
+K 16
+monitor-spread.1
+V 20
+file dys.0.r8231/592
+K 22
+monitor-spread.txt2man
+V 20
+file dyt.0.r8231/332
+K 16
+polycom-config.1
+V 21
+file dv6.0.r8076/5991
+K 22
+polycom-config.txt2man
+V 21
+file dv7.0.r8056/7033
+K 12
+sipdb-dump.1
+V 21
+file dvy.0.r8088/4074
+K 18
+sipdb-dump.txt2man
+V 21
+file dvz.0.r8088/3888
+K 9
+sipxcar.1
+V 21
+file du2.0.r8076/6352
+K 15
+sipxcar.txt2man
+V 22
+file du3.0.r8017/30372
+K 10
+sipxproc.1
+V 21
+file du4.0.r8076/6175
+K 16
+sipxproc.txt2man
+V 22
+file du5.0.r8017/30208
+END
+ENDREP
+id: du0.0.r8231/1986
+type: dir
+pred: du0.0.r8230/5088
+count: 7
+text: 8231 1339 634 634 5e9253c7d5e937685174e0880bbda539
+props: 8056 8243 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /main/sipXtools/src/man
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: dyo.0.r8231/2315
+type: file
+pred: dyo.0.r8228/7224
+count: 1
+text: 8228 563 2318 6521 560749bb5efc5fad70d954c42e3703eb
+props: 8231 2207 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /main/sipXtools/src/expire-spread.in
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file dtz.0.r8228/6066
+K 16
+expire-spread.in
+V 21
+file dyo.0.r8231/2315
+K 3
+man
+V 20
+dir du0.0.r8231/1986
+K 17
+monitor-spread.in
+V 19
+file dyp.0.r8231/82
+K 14
+polycom-config
+V 21
+file dv8.0.r8056/6649
+K 10
+sipdb-dump
+V 21
+file dvs.0.r8088/3658
+K 7
+sipxcar
+V 21
+file du6.0.r8170/1918
+K 8
+sipxproc
+V 19
+file du7.0.r8052/63
+K 4
+test
+V 20
+dir du8.0.r8170/1696
+END
+ENDREP
+id: dty.0.r8231/2945
+type: dir
+pred: dty.0.r8230/5705
+count: 9
+text: 8231 2551 381 381 8b486a1fd6fe14fc97ba69a43dce97eb
+props: 8056 8771 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /main/sipXtools/src
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 22
+file dtm.0.r8017/25775
+K 12
+CONTRIBUTORS
+V 22
+file dtn.0.r8017/32046
+K 9
+ChangeLog
+V 22
+file dto.0.r8017/26436
+K 7
+INSTALL
+V 22
+file dtp.0.r8017/26296
+K 7
+LICENSE
+V 22
+file dtq.0.r8017/25320
+K 11
+Makefile.am
+V 22
+file dtr.0.r8017/31757
+K 4
+NEWS
+V 22
+file dts.0.r8017/31907
+K 6
+README
+V 22
+file dtt.0.r8017/32191
+K 4
+TODO
+V 22
+file dtu.0.r8017/25918
+K 6
+config
+V 22
+file dtv.0.r8017/26097
+K 12
+configure.ac
+V 21
+file dtw.0.r8228/5567
+K 17
+sipxtools.spec.in
+V 21
+file dtx.0.r8228/5392
+K 3
+src
+V 20
+dir dty.0.r8231/2945
+END
+ENDREP
+id: dtl.0.r8231/3714
+type: dir
+pred: dtl.0.r8230/6474
+count: 9
+text: 8231 3162 539 539 68966936427ce810611022db9df8e43e
+props: 8056 9591 74 0 05eebabc7a5a5886abd63f34e9888b91
+cpath: /main/sipXtools
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.in
+V 23
+file d0m.421.r8194/1039
+K 7
+bbridge
+V 21
+dir 8dl.0.r8083/18422
+K 5
+build
+V 22
+file d5a.0.r7664/15661
+K 6
+config
+V 21
+dir 91.1i4.r8194/2233
+K 12
+configure.ac
+V 20
+file d0n.0.r8051/327
+K 16
+dependencies.mak
+V 21
+file dxw.0.r8197/5783
+K 3
+lib
+V 20
+dir cyn.0.r8001/1865
+K 14
+msvs6build.bat
+V 21
+file dm4.0.r8177/4553
+K 14
+resiprocateLib
+V 21
+dir 8g8.0.r7696/13751
+K 9
+sipXb2bua
+V 21
+dir dau.0.r7967/44454
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r8196/4294
+K 17
+sipXcommserverLib
+V 22
+dir 1qo.1i6.r8229/1645
+K 10
+sipXconfig
+V 23
+dir 2hf.1i7.r8227/28482
+K 19
+sipXmediaAdapterLib
+V 21
+dir 89s.0.r8177/13233
+K 12
+sipXmediaLib
+V 21
+dir mz.1i8.r7761/7877
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r8211/3128
+K 11
+sipXportLib
+V 20
+dir 3.1ib.r8197/5531
+K 9
+sipXproxy
+V 23
+dir 1vt.1ic.r8180/58814
+K 13
+sipXpublisher
+V 23
+dir 20n.1id.r8180/70541
+K 12
+sipXregistry
+V 22
+dir 1y5.1ie.r8190/2565
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r8127/14938
+K 9
+sipXtools
+V 20
+dir dtl.0.r8231/3714
+K 8
+sipXvxml
+V 23
+dir 22d.1ig.r8180/60488
+K 10
+top.mak.in
+V 21
+file d5l.0.r7330/2797
+END
+ENDREP
+id: 7q4.0.r8231/4994
+type: dir
+pred: 7q4.0.r8230/7754
+count: 2098
+text: 8231 3927 1054 1054 096890d54d91d3935a371902ebd3dc5b
+props: 8223 3690 2563 0 a6c058d690a21b7eb898bf87605ac324
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r8226/6428
+K 4
+main
+V 20
+dir 7q4.0.r8231/4994
+K 4
+tags
+V 20
+dir 7q5.0.r8202/3118
+END
+ENDREP
+id: 0.0.r8231/5330
+type: dir
+pred: 0.0.r8230/8090
+count: 8231
+text: 8231 5204 113 113 46384f376b9a02669948aaa44024f27c
+cpath: /
+copyroot: 0 /
+
+dyq.0.t8230-1 modify false true /main/sipXtools/src/man/expire-spread.1
+
+dyp.0.t8230-1 modify false true /main/sipXtools/src/monitor-spread.in
+
+dyt.0.t8230-1 modify false true /main/sipXtools/src/man/monitor-spread.txt2man
+
+dyo.0.t8230-1 modify false true /main/sipXtools/src/expire-spread.in
+
+dys.0.t8230-1 modify false true /main/sipXtools/src/man/monitor-spread.1
+
+dyr.0.t8230-1 modify false true /main/sipXtools/src/man/expire-spread.txt2man
+
+
+5330 5473

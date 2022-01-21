@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-06-27T01:37:07.147703Z
+K 7
+svn:log
+V 267
+New Windows Multimedia output driver wrapper class.
+Currently it does stutter some, but output can indeed be heard relatively well.
+To test with mediaLib tests, comment out the USE_TEST_DRIVER define.
+
+Includes project file changes for: MSVC6-8 (VC6, VS2003, VS2005).
+END

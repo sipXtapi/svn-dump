@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+urtho
+K 8
+svn:date
+V 27
+2007-01-25T23:58:56.673916Z
+K 7
+svn:log
+V 99
+trying to produce XML config file for FreeSWITCH without an XML declaration but without any success
+END

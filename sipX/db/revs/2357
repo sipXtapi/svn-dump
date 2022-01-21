@@ -1,0 +1,138 @@
+PLAIN
+K 13
+svn:externals
+V 77
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/post-2.6.1/config
+
+K 10
+svn:ignore
+V 144
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxregistry.spec
+stamp-h1
+
+K 18
+svnmerge-main-head
+V 48
+https://scm.sipfoundry.org/rep/sipXregistry/main
+K 18
+svnmerge-main-revs
+V 4
+1-39
+END
+ENDREP
+id: 1y5.bk.r2357/397
+type: dir
+pred: 1y5.bk.r2350/286
+count: 36
+text: 2337 579 645 645 13553ff3b1666c930533acdf0f40f9a0
+props: 2357 0 384 0 eed62c5a104d8d4a10cb97421a02ce66
+cpath: /old/sipXregistry/branches/post-2.6.1
+copyroot: 2339 /old/sipXregistry/branches/post-2.6.1
+
+PLAIN
+K 10
+post-2.6.1
+V 20
+dir 1y5.bk.r2357/397
+END
+ENDREP
+id: 1zf.0.r2357/728
+type: dir
+pred: 1zf.0.r2350/615
+count: 3
+text: 2357 669 46 46 bc6fd4f0501c03f6b286e4671c8a5684
+cpath: /old/sipXregistry/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 1zf.0.r2357/728
+K 4
+main
+V 19
+dir 1y5.0.r2356/934
+K 4
+tags
+V 20
+dir 1z5.0.r2316/1476
+END
+ENDREP
+id: 1y4.0.r2357/1016
+type: dir
+pred: 1y4.0.r2356/1274
+count: 58
+text: 2357 892 111 111 58994d305c8aa1f25af0aa1714e70cec
+cpath: /old/sipXregistry
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2357/1016
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2357/1494
+type: dir
+pred: 1.0.r2356/1753
+count: 2356
+text: 2357 1176 305 305 423309309719e6e5be19d70879d66eb2
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2357/1494
+END
+ENDREP
+id: 0.0.r2357/1689
+type: dir
+pred: 0.0.r2356/1948
+count: 2357
+text: 2357 1640 36 36 06ca80a94a848601988a3e8dd638084d
+cpath: /
+copyroot: 0 /
+
+1y5.bk.t2356-1 modify false true /old/sipXregistry/branches/post-2.6.1
+
+
+1689 1830

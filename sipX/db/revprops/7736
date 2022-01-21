@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-11T20:31:26.413092Z
+K 7
+svn:log
+V 255
+XCF-1270 dojo library was missing (empty files) - because of that autocompleter did not work and JavaScript errors were displayed by IE and FF
+- update to Tapestry 4.0.2
+- use IE workaround described here: http://tacos.sourceforge.net/faq.html#faq-N100A2
+
+END

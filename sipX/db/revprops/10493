@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-25T18:21:19.966426Z
+K 7
+svn:log
+V 50
+Change forgotten debug printfs back to osPrintfs.
+
+END

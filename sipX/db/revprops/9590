@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-05-21T20:30:09.750539Z
+K 7
+svn:log
+V 70
+Backed off the locking in MprResource as it was a bit too agressive.
+
+
+END

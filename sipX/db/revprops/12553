@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-11-03T13:01:47.554396Z
+K 7
+svn:log
+V 38
+Fixed cpp macro warning in OsDateTime
+
+END

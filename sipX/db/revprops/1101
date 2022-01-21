@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-09-20T20:40:55.875173Z
+K 7
+svn:log
+V 66
+- Updated project settings
+- Removed warnings (unused variables)
+
+
+END

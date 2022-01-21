@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-09-25T08:04:46.762797Z
+K 7
+svn:log
+V 46
+Hack opus libtool.m4 to work on autoconf 2.61
+
+END

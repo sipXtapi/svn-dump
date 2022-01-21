@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-08-15T17:00:39.966818Z
+K 7
+svn:log
+V 189
+Provide missing MpResNotificationMsg implementation.
+This should have been committed with r9939, and, if this change is isolated
+and added to r9939, a successful build and run will result.
+
+END

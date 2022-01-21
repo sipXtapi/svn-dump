@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-02-13T21:36:57.508539Z
+K 7
+svn:log
+V 82
+Changes to make msvc6 automated build run and 
+gather unit test results properly
+
+
+END

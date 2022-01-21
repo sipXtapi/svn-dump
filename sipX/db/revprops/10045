@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-06T12:48:18.755345Z
+K 7
+svn:log
+V 108
+Remove sipXmediaFactoryImpl::getCodec() function, which is not used and will lead to segfault if ever used.
+
+END

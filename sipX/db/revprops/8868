@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-22T05:31:16.604805Z
+K 7
+svn:log
+V 431
+Numerous style fixes in MpInputDeviceManager.
+
+* Space after 'if'.
+* Member variables should be initialized in initialization section, not in constructor body.
+* If constructor parameter is stored in member variable, then use member variable in constructor body to prevent errors.
+* Inline definitions should visually distinguish from definitions, so place its body on new line. This also prevents 80 column overrun in many cases.
+
+END

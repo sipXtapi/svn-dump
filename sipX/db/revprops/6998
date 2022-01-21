@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-06-23T20:37:01.394665Z
+K 7
+svn:log
+V 323
+Undo the change made in rev 6995 to split the IMDB methods into a separate SOAP service named "IMDB Service".  Turns out that the class SOAP::RPC::StandaloneServer doesn't support multiple services, and we don't want to switch to a different server class currently.
+Also tweak the utils_test to deal with a timing problem.
+
+END

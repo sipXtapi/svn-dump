@@ -1,0 +1,84 @@
+PLAIN
+K 3
+2.6
+V 20
+dir va.6c.r1395/3439
+END
+ENDREP
+id: 15e.0.r1400/51
+type: dir
+pred: 15e.0.r1395/3792
+count: 10
+text: 1400 0 38 38 f29b4f1d29f162dcf398c67d58c5a030
+cpath: /old/sipXcallLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 15e.0.r1400/51
+K 4
+main
+V 19
+dir va.0.r1399/2508
+K 4
+tags
+V 20
+dir 156.0.r1390/1075
+END
+ENDREP
+id: v9.0.r1400/336
+type: dir
+pred: v9.0.r1399/2853
+count: 79
+text: 1400 213 110 110 db033bf5b932262ff39dd57e6a76f0f9
+cpath: /old/sipXcallLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 18
+dir v9.0.r1400/336
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1400/676
+type: dir
+pred: 1.0.r1399/3197
+count: 1399
+text: 1400 492 171 171 f356590e6b7405642c24ee24f5f61d18
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r1400/676
+END
+ENDREP
+id: 0.0.r1400/868
+type: dir
+pred: 0.0.r1399/3393
+count: 1400
+text: 1400 820 35 35 28d3ad4dce1d73437a4474e98eed28d8
+cpath: /
+copyroot: 0 /
+
+va.67.r1394/5060 delete false false /old/sipXcallLib/branches/post-2.6.1
+
+
+868 1007

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-03-23T18:30:27.818132Z
+K 7
+svn:log
+V 244
+XCF-1582 add support for parameters introduced in 1.2.18 firmware:
+cfg_download is "hidden" and always set to enable
+sw_download is 'advanced' and set to enable by default - you can prevent phone from downloading new firmware by unselecting it
+
+END

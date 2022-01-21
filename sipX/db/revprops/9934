@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-08-10T15:36:11.201253Z
+K 7
+svn:log
+V 80
+Fix DNS resolving bug under Windows.
+Thanks to Stephen C. Steel for this patch.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-23T16:16:19.981107Z
+K 7
+svn:log
+V 213
+- Generated .dsp files (MSVC 6 project/makefiles) for the sipPublisher project.  
+- #ifdefed the SSL capabilties of the status server (HAVE_SSL).  I'll take a second pass updating projects to re-introduce openssl.
+END

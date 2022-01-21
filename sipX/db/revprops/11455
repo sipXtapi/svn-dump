@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-09-22T18:28:12.344960Z
+K 7
+svn:log
+V 84
+sipXmediaLib: Fix loading of Speex-WB and Speex-UWB codecs from Speex codec plugin.
+
+END

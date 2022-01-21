@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-03-09T20:15:47.768926Z
+K 7
+svn:log
+V 644
+Methods taking UtlStrings by value were causing access violations in their
+destructors (delete[]ing the buffer) upon completion of the method context.
+This bug found in new TestOsSysLogListener, and NetBase64Codec::valid and NetBase64Codec::decode
+Furthermore, this was found to be significantly inefficient - especially in the
+case of NetBase64Codec, as the strings passed in are very large, and there is no need
+to pass them in by value (copying the string).
+
+Solution was to pass by reference. 
+TestOsSysLogListener was also using STL strings.  Replaced with equivalent functionality 
+using only UtlString.
+
+Added NetBase64Codec unit test.
+
+
+END

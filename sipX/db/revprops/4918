@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-08-26T20:04:45.908267Z
+K 7
+svn:log
+V 96
+XCF-433 Apply patch from Hannu to cisco ata for profile generation based on cfgfmt, not model id
+END

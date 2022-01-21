@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-11-17T21:55:07.301186Z
+K 7
+svn:log
+V 236
+Clean up log error message - Read failure on socket
+http://track.sipfoundry.org/browse/XSL-40
+
+This was actually not worth logging - it happens normally when client
+sockets are being garbage collected.  Removed the log entry entirely.
+
+
+END

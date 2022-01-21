@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-02-04T00:03:03.718758Z
+K 7
+svn:log
+V 147
+edit lines and complete cycle: associate data polycom specific data to it, generate profiles, reboot phone and see line settings reflected on phone
+END

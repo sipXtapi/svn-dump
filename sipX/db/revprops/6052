@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-03T19:27:07.297720Z
+K 7
+svn:log
+V 41
+utility for generation of DNS SRV records
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-08-22T21:23:49.341250Z
+K 7
+svn:log
+V 183
+Scrape out all dejitter stuff from decoders (namely PCMA/PCMU) and put it to MprDejitter.
+
+This may introduce new bugs in our dejitter, though I tried to keep things somehow working.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-07-20T23:43:34.811920Z
+K 7
+svn:log
+V 154
+sipXmediaLib: More Mac Os X fixes. Most notable change is that CoreAudio audio I/O driver is now implemented.
+But there are more unittest failures still.
+
+END

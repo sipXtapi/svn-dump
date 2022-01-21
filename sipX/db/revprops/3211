@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-11-26T02:49:27.171307Z
+K 7
+svn:log
+V 127
+make neoconf enabled by default, requires spring framework to be installed, add documentation and more support in phone plugin.
+END

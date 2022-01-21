@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-10T21:27:36.975663Z
+K 7
+svn:log
+V 200
+Put in fflush() calls to MpWBInputOutputDeviceTest to get all info be printed correctly on Linux.
+Seems Linux's printf() cache output till '\n' char. That is it does not print out non-finished lines.
+
+END

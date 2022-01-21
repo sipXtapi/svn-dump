@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+cypromis
+K 8
+svn:date
+V 27
+2006-09-01T18:41:04.004880Z
+K 7
+svn:log
+V 152
+Hitachi Wireless IP5000, 5000A and 3000
+Mostly the interface part is ready.
+Working on the differences between the 3 models and the file generation now
+
+END

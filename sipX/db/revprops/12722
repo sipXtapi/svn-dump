@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2019-09-17T21:09:00.728490Z
+K 7
+svn:log
+V 71
+Checked in libopusenc-0.2.1 in support of recording to Opus ogg files.
+
+END

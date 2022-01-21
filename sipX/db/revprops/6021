@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-01T21:43:26.592604Z
+K 7
+svn:log
+V 87
+fix returning an empty list in xmlrpc response, fix access to parameters in pullupdates
+END

@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-03-08T21:47:20.626618Z
+K 7
+svn:log
+V 366
+Merged revisions 8700 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main/sipXtackLib
+
+........
+  r8700 | xmlscott | 2007-02-05 04:24:05 +0300 | 5 lines
+  
+  Add unit test for NetBase64Codec
+  Add checks for invalid input to NetBase64Codec decoders;
+  all decoders now return whether or not the input was valid,
+  and do not decode any data if not.
+........
+
+END

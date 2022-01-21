@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-11-30T18:34:39.205584Z
+K 7
+svn:log
+V 142
+Bug make copy of model returned from modelContext.loadModel otherwise setting leakage, grandstream phone models were not migrated to new model
+END

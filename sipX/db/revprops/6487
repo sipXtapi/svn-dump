@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-03-30T23:28:09.699395Z
+K 7
+svn:log
+V 263
+Merged revisions 6332-6480 via svnmerge from
+/branches/3.2/sipXconfig
+XCF-951 - Show how to change pin and aliases from existing SOAP API, will add convience method in main line (3.4)
+XCF-976 Setting.getTypedValue always return null for Enumeration type settings
+
+END

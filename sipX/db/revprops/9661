@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-06T12:09:49.906407Z
+K 7
+svn:log
+V 59
+Fix style and remove unneeded debug output from MprBridge.
+
+END

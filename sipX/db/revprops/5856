@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-01-11T20:32:10.373843Z
+K 7
+svn:log
+V 40
+FIX BUILD(osprey) Stub out clover report
+END

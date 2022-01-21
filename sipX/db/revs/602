@@ -1,0 +1,227 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+END
+ENDREP
+id: dt.0.r602/47
+type: file
+pred: dt.0.r600/776950
+count: 1
+text: 600 13164 56 64 2af585c49272869c469f0b5da782c309
+props: 602 0 34 0 25e6c2f7558b7484000d4d090dea5b92
+cpath: /old/sipXtackLib/main/acsite.m4
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+END
+ENDREP
+id: dy.0.r602/314
+type: file
+pred: dy.0.r600/818071
+count: 1
+text: 600 20059 2856 10334 3337527bc9c7e329fa9331f9eac672b5
+props: 602 267 34 0 25e6c2f7558b7484000d4d090dea5b92
+cpath: /old/sipXtackLib/main/config/sipXlib.m4
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+END
+ENDREP
+id: dx.0.r602/597
+type: file
+pred: dx.0.r600/818234
+count: 1
+text: 600 16798 3248 10376 72708c19c621f37acb960984946ff7fe
+props: 602 550 34 0 25e6c2f7558b7484000d4d090dea5b92
+cpath: /old/sipXtackLib/main/config/general.m4
+copyroot: 0 /
+
+PLAIN
+K 10
+general.m4
+V 18
+file dx.0.r602/597
+K 10
+sipXlib.m4
+V 18
+file dy.0.r602/314
+END
+ENDREP
+id: dw.0.r602/930
+type: dir
+pred: dw.0.r600/818500
+count: 1
+text: 602 833 84 84 4b70289e93d8f5ffd1a63a9415b40ba5
+cpath: /old/sipXtackLib/main/config
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 21
+file dl.0.r600/815397
+K 9
+ChangeLog
+V 21
+file dm.0.r600/777100
+K 7
+INSTALL
+V 21
+file dn.0.r600/818837
+K 7
+LICENSE
+V 21
+file do.0.r600/750535
+K 11
+Makefile.am
+V 21
+file dp.0.r600/819582
+K 4
+NEWS
+V 21
+file dq.0.r600/820597
+K 6
+README
+V 21
+file dr.0.r600/815192
+K 4
+TODO
+V 21
+file ds.0.r600/818647
+K 9
+acsite.m4
+V 17
+file dt.0.r602/47
+K 14
+ant-targets.am
+V 21
+file du.0.r600/776737
+K 15
+ant-targets.xml
+V 17
+file dv.0.r601/47
+K 6
+config
+V 17
+dir dw.0.r602/930
+K 20
+config.properties.in
+V 21
+file dz.0.r600/817852
+K 12
+configure.ac
+V 21
+file e0.0.r600/816688
+K 3
+doc
+V 20
+dir e1.0.r600/817661
+K 7
+include
+V 20
+dir e5.0.r600/776540
+K 3
+lib
+V 20
+dir gh.0.r600/819391
+K 15
+sipXtackLib.dsp
+V 21
+file gj.0.r600/816423
+K 15
+siplog2siptrace
+V 20
+dir gk.0.r600/820441
+K 7
+siptest
+V 20
+dir gn.0.r600/814995
+K 9
+sipviewer
+V 18
+dir hn.0.r601/6082
+K 3
+src
+V 20
+dir i8.0.r600/803480
+K 15
+syslog2siptrace
+V 20
+dir kk.0.r600/816197
+END
+ENDREP
+id: dk.0.r602/2047
+type: dir
+pred: dk.0.r601/7213
+count: 2
+text: 602 1094 940 940 239dd28551974f66dd54d17245cb656c
+cpath: /old/sipXtackLib/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 18
+dir dk.0.r602/2047
+END
+ENDREP
+id: dj.0.r602/2256
+type: dir
+pred: dj.0.r601/7424
+count: 3
+text: 602 2206 37 37 76f1736b05c6edc80264c70b71cf1507
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 18
+dir dj.0.r602/2256
+END
+ENDREP
+id: 1.0.r602/2506
+type: dir
+pred: 1.0.r601/7676
+count: 601
+text: 602 2408 85 85 6d3136e705839728820126c192a03785
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r602/2506
+END
+ENDREP
+id: 0.0.r602/2694
+type: dir
+pred: 0.0.r601/7866
+count: 602
+text: 602 2646 35 35 1dccc6aa8cfd084e400c5b6e68715eee
+cpath: /
+copyroot: 0 /
+
+dx.0.t601-1 modify false true /old/sipXtackLib/main/config/general.m4
+
+dt.0.t601-1 modify false true /old/sipXtackLib/main/acsite.m4
+
+dy.0.t601-1 modify false true /old/sipXtackLib/main/config/sipXlib.m4
+
+
+2694 2831

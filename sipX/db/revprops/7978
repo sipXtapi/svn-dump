@@ -1,0 +1,34 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-09T10:08:26.066125Z
+K 7
+svn:log
+V 667
+Merged revisions 7974-7977 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7974 | dpetrie | 2006-11-09 09:38:18 +0300 | 3 lines
+  
+  Changes to fix build dependencies when openssl is not desired.
+........
+  r7975 | dpetrie | 2006-11-09 09:40:06 +0300 | 3 lines
+  
+  Fixed compilation error/warning on stub which did not return proper type.
+........
+  r7976 | dpetrie | 2006-11-09 09:41:56 +0300 | 2 lines
+  
+  Changes to make linux build work with cross compiler.
+........
+  r7977 | dpetrie | 2006-11-09 09:50:35 +0300 | 4 lines
+  
+  Fixed the --without-openssl option to configure to allow building 
+  without openssl.
+........
+
+END

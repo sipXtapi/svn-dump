@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-25T21:26:50.102557Z
+K 7
+svn:log
+V 75
+Add callstate cause string for CALLSTATE_CAUSE_REQUEST_NOT_ACCEPTED cause.
+
+END

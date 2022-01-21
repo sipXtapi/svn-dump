@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-06-07T18:49:03.119176Z
+K 7
+svn:log
+V 120
+After changes introduced in rev. 235 one has to parse sipx-noroute as URL parameter, not as a field parameter as before.
+END

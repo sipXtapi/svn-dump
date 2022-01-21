@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-26T03:50:28.642882Z
+K 7
+svn:log
+V 74
+Update SipRedirectorGateway, but do not compile it yet, as it's not done.
+
+END

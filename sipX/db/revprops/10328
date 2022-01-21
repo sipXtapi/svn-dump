@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-10-23T19:06:00.937614Z
+K 7
+svn:log
+V 155
+Under VC6, _strtoi64 is not defined, which strtoll was defined to
+(from changes related to C99 integer support).
+
+Restore support von VC6 with this patch.
+
+END

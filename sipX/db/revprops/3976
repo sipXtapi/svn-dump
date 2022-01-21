@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-05-31T20:21:28.626670Z
+K 7
+svn:log
+V 191
+XCF-412 SipxValidationDelegate defined. It should be used instead of standard tapestry ValidationDelegate to ensure proper styling of decorated items.
+By default it does not decorate labels.
+
+END

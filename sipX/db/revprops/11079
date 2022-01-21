@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-11T00:00:38.857897Z
+K 7
+svn:log
+V 104
+Convert to using proper C99 integer types where functions require them.
+(fixes VS6 casting confusion).
+
+
+END

@@ -1,0 +1,98 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-02-02T18:31:31.513623Z
+K 7
+svn:log
+V 3679
+Merged revisions 8655-8688 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main
+
+........
+  r8665 | dkrzemin | 2007-01-29 16:29:55 -0500 (Mon, 29 Jan 2007) | 2 lines
+  
+  XCF-1472 implement paging for CDR report page - only one page worth of record is read from DB at a time
+........
+  r8666 | dkrzemin | 2007-01-29 16:44:04 -0500 (Mon, 29 Jan 2007) | 2 lines
+  
+  XCF-1472 type in test
+........
+  r8668 | dkrzemin | 2007-01-29 17:19:54 -0500 (Mon, 29 Jan 2007) | 2 lines
+  
+  Minor label fixes: EMail -> e-mail, sentence case used.
+........
+  r8670 | dkrzemin | 2007-01-30 09:52:17 -0500 (Tue, 30 Jan 2007) | 2 lines
+  
+  add Makefile.in to svn:ignore
+........
+  r8671 | lazyboy | 2007-01-30 11:53:47 -0500 (Tue, 30 Jan 2007) | 1 line
+  
+  XCF-1066 Add web test for editing distributions lists
+........
+  r8672 | woof | 2007-01-30 13:24:46 -0500 (Tue, 30 Jan 2007) | 14 lines
+  
+  Make event publishing and subscription mechanisms agree on resource URI.
+  
+  In 3.6, the "resource IDs" used in the SUBSCRIBE and NOTIFY presence events 
+  were all psuedo URIs without the sip:
+  
+  In 3.7, some of the resources became real URIs WITH the sip:, but some
+  did not, causing mismatches.
+  
+  This change makes all of the contacts use sip: so they all agree.
+  
+  Completes XSL-148 "Event publishing mechanisms should use full URIs as "resource IDs"
+  
+  --Woof!
+........
+  r8674 | dkrzemin | 2007-01-30 14:36:07 -0500 (Tue, 30 Jan 2007) | 4 lines
+  
+  XCF-1456 round up duration to the next full second
+  localization for the MillisDurationFormat: sipXconfig/web/src/org/sipfoundry/sipxconfig/components/MillisDurationFormat.properties
+........
+  r8675 | lazyboy | 2007-01-31 09:05:37 -0500 (Wed, 31 Jan 2007) | 1 line
+  
+  XCF-1488 - Change label for active greeting from none to default system greeting
+........
+  r8676 | dkrzemin | 2007-01-31 11:03:58 -0500 (Wed, 31 Jan 2007) | 2 lines
+  
+  XPR-157 SOAP service to monitor in-progress calls in callresolver
+........
+  r8677 | lazyboy | 2007-01-31 15:25:01 -0500 (Wed, 31 Jan 2007) | 1 line
+  
+  XCF-1066 - Make inbox external page so link can be embedded in email and login will redirect appropropriately
+........
+  r8680 | dkrzemin | 2007-02-01 11:47:13 -0500 (Thu, 01 Feb 2007) | 4 lines
+  
+  XCF-1390 add Active calls tab to sipXconfig Diagnostics/Calls tab
+  move old Calls screen to Historic tab
+  various fixes to call resolver SOAP server to implement tactive calls polling
+........
+  r8681 | lazyboy | 2007-02-01 14:21:29 -0500 (Thu, 01 Feb 2007) | 1 line
+  
+  Fix lib dependency cache build, some source rpms are not avaiable on the net anymore
+........
+  r8682 | dkrzemin | 2007-02-01 15:35:12 -0500 (Thu, 01 Feb 2007) | 4 lines
+  
+  XCF-1390 moved and renamed sipxproxy-cdr.wsdl - it now resides in sipXconfig as meta/sipxcallresolver.wsdl
+  sipXconfig is the only component of the system that requires this .wsdl file (SOAP server that we use does not support serving WSDL yet)
+  in future we need a better strategy for sharing .wsdl - in general case they need to be available both for servers and clients, at the moment we take advantage of the fact that other SOAP servers live in sipXconfig project
+........
+  r8683 | dkrzemin | 2007-02-01 18:06:17 -0500 (Thu, 01 Feb 2007) | 2 lines
+  
+  XCF-1390 display call duration and call status for Active Calls
+........
+  r8684 | dkrzemin | 2007-02-01 19:07:01 -0500 (Thu, 01 Feb 2007) | 2 lines
+  
+  XCF-1390 - catch and log exceptions if call resolver SOAP agent is for some reason unaccessible
+........
+  r8685 | lazyboy | 2007-02-02 08:58:36 -0500 (Fri, 02 Feb 2007) | 1 line
+  
+  XCF-1066 Use friendly URLs to get to inbox, play and delete messages
+........
+
+END

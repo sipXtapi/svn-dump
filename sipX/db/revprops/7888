@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-31T04:37:09.983620Z
+K 7
+svn:log
+V 265
+mergefrom user_dworley_redirectors2main 7445
+(This merge compiles, but a number of things have not been resolved:
+SipRedirectorAuthRouter and merging changes of files that have been
+superseded.)
+
+First compilable version of implementing the redirectors via Plugin.
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2004-10-29T20:56:25.555492Z
+K 7
+svn:log
+V 90
+XPB-105
+ 
+Added VOICEMAIL_AGE_LIMIT parameter which is used by voicemail_clean.sh script.
+
+END

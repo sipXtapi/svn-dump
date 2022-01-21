@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-02-20T20:31:34.746058Z
+K 7
+svn:log
+V 79
+XCS-78 - comment out failing registry db unit test that leaks system semaphores
+END

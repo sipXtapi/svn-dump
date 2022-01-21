@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-23T23:15:37.973576Z
+K 7
+svn:log
+V 229
+XCF-813 improved fix for IE :hover bug
+in some cases JavaScript that is used to fix IE was not activated because tapestry was overwriting window.onload function
+we need to use tapestry initialize block to make it call our script
+
+END

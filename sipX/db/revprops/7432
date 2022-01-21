@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-09-07T13:48:03.679364Z
+K 7
+svn:log
+V 73
+apply patch for finding java when dt.jar is not executable, from scott z.
+END

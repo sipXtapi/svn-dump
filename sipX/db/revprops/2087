@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-05-31T19:56:58.965164Z
+K 7
+svn:log
+V 128
+XCF-397 - Remove installing ca.crt into java truststore, now part of profilegenerator startup to create separate truststore file
+END

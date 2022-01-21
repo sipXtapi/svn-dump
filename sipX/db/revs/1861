@@ -1,0 +1,79 @@
+id: 1v5.0.r1861/0
+type: dir
+count: 0
+cpath: /old/sipXcommserverLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 17
+dir 1v5.0.r1861/0
+K 4
+main
+V 20
+dir 1qo.0.r1860/1033
+K 4
+tags
+V 20
+dir 1uu.0.r1825/1623
+END
+ENDREP
+id: 1qn.0.r1861/214
+type: dir
+pred: 1qn.0.r1860/1343
+count: 64
+text: 1861 91 110 110 7918ed026ba766d840dc405f0bc4cf86
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 19
+dir 1qn.0.r1861/214
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1861/610
+type: dir
+pred: 1.0.r1860/1741
+count: 1860
+text: 1861 377 220 220 ce5d5e00d0a0b0c132b2514d91b24245
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r1861/610
+END
+ENDREP
+id: 0.0.r1861/802
+type: dir
+pred: 0.0.r1860/1936
+count: 1861
+text: 1861 754 35 35 806ab5588b91df826ae9d77cc732e8a4
+cpath: /
+copyroot: 0 /
+
+_0.0.t1860-1 add false false /old/sipXcommserverLib/branches
+
+
+802 941

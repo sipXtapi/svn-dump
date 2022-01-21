@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-04-10T20:15:30.934373Z
+K 7
+svn:log
+V 210
+Freeze schema to version 3, so we will officially allow upgrades from this version.  NOTE: All development DBs between sipx 3.2 and this one 3.3 will be automatically upgraded, you will not have to drop the db.
+END

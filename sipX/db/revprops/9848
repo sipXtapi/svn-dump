@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-17T03:40:00.799721Z
+K 7
+svn:log
+V 289
+MpMMTimer - Add Timer Notification implementation for windows, + tests.
+
+Added support for OsNotification method of notifying when timer ticks,
+Added tests to fully test this timer type under windows.
+Other performance metrics will have to be created for other platforms, when implemented.
+END

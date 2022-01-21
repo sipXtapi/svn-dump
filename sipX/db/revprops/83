@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-06-21T17:02:18.326139Z
+K 7
+svn:log
+V 291
+Fix
+  XPL-17 : implement UtlSortedListIterator
+  XPL-18 : List iterators wrap
+
+  Along the way, discovered (thanks to Sigrid Thijs) that the isEquals
+  method in UtlContainable wasn't returning a value.  Fixing that
+  uncovered a bug in UtlVoidPtr - it's comparison function was incorrect.
+
+
+END

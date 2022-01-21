@@ -1,0 +1,29 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-08T12:19:14.872667Z
+K 7
+svn:log
+V 473
+Merged revisions 7963-7964,7966 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7963 | bob | 2006-11-08 03:40:04 +0300 | 2 lines
+  
+  Fixed typo (HttpConnectionMap vs HttpConnectionMap.cpp)
+........
+  r7964 | bob | 2006-11-08 04:02:08 +0300 | 2 lines
+  
+  Added examples/xmlrpc to the build process
+........
+  r7966 | bob | 2006-11-08 04:28:52 +0300 | 3 lines
+  
+  Fixed portlib unit tests (some file operations were failing)
+........
+
+END

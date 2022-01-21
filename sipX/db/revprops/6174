@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-17T00:52:51.482887Z
+K 7
+svn:log
+V 164
+Daily merge out from main
+    XCF-916 Remove listener from form and put on activate/inactivate
+    buttons so cancel button is handled exclusively from FormActions
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-25T08:34:37.010685Z
+K 7
+svn:log
+V 326
+Cleanup for fix from rev9600.
+1) No need to get buffer if data to play is not set, and so no need to release it then.
+2) No need to put silence to buffer right after first check for available data. It would be done in the next 'if' - if in loop, then rest of the buffer will be filled with new data, else filled with silence.
+
+END

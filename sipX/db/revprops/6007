@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-01T02:39:48.492455Z
+K 7
+svn:log
+V 142
+[XPS-33] Randomize returned subscription duration to spread load on
+         status server
+         http://track.sipfoundry.org/browse/XPS-33
+
+END

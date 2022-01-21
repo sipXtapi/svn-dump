@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-09T13:32:31.326584Z
+K 7
+svn:log
+V 81
+MpInputDeviceDriverWnt: currentFrameTime parameter should have MpFrameTime type.
+
+END

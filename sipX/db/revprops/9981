@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-08-21T16:13:54.410573Z
+K 7
+svn:log
+V 217
+Add pause and resume capabilities to FromFile resource.
+Rename MPRNM_FROMFILE_STOP to MPRNM_FROMFILE_STOPPED as it is more appropriate.
+Remove sendNotification from MprFromFile as the one in MpResource is all we need.
+END

@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-08-29T14:14:00.125052Z
+K 7
+svn:log
+V 632
+-Removed the dependency on HAVE_GIPS from sipXtackLib and fixed the issue of using wrong codecs in media subsystem.
+        
+-Added two new interfaces: sipxCallGetRequestURI() and sipxCallGetRemoteContact(), and added the error code and eorr text to sipxCallReject().
+        
+-Removed the deletion of sipUserAgent. It is being taken care of by the CallManager now.
+        
+-Removed the use of HAVE_GIPS in getCodecNameByType().
+        
+-Forgot to check in this file for removing the HAVE_GIPS flag from sipXtackLib.
+        
+-Moved the function checkForTag() to outside of the loop for efficiency purpose.
+        
+        
+    
+
+END

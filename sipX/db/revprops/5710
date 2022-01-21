@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-12-05T23:53:09.291442Z
+K 7
+svn:log
+V 121
+starting, stopping and restarting services works for multiple hosts
+status of running services only works for local host
+
+END

@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-08-04T22:09:01.250912Z
+K 7
+svn:log
+V 306
+Manually merged sipxLineLookupHandle from tapi branch to fix problem
+with incoming call events having a NULL line handle.  The tapi branch
+has a looser matching method which requires only a match of the user ID.
+
+Also had to merge the Url class between main and tapi branches to support
+the above change.
+
+
+END

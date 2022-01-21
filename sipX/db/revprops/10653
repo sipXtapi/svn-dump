@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-05-16T20:26:23.743159Z
+K 7
+svn:log
+V 98
+Fix use of uninitialized buffer in OSS input/output driver.
+This caused clicks on driver startup.
+
+END

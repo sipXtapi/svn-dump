@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-08-19T13:44:11.616549Z
+K 7
+svn:log
+V 227
+1) Fixed some argument inconsistency problems found by Wolfgang Pichler on sipxInitialize/sipxReInitialize.  
+2) Updated the docs on sipxReInitialize to spell out that users must also reconfigure the stack (e.g. rport, etc).
+
+
+
+END

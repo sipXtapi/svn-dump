@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-28T19:55:37.434104Z
+K 7
+svn:log
+V 134
+Fix comment for MpMediaTask::signalFrameStart().
+Recent version of MpMediaTask::signalFrameStart() use message to signal frame start.
+
+END

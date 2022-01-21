@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-14T17:47:47.503515Z
+K 7
+svn:log
+V 283
+Add borders to text panes so they are more readable.
+Set up ESC to close "SIP Message" windows.
+Add placeholder for Java 1.5 feature to let the window manager set the location
+of "SIP Message" windows.
+Delete useless setSize call.
+When new data is loaded, resize the graphic window.
+
+END

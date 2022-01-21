@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-05-31T15:52:16.703439Z
+K 7
+svn:log
+V 95
+Set correct attributes for /var/sipxdata/mediaserver and /var/sipxdata/parkserver directories.
+
+END

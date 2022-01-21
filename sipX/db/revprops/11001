@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-03T02:48:32.341976Z
+K 7
+svn:log
+V 150
+Fix data race in Windows implementation of OsDateTime::getCurTime().
+Access to static variables, accessed from multiple threads must be synchronized.
+
+END

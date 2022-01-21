@@ -1,0 +1,455 @@
+PLAIN
+K 7
+AUTHORS
+V 26
+file qkz.7n5.r12718/508135
+K 7
+COPYING
+V 26
+file qm5.7n5.r12718/516358
+K 11
+Makefile.am
+V 26
+file qn6.7n5.r12718/516838
+K 11
+Makefile.in
+V 26
+file qkj.7n5.r12718/507045
+K 9
+README.md
+V 26
+file qld.7n5.r12718/511542
+K 7
+compile
+V 26
+file ql3.7n5.r12718/510801
+K 12
+config.guess
+V 26
+file qmj.7n5.r12718/511092
+K 11
+config.h.in
+V 26
+file qmu.7n5.r12718/512623
+K 10
+config.sub
+V 26
+file qmn.7n5.r12718/511775
+K 9
+configure
+V 26
+file qkh.7n5.r12718/506793
+K 12
+configure.ac
+V 26
+file qmw.7n5.r12718/515229
+K 7
+depcomp
+V 26
+file ql1.7n5.r12718/510509
+K 3
+doc
+V 22
+dir qjz.7n5.r12721/363
+K 8
+examples
+V 22
+dir qk1.7n5.r12721/715
+K 7
+include
+V 25
+dir qk2.7n5.r12718/507510
+K 10
+install-sh
+V 26
+file qmf.7n5.r12718/518716
+K 9
+ltmain.sh
+V 26
+file qlf.7n5.r12718/512028
+K 2
+m4
+V 25
+dir qk3.7n5.r12718/506568
+K 7
+missing
+V 26
+file qn4.7n5.r12718/516590
+K 26
+opusfile-uninstalled.pc.in
+V 26
+file qm9.7n5.r12718/517032
+K 14
+opusfile.pc.in
+V 26
+file qlb.7n5.r12718/511347
+K 25
+opusurl-uninstalled.pc.in
+V 26
+file qln.7n5.r12718/512223
+K 13
+opusurl.pc.in
+V 26
+file qk9.7n5.r12718/504876
+K 15
+package_version
+V 26
+file qls.7n5.r12718/512429
+K 3
+src
+V 21
+dir qk4.7n5.r12721/56
+K 4
+unix
+V 25
+dir qk5.7n5.r12718/507953
+K 5
+win32
+V 25
+dir qk6.7n5.r12718/515046
+END
+ENDREP
+id: qjx.7n5.r12732/1275
+type: dir
+pred: qjx.7n5.r12721/2492
+count: 2
+text: 12732 0 1262 1262 0b3f2f6574a251cb788f515ffc17ead2
+props: 12721 2306 173 0 6b7abbb6c6ee9d134153d288bcfc7485
+cpath: /main/sipXmediaLib/contrib/libopus/opusfile
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file lwa.7n5.r12192/730
+K 10
+README.TXT
+V 23
+file lw7.7n5.r12724/344
+K 6
+libogg
+V 23
+dir qbe.7n5.r12729/1338
+K 10
+libopusenc
+V 23
+dir qny.7n5.r12730/1665
+K 4
+opus
+V 23
+dir mb8.7n5.r12723/5300
+K 8
+opusfile
+V 23
+dir qjx.7n5.r12732/1275
+END
+ENDREP
+id: lw5.7n5.r12732/1804
+type: dir
+pred: lw5.7n5.r12730/2142
+count: 18
+text: 12732 1532 259 259 a4ce322d3b9b08998228e2e33f8d541c
+props: 12481 19798 31 0 2174dc3044360e901d26d78b8a35acaf
+cpath: /main/sipXmediaLib/contrib/libopus
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file f69.7n5.r12731/523
+K 7
+android
+V 25
+dir g9q.7n5.r12196/415625
+K 14
+buildFFmpeg.sh
+V 23
+file h4u.7n5.r11741/652
+K 8
+libamrnb
+V 22
+dir f32.7n5.r12479/381
+K 8
+libamrwb
+V 23
+dir f41.7n5.r12477/1608
+K 8
+libg7221
+V 22
+dir pg4.7n5.r12611/180
+K 8
+libg729a
+V 23
+dir pr8.7n5.r12640/4313
+K 6
+libgsm
+V 25
+dir ebx.7n5.r12361/118167
+K 7
+libilbc
+V 22
+dir ezs.7n5.r12480/598
+K 7
+libopus
+V 23
+dir lw5.7n5.r12732/1804
+K 10
+libspandsp
+V 25
+dir f50.7n5.r12361/109423
+K 8
+libspeex
+V 23
+dir fz0.7n5.r12478/2055
+END
+ENDREP
+id: ebw.7n5.r12732/2587
+type: dir
+pred: ebw.7n5.r12731/1307
+count: 127
+text: 12732 2054 520 520 7893f0f13a23db5b81b0e65fead5a17d
+props: 12208 0 48 0 86168c69db02cf3306494c6df91bc2ed
+cpath: /main/sipXmediaLib/contrib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 22
+file g92.7n5.r12289/56
+K 12
+CONTRIBUTORS
+V 25
+file b41.0.r6469/22054157
+K 9
+ChangeLog
+V 25
+file b42.0.r6469/22025314
+K 7
+INSTALL
+V 24
+file b43.0.r6955/1728056
+K 11
+Makefile.am
+V 24
+file b44.7n5.r12466/9317
+K 4
+NEWS
+V 25
+file b45.0.r6469/22058814
+K 6
+README
+V 24
+file b46.0.r6955/1727035
+K 4
+TODO
+V 25
+file b47.0.r6469/22057442
+K 9
+acsite.m4
+V 24
+file b48.0.r6955/1726702
+K 17
+autoconf259.patch
+V 23
+file fxj.7n5.r10953/747
+K 3
+bin
+V 22
+dir b49.7n5.r11821/958
+K 12
+configure.ac
+V 24
+file b4k.7n5.r12646/1956
+K 7
+contrib
+V 23
+dir ebw.7n5.r12732/2587
+K 3
+doc
+V 22
+dir b4l.7n5.r11821/663
+K 26
+dtmf5_48khz_16b_signed.wav
+V 23
+file f7a.0.r10516/48478
+K 7
+include
+V 24
+dir b4p.7n5.r12664/12856
+K 3
+lib
+V 24
+dir b8u.0.r6469/22057603
+K 4
+meta
+V 24
+dir b8v.0.r6469/22024982
+K 25
+sipXmediaLib-msvc8.vcproj
+V 24
+file e76.7n5.r11952/3545
+K 16
+sipXmediaLib.dsp
+V 24
+file up.7nl.r11401/19813
+K 16
+sipXmediaLib.vcp
+V 22
+file e6i.0.r9956/38866
+K 19
+sipXmediaLib.vcproj
+V 24
+file b92.7n5.r12138/5904
+K 20
+sipXmediaLib.vcxproj
+V 26
+file nqq.7n5.r12361/119245
+K 29
+sipXmediaLibTest-msvc8.vcproj
+V 24
+file e77.7n5.r12273/3350
+K 20
+sipXmediaLibTest.dsp
+V 23
+file mh.7nm.r12273/3109
+K 20
+sipXmediaLibTest.sln
+V 24
+file eaj.7n5.r12138/5652
+K 20
+sipXmediaLibTest.vcp
+V 22
+file e6j.0.r8865/20512
+K 23
+sipXmediaLibTest.vcproj
+V 24
+file eak.7n5.r12273/3560
+K 24
+sipXmediaLibTest.vcxproj
+V 26
+file nqo.7n5.r12361/119064
+K 20
+sipxmedialib.spec.in
+V 24
+file b93.7n5.r10867/5783
+K 3
+src
+V 23
+dir b94.7n5.r12728/6257
+END
+ENDREP
+id: b40.7n5.r12732/4348
+type: dir
+pred: b40.7n5.r12731/3067
+count: 1986
+text: 12732 2826 1509 1509 e50b79519445e19d96f04658f8e49f9b
+props: 12332 3448 1828 0 9538f009da0d305e6e1bb316bb7369dd
+cpath: /main/sipXmediaLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g8y.7n5.r12172/315
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 23
+dir 9wj.7n5.r12725/1220
+K 15
+configure.patch
+V 23
+file o60.7n5.r12434/574
+K 10
+readme.txt
+V 23
+file 9ws.7n5.r12464/516
+K 7
+scripts
+V 23
+dir fxk.7n5.r12171/1617
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r12716/4407
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r12711/3268
+K 12
+sipXmediaLib
+V 23
+dir b40.7n5.r12732/4348
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r12702/5163
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r12682/2896
+K 11
+sipXtackLib
+V 23
+dir boq.7n5.r12709/7434
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r12732/5294
+type: dir
+pred: 9wi.7n5.r12731/4013
+count: 3670
+text: 12732 4587 694 694 6a0c3816a63ec8d5fb0af16f92eca782
+props: 12114 59175 76 0 1dd3880c3272b32f88d1700b38908223
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r12113/17441
+K 4
+main
+V 23
+dir 9wi.7n5.r12732/5294
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r12732/5689
+type: dir
+pred: 0.0.r12731/4408
+count: 12732
+text: 12732 5517 159 159 a0733d434e83e4497bff4c84f6ce5809
+cpath: /
+copyroot: 0 /
+
+qmd.7n5.r12718/517239 delete false false /main/sipXmediaLib/contrib/libopus/opusfile/aclocal.m4
+
+
+5689 5836

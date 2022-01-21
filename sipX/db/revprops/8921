@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-02-27T20:26:36.952005Z
+K 7
+svn:log
+V 96
+Use asciidoc (in combination with xsltproc and docbook xsl) to convert text files into man pages
+END

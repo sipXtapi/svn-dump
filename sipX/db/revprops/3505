@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-02-09T00:04:47.677027Z
+K 7
+svn:log
+V 91
+allow to build w/o sipX dependecies in case of emergencies (./configure --disable-sipagent)
+END

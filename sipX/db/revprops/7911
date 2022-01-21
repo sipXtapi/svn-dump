@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-11-01T02:08:57.586451Z
+K 7
+svn:log
+V 227
+Remove erroneous merge properties for label
+user_dworley_redirectors2main and move the recorded revs to
+user_dworley_redirectors2merge.  (The revs came from the right branch,
+because both *-head properties had the same value.)
+
+END

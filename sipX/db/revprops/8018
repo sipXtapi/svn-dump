@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-11-18T16:53:17.846618Z
+K 7
+svn:log
+V 66
+Created a branch of sipXtapi r8007 for WINCE porting/development
+
+
+END

@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-08-21T11:14:50.030265Z
+K 7
+svn:log
+V 638
+Merged revisions 7302 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7302 | bob | 2006-08-19 19:41:40 +0400 | 3 lines
+  
+  Incorporate Woof's change to fix XCL-107.  I also expanded the test coverage to better cover this test/failure case.  We don't have a good way of testing different variations in SIP messaging in the sipXtapiTest, so these test cases include random delays (you should turn on the delay in SipConnection::send) and rely on quantity of test runs.  I recommend increasing the testCallCancel and testCallCancel2 to many hundred/thousands to really beat on this test case.
+........
+
+END

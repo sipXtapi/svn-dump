@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-02-10T04:53:54.252953Z
+K 7
+svn:log
+V 355
+Rename the SyncStateUnknown state to Uninitialized for clarity.
+Require that peers cannot become Reachable until RegistrarTest invokes the reset method on the peer, because that's when we learn the peer's sentTo value.
+Init peer sentTo and receivedFrom to the invalid value -1 so that we can assert that it has been initialized properly.
+Update the spec.
+
+END

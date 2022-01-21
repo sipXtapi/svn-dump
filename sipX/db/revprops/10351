@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-11-04T07:59:14.618288Z
+K 7
+svn:log
+V 80
+Add VC6 ilbc codec project, and ilbc plugin projects, all with proper linkage.
+
+
+END

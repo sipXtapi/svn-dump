@@ -1,0 +1,162 @@
+PLAIN
+K 13
+svn:externals
+V 70
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.8/config
+
+K 10
+svn:ignore
+V 218
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxcommserverlib-*.rpm
+sipxcommserverlib-*.tar.gz
+sipxcommserverlib.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 61
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 25
+1-135,148,157,164,167,184
+K 17
+svnmerge-2.8-head
+V 61
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 5
+1-199
+K 18
+svnmerge-main-head
+V 53
+https://scm.sipfoundry.org/rep/sipXcommserverLib/main
+K 18
+svnmerge-main-revs
+V 5
+1-198
+END
+ENDREP
+id: 1qo.93.r2052/737
+type: dir
+pred: 1qo.93.r2036/2701
+count: 150
+text: 2036 1907 781 781 bc6bd13e97aa473a66779de201a5c0bb
+props: 2052 0 724 0 7f00c5cec27bc1e8a8eff668f83bee49
+cpath: /old/sipXcommserverLib/branches/2.8
+copyroot: 1996 /old/sipXcommserverLib/branches/2.8
+
+PLAIN
+K 3
+2.6
+V 21
+dir 1qo.8e.r1987/4325
+K 3
+2.8
+V 20
+dir 1qo.93.r2052/737
+K 8
+user_pin
+V 22
+dir 1qo.9d.r2050/12184
+K 9
+user_ping
+V 21
+dir 1qo.9a.r2032/3639
+END
+ENDREP
+id: 1v5.0.r2052/1176
+type: dir
+pred: 1v5.0.r2050/12637
+count: 50
+text: 2052 1008 155 155 f029fd40400ecf057843edc5810dc681
+cpath: /old/sipXcommserverLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1v5.0.r2052/1176
+K 4
+main
+V 20
+dir 1qo.0.r2048/1104
+K 4
+tags
+V 20
+dir 1uu.0.r2051/2512
+END
+ENDREP
+id: 1qn.0.r2052/1478
+type: dir
+pred: 1qn.0.r2051/2811
+count: 255
+text: 2052 1352 113 113 45d8050077450eb31a04ccdc3ef7d7c0
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2052/1478
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2052/1879
+type: dir
+pred: 1.0.r2051/3213
+count: 2051
+text: 2052 1645 221 221 22507018aeade78672ac52486fc67d28
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2052/1879
+END
+ENDREP
+id: 0.0.r2052/2074
+type: dir
+pred: 0.0.r2051/3409
+count: 2052
+text: 2052 2025 36 36 57c7412d295faaa682381a2678199dd3
+cpath: /
+copyroot: 0 /
+
+1qo.93.t2051-1 modify false true /old/sipXcommserverLib/branches/2.8
+
+
+2074 2215

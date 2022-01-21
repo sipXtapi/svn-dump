@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-18T16:48:57.647091Z
+K 7
+svn:log
+V 206
+sipXmediaLib: By default we should use OS_INFINITY timeout instead of NO_WAIT_TIME for most of queue operations.
+Using NO_WAIT_TIME leads to many failures under high load (e.g. when you run from valgrind).
+
+END

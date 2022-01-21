@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-11-11T01:23:11.378594Z
+K 7
+svn:log
+V 355
+Progress on XCF-763, SOAP authentication.  Add security constraints to web.xml that protect the web services URLs with HTTP Basic authentication.  Implement a dummy UserRealm implementation, JettyUserRealm, that pretends to do authentication.  Modify the Ruby unit tests to send a dummy username and password so that the SOAP client can be authenticated.
+
+END

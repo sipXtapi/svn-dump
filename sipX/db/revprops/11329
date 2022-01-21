@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2009-05-06T20:14:20.803817Z
+K 7
+svn:log
+V 96
+Parameterize default flowgraph internal sample rate used by call mgr
+when creating flowgraphs.
+
+
+END

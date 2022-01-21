@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-14T21:27:02.115856Z
+K 7
+svn:log
+V 106
+MpTestResource: Order of member variables initialization made consistent with order of their declaration.
+
+END

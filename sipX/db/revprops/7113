@@ -1,0 +1,33 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-07-22T14:19:20.565783Z
+K 7
+svn:log
+V 791
+Merged revisions 7106-7110 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7106 | bob | 2006-07-21 22:19:37 +0400 | 3 lines
+  
+  A few more STUN parsing updates to match draft-ietf-behave-rfc3489bis-04.txt -- more testing needed.
+........
+  r7108 | bob | 2006-07-21 23:34:42 +0400 | 3 lines
+  
+  When generating XOR Mapped Address, XOR w/ MagicId -- not the TransactionId.  Also, don't only send the XOR mapped version unless requested or the MagicId is for bis4+
+........
+  r7109 | bob | 2006-07-22 00:08:54 +0400 | 3 lines
+  
+  Build/Usage fixes for Stun unit tests (part of sipXtapi unit tests).
+........
+  r7110 | bob | 2006-07-22 00:28:54 +0400 | 2 lines
+  
+  Fixed a MS Runtime check complain -- doesn't like casting from an int to short
+........
+
+END

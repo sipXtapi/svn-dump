@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-04-27T16:16:32.034186Z
+K 7
+svn:log
+V 194
+XPB-586: Include callresolver-config, callresolver-config.in, 
+sipcallresolver.log, and stunnel.log in sipx-snapshot.
+
+Hook up database patching during setup and before starting call 
+resolver.
+
+END

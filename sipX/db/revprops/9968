@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-08-21T10:59:20.417516Z
+K 7
+svn:log
+V 45
+Fix svn properties on two sipXportLib tests.
+
+END

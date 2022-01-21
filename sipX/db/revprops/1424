@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2004-12-09T22:48:02.480735Z
+K 7
+svn:log
+V 119
+Copy src/tapi and examples/PlaceCall to RPM build area, introduce switch --enable-tapi to include TAPI in future builds
+END

@@ -1,0 +1,301 @@
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 1rc.0.r1805/51
+type: dir
+pred: 1rc.0.r1799/23774
+count: 2
+text: 1799 23594 167 167 2707fc32302830890d39e2751e4eb768
+props: 1805 0 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXcommserverLib/main/include
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 1uh.0.r1805/332
+type: dir
+pred: 1uh.0.r1804/1834
+count: 4
+text: 1804 1682 139 139 ead7823c61878129627f1da26e864807
+props: 1805 281 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXcommserverLib/main/src/test
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 1u1.0.r1805/615
+type: dir
+pred: 1u1.0.r1799/33478
+count: 2
+text: 1799 32723 742 742 dffa208420ebfb3a217df162aa8cae00
+props: 1805 564 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXcommserverLib/main/src/sipdbtest
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 1t2.0.r1799/34937
+K 9
+digitmaps
+V 21
+dir 1t3.0.r1799/24931
+K 6
+fastdb
+V 21
+dir 1t5.0.r1799/34752
+K 5
+sipdb
+V 20
+dir 1to.0.r1802/1652
+K 9
+sipdbtest
+V 19
+dir 1u1.0.r1805/615
+K 4
+test
+V 19
+dir 1uh.0.r1805/332
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 1t1.0.r1805/1155
+type: dir
+pred: 1t1.0.r1804/2265
+count: 5
+text: 1805 854 237 237 90d8724dd1e20a9ea9e9c565f09f8b7d
+props: 1805 1104 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXcommserverLib/main/src
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 1qy.0.r1805/1434
+type: dir
+pred: 1qy.0.r1798/422979
+count: 1
+text: 1798 422827 139 139 550b6d8c1440037ff750470da25cceba
+props: 1805 1383 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXcommserverLib/main/bin
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 1r6.0.r1805/1718
+type: dir
+pred: 1r6.0.r1798/424712
+count: 1
+text: 1798 424456 243 243 eb6bd39c67eac935eb466e4cc1188293
+props: 1805 1667 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXcommserverLib/main/etc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 1qp.0.r1798/425019
+K 9
+ChangeLog
+V 23
+file 1qq.0.r1798/401586
+K 7
+INSTALL
+V 23
+file 1qr.0.r1798/401372
+K 7
+LICENSE
+V 23
+file 1qs.0.r1798/380771
+K 11
+Makefile.am
+V 23
+file 1qt.0.r1798/423181
+K 4
+NEWS
+V 23
+file 1qu.0.r1798/424867
+K 6
+README
+V 23
+file 1qv.0.r1798/425226
+K 4
+TODO
+V 23
+file 1qw.0.r1798/400566
+K 9
+acsite.m4
+V 23
+file 1qx.0.r1798/401741
+K 3
+bin
+V 20
+dir 1qy.0.r1805/1434
+K 12
+configure.ac
+V 22
+file 1r5.0.r1799/18479
+K 3
+etc
+V 20
+dir 1r6.0.r1805/1718
+K 7
+include
+V 18
+dir 1rc.0.r1805/51
+K 21
+sipXcommserverLib.dsp
+V 21
+file 1us.0.r1803/3518
+K 13
+sipdbtest.dsp
+V 21
+file 1ut.0.r1803/3254
+K 3
+src
+V 20
+dir 1t1.0.r1805/1155
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 67
+configure
+Makefile.in
+build
+config.h.in
+autom4te.cache
+aclocal.m4
+
+
+END
+ENDREP
+id: 1qo.0.r1805/2822
+type: dir
+pred: 1qo.0.r1804/3124
+count: 7
+text: 1805 1951 665 665 bb291dcf51baa52246dac2fc967b7fd6
+props: 1805 2629 180 0 ecee777c860b7fdfec57ef195f84bf79
+cpath: /old/sipXcommserverLib/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 20
+dir 1qo.0.r1805/2822
+END
+ENDREP
+id: 1qn.0.r1805/3100
+type: dir
+pred: 1qn.0.r1804/3400
+count: 8
+text: 1805 3048 39 39 c4e2ea72b6f36e006e71be7dc61c1fed
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r1805/3100
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1805/3497
+type: dir
+pred: 1.0.r1804/3797
+count: 1804
+text: 1805 3263 221 221 bc18e38d58daf2924558890fbd92a503
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1805/3497
+END
+ENDREP
+id: 0.0.r1805/3692
+type: dir
+pred: 0.0.r1804/3992
+count: 1805
+text: 1805 3643 36 36 8f42e976a69236ccba4f6e8a022b1b37
+cpath: /
+copyroot: 0 /
+
+1rc.0.t1804-1 modify false true /old/sipXcommserverLib/main/include
+
+1uh.0.t1804-1 modify false true /old/sipXcommserverLib/main/src/test
+
+1t1.0.t1804-1 modify false true /old/sipXcommserverLib/main/src
+
+1qy.0.t1804-1 modify false true /old/sipXcommserverLib/main/bin
+
+1u1.0.t1804-1 modify false true /old/sipXcommserverLib/main/src/sipdbtest
+
+1r6.0.t1804-1 modify false true /old/sipXcommserverLib/main/etc
+
+1qo.0.t1804-1 modify false true /old/sipXcommserverLib/main
+
+
+3692 3833

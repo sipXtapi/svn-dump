@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-08-18T16:26:48.505723Z
+K 7
+svn:log
+V 733
+This patch adds support for well known Speex codec.
+Current realization provides four different bitrates: 5950bps, 8000bps (default), 15000bps and 24600bps. DTX, VAD and AGC are disabled by default. Postprocessing is enabled only for 5950bps mode by default.
+
+Now Speex support is ENABLED by deafult under Windows and DISABLED under Linux, cause it is not tested under Linux at all. However all should work fine under Linux after updating build scripts. To enable Speex support define HAVE_SPEEX and link with libspeex.
+
+It is NOT TESTED to work with other clients. And there may be problems, cause Speex use dynamic payload type, which is not well supported now.
+
+Thanks to Hector Izquierdo Seliva and Andy M. for working on this!
+
+
+END

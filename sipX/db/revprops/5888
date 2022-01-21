@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-01-18T15:07:07.346737Z
+K 7
+svn:log
+V 65
+XCF-857 Remove references to ipmid.cfg in polycom application cfg
+END

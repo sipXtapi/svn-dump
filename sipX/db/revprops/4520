@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-02-28T21:34:05.306365Z
+K 7
+svn:log
+V 125
+Use fcntl to synchronize the access of summary.xml file as well as the mailbox.
+
+http://track.sipfoundry.org/browse/XPB-229
+
+
+END

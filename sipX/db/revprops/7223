@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-08T18:14:39.649542Z
+K 7
+svn:log
+V 273
+XCF-441 update default dialing plan to use long distance rules where possible
+it makes long distance rules feature accessible for other types of rules
+one can now specify PSTN gateway, Long Distance Gateway and Area codes for Local, Long Distance and International dialing
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2006-11-27T20:36:38.448568Z
+K 7
+svn:log
+V 553
+Jim Park's WINCE - PostThreadMessageA, GetMessageA, etc fixes from Sunday 2006-11-26
+Project settings fixes for ARM.
+
+With this patch, WinCE emulator runs all tests (fails a few timer related tests, but runs all the way through) (portLib, tackLib, mediaLib, mediaAdapterLib) and WinCE-ARM runs portLib and tackLib tests with same results as emulator, but mediaLib and mediaAdapterLib tests fail before they even really start -- with First Chance Exception - Access Violation somewhere before the first instruction in the WinMain function (unittest.cpp).
+END

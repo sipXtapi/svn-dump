@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-02-24T22:48:10.220602Z
+K 7
+svn:log
+V 99
+fix for XCL-33.  Calling sendMessage with the REGISTER message, instead of
+ putting it on a timer.
+
+END

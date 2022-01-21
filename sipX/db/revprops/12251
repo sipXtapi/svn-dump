@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2014-12-03T06:32:29.165689Z
+K 7
+svn:log
+V 84
+Implemented a second GSM codec in the GSM codec plugin for wave file packing format
+
+END

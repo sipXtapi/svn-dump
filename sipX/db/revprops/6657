@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-04-25T21:49:16.533634Z
+K 7
+svn:log
+V 108
+Remove svnmerge-pax737-* properties, which leaked during a previous merge.
+
+Do not merge to other branches.
+
+END

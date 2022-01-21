@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2004-10-27T18:55:31.348281Z
+K 7
+svn:log
+V 72
+Added workspaces for Win32 build of syslog2siptrace and siplog2siptrace.
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-24T09:40:52.867425Z
+K 7
+svn:log
+V 206
+Fix not quite correct assert() in MpInputDeviceDriverWnt: WIM_OPEN message is sent to callback from inside waveInOpen() before output arguments are set. So mDevHandle member variable is NULL at this point.
+
+END

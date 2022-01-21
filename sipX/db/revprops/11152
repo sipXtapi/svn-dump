@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-29T20:15:30.073885Z
+K 7
+svn:log
+V 253
+Properly quote paths to files in custom build rules for plugins.
+If one doesn't do this, you will get a syntax error in the copy command.
+
+Also corrected plgg726 custom build step for release build -- it was copying
+amrwb lib instead of libspandsp lib.
+
+END

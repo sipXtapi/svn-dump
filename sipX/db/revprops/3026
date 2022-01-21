@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-22T14:38:42.018408Z
+K 7
+svn:log
+V 82
+Linked config directory to http://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-21T18:55:20.886379Z
+K 7
+svn:log
+V 51
+XCF-225 Prepare by creating db access to jobs table
+END

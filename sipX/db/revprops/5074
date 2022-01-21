@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-20T02:35:24.778119Z
+K 7
+svn:log
+V 218
+Fix XCF-631: deleting users from hunt groups doesn't work.
+In EditCallGroup.delete, after removing the user ring from the call group, we must persist the changes to the call group explicitly.  Otherwise they get lost.
+
+END

@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-30T23:35:51.817420Z
+K 7
+svn:log
+V 148
+svnmerge never -r 7361,7362 -L user_dworley_redirectors2main
+
+These changes have already been incorporated:
+Remove ./build.
+Copy ./build from Main.
+
+END

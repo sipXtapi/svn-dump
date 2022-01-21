@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-09-28T17:13:55.294017Z
+K 7
+svn:log
+V 141
+XCF-1244 - Allow 0 for DST start/stop dates to signify DST is not used. Validation for other DST fields to allow 0 were made on svn rev 7596 
+END

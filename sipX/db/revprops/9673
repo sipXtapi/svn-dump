@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-07T23:28:56.660189Z
+K 7
+svn:log
+V 233
+More Doxygen tweaks for mediaLib.
+* Copy-paste doc from disable() to enable() instead of using @copydoc, because @copydoc copy @brief section too.
+* Set MULTILINE_CPP_IS_BRIEF to NO to properly generate our multiline brief comments.
+
+END

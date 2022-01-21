@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-16T19:45:57.622844Z
+K 7
+svn:log
+V 148
+Add AMR codec codec to sipXsdpLib.
+Two codec modes are supported - Octet Aligned and Bandwidth Efficient modes without any other optional features.
+
+END

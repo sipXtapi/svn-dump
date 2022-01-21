@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-07-21T20:28:54.685992Z
+K 7
+svn:log
+V 79
+Fixed a MS Runtime check complain -- doesn't like casting from an int to short
+
+END

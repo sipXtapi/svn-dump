@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-11-22T00:14:21.432715Z
+K 7
+svn:log
+V 91
+Finish XCF-766: SOAP support for listing park orbits, conferences, and call groups.  Whew!
+
+END

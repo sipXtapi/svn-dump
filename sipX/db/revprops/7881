@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-30T21:45:28.355917Z
+K 7
+svn:log
+V 322
+XCF-1338 Gateways were not returning models correctly. Default gateway constructor was setting model to "generic" getModel method does not resolve model id if model is already set.
+Uncomment Audioces tests that would have caught this problem and move them to DB category (better run them when DB is available than never).
+
+END

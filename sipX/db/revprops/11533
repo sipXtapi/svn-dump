@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-01-27T20:14:35.357964Z
+K 7
+svn:log
+V 76
+Fixed some of the temp. and test directory paths for unit tests on Android.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-05-31T12:41:28.489621Z
+K 7
+svn:log
+V 92
+XCF-990 Added total registrations, inactive registrations would simply be total minus active
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-05-31T05:51:33.016543Z
+K 7
+svn:log
+V 69
+Setup default topology to work with 1-4 channel MprRecorder resource
+
+END

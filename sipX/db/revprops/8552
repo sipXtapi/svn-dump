@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-16T19:35:42.639060Z
+K 7
+svn:log
+V 357
+XCF-1409 Localize permissions on System/Permission screen.
+Please note that only built-in permission labels and descriptions are localized. Custom permissions are entered by user and they are not localized (similarly to hunt group names, phone group names, user ids etc.). sipXconfig will keep on using internal (english) permission names in mapping files.
+
+END

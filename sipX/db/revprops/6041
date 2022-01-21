@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-02-02T20:18:48.579757Z
+K 7
+svn:log
+V 56
+sipxconfig startup error byproduct of freezing db schema
+END

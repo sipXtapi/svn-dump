@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-04-15T00:53:23.035287Z
+K 7
+svn:log
+V 100
+Fix how libsipXcommserverTest.la is searched for, so it can be found
+even when it is not installed.
+
+END

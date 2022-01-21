@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-10-28T13:15:45.546379Z
+K 7
+svn:log
+V 162
+Add a wrapper project that builds resiprocate libraries
+This is not yet added to the sipXpbx build, but will be
+when the bbridge conference bridge is integrated.
+
+END

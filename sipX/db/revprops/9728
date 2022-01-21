@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-23T22:17:17.745353Z
+K 7
+svn:log
+V 66
+Add new MpDspUtils class to VS6, Vs2003, VS2005 and Linux builds.
+
+END

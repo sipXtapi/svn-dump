@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-18T19:34:07.079990Z
+K 7
+svn:log
+V 59
+Better format debug output in MprDecode::doProcessFrame().
+
+END

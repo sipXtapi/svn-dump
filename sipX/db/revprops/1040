@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-06-16T20:39:55.335459Z
+K 7
+svn:log
+V 94
+eliminate warning now that local variable maxSipTransactionTimeSecs is not used by removing it
+END

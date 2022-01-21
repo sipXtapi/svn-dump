@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-01-10T16:26:23.766248Z
+K 7
+svn:log
+V 129
+Fix to MSVC6 command line build script for automated build.
+May still need INCLUDE and LIB environment variable fix after this.
+
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-01-07T23:41:00.888118Z
+K 7
+svn:log
+V 98
+Clover plug-in added.
+Should be OK to use even if you have no Clover, or Clover plugin installed.
+
+END

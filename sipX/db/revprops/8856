@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-21T20:23:53.816128Z
+K 7
+svn:log
+V 203
+Merged revisions 8791 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+
+........
+  r8791 | xmlscott | 2007-02-15 06:55:43 +0300 | 1 line
+  
+  fix include rule in sipxunit
+........
+
+END

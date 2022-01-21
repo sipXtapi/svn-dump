@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-09-07T13:55:13.778841Z
+K 7
+svn:log
+V 157
+Improve build identifiers to use subversion revision directly.
+add tracing to version stamp creation
+optionally generate SVN-VERSION from SVN-EXPORT-VERSION
+
+END

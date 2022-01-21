@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-01-23T22:35:00.736487Z
+K 7
+svn:log
+V 67
+Switch to Scott's new test infrastructure for relocating databases
+
+END

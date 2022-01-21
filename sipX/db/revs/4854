@@ -1,0 +1,52 @@
+PLAIN
+K 10
+svn:ignore
+V 10
+build.err
+
+K 25
+svnmerge-mirror-main-head
+V 49
+https://paradise.pingtel.com/rep/sipX/mirror/main
+K 25
+svnmerge-mirror-main-revs
+V 6
+1-2282
+END
+ENDREP
+id: 7q4.0.r4854/177
+type: dir
+pred: 7q4.0.r4853/19784
+count: 40
+text: 4853 19103 668 668 ee9ca0836af1a45dd32519a877623899
+props: 4854 0 164 0 ac8e9adbf1e51d6dfbe55419e6725ceb
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r4813/32382
+K 4
+main
+V 19
+dir 7q4.0.r4854/177
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r4854/508
+type: dir
+pred: 0.0.r4853/20118
+count: 4854
+text: 4854 380 115 115 def19ba11e9504a52f09d211298131e3
+cpath: /
+copyroot: 0 /
+
+7q4.0.t4853-1 modify false true /main
+
+
+508 650

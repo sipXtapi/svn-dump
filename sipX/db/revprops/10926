@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-11-08T11:46:04.260117Z
+K 7
+svn:log
+V 62
+Fix TURN and STUN utils to work correctly under 64-bit Linux.
+
+END

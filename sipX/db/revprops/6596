@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-04-17T16:45:04.341549Z
+K 7
+svn:log
+V 63
+XPR-147: Configure CSE purge age independently of CDR purge age
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-04-04T15:11:41.585872Z
+K 7
+svn:log
+V 123
+Move code out of assert. -- disableDevice should happen outside of assert,
+as this will only be executed in a debug build.
+
+END

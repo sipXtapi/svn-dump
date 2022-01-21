@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-04-06T20:21:11.692216Z
+K 7
+svn:log
+V 422
+[XPB-499] Changes to build and install on FC5
+          Many changes to compile with gcc 4
+           (thank you Hannu Strang for most of these)
+          Several changes to the configuration macros to detect other
+           differences
+          Upgrade the dependent packages to later versions
+          Trim and configure the apache configuration files so that
+           I think they now work with either 2.0 or 2.2
+
+
+END

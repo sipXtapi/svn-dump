@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-11-18T23:33:32.843938Z
+K 7
+svn:log
+V 124
+Remove exceptions from UtlRegex - they prevent sipXportLib from compilation without RTTI. And we don't handle them anyway. 
+
+END

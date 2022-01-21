@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-11-07T06:50:18.631461Z
+K 7
+svn:log
+V 193
+Make MprDecode more resilent to failures in codecs initialization.
+Codec may fail to initialize due to unsuppored set of fmtp params, so it's normal situation and should be handled gracefully.
+
+END

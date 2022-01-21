@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-09-22T14:49:29.094749Z
+K 7
+svn:log
+V 219
+Clean up intro page.
+  Remove the (now non-existent) distinction between phone and system
+  configuration
+  Fix the window titles.
+  Change the order to put the (hopefully more frequently used)
+  voicemail link on top.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-02-28T23:31:29.446159Z
+K 7
+svn:log
+V 119
+XCF-190 Created alias service to be used by profile generate to access additional aliases created by user forwarding.
+
+
+END

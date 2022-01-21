@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-03-16T08:02:38.674097Z
+K 7
+svn:log
+V 57
+Fixed some of the build problems in sipXphone on linux.
+
+
+END

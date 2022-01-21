@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-07-08T16:28:01.715989Z
+K 7
+svn:log
+V 258
+sipXportLib: MacOs X fixes.
+* OsIntTypes.h should be included first in many places.
+* __MACH__ define is now replaced by __APPLE__
+* MacOs X specific implementation of OsDateTimeLinux::secondsSinceBoot() and OsTaskLinux::delay()
+* Small fix for AdapterInfo.
+
+END

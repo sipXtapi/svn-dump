@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-03-03T22:30:15.197128Z
+K 7
+svn:log
+V 119
+Add xml namespace declaration to alias.xml file so that it can be validated.
+http://track.sipfoundry.org/browse/XRR-35
+
+END

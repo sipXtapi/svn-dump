@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-24T21:23:11.238076Z
+K 7
+svn:log
+V 281
+Merged revisions 8127 via svnmerge from sipXtackLib main branch.
+
+........
+  r8127 | dworley | 2006-11-27 23:58:57 +0300 | 7 lines
+  
+  mergefrom pingtel-main 7553
+  
+  Add explanatory comment to the MailMessage::Send method, which was
+  previously entirely undocumented.
+........
+
+END

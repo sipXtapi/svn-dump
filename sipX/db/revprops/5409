@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-10-27T20:21:07.987624Z
+K 7
+svn:log
+V 101
+Simplify WSDL a bit, remove axis-ant from nec. jars, jar has log4j.properties triggering log diarrhea
+END

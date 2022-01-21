@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-12-03T15:19:36.122910Z
+K 7
+svn:log
+V 48
+conditionalize some very verbose routine logging
+END

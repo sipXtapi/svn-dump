@@ -1,0 +1,282 @@
+PLAIN
+K 13
+svn:externals
+V 71
+ssl https://scm.sipfoundry.org/rep/sipXpbx/branches/post-2.6.1/doc/ssl
+
+END
+ENDREP
+id: 2jh.ha.r3098/113
+type: dir
+pred: 2jh.0.r3081/2981
+count: 4
+text: 3081 2926 42 42 a534613401a3a099cdc6f5b741629d07
+props: 3098 0 100 0 57e969281b3b640ed723656dea89d44f
+cpath: /old/sipXconfig/branches/post-2.6.1/doc
+copyroot: 3088 /old/sipXconfig/branches/post-2.6.1
+
+PLAIN
+K 13
+svn:externals
+V 79
+sipxssl https://scm.sipfoundry.org/rep/sipXpbx/branches/post-2.6.1/bin/sipxssl
+
+END
+ENDREP
+id: 4bz.ha.r3098/504
+type: dir
+pred: 4bz.0.r3078/754
+count: 1
+props: 3098 383 108 0 36583aae8dcb28079e25962552c64d91
+cpath: /old/sipXconfig/branches/post-2.6.1/bin
+copyroot: 3088 /old/sipXconfig/branches/post-2.6.1
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 24
+file 2hg.0.r3025/7526700
+K 9
+ChangeLog
+V 20
+file 2hh.0.r3048/286
+K 7
+INSTALL
+V 20
+file 2hi.0.r3079/129
+K 7
+LICENSE
+V 24
+file 2hj.0.r3025/7507227
+K 11
+Makefile.am
+V 21
+file 2hk.0.r3084/6080
+K 4
+NEWS
+V 24
+file 2hl.0.r3025/8230780
+K 6
+README
+V 20
+file 2hm.0.r3063/478
+K 4
+TODO
+V 24
+file 2hn.0.r3025/7543047
+K 9
+acsite.m4
+V 24
+file 2ho.0.r3025/7507648
+K 14
+ant-targets.am
+V 21
+file 2hp.0.r3057/7190
+K 15
+ant-targets.xml
+V 21
+file 2hq.0.r3068/6976
+K 3
+bin
+V 20
+dir 4bz.ha.r3098/504
+K 6
+common
+V 20
+dir 2hs.0.r3084/5614
+K 20
+config.properties.in
+V 21
+file 2jf.0.r3084/5836
+K 12
+configure.ac
+V 22
+file 2jg.0.r3066/19053
+K 3
+doc
+V 20
+dir 2jh.ha.r3098/113
+K 3
+etc
+V 19
+dir 4b7.0.r3079/442
+K 3
+lib
+V 22
+dir 2jy.0.r3050/121617
+K 16
+profilegenerator
+V 22
+dir 2kj.ha.r3090/51414
+K 23
+profilepub_sipagent.dsp
+V 20
+file 4b5.0.r3054/179
+K 16
+profilepublisher
+V 20
+dir 485.0.r3084/8586
+K 13
+profilewriter
+V 21
+dir 4a9.0.r3066/18819
+K 12
+sipagent-jni
+V 20
+dir 48h.h9.r3073/889
+K 26
+sipx-jboss-configure.patch
+V 20
+file 4bi.0.r3086/463
+K 18
+sipxconfig.spec.in
+V 19
+file 4bh.0.r3085/46
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 77
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/post-2.6.1/config
+
+K 10
+svn:ignore
+V 144
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.properties
+config.status
+configure
+libtool
+stamp-h1
+
+END
+ENDREP
+id: 2hf.ha.r3098/2112
+type: dir
+pred: 2hf.ha.r3090/52810
+count: 60
+text: 3098 720 1093 1093 dadddc2be3db1dba144639b11279f850
+props: 3098 1826 273 0 9f26bcaaf8a74bff0227c8bb3cae228d
+cpath: /old/sipXconfig/branches/post-2.6.1
+copyroot: 3088 /old/sipXconfig/branches/post-2.6.1
+
+PLAIN
+K 10
+post-2.6.1
+V 21
+dir 2hf.ha.r3098/2112
+END
+ENDREP
+id: 4c1.0.r3098/2448
+type: dir
+pred: 4c1.0.r3090/53146
+count: 3
+text: 3098 2388 47 47 fb8c13eb82856194b108973280f40ccc
+cpath: /old/sipXconfig/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 4c1.0.r3098/2448
+K 4
+main
+V 20
+dir 2hf.0.r3097/1397
+K 4
+tags
+V 20
+dir 4b6.0.r3047/1810
+END
+ENDREP
+id: 2he.0.r3098/2740
+type: dir
+pred: 2he.0.r3097/1746
+count: 74
+text: 3098 2614 113 113 f61d0c2fbe94215b1fe83cbf5f1b603b
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 20
+dir 2he.0.r3098/2740
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3098/3343
+type: dir
+pred: 1.0.r3097/2350
+count: 3097
+text: 3098 2899 431 431 e9367e3fd6b57dcb21a17225cf7118f9
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3098/3343
+END
+ENDREP
+id: 0.0.r3098/3538
+type: dir
+pred: 0.0.r3097/2546
+count: 3098
+text: 3098 3489 36 36 b012d78df43acac4fb4253c59fe80526
+cpath: /
+copyroot: 0 /
+
+2hf.ha.t3097-1 modify false true /old/sipXconfig/branches/post-2.6.1
+
+2jh.ha.t3097-1 modify false true /old/sipXconfig/branches/post-2.6.1/doc
+
+4bz.ha.t3097-1 modify false true /old/sipXconfig/branches/post-2.6.1/bin
+
+
+3538 3679

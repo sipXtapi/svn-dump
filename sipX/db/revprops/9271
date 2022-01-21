@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-06T18:33:23.011359Z
+K 7
+svn:log
+V 64
+MprFromInputDevice: put space after 'if', fix outdated comment.
+
+END

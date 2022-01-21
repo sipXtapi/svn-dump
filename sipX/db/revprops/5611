@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-11-18T22:35:33.334624Z
+K 7
+svn:log
+V 173
+XCF-758 minor changes in conferences.xml format (conference-uri used instead of bridge-url)
+fix problem with REMOTE_ADMIT.SECRET secret setting not being decorated properly
+
+END

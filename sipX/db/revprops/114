@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-06-30T22:48:31.147212Z
+K 7
+svn:log
+V 73
+Bug XSL-5: Fix hang in HttpMessageTest, (bug was in this lib not stack's)
+END

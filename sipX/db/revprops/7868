@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-10-30T01:32:09.693310Z
+K 7
+svn:log
+V 206
+[XPB-816] Wait for hold transaction to complete before REFER
+          Adds an optional flag to the Call Manager transfer
+          interfaces, which is used by the autoattendent and park
+          server.
+
+END

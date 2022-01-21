@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-10-20T15:50:21.731332Z
+K 7
+svn:log
+V 128
+Bug XPB-93, fix profile generation URL, Bug XCF-39, null error wehn saving any information as user, increase documentation a bit
+END

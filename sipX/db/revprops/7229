@@ -1,0 +1,34 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-08-09T18:36:26.508263Z
+K 7
+svn:log
+V 1043
+Revamp the code that controls the workarounds embedded in the call
+pickup processor.  Instead of being controlled by environment
+variables, they are now controlled by lines in registrar-config:
+
+SIP_REGISTRAR_PICKUP_NO_EARLY_ONLY: Removes the "early-only" parameter
+from generated Replaces headers, as some phones cannot handle it.
+SIP_REGISTRAR_PICKUP_REVERSED_REPLACES: Adds a second Replaces header
+with the to-tag and from-tag reversed, as the Pingtel code base
+sometimes expects the tags in a Replaces header in reversed order.
+SIP_REGISTRAR_PICKUP_1_SEC_SUBSCRIBE: Generate SUBSCRIBEs for 1 second
+rather than 0 seconds, because some versions of Snom phones will not
+send a NOTIFY for 0 second SUBSCRIBEs.
+
+The values are coded "y", "Y", or "1" to activate the feature, and
+"n", "N", or "0" to suppress the feature.
+
+The defaults for these features are coded in SipRedirectorPickUp::initialize,
+and are currently:
+SIP_REGISTRAR_PICKUP_1_SEC_SUBSCRIBE : Y
+SIP_REGISTRAR_PICKUP_REVERSED_REPLACES : N
+SIP_REGISTRAR_PICKUP_NO_EARLY_ONLY : Y
+
+END

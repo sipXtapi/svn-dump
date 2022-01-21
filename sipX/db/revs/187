@@ -1,0 +1,341 @@
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: e.0.r187/60
+type: dir
+pred: e.0.r181/4315
+count: 73
+text: 181 4158 144 144 28385a07188987dba8d164fa58678677
+props: 187 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXportLib/main/include
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 33
+.deps
+.libs
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: a5.0.r187/347
+type: dir
+pred: a5.0.r156/11713
+count: 9
+text: 156 11197 503 503 43f03d269e4320c193cce5a1109d1bcd
+props: 187 275 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /old/sipXportLib/main/src/test/sipxunit
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 19
+file 7h.0.r177/2097
+K 6
+README
+V 19
+file 9i.0.r29/76991
+K 2
+os
+V 18
+dir 7l.0.r177/1924
+K 16
+sipXportTest.dsp
+V 19
+file ap.0.r184/1032
+K 8
+sipxunit
+V 17
+dir a5.0.r187/347
+K 3
+utl
+V 18
+dir 87.0.r181/5849
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 137
+.deps
+.libs
+Makefile
+Makefile.in
+sandbox
+testLaunch.err
+testLaunch.out
+testManager.err
+testManager1.out
+testManager2.out
+testsuite
+tmpdb
+
+END
+ENDREP
+id: 7g.0.r187/996
+type: dir
+pred: 7g.0.r184/1461
+count: 88
+text: 187 578 228 228 84ca253d877a589991811b1931d192f6
+props: 187 819 164 0 f7209600c6d1d54deaaf13b7bc5534cf
+cpath: /old/sipXportLib/main/src/test
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 20
+file 4e.0.r131/14617
+K 2
+os
+V 18
+dir 4m.0.r185/2974
+K 4
+test
+V 17
+dir 7g.0.r187/996
+K 3
+utl
+V 18
+dir 89.0.r181/8130
+K 9
+xmlparser
+V 18
+dir 8s.0.r95/65735
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 33
+.deps
+.libs
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 4d.0.r187/1482
+type: dir
+pred: 4d.0.r185/3336
+count: 129
+text: 187 1217 180 180 3310b09c95aeba5832b08f8501e87331
+props: 187 1410 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /old/sipXportLib/main/src
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 46
+.deps
+.libs
+Makefile
+Makefile.in
+syslogviewer
+
+END
+ENDREP
+id: 8y.0.r187/1786
+type: dir
+pred: 8y.0.r95/66675
+count: 6
+text: 95 66579 83 83 a3146fecab5d58dcae4abe82fc9ac60a
+props: 187 1701 72 0 7e7839f806998caa7ca8ab99628e9156
+cpath: /old/sipXportLib/main/syslogviewer
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 30
+Doxyfile
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: ac.0.r187/2079
+type: dir
+pred: ac.0.r180/3501
+count: 4
+text: 180 3316 172 172 bd98e63871274735d478375636d92f07
+props: 187 2010 56 0 357a444bd6df82003e865df156c283e9
+cpath: /old/sipXportLib/main/doc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 19
+file 4.0.r22/520744
+K 9
+ChangeLog
+V 17
+file 5.0.r170/607
+K 7
+INSTALL
+V 18
+file 6.0.r184/2329
+K 7
+LICENSE
+V 19
+file 7.0.r22/418615
+K 11
+Makefile.am
+V 18
+file 8.0.r186/1158
+K 4
+NEWS
+V 19
+file 9.0.r22/520483
+K 6
+README
+V 16
+file a.0.r99/462
+K 4
+TODO
+V 18
+file b.0.r25/34332
+K 9
+acsite.m4
+V 19
+file c.0.r22/469495
+K 6
+config
+V 18
+dir 91.0.r180/4046
+K 12
+configure.ac
+V 17
+file d.0.r186/933
+K 3
+doc
+V 18
+dir ac.0.r187/2079
+K 7
+include
+V 15
+dir e.0.r187/60
+K 15
+sipXportLib.dsp
+V 19
+file 4c.0.r184/2098
+K 19
+sipxportlib.spec.in
+V 19
+file aq.0.r186/1380
+K 3
+src
+V 18
+dir 4d.0.r187/1482
+K 12
+syslogviewer
+V 18
+dir 8y.0.r187/1786
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 136
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+textfiles
+
+END
+ENDREP
+id: 3.0.r187/3133
+type: dir
+pred: 3.0.r186/2223
+count: 179
+text: 187 2296 648 648 1b3096548caca1745f17508a8b74ac87
+props: 187 2957 163 0 e7d9603952b430e2bd429899e68a7374
+cpath: /old/sipXportLib/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 17
+dir 3.0.r187/3133
+K 4
+tags
+V 18
+dir an.0.r169/1799
+END
+ENDREP
+id: 2.0.r187/3429
+type: dir
+pred: 2.0.r186/2519
+count: 185
+text: 187 3347 69 69 7bd09b0ac5c07f70e04b04b462cfdf95
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r187/3429
+END
+ENDREP
+id: 1.0.r187/3638
+type: dir
+pred: 1.0.r186/2728
+count: 186
+text: 187 3581 44 44 f403f8a7c2db769a0402ea1283788eaf
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r187/3638
+END
+ENDREP
+id: 0.0.r187/3826
+type: dir
+pred: 0.0.r186/2916
+count: 187
+text: 187 3778 35 35 f56ef007a1664a654654d1207f15cb6d
+cpath: /
+copyroot: 0 /
+
+3.0.t186-1 modify false true /old/sipXportLib/main
+
+8y.0.t186-1 modify false true /old/sipXportLib/main/syslogviewer
+
+e.0.t186-1 modify false true /old/sipXportLib/main/include
+
+ac.0.t186-1 modify false true /old/sipXportLib/main/doc
+
+7g.0.t186-1 modify false true /old/sipXportLib/main/src/test
+
+4d.0.t186-1 modify false true /old/sipXportLib/main/src
+
+a5.0.t186-1 modify false true /old/sipXportLib/main/src/test/sipxunit
+
+
+3826 3963

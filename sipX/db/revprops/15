@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-05-26T13:41:56.882073Z
+K 7
+svn:log
+V 149
+Modified each file source file (by adding blank line to end) to
+fix attribute problem (+x was turned on) and convert to the
+normalized line endings
+
+
+END

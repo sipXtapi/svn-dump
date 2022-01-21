@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-15T19:53:45.025679Z
+K 7
+svn:log
+V 48
+Fix comments in MpInputOutputFrameworkTest.cpp.
+
+END

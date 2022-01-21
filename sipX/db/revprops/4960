@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-01T22:49:38.317462Z
+K 7
+svn:log
+V 332
+XCF-561 New validator "validSipNameRequired" in tapestry.xml and a new parameter "nameValidator" that can be passed to ItemCommon component.
+This allows us to control what kind of names we consider valid.
+Internal dial plan name, Call Group name and Call Parking orbit name now has to follow the same rules as user part of SIP URL.
+
+END

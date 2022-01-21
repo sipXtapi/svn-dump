@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-24T19:07:54.416152Z
+K 7
+svn:log
+V 93
+Allow 's', 'm', 'h', or 'd' suffixes on time value.
+Remove extraneous newline from messages.
+
+END

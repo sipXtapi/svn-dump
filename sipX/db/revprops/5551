@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-11-09T23:39:53.657198Z
+K 7
+svn:log
+V 110
+XCF-765 - Refactor ApiBeanUtil to handle edits better, and more safely.  Remove id from api until it's needed.
+END

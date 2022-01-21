@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2018-01-01T21:59:36.614414Z
+K 7
+svn:log
+V 93
+Corrected some codec info on plgopus.
+TODO: still needs fixing for 20 mSec media frame case.
+
+END

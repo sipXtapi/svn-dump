@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-03-17T14:55:09.096891Z
+K 7
+svn:log
+V 87
+fixed the problem where the current call is dropped when
+an incoming call is received.
+
+END

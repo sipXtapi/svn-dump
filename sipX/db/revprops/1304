@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-04-29T12:44:23.003841Z
+K 7
+svn:log
+V 250
+A few tweaks to the jitter buffer (we do need Larry's changes put back in =):
+   - Increased the "primed" latency and max number of packets that the dejitter queue and hold
+   - Fixed the bug where we replay the last bit of audio after a call drops
+
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-04-06T16:50:08.604579Z
+K 7
+svn:log
+V 201
+Added support for checking user permissions on a group level.
+If permission is not defined for a user we traverse group hierarchy to find the group that explicitly enables or disables the permission.
+
+
+END

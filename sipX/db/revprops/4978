@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-09-06T14:45:46.638847Z
+K 7
+svn:log
+V 62
+rollback cisco profile changes, getting some unittest failures
+END

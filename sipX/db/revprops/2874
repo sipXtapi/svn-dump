@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2004-12-06T22:06:36.342768Z
+K 7
+svn:log
+V 190
+Modified code in order to correct coding violations which,
+prior to GCC version 3.4, where only reported as warnings.
+See XVX-61 for more details.
+
+http://track.sipfoundry.org/browse/XVX-61
+
+END

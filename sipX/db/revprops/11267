@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-02-09T19:31:17.939473Z
+K 7
+svn:log
+V 77
+sipXmediaLib: Remove OsNotification-based DTMF notifications from MprDecode.
+
+END

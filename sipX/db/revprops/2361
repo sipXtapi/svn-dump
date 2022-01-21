@@ -1,0 +1,129 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2004-11-12T17:16:59.804447Z
+K 7
+svn:log
+V 6479
+svncopy.pl: creating branch main-export-C
+	Copying from https://scm.sipfoundry.org/rep/sipXportLib/main 285
+		to https://scm.sipfoundry.org/rep/sipXportLib/tags/main-export-C
+	Copying from https://scm.sipfoundry.org/rep/sipXtackLib/main 94
+		to https://scm.sipfoundry.org/rep/sipXtackLib/tags/main-export-C
+	Copying from https://scm.sipfoundry.org/rep/sipXmediaLib/main 51
+		to https://scm.sipfoundry.org/rep/sipXmediaLib/tags/main-export-C
+	Copying from https://scm.sipfoundry.org/rep/sipXcallLib/main 60
+		to https://scm.sipfoundry.org/rep/sipXcallLib/tags/main-export-C
+	Copying from https://scm.sipfoundry.org/rep/sipXcommserverLib/main 105
+		to https://scm.sipfoundry.org/rep/sipXcommserverLib/tags/main-export-C
+	Copying from https://scm.sipfoundry.org/rep/sipXvxml/main 107
+		to https://scm.sipfoundry.org/rep/sipXvxml/tags/main-export-C
+	Copying from https://scm.sipfoundry.org/rep/sipXconfig/main 133
+		to https://scm.sipfoundry.org/rep/sipXconfig/tags/main-export-C
+	Copying from https://scm.sipfoundry.org/rep/sipXregistry/main 61
+		to https://scm.sipfoundry.org/rep/sipXregistry/tags/main-export-C
+	Copying from https://scm.sipfoundry.org/rep/sipXproxy/main 68
+		to https://scm.sipfoundry.org/rep/sipXproxy/tags/main-export-C
+	Copying from https://scm.sipfoundry.org/rep/sipXpublisher/main 66
+		to https://scm.sipfoundry.org/rep/sipXpublisher/tags/main-export-C
+	Copying from https://scm.sipfoundry.org/rep/sipXpbx/main 260
+		to https://scm.sipfoundry.org/rep/sipXpbx/tags/main-export-C
+
+ * https://scm.sipfoundry.org/rep/sipXregistry/tags/main-export-C: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/main/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/tags/main-export-C/config'
+
+ * https://scm.sipfoundry.org/rep/sipXcallLib/tags/main-export-C: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/main/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/tags/main-export-C/config'
+
+ * https://scm.sipfoundry.org/rep/sipXmediaLib/tags/main-export-C: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/main/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/tags/main-export-C/config'
+
+ * https://scm.sipfoundry.org/rep/sipXpbx/tags/main-export-C: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/main/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/tags/main-export-C/config'
+
+ * https://scm.sipfoundry.org/rep/sipXvxml/tags/main-export-C: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/main/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/tags/main-export-C/config'
+
+ * https://scm.sipfoundry.org/rep/sipXpublisher/tags/main-export-C: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/main/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/tags/main-export-C/config'
+
+ * https://scm.sipfoundry.org/rep/sipXproxy/tags/main-export-C: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/main/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/tags/main-export-C/config'
+
+ * https://scm.sipfoundry.org/rep/sipXtackLib/tags/main-export-C: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/main/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/tags/main-export-C/config'
+
+ * https://scm.sipfoundry.org/rep/sipXcommserverLib/tags/main-export-C: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/main/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/tags/main-export-C/config'
+
+ * https://scm.sipfoundry.org/rep/sipXportLib/tags/main-export-C: update svnmerge-main-head
+   to 'https://scm.sipfoundry.org/rep/sipXportLib/main'
+
+ * https://scm.sipfoundry.org/rep/sipXportLib/tags/main-export-C: update svnmerge-main-revs
+   to '1-285'
+
+ * https://scm.sipfoundry.org/rep/sipXtackLib/tags/main-export-C: update svnmerge-main-head
+   to 'https://scm.sipfoundry.org/rep/sipXtackLib/main'
+
+ * https://scm.sipfoundry.org/rep/sipXtackLib/tags/main-export-C: update svnmerge-main-revs
+   to '1-94'
+
+ * https://scm.sipfoundry.org/rep/sipXmediaLib/tags/main-export-C: update svnmerge-main-head
+   to 'https://scm.sipfoundry.org/rep/sipXmediaLib/main'
+
+ * https://scm.sipfoundry.org/rep/sipXmediaLib/tags/main-export-C: update svnmerge-main-revs
+   to '1-51'
+
+ * https://scm.sipfoundry.org/rep/sipXcallLib/tags/main-export-C: update svnmerge-main-head
+   to 'https://scm.sipfoundry.org/rep/sipXcallLib/main'
+
+ * https://scm.sipfoundry.org/rep/sipXcallLib/tags/main-export-C: update svnmerge-main-revs
+   to '1-60'
+
+ * https://scm.sipfoundry.org/rep/sipXcommserverLib/tags/main-export-C: update svnmerge-main-head
+   to 'https://scm.sipfoundry.org/rep/sipXcommserverLib/main'
+
+ * https://scm.sipfoundry.org/rep/sipXcommserverLib/tags/main-export-C: update svnmerge-main-revs
+   to '1-105'
+
+ * https://scm.sipfoundry.org/rep/sipXvxml/tags/main-export-C: update svnmerge-main-head
+   to 'https://scm.sipfoundry.org/rep/sipXvxml/main'
+
+ * https://scm.sipfoundry.org/rep/sipXvxml/tags/main-export-C: update svnmerge-main-revs
+   to '1-107'
+
+ * https://scm.sipfoundry.org/rep/sipXconfig/tags/main-export-C: update svnmerge-main-head
+   to 'https://scm.sipfoundry.org/rep/sipXconfig/main'
+
+ * https://scm.sipfoundry.org/rep/sipXconfig/tags/main-export-C: update svnmerge-main-revs
+   to '1-133'
+
+ * https://scm.sipfoundry.org/rep/sipXregistry/tags/main-export-C: update svnmerge-main-head
+   to 'https://scm.sipfoundry.org/rep/sipXregistry/main'
+
+ * https://scm.sipfoundry.org/rep/sipXregistry/tags/main-export-C: update svnmerge-main-revs
+   to '1-61'
+
+ * https://scm.sipfoundry.org/rep/sipXproxy/tags/main-export-C: update svnmerge-main-head
+   to 'https://scm.sipfoundry.org/rep/sipXproxy/main'
+
+ * https://scm.sipfoundry.org/rep/sipXproxy/tags/main-export-C: update svnmerge-main-revs
+   to '1-68'
+
+ * https://scm.sipfoundry.org/rep/sipXpublisher/tags/main-export-C: update svnmerge-main-head
+   to 'https://scm.sipfoundry.org/rep/sipXpublisher/main'
+
+ * https://scm.sipfoundry.org/rep/sipXpublisher/tags/main-export-C: update svnmerge-main-revs
+   to '1-66'
+
+ * https://scm.sipfoundry.org/rep/sipXpbx/tags/main-export-C: update svnmerge-main-head
+   to 'https://scm.sipfoundry.org/rep/sipXpbx/main'
+
+ * https://scm.sipfoundry.org/rep/sipXpbx/tags/main-export-C: update svnmerge-main-revs
+   to '1-260'
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2008-05-19T18:34:56.848713Z
+K 7
+svn:log
+V 47
+-correct return type to remove compiler warning
+END

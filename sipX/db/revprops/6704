@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-05-01T21:14:48.283957Z
+K 7
+svn:log
+V 109
+Improve stunnel_connection by replacing duplicated error-handling code with a shared method raise_exception.
+
+END

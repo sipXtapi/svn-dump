@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-05-27T12:57:03.892841Z
+K 7
+svn:log
+V 159
+Checking in MpOutputDeviceDriverTest::measureJitter() test.
+This test is dedicated to measure soundcards' notification times jitter on different sample rates.
+
+END

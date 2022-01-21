@@ -1,0 +1,142 @@
+PLAIN
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: ac.0.r80/51
+type: dir
+pred: ac.0.r67/17800
+count: 1
+text: 67 17615 172 172 73a2b4f321f75a643f0e53a67762b61a
+props: 80 0 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXportLib/main/doc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 19
+file 4.0.r22/520744
+K 9
+ChangeLog
+V 19
+file 5.0.r22/469231
+K 7
+INSTALL
+V 18
+file 6.0.r75/15155
+K 7
+LICENSE
+V 19
+file 7.0.r22/418615
+K 11
+Makefile.am
+V 18
+file 8.0.r67/18714
+K 4
+NEWS
+V 19
+file 9.0.r22/520483
+K 6
+README
+V 18
+file a.0.r75/14938
+K 4
+TODO
+V 18
+file b.0.r25/34332
+K 9
+acsite.m4
+V 19
+file c.0.r22/469495
+K 6
+config
+V 18
+dir 91.0.r67/18277
+K 12
+configure.ac
+V 15
+file d.0.r77/49
+K 3
+doc
+V 15
+dir ac.0.r80/51
+K 7
+include
+V 17
+dir e.0.r79/12403
+K 15
+sipXportLib.dsp
+V 20
+file 4c.0.r22/465318
+K 3
+src
+V 18
+dir 4d.0.r79/18520
+K 12
+syslogviewer
+V 18
+dir 8y.0.r25/27013
+END
+ENDREP
+id: 3.0.r80/874
+type: dir
+pred: 3.0.r79/19353
+count: 77
+text: 80 261 600 600 259f39bc220c8a0a7d33a10742af68f1
+props: 25 46063 102 0 dfadf7143a0dfad6b98b34bae97deccf
+cpath: /old/sipXportLib/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 15
+dir 3.0.r80/874
+END
+ENDREP
+id: 2.0.r80/1130
+type: dir
+pred: 2.0.r79/19614
+count: 78
+text: 80 1083 34 34 7b7cc1500f43d061bd9033f541fc7a0e
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 16
+dir 2.0.r80/1130
+END
+ENDREP
+id: 1.0.r80/1335
+type: dir
+pred: 1.0.r79/19822
+count: 79
+text: 80 1279 43 43 c0b9b4487138f9ebf6bbb46590bff23d
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 16
+dir 1.0.r80/1335
+END
+ENDREP
+id: 0.0.r80/1519
+type: dir
+pred: 0.0.r79/20009
+count: 80
+text: 80 1472 34 34 1b3d3ff1e6d255662e1476ac328d243e
+cpath: /
+copyroot: 0 /
+
+ac.0.t79-1 modify false true /old/sipXportLib/main/doc
+
+
+1519 1653

@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-04-08T12:36:18.049911Z
+K 7
+svn:log
+V 264
+Cleaned up the CpMediaInterface:
+  - Removed unused APIs
+  - Removed CpMediaInterface implementation (now pure virtual methods)
+  - Started to beef up the documentation and convert to javadoc-style
+    doxygen comments.  More to do on the docs, but a good start.
+
+
+END

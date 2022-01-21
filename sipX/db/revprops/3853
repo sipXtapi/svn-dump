@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-04-29T17:37:45.591857Z
+K 7
+svn:log
+V 129
+default formating rules changed: add newline character at the end of java files 
+Upgrade to format compatible with Eclipse 3.1M6
+
+END

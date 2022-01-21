@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-08T22:41:45.196684Z
+K 7
+svn:log
+V 173
+Replace LLONG_MIN, LLONG_MAX with proper C99 int versions INT64_MIN, INT64_MAX.
+
+LLONG_MIN, LLONG_MAX are not present in VS6, and we define proper C99 int versions already.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-10-03T00:12:27.453455Z
+K 7
+svn:log
+V 91
+Iterate through virtual, ALSA and OSS devices for MpOutputDeviceManager::testEnableDisable
+
+END

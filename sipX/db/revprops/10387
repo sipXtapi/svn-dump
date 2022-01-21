@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-12-05T13:31:28.732807Z
+K 7
+svn:log
+V 195
+Fix build for sipXmediaAdapterLibTest - add sipXmediaAdapterlib/sipXmediaProcessing/include and sipXmediaLib/include to include paths.
+This really need more attention and should be fixed better.
+
+END

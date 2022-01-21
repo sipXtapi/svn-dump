@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2010-02-01T21:19:18.329838Z
+K 7
+svn:log
+V 111
+sipXmediaLib: Checking in Android core headers and libs needed to build audio input/output driver for Android.
+
+END

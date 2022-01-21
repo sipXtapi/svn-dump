@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-12-08T23:20:15.838037Z
+K 7
+svn:log
+V 517
+Merged revisions 8137-8226 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/3.6/sipXconfig
+
+........
+  r8153 | dkrzemin | 2006-11-29 14:58:00 -0500 (Wed, 29 Nov 2006) | 2 lines
+  
+  XCF-1383 due to special status of 0 in login.vxml sipXconfig cannot return it as a user extension - modify User.getExtension to ignore "0" if used as an alias
+........
+  r8226 | dkrzemin | 2006-12-08 18:11:58 -0500 (Fri, 08 Dec 2006) | 2 lines
+  
+  XCF-1397 set default for Snom parameter 'offer gruu' to 'off'
+........
+
+END

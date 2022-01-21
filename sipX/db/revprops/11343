@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-06-01T13:55:40.659269Z
+K 7
+svn:log
+V 188
+sipXmediaLib: Fix API and documentation of MprSpeexEchoCancel and MprSpeexPreProcess. Automatically enable residual echo removal if preprocessor input is connected directly to AEC output.
+
+END

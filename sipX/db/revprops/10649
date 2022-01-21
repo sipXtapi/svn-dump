@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-05-10T22:08:28.415382Z
+K 7
+svn:log
+V 68
+Win32 build: Link with libspeex if we want to use MpResamplerSpeex.
+
+END

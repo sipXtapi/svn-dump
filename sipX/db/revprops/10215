@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-09-18T01:10:14.819907Z
+K 7
+svn:log
+V 462
+Make recursive resources behavior with notification enabling work properly.
+Notification enabling/disabling did not propagate to child resources of MpRtpInputAudioConnection and MpRtpOutputAudioConnection.
+Also correct notification enable/disable behavior when new resources are added to the flowgraph after setNotificationsEnabled was called previously, so the new resources get the same state that all the other resources have, and not the default 'off' state.
+END

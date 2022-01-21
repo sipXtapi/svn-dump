@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-12T22:11:00.576873Z
+K 7
+svn:log
+V 163
+Remove SipRedirectorTest from the regular build.  Move its files to
+sipXregistry/doc/developer.
+Increase the standard SIP_REGISTRAR_CALL_PICKUP_WAIT to 2 seconds.
+
+END

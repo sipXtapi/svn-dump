@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-02T19:18:27.316380Z
+K 7
+svn:log
+V 154
+BUGFIX: SipMessage::setNotifyData changed  -- not sure if this fix will work, but we can atleast build.  Need to retest blind and consultative transfer.
+
+
+END

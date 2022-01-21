@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-05-23T14:25:32.331220Z
+K 7
+svn:log
+V 133
+Implemented a few more classes for the SipSubscribeServer.
+Had to tweek a few interfaces so that it would all come 
+together right.
+
+
+END

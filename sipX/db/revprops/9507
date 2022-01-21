@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-10T10:10:56.829802Z
+K 7
+svn:log
+V 92
+More informative log message when adding and removing devices to input and output managers.
+
+END

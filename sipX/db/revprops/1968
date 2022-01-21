@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-01-19T20:20:57.642275Z
+K 7
+svn:log
+V 99
+Fix EOLs for doc/permission.xml and doc/credential.xml.
+http://track.sipfoundry.org/browse/XPB-187
+
+END

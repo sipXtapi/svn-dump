@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-02-01T00:28:06.289309Z
+K 7
+svn:log
+V 68
+put new db into 7.x series patches, unclear how to create 8.x series
+END

@@ -1,0 +1,50 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-31T05:39:27.614400Z
+K 7
+svn:log
+V 5011
+mergefrom user_dworley_redirectors2main 7459
+
+Convert the redirector modules into real Plugins.
+
+Carry forward changes on these files:
+
+r7459 | dworley | 2006-09-11 23:58:45 -0400 (Mon, 11 Sep 2006) | 2 lines
+Changed paths:
+   A /branches/user_dworley_redirectors/sipXregistry/include/registry/RedirectSuspend.h (from /branches/user_dworley_redirectors/sipXregistry/src/RedirectSuspend.h:7445)
+   A /branches/user_dworley_redirectors/sipXregistry/include/registry/SipRedirectServer.h (from /branches/user_dworley_redirectors/sipXregistry/src/SipRedirectServer.h:7445)
+   A /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins/SipRedirectorAliasDB.cpp (from /branches/user_dworley_redirectors/sipXregistry/src/SipRedirectorAliasDB.cpp:7443)
+   A /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins/SipRedirectorAliasDB.h (from /branches/user_dworley_redirectors/sipXregistry/src/SipRedirectorAliasDB.h:7443)
+   A /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins/SipRedirectorHunt.cpp (from /branches/user_dworley_redirectors/sipXregistry/src/SipRedirectorHunt.cpp:7443)
+   A /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins/SipRedirectorHunt.h (from /branches/user_dworley_redirectors/sipXregistry/src/SipRedirectorHunt.h:7443)
+   A /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins/SipRedirectorMPT.cpp (from /branches/user_dworley_redirectors/sipXregistry/src/SipRedirectorMPT.cpp:7443)
+   A /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins/SipRedirectorMPT.h (from /branches/user_dworley_redirectors/sipXregistry/src/SipRedirectorMPT.h:7443)
+   A /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins/SipRedirectorMapping.cpp (from /branches/user_dworley_redirectors/sipXregistry/src/SipRedirectorMapping.cpp:7443)
+   A /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins/SipRedirectorMapping.h (from /branches/user_dworley_redirectors/sipXregistry/src/SipRedirectorMapping.h:7443)
+   A /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins/SipRedirectorPickUp.cpp (from /branches/user_dworley_redirectors/sipXregistry/src/SipRedirectorPickUp.cpp:7445)
+   A /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins/SipRedirectorPickUp.h (from /branches/user_dworley_redirectors/sipXregistry/src/SipRedirectorPickUp.h:7443)
+   A /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins/SipRedirectorSubscribe.cpp (from /branches/user_dworley_redirectors/sipXregistry/src/SipRedirectorSubscribe.cpp:7443)
+   A /branches/user_dworley_redirectors/sipXregistry/lib/redirect_plugins/SipRedirectorSubscribe.h (from /branches/user_dworley_redirectors/sipXregistry/src/SipRedirectorSubscribe.h:7443)
+
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/RedirectSuspend.h sipXregistry/include/registry/RedirectSuspend.h 
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/SipRedirectServer.h sipXregistry/include/registry/SipRedirectServer.h 
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/SipRedirectorAliasDB.cpp sipXregistry/lib/redirect_plugins/SipRedirectorAliasDB.cpp 
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/SipRedirectorAliasDB.h sipXregistry/lib/redirect_plugins/SipRedirectorAliasDB.h 
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/SipRedirectorHunt.cpp sipXregistry/lib/redirect_plugins/SipRedirectorHunt.cpp
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/SipRedirectorHunt.h sipXregistry/lib/redirect_plugins/SipRedirectorHunt.h
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/SipRedirectorMPT.cpp sipXregistry/lib/redirect_plugins/SipRedirectorMPT.cpp
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/SipRedirectorMPT.h sipXregistry/lib/redirect_plugins/SipRedirectorMPT.h
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/SipRedirectorMapping.cpp sipXregistry/lib/redirect_plugins/SipRedirectorMapping.cpp
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/SipRedirectorMapping.h sipXregistry/lib/redirect_plugins/SipRedirectorMapping.h
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/SipRedirectorPickUp.cpp sipXregistry/lib/redirect_plugins/SipRedirectorPickUp.cpp
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/SipRedirectorPickUp.h sipXregistry/lib/redirect_plugins/SipRedirectorPickUp.h
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/SipRedirectorSubscribe.cpp sipXregistry/lib/redirect_plugins/SipRedirectorSubscribe.cpp
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXregistry/src/SipRedirectorSubscribe.h sipXregistry/lib/redirect_plugins/SipRedirectorSubscribe.h
+
+END

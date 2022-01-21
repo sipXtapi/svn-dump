@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2018-02-21T21:13:27.191098Z
+K 7
+svn:log
+V 208
+When merging channels in MprFromFile recordings, add and clip the signal.
+As opposed to add and divide by 2.  This gives a better result when channels
+differ and increases volume as opposed to decreasing it.
+
+END

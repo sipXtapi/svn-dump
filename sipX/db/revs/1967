@@ -1,0 +1,4224 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1qs.0.r1967/82
+type: file
+pred: 1qs.0.r1798/380771
+count: 1
+text: 1798 427 11212 26430 7fbc338309ac38fefcd64b04bb903e34
+props: 1967 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/LICENSE
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1rf.0.r1967/398
+type: file
+pred: 1rf.0.r1843/14367
+count: 4
+text: 1843 0 21 5187 03a6a328f99d0c05024f131f49aed76e
+props: 1967 316 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/digitmaps/UrlMapping.h
+copyroot: 0 /
+
+PLAIN
+K 12
+UrlMapping.h
+V 20
+file 1rf.0.r1967/398
+END
+ENDREP
+id: 1re.0.r1967/712
+type: dir
+pred: 1re.0.r1843/14688
+count: 4
+text: 1967 651 48 48 86e91a4c95c3dc0634d66826a031d6ad
+cpath: /old/sipXcommserverLib/main/include/digitmaps
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1sw.0.r1967/979
+type: file
+pred: 1sw.0.r1843/14877
+count: 3
+text: 1843 827 281 908 58c962d5b0bb5de2d855f263ccc48323
+props: 1967 897 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/sipdb/ResultSet.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1sz.0.r1967/1311
+type: file
+pred: 1sz.0.r1843/15132
+count: 4
+text: 1843 1642 21 3399 ac4400b40c7f4b714b8a6c8e714ae0de
+props: 1967 1229 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/sipdb/SubscriptionDB.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1sx.0.r1967/1651
+type: file
+pred: 1sx.0.r1849/972
+count: 6
+text: 1849 388 131 5556 f1bc5b6a8a447d0b31dffc3c036121d5
+props: 1967 1569 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/sipdb/SIPDBManager.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1sn.0.r1967/1987
+type: file
+pred: 1sn.0.r1843/15652
+count: 2
+text: 1843 385 21 908 93925cbabbeff90628802a05f748f9f7
+props: 1967 1905 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/sipdb/DialByNameRow.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ss.0.r1967/2324
+type: file
+pred: 1ss.0.r1843/15911
+count: 4
+text: 1843 631 21 2778 6a197d1f840c182209451fa4e11e33f6
+props: 1967 2242 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/sipdb/PermissionDB.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1sg.0.r1967/2661
+type: file
+pred: 1sg.0.r1843/16169
+count: 4
+text: 1843 45 21 2808 5d239efdb0958d45f7f17b19e37b6ec2
+props: 1967 2579 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/sipdb/AliasDB.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1sq.0.r1967/2992
+type: file
+pred: 1sq.0.r1843/16421
+count: 4
+text: 1843 533 21 2387 13fb67ea59c93975ac524dbaed2fbcb7
+props: 1967 2910 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/sipdb/HuntgroupDB.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1sv.0.r1967/3328
+type: file
+pred: 1sv.0.r1843/16678
+count: 2
+text: 1843 777 21 1087 d5d835d8e769fc41c380cf7748d11735
+props: 1967 3246 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/sipdb/RegistrationRow.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1sl.0.r1967/3668
+type: file
+pred: 1sl.0.r1843/16940
+count: 2
+text: 1843 287 21 1280 205194a0a527af94a3e1353a0c0482fe
+props: 1967 3586 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/sipdb/CredentialRow.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1sp.0.r1967/4006
+type: file
+pred: 1sp.0.r1843/17200
+count: 2
+text: 1843 483 21 829 a208473de680a01831b3faad43dc29f0
+props: 1967 3924 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/sipdb/ExtensionRow.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1sy.0.r1967/4342
+type: file
+pred: 1sy.0.r1933/1229
+count: 5
+text: 1933 447 251 1789 abd41ea5b1257572869921164828b6b0
+props: 1967 4260 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/sipdb/SIPXAuthHelper.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1sj.0.r1967/4681
+type: file
+pred: 1sj.0.r1843/17719
+count: 2
+text: 1843 189 21 723 8e520abc7efb1e7671d421a4930a7f85
+props: 1967 4599 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/sipdb/AuthexceptionRow.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1sm.0.r1967/5021
+type: file
+pred: 1sm.0.r1843/17981
+count: 4
+text: 1843 337 21 2734 91fbb1204b4b2b588480598642ff329f
+props: 1967 4939 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/sipdb/DialByNameDB.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1t0.0.r1967/5358
+type: file
+pred: 1t0.0.r1843/18239
+count: 2
+text: 1843 1690 21 1321 d3562acc3afc16eada79d3bbaab503ba
+props: 1967 5276 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/sipdb/SubscriptionRow.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1su.0.r1967/5699
+type: file
+pred: 1su.0.r1843/18502
+count: 4
+text: 1843 729 21 3804 f0f7d2d2441f4f084abd6aa2fdfef81d
+props: 1967 5617 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/sipdb/RegistrationDB.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1st.0.r1967/6038
+type: file
+pred: 1st.0.r1843/18762
+count: 2
+text: 1843 679 21 781 b4c7ccc9e6d16dd6e011da3bb9448474
+props: 1967 5956 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/sipdb/PermissionRow.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1sk.0.r1967/6375
+type: file
+pred: 1sk.0.r1843/19021
+count: 4
+text: 1843 239 21 2952 75a4f403aea5964551af8adacd708274
+props: 1967 6293 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/sipdb/CredentialDB.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1sh.0.r1967/6712
+type: file
+pred: 1sh.0.r1843/19279
+count: 2
+text: 1843 92 21 853 65ce04d327eb5438806a842f4bc3b5d3
+props: 1967 6630 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/sipdb/AliasRow.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1so.0.r1967/7043
+type: file
+pred: 1so.0.r1843/19532
+count: 4
+text: 1843 435 21 2545 9c296020060b39e0eb2478909b300f54
+props: 1967 6961 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/sipdb/ExtensionDB.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1sr.0.r1967/7379
+type: file
+pred: 1sr.0.r1843/19789
+count: 2
+text: 1843 581 21 720 e2a54241ef47d06ece52a274b774640a
+props: 1967 7297 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/sipdb/HuntgroupRow.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1si.0.r1967/7715
+type: file
+pred: 1si.0.r1843/20047
+count: 4
+text: 1843 142 21 2253 ff06815e3cf50b8478b80993b168ec89
+props: 1967 7633 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/sipdb/AuthexceptionDB.h
+copyroot: 0 /
+
+PLAIN
+K 9
+AliasDB.h
+V 21
+file 1sg.0.r1967/2661
+K 10
+AliasRow.h
+V 21
+file 1sh.0.r1967/6712
+K 17
+AuthexceptionDB.h
+V 21
+file 1si.0.r1967/7715
+K 18
+AuthexceptionRow.h
+V 21
+file 1sj.0.r1967/4681
+K 14
+CredentialDB.h
+V 21
+file 1sk.0.r1967/6375
+K 15
+CredentialRow.h
+V 21
+file 1sl.0.r1967/3668
+K 14
+DialByNameDB.h
+V 21
+file 1sm.0.r1967/5021
+K 15
+DialByNameRow.h
+V 21
+file 1sn.0.r1967/1987
+K 13
+ExtensionDB.h
+V 21
+file 1so.0.r1967/7043
+K 14
+ExtensionRow.h
+V 21
+file 1sp.0.r1967/4006
+K 13
+HuntgroupDB.h
+V 21
+file 1sq.0.r1967/2992
+K 14
+HuntgroupRow.h
+V 21
+file 1sr.0.r1967/7379
+K 14
+PermissionDB.h
+V 21
+file 1ss.0.r1967/2324
+K 15
+PermissionRow.h
+V 21
+file 1st.0.r1967/6038
+K 16
+RegistrationDB.h
+V 21
+file 1su.0.r1967/5699
+K 17
+RegistrationRow.h
+V 21
+file 1sv.0.r1967/3328
+K 11
+ResultSet.h
+V 20
+file 1sw.0.r1967/979
+K 14
+SIPDBManager.h
+V 21
+file 1sx.0.r1967/1651
+K 16
+SIPXAuthHelper.h
+V 21
+file 1sy.0.r1967/4342
+K 16
+SubscriptionDB.h
+V 21
+file 1sz.0.r1967/1311
+K 17
+SubscriptionRow.h
+V 21
+file 1t0.0.r1967/5358
+END
+ENDREP
+id: 1sf.0.r1967/8983
+type: dir
+pred: 1sf.0.r1933/2518
+count: 7
+text: 1967 7973 997 997 d304e557e4f53ae6fd893a6f5c6fe0ef
+cpath: /old/sipXcommserverLib/main/include/sipdb
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1s5.0.r1967/9249
+type: file
+pred: 1s5.0.r1798/389004
+count: 1
+text: 1798 103812 1170 4691 dd49b9e40cda4d985c4ad4f02ac7c147
+props: 1967 9167 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/set.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1rn.0.r1967/9584
+type: file
+pred: 1rn.0.r1798/389283
+count: 1
+text: 1798 56573 1881 5825 5289e8edfc19df7c1d42ef39d8270ca9
+props: 1967 9502 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/cliproto.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1sd.0.r1967/9923
+type: file
+pred: 1sd.0.r1798/389566
+count: 1
+text: 1798 120728 1259 3351 a31cd76340cf1f80c50966549c5be6ee
+props: 1967 9841 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/w32sock.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ru.0.r1967/10262
+type: file
+pred: 1ru.0.r1798/389849
+count: 1
+text: 1798 84895 1604 6037 6f2433e9b24911847eb3bf1f88dfcd6b
+props: 1967 10180 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/datetime.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1s7.0.r1967/10603
+type: file
+pred: 1s7.0.r1798/390132
+count: 1
+text: 1798 106359 2236 5533 53654084e782fd3aa19cbc95b8d4d0f4
+props: 1967 10521 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/stdtp.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1s2.0.r1967/10942
+type: file
+pred: 1s2.0.r1798/390413
+count: 1
+text: 1798 99369 1734 4997 e24a083e2d44f558f973bc15d5897d6d
+props: 1967 10860 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/reference.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1s9.0.r1967/11284
+type: file
+pred: 1s9.0.r1798/390697
+count: 1
+text: 1798 111562 693 1276 c48d68fe1f6930d9c43bcae0b99267de
+props: 1967 11202 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/symtab.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1rk.0.r1967/11623
+type: file
+pred: 1rk.0.r1944/353
+count: 3
+text: 1944 0 120 32211 115f1aba3492ad3db05d58c5fd2bcdf7
+props: 1967 11541 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/class.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1rl.0.r1967/11954
+type: file
+pred: 1rl.0.r1798/391259
+count: 1
+text: 1798 48971 6423 28231 8a4f4c7a6e7d89265c897e242c6713da
+props: 1967 11872 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/cli.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1sc.0.r1967/12291
+type: file
+pred: 1sc.0.r1816/774
+count: 2
+text: 1816 106 27 2032 b6c94793df471fe83080b8a7a7e7a9d3
+props: 1967 12209 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/unisock.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1rm.0.r1967/12624
+type: file
+pred: 1rm.0.r1798/391821
+count: 1
+text: 1798 55407 1153 3643 101d709ea463d357e96753b91bab2ca1
+props: 1967 12542 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/clidb.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ri.0.r1967/12962
+type: file
+pred: 1ri.0.r1798/392101
+count: 1
+text: 1798 35755 2647 8550 c6e6e83a9a10b24eef4d169fe9336395
+props: 1967 12880 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/array.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1rh.0.r1967/13300
+type: file
+pred: 1rh.0.r1798/392334
+count: 1
+text: 1798 29401 6341 18078 f1ed581b8a15c10b9bd303ab90c55151
+props: 1967 13218 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/CHANGES
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1sb.0.r1967/13639
+type: file
+pred: 1sb.0.r1798/392558
+count: 1
+text: 1798 118780 904 2859 71b39ec955a175f9f5188956f1661d38
+props: 1967 13557 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/ttree.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1rv.0.r1967/13977
+type: file
+pred: 1rv.0.r1798/392838
+count: 1
+text: 1798 86512 808 1527 443370bae6f7ecdc093719e0d27a2120
+props: 1967 13895 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/exception.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1rw.0.r1967/14318
+type: file
+pred: 1rw.0.r1849/2446
+count: 3
+text: 1849 343 17 1037 1ee22a5e2f2492e95123eaf63ebb957b
+props: 1967 14236 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/fastdb.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1rs.0.r1967/14651
+type: file
+pred: 1rs.0.r1798/393401
+count: 1
+text: 1798 69993 12721 38876 f45411a3eb8bab4b617c5d479f22a9e5
+props: 1967 14569 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/database.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1s1.0.r1967/14994
+type: file
+pred: 1s1.0.r1798/393686
+count: 1
+text: 1798 94367 4989 21687 2e8c986e228840b2fa1a916a2add6ae6
+props: 1967 14912 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/query.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1s4.0.r1967/15333
+type: file
+pred: 1s4.0.r1798/393967
+count: 1
+text: 1798 102021 1778 5133 80b8548d7dcb8b97aa996fefe3ccd44f
+props: 1967 15251 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/server.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1s3.0.r1967/15673
+type: file
+pred: 1s3.0.r1798/394249
+count: 1
+text: 1798 101116 892 2039 7f1c1d3f81b3413a878a3b99a9d5a36d
+props: 1967 15591 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/repsock.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ro.0.r1967/16013
+type: file
+pred: 1ro.0.r1798/394484
+count: 1
+text: 1798 58467 1438 7970 dc0c577ae4d635334a89a38549d2e04f
+props: 1967 15931 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/compiler.d
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1s8.0.r1967/16354
+type: file
+pred: 1s8.0.r1798/394710
+count: 1
+text: 1798 108608 2941 8178 8daf12c23bd5edf8a29b42be03041535
+props: 1967 16272 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/subsql.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1rz.0.r1967/16694
+type: file
+pred: 1rz.0.r1798/394992
+count: 1
+text: 1798 90823 779 1623 deb37c76a449a69cbf600e9230ee6ce3
+props: 1967 16612 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/hashtab.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1rp.0.r1967/17033
+type: file
+pred: 1rp.0.r1798/395273
+count: 1
+text: 1798 59918 3395 9874 ac269814132a7f9ae89c6bfbb19d09a1
+props: 1967 16951 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/compiler.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1sa.0.r1967/17374
+type: file
+pred: 1sa.0.r1798/395556
+count: 1
+text: 1798 112268 6499 25725 de8daddad00f07837afaa1759551fa20
+props: 1967 17292 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/sync.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1rr.0.r1967/17713
+type: file
+pred: 1rr.0.r1798/395837
+count: 1
+text: 1798 64543 5437 16938 3056c5c085281ff4f990d065f2f6871e
+props: 1967 17631 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/cursor.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1rt.0.r1967/18053
+type: file
+pred: 1rt.0.r1798/396119
+count: 1
+text: 1798 82727 2155 6103 26a2d1d1127e0e65871fe494e7b5d3d5
+props: 1967 17971 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/date.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1se.0.r1967/18390
+type: file
+pred: 1se.0.r1798/396398
+count: 1
+text: 1798 122000 2692 6836 53c5ce7e471af6a7395ade95d50a4c9d
+props: 1967 18308 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/wwwapi.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1rx.0.r1967/18730
+type: file
+pred: 1rx.0.r1798/396680
+count: 1
+text: 1798 87832 1761 4286 ca11754a9d5e56b337fa4baea8547a03
+props: 1967 18648 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/file.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1s0.0.r1967/19067
+type: file
+pred: 1s0.0.r1944/601
+count: 2
+text: 1944 149 175 8632 db7e26e036bb3c422ca3d8400e50bffc
+props: 1967 18985 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/localcli.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1rq.0.r1967/19402
+type: file
+pred: 1rq.0.r1798/397242
+count: 1
+text: 1798 63326 1204 3615 feba23d4af7aad57b894271330bf351f
+props: 1967 19320 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/container.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1rj.0.r1967/19744
+type: file
+pred: 1rj.0.r1798/397526
+count: 1
+text: 1798 38415 1841 5565 a5320099283404637879b40fcfabfbc8
+props: 1967 19662 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/bugdb.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ry.0.r1967/20082
+type: file
+pred: 1ry.0.r1798/397806
+count: 1
+text: 1798 89606 1204 6106 d045525c81afdd9738e01ee21a91e9a2
+props: 1967 20000 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/harray.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1s6.0.r1967/20421
+type: file
+pred: 1s6.0.r1798/398087
+count: 1
+text: 1798 104995 1351 3303 5e265864834548938080fa31c7fcd56c
+props: 1967 20339 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/fastdb/sockio.h
+copyroot: 0 /
+
+PLAIN
+K 7
+CHANGES
+V 22
+file 1rh.0.r1967/13300
+K 7
+array.h
+V 22
+file 1ri.0.r1967/12962
+K 7
+bugdb.h
+V 22
+file 1rj.0.r1967/19744
+K 7
+class.h
+V 22
+file 1rk.0.r1967/11623
+K 5
+cli.h
+V 22
+file 1rl.0.r1967/11954
+K 7
+clidb.h
+V 22
+file 1rm.0.r1967/12624
+K 10
+cliproto.h
+V 21
+file 1rn.0.r1967/9584
+K 10
+compiler.d
+V 22
+file 1ro.0.r1967/16013
+K 10
+compiler.h
+V 22
+file 1rp.0.r1967/17033
+K 11
+container.h
+V 22
+file 1rq.0.r1967/19402
+K 8
+cursor.h
+V 22
+file 1rr.0.r1967/17713
+K 10
+database.h
+V 22
+file 1rs.0.r1967/14651
+K 6
+date.h
+V 22
+file 1rt.0.r1967/18053
+K 10
+datetime.h
+V 22
+file 1ru.0.r1967/10262
+K 11
+exception.h
+V 22
+file 1rv.0.r1967/13977
+K 8
+fastdb.h
+V 22
+file 1rw.0.r1967/14318
+K 6
+file.h
+V 22
+file 1rx.0.r1967/18730
+K 8
+harray.h
+V 22
+file 1ry.0.r1967/20082
+K 9
+hashtab.h
+V 22
+file 1rz.0.r1967/16694
+K 10
+localcli.h
+V 22
+file 1s0.0.r1967/19067
+K 7
+query.h
+V 22
+file 1s1.0.r1967/14994
+K 11
+reference.h
+V 22
+file 1s2.0.r1967/10942
+K 9
+repsock.h
+V 22
+file 1s3.0.r1967/15673
+K 8
+server.h
+V 22
+file 1s4.0.r1967/15333
+K 5
+set.h
+V 21
+file 1s5.0.r1967/9249
+K 8
+sockio.h
+V 22
+file 1s6.0.r1967/20421
+K 7
+stdtp.h
+V 22
+file 1s7.0.r1967/10603
+K 8
+subsql.h
+V 22
+file 1s8.0.r1967/16354
+K 8
+symtab.h
+V 22
+file 1s9.0.r1967/11284
+K 6
+sync.h
+V 22
+file 1sa.0.r1967/17374
+K 7
+ttree.h
+V 22
+file 1sb.0.r1967/13639
+K 9
+unisock.h
+V 22
+file 1sc.0.r1967/12291
+K 9
+w32sock.h
+V 21
+file 1sd.0.r1967/9923
+K 8
+wwwapi.h
+V 22
+file 1se.0.r1967/18390
+END
+ENDREP
+id: 1rg.0.r1967/22101
+type: dir
+pred: 1rg.0.r1944/2304
+count: 5
+text: 1967 20679 1409 1409 916f95769a74f1306cab705ab38e1f1a
+cpath: /old/sipXcommserverLib/main/include/fastdb
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1rd.0.r1967/22372
+type: file
+pred: 1rd.0.r1798/399996
+count: 1
+text: 1798 26978 743 1617 b24b9fbb13684b04e18fe476b4442290
+props: 1967 22290 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/include/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 1rd.0.r1967/22372
+K 9
+digitmaps
+V 19
+dir 1re.0.r1967/712
+K 6
+fastdb
+V 21
+dir 1rg.0.r1967/22101
+K 5
+sipdb
+V 20
+dir 1sf.0.r1967/8983
+END
+ENDREP
+id: 1rc.0.r1967/22799
+type: dir
+pred: 1rc.0.r1944/2667
+count: 11
+text: 1967 22624 162 162 c79d325235dd7d5abf3a0a74056ccc07
+props: 1837 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXcommserverLib/main/include
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1v4.0.r1967/23140
+type: file
+pred: 1v4.0.r1842/48
+count: 2
+text: 1842 0 22 2373 153876b90e78d7cda65f9a04af6dd789
+props: 1967 23032 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /old/sipXcommserverLib/main/meta/setsipxpasswd
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1vf.0.r1967/23464
+type: file
+pred: 1vf.0.r1959/8964
+count: 1
+text: 1959 1191 288 414 c5381fc3ed10374cc3f41c4694ec5dcf
+props: 1967 23382 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/meta/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 1vf.0.r1967/23464
+K 13
+authrules.xsd
+V 21
+file 1vg.0.r1959/9263
+K 13
+setsipxpasswd
+V 22
+file 1v4.0.r1967/23140
+K 10
+urlmap.xsd
+V 21
+file 1vh.0.r1959/9565
+END
+ENDREP
+id: 1v3.0.r1967/23907
+type: dir
+pred: 1v3.0.r1959/10031
+count: 3
+text: 1967 23709 185 185 3050528fdd03c5b59d0d858c5b77e828
+props: 1959 9980 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXcommserverLib/main/meta
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 4
+CRLF
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ut.0.r1967/24220
+type: file
+pred: 1ut.0.r1867/544
+count: 6
+text: 1867 207 313 6098 ae901eadacaffcb6d1e23fb0b144ded8
+props: 1967 24140 67 0 40862581c28acc44b2153a4f7a6c3f75
+cpath: /old/sipXcommserverLib/main/sipdbtest.dsp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1qx.0.r1967/24543
+type: file
+pred: 1qx.0.r1798/401741
+count: 1
+text: 1798 12420 56 64 2af585c49272869c469f0b5da782c309
+props: 1967 24461 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/acsite.m4
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1qq.0.r1967/24864
+type: file
+pred: 1qq.0.r1927/539
+count: 4
+text: 1927 0 515 1345 7983cc9b304ec2b103f0091c1f866362
+props: 1967 24782 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/ChangeLog
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1uj.0.r1967/25181
+type: file
+pred: 1uj.0.r1843/21936
+count: 8
+text: 1843 14314 24 30725 7a6d6b25e5f1b71f7cac0a68cb3b978f
+props: 1967 25099 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/test/UrlMappingTest.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1um.0.r1967/25519
+type: file
+pred: 1um.0.r1798/402512
+count: 1
+text: 1798 378493 264 727 340c7b966b5026472c20f8c1cc3c882f
+props: 1967 25440 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXcommserverLib/main/src/test/mapdata/escape.xml
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1ul.0.r1967/25858
+type: file
+pred: 1ul.0.r1798/402796
+count: 1
+text: 1798 377730 750 2229 1a4ee0566a138dd09a2e1d5547ec01d0
+props: 1967 25779 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXcommserverLib/main/src/test/mapdata/digits.xml
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1un.0.r1967/26198
+type: file
+pred: 1un.0.r1798/403081
+count: 1
+text: 1798 378770 330 837 8832958ea0a5ffab26c18ae76973c681
+props: 1967 26119 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXcommserverLib/main/src/test/mapdata/params.xml
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1up.0.r1967/26537
+type: file
+pred: 1up.0.r1798/403365
+count: 1
+text: 1798 379483 292 795 ddcba83a1402ff1095dc30dcdc63aedd
+props: 1967 26458 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXcommserverLib/main/src/test/mapdata/userpat.xml
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1uo.0.r1967/26877
+type: file
+pred: 1uo.0.r1798/403650
+count: 1
+text: 1798 379113 357 1143 89aef2985a5c26a7ea95f8421615ac41
+props: 1967 26798 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXcommserverLib/main/src/test/mapdata/simple.xml
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1uq.0.r1967/27217
+type: file
+pred: 1uq.0.r1798/403935
+count: 1
+text: 1798 379788 325 969 90ebddfa7807f60675aed97ec079f293
+props: 1967 27138 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXcommserverLib/main/src/test/mapdata/vdigits.xml
+copyroot: 0 /
+
+PLAIN
+K 10
+digits.xml
+V 22
+file 1ul.0.r1967/25858
+K 10
+escape.xml
+V 22
+file 1um.0.r1967/25519
+K 10
+params.xml
+V 22
+file 1un.0.r1967/26198
+K 10
+simple.xml
+V 22
+file 1uo.0.r1967/26877
+K 11
+userpat.xml
+V 22
+file 1up.0.r1967/26537
+K 11
+vdigits.xml
+V 22
+file 1uq.0.r1967/27217
+END
+ENDREP
+id: 1uk.0.r1967/27761
+type: dir
+pred: 1uk.0.r1798/404462
+count: 1
+text: 1967 27478 270 270 220a2f28fe66f94c339bb6bebed61373
+cpath: /old/sipXcommserverLib/main/src/test/mapdata
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ui.0.r1967/28034
+type: file
+pred: 1ui.0.r1912/89
+count: 8
+text: 1912 43 22 697 19f1bc39d9c095a078dcb48f9138d912
+props: 1967 27952 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/test/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 1ui.0.r1967/28034
+K 18
+UrlMappingTest.cpp
+V 22
+file 1uj.0.r1967/25181
+K 7
+mapdata
+V 21
+dir 1uk.0.r1967/27761
+END
+ENDREP
+id: 1uh.0.r1967/28431
+type: dir
+pred: 1uh.0.r1912/483
+count: 15
+text: 1967 28278 140 140 beb44d4560a7487bfb91914041f14d3c
+props: 1837 288 69 0 a55b9c7c849058edc17f2440b12156da
+cpath: /old/sipXcommserverLib/main/src/test
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1t4.0.r1967/28748
+type: file
+pred: 1t4.0.r1843/22583
+count: 5
+text: 1843 1740 1474 30591 83aecd1bee2a4cf8597bc1c6b3e0ff06
+props: 1967 28666 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/digitmaps/UrlMapping.cpp
+copyroot: 0 /
+
+PLAIN
+K 14
+UrlMapping.cpp
+V 22
+file 1t4.0.r1967/28748
+END
+ENDREP
+id: 1t3.0.r1967/29074
+type: dir
+pred: 1t3.0.r1843/22910
+count: 5
+text: 1967 29009 52 52 088e74ef247c573b3d14339d510af11c
+cpath: /old/sipXcommserverLib/main/src/digitmaps
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1tv.0.r1967/29341
+type: file
+pred: 1tv.0.r1843/23095
+count: 6
+text: 1843 6659 24 18670 687adc4c60d016bc7a994e15c50da6cd
+props: 1967 29259 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdb/PermissionDB.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1tp.0.r1967/29680
+type: file
+pred: 1tp.0.r1843/23352
+count: 5
+text: 1843 3244 740 18744 931c739ca5b55755f08aa33cdbb2c4f0
+props: 1967 29598 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdb/AliasDB.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1tr.0.r1967/30015
+type: file
+pred: 1tr.0.r1843/23605
+count: 5
+text: 1843 4568 872 23518 af121bd2e5eff04f816d9ce8bf2abfde
+props: 1967 29933 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdb/CredentialDB.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1tw.0.r1967/30355
+type: file
+pred: 1tw.0.r1843/23863
+count: 6
+text: 1843 6710 24 23443 93bb2e2d1160e51def30a77d1e9e4bf8
+props: 1967 30273 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdb/RegistrationDB.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1tu.0.r1967/30696
+type: file
+pred: 1tu.0.r1843/24122
+count: 5
+text: 1843 6180 449 14283 210dd59bffe69b61822ece205a0736f3
+props: 1967 30614 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdb/HuntgroupDB.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1tt.0.r1967/31035
+type: file
+pred: 1tt.0.r1843/24379
+count: 5
+text: 1843 5518 632 16728 ec67f694b07a26e0da853237cc320b61
+props: 1967 30953 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdb/ExtensionDB.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1tz.0.r1967/31374
+type: file
+pred: 1tz.0.r1933/3111
+count: 6
+text: 1933 917 285 16713 540c3d9900b14a9e7bef621af4cc4d8f
+props: 1967 31292 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdb/SIPXAuthHelper.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1tq.0.r1967/31714
+type: file
+pred: 1tq.0.r1843/24897
+count: 5
+text: 1843 4014 524 14265 782cb24a943f687702520abd5452aed7
+props: 1967 31632 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdb/AuthexceptionDB.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1tx.0.r1967/32057
+type: file
+pred: 1tx.0.r1843/25158
+count: 5
+text: 1843 6762 570 1990 cef0ddac78b6bfc1c8f4fde86d2cd5da
+props: 1967 31975 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdb/ResultSet.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1u0.0.r1967/32393
+type: file
+pred: 1u0.0.r1843/25413
+count: 5
+text: 1843 8312 1176 26570 89b8c629fc975b7dce680d189a1e9b97
+props: 1967 32311 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdb/SubscriptionDB.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ts.0.r1967/32736
+type: file
+pred: 1ts.0.r1843/25674
+count: 6
+text: 1843 5470 21 16138 8e25d648168508b822e4910c4122de26
+props: 1967 32654 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdb/DialByNameDB.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ty.0.r1967/33075
+type: file
+pred: 1ty.0.r1915/1212
+count: 12
+text: 1915 956 114 35665 9e441b3fb2a7b8833622f0af44845293
+props: 1967 32993 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdb/SIPDBManager.cpp
+copyroot: 0 /
+
+PLAIN
+K 11
+AliasDB.cpp
+V 22
+file 1tp.0.r1967/29680
+K 19
+AuthexceptionDB.cpp
+V 22
+file 1tq.0.r1967/31714
+K 16
+CredentialDB.cpp
+V 22
+file 1tr.0.r1967/30015
+K 16
+DialByNameDB.cpp
+V 22
+file 1ts.0.r1967/32736
+K 15
+ExtensionDB.cpp
+V 22
+file 1tt.0.r1967/31035
+K 15
+HuntgroupDB.cpp
+V 22
+file 1tu.0.r1967/30696
+K 16
+PermissionDB.cpp
+V 22
+file 1tv.0.r1967/29341
+K 18
+RegistrationDB.cpp
+V 22
+file 1tw.0.r1967/30355
+K 13
+ResultSet.cpp
+V 22
+file 1tx.0.r1967/32057
+K 16
+SIPDBManager.cpp
+V 22
+file 1ty.0.r1967/33075
+K 18
+SIPXAuthHelper.cpp
+V 22
+file 1tz.0.r1967/31374
+K 18
+SubscriptionDB.cpp
+V 22
+file 1u0.0.r1967/32393
+END
+ENDREP
+id: 1to.0.r1967/33948
+type: dir
+pred: 1to.0.r1933/3984
+count: 15
+text: 1967 33332 603 603 fb0d64a14c56e69ddb31f979b040b26d
+cpath: /old/sipXcommserverLib/main/src/sipdb
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 0
+
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ug.0.r1967/34238
+type: file
+pred: 1ug.0.r1835/11164
+count: 2
+text: 1835 4102 143 243 d22ad79dc29e918cd55102dddc86fed4
+props: 1967 34131 94 0 3caf7fa5ef5a1e1eabc4ec47c023e3f3
+cpath: /old/sipXcommserverLib/main/src/sipdbtest/sipdbtest.sh.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ub.0.r1967/34579
+type: file
+pred: 1ub.0.r1843/26989
+count: 3
+text: 1843 13165 198 2001 af6c5e8cb477980ddb56a6e7053877e0
+props: 1967 34497 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdbtest/ImportTask.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1uf.0.r1967/34919
+type: file
+pred: 1uf.0.r1915/2265
+count: 12
+text: 1915 1097 92 10141 d02b4e846b825b325e794587facee3e0
+props: 1967 34837 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdbtest/main.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1u6.0.r1967/35254
+type: file
+pred: 1u6.0.r1893/439
+count: 9
+text: 1893 0 409 6527 89bb3e02e3950cd228384ad2af9b0765
+props: 1967 35172 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdbtest/IMDBTaskMonitor.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1u4.0.r1967/35595
+type: file
+pred: 1u4.0.r1843/27764
+count: 3
+text: 1843 10694 105 2340 c5665d9842ecb6e8432298b1824ed4fc
+props: 1967 35513 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdbtest/HeartBeatMonitor.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1u2.0.r1967/35943
+type: file
+pred: 1u2.0.r1843/28031
+count: 5
+text: 1843 9518 941 13067 e83565ffd5da9ce8176bcbd8d7fddd29
+props: 1967 35861 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdbtest/DisplayTask.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1u8.0.r1967/36286
+type: file
+pred: 1u8.0.r1843/28293
+count: 5
+text: 1843 11145 957 7304 240a65838d4593c549f681c5a20b1c82
+props: 1967 36204 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdbtest/IMDBWorkerTask.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1uc.0.r1967/36632
+type: file
+pred: 1uc.0.r1843/28558
+count: 3
+text: 1843 13392 35 1912 b9b0126b632c511aa83022b771b7f1b0
+props: 1967 36550 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdbtest/KeepAliveTask.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ue.0.r1967/36976
+type: file
+pred: 1ue.0.r1950/1398
+count: 12
+text: 1950 1252 119 1201 1aa462c1d4433bc546de88a9e9894739
+props: 1967 36894 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdbtest/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1u7.0.r1967/37314
+type: file
+pred: 1u7.0.r1843/28821
+count: 5
+text: 1843 10942 173 3272 810ef5fc65fb520e7b8aa9ef7828d878
+props: 1967 37232 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdbtest/IMDBTaskMonitor.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1u5.0.r1967/37659
+type: file
+pred: 1u5.0.r1843/29084
+count: 3
+text: 1843 10829 30 1184 3a4c7d8ab014891b9a55b60357f8166e
+props: 1967 37577 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdbtest/HeartBeatMonitor.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1u3.0.r1967/38004
+type: file
+pred: 1u3.0.r1843/29348
+count: 3
+text: 1843 10489 176 1907 6cf62a2cc8954806ec8551bdf324b85f
+props: 1967 37922 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdbtest/DisplayTask.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1u9.0.r1967/38345
+type: file
+pred: 1u9.0.r1843/29608
+count: 4
+text: 1843 12132 21 2668 4035b4dd6bc2cacb703e26dae53f31f7
+props: 1967 38263 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdbtest/IMDBWorkerTask.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ua.0.r1967/38688
+type: file
+pred: 1ua.0.r1843/29870
+count: 5
+text: 1843 12181 954 13632 aeea047d969de9f7cc34d65fb5aa6efb
+props: 1967 38606 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdbtest/ImportTask.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ud.0.r1967/39031
+type: file
+pred: 1ud.0.r1843/30132
+count: 3
+text: 1843 13457 30 1278 ace5928cff204544be57c96e496d355d
+props: 1967 38949 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/sipdbtest/KeepAliveTask.h
+copyroot: 0 /
+
+PLAIN
+K 15
+DisplayTask.cpp
+V 22
+file 1u2.0.r1967/35943
+K 13
+DisplayTask.h
+V 22
+file 1u3.0.r1967/38004
+K 20
+HeartBeatMonitor.cpp
+V 22
+file 1u4.0.r1967/35595
+K 18
+HeartBeatMonitor.h
+V 22
+file 1u5.0.r1967/37659
+K 19
+IMDBTaskMonitor.cpp
+V 22
+file 1u6.0.r1967/35254
+K 17
+IMDBTaskMonitor.h
+V 22
+file 1u7.0.r1967/37314
+K 18
+IMDBWorkerTask.cpp
+V 22
+file 1u8.0.r1967/36286
+K 16
+IMDBWorkerTask.h
+V 22
+file 1u9.0.r1967/38345
+K 14
+ImportTask.cpp
+V 22
+file 1ua.0.r1967/38688
+K 12
+ImportTask.h
+V 22
+file 1ub.0.r1967/34579
+K 17
+KeepAliveTask.cpp
+V 22
+file 1uc.0.r1967/36632
+K 15
+KeepAliveTask.h
+V 22
+file 1ud.0.r1967/39031
+K 11
+Makefile.am
+V 22
+file 1ue.0.r1967/36976
+K 8
+main.cpp
+V 22
+file 1uf.0.r1967/34919
+K 15
+sipdbtest.sh.in
+V 22
+file 1ug.0.r1967/34238
+END
+ENDREP
+id: 1u1.0.r1967/40045
+type: dir
+pred: 1u1.0.r1950/2404
+count: 23
+text: 1967 39291 741 741 2ff743f780122d7107cebba7791922e1
+props: 1837 601 69 0 e11baf817b7a669ba9d41db2c0482c63
+cpath: /old/sipXcommserverLib/main/src/sipdbtest
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ti.0.r1967/40368
+type: file
+pred: 1ti.0.r1798/415329
+count: 1
+text: 1798 263548 1011 2011 8af5e1753b25f4e95ed7a503af209ec5
+props: 1967 40286 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/fastdb/symtab.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1t6.0.r1967/40706
+type: file
+pred: 1t6.0.r1798/415609
+count: 1
+text: 1798 153909 1470 3181 fbeb89dd259f38e2ef8afb1e6549931c
+props: 1967 40624 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/fastdb/cgistub.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1tb.0.r1967/41045
+type: file
+pred: 1tb.0.r1865/3234
+count: 6
+text: 1865 185 157 233228 d6b7ebf3eb46b5d6e2f240ac064f991f
+props: 1967 40963 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/fastdb/database.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1tf.0.r1967/41381
+type: file
+pred: 1tf.0.r1798/416175
+count: 1
+text: 1798 249524 2350 7950 72fbd5c62b310ae857ed8bf54179aa9f
+props: 1967 41299 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/fastdb/query.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1t7.0.r1967/41718
+type: file
+pred: 1t7.0.r1827/296
+count: 3
+text: 1827 0 189 48485 27a42019cb4ec9cfc0af55d3a5109104
+props: 1967 41636 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/fastdb/class.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1th.0.r1967/42047
+type: file
+pred: 1th.0.r1812/15985
+count: 2
+text: 1812 2332 46 46119 d2920129047d17e107a79aa455994b9a
+props: 1967 41965 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/fastdb/server.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1tg.0.r1967/42381
+type: file
+pred: 1tg.0.r1798/417015
+count: 1
+text: 1798 251887 1728 6463 48655e87d5da54c8573f376d39f9ef28
+props: 1967 42299 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/fastdb/repsock.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1td.0.r1967/42720
+type: file
+pred: 1td.0.r1798/417296
+count: 1
+text: 1798 235028 2505 8289 0b7cc09f3f47e139e05bd6c6d5848f8e
+props: 1967 42638 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/fastdb/hashtab.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1t8.0.r1967/43059
+type: file
+pred: 1t8.0.r1827/543
+count: 3
+text: 1827 219 46 45945 cb5a25c93034b603853584ec57848e44
+props: 1967 42977 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/fastdb/compiler.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1tl.0.r1967/43392
+type: file
+pred: 1tl.0.r1865/3488
+count: 5
+text: 1865 722 86 12059 d646b08ba8ec95e3e1688c468451730c
+props: 1967 43310 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/fastdb/unisock.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1tj.0.r1967/43725
+type: file
+pred: 1tj.0.r1915/3504
+count: 7
+text: 1915 618 312 14993 bd1d3265809c670b812cd2867448c675
+props: 1967 43643 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/fastdb/sync.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ta.0.r1967/44056
+type: file
+pred: 1ta.0.r1844/414
+count: 2
+text: 1844 0 384 17544 b6cb9de0c720a3daed976ed356a64341
+props: 1967 43974 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/fastdb/cursor.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1tn.0.r1967/44386
+type: file
+pred: 1tn.0.r1812/16494
+count: 2
+text: 1812 2465 221 19474 9d61975725f11c2489cfbc5e863db4fb
+props: 1967 44304 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/fastdb/wwwapi.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1tc.0.r1967/44721
+type: file
+pred: 1tc.0.r1798/418984
+count: 1
+text: 1798 227100 7915 31265 fa4dc43d21038b4af9432b92e012a338
+props: 1967 44639 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/fastdb/file.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1te.0.r1967/45058
+type: file
+pred: 1te.0.r1812/16749
+count: 2
+text: 1812 1712 589 70316 3b8b3bf88ca875430aa8ba81c94d7500
+props: 1967 44976 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/fastdb/localcli.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1t9.0.r1967/45395
+type: file
+pred: 1t9.0.r1798/419547
+count: 1
+text: 1798 176258 965 2352 777f2527ee4dd73a949c2afb5f9bd224
+props: 1967 45313 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/fastdb/container.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1tk.0.r1967/45735
+type: file
+pred: 1tk.0.r1798/419829
+count: 1
+text: 1798 269326 4419 22598 7416694bb16ffbc1c4d59b60cc35e017
+props: 1967 45653 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/fastdb/ttree.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1tm.0.r1967/46073
+type: file
+pred: 1tm.0.r1798/420109
+count: 1
+text: 1798 277810 6498 23071 c9a34b1ff6e676b347331a749c15b3f0
+props: 1967 45991 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/fastdb/w32sock.cpp
+copyroot: 0 /
+
+PLAIN
+K 11
+cgistub.cpp
+V 22
+file 1t6.0.r1967/40706
+K 9
+class.cpp
+V 22
+file 1t7.0.r1967/41718
+K 12
+compiler.cpp
+V 22
+file 1t8.0.r1967/43059
+K 13
+container.cpp
+V 22
+file 1t9.0.r1967/45395
+K 10
+cursor.cpp
+V 22
+file 1ta.0.r1967/44056
+K 12
+database.cpp
+V 22
+file 1tb.0.r1967/41045
+K 8
+file.cpp
+V 22
+file 1tc.0.r1967/44721
+K 11
+hashtab.cpp
+V 22
+file 1td.0.r1967/42720
+K 12
+localcli.cpp
+V 22
+file 1te.0.r1967/45058
+K 9
+query.cpp
+V 22
+file 1tf.0.r1967/41381
+K 11
+repsock.cpp
+V 22
+file 1tg.0.r1967/42381
+K 10
+server.cpp
+V 22
+file 1th.0.r1967/42047
+K 10
+symtab.cpp
+V 22
+file 1ti.0.r1967/40368
+K 8
+sync.cpp
+V 22
+file 1tj.0.r1967/43725
+K 9
+ttree.cpp
+V 22
+file 1tk.0.r1967/45735
+K 11
+unisock.cpp
+V 22
+file 1tl.0.r1967/43392
+K 11
+w32sock.cpp
+V 22
+file 1tm.0.r1967/46073
+K 10
+wwwapi.cpp
+V 22
+file 1tn.0.r1967/44386
+END
+ENDREP
+id: 1t5.0.r1967/47142
+type: dir
+pred: 1t5.0.r1915/4562
+count: 13
+text: 1967 46331 798 798 de7bd8087033d1aab84e52bcd45927d3
+cpath: /old/sipXcommserverLib/main/src/fastdb
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1t2.0.r1967/47408
+type: file
+pred: 1t2.0.r1959/10261
+count: 8
+text: 1959 4036 29 1369 692e2b7dcb2e95a112f731e4c9a00c34
+props: 1967 47326 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1vk.0.r1967/47735
+type: file
+pred: 1vk.0.r1959/10553
+count: 1
+text: 1959 4418 4486 15042 ff2f776e19e9efad3547104e1a264de9
+props: 1967 47653 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/xsdvalid/xsdvalid.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1vj.0.r1967/48075
+type: file
+pred: 1vj.0.r1959/10834
+count: 1
+text: 1959 4092 313 436 4a7869301cd91dccbb581ea9ef04b4fa
+props: 1967 47993 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/src/xsdvalid/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 1vj.0.r1967/48075
+K 12
+xsdvalid.cpp
+V 22
+file 1vk.0.r1967/47735
+END
+ENDREP
+id: 1vi.0.r1967/48437
+type: dir
+pred: 1vi.0.r1959/11223
+count: 1
+text: 1967 48329 95 95 125b53e63e41aa9cdba3ff64a8c0dbc0
+props: 1959 11172 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXcommserverLib/main/src/xsdvalid
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 1t2.0.r1967/47408
+K 9
+digitmaps
+V 21
+dir 1t3.0.r1967/29074
+K 6
+fastdb
+V 21
+dir 1t5.0.r1967/47142
+K 5
+sipdb
+V 21
+dir 1to.0.r1967/33948
+K 9
+sipdbtest
+V 21
+dir 1u1.0.r1967/40045
+K 4
+test
+V 21
+dir 1uh.0.r1967/28431
+K 8
+xsdvalid
+V 21
+dir 1vi.0.r1967/48437
+END
+ENDREP
+id: 1t1.0.r1967/48972
+type: dir
+pred: 1t1.0.r1959/11729
+count: 43
+text: 1967 48677 282 282 3772ae3f00b17c7b95a5f8c2cd0029bb
+props: 1837 1172 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /old/sipXcommserverLib/main/src
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1qv.0.r1967/49287
+type: file
+pred: 1qv.0.r1798/425226
+count: 1
+text: 1798 11781 609 728 f9bf9be7ceac4d4705c97ab53011da0b
+props: 1967 49205 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/README
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1qp.0.r1967/49607
+type: file
+pred: 1qp.0.r1798/425019
+count: 1
+text: 1798 0 239 244 4a768a2b46bbe127d4fb3d4737656fe5
+props: 1967 49525 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/CONTRIBUTORS
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 4
+CRLF
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1us.0.r1967/49927
+type: file
+pred: 1us.0.r1867/783
+count: 7
+text: 1867 0 181 9705 5ae9c5d25219be5f30a803f1eeca5c00
+props: 1967 49847 67 0 40862581c28acc44b2153a4f7a6c3f75
+cpath: /old/sipXcommserverLib/main/sipXcommserverLib.dsp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1r5.0.r1967/50256
+type: file
+pred: 1r5.0.r1959/11961
+count: 11
+text: 1959 901 266 1823 38bef4f80211da65d6c0f7da247d7adf
+props: 1967 50174 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/configure.ac
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 9
+text/html
+END
+ENDREP
+id: 1v0.0.r1967/50579
+type: file
+pred: 1v0.0.r1833/9456
+count: 1
+text: 1833 8085 35 23 55c3322fdf6aca9c6796a350bdc10c24
+props: 1967 50499 67 0 0c06cf5f4ba661b255b0e5ba6bcaaa80
+cpath: /old/sipXcommserverLib/main/doc/footer.html
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1v7.84.r1967/50903
+type: file
+pred: 1v7.84.r1891/670
+count: 4
+text: 1891 512 135 6841 ce0bd62c8f823e4069cbc29cc502cca7
+props: 1967 50821 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/doc/INSTALL.ssl
+copyroot: 1880 /old/sipXcommserverLib/main/doc/INSTALL.ssl
+
+PLAIN
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1ux.0.r1967/51242
+type: file
+pred: 1ux.0.r1838/48
+count: 2
+text: 1838 0 22 1451 07dcb2a388351fb5ea44394a0d980b96
+props: 1967 51193 36 0 dcfe190ce68d97083978e2c0e3de07bd
+cpath: /old/sipXcommserverLib/main/doc/permission.xml
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1uy.0.r1967/51566
+type: file
+pred: 1uy.0.r1833/9618
+count: 1
+text: 1833 0 7612 23470 e223ab300007d9898d1a0bf5034aa91b
+props: 1967 51484 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/doc/Doxyfile.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1uz.0.r1967/51892
+type: file
+pred: 1uz.0.r1947/3435
+count: 4
+text: 1947 869 155 404 8d6218ec53a61fe703c8651e68cceac5
+props: 1967 51810 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/doc/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1uw.0.r1967/52184
+type: file
+pred: 1uw.0.r1939/328
+count: 4
+text: 1939 0 304 1595 c527c0f1a4748093b5afab04300a7282
+props: 1967 52135 36 0 dcfe190ce68d97083978e2c0e3de07bd
+cpath: /old/sipXcommserverLib/main/doc/credential.xml
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1vb.0.r1967/52510
+type: file
+pred: 1vb.0.r1871/986
+count: 1
+text: 1871 0 973 1788 48dc636e01ddce9ee15c22c3644522d9
+props: 1967 52428 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/doc/update-passtokens
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 9
+text/html
+END
+ENDREP
+id: 1v1.0.r1967/52837
+type: file
+pred: 1v1.0.r1833/9946
+count: 1
+text: 1833 8133 246 277 c5041fa27b7929fff90ce2503056f6e3
+props: 1967 52757 67 0 0c06cf5f4ba661b255b0e5ba6bcaaa80
+cpath: /old/sipXcommserverLib/main/doc/header.html
+copyroot: 0 /
+
+PLAIN
+K 11
+Doxyfile.in
+V 22
+file 1uy.0.r1967/51566
+K 11
+INSTALL.ssl
+V 23
+file 1v7.84.r1967/50903
+K 11
+Makefile.am
+V 22
+file 1uz.0.r1967/51892
+K 14
+credential.xml
+V 22
+file 1uw.0.r1967/52184
+K 11
+footer.html
+V 22
+file 1v0.0.r1967/50579
+K 11
+header.html
+V 22
+file 1v1.0.r1967/52837
+K 14
+permission.xml
+V 22
+file 1ux.0.r1967/51242
+K 17
+update-passtokens
+V 22
+file 1vb.0.r1967/52510
+END
+ENDREP
+id: 1uv.0.r1967/53471
+type: dir
+pred: 1uv.0.r1947/3998
+count: 14
+text: 1967 53081 377 377 0cb9d64852590afb7b059618506bcbf5
+props: 1837 1474 56 0 357a444bd6df82003e865df156c283e9
+cpath: /old/sipXcommserverLib/main/doc
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1qw.0.r1967/53785
+type: file
+pred: 1qw.0.r1798/400566
+count: 1
+text: 1798 12403 4 0 d41d8cd98f00b204e9800998ecf8427e
+props: 1967 53703 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/TODO
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1qr.0.r1967/54099
+type: file
+pred: 1qr.0.r1947/4227
+count: 4
+text: 1947 0 156 380 6adc771c0807f5daeeb54013de427069
+props: 1967 54017 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/INSTALL
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1vd.0.r1967/54440
+type: file
+pred: 1vd.0.r1946/704
+count: 1
+text: 1946 0 648 1188 12546d76cbf5c29815853dac3e409916
+props: 1967 54332 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /old/sipXcommserverLib/main/bin/sipx-expires-display
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 0
+
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1r0.0.r1967/54797
+type: file
+pred: 1r0.0.r1839/65
+count: 2
+text: 1839 0 36 2850 78655e5dbee72cd9e5d8d9a806956b8c
+props: 1967 54690 94 0 3caf7fa5ef5a1e1eabc4ec47c023e3f3
+cpath: /old/sipXcommserverLib/main/bin/configpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 0
+
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1r1.0.r1967/55140
+type: file
+pred: 1r1.0.r1834/92
+count: 2
+text: 1834 0 64 777 f34e7d5f78bfe838397647bc97ff7602
+props: 1967 55033 94 0 3caf7fa5ef5a1e1eabc4ec47c023e3f3
+cpath: /old/sipXcommserverLib/main/bin/get_def_addr
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1qz.0.r1967/55461
+type: file
+pred: 1qz.0.r1959/12204
+count: 6
+text: 1959 70 294 1015 f1486ebe3f9cdb7421095776a1b6e431
+props: 1967 55379 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/bin/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1v9.0.r1967/55813
+type: file
+pred: 1v9.0.r1896/1050
+count: 5
+text: 1896 126 896 9766 e0fffa4e9c4e5519c5fe817ea4b32272
+props: 1967 55705 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /old/sipXcommserverLib/main/bin/ssl-cert/gen-ssl-keys.sh.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1va.0.r1967/56155
+type: file
+pred: 1va.0.r1886/1185
+count: 4
+text: 1886 675 231 2358 6b31667d86a728ac5f4737b7318245ed
+props: 1967 56073 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/bin/ssl-cert/install-cert.sh.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1vc.0.r1967/56523
+type: file
+pred: 1vc.0.r1881/2883
+count: 1
+text: 1881 322 1237 3504 4a30b20a872822fef7e7ba28ef83a836
+props: 1967 56415 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /old/sipXcommserverLib/main/bin/ssl-cert/check-cert.sh
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1v8.0.r1967/56861
+type: file
+pred: 1v8.0.r1966/508
+count: 9
+text: 1966 0 481 587 d535cfb0b4e8bb816ba448790725aad6
+props: 1967 56779 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/bin/ssl-cert/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 1v8.0.r1967/56861
+K 13
+check-cert.sh
+V 22
+file 1vc.0.r1967/56523
+K 18
+gen-ssl-keys.sh.in
+V 22
+file 1v9.0.r1967/55813
+K 18
+install-cert.sh.in
+V 22
+file 1va.0.r1967/56155
+END
+ENDREP
+id: 1v6.0.r1967/57323
+type: dir
+pred: 1v6.0.r1966/962
+count: 15
+text: 1967 57110 200 200 bc132cb70f70347645f200f4dd4cf077
+props: 1885 0 49 0 31f10077e4c6a51f3b8862cc0d70354b
+cpath: /old/sipXcommserverLib/main/bin/ssl-cert
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ve.0.r1967/57642
+type: file
+pred: 1ve.0.r1959/12494
+count: 1
+text: 1959 388 500 647 b7481081816859125c6611d00db80c57
+props: 1967 57560 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/bin/sipx-validate-xml.in
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 1qz.0.r1967/55461
+K 8
+configpp
+V 22
+file 1r0.0.r1967/54797
+K 12
+get_def_addr
+V 22
+file 1r1.0.r1967/55140
+K 20
+sipx-expires-display
+V 22
+file 1vd.0.r1967/54440
+K 20
+sipx-validate-xml.in
+V 22
+file 1ve.0.r1967/57642
+K 8
+ssl-cert
+V 21
+dir 1v6.0.r1967/57323
+END
+ENDREP
+id: 1qy.0.r1967/58192
+type: dir
+pred: 1qy.0.r1966/1482
+count: 25
+text: 1967 57895 284 284 2a7df92acc4797388cd1406c7f1585ce
+props: 1959 13011 66 0 524cc610a1d5e1cd67f8948e9f9b6314
+cpath: /old/sipXcommserverLib/main/bin
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1qt.0.r1967/58507
+type: file
+pred: 1qt.0.r1959/13322
+count: 19
+text: 1959 0 46 1714 8fc32c40e0b10030830f0bd9ac10655b
+props: 1967 58425 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1r7.0.r1967/58828
+type: file
+pred: 1r7.0.r1947/5856
+count: 8
+text: 1947 1047 206 543 525abce0bceda3a7f0f56c8706179142
+props: 1967 58746 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/etc/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1r8.0.r1967/59154
+type: file
+pred: 1r8.0.r1937/250
+count: 7
+text: 1937 0 226 3357 e08f3c2f4216c29cd4efeae0e81c434c
+props: 1967 59072 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/etc/config.defs.in
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 1r7.0.r1967/58828
+K 14
+config.defs.in
+V 22
+file 1r8.0.r1967/59154
+END
+ENDREP
+id: 1r6.0.r1967/59508
+type: dir
+pred: 1r6.0.r1947/6206
+count: 15
+text: 1967 59398 97 97 79099ac1fbf6050e4a77d6bd19eed5c8
+props: 1837 2059 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXcommserverLib/main/etc
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1v2.0.r1967/59820
+type: file
+pred: 1v2.0.r1960/164
+count: 26
+text: 1960 0 137 3898 d4fbb968d963c57a4ca8e51f014c4620
+props: 1967 59738 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/sipxcommserverlib.spec.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1qu.0.r1967/60154
+type: file
+pred: 1qu.0.r1798/424867
+count: 1
+text: 1798 11764 4 0 d41d8cd98f00b204e9800998ecf8427e
+props: 1967 60072 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXcommserverLib/main/NEWS
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1qp.0.r1967/49607
+K 9
+ChangeLog
+V 22
+file 1qq.0.r1967/24864
+K 7
+INSTALL
+V 22
+file 1qr.0.r1967/54099
+K 7
+LICENSE
+V 19
+file 1qs.0.r1967/82
+K 11
+Makefile.am
+V 22
+file 1qt.0.r1967/58507
+K 4
+NEWS
+V 22
+file 1qu.0.r1967/60154
+K 6
+README
+V 22
+file 1qv.0.r1967/49287
+K 4
+TODO
+V 22
+file 1qw.0.r1967/53785
+K 9
+acsite.m4
+V 22
+file 1qx.0.r1967/24543
+K 3
+bin
+V 21
+dir 1qy.0.r1967/58192
+K 12
+configure.ac
+V 22
+file 1r5.0.r1967/50256
+K 3
+doc
+V 21
+dir 1uv.0.r1967/53471
+K 3
+etc
+V 21
+dir 1r6.0.r1967/59508
+K 7
+include
+V 21
+dir 1rc.0.r1967/22799
+K 4
+meta
+V 21
+dir 1v3.0.r1967/23907
+K 21
+sipXcommserverLib.dsp
+V 22
+file 1us.0.r1967/49927
+K 13
+sipdbtest.dsp
+V 22
+file 1ut.0.r1967/24220
+K 25
+sipxcommserverlib.spec.in
+V 22
+file 1v2.0.r1967/59820
+K 3
+src
+V 21
+dir 1t1.0.r1967/48972
+END
+ENDREP
+id: 1qo.0.r1967/61190
+type: dir
+pred: 1qo.0.r1966/2959
+count: 116
+text: 1967 60386 791 791 1c56dc2c04c18ed39dae8b5274876f41
+props: 1966 2513 433 0 cf55a1c66fa862eb48bf5387e68bab61
+cpath: /old/sipXcommserverLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1v5.0.r1964/2414
+K 4
+main
+V 21
+dir 1qo.0.r1967/61190
+K 4
+tags
+V 20
+dir 1uu.0.r1965/1724
+END
+ENDREP
+id: 1qn.0.r1967/61547
+type: dir
+pred: 1qn.0.r1966/3313
+count: 170
+text: 1967 61420 114 114 d2525c8d64a761cb190cbd27ba5b6bc9
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 21
+dir 1qn.0.r1967/61547
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1967/61951
+type: dir
+pred: 1.0.r1966/3714
+count: 1966
+text: 1967 61716 222 222 63d243ed668dcca03ca81a17545fc196
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 19
+dir 1.0.r1967/61951
+END
+ENDREP
+id: 0.0.r1967/62149
+type: dir
+pred: 0.0.r1966/3909
+count: 1967
+text: 1967 62099 37 37 76813d7bac1c5f0e68fdbd2c45ce8806
+cpath: /
+copyroot: 0 /
+
+1rk.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/class.h
+
+1sm.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/sipdb/DialByNameDB.h
+
+1vc.0.t1966-1 modify false true /old/sipXcommserverLib/main/bin/ssl-cert/check-cert.sh
+
+1t0.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/sipdb/SubscriptionRow.h
+
+1sc.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/unisock.h
+
+1rm.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/clidb.h
+
+1st.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/sipdb/PermissionRow.h
+
+1uy.0.t1966-1 modify false true /old/sipXcommserverLib/main/doc/Doxyfile.in
+
+1up.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/test/mapdata/userpat.xml
+
+1t2.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/Makefile.am
+
+1si.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/sipdb/AuthexceptionDB.h
+
+1u0.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdb/SubscriptionDB.cpp
+
+1sz.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/sipdb/SubscriptionDB.h
+
+1vk.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/xsdvalid/xsdvalid.cpp
+
+1sn.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/sipdb/DialByNameRow.h
+
+1sg.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/sipdb/AliasDB.h
+
+1v7.84.t1966-1 modify false true /old/sipXcommserverLib/main/doc/INSTALL.ssl
+
+1vd.0.t1966-1 modify false true /old/sipXcommserverLib/main/bin/sipx-expires-display
+
+1tz.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdb/SIPXAuthHelper.cpp
+
+1qz.0.t1966-1 modify false true /old/sipXcommserverLib/main/bin/Makefile.am
+
+1va.0.t1966-1 modify false true /old/sipXcommserverLib/main/bin/ssl-cert/install-cert.sh.in
+
+1td.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/fastdb/hashtab.cpp
+
+1qq.0.t1966-1 modify false true /old/sipXcommserverLib/main/ChangeLog
+
+1rr.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/cursor.h
+
+1tc.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/fastdb/file.cpp
+
+1te.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/fastdb/localcli.cpp
+
+1qv.0.t1966-1 modify false true /old/sipXcommserverLib/main/README
+
+1s0.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/localcli.h
+
+1v9.0.t1966-1 modify false true /old/sipXcommserverLib/main/bin/ssl-cert/gen-ssl-keys.sh.in
+
+1s6.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/sockio.h
+
+1qw.0.t1966-1 modify false true /old/sipXcommserverLib/main/TODO
+
+1sx.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/sipdb/SIPDBManager.h
+
+1s7.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/stdtp.h
+
+1s9.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/symtab.h
+
+1uw.0.t1966-1 modify false true /old/sipXcommserverLib/main/doc/credential.xml
+
+1u6.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdbtest/IMDBTaskMonitor.cpp
+
+1t7.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/fastdb/class.cpp
+
+1rl.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/cli.h
+
+1ts.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdb/DialByNameDB.cpp
+
+1ve.0.t1966-1 modify false true /old/sipXcommserverLib/main/bin/sipx-validate-xml.in
+
+1sk.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/sipdb/CredentialDB.h
+
+1qp.0.t1966-1 modify false true /old/sipXcommserverLib/main/CONTRIBUTORS
+
+1tk.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/fastdb/ttree.cpp
+
+1vf.0.t1966-1 modify false true /old/sipXcommserverLib/main/meta/Makefile.am
+
+1un.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/test/mapdata/params.xml
+
+1tx.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdb/ResultSet.cpp
+
+1r5.0.t1966-1 modify false true /old/sipXcommserverLib/main/configure.ac
+
+1r8.0.t1966-1 modify false true /old/sipXcommserverLib/main/etc/config.defs.in
+
+1v0.0.t1966-1 modify false true /old/sipXcommserverLib/main/doc/footer.html
+
+1rv.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/exception.h
+
+1ub.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdbtest/ImportTask.h
+
+1sp.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/sipdb/ExtensionRow.h
+
+1sy.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/sipdb/SIPXAuthHelper.h
+
+1vb.0.t1966-1 modify false true /old/sipXcommserverLib/main/doc/update-passtokens
+
+1u4.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdbtest/HeartBeatMonitor.cpp
+
+1rs.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/database.h
+
+1s1.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/query.h
+
+1qs.0.t1966-1 modify false true /old/sipXcommserverLib/main/LICENSE
+
+1ro.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/compiler.d
+
+1s3.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/repsock.h
+
+1t8.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/fastdb/compiler.cpp
+
+1s8.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/subsql.h
+
+1ut.0.t1966-1 modify false true /old/sipXcommserverLib/main/sipdbtest.dsp
+
+1rp.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/compiler.h
+
+1sa.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/sync.h
+
+1tw.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdb/RegistrationDB.cpp
+
+1tn.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/fastdb/wwwapi.cpp
+
+1se.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/wwwapi.h
+
+1so.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/sipdb/ExtensionDB.h
+
+1sr.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/sipdb/HuntgroupRow.h
+
+1rq.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/container.h
+
+1v1.0.t1966-1 modify false true /old/sipXcommserverLib/main/doc/header.html
+
+1ue.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdbtest/Makefile.am
+
+1ry.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/harray.h
+
+1tm.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/fastdb/w32sock.cpp
+
+1ua.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdbtest/ImportTask.cpp
+
+1v4.0.t1966-1 modify false true /old/sipXcommserverLib/main/meta/setsipxpasswd
+
+1s5.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/set.h
+
+1ru.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/datetime.h
+
+1ti.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/fastdb/symtab.cpp
+
+1r0.0.t1966-1 modify false true /old/sipXcommserverLib/main/bin/configpp
+
+1sj.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/sipdb/AuthexceptionRow.h
+
+1ri.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/array.h
+
+1ux.0.t1966-1 modify false true /old/sipXcommserverLib/main/doc/permission.xml
+
+1uf.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdbtest/main.cpp
+
+1tq.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdb/AuthexceptionDB.cpp
+
+1sb.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/ttree.h
+
+1ul.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/test/mapdata/digits.xml
+
+1u8.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdbtest/IMDBWorkerTask.cpp
+
+1uj.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/test/UrlMappingTest.cpp
+
+1tv.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdb/PermissionDB.cpp
+
+1ss.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/sipdb/PermissionDB.h
+
+1sq.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/sipdb/HuntgroupDB.h
+
+1sv.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/sipdb/RegistrationRow.h
+
+1um.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/test/mapdata/escape.xml
+
+1vj.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/xsdvalid/Makefile.am
+
+1rw.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/fastdb.h
+
+1tf.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/fastdb/query.cpp
+
+1rz.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/hashtab.h
+
+1rt.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/date.h
+
+1sh.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/sipdb/AliasRow.h
+
+1u2.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdbtest/DisplayTask.cpp
+
+1uc.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdbtest/KeepAliveTask.cpp
+
+1ty.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdb/SIPDBManager.cpp
+
+1u9.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdbtest/IMDBWorkerTask.h
+
+1sd.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/w32sock.h
+
+1ug.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdbtest/sipdbtest.sh.in
+
+1v2.0.t1966-1 modify false true /old/sipXcommserverLib/main/sipxcommserverlib.spec.in
+
+1r7.0.t1966-1 modify false true /old/sipXcommserverLib/main/etc/Makefile.am
+
+1u5.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdbtest/HeartBeatMonitor.h
+
+1tl.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/fastdb/unisock.cpp
+
+1qx.0.t1966-1 modify false true /old/sipXcommserverLib/main/acsite.m4
+
+1tr.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdb/CredentialDB.cpp
+
+1rh.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/CHANGES
+
+1sw.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/sipdb/ResultSet.h
+
+1u3.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdbtest/DisplayTask.h
+
+1qr.0.t1966-1 modify false true /old/sipXcommserverLib/main/INSTALL
+
+1ud.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdbtest/KeepAliveTask.h
+
+1tp.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdb/AliasDB.cpp
+
+1tu.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdb/HuntgroupDB.cpp
+
+1t6.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/fastdb/cgistub.cpp
+
+1qu.0.t1966-1 modify false true /old/sipXcommserverLib/main/NEWS
+
+1v8.0.t1966-1 modify false true /old/sipXcommserverLib/main/bin/ssl-cert/Makefile.am
+
+1uz.0.t1966-1 modify false true /old/sipXcommserverLib/main/doc/Makefile.am
+
+1tb.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/fastdb/database.cpp
+
+1ui.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/test/Makefile.am
+
+1th.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/fastdb/server.cpp
+
+1tg.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/fastdb/repsock.cpp
+
+1s4.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/server.h
+
+1u7.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdbtest/IMDBTaskMonitor.h
+
+1uq.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/test/mapdata/vdigits.xml
+
+1tj.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/fastdb/sync.cpp
+
+1ta.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/fastdb/cursor.cpp
+
+1su.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/sipdb/RegistrationDB.h
+
+1tt.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/sipdb/ExtensionDB.cpp
+
+1rx.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/file.h
+
+1rd.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/Makefile.am
+
+1t9.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/fastdb/container.cpp
+
+1r1.0.t1966-1 modify false true /old/sipXcommserverLib/main/bin/get_def_addr
+
+1rj.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/bugdb.h
+
+1us.0.t1966-1 modify false true /old/sipXcommserverLib/main/sipXcommserverLib.dsp
+
+1uo.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/test/mapdata/simple.xml
+
+1t4.0.t1966-1 modify false true /old/sipXcommserverLib/main/src/digitmaps/UrlMapping.cpp
+
+1rn.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/cliproto.h
+
+1rf.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/digitmaps/UrlMapping.h
+
+1qt.0.t1966-1 modify false true /old/sipXcommserverLib/main/Makefile.am
+
+1s2.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/fastdb/reference.h
+
+1sl.0.t1966-1 modify false true /old/sipXcommserverLib/main/include/sipdb/CredentialRow.h
+
+
+62149 62292

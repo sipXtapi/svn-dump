@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-01-25T14:39:55.642180Z
+K 7
+svn:log
+V 146
+Add some changes from Dale to a "Loose Ends" section at the end to get them into the spec without taking the time to merge them into the body yet
+
+END

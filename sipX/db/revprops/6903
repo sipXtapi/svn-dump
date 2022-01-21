@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-06-05T21:58:44.191193Z
+K 7
+svn:log
+V 134
+XCF-1059 - Fix reboot, sip message had IP address instead of hostname and NOTIFY address could be wrong if display name was non emptry
+END

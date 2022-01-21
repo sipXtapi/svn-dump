@@ -1,0 +1,142 @@
+PLAIN
+K 10
+svn:ignore
+V 46
+build.err
+configure
+autom4te.cache
+aclocal.m4
+
+K 43
+svnmerge-main2user_dworley_URI_parsing-head
+V 40
+https://scm.sipfoundry.org/rep/sipX/main
+K 43
+svnmerge-main2user_dworley_URI_parsing-revs
+V 6
+1-7473
+END
+ENDREP
+id: 7q4.4t1.r7562/240
+type: dir
+pred: 7q4.4t1.r7487/47740
+count: 1752
+text: 7487 46716 1011 1011 1747c3a59ffad954159ac52101d513a1
+props: 7562 0 227 0 a4abc4fa9b7bfeee171f5f51b62bdb73
+cpath: /branches/user_dworley_URI_parsing
+copyroot: 7477 /branches/user_dworley_URI_parsing
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 22
+dir 7q4.3ib.r7525/4164
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 20
+dir 9wi.0.r7534/6656
+K 21
+sipXtapi-media-update
+V 22
+dir 9wi.3ke.r7453/9961
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 21
+dir 7q4.4t1.r7562/240
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 24
+user_dworley_redirectors
+V 24
+dir 7q4.3xw.r7561/172338
+K 14
+virtual-domain
+V 22
+dir 7q4.4t6.r7558/6680
+END
+ENDREP
+id: 7pt.0.r7562/1384
+type: dir
+pred: 7pt.0.r7561/173494
+count: 928
+text: 7562 516 855 855 0f0a5801b97870a791cee6d1e3011f8b
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r7562/1384
+K 4
+main
+V 20
+dir 7q4.0.r7560/5342
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r7562/1666
+type: dir
+pred: 0.0.r7561/173781
+count: 7562
+text: 7562 1539 114 114 e2f5bb3c2317f716ec3d5851373525bd
+cpath: /
+copyroot: 0 /
+
+7q4.4t1.t7561-1 modify false true /branches/user_dworley_URI_parsing
+
+
+1666 1811

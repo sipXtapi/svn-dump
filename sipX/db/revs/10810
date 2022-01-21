@@ -1,0 +1,37 @@
+id: fus.0.r10810/0
+type: dir
+count: 0
+cpath: /sipXecs.old
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r10809/2763
+K 4
+main
+V 20
+dir 7q4.0.r9837/8232
+K 11
+sipXecs.old
+V 18
+dir fus.0.r10810/0
+K 4
+tags
+V 20
+dir 7q5.0.r9367/2658
+END
+ENDREP
+id: 0.0.r10810/241
+type: dir
+pred: 0.0.r10809/3050
+count: 10810
+text: 10810 73 155 155 f73ec626550a6e283dfe36472099a1f7
+cpath: /
+copyroot: 0 /
+
+_0.0.t10809-1 add false false /sipXecs.old
+
+
+241 385

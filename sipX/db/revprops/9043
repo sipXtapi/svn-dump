@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-03-09T23:45:02.938721Z
+K 7
+svn:log
+V 101
+[XSL-172] Fix timers problems in SipRefreshMgr.
+Fix applied as suggested, check tracker for details.
+
+END

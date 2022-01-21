@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-11T21:58:56.622113Z
+K 7
+svn:log
+V 121
+Correct MIME subtypes for Speex WB and Speex UWB. They all are just "speex", so they are distinguished by sampling rate.
+
+END

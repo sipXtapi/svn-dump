@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-06-22T03:22:43.082331Z
+K 7
+svn:log
+V 194
+More D&D feedback on the WSDL: split the IMDB methods into a separate SOAP service named "IMDB Service".  The methods will get a lot more complicated than they are now, but not in this checkin.
+
+END

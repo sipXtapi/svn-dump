@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-16T22:11:23.539169Z
+K 7
+svn:log
+V 105
+Propagate the ./configure arguments into the %configure in the .spec.
+http://paradise:8080/browse/ENG-38
+
+END

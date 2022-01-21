@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-06-23T22:06:29.144795Z
+K 7
+svn:log
+V 134
+Generate proper 488 responses if no suitable codecs can be found.
+Generate Warning headers with the right format.
+Clean up indenting.
+
+END

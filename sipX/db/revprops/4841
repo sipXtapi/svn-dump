@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-07-13T22:19:19.018405Z
+K 7
+svn:log
+V 91
+Eliminate race condition from tests. 
+Added suspend/resume control to BackgroundTaskQueue.
+
+END

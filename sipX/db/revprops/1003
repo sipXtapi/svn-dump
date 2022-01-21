@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-05-24T06:17:02.482525Z
+K 7
+svn:log
+V 130
+Finished coding the SipSubscriptionMgr along with a few
+other SipSubscribeServer dependency methods that I missed
+along the way.
+
+
+END

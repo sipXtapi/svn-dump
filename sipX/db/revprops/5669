@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-11-29T22:11:11.649660Z
+K 7
+svn:log
+V 101
+XCF-767 Restore caching of setting models to support scalability of large number of users/phones/etc.
+END

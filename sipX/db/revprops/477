@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-03-25T09:30:52.216455Z
+K 7
+svn:log
+V 68
+Converted shared library manager to use syslog instead
+of osPrintf
+
+
+END

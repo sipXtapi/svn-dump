@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-10T13:12:33.111292Z
+K 7
+svn:log
+V 133
+MpInputOutputFrameworkTest: Allocate input manager in dynamic memory and add several devices to it, so they may be used at one time.
+
+END

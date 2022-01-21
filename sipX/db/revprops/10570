@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-31T16:18:47.333908Z
+K 7
+svn:log
+V 145
+Fix packet send condition in MprEncode.
+Packet should not be sent, if we have room for exactly one frame more. It will be sent after next frame.
+
+END

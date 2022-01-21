@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-04T21:28:54.102355Z
+K 7
+svn:log
+V 179
+Use proper C99 integer types in dsp utils sumvect implementation - 
+for maxabs and maximum implementation.
+
+(VC6 was confused by this - specifying ambiguous reference to maximum)
+
+END

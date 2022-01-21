@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-05-11T17:09:36.906641Z
+K 7
+svn:log
+V 62
+Reduced the number of shutdown test interations from 10 to 3.
+
+END

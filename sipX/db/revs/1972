@@ -1,0 +1,397 @@
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 1v3.0.r1972/60
+type: dir
+pred: 1v3.0.r1970/1356
+count: 5
+text: 1970 1160 183 183 1a67bef9e80f96f136c11b1918dfe3e3
+props: 1972 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXcommserverLib/main/meta
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 56
+.deps
+.libs
+Makefile
+Makefile.in
+sipdbtest
+sipdbtest.sh
+
+END
+ENDREP
+id: 1u1.0.r1972/380
+type: dir
+pred: 1u1.0.r1967/40045
+count: 24
+text: 1967 39291 741 741 2ff743f780122d7107cebba7791922e1
+props: 1972 285 82 0 fc3a85936477ef4841f3848610f2ceb3
+cpath: /old/sipXcommserverLib/main/src/sipdbtest
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 42
+.deps
+.libs
+Makefile
+Makefile.in
+xsdvalid
+
+END
+ENDREP
+id: 1vi.0.r1972/701
+type: dir
+pred: 1vi.0.r1967/48437
+count: 2
+text: 1967 48329 95 95 125b53e63e41aa9cdba3ff64a8c0dbc0
+props: 1972 620 68 0 c687454c086e7b1bb2596970399abc85
+cpath: /old/sipXcommserverLib/main/src/xsdvalid
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 1t2.0.r1967/47408
+K 9
+digitmaps
+V 21
+dir 1t3.0.r1967/29074
+K 6
+fastdb
+V 21
+dir 1t5.0.r1967/47142
+K 5
+sipdb
+V 21
+dir 1to.0.r1967/33948
+K 9
+sipdbtest
+V 19
+dir 1u1.0.r1972/380
+K 4
+test
+V 21
+dir 1uh.0.r1967/28431
+K 8
+xsdvalid
+V 19
+dir 1vi.0.r1972/701
+END
+ENDREP
+id: 1t1.0.r1972/1228
+type: dir
+pred: 1t1.0.r1967/48972
+count: 44
+text: 1972 937 278 278 08a7f09bfdb63677ef3aefd4f1a53727
+props: 1837 1172 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /old/sipXcommserverLib/main/src
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 53
+Makefile
+Makefile.in
+gen-ssl-keys.sh
+install-cert.sh
+
+END
+ENDREP
+id: 1v6.0.r1972/1550
+type: dir
+pred: 1v6.0.r1967/57323
+count: 16
+text: 1967 57110 200 200 bc132cb70f70347645f200f4dd4cf077
+props: 1972 1458 79 0 5827fd8c86b570628653fb7d1ee17b61
+cpath: /old/sipXcommserverLib/main/bin/ssl-cert
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 1qz.0.r1967/55461
+K 8
+configpp
+V 22
+file 1r0.0.r1967/54797
+K 12
+get_def_addr
+V 22
+file 1r1.0.r1967/55140
+K 20
+sipx-expires-display
+V 22
+file 1vd.0.r1967/54440
+K 20
+sipx-validate-xml.in
+V 22
+file 1ve.0.r1967/57642
+K 8
+ssl-cert
+V 20
+dir 1v6.0.r1972/1550
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 64
+Makefile
+Makefile.in
+sipx-validate-xml
+sipxcommserverlib-config
+
+END
+ENDREP
+id: 1qy.0.r1972/2190
+type: dir
+pred: 1qy.0.r1967/58192
+count: 26
+text: 1972 1791 283 283 cf6c33ac5614511c09897b6a0bf04b00
+props: 1972 2087 90 0 717adb1a33f28af3f24597fe9e5960ec
+cpath: /old/sipXcommserverLib/main/bin
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 33
+Makefile
+Makefile.in
+config.defs
+
+END
+ENDREP
+id: 1r6.0.r1972/2493
+type: dir
+pred: 1r6.0.r1967/59508
+count: 16
+text: 1967 59398 97 97 79099ac1fbf6050e4a77d6bd19eed5c8
+props: 1972 2421 59 0 471da4dcabe501d110071896cb618425
+cpath: /old/sipXcommserverLib/main/etc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1qp.0.r1967/49607
+K 9
+ChangeLog
+V 22
+file 1qq.0.r1967/24864
+K 7
+INSTALL
+V 22
+file 1qr.0.r1967/54099
+K 7
+LICENSE
+V 19
+file 1qs.0.r1967/82
+K 11
+Makefile.am
+V 22
+file 1qt.0.r1967/58507
+K 4
+NEWS
+V 22
+file 1qu.0.r1967/60154
+K 6
+README
+V 22
+file 1qv.0.r1967/49287
+K 4
+TODO
+V 22
+file 1qw.0.r1967/53785
+K 9
+acsite.m4
+V 22
+file 1qx.0.r1967/24543
+K 3
+bin
+V 20
+dir 1qy.0.r1972/2190
+K 12
+configure.ac
+V 22
+file 1r5.0.r1967/50256
+K 3
+doc
+V 20
+dir 1uv.0.r1968/2145
+K 3
+etc
+V 20
+dir 1r6.0.r1972/2493
+K 7
+include
+V 21
+dir 1rc.0.r1967/22799
+K 4
+meta
+V 18
+dir 1v3.0.r1972/60
+K 21
+sipXcommserverLib.dsp
+V 22
+file 1us.0.r1967/49927
+K 13
+sipdbtest.dsp
+V 22
+file 1ut.0.r1967/24220
+K 25
+sipxcommserverlib.spec.in
+V 22
+file 1v2.0.r1967/59820
+K 3
+src
+V 20
+dir 1t1.0.r1972/1228
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 218
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxcommserverlib-*.rpm
+sipxcommserverlib-*.tar.gz
+sipxcommserverlib.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 61
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 21
+1-135,148,157,164,167
+END
+ENDREP
+id: 1qo.0.r1972/4005
+type: dir
+pred: 1qo.0.r1971/450
+count: 120
+text: 1972 2723 784 784 99aaf1d25d10668ca0cb85713660ab45
+props: 1972 3520 472 0 9c776659fc00174a52261d3000750a8d
+cpath: /old/sipXcommserverLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1v5.0.r1964/2414
+K 4
+main
+V 20
+dir 1qo.0.r1972/4005
+K 4
+tags
+V 20
+dir 1uu.0.r1969/1768
+END
+ENDREP
+id: 1qn.0.r1972/4358
+type: dir
+pred: 1qn.0.r1971/799
+count: 175
+text: 1972 4232 113 113 d7d947419554a5d41fa079728c7a95fc
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r1972/4358
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1972/4758
+type: dir
+pred: 1.0.r1971/1197
+count: 1971
+text: 1972 4524 221 221 b0a41f2d82154fd5db62cbd0cc8c7c65
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1972/4758
+END
+ENDREP
+id: 0.0.r1972/4953
+type: dir
+pred: 0.0.r1971/1391
+count: 1972
+text: 1972 4904 36 36 ff83fc0dc60904eedb7ad124ab819187
+cpath: /
+copyroot: 0 /
+
+1v6.0.t1971-1 modify false true /old/sipXcommserverLib/main/bin/ssl-cert
+
+1vi.0.t1971-1 modify false true /old/sipXcommserverLib/main/src/xsdvalid
+
+1v3.0.t1971-1 modify false true /old/sipXcommserverLib/main/meta
+
+1qy.0.t1971-1 modify false true /old/sipXcommserverLib/main/bin
+
+1u1.0.t1971-1 modify false true /old/sipXcommserverLib/main/src/sipdbtest
+
+1r6.0.t1971-1 modify false true /old/sipXcommserverLib/main/etc
+
+1qo.0.t1971-1 modify false true /old/sipXcommserverLib/main
+
+
+4953 5094

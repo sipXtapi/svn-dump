@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-12-03T15:25:03.419513Z
+K 7
+svn:log
+V 529
+[XRR-80] spread registrations over time to smooth load
+  Shorten the granted registration time by a random factor
+  such that registrations are spread uniformly over time.
+  Normal length requests (for >= twice the minimum) are randomized
+  between twice the minimum and the max that we can grant.
+  Short requests (for < twice the minimum) are randomized
+  between the minimum and the requested amount.
+  Minimum length requests are not shortened (that would be
+  hypocritical, since we would not accept a request that short).
+
+
+END

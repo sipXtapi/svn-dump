@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-12-11T22:37:06.792323Z
+K 7
+svn:log
+V 111
+Add small piece of ARMv5E asm optimization - saturated addition in MpDspUtils. Define ARMv5E_ASM to enable it.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-30T22:39:11.820536Z
+K 7
+svn:log
+V 411
+Move low windows buffer silence pusher out of callback function, as this is a bad idea to do.  Instead, check for low buffers and push silence from pushFrame, just after a frame of real data is pushed.  
+
+Some of pushFrame's implementation was moved to an internal protected method so it could be called twice - once for pushing the frame of real data, and another time if a frame of silence needs to be pushed.
+END

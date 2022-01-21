@@ -1,0 +1,118 @@
+id: 2hf.2nn.r6250/0
+type: dir
+pred: 2hf.2iy.r6237/13474
+count: 1571
+text: 6237 12210 1251 1251 c16fdfbd97bdd86bc1bacd560f339692
+props: 6123 2892 655 0 a8e0490a834197d55aef57a4c8a0568e
+cpath: /branches/sipXconfig/3.3-nopbx
+copyfrom: 6249 /branches/sipXconfig/3.3
+
+PLAIN
+K 3
+3.3
+V 23
+dir 2hf.2iy.r6237/13474
+K 9
+3.3-nopbx
+V 19
+dir 2hf.2nn.r6250/0
+K 11
+replication
+V 23
+dir 7q4.2dh.r5710/13873
+END
+ENDREP
+id: 8q1.0.r6250/402
+type: dir
+pred: 8q1.0.r6237/13835
+count: 117
+text: 6250 263 126 126 de917a614796370522bf1c0374e3352b
+cpath: /branches/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6133/5033
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 11
+registry_ha
+V 23
+dir 7q4.2eb.r6248/24252
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 7
+restful
+V 21
+dir 7q0.0.r4813/15683
+K 10
+sipXconfig
+V 19
+dir 8q1.0.r6250/402
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r6250/1106
+type: dir
+pred: 7pt.0.r6248/25048
+count: 382
+text: 6250 566 527 527 e9a369a13ae70fa84a702c58c0b97b0a
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r6250/1106
+K 4
+main
+V 21
+dir 7q4.0.r6249/34744
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6250/1388
+type: dir
+pred: 0.0.r6249/35083
+count: 6250
+text: 6250 1260 115 115 60a6a62fbe185b226cc70d43c5d4bc61
+cpath: /
+copyroot: 0 /
+
+2hf._0.t6249-1 add false false /branches/sipXconfig/3.3-nopbx
+6249 /branches/sipXconfig/3.3
+
+1388 1532

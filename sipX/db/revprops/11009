@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-03T05:57:47.666921Z
+K 7
+svn:log
+V 99
+HttpMessage::smHttpMessageCount should be of OsAtomicInt type instead of int, because it's shared.
+
+END

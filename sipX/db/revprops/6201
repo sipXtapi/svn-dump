@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-21T22:27:33.036685Z
+K 7
+svn:log
+V 195
+XCF-753 fix for SiteTestHelper.assertNoException - Tapestry 4 default exception page does not use any element with fixed id, until we replace excpetion page the test will look for the page title
+
+END

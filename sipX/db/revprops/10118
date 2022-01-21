@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-14T11:19:08.499185Z
+K 7
+svn:log
+V 152
+Cleanup and beautification of codecs plugins.
+Unused stuff removed, better separation of encoder and decoder implemented, some part of code reformated.
+
+END

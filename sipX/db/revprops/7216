@@ -1,0 +1,29 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-08-08T12:10:18.741048Z
+K 7
+svn:log
+V 614
+Merged revisions 7179-7181 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7179 | bob | 2006-08-04 18:08:33 +0400 | 3 lines
+  
+  ... Fixed a bug where UtlRandom could produce the same sead if two instances were created on the same thread context and within the lowest timer resolution.
+........
+  r7180 | bob | 2006-08-04 18:15:28 +0400 | 3 lines
+  
+  Removed some debug strings
+........
+  r7181 | bob | 2006-08-04 19:37:25 +0400 | 3 lines
+  
+  Converted an assert to a #warning: We need code to enumerate the interface name under linux (needed for STUN/sipXtapi).  
+........
+
+END

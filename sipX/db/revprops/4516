@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-02-24T00:37:21.705067Z
+K 7
+svn:log
+V 75
+Add comment that install-test-config will be asking for further user input.
+END

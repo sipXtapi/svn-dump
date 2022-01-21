@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-01-29T20:42:44.045331Z
+K 7
+svn:log
+V 301
+WinCE6 targets added to MSVC8 projects.
+Libraries compile with no error under default WinCE6 emulator.
+Custom emulator with console still generates buggy header files (STL use breaks
+malloc signature, + others)
+
+SipXportLib unit test links and runs (default emu), small issues with sipXtackLi
+bTest.
+
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-08-29T17:14:18.506231Z
+K 7
+svn:log
+V 374
+Implement XCF-521 "allow users to have multiple aliases": replace the single user "extension" with multiple user "aliases" throughout.
+Add unique and not-null constraints on the user_name column of the users table and fix problems resulting from that.
+
+Use a left outer join on aliases when querying for users.  With an inner join we only find those users who have aliases.
+
+END

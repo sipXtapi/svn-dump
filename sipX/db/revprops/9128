@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-03-21T20:27:01.188653Z
+K 7
+svn:log
+V 81
+XCF-1580 store activeTab name in Hidden property on the page, not in the session
+
+END

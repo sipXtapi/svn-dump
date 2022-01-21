@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-06-26T21:31:35.698157Z
+K 7
+svn:log
+V 166
+Added test to sipxportlib that exposes UtlString = UtlString.data(); bug. After this assignment to itself, UtlString is zeroed even though it should remain unchanged.
+END

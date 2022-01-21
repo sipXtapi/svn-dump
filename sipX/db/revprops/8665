@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-29T21:29:55.299780Z
+K 7
+svn:log
+V 104
+XCF-1472 implement paging for CDR report page - only one page worth of record is read from DB at a time
+
+END

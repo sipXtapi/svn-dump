@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-13T21:57:57.888272Z
+K 7
+svn:log
+V 96
+Rename plgCodecInfoV1::codecSupportNotification to signalingCodec and add documentation for it.
+
+END

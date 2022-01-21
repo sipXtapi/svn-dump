@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-28T20:01:29.500432Z
+K 7
+svn:log
+V 91
+Changes required to build the sipXpbx project with the new sipXportLib 
+utility routines.
+
+
+END

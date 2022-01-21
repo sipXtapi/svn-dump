@@ -1,0 +1,60 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-09-06T19:51:58.697322Z
+K 7
+svn:log
+V 1410
+Set DISTCLEANFILES so 'make distclean' removes built files.
+
+Fix DISTCLEANFILES to delete autom4te.cache.
+
+Fix use of compareTo so non-default port designations are recognized as such.
+http://track.sipfoundry.org/browse/XPL-125
+
+Update DISTCLEANFILES.
+
+Remove conflict marker.
+Document invocation of autoreconf.
+
+Fix the sip*.sh.in scripts to check that the log files for their components
+are either absent or writable, so the components can log any problems they
+find.  Otherwise the components have no way of reporting problems.
+
+Add sipXmediaAdapterLib as a component.
+Start adjusting the command groups for the fact that all the code is in
+one repository.
+
+Link in a media subsystem.
+
+Move mediaAdaptorLib before callLib in the build order, as the
+dependencies have been rearranged.
+
+Remove special OpenSSL from code base.
+
+Remove remnants of Openssl.
+http://paradise:8080/browse/ENG-80
+
+Clean problems related to isReadyToRead().
+Remove call of isReadyToRead() from a debugging print, as that function blocks.
+Report "residual" bytes after a SIP message as an error in UDP, but as debug
+info in TCP and TLS.
+Add some debugging prints.
+Fix indenting.
+http://paradise:8080/browse/ENG-198
+
+Replace definition of "WD".
+
+Put files that depend on the install directory into DISTCLEANFILES.
+
+Use 'make' iterations to sequence through the components.
+
+Add an orbits.xml file to the test configuration.
+
+Fix typo.
+
+END

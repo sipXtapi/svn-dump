@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-28T20:23:52.014693Z
+K 7
+svn:log
+V 115
+Create a success message for ChangePin.  Fixes XCF-510: Change PIN page: show success status for better usability.
+
+END

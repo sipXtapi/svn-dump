@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-03T03:19:09.672074Z
+K 7
+svn:log
+V 48
+Return with errcode if sipXportLib build fails
+
+
+END

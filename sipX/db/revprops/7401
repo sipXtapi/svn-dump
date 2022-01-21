@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2006-09-03T16:33:22.565904Z
+K 7
+svn:log
+V 123
+setGain should belooking for the component type:
+MIXERLINE_COMPONENTTYPE_SRC_MICROPHONE
+Fixes the sipXtapiTest testGainAPI
+
+END

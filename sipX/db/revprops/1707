@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-04-03T16:58:58.817799Z
+K 7
+svn:log
+V 119
+Added documentation for CpPhoneMediaInterface::setContactType -- the
+order of when you call this method is important.
+
+
+END

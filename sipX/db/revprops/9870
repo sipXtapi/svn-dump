@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-07-18T20:40:45.236721Z
+K 7
+svn:log
+V 230
+Small bug fix in MprDejitter. If there was only 1 frame in buffer, we wouldn't be able to pull it, due to bad iNextPull != mLastPushed[codecIndex] condition in for loop. It would have prevented execution for the last pushed frame.
+END

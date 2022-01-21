@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-04-21T21:45:47.773847Z
+K 7
+svn:log
+V 96
+UserSearch component changes: core context parameter removed: replaced by core context property
+
+END

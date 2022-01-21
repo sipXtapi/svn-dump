@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-05-17T23:26:50.572791Z
+K 7
+svn:log
+V 429
+XCL-133 Fixed. It was a bug with dynamic payload negotiation.
+
+From now on, decoder and encoder can use different payload type for the same codec.
+
+During SDP negotiation, we always offer our own payload types, regardless of what the other side sends us. Thus we will use our own payload types for decoding, but payload types from the other side for encoding.
+This doesn't violate RFC3264, in fact it is used by some softphones.
+
+END

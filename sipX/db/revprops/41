@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+raghu
+K 8
+svn:date
+V 27
+2004-06-04T22:41:48.087581Z
+K 7
+svn:log
+V 182
+More Unit Tests. All the Unit tests have been completed (functionally) for the Utl library barring the UtlVoidPtr. The UtlVoidPtr is trivial and I dont expect it to take a long time
+
+END

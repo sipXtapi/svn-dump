@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-27T19:29:49.908883Z
+K 7
+svn:log
+V 207
+XCF-924 Tapestry 4 applications can only be started from Ant if we fork java task.
+- added jetty monitor thread that listens on port 9998 and allows for closing jetty from another ant task (another process)
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2010-05-08T16:00:13.823885Z
+K 7
+svn:log
+V 73
+sipXmediaLib: Fix documentation about tail length in MprSpeexEchoCancel.
+
+END

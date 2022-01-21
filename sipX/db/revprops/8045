@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-11-20T18:46:28.424446Z
+K 7
+svn:log
+V 118
+1) Better synchronization of NetInTask startup
+2) Added Setup/TearDown cppunit methods for CpPhoneMediaInterfaceTest
+
+
+END

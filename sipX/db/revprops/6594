@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+msl
+K 8
+svn:date
+V 27
+2006-04-16T21:19:49.514593Z
+K 7
+svn:log
+V 50
+make sure odbc is found when set using --with-odbc
+END

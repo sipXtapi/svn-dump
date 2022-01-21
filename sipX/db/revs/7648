@@ -1,0 +1,154 @@
+PLAIN
+K 10
+svn:ignore
+V 46
+build.err
+configure
+autom4te.cache
+aclocal.m4
+
+K 25
+svnmerge-pingtel-3.6-head
+V 58
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/3.6
+K 25
+svnmerge-pingtel-3.6-revs
+V 341
+1-5590,5645,5738,5954,5969,6041,6077,6139,6144,6156,6158,6187,6207-6208,6230,6285,6289,6292-6295,6298-6299,6301,6306,6308-6309,6311,6325-6327,6329,6333,6338,6342,6403,6491,6538-6539,6551,6561,6937,6953,6960-6961,6997,7053,7062-7063,7065,7067,7069-7070,7080,7087,7093,7105,7115-7116,7164,7169-7170,7180,7199,7241-7242,7274,7276,7280,7293,7295
+K 23
+svnmerge-sipx-main-head
+V 40
+https://scm.sipfoundry.org/rep/sipX/main
+K 23
+svnmerge-sipx-main-revs
+V 6
+1-7632
+END
+ENDREP
+id: 7q4.50x.r7648/674
+type: dir
+pred: 7q4.50x.r7643/11390
+count: 1878
+text: 7643 10411 966 966 3dd54e645ca6453bc34c7ceca9d12bd1
+props: 7648 0 661 0 fc90e0a972c760b4caf7fe0e1fe92288
+cpath: /branches/3.6
+copyroot: 7633 /branches/3.6
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 22
+dir 7q4.3ib.r7575/4152
+K 3
+3.6
+V 21
+dir 7q4.50x.r7648/674
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 21
+dir 9wi.0.r7580/19825
+K 21
+sipXtapi-media-update
+V 22
+dir 9wi.3ke.r7453/9961
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 21
+dir 7q4.4t1.r7562/240
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 24
+user_dworley_redirectors
+V 22
+dir 7q4.3xw.r7646/8330
+K 14
+virtual-domain
+V 22
+dir 7q4.4t6.r7558/6680
+END
+ENDREP
+id: 7pt.0.r7648/1808
+type: dir
+pred: 7pt.0.r7646/9514
+count: 949
+text: 7648 906 889 889 6c90fa4bf1ebe7b9cabbc0eb69b61546
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r7648/1808
+K 4
+main
+V 20
+dir 7q4.0.r7647/4544
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r7648/2088
+type: dir
+pred: 0.0.r7647/4880
+count: 7648
+text: 7648 1961 114 114 650ae8b566014608165c646e84b106ff
+cpath: /
+copyroot: 0 /
+
+7q4.50x.t7647-1 modify false true /branches/3.6
+
+
+2088 2231

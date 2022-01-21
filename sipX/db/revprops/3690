@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-03-22T00:16:46.406188Z
+K 7
+svn:log
+V 109
+XCF-265 - remove leading underscore characters from permission names before translating to Permission objects
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-31T03:51:15.225643Z
+K 7
+svn:log
+V 75
+sipXportLib: Move O_BINARY define to OsDefs.h to make it widely available.
+
+END

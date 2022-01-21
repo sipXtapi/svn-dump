@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-25T01:43:52.526145Z
+K 7
+svn:log
+V 212
+Add SipRedirectorSubscribe to strip q field parameters off contacts if
+the method is SUBSCRIBE.  This makes SUBSCRIBEs always fork
+parallelly, which results in better status reporting and call
+pick-up/retrieval.
+
+END

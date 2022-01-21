@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-12-12T14:45:40.633996Z
+K 7
+svn:log
+V 1833
+- changes to upgrade to log4j 1.2.9 - sipXconfig was using quite old log4j: it was incompatible with the one used by current JBoss
+- postgres JDBC library turned out to be incompatible as well - it is upgraded to lib/pg74.215.jdbc3.jar
+- many small changes to build files - to reference new J2EE libraries - they are now in different directories than in old JBoss
+- modifications to component managed persistence - while we stay with CMP 1.x for now, JBoss 4.x does not offer jaws (O/R mapper) any more, we need to support jbosscmp-jdbc mechanism, this is responsible for several changes (mostly in finder definitions) in ejb-jar.xml
+- all XML descriptor files use current DTDs distributed with JBoss - that should allow for running sipXconfig even without connection to DTDs published on the WEB
+- login mechanism changes - custom login module SIPxchange LoginModule has been upgraded
+- custom optimizations to EJB configurations in jboss.xml were largely JBoss 2.4 specific - they were temporarily removed
+- minor exception handling changes - in many places sipXconfig code was catching (and ignoring or repackaging with information loss) all exceptions including runtime exceptions - this made quite impossible to diagnose problems related to upgrade; in several places code was rewritten to catch only checked exceptions
+- minor EJB related problems - classes lacking default constructors or not enabled for marshaling (serializing)
+- custom tags that reference unused classes had to be removed
+- there is a new JNDI binding for QueueConnectionFactory - it's now called ConnectionFactory
+- upgrades to progfilegenerator.sh(.in) start up script - to run the latest JBoss 4.x
+- a new environment variable you can set JBOSS_SERVER_CONF if you want to run several separate configurations without installing separate copies of JBoss 
+
+END

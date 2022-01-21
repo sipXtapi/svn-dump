@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-12-07T22:43:31.633519Z
+K 7
+svn:log
+V 82
+Raise default logging level to NOTICE.
+http://track.sipfoundry.org/browse/XPB-106
+
+END

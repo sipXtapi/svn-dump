@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-01-07T17:57:08.082770Z
+K 7
+svn:log
+V 103
+ENG-72 : Follow-up patch file was incorrect, also update installation notes for copying in ssl keystore
+END

@@ -1,0 +1,36 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-12-20T05:37:05.633747Z
+K 7
+svn:log
+V 862
+Changed the name of OsTimerMsg enum values to avoid conflict with UPDATE on vxworks.
+
+Cleaned up a few porting constructs for vxworks.
+
+Fixed MSVC6 dsp files so that the build works after the names of the subscribe tests where changed.
+
+Added getters for media properties.
+
+Added option to call media property setter to set either the interface or connection specific
+media property.
+
+Fixed SipSubscriptionTest.cpp so that it binds to 127.0.0.1 after it was broken by the addition of
+multiple interface support.
+
+Fixed sipXtapiTestTransfer, sipXtapiTestConferenceAdv and sipXtapiTestConference after they were
+broken by the event change made in rev. 7707
+
+Fixed some inconsistant use of bool and UtlBoolean.
+
+Fixed failing test case in SipSubscriptionClientTest.
+
+All of the unit tests now pass on windows, including the sipXtapi unit tests that were disabled.
+
+
+END

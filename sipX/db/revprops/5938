@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-23T22:45:51.578645Z
+K 7
+svn:log
+V 142
+split sipxconfig.css into separate layout and color stylesheets: colors and images are usually customized independently of layout information
+
+END

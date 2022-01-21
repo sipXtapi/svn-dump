@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-10-06T21:14:41.747501Z
+K 7
+svn:log
+V 44
+Use conssitant RTTI compilation for MSVS 6
+
+
+END

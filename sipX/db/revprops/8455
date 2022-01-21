@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-05T23:20:12.901389Z
+K 7
+svn:log
+V 190
+XCF-1325 enabled localization for "checked", "unchecked" labels that appear in Default clause for boolean settins (checkboxes)
+use SettingEditor.properties (true.value and false.value keys)
+
+END

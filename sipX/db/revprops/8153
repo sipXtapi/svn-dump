@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-11-29T19:58:00.114735Z
+K 7
+svn:log
+V 159
+XCF-1383 due to special status of 0 in login.vxml sipXconfig cannot return it as a user extension - modify User.getExtension to ignore "0" if used as an alias
+
+END

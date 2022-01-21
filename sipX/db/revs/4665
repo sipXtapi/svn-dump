@@ -1,0 +1,530 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6pp.0.r4665/82
+type: file
+pred: 6pp.0.r4664/72
+count: 2
+text: 4633 1164 11212 26430 7fbc338309ac38fefcd64b04bb903e34
+props: 4665 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpbx/main/sipXpark/LICENSE
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6pt.0.r4665/394
+type: file
+pred: 6pt.0.r4664/378
+count: 2
+text: 4633 13357 4 0 d41d8cd98f00b204e9800998ecf8427e
+props: 4665 312 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpbx/main/sipXpark/TODO
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6q3.0.r4665/700
+type: file
+pred: 6q3.0.r4664/677
+count: 2
+text: 4633 22717 1586 3368 b1b71e3970fb5d6e4fc65767075ba5eb
+props: 4665 618 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpbx/main/sipXpark/doc/license/LICENSE.mod_ssl
+copyroot: 0 /
+
+PLAIN
+K 15
+LICENSE.mod_ssl
+V 20
+file 6q3.0.r4665/700
+END
+ENDREP
+id: 6q2.0.r4665/1017
+type: dir
+pred: 6q2.0.r4664/997
+count: 2
+text: 4665 953 51 51 b898e52fbf475c50fb02ac73e9b45cde
+cpath: /old/sipXpbx/main/sipXpark/doc/license
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6py.0.r4665/1276
+type: file
+pred: 6py.0.r4664/1248
+count: 2
+text: 4633 14623 7271 22445 55bd8ee4b28a36b8d1f8cd89522d59d9
+props: 4665 1194 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpbx/main/sipXpark/doc/Doxyfile.in
+copyroot: 0 /
+
+PLAIN
+K 11
+Doxyfile.in
+V 21
+file 6py.0.r4665/1276
+K 11
+Makefile.am
+V 23
+file 6pz.0.r4633/506770
+K 11
+footer.html
+V 23
+file 6q0.0.r4633/505891
+K 11
+header.html
+V 23
+file 6q1.0.r4633/507073
+K 7
+license
+V 20
+dir 6q2.0.r4665/1017
+END
+ENDREP
+id: 6px.0.r4665/1758
+type: dir
+pred: 6px.0.r4664/1731
+count: 3
+text: 4665 1521 224 224 f9aaa9fd2a7fa1adc11965fe2e370c4d
+props: 4642 0 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXpbx/main/sipXpark/doc
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6po.0.r4665/2065
+type: file
+pred: 6po.0.r4664/2026
+count: 2
+text: 4633 466 685 1056 aef94202dac1028610ee84c270c7ddde
+props: 4665 1983 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpbx/main/sipXpark/INSTALL
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6pn.0.r4665/2380
+type: file
+pred: 6pn.0.r4664/2333
+count: 2
+text: 4633 252 201 210 13f2675873936689fc39fbb203ca5a77
+props: 4665 2298 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpbx/main/sipXpark/ChangeLog
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6q6.0.r4665/2696
+type: file
+pred: 6q6.0.r4664/2641
+count: 2
+text: 4633 24605 233 360 aa6b459212e1a236479d1b9eb8f38bf5
+props: 4665 2614 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpbx/main/sipXpark/etc/sipxpark-config.in
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 6q5.0.r4633/512887
+K 18
+sipxpark-config.in
+V 21
+file 6q6.0.r4665/2696
+END
+ENDREP
+id: 6q4.0.r4665/3059
+type: dir
+pred: 6q4.0.r4664/3006
+count: 3
+text: 4665 2945 101 101 e3dd538f74d152934f079e082889a175
+props: 4642 832 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXpbx/main/sipXpark/etc
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6pr.0.r4665/3368
+type: file
+pred: 6pr.0.r4664/3304
+count: 2
+text: 4633 13323 4 0 d41d8cd98f00b204e9800998ecf8427e
+props: 4665 3286 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpbx/main/sipXpark/NEWS
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6pm.0.r4665/3677
+type: file
+pred: 6pm.0.r4664/3605
+count: 2
+text: 4633 0 239 244 4a768a2b46bbe127d4fb3d4737656fe5
+props: 4665 3595 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpbx/main/sipXpark/CONTRIBUTORS
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6ps.0.r4665/3994
+type: file
+pred: 6ps.0.r4664/3914
+count: 2
+text: 4633 13340 4 0 d41d8cd98f00b204e9800998ecf8427e
+props: 4665 3912 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXpbx/main/sipXpark/README
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 21
+file 6pm.0.r4665/3677
+K 9
+ChangeLog
+V 21
+file 6pn.0.r4665/2380
+K 7
+INSTALL
+V 21
+file 6po.0.r4665/2065
+K 7
+LICENSE
+V 19
+file 6pp.0.r4665/82
+K 11
+Makefile.am
+V 21
+file 6pq.0.r4639/1036
+K 4
+NEWS
+V 21
+file 6pr.0.r4665/3368
+K 6
+README
+V 21
+file 6ps.0.r4665/3994
+K 4
+TODO
+V 20
+file 6pt.0.r4665/394
+K 3
+bin
+V 20
+dir 6pu.0.r4645/1119
+K 3
+doc
+V 20
+dir 6px.0.r4665/1758
+K 3
+etc
+V 20
+dir 6q4.0.r4665/3059
+K 16
+sipxpark.spec.in
+V 23
+file 6q7.0.r4633/505273
+K 3
+src
+V 20
+dir 6q8.0.r4661/1345
+END
+ENDREP
+id: 6pl.0.r4665/4742
+type: dir
+pred: 6pl.0.r4664/4664
+count: 14
+text: 4665 4223 506 506 4f6fd7cbf77ff79eb4f56455ff6083c2
+props: 4642 1644 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXpbx/main/sipXpark
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4454/288397
+K 9
+ChangeLog
+V 21
+file 5g8.0.r4571/9011
+K 7
+INSTALL
+V 23
+file 5g9.0.r4454/289610
+K 7
+LICENSE
+V 21
+file 5ga.0.r4571/8791
+K 11
+Makefile.am
+V 21
+file 5gb.0.r4634/2302
+K 4
+NEWS
+V 23
+file 5gc.0.r4454/299658
+K 6
+README
+V 23
+file 5gd.0.r4454/288092
+K 4
+TODO
+V 23
+file 5ge.0.r4454/289304
+K 9
+acsite.m4
+V 21
+file 5gf.0.r4454/4092
+K 3
+bin
+V 20
+dir 5gg.0.r4649/1537
+K 12
+configure.ac
+V 20
+file 5gl.0.r4634/783
+K 3
+doc
+V 20
+dir 5gm.0.r4648/1872
+K 3
+etc
+V 20
+dir 5gp.0.r4653/1060
+K 7
+include
+V 20
+dir 5h2.0.r4454/3129
+K 4
+meta
+V 21
+dir 6of.z4.r4521/2317
+K 8
+sipXpark
+V 20
+dir 6pl.0.r4665/4742
+K 15
+sipxpbx.spec.in
+V 19
+file 6mo.0.r4663/61
+K 3
+src
+V 20
+dir 5hb.0.r4657/7585
+END
+ENDREP
+id: 5g6.0.r4665/5692
+type: dir
+pred: 5g6.0.r4664/5614
+count: 423
+text: 4665 4967 712 712 028ac15b8db79d671c173c7d30b4129c
+props: 4662 1218 926 0 ffc9b5d8e02522e284c22f038992e707
+cpath: /old/sipXpbx/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 6o1.0.r4658/2099
+K 4
+main
+V 20
+dir 5g6.0.r4665/5692
+K 4
+tags
+V 20
+dir 5kn.0.r4659/2689
+END
+ENDREP
+id: 5g5.0.r4665/6036
+type: dir
+pred: 5g5.0.r4664/5958
+count: 572
+text: 4665 5910 113 113 25685829eccb528fbf130147d4207296
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4665/6036
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4665/6676
+type: dir
+pred: 1.0.r4664/6598
+count: 4663
+text: 4665 6193 470 470 2befdb0a79a763c081ccfa512e22d095
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4665/6676
+END
+ENDREP
+id: 0.0.r4665/6871
+type: dir
+pred: 0.0.r4664/6793
+count: 4665
+text: 4665 6822 36 36 8a89cb8aa2177019ea32101f701e8e94
+cpath: /
+copyroot: 0 /
+
+6pp.0.t4664-1 modify false true /old/sipXpbx/main/sipXpark/LICENSE
+
+6q6.0.t4664-1 modify false true /old/sipXpbx/main/sipXpark/etc/sipxpark-config.in
+
+6pt.0.t4664-1 modify false true /old/sipXpbx/main/sipXpark/TODO
+
+6po.0.t4664-1 modify false true /old/sipXpbx/main/sipXpark/INSTALL
+
+6pn.0.t4664-1 modify false true /old/sipXpbx/main/sipXpark/ChangeLog
+
+6q3.0.t4664-1 modify false true /old/sipXpbx/main/sipXpark/doc/license/LICENSE.mod_ssl
+
+6pr.0.t4664-1 modify false true /old/sipXpbx/main/sipXpark/NEWS
+
+6pm.0.t4664-1 modify false true /old/sipXpbx/main/sipXpark/CONTRIBUTORS
+
+6ps.0.t4664-1 modify false true /old/sipXpbx/main/sipXpark/README
+
+6py.0.t4664-1 modify false true /old/sipXpbx/main/sipXpark/doc/Doxyfile.in
+
+
+6871 7012

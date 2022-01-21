@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-11-02T16:43:04.667525Z
+K 7
+svn:log
+V 181
+Add an informative test failure message so developers will be aware that the test is timing-dependent.
+Tweak the test to remove a distracting and irrelevant null pointer exception.
+
+END

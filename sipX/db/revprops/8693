@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-02-02T23:30:56.387478Z
+K 7
+svn:log
+V 260
+Merge fix from 3.6
+change the way 'uri' parameter is generated for ACD Lines and ACD Queues - instead of using system SIP domain name as URI domain we now use ACD Server host (the same that is used to configure ACD Server) as domain name for lines and queues)
+
+END

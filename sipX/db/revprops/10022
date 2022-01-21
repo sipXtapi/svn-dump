@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-08-30T18:27:29.431614Z
+K 7
+svn:log
+V 302
+Send new RTP DTMF Notification messages from MpdPtAVT RFC 2833/4733 DTMF signal 'decoder' (not really decoding).
+To do this, I had to modify MpCodecFactory to take a pointer to the flowgraph, and even in this case, I had to leave
+out the message originator, as there is no name to give it for a source.
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-09-09T15:38:56.772700Z
+K 7
+svn:log
+V 140
+Temporary fix to make the SIPXVXMLDATA config variable available
+in both sipXvxml and sipXpbx
+See http://track.sipfoundry.org/browse/XPB-33
+
+END

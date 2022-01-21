@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-11-15T16:47:40.112580Z
+K 7
+svn:log
+V 75
+fix for XPB-129 - reverting to the original way authorization jar was build
+END

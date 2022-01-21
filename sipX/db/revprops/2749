@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-07-21T20:27:30.382241Z
+K 7
+svn:log
+V 441
+Two sipXvxml changes:
+
+1) In DTD.hpp, the DTD for vxml documents is defined in a char array,
+however, the array length did not match the actual amount of bytes
+(it was larger).  The resulted in a somewhat odd parsing error on the
+last character of the DTD.
+
+2) Disabled validation (actually set it to auto).  This needs to be turned back on at some point -- see Jira XVX-10.  This is a work around to get the sipXvxml running and testable.
+
+
+END

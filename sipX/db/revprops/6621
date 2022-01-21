@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-04-20T17:26:12.080410Z
+K 7
+svn:log
+V 452
+XCF-842 Rewrite mechanism for generating gateway profiles (configuration files). sipXconfig is now using the same mechanism for generating phone profiles and gateways profiles. Clicking Send Profiles button schedules that generation, the process of generating and sending configuration is handled by background thread pool, progress is reported on Job Status Page.
+Confirmation message is now displayed after Send Profile/Send All Profiles is clicked.
+
+END

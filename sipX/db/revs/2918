@@ -1,0 +1,319 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 2h9.0.r2918/82
+type: file
+pred: 2h9.0.r2911/3011
+count: 1
+text: 2911 0 1761 5299 306d094bafa7133cb1188ee7884a4f2a
+props: 2918 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXvxml/main/src/prompt/PromptCache.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 2ha.0.r2918/402
+type: file
+pred: 2ha.0.r2911/3176
+count: 1
+text: 2911 1774 1224 2819 47615c13904c2a0f6d427997994ddcab
+props: 2918 320 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXvxml/main/src/prompt/PromptCache.h
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file 2fk.0.r2912/1363
+K 13
+Makefile.unix
+V 22
+file 2fl.0.r2903/33277
+K 15
+PromptCache.cpp
+V 19
+file 2h9.0.r2918/82
+K 13
+PromptCache.h
+V 20
+file 2ha.0.r2918/402
+K 13
+osbprompt.cpp
+V 22
+file 2fm.0.r2917/10380
+K 28
+osbprompt_playerlistener.cpp
+V 22
+file 2fn.0.r2903/34602
+K 26
+osbprompt_playerlistener.h
+V 22
+file 2fo.0.r2903/35289
+K 17
+osbprompt_tts.cpp
+V 22
+file 2fp.0.r2903/33609
+K 15
+osbprompt_tts.h
+V 22
+file 2fq.0.r2903/33944
+END
+ENDREP
+id: 2fj.0.r2918/1112
+type: dir
+pred: 2fj.0.r2917/11098
+count: 21
+text: 2918 644 455 455 4a03c55c46ad6248bbde4a1e345ac56c
+props: 2763 944 68 0 b33efb04d322a8cbe2fd6b2a8505ff7e
+cpath: /old/sipXvxml/main/src/prompt
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 2cv.0.r2903/53917
+K 3
+VXI
+V 21
+dir 2cw.0.r2903/53606
+K 6
+client
+V 21
+dir 2ds.0.r2917/13109
+K 4
+inet
+V 21
+dir 2ed.0.r2903/31222
+K 3
+jsi
+V 21
+dir 2f2.0.r2903/41629
+K 3
+log
+V 21
+dir 2fe.0.r2903/32946
+K 6
+prompt
+V 20
+dir 2fj.0.r2918/1112
+K 3
+rec
+V 21
+dir 2fr.0.r2903/56032
+K 3
+tel
+V 21
+dir 2fx.0.r2903/37283
+K 3
+trd
+V 21
+dir 2g1.0.r2903/57402
+K 5
+value
+V 21
+dir 2g6.0.r2903/59519
+END
+ENDREP
+id: 2cu.0.r2918/1759
+type: dir
+pred: 2cu.0.r2917/13760
+count: 42
+text: 2918 1339 407 407 facc93284f39a634714a2667e311af14
+props: 2763 3810 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXvxml/main/src
+copyroot: 0 /
+
+PLAIN
+K 7
+AUTHORS
+V 22
+file 22e.0.r2903/20704
+K 12
+CONTRIBUTORS
+V 22
+file 2h3.0.r2903/68683
+K 7
+COPYING
+V 22
+file 22f.0.r2903/76394
+K 9
+ChangeLog
+V 22
+file 22g.0.r2903/21917
+K 7
+INSTALL
+V 22
+file 22h.0.r2903/74726
+K 11
+Makefile.am
+V 19
+file 22i.0.r2914/50
+K 4
+NEWS
+V 23
+file 22j.0.r2903/186996
+K 6
+README
+V 22
+file 22k.0.r2903/68375
+K 9
+acsite.m4
+V 22
+file 22l.0.r2903/21604
+K 3
+bin
+V 19
+dir 22m.0.r2916/378
+K 12
+configure.ac
+V 22
+file 22o.0.r2903/68993
+K 3
+doc
+V 21
+dir 2gf.0.r2903/74419
+K 3
+etc
+V 20
+dir 22p.0.r2913/4130
+K 7
+include
+V 21
+dir 22u.0.r2917/10153
+K 2
+js
+V 22
+dir 23o.0.r2903/186691
+K 4
+meta
+V 21
+dir 2cs.0.r2903/21353
+K 16
+sipxvxml.spec.in
+V 21
+file 2h0.0.r2915/1983
+K 3
+src
+V 20
+dir 2cu.0.r2918/1759
+END
+ENDREP
+id: 22d.0.r2918/2708
+type: dir
+pred: 22d.0.r2917/14711
+count: 125
+text: 2918 1981 714 714 9df5e61d288780492978013bba6a252d
+props: 2906 3452 403 0 ed0ae0157dd6993f7924817ca902c990
+cpath: /old/sipXvxml/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 2h1.0.r2893/2111
+K 4
+main
+V 20
+dir 22d.0.r2918/2708
+K 4
+tags
+V 20
+dir 2gd.0.r2910/1385
+END
+ENDREP
+id: 22c.0.r2918/3054
+type: dir
+pred: 22c.0.r2917/15059
+count: 185
+text: 2918 2928 113 113 6e893845bd87549295e6770fd6dca34b
+cpath: /old/sipXvxml
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r2918/3054
+END
+ENDREP
+id: 1.0.r2918/3615
+type: dir
+pred: 1.0.r2917/15622
+count: 2917
+text: 2918 3213 389 389 128a868b97a1bd1ab853b4a8024f2af8
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2918/3615
+END
+ENDREP
+id: 0.0.r2918/3811
+type: dir
+pred: 0.0.r2917/15820
+count: 2918
+text: 2918 3762 36 36 79602ebe08fb9407abbccf9be0f3c3a9
+cpath: /
+copyroot: 0 /
+
+2h9.0.t2917-1 modify false true /old/sipXvxml/main/src/prompt/PromptCache.cpp
+
+2ha.0.t2917-1 modify false true /old/sipXvxml/main/src/prompt/PromptCache.h
+
+
+3811 3953

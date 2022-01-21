@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2013-08-06T16:58:56.423875Z
+K 7
+svn:log
+V 29
+Allow # in user part of URI.
+
+END

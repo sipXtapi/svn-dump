@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2007-04-02T21:01:56.748926Z
+K 7
+svn:log
+V 561
+Previous fix for (Fix "hang" or "hangup" when 0 length .wav files end up in voicemail) broke playing http fetched prompts
+
+Instead of calling DataSource::getLength(), use DataSource::peek() instead
+to "pre-read" 4 bytes, to check if this is a 0 length file and should
+be skipped.  Alas, apparently one cannot just call getLength() 
+as an http fetch might not have returned any info yet, and so it may (or may
+not) return 0 length depending on how quickly the http server responded.
+
+Fixes XPB-1004 (Auto Attendant is not working fine - "intermittent")
+
+--Woof!
+
+END

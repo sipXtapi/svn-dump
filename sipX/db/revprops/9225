@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-04-03T20:55:13.094342Z
+K 7
+svn:log
+V 123
+relax Serial Number checking for audiocodes gateway - two latin letters followed by at least 7 decimal digits are accepted
+
+END

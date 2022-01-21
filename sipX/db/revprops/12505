@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2017-10-07T03:43:57.759377Z
+K 7
+svn:log
+V 81
+Collect scattered local codec path arrays into new header file MpTestCodecPaths.h
+END

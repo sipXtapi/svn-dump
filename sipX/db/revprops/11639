@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-04-02T20:16:15.218108Z
+K 7
+svn:log
+V 280
+Increased number of frames for buffering mic stream on Android because of high jitter on Nexus.
+At some point we should re-evaluate this and try to reduce the latency by adding PLC or determining 
+why jitter is so high on nexus.  Droid is much better by 6-8 frames (60-80 msec).
+
+
+END

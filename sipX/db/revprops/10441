@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-08T22:54:00.063760Z
+K 7
+svn:log
+V 235
+Only test bridge port connection when using Topology graph interface, as this uses code specific to that.
+
+Prior to this checkin, this test would crash due to uninitialized access to topology class code that was introduced with r10327.
+END

@@ -1,0 +1,248 @@
+PLAIN
+K 43
+httpd-sipxchange-configserver-pw.conf.in.in
+V 24
+file 4af.0.r3025/7535439
+K 25
+profilewriter.props.in.in
+V 20
+file 4ag.0.r3039/388
+END
+ENDREP
+id: 4ad.0.r3062/153
+type: dir
+pred: 4ad.0.r3039/891
+count: 2
+text: 3062 0 140 140 3b67919f4d619c8fa1723a00c843e6cd
+cpath: /old/sipXconfig/main/profilewriter/etc
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 4bf.0.r3050/117289
+K 3
+bin
+V 22
+dir 4aa.0.r3050/117056
+K 9
+build.xml
+V 22
+file 4ac.0.r3061/48889
+K 3
+etc
+V 19
+dir 4ad.0.r3062/153
+K 3
+src
+V 21
+dir 4ah.0.r3061/48705
+END
+ENDREP
+id: 4a9.0.r3062/538
+type: dir
+pred: 4a9.0.r3061/49346
+count: 6
+text: 3062 329 196 196 2a848a9015533c28f11291feb0a587a7
+props: 3055 1451 79 0 770f954b82f9bb63c81549bfda4a0a7f
+cpath: /old/sipXconfig/main/profilewriter
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 24
+file 2hg.0.r3025/7526700
+K 9
+ChangeLog
+V 20
+file 2hh.0.r3048/286
+K 7
+INSTALL
+V 21
+file 2hi.0.r3060/2340
+K 7
+LICENSE
+V 24
+file 2hj.0.r3025/7507227
+K 11
+Makefile.am
+V 22
+file 2hk.0.r3057/14119
+K 4
+NEWS
+V 24
+file 2hl.0.r3025/8230780
+K 6
+README
+V 20
+file 2hm.0.r3039/160
+K 4
+TODO
+V 24
+file 2hn.0.r3025/7543047
+K 9
+acsite.m4
+V 24
+file 2ho.0.r3025/7507648
+K 14
+ant-targets.am
+V 21
+file 2hp.0.r3057/7190
+K 15
+ant-targets.xml
+V 22
+file 2hq.0.r3061/38451
+K 6
+common
+V 21
+dir 2hs.0.r3061/38227
+K 20
+config.properties.in
+V 22
+file 2jf.0.r3057/10598
+K 12
+configure.ac
+V 22
+file 2jg.0.r3057/10362
+K 3
+doc
+V 22
+dir 2jh.0.r3050/119851
+K 3
+etc
+V 20
+dir 4b7.0.r3055/4472
+K 3
+lib
+V 22
+dir 2jy.0.r3050/121617
+K 16
+profilegenerator
+V 22
+dir 2kj.0.r3061/197736
+K 23
+profilepub_sipagent.dsp
+V 20
+file 4b5.0.r3054/179
+K 16
+profilepublisher
+V 22
+dir 485.0.r3061/215735
+K 13
+profilewriter
+V 19
+dir 4a9.0.r3062/538
+K 12
+sipagent-jni
+V 22
+dir 48h.h9.r3061/41190
+K 26
+sipx-jboss-configure.patch
+V 21
+file 4bi.0.r3060/2566
+K 18
+sipxconfig.spec.in
+V 22
+file 4bh.0.r3057/13956
+END
+ENDREP
+id: 2hf.0.r3062/1855
+type: dir
+pred: 2hf.0.r3061/217064
+count: 33
+text: 3062 769 1073 1073 507195c1bbbea3930a6baea1238d90eb
+props: 3055 5989 259 0 69df2b86f19c9537de805791a2312c9f
+cpath: /old/sipXconfig/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 20
+dir 2hf.0.r3062/1855
+K 4
+tags
+V 20
+dir 4b6.0.r3047/1810
+END
+ENDREP
+id: 2he.0.r3062/2165
+type: dir
+pred: 2he.0.r3061/217379
+count: 38
+text: 3062 2078 74 74 ac0fd67efa0725847c632b7eb6366be8
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 20
+dir 2he.0.r3062/2165
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3062/2768
+type: dir
+pred: 1.0.r3061/217986
+count: 3061
+text: 3062 2324 431 431 2026ba509dfad7e5ce49fd702a6f0a9d
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3062/2768
+END
+ENDREP
+id: 0.0.r3062/2965
+type: dir
+pred: 0.0.r3061/218187
+count: 3062
+text: 3062 2916 36 36 245ece6a217e1402678d5b9fa9a873c1
+cpath: /
+copyroot: 0 /
+
+4ae.0.r3025/7535123 delete false false /old/sipXconfig/main/profilewriter/etc/httpd-sipxchange-configserver-pw-ssl.conf.in.in
+
+
+2965 3108

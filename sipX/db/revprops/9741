@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-25T21:42:41.593685Z
+K 7
+svn:log
+V 80
+Fix typo in code in sipXtapiTestCall.cpp: sipXtapiTestSuite::callMultipleProc2.
+
+END

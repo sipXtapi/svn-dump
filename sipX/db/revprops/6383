@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-03-16T23:17:45.378704Z
+K 7
+svn:log
+V 81
+XCF-928 - Convert date strings in unit test to local date format before comparing
+END

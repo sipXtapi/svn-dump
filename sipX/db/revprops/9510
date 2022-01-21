@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-10T13:07:49.244717Z
+K 7
+svn:log
+V 160
+All wave buffers pointers should be set to NULL in MpInputDeviceDriverWnt constructor to be clean prevent assert in its destructor if device was never enabled.
+
+END

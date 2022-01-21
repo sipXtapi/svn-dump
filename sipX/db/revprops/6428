@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-03-24T15:30:10.326081Z
+K 7
+svn:log
+V 418
+Call Resolver:
+1. Open a connection to the database if one is not already open.  The unit tests rely on Rails to take care of this, but the Call Resolver is not running under Rails.
+2. Handle the case where we go to save a CDR and discover that there is already a CDR in the database for this SIP dialog.  But we don't yet support the "redo" flag for recomputing CDRs.  Right now only incomplete CDRs are overwritten.
+
+END

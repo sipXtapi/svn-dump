@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-11-29T14:09:01.763042Z
+K 7
+svn:log
+V 101
+svn:mime-time and svn:eol-style fixes for newly added files (have scripts which find/update these).
+
+
+END

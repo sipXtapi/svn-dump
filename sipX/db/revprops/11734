@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-07-12T20:18:40.162475Z
+K 7
+svn:log
+V 295
+Check for port availablity on specific IP interface & fixed x86_64 issue with isPortBusy
+  Use bind address in isPortBusy.
+  Scope isAddressPortBusy to CpTopologyGraphInterface as it does not seem to get
+    invoked otherwise and gets a strange return value.
+  Fixed a few compiler warnings.
+  
+
+END

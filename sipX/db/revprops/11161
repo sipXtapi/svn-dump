@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-09T15:55:59.120581Z
+K 7
+svn:log
+V 223
+sipXtapi: Fix Linux build in case stream player is disabled in sipXmediaLib.
+Problem is that in this case sipXtackLib dependency is not pulled from sipXmediaAdapterLib and  libsipXcall.so is not linked with libsipXtack.so.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-03T00:41:26.127467Z
+K 7
+svn:log
+V 121
+XCF-749 first attempt at maven2 pom for neoconf
+try mvn compile (test does not work yet but feel free to help with that)
+
+END

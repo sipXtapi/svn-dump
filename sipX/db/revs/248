@@ -1,0 +1,159 @@
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: as.0.r248/60
+type: dir
+pred: as.0.r247/51
+count: 3
+text: 245 416 87 87 93474956458837816b6bc0bf244d08e0
+props: 248 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXportLib/main/bin
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 19
+file 4.0.r22/520744
+K 9
+ChangeLog
+V 17
+file 5.0.r170/607
+K 7
+INSTALL
+V 17
+file 6.0.r218/548
+K 7
+LICENSE
+V 19
+file 7.0.r22/418615
+K 11
+Makefile.am
+V 17
+file 8.0.r243/366
+K 4
+NEWS
+V 19
+file 9.0.r22/520483
+K 6
+README
+V 16
+file a.0.r99/462
+K 4
+TODO
+V 18
+file b.0.r25/34332
+K 9
+acsite.m4
+V 19
+file c.0.r22/469495
+K 3
+bin
+V 16
+dir as.0.r248/60
+K 6
+config
+V 17
+dir 91.0.r246/924
+K 12
+configure.ac
+V 17
+file d.0.r243/143
+K 3
+doc
+V 18
+dir ac.0.r187/2079
+K 7
+include
+V 17
+dir e.0.r208/1769
+K 15
+sipXportLib.dsp
+V 19
+file 4c.0.r237/2071
+K 19
+sipxportlib.spec.in
+V 18
+file aq.0.r245/675
+K 3
+src
+V 18
+dir 4d.0.r217/4571
+K 12
+syslogviewer
+V 20
+dir 8y.0.r192/166453
+END
+ENDREP
+id: 3.0.r248/958
+type: dir
+pred: 3.0.r247/950
+count: 232
+text: 248 267 678 678 3dcc6ba36046059e3ae859c08388c2a0
+props: 207 5271 201 0 54aa01c31d2b62cada16756a7967ac75
+cpath: /old/sipXportLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir ar.0.r240/1677
+K 4
+main
+V 16
+dir 3.0.r248/958
+K 4
+tags
+V 18
+dir an.0.r169/1799
+END
+ENDREP
+id: 2.0.r248/1287
+type: dir
+pred: 2.0.r247/1280
+count: 246
+text: 248 1169 105 105 26299b72cfa3ddd238c588a0561d3e9b
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r248/1287
+END
+ENDREP
+id: 1.0.r248/1498
+type: dir
+pred: 1.0.r247/1491
+count: 247
+text: 248 1441 44 44 ef5d9851fe82422ad781984d58ba8661
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r248/1498
+END
+ENDREP
+id: 0.0.r248/1686
+type: dir
+pred: 0.0.r247/1679
+count: 248
+text: 248 1638 35 35 676a5dcb7292be5bf00b6193e4bbcc56
+cpath: /
+copyroot: 0 /
+
+as.0.t247-1 modify false true /old/sipXportLib/main/bin
+
+
+1686 1823

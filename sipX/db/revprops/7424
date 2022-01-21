@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-09-06T18:47:55.818967Z
+K 7
+svn:log
+V 144
+1) Updated build scripts (working towards getting a build looping running)
+2) Added a sipXtapi utility method to pull a display name off a URL
+
+
+END

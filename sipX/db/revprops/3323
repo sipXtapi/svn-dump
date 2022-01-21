@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-01-03T20:38:58.518255Z
+K 7
+svn:log
+V 225
+Tapestry-Spring integration method modified. 
+SipxconfigEngine registers reference to Spring application contexts as "sipXconfigContext"
+Spring Web Application context created automatically by listener registered in web.xml
+
+
+END

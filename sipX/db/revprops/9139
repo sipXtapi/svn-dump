@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-03-22T20:20:50.524083Z
+K 7
+svn:log
+V 193
+remove [LAN] section from LG-Nortel profile (patch from mossmanp)
+phones managed by sipXconfig have to have provisioning information either configured manually (TUI) or provided by DHCP server
+
+END

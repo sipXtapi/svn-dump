@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-02-04T22:34:23.117433Z
+K 7
+svn:log
+V 215
+Allow user to set up an Apache modules directory for his working copy
+by creating $(PREFIX)/lib/httpd/modules.  Automagically construct a
+--with-apache-modules argument for ./configure if this directory is
+present.
+
+END

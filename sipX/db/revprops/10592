@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-02-20T16:42:05.077830Z
+K 7
+svn:log
+V 180
+Move all code from MpPlgDecoderWrap to MpDecoderBase class, because no other classes inherit from it.
+This also allow us to remove all 'virual' qualifiers, making it a bit faster.
+
+END

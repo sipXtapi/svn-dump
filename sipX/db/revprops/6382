@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-03-16T22:39:41.525423Z
+K 7
+svn:log
+V 353
+- added EnumFormat - supports localized display of "commons" Enum objects 
+- added MillisDurationFormat - supports human readable display of duration expressed in millis (i.e. something like 10 hours, 5 minutes)
+- added AutoRefreshForm component - special form that automatically refreshes its content - you can specify interval or refresh it on demand
+
+END

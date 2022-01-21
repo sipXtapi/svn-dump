@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-07-14T19:27:59.185938Z
+K 7
+svn:log
+V 100
+Set svn:executable property values to '*' rather than '', so they are
+easier to see and manipulate.
+
+END

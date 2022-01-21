@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-10-05T18:00:17.757341Z
+K 7
+svn:log
+V 244
+Tiny followup to XCF-393 fix: tweak the sed command in sipxconfig.sh that reads the database version, to handle multidigit version numbers properly.  Work around weak regexp support in sed, which doesn't appear to handle the "+" char properly.
+
+END

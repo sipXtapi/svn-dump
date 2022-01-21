@@ -1,0 +1,158 @@
+PLAIN
+K 13
+svn:externals
+V 75
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-B/config
+
+K 10
+svn:ignore
+V 185
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxcalllib-*.tar.gz
+sipxcalllib.spec
+stamp-h1
+Debug
+Release
+
+K 17
+svnmerge-2.6-head
+V 55
+https://scm.sipfoundry.org/rep/sipXcallLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 4
+1-68
+K 18
+svnmerge-main-head
+V 47
+https://scm.sipfoundry.org/rep/sipXcallLib/main
+K 18
+svnmerge-main-revs
+V 4
+1-60
+END
+ENDREP
+id: va.6e.r1390/551
+type: dir
+pred: va.6c.r1389/1712
+count: 54
+text: 1389 1019 680 680 cbd3da42882a16e69a6c0b560bfc3bee
+props: 1390 0 538 0 4fd51a4e48295948b780d49110742c10
+cpath: /old/sipXcallLib/tags/2.6-export-B
+copyfrom: 1389 /old/sipXcallLib/branches/2.6
+
+PLAIN
+K 5
+2.5.1
+V 20
+dir va.63.r1331/2380
+K 5
+2.5.2
+V 20
+dir va.66.r1347/1013
+K 12
+2.6-export-A
+V 19
+dir va.6d.r1388/551
+K 12
+2.6-export-B
+V 19
+dir va.6e.r1390/551
+K 13
+main-export-B
+V 19
+dir va.6a.r1385/436
+K 13
+main-export-C
+V 19
+dir va.6b.r1386/436
+END
+ENDREP
+id: 156.0.r1390/1075
+type: dir
+pred: 156.0.r1388/1030
+count: 8
+text: 1390 812 250 250 7bd934dcb71d12cf123000dcc607a6cf
+cpath: /old/sipXcallLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 15e.0.r1389/2061
+K 4
+main
+V 19
+dir va.0.r1381/1435
+K 4
+tags
+V 20
+dir 156.0.r1390/1075
+END
+ENDREP
+id: v9.0.r1390/1363
+type: dir
+pred: v9.0.r1389/2351
+count: 69
+text: 1390 1238 112 112 edba5782a9ff5185c26110e8a865ceb4
+cpath: /old/sipXcallLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1390/1363
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1390/1706
+type: dir
+pred: 1.0.r1389/2694
+count: 1389
+text: 1390 1521 172 172 a3d43bc2900d91f1ddba15d8c81a6a60
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1390/1706
+END
+ENDREP
+id: 0.0.r1390/1901
+type: dir
+pred: 0.0.r1389/2889
+count: 1390
+text: 1390 1852 36 36 ef7280ddb1453bb7be87935cf15fd2c8
+cpath: /
+copyroot: 0 /
+
+va._0.t1389-1 add false true /old/sipXcallLib/tags/2.6-export-B
+1389 /old/sipXcallLib/branches/2.6
+
+1901 2042

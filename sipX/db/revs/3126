@@ -1,0 +1,150 @@
+PLAIN
+K 13
+svn:externals
+V 77
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/post-2.6.1/config
+
+K 10
+svn:ignore
+V 144
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.properties
+config.status
+configure
+libtool
+stamp-h1
+
+K 18
+svnmerge-main-head
+V 46
+https://scm.sipfoundry.org/rep/sipXconfig/main
+K 18
+svnmerge-main-revs
+V 4
+1-62
+END
+ENDREP
+id: 2hf.ha.r3126/395
+type: dir
+pred: 2hf.ha.r3098/2112
+count: 61
+text: 3098 720 1093 1093 dadddc2be3db1dba144639b11279f850
+props: 3126 0 382 0 b277974d0166db208eb58badabd49d7a
+cpath: /old/sipXconfig/branches/post-2.6.1
+copyroot: 3088 /old/sipXconfig/branches/post-2.6.1
+
+PLAIN
+K 10
+post-2.6.1
+V 20
+dir 2hf.ha.r3126/395
+END
+ENDREP
+id: 4c1.0.r3126/725
+type: dir
+pred: 4c1.0.r3098/2448
+count: 4
+text: 3126 666 46 46 0c120afe227ea0b6b7e805b4d46eca9b
+cpath: /old/sipXconfig/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 4c1.0.r3126/725
+K 4
+main
+V 20
+dir 2hf.0.r3125/4481
+K 4
+tags
+V 20
+dir 4b6.0.r3047/1810
+END
+ENDREP
+id: 2he.0.r3126/1013
+type: dir
+pred: 2he.0.r3125/4829
+count: 102
+text: 3126 888 112 112 d50b5d9c043b53f64b27677075fb625d
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 20
+dir 2he.0.r3126/1013
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3126/1616
+type: dir
+pred: 1.0.r3125/5433
+count: 3125
+text: 3126 1172 431 431 aa0ce8865a95943dec9ffebee83c2ab4
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3126/1616
+END
+ENDREP
+id: 0.0.r3126/1811
+type: dir
+pred: 0.0.r3125/5628
+count: 3126
+text: 3126 1762 36 36 e2139c880016bf0012c3bc5448777c45
+cpath: /
+copyroot: 0 /
+
+2hf.ha.t3125-1 modify false true /old/sipXconfig/branches/post-2.6.1
+
+
+1811 1952

@@ -1,0 +1,29 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-26T17:47:04.154664Z
+K 7
+svn:log
+V 676
+Merged revisions 7810-7837 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/3.6/sipXconfig
+
+........
+  r7818 | dkrzemin | 2006-10-24 13:39:48 -0400 (Tue, 24 Oct 2006) | 2 lines
+  
+  Download service is now using digest mechanism similar to Tapestry Asset service.
+........
+  r7822 | martin | 2006-10-25 21:07:21 -0400 (Wed, 25 Oct 2006) | 2 lines
+  
+  Fix XCF-1341: Clarify help text for Intercom feature
+........
+  r7835 | dkrzemin | 2006-10-26 12:16:36 -0400 (Thu, 26 Oct 2006) | 2 lines
+  
+  XCF-1313 replicate permissions data when custom permission list is modified (new permission added, old permission deleted, permission default value changed)
+........
+
+END

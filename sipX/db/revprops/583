@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-06-14T15:14:03.758251Z
+K 7
+svn:log
+V 111
+XCF-332 Added merging of sipxconfig.propertied.in and accompanying config files utility functions and unittests
+END

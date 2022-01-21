@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-05-18T22:57:25.307465Z
+K 7
+svn:log
+V 66
+XCF-829 basic UI for specifying LDAP server connection parameters
+
+END

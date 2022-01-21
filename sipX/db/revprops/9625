@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-31T11:32:54.972391Z
+K 7
+svn:log
+V 145
+Turn off EditAndContinue option in several VS2003 projects. Add playback_prompt.h and record_prompt.h to sipXmediaAdapterLibTest VS2003 project.
+
+END

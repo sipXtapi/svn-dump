@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-04T23:17:36.706673Z
+K 7
+svn:log
+V 556
+Work around brokenness in VC6.
+
+In MSVC6, MprRtpDispatcherActiveSsrcs::lookupRtpStream fails to compile
+properly with MpRtpStream defined in MprRtpDispatcher as protected. 
+VC6 erroneously specifies that it 'cannot access protected struct 
+declared in class 'MprRtpDispatcher' despite the fact that 
+MprRtpDispatcherActiveSrcs derives from MprRtpDispatcher, and defines 
+lookupRtpStream as protected.
+
+So, to work around this, if we're compiling with VC6, then make the
+struct public (which exposes it more than we want)...
+
+This only affects VC6 builds.
+
+
+END

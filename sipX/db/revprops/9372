@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-17T08:41:02.028410Z
+K 7
+svn:log
+V 97
+OsTimerTest: Remove old KNOWN_FATAL_BUG() call as it's passing fine now.
+Fixed many indents too.
+
+END

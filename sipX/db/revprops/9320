@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-11T15:23:33.231384Z
+K 7
+svn:log
+V 128
+Use PRI_DEBUG instead of PRI_ERR for logging debug information in MpInputDeviceManagerTest and MpSineWaveGeneratorDeviceDriver.
+
+END

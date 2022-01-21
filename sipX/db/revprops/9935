@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-08-10T15:47:30.925693Z
+K 7
+svn:log
+V 90
+Make MpResource::setAllNotificationsEnabled() simpler and more readable with ?: operator.
+
+END

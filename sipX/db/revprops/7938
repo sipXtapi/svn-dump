@@ -1,0 +1,31 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2006-11-03T21:21:07.295917Z
+K 7
+svn:log
+V 811
+Add ability to disable watchdog-process "process.d" XML files from being processed.
+
+Changed the watchdog schema to add an "enable" attribute to the top level "watchdog-process" element.
+ 
+This causes the file to be ignored if not enabled (enable="false").  
+Thus it acts as if it doesn't exist in the process.d directory, and so 
+doesn't ever get started, and better yet doesn't even show up as a service, 
+running, stopped or otherwise.  It has an advantage over just deleting or 
+renaming the file in that subsequent updates will not overwrite the file as 
+it exists and has been modified.
+
+This simplifies the HA configuration as well, as the file only needs to be
+changed in one location, not two.
+
+Fixes http://track.sipfoundry.org/browse/XPB-823
+Fixes http://track.sipfoundry.org/browse/XPB-837
+
+--Woof!
+
+END

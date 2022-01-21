@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-02-09T20:27:31.007753Z
+K 7
+svn:log
+V 198
+Add -lresolv to libsipXtack_la_LIBADD because libsipXtack refers to
+resolver routines.  (For unknown reasons, this didn't cause a problem
+on many platforms, but the rules demand that this be done.)
+
+END

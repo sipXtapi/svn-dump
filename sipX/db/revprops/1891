@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-10-11T21:42:04.396564Z
+K 7
+svn:log
+V 271
+Do not allow ssl CA and server names to be the same
+  (and provide defaults that are different)
+  Add a warning to the instructions that they can't
+  be the same.
+
+  http://track.sipfoundry.org/browse/XCS-28
+
+
+Make default mail addresses depend on default server names.
+
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2018-01-27T00:13:47.119578Z
+K 7
+svn:log
+V 82
+Made comment on alg. delay clear that number is samples in PlgDefsV1.h
+(Not time)
+
+END

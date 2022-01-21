@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-05T21:31:59.825452Z
+K 7
+svn:log
+V 709
+mergefrom pingtel-main 5477
+
+Add protection against the caller starting a timer on one thread while
+deleting it on another thread.
+This version of the code aborts on an assert() violation when this
+race condition is detected.  We may want to revise how this is
+handled, but in the long run, any application which triggers this
+assert() should be fixed.
+Sharpen the check in OsTimer::doStartTimer.
+Fix minor bugs in PlaceCall and ReceiveCall.
+Correct the values returned by SipDialog::getStateString.
+Allow siptest to receive NOTIFY requests.
+Turn on console output in siptest.  (Otherwise it logs nothing.)
+Add latest improvements to siptrace-merge.
+Add merge-logs.
+Improve comments.
+Fix miscellaneous typos.
+
+END

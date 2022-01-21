@@ -1,0 +1,146 @@
+PLAIN
+K 13
+svn:externals
+V 70
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.8/config
+
+K 10
+svn:ignore
+V 218
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxcommserverlib-*.rpm
+sipxcommserverlib-*.tar.gz
+sipxcommserverlib.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 61
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 25
+1-135,148,157,164,167,184
+K 18
+svnmerge-main-head
+V 53
+https://scm.sipfoundry.org/rep/sipXcommserverLib/main
+K 18
+svnmerge-main-revs
+V 5
+1-198
+END
+ENDREP
+id: 1qo.93.r1996/614
+type: dir
+pred: 1qo.0.r1995/2568
+count: 137
+text: 1995 1778 777 777 88a302f364d2b152f561826ac0a6e8e6
+props: 1996 0 601 0 5f2cac3d98a343a82e39a6aa9773ccea
+cpath: /old/sipXcommserverLib/branches/2.8
+copyfrom: 1995 /old/sipXcommserverLib/main
+
+PLAIN
+K 3
+2.6
+V 21
+dir 1qo.8e.r1987/4325
+K 3
+2.8
+V 20
+dir 1qo.93.r1996/614
+END
+ENDREP
+id: 1v5.0.r1996/962
+type: dir
+pred: 1v5.0.r1987/4652
+count: 30
+text: 1996 876 73 73 1152b867261d602e5de45e660d9beb3f
+cpath: /old/sipXcommserverLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 1v5.0.r1996/962
+K 4
+main
+V 20
+dir 1qo.0.r1995/2568
+K 4
+tags
+V 20
+dir 1uu.0.r1982/3840
+END
+ENDREP
+id: 1qn.0.r1996/1258
+type: dir
+pred: 1qn.0.r1995/2922
+count: 199
+text: 1996 1133 112 112 7561c5a8e083da21105b258b8958210d
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r1996/1258
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1996/1659
+type: dir
+pred: 1.0.r1995/3323
+count: 1995
+text: 1996 1425 221 221 19e819d86c2fe3f9fd2e43a4553fa3f7
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1996/1659
+END
+ENDREP
+id: 0.0.r1996/1854
+type: dir
+pred: 0.0.r1995/3518
+count: 1996
+text: 1996 1805 36 36 48783f5265c2fcc50972c6257beb5dfa
+cpath: /
+copyroot: 0 /
+
+1qo._0.t1995-1 add false true /old/sipXcommserverLib/branches/2.8
+1995 /old/sipXcommserverLib/main
+
+1854 1995

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-08-10T19:53:32.144448Z
+K 7
+svn:log
+V 118
+Fixed a compiler error under MSVC 8 -- strchr returns a const char* which cannot be automatically casted to a char*.
+
+
+END

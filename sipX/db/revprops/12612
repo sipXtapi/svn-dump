@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-12-20T00:22:52.228617Z
+K 7
+svn:log
+V 52
+Create libg7221 build and -enable-codec-7221 macros
+
+END

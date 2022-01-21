@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-10-30T07:12:13.175421Z
+K 7
+svn:log
+V 59
+Add Topology constructors for Decode and Encode resources.
+
+END

@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-07-28T10:00:02.347142Z
+K 7
+svn:log
+V 270
+Fixed a bunch of compiler errors and warnings on the windows 
+MSVS platform.  A large part of this check is patches from
+Thien Nguyen.  Thank you!!
+
+The cppunit test for sipXportLib builds for MSVS, but it crashes 
+(at least in my environment).
+
+Resolves issue: XPL-50
+
+
+END

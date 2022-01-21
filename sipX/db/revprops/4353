@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-11T21:48:40.011212Z
+K 7
+svn:log
+V 54
+Be more clever about where rpmbuild will put the RPMs.
+END

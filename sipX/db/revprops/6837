@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-05-22T02:22:39.666248Z
+K 7
+svn:log
+V 230
+XCF-1017, XCF-1016 Refactor settings API to use POJOs rather than constants.  Finish ongoing refactoring to settings.  Overhaul Grandstream and CiscoATA, 2 big consumers of settings enhancements. wiki documentation still required.
+END

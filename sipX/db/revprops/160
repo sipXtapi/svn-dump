@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-07-29T20:58:55.826502Z
+K 7
+svn:log
+V 198
+Some more clean up of UtlString.cpp
+Some more unit tests for UtlString.cpp to test
+optimum usage of memory and effient copies
+Fixed the nasty uninitialized member in constructor
+thanks to Douglas!
+
+
+END

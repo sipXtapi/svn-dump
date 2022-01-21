@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-04-11T17:17:35.958073Z
+K 7
+svn:log
+V 124
+Add link to display the current version of sipX
+Clarify how to pick a group number
+Clarify how to check valid registration
+
+
+END

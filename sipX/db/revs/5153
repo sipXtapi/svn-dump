@@ -1,0 +1,197 @@
+PLAIN
+K 14
+Conference.cpp
+V 21
+file 8dy.0.r5144/1079
+K 12
+Conference.h
+V 21
+file 8dz.0.r5144/1435
+K 23
+ConferenceUserAgent.cpp
+V 21
+file 8ds.0.r5150/2527
+K 21
+ConferenceUserAgent.h
+V 20
+file 8dt.0.r5152/304
+K 11
+Makefile.am
+V 21
+file 8e9.0.r5146/1045
+K 15
+Participant.cpp
+V 20
+file 8e0.0.r5152/130
+K 13
+Participant.h
+V 20
+file 8e1.0.r5144/905
+K 22
+ParticipantFactory.cpp
+V 21
+file 8e2.0.r5136/2890
+K 20
+ParticipantFactory.h
+V 21
+file 8e3.0.r5150/2712
+K 11
+bbridge.cpp
+V 21
+file 8dx.0.r5147/1342
+END
+ENDREP
+id: 8dn.0.r5153/506
+type: dir
+pred: 8dn.0.r5152/1088
+count: 33
+text: 5153 0 493 493 7a7b27744d3485def120cf2924cf9eaa
+props: 5137 5614 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /main/bbridge/src
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file 8e5.0.r5146/2093
+K 9
+acsite.m4
+V 21
+file 8e6.0.r5137/5930
+K 12
+configure.ac
+V 20
+file 8e7.0.r5146/650
+K 3
+doc
+V 20
+dir 8e8.0.r5137/4379
+K 7
+include
+V 20
+dir 8dm.0.r5106/1027
+K 3
+src
+V 19
+dir 8dn.0.r5153/506
+END
+ENDREP
+id: 8dl.0.r5153/969
+type: dir
+pred: 8dl.0.r5152/1555
+count: 33
+text: 5153 718 238 238 503918e1460292e0c4a0fceef783af42
+props: 5137 6715 258 0 ee5d6c31263f64fd4985864505802455
+cpath: /main/bbridge
+copyroot: 0 /
+
+PLAIN
+K 7
+bbridge
+V 19
+dir 8dl.0.r5153/969
+K 5
+build
+V 21
+file 7ve.0.r4991/8749
+K 6
+config
+V 20
+dir 91.1i4.r5140/989
+K 12
+dependencies
+V 21
+file 7rk.0.r5137/3841
+K 11
+sipXcallLib
+V 22
+dir va.1i5.r5109/63511
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r5109/87864
+K 10
+sipXconfig
+V 23
+dir 2hf.1i7.r5151/21312
+K 19
+sipXmediaAdapterLib
+V 21
+dir 89s.0.r5109/67587
+K 12
+sipXmediaLib
+V 22
+dir mz.1i8.r5109/66434
+K 7
+sipXpbx
+V 23
+dir 5g6.1i9.r5109/57901
+K 9
+sipXphone
+V 23
+dir 6qk.1ia.r5109/86540
+K 11
+sipXportLib
+V 21
+dir 3.1ib.r5109/50434
+K 9
+sipXproxy
+V 23
+dir 1vt.1ic.r5109/51704
+K 13
+sipXpublisher
+V 23
+dir 20n.1id.r5109/59162
+K 12
+sipXregistry
+V 23
+dir 1y5.1ie.r5109/68867
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r5109/85038
+K 8
+sipXvxml
+V 23
+dir 22d.1ig.r5109/52947
+END
+ENDREP
+id: 7q4.0.r5153/1946
+type: dir
+pred: 7q4.0.r5152/2535
+count: 333
+text: 5153 1180 753 753 647503fc6b483d636c44a33add28fbb3
+props: 5109 88891 441 0 3f7b720b068ecc3456ba84148c5756fa
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 22
+dir 7pt.0.r5094/309547
+K 4
+main
+V 20
+dir 7q4.0.r5153/1946
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r5153/2283
+type: dir
+pred: 0.0.r5152/2873
+count: 5153
+text: 5153 2153 117 117 6a19b3d08b75e9291f3b79e7b53664fa
+cpath: /
+copyroot: 0 /
+
+8dr.216.r5137/4459 delete false false /main/bbridge/src/Makefile.MANUAL
+
+8do.215.r5132/12319 delete false false /main/bbridge/src/main.example
+
+
+2283 2426

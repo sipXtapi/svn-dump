@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-05-19T16:03:34.038476Z
+K 7
+svn:log
+V 117
+XCF-273 Restart services reminder connected to Server settings page
+Minor UI changes on restart page, UI test added.
+
+END

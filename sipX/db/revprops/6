@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-05-21T21:05:06.474557Z
+K 7
+svn:log
+V 120
+Additional comments in UtlString.h
+Removed some missing headers from the include dist list -- this needs to be
+audited.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-08-08T12:32:55.548130Z
+K 7
+svn:log
+V 90
+Fix compilation under Linux.
+Our OsIntTypes.h header muust go before any system includes.
+
+END

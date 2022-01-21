@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-31T23:09:25.230494Z
+K 7
+svn:log
+V 75
+Add subscribe-dialog-test to test phones' implementations of dialog events.
+END

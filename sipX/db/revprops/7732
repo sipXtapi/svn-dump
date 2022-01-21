@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-11T14:41:13.500042Z
+K 7
+svn:log
+V 232
+XCF-581 sipXconfig used to ignore error code reported by backup script - I changed it so that whenever at least one of the backup scripts reports error condition we log the error and display generic failure message on backup screen
+
+END

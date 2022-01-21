@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-04-08T16:39:58.175094Z
+K 7
+svn:log
+V 103
+Fixed the end of line properties to do the right thing on
+all the platforms for the IM client example
+
+
+END

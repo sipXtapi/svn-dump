@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-01T16:25:58.843049Z
+K 7
+svn:log
+V 99
+Generate Makefile from Makefile.in so that the various destination
+directories can be substituted.
+
+END

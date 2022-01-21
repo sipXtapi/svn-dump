@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-08-24T19:38:39.764393Z
+K 7
+svn:log
+V 74
+Build fixes for gcc3.3.6/linux.   I still need to verify gcc4 and MacOS.
+
+
+END

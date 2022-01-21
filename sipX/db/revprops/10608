@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-03-14T11:58:20.944951Z
+K 7
+svn:log
+V 154
+Move payload decoders map from MpRtpInputAudioConnection to MprDecode.
+Actually it is moved to separate class MpDecoderPayloadMap for better readability.
+
+END

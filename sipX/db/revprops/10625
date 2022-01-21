@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-03-24T11:59:56.835118Z
+K 7
+svn:log
+V 359
+Firsrt step of major rewrite of dejitter/decoder infrastructure.
+* Long dejitter is removed for now. It will reappear later in different form.
+* PLC is moved from MpJitterBuffer to MprDecode.
+* MpJitterBuffer' queue is no longer circular. Now it hold only one decoded packet.
+* etc..
+
+This version is resistant to clock skew, but could not handle big jitter.
+
+END

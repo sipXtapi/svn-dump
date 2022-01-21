@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-05T21:24:32.792272Z
+K 7
+svn:log
+V 84
+Echo some of the progress messages into the log file to help diagnose
+odd behavior.
+
+END

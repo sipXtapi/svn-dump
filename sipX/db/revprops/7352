@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-25T21:28:51.267376Z
+K 7
+svn:log
+V 515
+XCF-1032 Define a prototype of the Swiss file based on the information provided by Martin (http://www.about.ch/various/phone_numbers.html)
+Swiss dialplan resides in /etc/sipxpbx/dialplan/ch.dialrules.beans.xml: it has to be manually copied over /etc/sipxpbx/dialplan/ch.dialrules.beans.xml. Chnaging default dialplan requires sipXconfig restart. Default dial plan has to be manually applied by pressing Revert button.
+This mechanism can be used to define dial plans for other countries or customized installations.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-12-05T23:51:33.147182Z
+K 7
+svn:log
+V 262
+XCF-475 Add settings to allow admins to increase memory for using directories.  XCF-806 Add support for feature enabling.  Different models had different defaults in template and providing access to these settings enable admins to address firmware version issues
+END

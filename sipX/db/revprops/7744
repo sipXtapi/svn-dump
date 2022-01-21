@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-12T13:47:00.005414Z
+K 7
+svn:log
+V 140
+Default ISN redirection to off by making SIP_REDIRECT.190-ISN.BASE_DOMAIN null.
+Update interop configuration for the new redirector scheme.
+
+END

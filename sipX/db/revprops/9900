@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-27T18:10:13.938896Z
+K 7
+svn:log
+V 324
+reimplementation of OsDateTime::getCurTime(OsTime&) under Microsoft Windows to use more accurate timeGetTime() as opposed to less accurate GetSystemTimeAsFileTime(FILETIME&).
+This improves accuracy significantly.
+Previous resolution was ~15ms, now, with timeGetTime, it is more like 2ms +/- 1ms (or perhaps slightly better).
+END

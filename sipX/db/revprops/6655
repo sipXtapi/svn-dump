@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-04-25T21:24:59.185209Z
+K 7
+svn:log
+V 584
+XCF-1012 This issue actually represents 2 related problems introduced during T3 -> T4 transition:
+
+[a] SelectGateways component did persist nextPage parameter - the page did not know to which page return after OK was clicked
+[b] GatewayTable.edit - was trying to evaluate ruleId, which was causing Tapestry to try to resolve "rule.id" OGNL expression with rule being out of scope by that time, I replaced this with additional service parameter representing rule Id (effectively additional parameter to edit function)
+
+I added enhanced UI test for dial plans to cover both use cases.
+
+
+END

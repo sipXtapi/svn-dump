@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-11-10T17:36:15.748382Z
+K 7
+svn:log
+V 141
+Fix XCF-782: Adding dialing rules with duplicate names can cause unhandled exceptions.  Wrap formSubmit listeners with UserExceptionAdapter.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+cypromis
+K 8
+svn:date
+V 27
+2006-09-05T02:45:58.533433Z
+K 7
+svn:log
+V 229
+This commit updates our ancient support to SNOM firmware 6.2.3 support with nearly all features selectable. 
+As soon as I find out how to have conditional text fields depending on drodowns I will add function key settings as well
+END

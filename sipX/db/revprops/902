@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-08T14:57:14.257173Z
+K 7
+svn:log
+V 251
+Properly declare and install subscribe-dialog-test.
+Previously, subscribe-dialog-test was only mentioned in bin_SCRIPTS,
+which does not work -- either you have to include it in EXTRA_DIST and
+the .spec's %files as well, or not list it in bin_SCRIPTS.
+
+END

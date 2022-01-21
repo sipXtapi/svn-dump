@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-08-03T12:58:02.972220Z
+K 7
+svn:log
+V 248
+Removed a blocker to our ICEish implementation from working.  In the CpPhoneMediaInterface, we issued a connect() to the target IP/port.  This effectively filter all inbound messages from different sources -- including STUN connectivity checks.  
+
+
+END

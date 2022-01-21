@@ -1,0 +1,72 @@
+PLAIN
+K 3
+2.6
+V 17
+dir 3.s.r292/1695
+END
+ENDREP
+id: ar.0.r301/48
+type: dir
+pred: ar.0.r298/27586
+count: 18
+text: 301 0 35 35 ffba1485a8984e5b6556063ee0fa8aa3
+cpath: /old/sipXportLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 16
+dir ar.0.r301/48
+K 4
+main
+V 18
+dir 3.0.r300/16197
+K 4
+tags
+V 18
+dir an.0.r294/1011
+END
+ENDREP
+id: 2.0.r301/324
+type: dir
+pred: 2.0.r300/16531
+count: 299
+text: 301 206 105 105 f16986dd04bf3159942d1c7e309b78cb
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 16
+dir 2.0.r301/324
+END
+ENDREP
+id: 1.0.r301/533
+type: dir
+pred: 1.0.r300/16745
+count: 300
+text: 301 477 43 43 7b223b41abec44ef301248d41cf6b55a
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 16
+dir 1.0.r301/533
+END
+ENDREP
+id: 0.0.r301/719
+type: dir
+pred: 0.0.r300/16936
+count: 301
+text: 301 672 34 34 f26d7812d2f9e17bafde9312ef4486d2
+cpath: /
+copyroot: 0 /
+
+3.i.r298/27229 delete false false /old/sipXportLib/branches/post-2.6.1
+
+
+719 855

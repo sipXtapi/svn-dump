@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-01-03T23:04:50.362471Z
+K 7
+svn:log
+V 109
+Add "(provide 'sipX)" at the end so that you can put "(require 'sipX)" in your .emacs file to load this file
+
+END

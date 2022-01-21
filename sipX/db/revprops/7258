@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-08-14T02:37:42.803428Z
+K 7
+svn:log
+V 66
+Fix dist additional targets, add ruby addons to default fc targets
+END

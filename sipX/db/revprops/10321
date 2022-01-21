@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-12T17:06:40.825022Z
+K 7
+svn:log
+V 286
+MpWBInputOutputDeviceTest fixes
+* Stop flowgraph before stopping input and output devices. Being done in reverse order often lead to crash. This crash should be studied and solved, but I do not have time for this now.
+* Release received notification messages to prevent memory leakage.
+
+END

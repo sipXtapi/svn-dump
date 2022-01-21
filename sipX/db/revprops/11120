@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-19T18:28:48.167145Z
+K 7
+svn:log
+V 151
+Fix errors in sipXsdpLib Doxygen configuration.
+It appears this Doxyfile.in was just copied verbatim from sipXcallLib, without
+correctly updating it.
+
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-04-15T13:50:28.997286Z
+K 7
+svn:log
+V 60
+Remove reference to gem uninstall, got merged in by accident
+END

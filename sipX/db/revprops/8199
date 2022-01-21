@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-12-05T20:54:29.237810Z
+K 7
+svn:log
+V 339
+XCF-1391 initialize method is now only called once - in getSettings method when it's called for the first time when settings are actually loaded
+Minor fix to ClearonePhone support: generating dial plan for the phone was not working: dialplan file name and dial plan template name were passed to generateProfile function in the wrong order
+
+END

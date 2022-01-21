@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-03-09T07:40:29.138263Z
+K 7
+svn:log
+V 33
+Added diagnostics to STUN setup.
+
+END

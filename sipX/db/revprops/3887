@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-05-10T15:14:56.561055Z
+K 7
+svn:log
+V 263
+certificate based login, required jboss 4.0.2 upgrade which was abandoned.  EJB which used to be local, were now coming up as remote, or so it seems based on the fact javax.rmi.PortableRemoteObject could not cast ejb proxies directly to business object interfaces
+END

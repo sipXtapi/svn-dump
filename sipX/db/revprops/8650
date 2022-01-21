@@ -1,0 +1,94 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-29T16:35:45.255691Z
+K 7
+svn:log
+V 2502
+Merged revisions 8541-8542,8544-8548,8550-8562,8564-8566 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8541 | sgodin | 2007-01-15 19:06:44 +0300 | 1 line
+  
+  Moved SdpHelper to sipXtackLib to remove ciruclar dependency in SdpLib.
+........
+  r8542 | sgodin | 2007-01-15 20:24:17 +0300 | 1 line
+  
+  - changes to visual studio projects for move of SdpHelper from sdpLib to stackLib
+........
+  r8545 | ipse | 2007-01-16 00:17:49 +0300 | 5 lines
+  
+  Fixes for Linux build.
+  
+  * sipXsdpLib/configure.ac: sipXtackLib dependency removed.
+  * sipXlib.m4: sipXtackLib require sipXsdpLib.
+........
+  r8547 | ipse | 2007-01-16 03:59:01 +0300 | 4 lines
+  
+  Linux build fix.
+  
+  Added macro SFAC_MEDIA_PROCESSING, which search for media interface includes and media processing libraries. sipXcallLib should depend on it, not on sipXmediaLib.
+........
+  r8548 | ipse | 2007-01-16 10:16:33 +0300 | 5 lines
+  
+  Readme fixes.
+  
+  * Build script for Linux fixed.
+  * Removed duplicated eVC installation notes for sipXportLlib.
+........
+  r8550 | ipse | 2007-01-16 17:45:24 +0300 | 2 lines
+  
+  Update readme with notes on GSM and Speex support under Linux. To Windows build hints added link to sipX wiki.
+........
+  r8556 | ipse | 2007-01-17 01:47:59 +0300 | 2 lines
+  
+  VS6 projects for libgsm.
+........
+  r8557 | ipse | 2007-01-17 01:48:45 +0300 | 2 lines
+  
+  VS6 and VS2003 project files for libspeex.
+........
+  r8558 | ipse | 2007-01-17 01:52:24 +0300 | 2 lines
+  
+  Added pragma for libgsm conditional link.
+........
+  r8559 | ipse | 2007-01-17 01:53:32 +0300 | 2 lines
+  
+  Change Speex include directory to "contrib/libspeex/include" in VS2003 project.
+........
+  r8560 | ipse | 2007-01-17 01:58:49 +0300 | 6 lines
+  
+  GSM updates for VS6 build.
+  
+  * libgsm project added to solution.
+  * libgsm added to linker input directories for test projects.
+  * HAVE_GSM defined by default.
+........
+  r8564 | ipse | 2007-01-17 02:26:50 +0300 | 5 lines
+  
+  Speex changes to VS6 build.
+  
+  * Linker input directory added.
+  * HAVE_SPEEX defined by default.
+........
+  r8565 | ipse | 2007-01-17 02:54:20 +0300 | 5 lines
+  
+  Changes for GSM and Speex build under VS2003.
+  
+  * Speex library input paths added
+  * HAVE_GSM and HAVE_SPEEX defined by default.
+........
+  r8566 | ipse | 2007-01-17 03:01:32 +0300 | 5 lines
+  
+  Fix unittests build under VS2003.
+  
+  * sipXsdpLib/include added to unittests includes paths.
+  * sipXtapiTest depend on sipXsdpLib.
+........
+
+END

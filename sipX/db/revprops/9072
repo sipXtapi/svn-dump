@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-03-13T16:44:51.658235Z
+K 7
+svn:log
+V 63
+Fixed MpAUdioBuf::compareSamples bug identified in unit test.
+
+
+END

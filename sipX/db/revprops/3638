@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-03-09T23:38:30.498572Z
+K 7
+svn:log
+V 118
+XCF-189 - only users with ForwardCallsExternal permissions will be able to have calls forwarded to external numbers.
+
+
+END

@@ -1,0 +1,148 @@
+PLAIN
+K 13
+svn:externals
+V 76
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/user_ping/config
+
+K 10
+svn:ignore
+V 225
+BUILDSTAMP
+Debug
+Makefile
+Makefile.in
+Release
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.properties
+config.status
+configure
+libtool
+sipxtacklib-*.rpm
+sipxtacklib-*.tar.gz
+sipxtacklib.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 55
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 41
+1-131,137,147,152,155-157,159,169,188,197
+K 17
+svnmerge-2.8-head
+V 55
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 21
+1-230,233,238,251,258
+K 18
+svnmerge-main-head
+V 47
+https://scm.sipfoundry.org/rep/sipXtackLib/main
+K 18
+svnmerge-main-revs
+V 5
+1-276
+END
+ENDREP
+id: dk.3s.r876/765
+type: dir
+pred: dk.0.r875/5769
+count: 198
+text: 875 4593 1163 1163 22102963588a13976b0696343e2a0485
+props: 876 0 752 0 29b58e37c2f8b2c7f661f845e5f83fa1
+cpath: /old/sipXtackLib/branches/user_ping
+copyfrom: 875 /old/sipXtackLib/main
+
+PLAIN
+K 3
+2.6
+V 20
+dir dk.2u.r796/23010
+K 3
+2.8
+V 19
+dir dk.3l.r857/1434
+K 9
+user_ping
+V 18
+dir dk.3s.r876/765
+END
+ENDREP
+id: kz.0.r876/1138
+type: dir
+pred: kz.0.r857/1772
+count: 37
+text: 876 1016 109 109 c31b5e97f42d46db46683b8bfecfa917
+cpath: /old/sipXtackLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir kz.0.r876/1138
+K 4
+main
+V 18
+dir dk.0.r875/5769
+K 4
+tags
+V 18
+dir kr.0.r871/2182
+END
+ENDREP
+id: dj.0.r876/1422
+type: dir
+pred: dj.0.r875/6105
+count: 277
+text: 876 1302 107 107 b2eddc70ee9a5b7a9afbac682bd68d58
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 18
+dir dj.0.r876/1422
+END
+ENDREP
+id: 1.0.r876/1676
+type: dir
+pred: 1.0.r875/6360
+count: 875
+text: 876 1578 85 85 540abb4c79449f5f915c63ca4d74b975
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r876/1676
+END
+ENDREP
+id: 0.0.r876/1864
+type: dir
+pred: 0.0.r875/6549
+count: 876
+text: 876 1816 35 35 25b1d4e9cae80a38dda2a8639ace501e
+cpath: /
+copyroot: 0 /
+
+dk._0.t875-1 add false true /old/sipXtackLib/branches/user_ping
+875 /old/sipXtackLib/main
+
+1864 2001

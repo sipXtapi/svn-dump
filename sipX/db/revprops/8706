@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-06T22:24:21.337103Z
+K 7
+svn:log
+V 211
+Bugfix: implement first packet detection in MpdSipxPcma/u correctly.
+
+mLastSeqNo was initialized with (-1) and then checked for -1, but it is 'unsigned int', so this check always failed, and all stream dropped.
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-01T21:18:37.776495Z
+K 7
+svn:log
+V 203
+XCF-901 automatically validate description if it's a part of ItemCommon
+ItemCommon now supports a new property maxDescriptionLen
+One can switch off description validation by setting this property to -1.
+
+END

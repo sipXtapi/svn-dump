@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-27T19:27:20.090813Z
+K 7
+svn:log
+V 186
+XPB-836 Martin's fix for Apache home dir on FC6
+not sure if this is the right thing to do and if someone has a better idea feel free to fix it 
+I just want to prepare for FC6 build loop
+
+END

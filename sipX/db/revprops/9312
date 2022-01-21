@@ -1,0 +1,29 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-04-11T01:54:13.337452Z
+K 7
+svn:log
+V 815
+New named resource messaging system.
+With this checkin, basic functionality is available (with unit tests).
+Generic resources can be enabled and disabled using the new resource messaging system.
+
+New unit tests with this checkin are: 
+MpResourceTest::testNewEnableAndDisable
+MpResourceTest::testNewResourceEnableDisableMsgFlow
+
+The old messaging system is still functioning, and can co-exist with the new messaging system.
+The primary purpose of this is to enable TopologyGraph to be able to process messages at all - since it contains no direct resource subtypes within it.  
+
+New files added:
+MpResourceMsg.h
+MpResourceMsg.cpp
+These changes have been tested with MSVS2005 Win32 target.
+Other platform projects will need to add MpResourceMsg.h, MpResourceMsg.cpp to sipXmediaLib in order for their builds to work.
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-22T23:23:28.810766Z
+K 7
+svn:log
+V 424
+XCF-753 conference bridge UI tests fixed
+- problem with Upload parameter - created StieTestHelper:initUploadFields to help us deal with HTTPUnit/Tapestry incompatibility
+- there are some problems with default values for integer settings not being displayed - marked with FIXME:
+- TablePAnel component relied on getXXXBinding automatically created - Tapestry 4 does not provide it any more, one has to call getBinding("xxx")
+
+END

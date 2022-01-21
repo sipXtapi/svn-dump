@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-04-13T14:58:21.287587Z
+K 7
+svn:log
+V 109
+XPB-561: Web UI now validates purge age value.
+
+Let purge only run if SIP_CALLRESOLVER_DAILY_RUN is enabled.
+
+END

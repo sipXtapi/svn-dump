@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-11-30T13:43:21.703757Z
+K 7
+svn:log
+V 401
+Allow configuration of whether or not to save core files
+For the time being, the default is to save them; this can now be changed
+using the SIPX_CORELIMIT variable in config.defs
+  http://track.sipfoundry.org/browse/XPB-104
+  http://track.sipfoundry.org/browse/XPB-107
+
+customization for revised build loop customizing method based on build labels
+
+Added ChangeLog notes for 2.6.1
+
+(merged from 2.6)
+
+
+END

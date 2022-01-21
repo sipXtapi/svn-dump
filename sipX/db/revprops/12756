@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2020-04-13T07:17:07.954715Z
+K 7
+svn:log
+V 122
+Moved getFmtpValueRange to inline to resolve WIN32 issue where sipXmediaLib defs cannot be referenced from codec plugins.
+
+END

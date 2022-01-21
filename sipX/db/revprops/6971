@@ -1,0 +1,45 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2006-06-15T21:24:24.041887Z
+K 7
+svn:log
+V 1275
+mergefrom pingtel-3.4 6601,6608,6609,6612,6632
+
+Handle unexpected errors from pthread_cond_wait() and pthread_cond_timedwait() by asserting.
+Previous implementation might "spin" on unexpected errors.
+Add more unit tests for mutexes and semaphores.
+
+Change from
+  /proc/sys/kernel/suid_dumpable
+to
+  /proc/sys/fs/suid_dumpable
+Because the latter appears to be the correct name
+(see http://bugzilla.kernel.org/show_bug.cgi?id=6145)
+Also use 1 instead of 2 as experiment shows that
+2 doesn't work, yet 1 does, and indeed the files
+are only readable by root, so are just as secure.
+
+Catch only the normal shutdown signals.
+Let the others cause core dumps so
+we can fix the problem.
+This coupled with changes to sipXvmxl.sh to
+enable core dumps by suid processes should
+enable sipXvxml to drop core.
+
+Don't delete userAgent as the CallManger destructor does that.
+If we delete it here, we get crashes when we CallManager tries to as well.
+I don't agree that CallManager should delete userAgent, as userAgent
+is passed in to CallManager, and thus should be deleted by whomever
+created it.  But this is the path of least resistance, as all other users
+of CallManager seem to know not to delete the passed in object.
+
+Handle differences 'tween FC,kernel.org kernels and RHEL
+
+--Woof!
+END

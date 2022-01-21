@@ -1,0 +1,124 @@
+PLAIN
+K 10
+svn:ignore
+V 129
+depcomp
+sipxcalllib-buildstamp.cpp
+config.guess
+ltmain.sh
+config.sub
+sipxcalllib-buildstamp.h
+sipXcommon.mak
+missing
+install-sh
+
+
+END
+ENDREP
+id: 9wj.7n5.r11861/169
+type: dir
+pred: 9wj.7n5.r11721/1537
+count: 59
+text: 11721 1107 417 417 3754250f41e57869b324b9d2c6bdcb4a
+props: 11861 0 156 0 789d592a105755b695b5cb119b3759e9
+cpath: /main/config
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 24
+file g8y.7n5.r11608/2763
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 22
+dir 9wj.7n5.r11861/169
+K 10
+readme.txt
+V 24
+file 9ws.7n5.r11483/5210
+K 7
+scripts
+V 23
+dir fxk.7n5.r11663/1205
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r11860/4528
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r11859/4598
+K 12
+sipXmediaLib
+V 23
+dir b40.7n5.r11857/2464
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r11849/3453
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r11848/1393
+K 11
+sipXtackLib
+V 23
+dir boq.7n5.r11853/3114
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r11861/1051
+type: dir
+pred: 9wi.7n5.r11860/5423
+count: 2854
+text: 11861 393 645 645 6dd89ca7429a8797b4579c3a1fd4fcac
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r11666/17573
+K 4
+main
+V 23
+dir 9wi.7n5.r11861/1051
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r11861/1388
+type: dir
+pred: 0.0.r11860/5761
+count: 11861
+text: 11861 1216 159 159 721c15e10485c061b569d5fad03e3dd8
+cpath: /
+copyroot: 0 /
+
+9wj.7n5.t11860-1 modify false true /main/config
+
+
+1388 1535

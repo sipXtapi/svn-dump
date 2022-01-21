@@ -1,0 +1,5833 @@
+PLAIN
+END
+ENDREP
+id: 7.0.r17/17
+type: file
+pred: 7.0.r3/554777
+count: 1
+text: 3 5233 11354 26934 f14599a2f089f6ff8c97e2baa4e3d575
+props: 17 0 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/LICENSE
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 90.0.r17/248
+type: file
+pred: 90.0.r3/555021
+count: 1
+text: 3 553676 1046 2343 f60adcff2d649e321554be9590ddcef7
+props: 17 231 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/syslogviewer/main.c
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 8z.0.r17/496
+type: file
+pred: 8z.0.r15/20478
+count: 2
+text: 15 20436 16 123 86ca65a4795e6e7ddc3f82e14e890a77
+props: 17 479 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/syslogviewer/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 17
+file 8z.0.r17/496
+K 6
+main.c
+V 17
+file 90.0.r17/248
+END
+ENDREP
+id: 8y.0.r17/820
+type: dir
+pred: 8y.0.r15/20811
+count: 2
+text: 17 729 78 78 4ea24e064c521a4c774083b8e500d22c
+cpath: /old/sipXportLib/main/syslogviewer
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: d.0.r17/1003
+type: file
+pred: d.0.r15/20981
+count: 3
+text: 15 44 49 1542 6646365561fb303938b6a30dbad2897e
+props: 17 986 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/configure.ac
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1w.0.r17/1238
+type: file
+pred: 1w.0.r15/21202
+count: 2
+text: 15 3036 19 11034 e06158c12a79b9de8dc4ba89e97bb69d
+props: 17 1221 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsSocket.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1m.0.r17/1488
+type: file
+pred: 1m.0.r15/21438
+count: 2
+text: 15 2574 19 3754 3eda84021678d9dfe59b0031abb2e087
+props: 17 1471 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsProtectEventMgr.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 11.0.r17/1746
+type: file
+pred: 11.0.r15/21682
+count: 2
+text: 15 1304 19 3066 dee37a1d096557eccae21fd3bada7291
+props: 17 1729 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsEventMsg.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2f.0.r17/1997
+type: file
+pred: 2f.0.r3/556816
+count: 1
+text: 3 144479 466 620 f178b9669ccfb0271ebf008f1f224f9b
+props: 17 1980 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/iostream
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: r.0.r17/2245
+type: file
+pred: r.0.r15/21919
+count: 2
+text: 15 534 19 3129 1697c4b40256ac40059b1419c9545591
+props: 17 2228 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsCallback.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 26.0.r17/2493
+type: file
+pred: 26.0.r15/22153
+count: 2
+text: 15 3499 20 2946 3c14f6655b9e58339820371dff49617e
+props: 17 2476 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsTimeLog.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1s.0.r17/2743
+type: file
+pred: 1s.0.r15/22389
+count: 2
+text: 15 2844 19 4270 94c7a4350f64ccf605abb8ea8496944d
+props: 17 2726 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsSSLServerSocket.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1e.0.r17/3001
+type: file
+pred: 1e.0.r15/22633
+count: 2
+text: 15 2015 19 4202 4ae9af010dd0be874aa0f760ad18385c
+props: 17 2984 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsMutex.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1v.0.r17/3249
+type: file
+pred: 1v.0.r15/22867
+count: 3
+text: 15 2981 28 3567 6cfab625f6c3a502a52f3b5a24672e7a
+props: 17 3232 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsSharedLibMgr.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1y.0.r17/3504
+type: file
+pred: 1y.0.r15/23107
+count: 2
+text: 15 3128 19 2281 8b28f13175d2db75f8de504838dd3207
+props: 17 3487 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsSyncBase.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 13.0.r17/3755
+type: file
+pred: 13.0.r15/23344
+count: 2
+text: 15 1394 19 2240 546a15e313fc93c341d98a6b820979a1
+props: 17 3738 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsFS.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 14.0.r17/4000
+type: file
+pred: 14.0.r15/23575
+count: 2
+text: 15 1438 19 7284 010898ebe82f3b0cf6d5837911cbcb63
+props: 17 3983 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsFileBase.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2c.0.r17/4251
+type: file
+pred: 2c.0.r15/23812
+count: 2
+text: 15 3784 19 7061 0737905d207276f567fba5e31f31dc33
+props: 17 4234 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsUtil.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1d.0.r17/4498
+type: file
+pred: 1d.0.r15/24045
+count: 2
+text: 15 1970 19 2730 3e9f076a5eda5efb16f00e561664eecc
+props: 17 4481 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsMulticastSocket.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 16.0.r17/4756
+type: file
+pred: 16.0.r15/24289
+count: 3
+text: 15 1528 145 3313 92c5974daa9778a3219c7b39dcd16e72
+props: 17 4739 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsFileIteratorBase.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: m.0.r17/5016
+type: file
+pred: m.0.r3/559945
+count: 1
+text: 3 32473 289 420 30621e75e8d7a1117a7adb1b027ac92e
+props: 17 4999 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/Makefile
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 28.0.r17/5261
+type: file
+pred: 28.0.r15/24534
+count: 3
+text: 15 3592 28 4073 fe079e364812c47e54c1b5a9410536f1
+props: 17 5244 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsTimerDb.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1g.0.r17/5511
+type: file
+pred: 1g.0.r15/24769
+count: 2
+text: 15 2114 19 1889 23a914e2e47d3c082ff7a72153489a5c
+props: 17 5494 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsNotification.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 21.0.r17/5766
+type: file
+pred: 21.0.r15/25010
+count: 2
+text: 15 3269 19 2999 f2c50dadb15f79ab0e2085f2f97ef75f
+props: 17 5749 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsSysLogMsg.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1h.0.r17/6018
+type: file
+pred: 1h.0.r15/25248
+count: 2
+text: 15 2158 19 3830 1cdd34ba2564896aabace3bc217326fc
+props: 17 6001 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsPathBase.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 12.0.r17/6269
+type: file
+pred: 12.0.r15/25485
+count: 2
+text: 15 1349 19 3612 30817c7d270a6397061c8a270e4459cb
+props: 17 6252 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsExcept.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: v.0.r17/6518
+type: file
+pred: v.0.r15/25720
+count: 2
+text: 15 933 19 4926 d3762f80503c07d41fb5f240a36ac688
+props: 17 6501 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsDatagramSocket.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1n.0.r17/6772
+type: file
+pred: 1n.0.r15/25960
+count: 2
+text: 15 2619 19 4133 ac0271ccd4f9a4ef2609eebe77979744
+props: 17 6755 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsQueuedEvent.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 25.0.r17/7026
+type: file
+pred: 25.0.r15/26200
+count: 2
+text: 15 3453 19 3409 fc872a1be721dc9699cf19d96e0fc95f
+props: 17 7009 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsTime.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: o.0.r17/7273
+type: file
+pred: o.0.r15/26433
+count: 2
+text: 15 400 19 1263 98e5f19c61b0db43849eb821f2b681b5
+props: 17 7256 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsAssert.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2a.0.r17/7519
+type: file
+pred: 2a.0.r15/26665
+count: 2
+text: 15 3693 19 3307 41d609eb7989070f35f2f98d43c5d102
+props: 17 7502 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsTimerTask.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2y.0.r17/7771
+type: file
+pred: 2y.0.r15/26903
+count: 2
+text: 15 4840 19 1431 30ab445122cb634befc65cd7747474f7
+props: 17 7754 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/linux/pt_csem.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2w.0.r17/8025
+type: file
+pred: 2w.0.r15/27143
+count: 2
+text: 15 4749 19 2862 b5b1861fb735337eb245c6c39ea1dbab
+props: 17 8008 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/linux/OsUtilLinux.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2t.0.r17/8283
+type: file
+pred: 2t.0.r15/27387
+count: 2
+text: 15 4611 19 3936 eebe97b4cf8b88d5a7565e3af253a44c
+props: 17 8266 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/linux/OsProcessLinux.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2l.0.r17/8544
+type: file
+pred: 2l.0.r15/27634
+count: 2
+text: 15 4014 19 2365 02711e2a3cfba86000777d4d48eb0ec4
+props: 17 8527 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/linux/OsDirLinux.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2o.0.r17/8801
+type: file
+pred: 2o.0.r15/27877
+count: 2
+text: 15 4239 19 2767 e26a8b12d507711190b320a0f6f88adf
+props: 17 8784 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/linux/OsFileLinux.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2p.0.r17/9059
+type: file
+pred: 2p.0.r15/28121
+count: 2
+text: 15 4285 19 1075 099671acecd3fcaf681d390234e8b74e
+props: 17 9042 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/linux/OsLinuxDefs.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2z.0.r17/9317
+type: file
+pred: 2z.0.r15/28365
+count: 2
+text: 15 4885 19 1400 264318f43c76c3bebc0a4cc5f6ece6e8
+props: 17 9300 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/linux/pt_mutex.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2i.0.r17/9572
+type: file
+pred: 2i.0.r15/28606
+count: 2
+text: 15 3876 19 2491 415ec80662bba333fd95f8380e6d91c0
+props: 17 9555 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/linux/OsBSemLinux.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2j.0.r17/9830
+type: file
+pred: 2j.0.r15/28850
+count: 2
+text: 15 3922 19 2709 76038c51aa690a470a1872c62e1118e0
+props: 17 9813 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/linux/OsCSemLinux.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2s.0.r17/10088
+type: file
+pred: 2s.0.r15/29094
+count: 3
+text: 15 4421 164 2573 e9af717b5d6f5e0595acb154dca12f77
+props: 17 10071 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/linux/OsProcessIteratorLinux.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2n.0.r17/10360
+type: file
+pred: 2n.0.r15/29349
+count: 3
+text: 15 4105 107 2415 8042a8ba6437a1fa2816a9bf90d8dce4
+props: 17 10343 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/linux/OsFileIteratorLinux.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2m.0.r17/10629
+type: file
+pred: 2m.0.r15/29601
+count: 2
+text: 15 4060 19 2144 9fbff7d2de73260c6bc1f297e24c36f5
+props: 17 10612 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/linux/OsFileInfoLinux.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2r.0.r17/10893
+type: file
+pred: 2r.0.r15/29849
+count: 2
+text: 15 4376 19 2186 51711a38c2ba1fd5a2060b295ae319c0
+props: 17 10876 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/linux/OsPathLinux.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2k.0.r17/11153
+type: file
+pred: 2k.0.r15/30093
+count: 2
+text: 15 3968 19 3463 2a8377d0e8189aa9af9c6623bff4aca5
+props: 17 11136 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/linux/OsDateTimeLinux.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2x.0.r17/11417
+type: file
+pred: 2x.0.r15/30341
+count: 2
+text: 15 4795 19 595 cbd275c0944281f009a02cda786f0636
+props: 17 11400 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/linux/host_address.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2v.0.r17/11677
+type: file
+pred: 2v.0.r15/30585
+count: 2
+text: 15 4703 19 11905 56123f00d2f4d91a6707a189578a9c95
+props: 17 11660 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/linux/OsTaskLinux.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2q.0.r17/11938
+type: file
+pred: 2q.0.r15/30830
+count: 2
+text: 15 4330 19 2927 f4425359fc886eac32af9a71230ab11d
+props: 17 11921 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/linux/OsMutexLinux.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2u.0.r17/12199
+type: file
+pred: 2u.0.r15/31075
+count: 2
+text: 15 4657 19 2673 9524bf4640501ce4c7859ea354cf3384
+props: 17 12182 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/linux/OsSharedLibMgrLinux.h
+copyroot: 0 /
+
+PLAIN
+K 13
+OsBSemLinux.h
+V 18
+file 2i.0.r17/9572
+K 13
+OsCSemLinux.h
+V 18
+file 2j.0.r17/9830
+K 17
+OsDateTimeLinux.h
+V 19
+file 2k.0.r17/11153
+K 12
+OsDirLinux.h
+V 18
+file 2l.0.r17/8544
+K 17
+OsFileInfoLinux.h
+V 19
+file 2m.0.r17/10629
+K 21
+OsFileIteratorLinux.h
+V 19
+file 2n.0.r17/10360
+K 13
+OsFileLinux.h
+V 18
+file 2o.0.r17/8801
+K 13
+OsLinuxDefs.h
+V 18
+file 2p.0.r17/9059
+K 14
+OsMutexLinux.h
+V 19
+file 2q.0.r17/11938
+K 13
+OsPathLinux.h
+V 19
+file 2r.0.r17/10893
+K 24
+OsProcessIteratorLinux.h
+V 19
+file 2s.0.r17/10088
+K 16
+OsProcessLinux.h
+V 18
+file 2t.0.r17/8283
+K 21
+OsSharedLibMgrLinux.h
+V 19
+file 2u.0.r17/12199
+K 13
+OsTaskLinux.h
+V 19
+file 2v.0.r17/11677
+K 13
+OsUtilLinux.h
+V 18
+file 2w.0.r17/8025
+K 14
+host_address.h
+V 19
+file 2x.0.r17/11417
+K 9
+pt_csem.h
+V 18
+file 2y.0.r17/7771
+K 10
+pt_mutex.h
+V 18
+file 2z.0.r17/9317
+END
+ENDREP
+id: 2h.0.r17/13281
+type: dir
+pred: 2h.0.r15/32167
+count: 3
+text: 17 12450 818 818 fdc470eabaae973566b54b0f7a86bd6b
+cpath: /old/sipXportLib/main/include/os/linux
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2b.0.r17/13474
+type: file
+pred: 2b.0.r15/32342
+count: 2
+text: 15 3739 19 1431 b3d28baf75a5e92f3fb2f8804cd5e2cb
+props: 17 13457 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsTokenizer.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: s.0.r17/13728
+type: file
+pred: s.0.r15/32580
+count: 3
+text: 15 579 238 7617 e713f87b7ae63df5511c6b2b8ef76d97
+props: 17 13711 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsConfigDb.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2g.0.r17/13979
+type: file
+pred: 2g.0.r3/569168
+count: 1
+text: 3 144958 489 646 689430ea124811314e1dde84322c56e8
+props: 17 13962 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/istream
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 23.0.r17/14228
+type: file
+pred: 23.0.r15/32814
+count: 2
+text: 15 3361 19 2770 bed5ade49c77ecf501ee29b46ef80608
+props: 17 14211 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsSysTimer.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1t.0.r17/14481
+type: file
+pred: 1t.0.r15/33051
+count: 2
+text: 15 2889 19 3257 5bf813bd2eff7382f5789c6e26e4195c
+props: 17 14464 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsServerSocket.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 27.0.r17/14738
+type: file
+pred: 27.0.r15/33292
+count: 2
+text: 15 3546 19 6493 24c2549a20af9c548ab8102835598f8d
+props: 17 14721 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsTimer.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 30.0.r17/14988
+type: file
+pred: 30.0.r3/570206
+count: 1
+text: 3 167113 465 613 6cd5e9127b249f1a603df3fd438825d3
+props: 17 14971 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/ostream
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: p.0.r17/15237
+type: file
+pred: p.0.r15/33526
+count: 2
+text: 15 444 19 3764 7b56c4cd216bc5577a24f3eaf0e07b5f
+props: 17 15220 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsBSem.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 15.0.r17/15483
+type: file
+pred: 15.0.r15/33756
+count: 2
+text: 15 1483 19 2730 0cb646e2480ca79c8d0246f18a26ed61
+props: 17 15466 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsFileInfoBase.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1a.0.r17/15740
+type: file
+pred: 1a.0.r15/33997
+count: 2
+text: 15 1834 20 4930 966cc125f03879ff2f33f7b7db69295e
+props: 17 15723 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsMsg.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1f.0.r17/15988
+type: file
+pred: 1f.0.r15/34229
+count: 3
+text: 15 2060 28 4105 bf5a6fb6e5af3ed9c63478538994a64a
+props: 17 15971 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsNameDb.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1r.0.r17/16239
+type: file
+pred: 1r.0.r15/34463
+count: 2
+text: 15 2799 19 5503 3b15d213e45224e620cff770ec2919de
+props: 17 16222 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsSSLConnectionSocket.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1q.0.r17/16503
+type: file
+pred: 1q.0.r15/34711
+count: 2
+text: 15 2754 19 3051 674ea2c0ac171042da168de6b444ed66
+props: 17 16486 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsRpcMsg.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: y.0.r17/16754
+type: file
+pred: y.0.r15/34946
+count: 2
+text: 15 1169 19 3224 ac75663c3d4e83bf7a9cc6013f28c4db
+props: 17 16737 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsDirBase.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1o.0.r17/17004
+type: file
+pred: 1o.0.r15/35180
+count: 2
+text: 15 2664 19 5918 89f34896a6464c40c38a5d7bcbb6abad
+props: 17 16987 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsRWMutex.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1i.0.r17/17256
+type: file
+pred: 1i.0.r15/35416
+count: 2
+text: 15 2203 19 8310 751dbd45f075eaa2a6f082d771d39fa6
+props: 17 17239 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsProcess.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 33.0.r17/17508
+type: file
+pred: 33.0.r15/35652
+count: 2
+text: 15 4976 19 5117 7a7fa6ed786a2365b04e4f597327bd09
+props: 17 17491 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/shared/OsSysSoftTimer.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 32.0.r17/17772
+type: file
+pred: 32.0.r15/35900
+count: 2
+text: 15 4930 19 5775 97074999a4e6f1183d7c88327eac242e
+props: 17 17755 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/shared/OsMsgQShared.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 34.0.r17/18034
+type: file
+pred: 34.0.r15/36146
+count: 2
+text: 15 5022 19 3179 74bee04568f4f681cebf65c30dd26dd8
+props: 17 18017 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/shared/OsTimerMessage.h
+copyroot: 0 /
+
+PLAIN
+K 14
+OsMsgQShared.h
+V 19
+file 32.0.r17/17772
+K 16
+OsSysSoftTimer.h
+V 19
+file 33.0.r17/17508
+K 16
+OsTimerMessage.h
+V 19
+file 34.0.r17/18034
+END
+ENDREP
+id: 31.0.r17/18437
+type: dir
+pred: 31.0.r15/36550
+count: 2
+text: 17 18281 143 143 e89a37fb755f167b2ee6e3d09a46f2b7
+cpath: /old/sipXportLib/main/include/os/shared
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 3j.0.r17/18631
+type: file
+pred: 3j.0.r15/36727
+count: 2
+text: 15 5807 20 11906 17ca29d3df2c55c6d7805a1af0f87d74
+props: 17 18614 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/wnt/OsTaskWnt.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 3e.0.r17/18888
+type: file
+pred: 3e.0.r15/36968
+count: 2
+text: 15 5567 19 2884 d41a32f85ad4cb6d95ce71403062055f
+props: 17 18871 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/wnt/OsMutexWnt.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 3i.0.r17/19145
+type: file
+pred: 3i.0.r15/37209
+count: 2
+text: 15 5761 19 2650 7bdee7f8913ef05ff09e3b2d6b97e457
+props: 17 19128 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/wnt/OsSharedLibMgrWnt.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 3l.0.r17/19409
+type: file
+pred: 3l.0.r15/37457
+count: 3
+text: 15 5900 20 1249 842537c9bb16ad91db4e341c60c56c72
+props: 17 19392 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/wnt/WIndowsAdapterInfo.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 3k.0.r17/19674
+type: file
+pred: 3k.0.r15/37705
+count: 2
+text: 15 5854 19 2832 f2df5c2c898cce61a37d251d2291b272
+props: 17 19657 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/wnt/OsUtilWnt.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 3h.0.r17/19930
+type: file
+pred: 3h.0.r15/37945
+count: 2
+text: 15 5715 19 4027 c1e88cc0fe7c9f339780c3a97df88864
+props: 17 19913 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/wnt/OsProcessWnt.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 39.0.r17/20189
+type: file
+pred: 39.0.r15/38188
+count: 2
+text: 15 5206 19 2351 0d88e84c90f736125ff37df0f30e63fa
+props: 17 20172 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/wnt/OsDirWnt.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 3m.0.r17/20444
+type: file
+pred: 3m.0.r15/38427
+count: 2
+text: 15 5946 19 3526 7713e5930b90a17cc0d112c182f65ecf
+props: 17 20427 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/wnt/getWindowsDNSServers.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 3d.0.r17/20711
+type: file
+pred: 3d.0.r15/38678
+count: 2
+text: 15 5521 19 2716 1530c4a71d1f09cdaf3f53bec3016b5d
+props: 17 20694 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/wnt/OsFileWnt.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 3c.0.r17/20967
+type: file
+pred: 3c.0.r15/38918
+count: 2
+text: 15 5475 19 3689 1c6ab74351a1b9599744fa100f05af8c
+props: 17 20950 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/wnt/OsFileSystemWnt.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 36.0.r17/21229
+type: file
+pred: 36.0.r15/39164
+count: 2
+text: 15 5068 19 2438 8ff00dac3eb8db09dbef97731c87f3de
+props: 17 21212 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/wnt/OsBSemWnt.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 37.0.r17/21485
+type: file
+pred: 37.0.r15/39404
+count: 2
+text: 15 5114 19 2662 3e0f24165978b9d55e9c0949fffc1765
+props: 17 21468 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/wnt/OsCSemWnt.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 3g.0.r17/21741
+type: file
+pred: 3g.0.r15/39644
+count: 3
+text: 15 5658 31 2323 7091e37265b728635154cf5ee21e2288
+props: 17 21724 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/wnt/OsProcessIteratorWnt.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 3b.0.r17/22008
+type: file
+pred: 3b.0.r15/39893
+count: 3
+text: 15 5297 152 2171 ecdeebc820d7fa19ad9778a64535e2df
+props: 17 21991 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/wnt/OsFileIteratorWnt.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 3a.0.r17/22273
+type: file
+pred: 3a.0.r15/40140
+count: 2
+text: 15 5252 19 2118 1118ea003a9576f1e592dae774cb138d
+props: 17 22256 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/wnt/OsFileInfoWnt.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 3f.0.r17/22533
+type: file
+pred: 3f.0.r15/40384
+count: 2
+text: 15 5613 19 2153 130c4640421dfae6440ebeb97f0eb50a
+props: 17 22516 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/wnt/OsPathWnt.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 38.0.r17/22789
+type: file
+pred: 38.0.r15/40624
+count: 2
+text: 15 5160 19 3385 a2ac072482de959c150e886ea8bed5b3
+props: 17 22772 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/wnt/OsDateTimeWnt.h
+copyroot: 0 /
+
+PLAIN
+K 11
+OsBSemWnt.h
+V 19
+file 36.0.r17/21229
+K 11
+OsCSemWnt.h
+V 19
+file 37.0.r17/21485
+K 15
+OsDateTimeWnt.h
+V 19
+file 38.0.r17/22789
+K 10
+OsDirWnt.h
+V 19
+file 39.0.r17/20189
+K 15
+OsFileInfoWnt.h
+V 19
+file 3a.0.r17/22273
+K 19
+OsFileIteratorWnt.h
+V 19
+file 3b.0.r17/22008
+K 17
+OsFileSystemWnt.h
+V 19
+file 3c.0.r17/20967
+K 11
+OsFileWnt.h
+V 19
+file 3d.0.r17/20711
+K 12
+OsMutexWnt.h
+V 19
+file 3e.0.r17/18888
+K 11
+OsPathWnt.h
+V 19
+file 3f.0.r17/22533
+K 22
+OsProcessIteratorWnt.h
+V 19
+file 3g.0.r17/21741
+K 14
+OsProcessWnt.h
+V 19
+file 3h.0.r17/19930
+K 19
+OsSharedLibMgrWnt.h
+V 19
+file 3i.0.r17/19145
+K 11
+OsTaskWnt.h
+V 19
+file 3j.0.r17/18631
+K 11
+OsUtilWnt.h
+V 19
+file 3k.0.r17/19674
+K 20
+WIndowsAdapterInfo.h
+V 19
+file 3l.0.r17/19409
+K 22
+getWindowsDNSServers.h
+V 19
+file 3m.0.r17/20444
+END
+ENDREP
+id: 35.0.r17/23827
+type: dir
+pred: 35.0.r15/41663
+count: 4
+text: 17 23032 782 782 feafeb27afe0dcb4e12ad8a61043c306
+cpath: /old/sipXportLib/main/include/os/wnt
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1l.0.r17/24018
+type: file
+pred: 1l.0.r15/41836
+count: 2
+text: 15 2528 20 2626 0ae444d2705b2d55249ae3f171b199ab
+props: 17 24001 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsProtectEvent.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1x.0.r17/24275
+type: file
+pred: 1x.0.r15/42077
+count: 2
+text: 15 3082 19 7459 9cf0e514947aa97bfe9dad292d3ded56
+props: 17 24258 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsStatus.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 17.0.r17/24526
+type: file
+pred: 17.0.r15/42312
+count: 2
+text: 15 1699 19 3408 b4fee65271beaa966805cb463751bc21
+props: 17 24509 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsFileSystem.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 29.0.r17/24781
+type: file
+pred: 29.0.r15/42551
+count: 2
+text: 15 3647 19 2688 c59d9dd4ffbd61af47b3e2407c9b386d
+props: 17 24764 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsTimerMsg.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: q.0.r17/25034
+type: file
+pred: q.0.r15/42788
+count: 2
+text: 15 489 19 4301 9f9ee4792b9ab4a0d5905937647fe6e8
+props: 17 25017 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsCSem.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1j.0.r17/25280
+type: file
+pred: 1j.0.r15/43018
+count: 3
+text: 15 2248 209 3259 33433b8ca78bcc14c42e468cb5d1eb24
+props: 17 25263 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsProcessIterator.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 18.0.r17/25541
+type: file
+pred: 18.0.r15/43262
+count: 2
+text: 15 1744 19 2916 b3661117486394afb053fcd0139a794e
+props: 17 25524 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsLock.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1u.0.r17/25790
+type: file
+pred: 1u.0.r15/43495
+count: 2
+text: 15 2935 19 3598 d5d1b6f49e676dd27ea346979e022ede
+props: 17 25773 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsServerTask.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: z.0.r17/26045
+type: file
+pred: z.0.r15/43734
+count: 2
+text: 15 1214 19 3754 cc6940ff193cb5ea95062ffb917cb2aa
+props: 17 26028 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsEncryption.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: w.0.r17/26298
+type: file
+pred: w.0.r15/43971
+count: 2
+text: 15 978 19 7683 8922daf81cfe555f9f73b1c8fcdf3344
+props: 17 26281 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsDateTime.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 24.0.r17/26548
+type: file
+pred: 24.0.r15/44205
+count: 2
+text: 15 3407 19 15199 393833c2e4e9d8b76d3374c7e5819b12
+props: 17 26531 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsTask.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2d.0.r17/26798
+type: file
+pred: 2d.0.r15/44439
+count: 2
+text: 15 3830 19 3095 1b0037f1db4deccf6ab1f81b554f7dd8
+props: 17 26781 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsWriteLock.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 22.0.r17/27052
+type: file
+pred: 22.0.r15/44677
+count: 2
+text: 15 3315 19 5519 280f426015e0cbc1c25c2ae5cdcf0e5e
+props: 17 27035 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsSysLogTask.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: n.0.r17/27307
+type: file
+pred: n.0.r15/44916
+count: 2
+text: 15 356 19 2072 2d5730d63bba2246be2d3e7de98eab81
+props: 17 27290 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsAESConfigDb.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1c.0.r17/27560
+type: file
+pred: 1c.0.r15/45153
+count: 2
+text: 15 1925 19 6931 200abafd2dac6007db1cc7593e2ff41c
+props: 17 27543 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsMsgQ.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: u.0.r17/27809
+type: file
+pred: u.0.r15/45386
+count: 2
+text: 15 888 19 3833 9e73d3cc67fd4a6a8c73aff2954ac09b
+props: 17 27792 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsConnectionSocket.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 2e.0.r17/28067
+type: file
+pred: 2e.0.r3/583593
+count: 1
+text: 3 144001 465 613 d6000623ba13737b78a77987a6891d8e
+props: 17 28050 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/fstream
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 20.0.r17/28316
+type: file
+pred: 20.0.r15/45628
+count: 2
+text: 15 3223 19 4501 62a8a8efff688e92a3c82dbc24ca2078
+props: 17 28299 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsSysLogFacilities.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1z.0.r17/28577
+type: file
+pred: 1z.0.r15/45873
+count: 2
+text: 15 3174 22 19657 85910db50ee85013e10d6e8050b0b6e5
+props: 17 28560 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsSysLog.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: t.0.r17/28829
+type: file
+pred: t.0.r15/46109
+count: 2
+text: 15 843 19 2283 196a99c5bd955a54816619aa98218124
+props: 17 28812 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsConfigEncryption.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1b.0.r17/29087
+type: file
+pred: 1b.0.r15/46351
+count: 2
+text: 15 1880 19 6113 0b87a94da7242071c8ce8c1b5a126c2c
+props: 17 29070 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsMsgPool.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 10.0.r17/29339
+type: file
+pred: 10.0.r15/46587
+count: 2
+text: 15 1259 19 5791 6d4e1a07fabb738047b9a0d0ac38a5fa
+props: 17 29322 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsEvent.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: x.0.r17/29589
+type: file
+pred: x.0.r15/46821
+count: 3
+text: 15 1023 121 1706 7dd435bef5835da48a7d5ab94dee661f
+props: 17 29572 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsDefs.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 19.0.r17/29837
+type: file
+pred: 19.0.r15/47052
+count: 2
+text: 15 1789 19 2665 23a13fd202a4eca3fb9e60fefa837c6d
+props: 17 29820 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsLockingList.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1p.0.r17/30093
+type: file
+pred: 1p.0.r15/47292
+count: 2
+text: 15 2709 19 3076 39e84c97dba765810a5aabf8e97eecff
+props: 17 30076 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsReadLock.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 1k.0.r17/30346
+type: file
+pred: 1k.0.r15/47529
+count: 2
+text: 15 2483 19 6548 825bd7cbadfc65c328e588d4e8c39bbe
+props: 17 30329 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/os/OsProcessMgr.h
+copyroot: 0 /
+
+PLAIN
+K 8
+Makefile
+V 17
+file m.0.r17/5016
+K 15
+OsAESConfigDb.h
+V 18
+file n.0.r17/27307
+K 10
+OsAssert.h
+V 17
+file o.0.r17/7273
+K 8
+OsBSem.h
+V 18
+file p.0.r17/15237
+K 8
+OsCSem.h
+V 18
+file q.0.r17/25034
+K 12
+OsCallback.h
+V 17
+file r.0.r17/2245
+K 12
+OsConfigDb.h
+V 18
+file s.0.r17/13728
+K 20
+OsConfigEncryption.h
+V 18
+file t.0.r17/28829
+K 20
+OsConnectionSocket.h
+V 18
+file u.0.r17/27809
+K 18
+OsDatagramSocket.h
+V 17
+file v.0.r17/6518
+K 12
+OsDateTime.h
+V 18
+file w.0.r17/26298
+K 8
+OsDefs.h
+V 18
+file x.0.r17/29589
+K 11
+OsDirBase.h
+V 18
+file y.0.r17/16754
+K 14
+OsEncryption.h
+V 18
+file z.0.r17/26045
+K 9
+OsEvent.h
+V 19
+file 10.0.r17/29339
+K 12
+OsEventMsg.h
+V 18
+file 11.0.r17/1746
+K 10
+OsExcept.h
+V 18
+file 12.0.r17/6269
+K 6
+OsFS.h
+V 18
+file 13.0.r17/3755
+K 12
+OsFileBase.h
+V 18
+file 14.0.r17/4000
+K 16
+OsFileInfoBase.h
+V 19
+file 15.0.r17/15483
+K 20
+OsFileIteratorBase.h
+V 18
+file 16.0.r17/4756
+K 14
+OsFileSystem.h
+V 19
+file 17.0.r17/24526
+K 8
+OsLock.h
+V 19
+file 18.0.r17/25541
+K 15
+OsLockingList.h
+V 19
+file 19.0.r17/29837
+K 7
+OsMsg.h
+V 19
+file 1a.0.r17/15740
+K 11
+OsMsgPool.h
+V 19
+file 1b.0.r17/29087
+K 8
+OsMsgQ.h
+V 19
+file 1c.0.r17/27560
+K 19
+OsMulticastSocket.h
+V 18
+file 1d.0.r17/4498
+K 9
+OsMutex.h
+V 18
+file 1e.0.r17/3001
+K 10
+OsNameDb.h
+V 19
+file 1f.0.r17/15988
+K 16
+OsNotification.h
+V 18
+file 1g.0.r17/5511
+K 12
+OsPathBase.h
+V 18
+file 1h.0.r17/6018
+K 11
+OsProcess.h
+V 19
+file 1i.0.r17/17256
+K 19
+OsProcessIterator.h
+V 19
+file 1j.0.r17/25280
+K 14
+OsProcessMgr.h
+V 19
+file 1k.0.r17/30346
+K 16
+OsProtectEvent.h
+V 19
+file 1l.0.r17/24018
+K 19
+OsProtectEventMgr.h
+V 18
+file 1m.0.r17/1488
+K 15
+OsQueuedEvent.h
+V 18
+file 1n.0.r17/6772
+K 11
+OsRWMutex.h
+V 19
+file 1o.0.r17/17004
+K 12
+OsReadLock.h
+V 19
+file 1p.0.r17/30093
+K 10
+OsRpcMsg.h
+V 19
+file 1q.0.r17/16503
+K 23
+OsSSLConnectionSocket.h
+V 19
+file 1r.0.r17/16239
+K 19
+OsSSLServerSocket.h
+V 18
+file 1s.0.r17/2743
+K 16
+OsServerSocket.h
+V 19
+file 1t.0.r17/14481
+K 14
+OsServerTask.h
+V 19
+file 1u.0.r17/25790
+K 16
+OsSharedLibMgr.h
+V 18
+file 1v.0.r17/3249
+K 10
+OsSocket.h
+V 18
+file 1w.0.r17/1238
+K 10
+OsStatus.h
+V 19
+file 1x.0.r17/24275
+K 12
+OsSyncBase.h
+V 18
+file 1y.0.r17/3504
+K 10
+OsSysLog.h
+V 19
+file 1z.0.r17/28577
+K 20
+OsSysLogFacilities.h
+V 19
+file 20.0.r17/28316
+K 13
+OsSysLogMsg.h
+V 18
+file 21.0.r17/5766
+K 14
+OsSysLogTask.h
+V 19
+file 22.0.r17/27052
+K 12
+OsSysTimer.h
+V 19
+file 23.0.r17/14228
+K 8
+OsTask.h
+V 19
+file 24.0.r17/26548
+K 8
+OsTime.h
+V 18
+file 25.0.r17/7026
+K 11
+OsTimeLog.h
+V 18
+file 26.0.r17/2493
+K 9
+OsTimer.h
+V 19
+file 27.0.r17/14738
+K 11
+OsTimerDb.h
+V 18
+file 28.0.r17/5261
+K 12
+OsTimerMsg.h
+V 19
+file 29.0.r17/24781
+K 13
+OsTimerTask.h
+V 18
+file 2a.0.r17/7519
+K 13
+OsTokenizer.h
+V 19
+file 2b.0.r17/13474
+K 8
+OsUtil.h
+V 18
+file 2c.0.r17/4251
+K 13
+OsWriteLock.h
+V 19
+file 2d.0.r17/26798
+K 7
+fstream
+V 19
+file 2e.0.r17/28067
+K 8
+iostream
+V 18
+file 2f.0.r17/1997
+K 7
+istream
+V 19
+file 2g.0.r17/13979
+K 5
+linux
+V 18
+dir 2h.0.r17/13281
+K 7
+ostream
+V 19
+file 30.0.r17/14988
+K 6
+shared
+V 18
+dir 31.0.r17/18437
+K 3
+wnt
+V 18
+dir 35.0.r17/23827
+END
+ENDREP
+id: l.0.r17/33593
+type: dir
+pred: l.0.r15/50803
+count: 5
+text: 17 30584 2996 2996 bbccbefdaad29f29b45cf14231a8a351
+cpath: /old/sipXportLib/main/include/os
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 42.0.r17/33780
+type: file
+pred: 42.0.r15/50972
+count: 3
+text: 15 8388 28 4227 ac3ccfb4e741940626a93088921dbee8
+props: 17 33763 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/utl/UtlRscStore.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 43.0.r17/34035
+type: file
+pred: 43.0.r15/51211
+count: 2
+text: 15 8443 19 5859 0d9db3ac601662f3feca9fcda460f86b
+props: 17 34018 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/utl/UtlRscTrace.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 46.0.r17/34290
+type: file
+pred: 46.0.r16/538
+count: 10
+text: 16 154 358 12353 4f42ed28c05804e413ffa07181160f5f
+props: 17 34273 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/utl/UtlString.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 3y.2.r17/34543
+type: file
+pred: 3y.2.r15/51687
+count: 6
+text: 15 7552 19 2721 13cfcfe679cfbc1d868a17b3c98b0735
+props: 17 34526 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/utl/UtlHashBagIterator.h
+copyroot: 10 /old/sipXportLib/main/include/utl/UtlHashBagIterator.h
+
+PLAIN
+END
+ENDREP
+id: 45.0.r17/34859
+type: file
+pred: 45.0.r15/51987
+count: 6
+text: 15 8534 19 3011 352b5f513e4bac1a4359035ea3c975ab
+props: 17 34842 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/utl/UtlSListIterator.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 41.0.r17/35119
+type: file
+pred: 41.0.r15/52231
+count: 2
+text: 15 8342 19 4058 cc2e87f46efc80ab86c1198831362793
+props: 17 35102 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/utl/UtlRegex.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 3q.0.r17/35371
+type: file
+pred: 3q.0.r15/52467
+count: 4
+text: 15 6654 19 1672 f00521c775449f24f43aca1f33d00edd
+props: 17 35354 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/utl/UtlDList.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 3o.0.r17/35623
+type: file
+pred: 3o.0.r15/52701
+count: 3
+text: 15 5992 593 3070 ce01048f1ab4f60a5cfe820dbddc31f8
+props: 17 35606 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/utl/UtlContainable.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 3u.3.r17/35882
+type: file
+pred: 3u.3.r15/52942
+count: 6
+text: 15 7595 19 4467 faaaf66b1f5c732703b5c589f92843d0
+props: 17 35865 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/utl/UtlHashMap.h
+copyroot: 10 /old/sipXportLib/main/include/utl/UtlHashMap.h
+
+PLAIN
+END
+ENDREP
+id: 3s.0.r17/36182
+type: file
+pred: 3s.0.r16/774
+count: 3
+text: 16 0 52 740 88ac9c6a959141ed7fe8725f66e7963f
+props: 17 36165 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/utl/UtlDefs.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 3p.0.r17/36427
+type: file
+pred: 3p.0.r15/53459
+count: 4
+text: 15 6612 19 2735 c723b354b1adfd9edb22affb95594ab2
+props: 17 36410 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/utl/UtlContainer.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 47.0.r17/36683
+type: file
+pred: 47.0.r15/53697
+count: 4
+text: 15 10997 19 3005 d4fc3f4fc10af320d4c3f7bf33b61ba5
+props: 17 36666 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/utl/UtlVoidPtr.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 40.0.r17/36938
+type: file
+pred: 40.0.r15/53934
+count: 4
+text: 15 8300 19 2644 02187a75f64635e0cd8b7f9639664b8b
+props: 17 36921 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/utl/UtlIterator.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 3r.0.r17/37193
+type: file
+pred: 3r.0.r15/54171
+count: 4
+text: 15 6694 19 1729 74cd745bf601c03cea87875d78828515
+props: 17 37176 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/utl/UtlDListIterator.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 3z.0.r17/37453
+type: file
+pred: 3z.0.r15/54414
+count: 4
+text: 15 8258 19 2863 a59779a047ff0b993c63d6968b2f2e89
+props: 17 37436 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/utl/UtlInt.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 3v.4.r17/37703
+type: file
+pred: 3v.4.r15/54646
+count: 5
+text: 15 7639 592 2804 f5a70138a7fa43326b54ad9329616b3c
+props: 17 37686 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/utl/UtlHashMapIterator.h
+copyroot: 10 /old/sipXportLib/main/include/utl/UtlHashMapIterator.h
+
+PLAIN
+END
+ENDREP
+id: 3x.1.r17/38020
+type: file
+pred: 3x.1.r15/54947
+count: 5
+text: 15 6782 743 3380 696710627c3125a32b11e60a10c1f52e
+props: 17 38003 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/utl/UtlHashBag.h
+copyroot: 10 /old/sipXportLib/main/include/utl/UtlHashBag.h
+
+PLAIN
+END
+ENDREP
+id: 44.0.r17/38321
+type: file
+pred: 44.0.r16/1003
+count: 7
+text: 16 78 50 5480 e823b08ee9bcccfda26dc449a8574c3a
+props: 17 38304 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/utl/UtlSList.h
+copyroot: 0 /
+
+PLAIN
+K 16
+UtlContainable.h
+V 19
+file 3o.0.r17/35623
+K 14
+UtlContainer.h
+V 19
+file 3p.0.r17/36427
+K 10
+UtlDList.h
+V 19
+file 3q.0.r17/35371
+K 18
+UtlDListIterator.h
+V 19
+file 3r.0.r17/37193
+K 9
+UtlDefs.h
+V 19
+file 3s.0.r17/36182
+K 12
+UtlHashBag.h
+V 19
+file 3x.1.r17/38020
+K 20
+UtlHashBagIterator.h
+V 19
+file 3y.2.r17/34543
+K 12
+UtlHashMap.h
+V 19
+file 3u.3.r17/35882
+K 20
+UtlHashMapIterator.h
+V 19
+file 3v.4.r17/37703
+K 8
+UtlInt.h
+V 19
+file 3z.0.r17/37453
+K 13
+UtlIterator.h
+V 19
+file 40.0.r17/36938
+K 10
+UtlRegex.h
+V 19
+file 41.0.r17/35119
+K 13
+UtlRscStore.h
+V 19
+file 42.0.r17/33780
+K 13
+UtlRscTrace.h
+V 19
+file 43.0.r17/34035
+K 10
+UtlSList.h
+V 19
+file 44.0.r17/38321
+K 18
+UtlSListIterator.h
+V 19
+file 45.0.r17/34859
+K 11
+UtlString.h
+V 19
+file 46.0.r17/34290
+K 12
+UtlVoidPtr.h
+V 19
+file 47.0.r17/36683
+END
+ENDREP
+id: 3n.0.r17/39365
+type: dir
+pred: 3n.0.r16/2043
+count: 13
+text: 17 38553 799 799 34b729d2e9b21e2da57189d86b19ac8f
+cpath: /old/sipXportLib/main/include/utl
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: j.0.r17/39553
+type: file
+pred: j.0.r15/56449
+count: 2
+text: 15 262 22 28364 314dbc96e155295e678edae30fc57734
+props: 17 39536 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/aes/aesopt.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: k.0.r17/39801
+type: file
+pred: k.0.r15/56681
+count: 2
+text: 15 311 19 2814 39d3d2f7ae95af56bb95754e87c9ddd3
+props: 17 39784 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/aes/uitypes.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: i.0.r17/40049
+type: file
+pred: i.0.r15/56913
+count: 2
+text: 15 218 19 1302 77b12eaf2064e4929045530778d15e57
+props: 17 40032 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/aes/aes_helper.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: h.0.r17/40300
+type: file
+pred: h.0.r15/57148
+count: 2
+text: 15 173 19 2913 9d85522392294ac8bd3e28b0b11881be
+props: 17 40283 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/aes/aes.h
+copyroot: 0 /
+
+PLAIN
+K 5
+aes.h
+V 18
+file h.0.r17/40300
+K 12
+aes_helper.h
+V 18
+file i.0.r17/40049
+K 8
+aesopt.h
+V 18
+file j.0.r17/39553
+K 9
+uitypes.h
+V 18
+file k.0.r17/39801
+END
+ENDREP
+id: g.0.r17/40695
+type: dir
+pred: g.0.r15/57544
+count: 2
+text: 17 40527 155 155 22aac8554fc24ab0aba02664a5680afc
+cpath: /old/sipXportLib/main/include/aes
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: f.0.r17/40881
+type: file
+pred: f.0.r15/57713
+count: 3
+text: 15 118 29 2960 890a5d0359e5fe4725bd3e1f0cba5a8d
+props: 17 40864 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/Makefile.am
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4a.0.r17/41127
+type: file
+pred: 4a.0.r15/57941
+count: 2
+text: 15 11085 19 6185 d234e8411ec803e8a8164b56714b8e9b
+props: 17 41110 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/xmlparser/tinystr.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4b.0.r17/41385
+type: file
+pred: 4b.0.r15/58183
+count: 2
+text: 15 11131 22 31800 c31ba6dbd1ad5e7c7817a4ec8e0c0ff9
+props: 17 41368 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/xmlparser/tinyxml.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 49.0.r17/41644
+type: file
+pred: 49.0.r15/58426
+count: 2
+text: 15 11040 19 288 0616b175716ccfd1f5699378e70a59d8
+props: 17 41627 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/include/xmlparser/TiXmlIterator.h
+copyroot: 0 /
+
+PLAIN
+K 15
+TiXmlIterator.h
+V 19
+file 49.0.r17/41644
+K 9
+tinystr.h
+V 19
+file 4a.0.r17/41127
+K 9
+tinyxml.h
+V 19
+file 4b.0.r17/41385
+END
+ENDREP
+id: 48.0.r17/42031
+type: dir
+pred: 48.0.r15/58814
+count: 2
+text: 17 41890 128 128 41b2ccaea27275f9d4d66ff4408b88bd
+cpath: /old/sipXportLib/main/include/xmlparser
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 18
+file f.0.r17/40881
+K 3
+aes
+V 17
+dir g.0.r17/40695
+K 2
+os
+V 17
+dir l.0.r17/33593
+K 3
+utl
+V 18
+dir 3n.0.r17/39365
+K 9
+xmlparser
+V 18
+dir 48.0.r17/42031
+END
+ENDREP
+id: e.0.r17/42397
+type: dir
+pred: e.0.r16/2401
+count: 14
+text: 17 42208 176 176 4ef00de475dbb11e84c087e07ffcc152
+cpath: /old/sipXportLib/main/include
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4c.0.r17/42579
+type: file
+pred: 4c.0.r11/5490
+count: 2
+text: 11 231 237 18407 dc20da7f337619bc8ff29f254c090ee3
+props: 17 42562 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/sipXportLib.dsp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: b.0.r17/42824
+type: file
+pred: b.0.r3/599011
+count: 1
+text: 3 16796 36 24 f1f77fc4c170c29efce0896bc53dd2e4
+props: 17 42807 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/TODO
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 99.0.r17/43054
+type: file
+pred: 99.0.r4/98823
+count: 1
+text: 4 83916 557 722 d69600ffc4dd42fc930f4494b93f97ed
+props: 17 43037 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/config/mkinstalldirs
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 94.0.r17/43303
+type: file
+pred: 94.0.r4/99077
+count: 1
+text: 4 25754 4870 12123 0c452634f378895c5304eca13fa46cf1
+props: 17 43286 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/config/depcomp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 98.0.r17/43549
+type: file
+pred: 98.0.r4/99328
+count: 1
+text: 4 80360 3543 10270 2a8eef1110e32e279e0bbbc228155171
+props: 17 43532 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/config/missing
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 92.0.r17/43795
+type: file
+pred: 92.0.r4/99737
+count: 1
+text: 4 0 14640 39923 e3f0d2802d6bbaab91523569059d4557
+props: 17 43778 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/config/config.guess
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 93.0.r17/44043
+type: file
+pred: 93.0.r4/100148
+count: 1
+text: 4 14653 11088 29708 feb7b5954d15ad5a07bcf89986c23037
+props: 17 44026 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/config/config.sub
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 96.0.r17/44294
+type: file
+pred: 96.0.r4/100565
+count: 1
+text: 4 33898 2602 5598 5afe8eb5573965dfb58378e4e46f3813
+props: 17 44277 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/config/install-sh
+copyroot: 0 /
+
+PLAIN
+K 12
+config.guess
+V 19
+file 92.0.r17/43795
+K 10
+config.sub
+V 19
+file 93.0.r17/44043
+K 7
+depcomp
+V 19
+file 94.0.r17/43303
+K 10
+general.m4
+V 18
+file 95.0.r4/99947
+K 10
+install-sh
+V 19
+file 96.0.r17/44294
+K 9
+ltmain.sh
+V 19
+file 97.0.r4/100362
+K 7
+missing
+V 19
+file 98.0.r17/43549
+K 13
+mkinstalldirs
+V 19
+file 99.0.r17/43054
+K 10
+sipXlib.m4
+V 18
+file 9a.0.r4/99536
+END
+ENDREP
+id: 91.0.r17/44905
+type: dir
+pred: 91.0.r4/101152
+count: 1
+text: 17 44526 366 366 e20f5d9b6d25d4b0859cbefc2da6c703
+cpath: /old/sipXportLib/main/config
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6.0.r17/45088
+type: file
+pred: 6.0.r3/599247
+count: 1
+text: 3 276 4944 10852 c177a441ba0c98416a6b58e56e70b97c
+props: 17 45071 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/INSTALL
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5.0.r17/45324
+type: file
+pred: 5.0.r3/599489
+count: 1
+text: 3 259 4 0 d41d8cd98f00b204e9800998ecf8427e
+props: 17 45307 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/ChangeLog
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: c.0.r17/45555
+type: file
+pred: c.0.r3/599726
+count: 1
+text: 3 16845 57 66 810e38700eec3515ca5d0ade8bb3affd
+props: 17 45538 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/acsite.m4
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 7x.0.r17/45790
+type: file
+pred: 7x.0.r15/59345
+count: 2
+text: 15 17520 19 1984 f771ba448877e5d1a9cfcdc71d844b4f
+props: 17 45773 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/os/OsPathTest.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 7m.0.r17/46047
+type: file
+pred: 7m.0.r15/59586
+count: 2
+text: 15 17020 19 1170 74e6965616c5a3d7f3dde28a5f46f808
+props: 17 46030 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/os/OsCallbackTest.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 83.0.r17/46308
+type: file
+pred: 83.0.r15/59831
+count: 2
+text: 15 17793 19 4912 1c3c433c4a360c337f1770af5454dc83
+props: 17 46291 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/os/OsTimeTest.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 7v.0.r17/46565
+type: file
+pred: 7v.0.r15/60072
+count: 2
+text: 15 17430 19 1272 5ccbbc92c51d045fef72702c7ddd115d
+props: 17 46548 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/os/OsMutexTest.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 84.0.r17/46823
+type: file
+pred: 84.0.r15/60314
+count: 2
+text: 15 17839 19 1030 389bc5fe891d3210ea3ab81aae19890e
+props: 17 46806 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/os/OsTimerTaskTest.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 7u.0.r17/47085
+type: file
+pred: 7u.0.r15/60560
+count: 2
+text: 15 17384 19 3246 4cafac9dec180f0e1d3f13dad35c8a8b
+props: 17 47068 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/os/OsMsgQTest.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 7n.0.r17/47342
+type: file
+pred: 7n.0.r15/60801
+count: 2
+text: 15 17065 19 8833 6be01fd7c430110d162ed6393968a449
+props: 17 47325 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/os/OsConfigDbTest.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 80.0.r17/47603
+type: file
+pred: 80.0.r15/61046
+count: 2
+text: 15 17656 19 2483 cfcf6b34ed5218d447e22781bb061556
+props: 17 47586 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/os/OsProcessTest.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 7o.0.r17/47863
+type: file
+pred: 7o.0.r15/61290
+count: 2
+text: 15 17111 19 2831 f0ee3a27dd26ed1004e7f72940940d9d
+props: 17 47846 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/os/OsDirTest.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 7s.0.r17/48119
+type: file
+pred: 7s.0.r15/61530
+count: 2
+text: 15 17293 19 6673 ec24de9b6cce48f582a664de2848190c
+props: 17 48102 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/os/OsFileTest.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 85.0.r17/48376
+type: file
+pred: 85.0.r15/61771
+count: 2
+text: 15 17884 19 6471 f6e6efe8b525be3e406b33d80652d33d
+props: 17 48359 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/os/OsTimerTest.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 7p.0.r17/48634
+type: file
+pred: 7p.0.r15/62013
+count: 2
+text: 15 17157 19 1357 598fbf4e8b47ebe856bc84ed3237dd0b
+props: 17 48617 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/os/OsEventTest.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 81.0.r17/48892
+type: file
+pred: 81.0.r15/62255
+count: 2
+text: 15 17702 19 1668 4f131cb9bf75d8d4ba04af8630614565
+props: 17 48875 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/os/OsSemTest.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 7z.0.r17/49148
+type: file
+pred: 7z.0.r15/62495
+count: 2
+text: 15 17610 19 2712 3a895b75fe67839714b3335a4d06ff6a
+props: 17 49131 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/os/OsProcessMgrTest.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 7r.0.r17/49411
+type: file
+pred: 7r.0.r15/62742
+count: 2
+text: 15 17247 19 5323 067635fba3e4b10320877640acd48815
+props: 17 49394 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/os/OsFileSystemTest.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 7w.0.r17/49674
+type: file
+pred: 7w.0.r15/62989
+count: 2
+text: 15 17475 19 1843 4a6f02aca12e6302adec1f52252d7eb7
+props: 17 49657 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/os/OsNameDbTest.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 7y.0.r17/49933
+type: file
+pred: 7y.0.r15/63232
+count: 2
+text: 15 17565 19 1496 017bddbce3ea9f1b7fdb325f24990c2f
+props: 17 49916 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/os/OsProcessIteratorTest.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 7t.0.r17/50201
+type: file
+pred: 7t.0.r15/63484
+count: 2
+text: 15 17339 19 2030 3c902faf119a37c60c914f51457ebf99
+props: 17 50184 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/os/OsLockTest.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 82.0.r17/50458
+type: file
+pred: 82.0.r15/63725
+count: 2
+text: 15 17747 19 3116 130b664a360844647c9014f7667c84a4
+props: 17 50441 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/os/OsSocketTest.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 7q.0.r17/50717
+type: file
+pred: 7q.0.r15/63968
+count: 2
+text: 15 17202 19 1653 d471dd8c895485e11fc8f74741365220
+props: 17 50700 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/os/OsFileIteratorTest.cpp
+copyroot: 0 /
+
+PLAIN
+K 18
+OsCallbackTest.cpp
+V 19
+file 7m.0.r17/46047
+K 18
+OsConfigDbTest.cpp
+V 19
+file 7n.0.r17/47342
+K 13
+OsDirTest.cpp
+V 19
+file 7o.0.r17/47863
+K 15
+OsEventTest.cpp
+V 19
+file 7p.0.r17/48634
+K 22
+OsFileIteratorTest.cpp
+V 19
+file 7q.0.r17/50717
+K 20
+OsFileSystemTest.cpp
+V 19
+file 7r.0.r17/49411
+K 14
+OsFileTest.cpp
+V 19
+file 7s.0.r17/48119
+K 14
+OsLockTest.cpp
+V 19
+file 7t.0.r17/50201
+K 14
+OsMsgQTest.cpp
+V 19
+file 7u.0.r17/47085
+K 15
+OsMutexTest.cpp
+V 19
+file 7v.0.r17/46565
+K 16
+OsNameDbTest.cpp
+V 19
+file 7w.0.r17/49674
+K 14
+OsPathTest.cpp
+V 19
+file 7x.0.r17/45790
+K 25
+OsProcessIteratorTest.cpp
+V 19
+file 7y.0.r17/49933
+K 20
+OsProcessMgrTest.cpp
+V 19
+file 7z.0.r17/49148
+K 17
+OsProcessTest.cpp
+V 19
+file 80.0.r17/47603
+K 13
+OsSemTest.cpp
+V 19
+file 81.0.r17/48892
+K 16
+OsSocketTest.cpp
+V 19
+file 82.0.r17/50458
+K 14
+OsTimeTest.cpp
+V 19
+file 83.0.r17/46308
+K 19
+OsTimerTaskTest.cpp
+V 19
+file 84.0.r17/46823
+K 15
+OsTimerTest.cpp
+V 19
+file 85.0.r17/48376
+END
+ENDREP
+id: 7l.0.r17/51934
+type: dir
+pred: 7l.0.r15/65186
+count: 2
+text: 17 50965 956 956 7d5c2b52b56be3f44e31e53ac92dd1a8
+cpath: /old/sipXportLib/main/src/test/os
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 7j.0.r17/52122
+type: file
+pred: 7j.0.r15/65357
+count: 2
+text: 15 16930 19 1984 8cbba57f3583340f82a253bc371189bb
+props: 17 52105 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/TestSupport.h
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 88.0.r17/52375
+type: file
+pred: 88.0.r15/65594
+count: 2
+text: 15 17975 40 120785 31e1425892a720b9b0e07bad456a4cf6
+props: 17 52358 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/utl/UtlRegex.cpp
+copyroot: 0 /
+
+PLAIN
+K 12
+UtlRegex.cpp
+V 19
+file 88.0.r17/52375
+END
+ENDREP
+id: 87.0.r17/52676
+type: dir
+pred: 87.0.r15/65896
+count: 2
+text: 17 52616 47 47 e6c0fb158d33f4f851b48c5146769a14
+cpath: /old/sipXportLib/main/src/test/utl
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 86.0.r17/52863
+type: file
+pred: 86.0.r15/66066
+count: 2
+text: 15 17930 19 933 d74c1b62d5bd38978dcc03efd20ace46
+props: 17 52846 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/unitmain.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 7h.0.r17/53114
+type: file
+pred: 7h.0.r15/66301
+count: 2
+text: 15 16839 19 1263 dcf436f9c467c19aff0fccf04b610213
+props: 17 53097 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/Makefile.am
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 7k.0.r17/53365
+type: file
+pred: 7k.0.r15/66536
+count: 2
+text: 15 16975 19 981 c5a06de87d10ec8bbd3a2da675e19fe6
+props: 17 53348 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/TestTemplate.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 7i.0.r17/53620
+type: file
+pred: 7i.0.r15/66775
+count: 2
+text: 15 16884 19 4074 f69778ee7f1694895d464253a15fb25a
+props: 17 53603 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/test/TestSupport.cpp
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 19
+file 7h.0.r17/53114
+K 15
+TestSupport.cpp
+V 19
+file 7i.0.r17/53620
+K 13
+TestSupport.h
+V 19
+file 7j.0.r17/52122
+K 16
+TestTemplate.cpp
+V 19
+file 7k.0.r17/53365
+K 2
+os
+V 18
+dir 7l.0.r17/51934
+K 12
+unitmain.cpp
+V 19
+file 86.0.r17/52863
+K 3
+utl
+V 18
+dir 87.0.r17/52676
+END
+ENDREP
+id: 7g.0.r17/54160
+type: dir
+pred: 7g.0.r15/67316
+count: 2
+text: 17 53858 289 289 4bf607f6b5eaed68f86afb786f30de3f
+cpath: /old/sipXportLib/main/src/test
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4u.0.r17/54345
+type: file
+pred: 4u.0.r15/67484
+count: 2
+text: 15 12869 22 16485 310080f5a03efc715802352d8338a138
+props: 17 54328 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsDateTime.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5v.0.r17/54598
+type: file
+pred: 5v.0.r15/67721
+count: 2
+text: 15 14682 19 6573 01dcbdffe8a2478b97186c3aa73418ac
+props: 17 54581 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsTime.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5u.0.r17/54846
+type: file
+pred: 5u.0.r15/67953
+count: 2
+text: 15 14636 19 6894 9aaa80ee8bd4d79e75113436c633b71d
+props: 17 54829 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsTask.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 76.0.r17/55094
+type: file
+pred: 76.0.r15/68185
+count: 2
+text: 15 16559 19 5996 b171de13b9b62b97ff3b6365df7b882d
+props: 17 55077 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/osPrintf.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5s.0.r17/55344
+type: file
+pred: 5s.0.r15/68419
+count: 2
+text: 15 14542 22 21143 871d8cf5916caa7788c45720257c54cc
+props: 17 55327 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsSysLogTask.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 60.0.r17/55599
+type: file
+pred: 60.0.r15/68658
+count: 2
+text: 15 14930 19 5728 d02a52ef09335e2b17f5c0911be54a5f
+props: 17 55582 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsTimerTask.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4n.0.r17/55852
+type: file
+pred: 4n.0.r15/68895
+count: 3
+text: 15 12012 124 5462 5fb4cefde389d98906e500e071ce8b68
+props: 17 55835 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsAESConfigDb.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 57.0.r17/56108
+type: file
+pred: 57.0.r15/69135
+count: 2
+text: 15 13571 19 3849 06aabebf1a15ed7236a55d85dfb5eebd
+props: 17 56091 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsMsgQ.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4s.0.r17/56356
+type: file
+pred: 4s.0.r15/69367
+count: 2
+text: 15 12774 19 8169 ad973a78f366b62bc86c8299d5a2f61c
+props: 17 56339 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsConnectionSocket.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5b.0.r17/56616
+type: file
+pred: 5b.0.r15/69611
+count: 2
+text: 15 13755 19 3645 c764a584e6986a89e0e693cc2bce93c0
+props: 17 56599 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsProcessBase.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 61.0.r17/56871
+type: file
+pred: 61.0.r15/69850
+count: 2
+text: 15 14976 19 2549 59e1c1bf5efc9be4951351888795e4aa
+props: 17 56854 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsTokenizer.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4r.0.r17/57124
+type: file
+pred: 4r.0.r15/70087
+count: 3
+text: 15 12254 493 22886 817e80ecfb2d3311fdf1fe991c7dc799
+props: 17 57107 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsConfigDb.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5q.0.r17/57378
+type: file
+pred: 5q.0.r15/70325
+count: 2
+text: 15 14452 19 1937 c05d508693042293742ae3376d79e77a
+props: 17 57361 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsSysLogFacilities.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5l.0.r17/57638
+type: file
+pred: 5l.0.r15/70569
+count: 2
+text: 15 14217 19 6153 6d47e75f69c7a66d0f2169e920ecb6ab
+props: 17 57621 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsServerSocket.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5t.0.r17/57894
+type: file
+pred: 5t.0.r15/70809
+count: 2
+text: 15 14591 19 1329 a6037b1e4b3acb7d52a773ac92156745
+props: 17 57877 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsSysTimer.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 56.0.r17/58146
+type: file
+pred: 56.0.r15/71045
+count: 2
+text: 15 13525 19 5083 e5e75623ee0ce113c39395c7468ee37d
+props: 17 58129 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsMsgPool.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5p.0.r17/58397
+type: file
+pred: 5p.0.r15/71280
+count: 2
+text: 15 14403 22 27530 58419b98c88ba7070a644a4a56e9a0e9
+props: 17 58380 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsSysLog.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5x.0.r17/58648
+type: file
+pred: 5x.0.r15/71515
+count: 2
+text: 15 14774 19 6185 c09fa01455b66fa9ce0f7a8f7035369a
+props: 17 58631 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsTimer.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4x.0.r17/58897
+type: file
+pred: 4x.0.r15/71748
+count: 2
+text: 15 13010 19 5093 bdfd908db43832c8c7ce83d4600467fd
+props: 17 58880 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsEvent.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 54.0.r17/59146
+type: file
+pred: 54.0.r15/71981
+count: 2
+text: 15 13433 19 3854 350da43bc4093bc0bd1ded2e3086b872
+props: 17 59129 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsLockingList.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4p.0.r17/59401
+type: file
+pred: 4p.0.r15/72220
+count: 2
+text: 15 12163 19 4254 dbb32f16d0fe3e9f8c31797441734478
+props: 17 59384 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsCSemBase.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5c.0.r17/59653
+type: file
+pred: 5c.0.r15/72456
+count: 2
+text: 15 13801 19 1397 ac9b21f2e5f4a898901f71a9ebd26dbb
+props: 17 59636 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsProcessIteratorBase.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 78.0.r17/59916
+type: file
+pred: 78.0.r15/72703
+count: 2
+text: 15 16605 19 13472 954b59a951f18ee42fb183e22cf59d11
+props: 17 59899 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/shared/OsMsgQShared.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 7a.0.r17/60178
+type: file
+pred: 7a.0.r15/72949
+count: 2
+text: 15 16697 20 3074 d36cc2e61356bedcb0d5f7d080c27a82
+props: 17 60161 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/shared/OsTimerMessage.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 79.0.r17/60441
+type: file
+pred: 79.0.r15/73196
+count: 2
+text: 15 16651 19 15371 e9db06487d02c5d0b23c110937658d4f
+props: 17 60424 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/shared/OsSysSoftTimer.cpp
+copyroot: 0 /
+
+PLAIN
+K 16
+OsMsgQShared.cpp
+V 19
+file 78.0.r17/59916
+K 18
+OsSysSoftTimer.cpp
+V 19
+file 79.0.r17/60441
+K 18
+OsTimerMessage.cpp
+V 19
+file 7a.0.r17/60178
+END
+ENDREP
+id: 77.0.r17/60850
+type: dir
+pred: 77.0.r15/73606
+count: 2
+text: 17 60688 149 149 c7bab26aba0ccb0a8d5d11c03230b301
+cpath: /old/sipXportLib/main/src/os/shared
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5d.0.r17/61040
+type: file
+pred: 5d.0.r15/73779
+count: 2
+text: 15 13846 22 21164 a8f859d69ac99fc4967342a411869341
+props: 17 61023 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsProcessMgr.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 59.0.r17/61295
+type: file
+pred: 59.0.r15/74018
+count: 2
+text: 15 13663 19 5596 f9b3606cc0e3794bb3ebf499c354d010
+props: 17 61278 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsNameDb.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 55.0.r17/61545
+type: file
+pred: 55.0.r15/74252
+count: 2
+text: 15 13479 19 3890 aa22442950d4b34c7fe50fa6d925f3c1
+props: 17 61528 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsMsg.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 51.0.r17/61792
+type: file
+pred: 51.0.r15/74483
+count: 2
+text: 15 13197 19 2243 7d525f5da49155c91e1c2f44c8deb9f1
+props: 17 61775 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsFileInfoBase.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5f.0.r17/62048
+type: file
+pred: 5f.0.r15/74723
+count: 2
+text: 15 13941 19 5708 cd817b287c249e5cc72b9a3591a30019
+props: 17 62031 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsProtectEventMgr.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4y.0.r17/62307
+type: file
+pred: 4y.0.r15/74966
+count: 2
+text: 15 13056 19 3405 907b908063a1726289f420e616b12412
+props: 17 62290 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsEventMsg.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5o.0.r17/62559
+type: file
+pred: 5o.0.r15/75202
+count: 2
+text: 15 14354 22 30078 703a99f7cfa60c5082f889a6564fa7ba
+props: 17 62542 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsSocket.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5j.0.r17/62810
+type: file
+pred: 5j.0.r15/75437
+count: 2
+text: 15 14125 19 10368 1c75903512b3cc797061aa7007e3d6fe
+props: 17 62793 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsSSLConnectionSocket.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5i.0.r17/63074
+type: file
+pred: 5i.0.r15/75685
+count: 2
+text: 15 14079 19 2534 d1ebccfda98b2c0f48e571f65a456ee4
+props: 17 63057 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsRpcMsg.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4q.0.r17/63324
+type: file
+pred: 4q.0.r15/75919
+count: 2
+text: 15 12209 19 1874 385f4d8d5e6f1ecc846a29ff60ba89e7
+props: 17 63307 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsCallback.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 7c.0.r17/63576
+type: file
+pred: 7c.0.r15/76155
+count: 2
+text: 15 16744 22 23865 caeb4d2182e41282ec604f7c0965f56b
+props: 17 63559 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/test/main.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 7f.0.r17/63828
+type: file
+pred: 7f.0.r15/76391
+count: 2
+text: 15 16793 19 2704 b23c3775fdb41de9a7a2bf216e2066b0
+props: 17 63811 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/test/sockets/main.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 7e.0.r17/64087
+type: file
+pred: 7e.0.r3/618601
+count: 1
+text: 3 468454 3802 14603 57b2c31d82de2968c135c81934a486c9
+props: 17 64070 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/test/sockets/ipcperf.c
+copyroot: 0 /
+
+PLAIN
+K 9
+ipcperf.c
+V 19
+file 7e.0.r17/64087
+K 8
+main.cpp
+V 19
+file 7f.0.r17/63828
+END
+ENDREP
+id: 7d.0.r17/64427
+type: dir
+pred: 7d.0.r15/76728
+count: 2
+text: 17 64333 81 81 1c8cbb1d820162e4446668090e5b2977
+cpath: /old/sipXportLib/main/src/os/test/sockets
+copyroot: 0 /
+
+PLAIN
+K 8
+main.cpp
+V 19
+file 7c.0.r17/63576
+K 7
+sockets
+V 18
+dir 7d.0.r17/64427
+END
+ENDREP
+id: 7b.0.r17/64695
+type: dir
+pred: 7b.0.r15/76996
+count: 2
+text: 17 64604 78 78 357c1c01a8866af769169c1f8168c8c8
+cpath: /old/sipXportLib/main/src/os/test
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5w.0.r17/64881
+type: file
+pred: 5w.0.r15/77165
+count: 2
+text: 15 14728 19 7431 59e5e3be4f85da33f1855e349f9fb90c
+props: 17 64864 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsTimeLog.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4o.0.r17/65132
+type: file
+pred: 4o.0.r3/619616
+count: 1
+text: 3 252364 2581 6324 3cea5ff72bd29aa0a2ce2dfd371a9abb
+props: 17 65115 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsAssert.c
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5k.0.r17/65382
+type: file
+pred: 5k.0.r15/77400
+count: 2
+text: 15 14171 19 8753 f3b4eaed3cbc38054291927479d21ac0
+props: 17 65365 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsSSLServerSocket.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5n.0.r17/65641
+type: file
+pred: 5n.0.r15/77643
+count: 2
+text: 15 14309 19 2245 6222b4848ed5052f594a47039a8b619a
+props: 17 65624 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsSharedLibMgr.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4v.0.r17/65897
+type: file
+pred: 4v.0.r15/77883
+count: 2
+text: 15 12918 19 3477 908a4984bfc9a80c6ed073e0e6d32c8a
+props: 17 65880 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsDirBase.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 50.0.r17/66148
+type: file
+pred: 50.0.r15/78118
+count: 2
+text: 15 13148 22 22759 acb98d3236e22cb8d2b2c7e71326aa77
+props: 17 66131 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsFileBase.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5h.0.r17/66401
+type: file
+pred: 5h.0.r15/78355
+count: 2
+text: 15 14033 19 12516 cb94e13fd43838bbbf4dcd61167f9743
+props: 17 66384 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsRWMutex.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 71.0.r17/66653
+type: file
+pred: 71.0.r15/78591
+count: 2
+text: 15 16513 19 4598 c946f4d5c0f4252bb4ab6a313697ecd0
+props: 17 66636 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/linux/OsUtilLinux.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6y.0.r17/66912
+type: file
+pred: 6y.0.r15/78834
+count: 2
+text: 15 16372 19 10284 3aca8c5aeb0641fc7f1b52ce925ea243
+props: 17 66895 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/linux/OsProcessLinux.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6r.0.r17/67175
+type: file
+pred: 6r.0.r15/79081
+count: 2
+text: 15 16036 19 2842 8afe354d966cb4e217bff517ab13aeec
+props: 17 67158 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/linux/OsDirLinux.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6u.0.r17/67433
+type: file
+pred: 6u.0.r15/79323
+count: 2
+text: 15 16181 19 4582 14bd5742ac087c4d8d04c422114582b9
+props: 17 67416 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/linux/OsFileLinux.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 75.0.r17/67692
+type: file
+pred: 75.0.r3/622243
+count: 1
+text: 3 448988 969 3184 8178b47e1461bc81ab594395fca962ad
+props: 17 67675 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/linux/pt_mutex.c
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6o.0.r17/67947
+type: file
+pred: 6o.0.r15/79566
+count: 2
+text: 15 15898 19 4066 3e04914ea787da57975645709352c00c
+props: 17 67930 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/linux/OsBSemLinux.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 72.0.r17/68206
+type: file
+pred: 72.0.r3/622769
+count: 1
+text: 3 445841 586 828 c5be14b199382eef3c35bf983ad6cb3d
+props: 17 68189 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/linux/clock_gettime.c
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6p.0.r17/68465
+type: file
+pred: 6p.0.r15/79809
+count: 2
+text: 15 15944 19 3625 f66c9a188e016eaeb329df779fc8f0f0
+props: 17 68448 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/linux/OsCSemLinux.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6x.0.r17/68724
+type: file
+pred: 6x.0.r15/80052
+count: 3
+text: 15 16318 27 4982 095f4b106f70a1127aead289003da68d
+props: 17 68707 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/linux/OsProcessIteratorLinux.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6t.0.r17/68994
+type: file
+pred: 6t.0.r15/80306
+count: 3
+text: 15 16127 27 3523 c8a8ff5a9969c8db717f329b36fd6e27
+props: 17 68977 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/linux/OsFileIteratorLinux.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6s.0.r17/69261
+type: file
+pred: 6s.0.r15/80557
+count: 2
+text: 15 16082 19 1778 7e3e8d086257ee97d66bcda28828f945
+props: 17 69244 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/linux/OsFileInfoLinux.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6w.0.r17/69524
+type: file
+pred: 6w.0.r15/80804
+count: 2
+text: 15 16273 19 1907 bdc123b6457af0a6bb052ce0205bb754
+props: 17 69507 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/linux/OsPathLinux.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6q.0.r17/69783
+type: file
+pred: 6q.0.r15/81047
+count: 2
+text: 15 15990 19 7325 a1ee5eb7bbfeff02a6b0a2052f755257
+props: 17 69766 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/linux/OsDateTimeLinux.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 73.0.r17/70046
+type: file
+pred: 73.0.r3/624654
+count: 1
+text: 3 446440 1475 3440 aaf8d5246f7ac3624d95b8b9f9868501
+props: 17 70029 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/linux/host_address.c
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 70.0.r17/70306
+type: file
+pred: 70.0.r15/81294
+count: 2
+text: 15 16464 22 20798 db417ca5064c13dc0239019265e0669c
+props: 17 70289 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/linux/OsTaskLinux.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6v.0.r17/70566
+type: file
+pred: 6v.0.r15/81538
+count: 2
+text: 15 16227 19 3111 b1f6fe3f42350e6f4b9934bf6fe6a42c
+props: 17 70549 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/linux/OsMutexLinux.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6z.0.r17/70826
+type: file
+pred: 6z.0.r15/81782
+count: 2
+text: 15 16418 19 5376 fc853afbfd652893c91ae1e38e755166
+props: 17 70809 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/linux/OsSharedLibMgrLinux.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 74.0.r17/71093
+type: file
+pred: 74.0.r3/625727
+count: 1
+text: 3 447928 1047 2819 0d3057c1e4f3fa3efafa1ba159b45086
+props: 17 71076 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/linux/pt_csem.c
+copyroot: 0 /
+
+PLAIN
+K 15
+OsBSemLinux.cpp
+V 19
+file 6o.0.r17/67947
+K 15
+OsCSemLinux.cpp
+V 19
+file 6p.0.r17/68465
+K 19
+OsDateTimeLinux.cpp
+V 19
+file 6q.0.r17/69783
+K 14
+OsDirLinux.cpp
+V 19
+file 6r.0.r17/67175
+K 19
+OsFileInfoLinux.cpp
+V 19
+file 6s.0.r17/69261
+K 23
+OsFileIteratorLinux.cpp
+V 19
+file 6t.0.r17/68994
+K 15
+OsFileLinux.cpp
+V 19
+file 6u.0.r17/67433
+K 16
+OsMutexLinux.cpp
+V 19
+file 6v.0.r17/70566
+K 15
+OsPathLinux.cpp
+V 19
+file 6w.0.r17/69524
+K 26
+OsProcessIteratorLinux.cpp
+V 19
+file 6x.0.r17/68724
+K 18
+OsProcessLinux.cpp
+V 19
+file 6y.0.r17/66912
+K 23
+OsSharedLibMgrLinux.cpp
+V 19
+file 6z.0.r17/70826
+K 15
+OsTaskLinux.cpp
+V 19
+file 70.0.r17/70306
+K 15
+OsUtilLinux.cpp
+V 19
+file 71.0.r17/66653
+K 15
+clock_gettime.c
+V 19
+file 72.0.r17/68206
+K 14
+host_address.c
+V 19
+file 73.0.r17/70046
+K 9
+pt_csem.c
+V 19
+file 74.0.r17/71093
+K 10
+pt_mutex.c
+V 19
+file 75.0.r17/67692
+END
+ENDREP
+id: 6n.0.r17/72201
+type: dir
+pred: 6n.0.r15/82903
+count: 3
+text: 17 71331 857 857 afda3e1dd02021c99f2714f9c8eaa846
+cpath: /old/sipXportLib/main/src/os/linux
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 62.0.r17/72390
+type: file
+pred: 62.0.r15/83075
+count: 2
+text: 15 15022 22 17819 6acb3f6e336696b55ec70785163efdf4
+props: 17 72373 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsUtil.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 58.0.r17/72639
+type: file
+pred: 58.0.r15/83308
+count: 2
+text: 15 13617 19 6832 d02cf3a7840fceaf62a30b49205da99c
+props: 17 72622 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsMulticastSocket.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5e.0.r17/72898
+type: file
+pred: 5e.0.r15/83551
+count: 2
+text: 15 13895 19 3055 8396cb6dfa362dcf9ef14bbb47118bfd
+props: 17 72881 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsProtectEvent.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 53.0.r17/73154
+type: file
+pred: 53.0.r15/83791
+count: 3
+text: 15 13315 91 6818 942b5bcc7b70c324095e14a8350d617b
+props: 17 73137 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsFileSystem.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 52.0.r17/73408
+type: file
+pred: 52.0.r15/84029
+count: 3
+text: 15 13242 46 5136 aa1b2e0110e8154d79aa3ce329cce8e0
+props: 17 73391 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsFileIteratorBase.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6g.0.r17/73668
+type: file
+pred: 6g.0.r15/84273
+count: 2
+text: 15 15620 19 6623 50166a60a6b630eac4a985f625a589cb
+props: 17 73651 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/Wnt/OsSharedLibMgrWnt.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6l.0.r17/73931
+type: file
+pred: 6l.0.r15/84520
+count: 3
+text: 15 15851 20 8887 730cd7eb0f8117261f732912b3ca227e
+props: 17 73914 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/Wnt/WindowsAdapterInfo.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6k.0.r17/74195
+type: file
+pred: 6k.0.r15/84768
+count: 2
+text: 15 15805 19 5850 28c077632157c34662233b4ed4fa3e7d
+props: 17 74178 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/Wnt/OsUtilWnt.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6f.0.r17/74450
+type: file
+pred: 6f.0.r15/85007
+count: 2
+text: 15 15574 19 15154 8eca728f69892339255ffddbdc61ab5e
+props: 17 74433 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/Wnt/OsProcessWnt.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 67.0.r17/74709
+type: file
+pred: 67.0.r15/85250
+count: 2
+text: 15 15209 19 2782 c360cd09589e15ed7c5a58c335c7d355
+props: 17 74692 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/Wnt/OsDirWnt.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6m.0.r17/74963
+type: file
+pred: 6m.0.r3/629651
+count: 1
+text: 3 414529 3981 10686 eb5bd41567f4629605367ba3b93735eb
+props: 17 74946 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/Wnt/getWindowsDNSServers.c
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6b.0.r17/75230
+type: file
+pred: 6b.0.r15/85488
+count: 2
+text: 15 15391 19 3118 8867dee6dba763ba8e1580ad9919e7f6
+props: 17 75213 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/Wnt/OsFileWnt.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6h.0.r17/75485
+type: file
+pred: 6h.0.r15/85727
+count: 2
+text: 15 15666 19 409 03afefb152368afd267f9f07ecdf8dcf
+props: 17 75468 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/Wnt/OsSysSoftTimer.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6a.0.r17/75744
+type: file
+pred: 6a.0.r15/85970
+count: 2
+text: 15 15345 19 3102 09ee43b294b83017dc1dfcc25e7edff4
+props: 17 75727 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/Wnt/OsFileSystemWnt.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 64.0.r17/76005
+type: file
+pred: 64.0.r15/86215
+count: 2
+text: 15 15071 19 4874 8c1b7e24ae1de969b2f8037b00d01acc
+props: 17 75988 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/Wnt/OsBSemWnt.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 65.0.r17/76260
+type: file
+pred: 65.0.r15/86454
+count: 2
+text: 15 15117 19 3913 5d37173452b3ba1b3b12109ad4eec0ad
+props: 17 76243 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/Wnt/OsCSemWnt.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6e.0.r17/76515
+type: file
+pred: 6e.0.r15/86693
+count: 2
+text: 15 15528 19 3172 03ac42392f399d1b52d0cf12cc2f40ad
+props: 17 76498 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/Wnt/OsProcessIteratorWnt.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 69.0.r17/76781
+type: file
+pred: 69.0.r15/86943
+count: 2
+text: 15 15300 19 2567 26553f30e40e1a0a3beae2d53997b84e
+props: 17 76764 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/Wnt/OsFileIteratorWnt.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 68.0.r17/77044
+type: file
+pred: 68.0.r15/87190
+count: 2
+text: 15 15255 19 1747 186e77150d1814da1016ecabce40551b
+props: 17 77027 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/Wnt/OsFileInfoWnt.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6j.0.r17/77303
+type: file
+pred: 6j.0.r15/87433
+count: 2
+text: 15 15760 19 409 a1424a6456ce3b4d37f50034024b1839
+props: 17 77286 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/Wnt/OsTimerMessage.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6d.0.r17/77562
+type: file
+pred: 6d.0.r15/87676
+count: 2
+text: 15 15483 19 1884 9d67b57722ce4e9b4e3c21eeea0bd893
+props: 17 77545 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/Wnt/OsPathWnt.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 66.0.r17/77817
+type: file
+pred: 66.0.r15/87915
+count: 2
+text: 15 15163 19 6910 d9e0cba17ea4d7772941e9fc056ed8d3
+props: 17 77800 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/Wnt/OsDateTimeWnt.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6i.0.r17/78076
+type: file
+pred: 6i.0.r15/88158
+count: 2
+text: 15 15711 22 18100 398b5b54d7558bd49d01c507f639ef76
+props: 17 78059 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/Wnt/OsTaskWnt.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 6c.0.r17/78332
+type: file
+pred: 6c.0.r15/88398
+count: 2
+text: 15 15437 19 2433 9b4b3d3ed75e092418871ee3fb49dc69
+props: 17 78315 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/Wnt/OsMutexWnt.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+OsBSemWnt.cpp
+V 19
+file 64.0.r17/76005
+K 13
+OsCSemWnt.cpp
+V 19
+file 65.0.r17/76260
+K 17
+OsDateTimeWnt.cpp
+V 19
+file 66.0.r17/77817
+K 12
+OsDirWnt.cpp
+V 19
+file 67.0.r17/74709
+K 17
+OsFileInfoWnt.cpp
+V 19
+file 68.0.r17/77044
+K 21
+OsFileIteratorWnt.cpp
+V 19
+file 69.0.r17/76781
+K 19
+OsFileSystemWnt.cpp
+V 19
+file 6a.0.r17/75744
+K 13
+OsFileWnt.cpp
+V 19
+file 6b.0.r17/75230
+K 14
+OsMutexWnt.cpp
+V 19
+file 6c.0.r17/78332
+K 13
+OsPathWnt.cpp
+V 19
+file 6d.0.r17/77562
+K 24
+OsProcessIteratorWnt.cpp
+V 19
+file 6e.0.r17/76515
+K 16
+OsProcessWnt.cpp
+V 19
+file 6f.0.r17/74450
+K 21
+OsSharedLibMgrWnt.cpp
+V 19
+file 6g.0.r17/73668
+K 18
+OsSysSoftTimer.cpp
+V 19
+file 6h.0.r17/75485
+K 13
+OsTaskWnt.cpp
+V 19
+file 6i.0.r17/78076
+K 18
+OsTimerMessage.cpp
+V 19
+file 6j.0.r17/77303
+K 13
+OsUtilWnt.cpp
+V 19
+file 6k.0.r17/74195
+K 22
+WindowsAdapterInfo.cpp
+V 19
+file 6l.0.r17/73931
+K 22
+getWindowsDNSServers.c
+V 19
+file 6m.0.r17/74963
+END
+ENDREP
+id: 63.0.r17/79496
+type: dir
+pred: 63.0.r15/89563
+count: 3
+text: 17 78571 912 912 ebe53afaaee2865a5526098345eb83fe
+cpath: /old/sipXportLib/main/src/os/Wnt
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5y.0.r17/79683
+type: file
+pred: 5y.0.r15/89733
+count: 3
+text: 15 14820 37 12189 d02ba3dceba321bf67cbf155a7a047ba
+props: 17 79666 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsTimerDb.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5a.0.r17/79935
+type: file
+pred: 5a.0.r15/89969
+count: 2
+text: 15 13709 19 13078 fa995f50143e1573f7bcefb41e8a0be1
+props: 17 79918 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsPathBase.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5r.0.r17/80188
+type: file
+pred: 5r.0.r15/90206
+count: 2
+text: 15 14497 19 2144 33e1ae63a6ffdcab6993da40db2c606b
+props: 17 80171 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsSysLogMsg.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5z.0.r17/80441
+type: file
+pred: 5z.0.r15/90443
+count: 2
+text: 15 14884 19 2610 14aa9bc51f59a0ebf090b2c03b343d01
+props: 17 80424 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsTimerMsg.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4z.0.r17/80693
+type: file
+pred: 4z.0.r15/90679
+count: 2
+text: 15 13102 19 3172 67642c586d5b81e62bcd12828a9efa63
+props: 17 80676 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsExcept.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4t.0.r17/80943
+type: file
+pred: 4t.0.r15/90913
+count: 2
+text: 15 12820 22 17479 db1efe4dae074231b11e83611b63394e
+props: 17 80926 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsDatagramSocket.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5m.0.r17/81202
+type: file
+pred: 5m.0.r15/91156
+count: 2
+text: 15 14263 19 4813 93e68019bb2184ebe2aea6fdd8eb83ce
+props: 17 81185 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsServerTask.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5g.0.r17/81456
+type: file
+pred: 5g.0.r15/91394
+count: 2
+text: 15 13987 19 2737 4e2ddb4d0af4a57e4c450f3a04da39ee
+props: 17 81439 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsQueuedEvent.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4w.0.r17/81711
+type: file
+pred: 4w.0.r15/91633
+count: 2
+text: 15 12964 19 7948 7eed620a671900707c0be509661f7bbb
+props: 17 81694 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/os/OsEncryption.cpp
+copyroot: 0 /
+
+PLAIN
+K 17
+OsAESConfigDb.cpp
+V 19
+file 4n.0.r17/55852
+K 10
+OsAssert.c
+V 19
+file 4o.0.r17/65132
+K 14
+OsCSemBase.cpp
+V 19
+file 4p.0.r17/59401
+K 14
+OsCallback.cpp
+V 19
+file 4q.0.r17/63324
+K 14
+OsConfigDb.cpp
+V 19
+file 4r.0.r17/57124
+K 22
+OsConnectionSocket.cpp
+V 19
+file 4s.0.r17/56356
+K 20
+OsDatagramSocket.cpp
+V 19
+file 4t.0.r17/80943
+K 14
+OsDateTime.cpp
+V 19
+file 4u.0.r17/54345
+K 13
+OsDirBase.cpp
+V 19
+file 4v.0.r17/65897
+K 16
+OsEncryption.cpp
+V 19
+file 4w.0.r17/81711
+K 11
+OsEvent.cpp
+V 19
+file 4x.0.r17/58897
+K 14
+OsEventMsg.cpp
+V 19
+file 4y.0.r17/62307
+K 12
+OsExcept.cpp
+V 19
+file 4z.0.r17/80693
+K 14
+OsFileBase.cpp
+V 19
+file 50.0.r17/66148
+K 18
+OsFileInfoBase.cpp
+V 19
+file 51.0.r17/61792
+K 22
+OsFileIteratorBase.cpp
+V 19
+file 52.0.r17/73408
+K 16
+OsFileSystem.cpp
+V 19
+file 53.0.r17/73154
+K 17
+OsLockingList.cpp
+V 19
+file 54.0.r17/59146
+K 9
+OsMsg.cpp
+V 19
+file 55.0.r17/61545
+K 13
+OsMsgPool.cpp
+V 19
+file 56.0.r17/58146
+K 10
+OsMsgQ.cpp
+V 19
+file 57.0.r17/56108
+K 21
+OsMulticastSocket.cpp
+V 19
+file 58.0.r17/72639
+K 12
+OsNameDb.cpp
+V 19
+file 59.0.r17/61295
+K 14
+OsPathBase.cpp
+V 19
+file 5a.0.r17/79935
+K 17
+OsProcessBase.cpp
+V 19
+file 5b.0.r17/56616
+K 25
+OsProcessIteratorBase.cpp
+V 19
+file 5c.0.r17/59653
+K 16
+OsProcessMgr.cpp
+V 19
+file 5d.0.r17/61040
+K 18
+OsProtectEvent.cpp
+V 19
+file 5e.0.r17/72898
+K 21
+OsProtectEventMgr.cpp
+V 19
+file 5f.0.r17/62048
+K 17
+OsQueuedEvent.cpp
+V 19
+file 5g.0.r17/81456
+K 13
+OsRWMutex.cpp
+V 19
+file 5h.0.r17/66401
+K 12
+OsRpcMsg.cpp
+V 19
+file 5i.0.r17/63074
+K 25
+OsSSLConnectionSocket.cpp
+V 19
+file 5j.0.r17/62810
+K 21
+OsSSLServerSocket.cpp
+V 19
+file 5k.0.r17/65382
+K 18
+OsServerSocket.cpp
+V 19
+file 5l.0.r17/57638
+K 16
+OsServerTask.cpp
+V 19
+file 5m.0.r17/81202
+K 18
+OsSharedLibMgr.cpp
+V 19
+file 5n.0.r17/65641
+K 12
+OsSocket.cpp
+V 19
+file 5o.0.r17/62559
+K 12
+OsSysLog.cpp
+V 19
+file 5p.0.r17/58397
+K 22
+OsSysLogFacilities.cpp
+V 19
+file 5q.0.r17/57378
+K 15
+OsSysLogMsg.cpp
+V 19
+file 5r.0.r17/80188
+K 16
+OsSysLogTask.cpp
+V 19
+file 5s.0.r17/55344
+K 14
+OsSysTimer.cpp
+V 19
+file 5t.0.r17/57894
+K 10
+OsTask.cpp
+V 19
+file 5u.0.r17/54846
+K 10
+OsTime.cpp
+V 19
+file 5v.0.r17/54598
+K 13
+OsTimeLog.cpp
+V 19
+file 5w.0.r17/64881
+K 11
+OsTimer.cpp
+V 19
+file 5x.0.r17/58648
+K 13
+OsTimerDb.cpp
+V 19
+file 5y.0.r17/79683
+K 14
+OsTimerMsg.cpp
+V 19
+file 5z.0.r17/80441
+K 15
+OsTimerTask.cpp
+V 19
+file 60.0.r17/55599
+K 15
+OsTokenizer.cpp
+V 19
+file 61.0.r17/56871
+K 10
+OsUtil.cpp
+V 19
+file 62.0.r17/72390
+K 3
+Wnt
+V 18
+dir 63.0.r17/79496
+K 5
+linux
+V 18
+dir 6n.0.r17/72201
+K 12
+osPrintf.cpp
+V 19
+file 76.0.r17/55094
+K 6
+shared
+V 18
+dir 77.0.r17/60850
+K 4
+test
+V 18
+dir 7b.0.r17/64695
+END
+ENDREP
+id: 4m.0.r17/84549
+type: dir
+pred: 4m.0.r15/94472
+count: 4
+text: 17 81948 2588 2588 f8f72d3c90cb7b4d5d6048451d2cf8a2
+cpath: /old/sipXportLib/main/src/os
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 8l.0.r17/84734
+type: file
+pred: 8l.0.r15/94640
+count: 2
+text: 15 19553 19 3073 1e77d5c8cfa8e64cb8a1e9d790c4d9cc
+props: 17 84717 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/utl/UtlRegex.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 8c.0.r17/84985
+type: file
+pred: 8c.0.r15/94875
+count: 2
+text: 15 18134 19 406 92e34a973625e8a547fb7e76c9d6a2a9
+props: 17 84968 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/utl/UtlDList.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 8a.0.r17/85235
+type: file
+pred: 8a.0.r15/95109
+count: 3
+text: 15 18043 20 737 cd503e78c510bafdc03f168bcd464478
+props: 17 85218 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/utl/UtlContainable.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 8f.8.r17/85491
+type: file
+pred: 8f.8.r15/95349
+count: 3
+text: 15 18662 312 1411 d3da8ef21bce825acbe1243015738745
+props: 17 85474 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/utl/UtlHashMap.cpp
+copyroot: 10 /old/sipXportLib/main/src/utl/UtlHashMap.cpp
+
+PLAIN
+END
+ENDREP
+id: 8b.0.r17/85789
+type: file
+pred: 8b.0.r15/95631
+count: 2
+text: 15 18089 19 369 1d7dc420c9e7df1beb77215e8ddba7b2
+props: 17 85772 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/utl/UtlContainer.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 8r.0.r17/86043
+type: file
+pred: 8r.0.r15/95869
+count: 3
+text: 15 20155 20 1092 9dedffc4dcce7fc416d53a2380fb171c
+props: 17 86026 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/utl/UtlVoidPtr.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 8d.0.r17/86296
+type: file
+pred: 8d.0.r15/96106
+count: 2
+text: 15 18179 19 456 fa7368b4e4f4fca218dabb07b89dad22
+props: 17 86279 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/utl/UtlDListIterator.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 8k.0.r17/86554
+type: file
+pred: 8k.0.r15/96348
+count: 2
+text: 15 19508 19 1286 49a1c9c3abd781e9fd3399d65a12f51f
+props: 17 86537 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/utl/UtlInt.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 8g.9.r17/86803
+type: file
+pred: 8g.9.r15/96581
+count: 3
+text: 15 19000 482 862 c7f51b5bc2660a7eb89bc569fddcdf96
+props: 17 86786 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/utl/UtlHashMapIterator.cpp
+copyroot: 10 /old/sipXportLib/main/src/utl/UtlHashMapIterator.cpp
+
+PLAIN
+END
+ENDREP
+id: 8i.5.r17/87116
+type: file
+pred: 8i.5.r15/96878
+count: 4
+text: 15 18224 19 1104 9041b78699315b4b6477179d9d00f25b
+props: 17 87099 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/utl/UtlHashBag.cpp
+copyroot: 10 /old/sipXportLib/main/src/utl/UtlHashBag.cpp
+
+PLAIN
+END
+ENDREP
+id: 8o.0.r17/87413
+type: file
+pred: 8o.0.r15/97158
+count: 4
+text: 15 19709 19 6165 d5bbd4899c7f339a437b431336fdcc47
+props: 17 87396 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/utl/UtlSList.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 8m.0.r17/87664
+type: file
+pred: 8m.0.r15/97393
+count: 3
+text: 15 19599 37 6606 2af2159eab1b1d7a2e162c92837fe761
+props: 17 87647 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/utl/UtlRscStore.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 8q.0.r17/87918
+type: file
+pred: 8q.0.r15/97631
+count: 3
+text: 15 19856 272 4532 ac7a2d1d30498e2fd2153fb22a9fde7a
+props: 17 87901 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/utl/UtlString.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 8n.0.r17/88171
+type: file
+pred: 8n.0.r15/97868
+count: 2
+text: 15 19663 19 12906 7d62ad2075d1b8e3b4efdcdf022e30b1
+props: 17 88154 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/utl/UtlRscTrace.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 8j.6.r17/88426
+type: file
+pred: 8j.6.r15/98107
+count: 3
+text: 15 18268 368 747 427533048b1ca756e1b0f5e4dc57ad48
+props: 17 88409 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/utl/UtlHashBagIterator.cpp
+copyroot: 10 /old/sipXportLib/main/src/utl/UtlHashBagIterator.cpp
+
+PLAIN
+END
+ENDREP
+id: 8p.0.r17/88739
+type: file
+pred: 8p.0.r15/98404
+count: 3
+text: 15 19753 76 3570 176859b65a23b01b55b0814b9310e477
+props: 17 88722 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/utl/UtlSListIterator.cpp
+copyroot: 0 /
+
+PLAIN
+K 18
+UtlContainable.cpp
+V 19
+file 8a.0.r17/85235
+K 16
+UtlContainer.cpp
+V 19
+file 8b.0.r17/85789
+K 12
+UtlDList.cpp
+V 19
+file 8c.0.r17/84985
+K 20
+UtlDListIterator.cpp
+V 19
+file 8d.0.r17/86296
+K 14
+UtlHashBag.cpp
+V 19
+file 8i.5.r17/87116
+K 22
+UtlHashBagIterator.cpp
+V 19
+file 8j.6.r17/88426
+K 14
+UtlHashMap.cpp
+V 19
+file 8f.8.r17/85491
+K 22
+UtlHashMapIterator.cpp
+V 19
+file 8g.9.r17/86803
+K 10
+UtlInt.cpp
+V 19
+file 8k.0.r17/86554
+K 12
+UtlRegex.cpp
+V 19
+file 8l.0.r17/84734
+K 15
+UtlRscStore.cpp
+V 19
+file 8m.0.r17/87664
+K 15
+UtlRscTrace.cpp
+V 19
+file 8n.0.r17/88171
+K 12
+UtlSList.cpp
+V 19
+file 8o.0.r17/87413
+K 20
+UtlSListIterator.cpp
+V 19
+file 8p.0.r17/88739
+K 13
+UtlString.cpp
+V 19
+file 8q.0.r17/87918
+K 14
+UtlVoidPtr.cpp
+V 19
+file 8r.0.r17/86043
+END
+ENDREP
+id: 89.0.r17/89743
+type: dir
+pred: 89.0.r15/99409
+count: 7
+text: 17 88981 749 749 b2423a8d498eb55ec02330741056ee00
+cpath: /old/sipXportLib/main/src/utl
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4k.0.r17/89927
+type: file
+pred: 4k.0.r3/645257
+count: 1
+text: 3 244223 5729 17930 17acd1c319ad29403eed397f9a9d2dbe
+props: 17 89910 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/aes/aestab.c
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4j.0.r17/90177
+type: file
+pred: 4j.0.r3/645512
+count: 1
+text: 3 240933 3277 13882 5209a82833d976a024dcb276d80ad039
+props: 17 90160 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/aes/aeskey.c
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4g.0.r17/90427
+type: file
+pred: 4g.0.r3/645767
+count: 1
+text: 3 235441 956 2766 c17310499909b20b45faa3ecf36d622c
+props: 17 90410 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/aes/aes_helper.c
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4h.0.r17/90679
+type: file
+pred: 4h.0.r3/646024
+count: 1
+text: 3 236410 947 2160 5e4013973ee6808ebbce6415d38d8ecd
+props: 17 90662 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/aes/aes_test.c
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4l.0.r17/90929
+type: file
+pred: 4l.0.r15/99575
+count: 2
+text: 15 11967 19 1058 45cb630241f13a4247cbfff734126689
+props: 17 90912 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/aes/aestest.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4i.0.r17/91179
+type: file
+pred: 4i.0.r3/646535
+count: 1
+text: 3 237370 3550 13751 05dd2f59f46ff4043b93a3a3dc58fdad
+props: 17 91162 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/aes/aescrypt.c
+copyroot: 0 /
+
+PLAIN
+K 12
+aes_helper.c
+V 19
+file 4g.0.r17/90427
+K 10
+aes_test.c
+V 19
+file 4h.0.r17/90679
+K 10
+aescrypt.c
+V 19
+file 4i.0.r17/91179
+K 8
+aeskey.c
+V 19
+file 4j.0.r17/90177
+K 8
+aestab.c
+V 19
+file 4k.0.r17/89927
+K 11
+aestest.cpp
+V 19
+file 4l.0.r17/90929
+END
+ENDREP
+id: 4f.0.r17/91674
+type: dir
+pred: 4f.0.r15/100069
+count: 2
+text: 17 91414 247 247 c520e1b2e463eaa155a274afce7046e6
+cpath: /old/sipXportLib/main/src/aes
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4e.0.r17/91859
+type: file
+pred: 4e.0.r15/100237
+count: 5
+text: 15 11181 760 2898 f7728ca247d99f593fd124d5aa61b26d
+props: 17 91842 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/Makefile.am
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 8w.0.r17/92107
+type: file
+pred: 8w.0.r15/100469
+count: 2
+text: 15 20341 19 1699 01a626a7bdcf4a217c71ceb4f96b34d2
+props: 17 92090 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/xmlparser/tinyxmlerror.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 8x.0.r17/92369
+type: file
+pred: 8x.0.r15/100715
+count: 2
+text: 15 20387 22 21807 3d876ef4086ff61621271a0dfb220a93
+props: 17 92352 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/xmlparser/tinyxmlparser.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 8v.0.r17/92633
+type: file
+pred: 8v.0.r15/100963
+count: 2
+text: 15 20292 22 22864 149b81efc2b0f17cb35ffceead9d4aa5
+props: 17 92616 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/xmlparser/tinyxml.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 8t.0.r17/92891
+type: file
+pred: 8t.0.r15/101205
+count: 2
+text: 15 20201 19 286 dc583d69bcae46d7d5bf669f3d5ce983
+props: 17 92874 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/xmlparser/TiXmlIterator.cpp
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 8u.0.r17/93153
+type: file
+pred: 8u.0.r15/101451
+count: 2
+text: 15 20246 19 6724 7d3e74a15dbcec87b5009e60f34e4ac5
+props: 17 93136 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/src/xmlparser/tinystr.cpp
+copyroot: 0 /
+
+PLAIN
+K 17
+TiXmlIterator.cpp
+V 19
+file 8t.0.r17/92891
+K 11
+tinystr.cpp
+V 19
+file 8u.0.r17/93153
+K 11
+tinyxml.cpp
+V 19
+file 8v.0.r17/92633
+K 16
+tinyxmlerror.cpp
+V 19
+file 8w.0.r17/92107
+K 17
+tinyxmlparser.cpp
+V 19
+file 8x.0.r17/92369
+END
+ENDREP
+id: 8s.0.r17/93637
+type: dir
+pred: 8s.0.r15/101941
+count: 2
+text: 17 93393 231 231 06273638d1fe39afdf97e10b46be1034
+cpath: /old/sipXportLib/main/src/xmlparser
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 19
+file 4e.0.r17/91859
+K 3
+aes
+V 18
+dir 4f.0.r17/91674
+K 2
+os
+V 18
+dir 4m.0.r17/84549
+K 4
+test
+V 18
+dir 7g.0.r17/54160
+K 3
+utl
+V 18
+dir 89.0.r17/89743
+K 9
+xmlparser
+V 18
+dir 8s.0.r17/93637
+END
+ENDREP
+id: 4d.0.r17/94036
+type: dir
+pred: 4d.0.r15/102344
+count: 7
+text: 17 93811 212 212 86c52e8d3cdd18555c7cd5bff00bff5c
+cpath: /old/sipXportLib/main/src
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 8.0.r17/94217
+type: file
+pred: 8.0.r15/102508
+count: 2
+text: 15 0 19 137 e10faed29a35dcdf9092017152fce6a6
+props: 17 94200 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/Makefile.am
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 9.0.r17/94453
+type: file
+pred: 9.0.r3/649790
+count: 1
+text: 3 16762 4 0 d41d8cd98f00b204e9800998ecf8427e
+props: 17 94436 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/NEWS
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 4.0.r17/94681
+type: file
+pred: 4.0.r3/650024
+count: 1
+text: 3 0 246 250 46bc4766a81f1d904a30fed0678249e1
+props: 17 94664 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/CONTRIBUTORS
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: a.0.r17/94917
+type: file
+pred: a.0.r3/650266
+count: 1
+text: 3 16779 4 0 d41d8cd98f00b204e9800998ecf8427e
+props: 17 94900 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXportLib/main/README
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 18
+file 4.0.r17/94681
+K 9
+ChangeLog
+V 18
+file 5.0.r17/45324
+K 7
+INSTALL
+V 18
+file 6.0.r17/45088
+K 7
+LICENSE
+V 15
+file 7.0.r17/17
+K 11
+Makefile.am
+V 18
+file 8.0.r17/94217
+K 4
+NEWS
+V 18
+file 9.0.r17/94453
+K 6
+README
+V 18
+file a.0.r17/94917
+K 4
+TODO
+V 18
+file b.0.r17/42824
+K 9
+acsite.m4
+V 18
+file c.0.r17/45555
+K 6
+config
+V 18
+dir 91.0.r17/44905
+K 12
+configure.ac
+V 17
+file d.0.r17/1003
+K 7
+include
+V 17
+dir e.0.r17/42397
+K 15
+sipXportLib.dsp
+V 19
+file 4c.0.r17/42579
+K 3
+src
+V 18
+dir 4d.0.r17/94036
+K 12
+syslogviewer
+V 16
+dir 8y.0.r17/820
+END
+ENDREP
+id: 3.0.r17/95705
+type: dir
+pred: 3.0.r16/3146
+count: 14
+text: 17 95130 562 562 afcf73b48a157b1a0e1b9480afdfd207
+cpath: /old/sipXportLib/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 17
+dir 3.0.r17/95705
+END
+ENDREP
+id: 2.0.r17/95911
+type: dir
+pred: 2.0.r16/3351
+count: 15
+text: 17 95862 36 36 0d21ad2b6ace59ba19ee3a450aef1254
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r17/95911
+END
+ENDREP
+id: 1.0.r17/96118
+type: dir
+pred: 1.0.r16/3557
+count: 16
+text: 17 96061 44 44 393f0792a302252be1a70d3e67633013
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r17/96118
+END
+ENDREP
+id: 0.0.r17/96304
+type: dir
+pred: 0.0.r16/3742
+count: 17
+text: 17 96256 35 35 cca4956bf7fde75454080c40cbf62d0b
+cpath: /
+copyroot: 0 /
+
+53.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsFileSystem.cpp
+
+1x.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsStatus.h
+
+17.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsFileSystem.h
+
+71.0.t16-1 modify false true /old/sipXportLib/main/src/os/linux/OsUtilLinux.cpp
+
+4u.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsDateTime.cpp
+
+8r.0.t16-1 modify false true /old/sipXportLib/main/src/utl/UtlVoidPtr.cpp
+
+94.0.t16-1 modify false true /old/sipXportLib/main/config/depcomp
+
+5u.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsTask.cpp
+
+6o.0.t16-1 modify false true /old/sipXportLib/main/src/os/linux/OsBSemLinux.cpp
+
+3i.0.t16-1 modify false true /old/sipXportLib/main/include/os/wnt/OsSharedLibMgrWnt.h
+
+6x.0.t16-1 modify false true /old/sipXportLib/main/src/os/linux/OsProcessIteratorLinux.cpp
+
+4s.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsConnectionSocket.cpp
+
+8w.0.t16-1 modify false true /old/sipXportLib/main/src/xmlparser/tinyxmlerror.cpp
+
+u.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsConnectionSocket.h
+
+4r.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsConfigDb.cpp
+
+8x.0.t16-1 modify false true /old/sipXportLib/main/src/xmlparser/tinyxmlparser.cpp
+
+6l.0.t16-1 modify false true /old/sipXportLib/main/src/os/Wnt/WindowsAdapterInfo.cpp
+
+5l.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsServerSocket.cpp
+
+4i.0.t16-1 modify false true /old/sipXportLib/main/src/aes/aescrypt.c
+
+8z.0.t16-1 modify false true /old/sipXportLib/main/syslogviewer/Makefile.am
+
+41.0.t16-1 modify false true /old/sipXportLib/main/include/utl/UtlRegex.h
+
+9.0.t16-1 modify false true /old/sipXportLib/main/NEWS
+
+j.0.t16-1 modify false true /old/sipXportLib/main/include/aes/aesopt.h
+
+7v.0.t16-1 modify false true /old/sipXportLib/main/src/test/os/OsMutexTest.cpp
+
+54.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsLockingList.cpp
+
+4p.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsCSemBase.cpp
+
+10.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsEvent.h
+
+19.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsLockingList.h
+
+5d.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsProcessMgr.cpp
+
+1k.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsProcessMgr.h
+
+5o.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsSocket.cpp
+
+3s.0.t16-1 modify false true /old/sipXportLib/main/include/utl/UtlDefs.h
+
+99.0.t16-1 modify false true /old/sipXportLib/main/config/mkinstalldirs
+
+6u.0.t16-1 modify false true /old/sipXportLib/main/src/os/linux/OsFileLinux.cpp
+
+4b.0.t16-1 modify false true /old/sipXportLib/main/include/xmlparser/tinyxml.h
+
+26.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsTimeLog.h
+
+1s.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsSSLServerSocket.h
+
+8i.5.t16-1 modify false true /old/sipXportLib/main/src/utl/UtlHashBag.cpp
+
+1v.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsSharedLibMgr.h
+
+7y.0.t16-1 modify false true /old/sipXportLib/main/src/test/os/OsProcessIteratorTest.cpp
+
+1y.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsSyncBase.h
+
+2c.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsUtil.h
+
+79.0.t16-1 modify false true /old/sipXportLib/main/src/os/shared/OsSysSoftTimer.cpp
+
+6z.0.t16-1 modify false true /old/sipXportLib/main/src/os/linux/OsSharedLibMgrLinux.cpp
+
+2u.0.t16-1 modify false true /old/sipXportLib/main/include/os/linux/OsSharedLibMgrLinux.h
+
+16.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsFileIteratorBase.h
+
+3c.0.t16-1 modify false true /old/sipXportLib/main/include/os/wnt/OsFileSystemWnt.h
+
+5z.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsTimerMsg.cpp
+
+5m.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsServerTask.cpp
+
+47.0.t16-1 modify false true /old/sipXportLib/main/include/utl/UtlVoidPtr.h
+
+38.0.t16-1 modify false true /old/sipXportLib/main/include/os/wnt/OsDateTimeWnt.h
+
+o.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsAssert.h
+
+81.0.t16-1 modify false true /old/sipXportLib/main/src/test/os/OsSemTest.cpp
+
+61.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsTokenizer.cpp
+
+5q.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsSysLogFacilities.cpp
+
+6b.0.t16-1 modify false true /old/sipXportLib/main/src/os/Wnt/OsFileWnt.cpp
+
+1t.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsServerSocket.h
+
+39.0.t16-1 modify false true /old/sipXportLib/main/include/os/wnt/OsDirWnt.h
+
+30.0.t16-1 modify false true /old/sipXportLib/main/include/os/ostream
+
+1f.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsNameDb.h
+
+15.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsFileInfoBase.h
+
+p.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsBSem.h
+
+6e.0.t16-1 modify false true /old/sipXportLib/main/src/os/Wnt/OsProcessIteratorWnt.cpp
+
+37.0.t16-1 modify false true /old/sipXportLib/main/include/os/wnt/OsCSemWnt.h
+
+8d.0.t16-1 modify false true /old/sipXportLib/main/src/utl/UtlDListIterator.cpp
+
+6g.0.t16-1 modify false true /old/sipXportLib/main/src/os/Wnt/OsSharedLibMgrWnt.cpp
+
+44.0.t16-1 modify false true /old/sipXportLib/main/include/utl/UtlSList.h
+
+7k.0.t16-1 modify false true /old/sipXportLib/main/src/test/TestTemplate.cpp
+
+2n.0.t16-1 modify false true /old/sipXportLib/main/include/os/linux/OsFileIteratorLinux.h
+
+b.0.t16-1 modify false true /old/sipXportLib/main/TODO
+
+46.0.t16-1 modify false true /old/sipXportLib/main/include/utl/UtlString.h
+
+8p.0.t16-1 modify false true /old/sipXportLib/main/src/utl/UtlSListIterator.cpp
+
+3h.0.t16-1 modify false true /old/sipXportLib/main/include/os/wnt/OsProcessWnt.h
+
+33.0.t16-1 modify false true /old/sipXportLib/main/include/os/shared/OsSysSoftTimer.h
+
+64.0.t16-1 modify false true /old/sipXportLib/main/src/os/Wnt/OsBSemWnt.cpp
+
+29.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsTimerMsg.h
+
+1j.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsProcessIterator.h
+
+34.0.t16-1 modify false true /old/sipXportLib/main/include/os/shared/OsTimerMessage.h
+
+6d.0.t16-1 modify false true /old/sipXportLib/main/src/os/Wnt/OsPathWnt.cpp
+
+60.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsTimerTask.cpp
+
+2d.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsWriteLock.h
+
+n.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsAESConfigDb.h
+
+2j.0.t16-1 modify false true /old/sipXportLib/main/include/os/linux/OsCSemLinux.h
+
+5p.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsSysLog.cpp
+
+56.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsMsgPool.cpp
+
+t.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsConfigEncryption.h
+
+x.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsDefs.h
+
+5f.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsProtectEventMgr.cpp
+
+69.0.t16-1 modify false true /old/sipXportLib/main/src/os/Wnt/OsFileIteratorWnt.cpp
+
+7n.0.t16-1 modify false true /old/sipXportLib/main/src/test/os/OsConfigDbTest.cpp
+
+5.0.t16-1 modify false true /old/sipXportLib/main/ChangeLog
+
+r.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsCallback.h
+
+3a.0.t16-1 modify false true /old/sipXportLib/main/include/os/wnt/OsFileInfoWnt.h
+
+80.0.t16-1 modify false true /old/sipXportLib/main/src/test/os/OsProcessTest.cpp
+
+40.0.t16-1 modify false true /old/sipXportLib/main/include/utl/UtlIterator.h
+
+1e.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsMutex.h
+
+7i.0.t16-1 modify false true /old/sipXportLib/main/src/test/TestSupport.cpp
+
+7m.0.t16-1 modify false true /old/sipXportLib/main/src/test/os/OsCallbackTest.cpp
+
+8n.0.t16-1 modify false true /old/sipXportLib/main/src/utl/UtlRscTrace.cpp
+
+43.0.t16-1 modify false true /old/sipXportLib/main/include/utl/UtlRscTrace.h
+
+8j.6.t16-1 modify false true /old/sipXportLib/main/src/utl/UtlHashBagIterator.cpp
+
+6k.0.t16-1 modify false true /old/sipXportLib/main/src/os/Wnt/OsUtilWnt.cpp
+
+1d.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsMulticastSocket.h
+
+2x.0.t16-1 modify false true /old/sipXportLib/main/include/os/linux/host_address.h
+
+5y.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsTimerDb.cpp
+
+3u.3.t16-1 modify false true /old/sipXportLib/main/include/utl/UtlHashMap.h
+
+21.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsSysLogMsg.h
+
+12.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsExcept.h
+
+7a.0.t16-1 modify false true /old/sipXportLib/main/src/os/shared/OsTimerMessage.cpp
+
+3b.0.t16-1 modify false true /old/sipXportLib/main/include/os/wnt/OsFileIteratorWnt.h
+
+i.0.t16-1 modify false true /old/sipXportLib/main/include/aes/aes_helper.h
+
+h.0.t16-1 modify false true /old/sipXportLib/main/include/aes/aes.h
+
+7p.0.t16-1 modify false true /old/sipXportLib/main/src/test/os/OsEventTest.cpp
+
+3v.4.t16-1 modify false true /old/sipXportLib/main/include/utl/UtlHashMapIterator.h
+
+7r.0.t16-1 modify false true /old/sipXportLib/main/src/test/os/OsFileSystemTest.cpp
+
+57.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsMsgQ.cpp
+
+7j.0.t16-1 modify false true /old/sipXportLib/main/src/test/TestSupport.h
+
+3l.0.t16-1 modify false true /old/sipXportLib/main/include/os/wnt/WIndowsAdapterInfo.h
+
+73.0.t16-1 modify false true /old/sipXportLib/main/src/os/linux/host_address.c
+
+4x.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsEvent.cpp
+
+6h.0.t16-1 modify false true /old/sipXportLib/main/src/os/Wnt/OsSysSoftTimer.cpp
+
+59.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsNameDb.cpp
+
+1a.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsMsg.h
+
+96.0.t16-1 modify false true /old/sipXportLib/main/config/install-sh
+
+5j.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsSSLConnectionSocket.cpp
+
+1r.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsSSLConnectionSocket.h
+
+66.0.t16-1 modify false true /old/sipXportLib/main/src/os/Wnt/OsDateTimeWnt.cpp
+
+f.0.t16-1 modify false true /old/sipXportLib/main/include/Makefile.am
+
+8t.0.t16-1 modify false true /old/sipXportLib/main/src/xmlparser/TiXmlIterator.cpp
+
+5n.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsSharedLibMgr.cpp
+
+2z.0.t16-1 modify false true /old/sipXportLib/main/include/os/linux/pt_mutex.h
+
+7z.0.t16-1 modify false true /old/sipXportLib/main/src/test/os/OsProcessMgrTest.cpp
+
+3x.1.t16-1 modify false true /old/sipXportLib/main/include/utl/UtlHashBag.h
+
+8o.0.t16-1 modify false true /old/sipXportLib/main/src/utl/UtlSList.cpp
+
+72.0.t16-1 modify false true /old/sipXportLib/main/src/os/linux/clock_gettime.c
+
+4c.0.t16-1 modify false true /old/sipXportLib/main/sipXportLib.dsp
+
+1o.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsRWMutex.h
+
+3y.2.t16-1 modify false true /old/sipXportLib/main/include/utl/UtlHashBagIterator.h
+
+6m.0.t16-1 modify false true /old/sipXportLib/main/src/os/Wnt/getWindowsDNSServers.c
+
+67.0.t16-1 modify false true /old/sipXportLib/main/src/os/Wnt/OsDirWnt.cpp
+
+7e.0.t16-1 modify false true /old/sipXportLib/main/src/os/test/sockets/ipcperf.c
+
+3d.0.t16-1 modify false true /old/sipXportLib/main/include/os/wnt/OsFileWnt.h
+
+2q.0.t16-1 modify false true /old/sipXportLib/main/include/os/linux/OsMutexLinux.h
+
+84.0.t16-1 modify false true /old/sipXportLib/main/src/test/os/OsTimerTaskTest.cpp
+
+1l.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsProtectEvent.h
+
+4k.0.t16-1 modify false true /old/sipXportLib/main/src/aes/aestab.c
+
+74.0.t16-1 modify false true /old/sipXportLib/main/src/os/linux/pt_csem.c
+
+5r.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsSysLogMsg.cpp
+
+8f.8.t16-1 modify false true /old/sipXportLib/main/src/utl/UtlHashMap.cpp
+
+q.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsCSem.h
+
+4t.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsDatagramSocket.cpp
+
+4w.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsEncryption.cpp
+
+1u.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsServerTask.h
+
+68.0.t16-1 modify false true /old/sipXportLib/main/src/os/Wnt/OsFileInfoWnt.cpp
+
+w.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsDateTime.h
+
+7o.0.t16-1 modify false true /old/sipXportLib/main/src/test/os/OsDirTest.cpp
+
+2t.0.t16-1 modify false true /old/sipXportLib/main/include/os/linux/OsProcessLinux.h
+
+88.0.t16-1 modify false true /old/sipXportLib/main/src/test/utl/UtlRegex.cpp
+
+3z.0.t16-1 modify false true /old/sipXportLib/main/include/utl/UtlInt.h
+
+75.0.t16-1 modify false true /old/sipXportLib/main/src/os/linux/pt_mutex.c
+
+4n.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsAESConfigDb.cpp
+
+3j.0.t16-1 modify false true /old/sipXportLib/main/include/os/wnt/OsTaskWnt.h
+
+4e.0.t16-1 modify false true /old/sipXportLib/main/src/Makefile.am
+
+7t.0.t16-1 modify false true /old/sipXportLib/main/src/test/os/OsLockTest.cpp
+
+1c.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsMsgQ.h
+
+20.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsSysLogFacilities.h
+
+6f.0.t16-1 modify false true /old/sipXportLib/main/src/os/Wnt/OsProcessWnt.cpp
+
+1b.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsMsgPool.h
+
+7h.0.t16-1 modify false true /old/sipXportLib/main/src/test/Makefile.am
+
+1p.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsReadLock.h
+
+8a.0.t16-1 modify false true /old/sipXportLib/main/src/utl/UtlContainable.cpp
+
+3q.0.t16-1 modify false true /old/sipXportLib/main/include/utl/UtlDList.h
+
+k.0.t16-1 modify false true /old/sipXportLib/main/include/aes/uitypes.h
+
+8b.0.t16-1 modify false true /old/sipXportLib/main/src/utl/UtlContainer.cpp
+
+1m.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsProtectEventMgr.h
+
+1w.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsSocket.h
+
+2f.0.t16-1 modify false true /old/sipXportLib/main/include/os/iostream
+
+2o.0.t16-1 modify false true /old/sipXportLib/main/include/os/linux/OsFileLinux.h
+
+3r.0.t16-1 modify false true /old/sipXportLib/main/include/utl/UtlDListIterator.h
+
+2p.0.t16-1 modify false true /old/sipXportLib/main/include/os/linux/OsLinuxDefs.h
+
+6i.0.t16-1 modify false true /old/sipXportLib/main/src/os/Wnt/OsTaskWnt.cpp
+
+3e.0.t16-1 modify false true /old/sipXportLib/main/include/os/wnt/OsMutexWnt.h
+
+7w.0.t16-1 modify false true /old/sipXportLib/main/src/test/os/OsNameDbTest.cpp
+
+93.0.t16-1 modify false true /old/sipXportLib/main/config/config.sub
+
+4v.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsDirBase.cpp
+
+13.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsFS.h
+
+5h.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsRWMutex.cpp
+
+14.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsFileBase.h
+
+7x.0.t16-1 modify false true /old/sipXportLib/main/src/test/os/OsPathTest.cpp
+
+2k.0.t16-1 modify false true /old/sipXportLib/main/include/os/linux/OsDateTimeLinux.h
+
+6v.0.t16-1 modify false true /old/sipXportLib/main/src/os/linux/OsMutexLinux.cpp
+
+52.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsFileIteratorBase.cpp
+
+m.0.t16-1 modify false true /old/sipXportLib/main/include/os/Makefile
+
+1g.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsNotification.h
+
+3g.0.t16-1 modify false true /old/sipXportLib/main/include/os/wnt/OsProcessIteratorWnt.h
+
+c.0.t16-1 modify false true /old/sipXportLib/main/acsite.m4
+
+6y.0.t16-1 modify false true /old/sipXportLib/main/src/os/linux/OsProcessLinux.cpp
+
+5v.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsTime.cpp
+
+85.0.t16-1 modify false true /old/sipXportLib/main/src/test/os/OsTimerTest.cpp
+
+5s.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsSysLogTask.cpp
+
+2a.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsTimerTask.h
+
+2i.0.t16-1 modify false true /old/sipXportLib/main/include/os/linux/OsBSemLinux.h
+
+8u.0.t16-1 modify false true /old/sipXportLib/main/src/xmlparser/tinystr.cpp
+
+2s.0.t16-1 modify false true /old/sipXportLib/main/include/os/linux/OsProcessIteratorLinux.h
+
+5b.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsProcessBase.cpp
+
+6s.0.t16-1 modify false true /old/sipXportLib/main/src/os/linux/OsFileInfoLinux.cpp
+
+2b.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsTokenizer.h
+
+2m.0.t16-1 modify false true /old/sipXportLib/main/include/os/linux/OsFileInfoLinux.h
+
+7f.0.t16-1 modify false true /old/sipXportLib/main/src/os/test/sockets/main.cpp
+
+s.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsConfigDb.h
+
+2r.0.t16-1 modify false true /old/sipXportLib/main/include/os/linux/OsPathLinux.h
+
+27.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsTimer.h
+
+3o.0.t16-1 modify false true /old/sipXportLib/main/include/utl/UtlContainable.h
+
+7.0.t16-1 modify false true /old/sipXportLib/main/LICENSE
+
+2y.0.t16-1 modify false true /old/sipXportLib/main/include/os/linux/pt_csem.h
+
+36.0.t16-1 modify false true /old/sipXportLib/main/include/os/wnt/OsBSemWnt.h
+
+4h.0.t16-1 modify false true /old/sipXportLib/main/src/aes/aes_test.c
+
+4g.0.t16-1 modify false true /old/sipXportLib/main/src/aes/aes_helper.c
+
+6j.0.t16-1 modify false true /old/sipXportLib/main/src/os/Wnt/OsTimerMessage.cpp
+
+2l.0.t16-1 modify false true /old/sipXportLib/main/include/os/linux/OsDirLinux.h
+
+7s.0.t16-1 modify false true /old/sipXportLib/main/src/test/os/OsFileTest.cpp
+
+4o.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsAssert.c
+
+78.0.t16-1 modify false true /old/sipXportLib/main/src/os/shared/OsMsgQShared.cpp
+
+82.0.t16-1 modify false true /old/sipXportLib/main/src/test/os/OsSocketTest.cpp
+
+y.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsDirBase.h
+
+8m.0.t16-1 modify false true /old/sipXportLib/main/src/utl/UtlRscStore.cpp
+
+6q.0.t16-1 modify false true /old/sipXportLib/main/src/os/linux/OsDateTimeLinux.cpp
+
+8q.0.t16-1 modify false true /old/sipXportLib/main/src/utl/UtlString.cpp
+
+62.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsUtil.cpp
+
+45.0.t16-1 modify false true /old/sipXportLib/main/include/utl/UtlSListIterator.h
+
+1i.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsProcess.h
+
+86.0.t16-1 modify false true /old/sipXportLib/main/src/test/unitmain.cpp
+
+5e.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsProtectEvent.cpp
+
+98.0.t16-1 modify false true /old/sipXportLib/main/config/missing
+
+5a.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsPathBase.cpp
+
+18.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsLock.h
+
+z.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsEncryption.h
+
+2w.0.t16-1 modify false true /old/sipXportLib/main/include/os/linux/OsUtilLinux.h
+
+8k.0.t16-1 modify false true /old/sipXportLib/main/src/utl/UtlInt.cpp
+
+8g.9.t16-1 modify false true /old/sipXportLib/main/src/utl/UtlHashMapIterator.cpp
+
+4.0.t16-1 modify false true /old/sipXportLib/main/CONTRIBUTORS
+
+24.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsTask.h
+
+22.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsSysLogTask.h
+
+6p.0.t16-1 modify false true /old/sipXportLib/main/src/os/linux/OsCSemLinux.cpp
+
+d.0.t16-1 modify false true /old/sipXportLib/main/configure.ac
+
+2e.0.t16-1 modify false true /old/sipXportLib/main/include/os/fstream
+
+6w.0.t16-1 modify false true /old/sipXportLib/main/src/os/linux/OsPathLinux.cpp
+
+5t.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsSysTimer.cpp
+
+8l.0.t16-1 modify false true /old/sipXportLib/main/src/utl/UtlRegex.cpp
+
+1z.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsSysLog.h
+
+4y.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsEventMsg.cpp
+
+3p.0.t16-1 modify false true /old/sipXportLib/main/include/utl/UtlContainer.h
+
+11.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsEventMsg.h
+
+5i.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsRpcMsg.cpp
+
+4q.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsCallback.cpp
+
+6r.0.t16-1 modify false true /old/sipXportLib/main/src/os/linux/OsDirLinux.cpp
+
+8v.0.t16-1 modify false true /old/sipXportLib/main/src/xmlparser/tinyxml.cpp
+
+5w.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsTimeLog.cpp
+
+7c.0.t16-1 modify false true /old/sipXportLib/main/src/os/test/main.cpp
+
+49.0.t16-1 modify false true /old/sipXportLib/main/include/xmlparser/TiXmlIterator.h
+
+50.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsFileBase.cpp
+
+58.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsMulticastSocket.cpp
+
+70.0.t16-1 modify false true /old/sipXportLib/main/src/os/linux/OsTaskLinux.cpp
+
+28.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsTimerDb.h
+
+65.0.t16-1 modify false true /old/sipXportLib/main/src/os/Wnt/OsCSemWnt.cpp
+
+4z.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsExcept.cpp
+
+1h.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsPathBase.h
+
+5g.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsQueuedEvent.cpp
+
+v.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsDatagramSocket.h
+
+1n.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsQueuedEvent.h
+
+25.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsTime.h
+
+76.0.t16-1 modify false true /old/sipXportLib/main/src/os/osPrintf.cpp
+
+6c.0.t16-1 modify false true /old/sipXportLib/main/src/os/Wnt/OsMutexWnt.cpp
+
+4j.0.t16-1 modify false true /old/sipXportLib/main/src/aes/aeskey.c
+
+4a.0.t16-1 modify false true /old/sipXportLib/main/include/xmlparser/tinystr.h
+
+6.0.t16-1 modify false true /old/sipXportLib/main/INSTALL
+
+90.0.t16-1 modify false true /old/sipXportLib/main/syslogviewer/main.c
+
+2g.0.t16-1 modify false true /old/sipXportLib/main/include/os/istream
+
+83.0.t16-1 modify false true /old/sipXportLib/main/src/test/os/OsTimeTest.cpp
+
+3k.0.t16-1 modify false true /old/sipXportLib/main/include/os/wnt/OsUtilWnt.h
+
+5x.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsTimer.cpp
+
+23.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsSysTimer.h
+
+5c.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsProcessIteratorBase.cpp
+
+6a.0.t16-1 modify false true /old/sipXportLib/main/src/os/Wnt/OsFileSystemWnt.cpp
+
+8c.0.t16-1 modify false true /old/sipXportLib/main/src/utl/UtlDList.cpp
+
+55.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsMsg.cpp
+
+51.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsFileInfoBase.cpp
+
+7u.0.t16-1 modify false true /old/sipXportLib/main/src/test/os/OsMsgQTest.cpp
+
+1q.0.t16-1 modify false true /old/sipXportLib/main/include/os/OsRpcMsg.h
+
+4l.0.t16-1 modify false true /old/sipXportLib/main/src/aes/aestest.cpp
+
+3f.0.t16-1 modify false true /old/sipXportLib/main/include/os/wnt/OsPathWnt.h
+
+5k.0.t16-1 modify false true /old/sipXportLib/main/src/os/OsSSLServerSocket.cpp
+
+a.0.t16-1 modify false true /old/sipXportLib/main/README
+
+92.0.t16-1 modify false true /old/sipXportLib/main/config/config.guess
+
+32.0.t16-1 modify false true /old/sipXportLib/main/include/os/shared/OsMsgQShared.h
+
+6t.0.t16-1 modify false true /old/sipXportLib/main/src/os/linux/OsFileIteratorLinux.cpp
+
+7q.0.t16-1 modify false true /old/sipXportLib/main/src/test/os/OsFileIteratorTest.cpp
+
+42.0.t16-1 modify false true /old/sipXportLib/main/include/utl/UtlRscStore.h
+
+8.0.t16-1 modify false true /old/sipXportLib/main/Makefile.am
+
+3m.0.t16-1 modify false true /old/sipXportLib/main/include/os/wnt/getWindowsDNSServers.h
+
+2v.0.t16-1 modify false true /old/sipXportLib/main/include/os/linux/OsTaskLinux.h
+
+
+96304 96439

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-01-23T22:31:17.040827Z
+K 7
+svn:log
+V 64
+Add a sandbox "debug assistant" section to the test Makefile.am
+
+END

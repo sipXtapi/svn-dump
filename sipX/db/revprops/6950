@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-06-12T18:28:17.473071Z
+K 7
+svn:log
+V 168
+XCF-1077 make selected list of object classes persistent so that admin does not have to reselect all requirted classes every time that they reconfigure LDAP connection
+
+END

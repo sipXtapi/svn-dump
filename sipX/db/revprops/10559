@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-30T22:38:44.053961Z
+K 7
+svn:log
+V 437
+Update sipXmediaLibTest VS2003 build - HAVE_SPEEX definitions should be consistant over sipXmediaLib and all projects, using it directly.
+This is caused by the fact, that actual type (and size) of MpResampler depends on it. If sipXmediaLib is compiled with HAVE_SPEEX, but project using it do not have HAVE_SPEEX defined, this will lead to memory overwrite.
+Actually this will be fixed later by providing factory method for MpResampler.
+
+END

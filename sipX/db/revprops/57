@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-06-10T20:39:50.764467Z
+K 7
+svn:log
+V 222
+Get the build working again.
+UtlHashMapIterator and UtlHashBagIterator had not been converted
+to match the changes to the base class.  Tests for both are
+commented out until the conversion is complete, but they build now.
+
+END

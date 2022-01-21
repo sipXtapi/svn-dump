@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2020-06-24T07:41:06.744301Z
+K 7
+svn:log
+V 155
+Added converted MSVS2019 projects for sipXcallLib, sipXcallLibTest sipXtapi and sipXtapiTest to solution.
+Still need to conerted callLib example projects.
+
+END

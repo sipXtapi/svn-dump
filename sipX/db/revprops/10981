@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-11-24T17:19:54.941648Z
+K 7
+svn:log
+V 65
+Decrease number of buffered buffer in input and output managers.
+
+END

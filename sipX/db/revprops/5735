@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-12-09T21:34:58.423719Z
+K 7
+svn:log
+V 75
+XCF-816 if user enters simple query treat it as prefix query automatically
+
+END

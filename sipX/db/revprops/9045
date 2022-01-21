@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-03-09T23:56:11.796368Z
+K 7
+svn:log
+V 323
+Fix windows implementation of  OsFile.touch() so that it works properly under all windows flavors.  
+WinCE 5 does not have the _utime() function that was previously used.
+
+made OsFileTest::testTouch more robust in it's test failure modes.
+EVC4 platform is now fixed with this change, and compiles and links properly again.
+
+END

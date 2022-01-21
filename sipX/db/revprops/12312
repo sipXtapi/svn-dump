@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2015-06-24T21:59:00.538666Z
+K 7
+svn:log
+V 178
+Removed MprRecorder destcutor dependence upon flowgraph pointer.
+  This is to avoid segv when closing GSM file from destructor to be sure even number of GSM frames are recorded.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-10-27T01:35:37.860227Z
+K 7
+svn:log
+V 39
+Removed unused var in SipUserAgentTest
+
+END

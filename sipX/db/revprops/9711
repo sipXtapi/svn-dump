@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-06-21T00:43:29.258633Z
+K 7
+svn:log
+V 102
+Initial Multimedia timer implementation.
+Current implementation is windows-only, and linear mode only.
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-11-04T07:35:47.695746Z
+K 7
+svn:log
+V 59
+Add proper include path to new VC6 AMR Narrowband project.
+
+END

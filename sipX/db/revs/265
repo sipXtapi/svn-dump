@@ -1,0 +1,91 @@
+PLAIN
+K 10
+svn:ignore
+V 206
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxportlib.spec
+sipxportlib-*.rpm
+sipxportlib-*.tar.gz
+stamp-h1
+textfiles
+Debug
+Release
+
+END
+ENDREP
+id: 3.0.r265/246
+type: dir
+pred: 3.0.r264/2011
+count: 249
+text: 264 1316 682 682 5eef4dbccb139e95c756adbe9dcb6d8d
+props: 265 0 233 0 3384c288ef00a2c20f18624edb3e7422
+cpath: /old/sipXportLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir ar.0.r240/1677
+K 4
+main
+V 16
+dir 3.0.r265/246
+K 4
+tags
+V 18
+dir an.0.r169/1799
+END
+ENDREP
+id: 2.0.r265/574
+type: dir
+pred: 2.0.r264/2341
+count: 263
+text: 265 456 105 105 9e36559c990a31bfef586c2d6340858f
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 16
+dir 2.0.r265/574
+END
+ENDREP
+id: 1.0.r265/782
+type: dir
+pred: 1.0.r264/2552
+count: 264
+text: 265 726 43 43 3ffe085d64eccef70c2cbaf8b0e6500f
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 16
+dir 1.0.r265/782
+END
+ENDREP
+id: 0.0.r265/967
+type: dir
+pred: 0.0.r264/2740
+count: 265
+text: 265 920 34 34 8602283d197f4fc6c27bc641815eb4de
+cpath: /
+copyroot: 0 /
+
+3.0.t264-1 modify false true /old/sipXportLib/main
+
+
+967 1102

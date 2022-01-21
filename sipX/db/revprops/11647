@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2010-05-04T10:57:30.493852Z
+K 7
+svn:log
+V 76
+sipXmediaLib: Enable ASM optimizations in Speex when compiling for Android.
+
+END

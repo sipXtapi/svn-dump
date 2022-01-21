@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-09T21:14:56.977584Z
+K 7
+svn:log
+V 431
+XCF-1171 intergrated Douglas patch to finish selecting new and existing gateways from drop-down list
+numerous changes to GatewaysPanel to make it self-contained - it does not require any listeners to be passed from the container
+fix old problems with PatternEditor used in custom gateways (it was adding/removing patterns even if errors were reported)
+minor updates to TestUtils - better check for validator and for "rewind" stage
+
+END

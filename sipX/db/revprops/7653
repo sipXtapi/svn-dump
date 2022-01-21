@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-04T20:28:52.795631Z
+K 7
+svn:log
+V 91
+Use CpCallManager::getNewCallId to generate call-ID, rather than going
+to a lot of effort.
+
+END

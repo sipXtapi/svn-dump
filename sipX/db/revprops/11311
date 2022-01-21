@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2009-03-15T17:07:37.498982Z
+K 7
+svn:log
+V 99
+Use --whole-archive and --no-whole-archive instead of -load_all since -load_all is MacOS specific
+
+
+END

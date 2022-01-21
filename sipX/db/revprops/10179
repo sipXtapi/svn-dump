@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-17T02:42:10.744779Z
+K 7
+svn:log
+V 83
+Adding G.726 codec wrapper plugin.
+This check in contain VS2005 project file only.
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+apex_li
+K 8
+svn:date
+V 27
+2004-06-03T13:40:35.837411Z
+K 7
+svn:log
+V 102
+Coding sytle is not good for UtlString this version.
+Fix bugs in three files and passed Raghu tests.
+
+
+END

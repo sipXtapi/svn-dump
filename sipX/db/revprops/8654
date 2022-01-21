@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-29T16:45:24.428476Z
+K 7
+svn:log
+V 243
+Merged revisions 8567 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8567 | kkyzivat | 2007-01-17 06:08:24 +0300 | 2 lines
+  
+  Increase priority of OsTimerTask on all platforms, not just posix.
+........
+
+END

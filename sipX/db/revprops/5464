@@ -1,0 +1,44 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-11-01T19:42:30.135487Z
+K 7
+svn:log
+V 1109
+Implement Christian Stredicke's workaround so call pickup works with
+current Snom phones.
+http://paradise:8080/browse/ENG-319
+
+Fix handling of parameters on the remote contact address in dialog
+event notices.
+
+Add workaround so Snom phones can pick up calls.
+
+Overhaul OsFileLinux::getFileInfo, as it had 3 errors and was poorly
+coded as well.
+Also fix some formatting problems.
+
+Revamp SipRedirectorPickUp to re-read the orbits.xml file when it has changed.
+
+Allow mappings that send an extension into "retrieve messages for
+extension NNN".
+http://track.sipfoundry.org/browse/XPB-256
+http://paradise:8080/browse/ENG-245
+
+Update test configuration to take into account 3.0 configuration features.
+
+Fix test of requested expiration time vs. minimum allowed expiration time.
+Also, install workaround to allow the workaround of ENG-319 to work
+when retrieving calls from Park Server.  (Ugh.)
+http://track.sipfoundry.org/browse/XPB-399
+http://paradise:8080/browse/ENG-319
+
+Ignore NOTIFYs that do not contain bodies, so the Redirector doesn't
+crash when it receives one.
+http://track.sipfoundry.org/browse/XPB-406
+
+END

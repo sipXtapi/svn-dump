@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-25T20:58:16.120352Z
+K 7
+svn:log
+V 125
+sipXmediaLib: Fix resulting amplitude calculation in one case in MpBridgeLinear and add comments about clipping calculation.
+
+END

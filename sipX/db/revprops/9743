@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-25T23:29:34.724551Z
+K 7
+svn:log
+V 288
+Fix bug in sipXtapi unittest causing memory corruption and usage uninitialized memory.
+1) If EVENT_CATEGORY_SECURITY was passed to EventValidator::addEvent() it would fall through to EVENT_CATEGORY_MEDIA as well.
+2) EVENT_CATEGORY_KEEPALIVE was not handled in EventValidator::addEvent().
+
+END

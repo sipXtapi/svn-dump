@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-12-13T23:11:20.426364Z
+K 7
+svn:log
+V 60
+JBOSS_HOME is set in buildloop switches to /opt/jboss-4.0.0
+
+END

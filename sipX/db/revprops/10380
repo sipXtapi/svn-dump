@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-11-27T23:09:10.119079Z
+K 7
+svn:log
+V 251
+Fix breakage of specifying include files caused by r10327 under gnu/autoconf, VS2003, and vs2005.
+
+Replaced all sipXmediaAdapterLib include specifiers of type:
+#include <include/xxx.h>    with
+#include <xxx.h>
+
+Also fixed improper uses of <> and "".
+
+
+END

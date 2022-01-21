@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-12-13T18:10:39.639640Z
+K 7
+svn:log
+V 74
+correct copy constructor to fully restore study data, and improve comments
+END

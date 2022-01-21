@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-06-26T19:30:17.882084Z
+K 7
+svn:log
+V 123
+XCF-431 - dynamically register gateway subclasses with hibernate
+inject list of superclasses from spring configuration file
+END

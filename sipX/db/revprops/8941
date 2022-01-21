@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-01T15:30:06.044568Z
+K 7
+svn:log
+V 63
+merge 7847 from main to get past autoconf/configure step on FC6
+END

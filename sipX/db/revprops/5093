@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-09-22T00:14:18.227257Z
+K 7
+svn:log
+V 96
+FIX BUILD : New file in TFTP directory causing RPM build failure because it wasn't accounted for
+END

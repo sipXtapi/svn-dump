@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-21T15:16:13.764820Z
+K 7
+svn:log
+V 48
+Changed needed to compile against sipXportLib.
+
+
+END

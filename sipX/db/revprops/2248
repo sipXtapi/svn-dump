@@ -1,0 +1,35 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-03-01T16:58:07.319337Z
+K 7
+svn:log
+V 972
+Fixed two cases where the proxy falsely assumed strict routing.
+These cases were intensionally put in to fix problems caused
+by user agents that strict routed but did not preserve the
+lr parameter in the route header.
+
+The first case was when a message was loose routed and sent to
+the proxy even though there was no route for the proxy in the 
+message.  This often occurs when user agents force messages to
+be sent to its configured outbound proxy event though the
+Record-Route does not include the proxy in the route set.
+
+The other case occurs when a user agent puts a pre-set route
+in a request that is not part of a dialog.  The URI and the
+first route both go to the proxy.  The proxy assumed this to
+be a strict routing case as this was what the requests looked
+like if they dropped the lr parameter in the route.  We are
+now assuming that user agents no longer drop the lr parameter
+or if they do, tough luck.
+
+See also: http://track.sipfoundry.org/browse/XPR-9
+
+
+
+END

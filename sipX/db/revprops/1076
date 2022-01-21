@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-29T20:52:51.482624Z
+K 7
+svn:log
+V 125
+1) use unitmain from sipXunit static library (fixes make dist)
+2) Corrected MSVC project file (.dsp) in the EXTRA_DIST line
+
+
+END

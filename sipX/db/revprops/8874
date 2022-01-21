@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-02-22T14:56:39.799537Z
+K 7
+svn:log
+V 90
+XCF-1541 - use bash command shell consistently in all scripts
+(applied patch from Sakeeb)
+
+END

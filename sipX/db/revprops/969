@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-11T20:40:05.117758Z
+K 7
+svn:log
+V 188
+Add 'const' to the arguments to SipMessage::isAckFor and
+SipMessage::isInviteFor, as they do not need to write through those
+pointers and some callers have const pointers to SipMessage's.
+
+END

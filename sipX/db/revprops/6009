@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+prikov
+K 8
+svn:date
+V 27
+2006-02-01T15:25:09.076105Z
+K 7
+svn:log
+V 49
+Put releasever instead of distrover in sipx.repo
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-06-20T14:25:09.252547Z
+K 7
+svn:log
+V 210
+ENG-585 - strip ./ from tar archive prefixes, was cause baed side affects during upgrade in sipXpbx project that duplicated entire contents of configuration files.  stopped emitting upgrage commands to console
+
+END

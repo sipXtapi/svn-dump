@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-30T17:38:44.463157Z
+K 7
+svn:log
+V 95
+XCF-1604 Add unit test for annotation style setting handlers that obstain from returning values
+END

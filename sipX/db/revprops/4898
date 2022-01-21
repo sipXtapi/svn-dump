@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-08-23T13:52:14.343218Z
+K 7
+svn:log
+V 130
+Fix the build problem:
+awk: fatal: can't open source file `./config/apache_version.awk' 
+	for reading (No such file or directory)
+
+END

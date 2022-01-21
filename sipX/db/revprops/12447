@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-08-28T19:02:01.224541Z
+K 7
+svn:log
+V 59
+Fixed link order for AAC share lib (codec plugin) on gcc 5
+
+END

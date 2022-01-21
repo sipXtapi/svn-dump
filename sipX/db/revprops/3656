@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-16T16:10:57.844416Z
+K 7
+svn:log
+V 174
+XCF-237 Pull user pwd from config set so user does not have to reenter it.  Update documentation for recent ant build changes, noticed many other sections out of date as well
+END

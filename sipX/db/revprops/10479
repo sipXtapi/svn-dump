@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-22T20:30:22.987161Z
+K 7
+svn:log
+V 477
+* Select codecs, depending on MIME subtype, sample rate and channels number instead of just MIME-subtype.
+* Fix Speex MIME subtype and profiles for WB and UWB modes.
+* Changed format of codecs info in sipXmediaLib and codec plugins. All codecs are updated to match this change.
+* Changed format of initialization functions for codec plugins. All codecs are updated to match this change.
+
+Known regression: MpCodecsPerformanceTest (only available under Linux) does not compile.
+
+END

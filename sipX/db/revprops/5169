@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-09-24T22:25:20.880204Z
+K 7
+svn:log
+V 65
+Increased maximum file size for MprFromFile
+playBuffer to 50MB.
+
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-10-18T07:26:24.473889Z
+K 7
+svn:log
+V 68
+Check that we have a sipXtapi call data pointer before touching it.
+
+END

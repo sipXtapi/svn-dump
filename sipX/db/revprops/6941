@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-06-08T20:11:06.579856Z
+K 7
+svn:log
+V 283
+XCF-1077 move timer kick-off from init function to AppliciationInit even:
+this does not really matter in real application but if we use init function then tests require database to be initialized (which is not always the case, basic tests should run even without database installed)
+
+END

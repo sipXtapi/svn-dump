@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-30T19:14:12.340595Z
+K 7
+svn:log
+V 240
+Merged revisions 8152 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8152 | bob | 2006-11-29 22:23:39 +0300 | 3 lines
+  
+  Reduced number of compiler warning (linux/gcc 3.3.6) for sipXcallLib
+........
+
+END

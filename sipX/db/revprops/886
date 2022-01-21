@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-01T22:16:42.976945Z
+K 7
+svn:log
+V 109
+Generate INVITEs more systematically.
+Remove the "other" user, as the AOR user is also unknown to the phone.
+
+END

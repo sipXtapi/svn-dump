@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-05-01T22:58:49.516836Z
+K 7
+svn:log
+V 78
+XCF-343 fixed problem with NULL instead of user name in generated line aliases
+END

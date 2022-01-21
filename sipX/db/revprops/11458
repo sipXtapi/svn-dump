@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-09-23T12:44:56.757967Z
+K 7
+svn:log
+V 97
+sipXtapi: Fix for MacOs X crash due to RW-Lock destroy.
+Thanks to Paulo Vicentini for the patch.
+
+END

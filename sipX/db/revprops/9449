@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-29T18:52:00.683772Z
+K 7
+svn:log
+V 117
+In new audio output framework implement ability to provide ticks for MpMediaTask from one of enabled output devices.
+
+END

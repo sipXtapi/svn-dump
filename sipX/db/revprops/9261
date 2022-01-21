@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-04-06T03:14:59.690267Z
+K 7
+svn:log
+V 76
+Copy the Interop server configuration files from SIPfoundry Main rev. 9260.
+
+END

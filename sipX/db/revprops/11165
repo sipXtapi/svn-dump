@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-12T15:10:54.583314Z
+K 7
+svn:log
+V 70
+sipXportLib: Add defines for popen()/pclose() and return code macros.
+
+END

@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-10-10T16:12:00.731340Z
+K 7
+svn:log
+V 390
+Merged revisions 7577 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7577 | bob | 2006-09-27 00:44:17 +0400 | 4 lines
+  
+  1) Fixed a stun problem introduced by my last stun update/merge (when adding data indication support for TURN)
+  2) Created a duplicated OsTime::NO_WAIT_TIME (same OsTime::NO_WAIT) to minimize differences during merge.
+........
+
+END

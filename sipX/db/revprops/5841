@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-10T23:40:08.729338Z
+K 7
+svn:log
+V 199
+XCF-505 completed back-end for managing services on multiple machines
+restart reminder page will now automatically restart services for all locations
+services page still displays local services only
+
+END

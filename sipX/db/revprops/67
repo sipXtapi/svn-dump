@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-06-16T18:36:40.327511Z
+K 7
+svn:log
+V 97
+add doxygen support, 'make doc', and a little more documentation to KNOWN_BUG and KNOWN_FATAL_BUG
+END

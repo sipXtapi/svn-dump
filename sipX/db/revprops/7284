@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-08-17T16:45:26.206670Z
+K 7
+svn:log
+V 62
+Enabled audio hooks within sipXtapi -- it was commented out.
+
+
+END

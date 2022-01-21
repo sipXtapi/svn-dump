@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-10-26T17:54:50.349691Z
+K 7
+svn:log
+V 105
+remove basedir declaration from ANT build files - they get in the way when basedir is provided externally
+END

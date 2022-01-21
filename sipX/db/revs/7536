@@ -1,0 +1,138 @@
+PLAIN
+K 10
+svn:ignore
+V 46
+build.err
+configure
+autom4te.cache
+aclocal.m4
+
+K 19
+svnmerge-integrated
+V 12
+/main:1-7490
+END
+ENDREP
+id: 7q4.4t6.r7536/128
+type: dir
+pred: 7q4.4t6.r7535/85
+count: 1767
+text: 7490 5494 1009 1009 69cb89a19dbc4054506c7f46c911d8f7
+props: 7536 0 115 0 f02ea58e826b24c1a5ced846bcf4cf1f
+cpath: /branches/virtual-domain
+copyroot: 7491 /branches/virtual-domain
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 22
+dir 7q4.3ib.r7525/4164
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 20
+dir 9wi.0.r7534/6656
+K 21
+sipXtapi-media-update
+V 22
+dir 9wi.3ke.r7453/9961
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 23
+dir 7q4.4t1.r7487/47740
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 24
+user_dworley_redirectors
+V 24
+dir 7q4.3xw.r7523/241243
+K 14
+virtual-domain
+V 21
+dir 7q4.4t6.r7536/128
+END
+ENDREP
+id: 7pt.0.r7536/1249
+type: dir
+pred: 7pt.0.r7535/1202
+count: 921
+text: 7536 380 856 856 be5b10e30655e8b04ad991bf09be77ef
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r7536/1249
+K 4
+main
+V 20
+dir 7q4.0.r7533/9083
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r7536/1529
+type: dir
+pred: 0.0.r7535/1482
+count: 7536
+text: 7536 1402 114 114 7f1bd9c2e9273b73bf27dc071c560f6a
+cpath: /
+copyroot: 0 /
+
+7q4.4t6.t7535-1 modify false true /branches/virtual-domain
+
+
+1529 1672

@@ -1,0 +1,42 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-07-13T18:37:54.039758Z
+K 7
+svn:log
+V 1824
+Clean up failed error transfer processing in Auto Attendant
+After three attempts with either no DTMF input, or an invalid extension 
+is entered, the AA has the ability to transfer to a provisoned extension.  
+If THAT provisioned extension is invalid, the call flow now correctly 
+informs the caller than an error occurred and hangs up.
+Fixes http://track.sipfoundry.org/browse/XVX-171 (In AA, When Invalid 
+responce[sic] is set, does not work properly)
+--Woof!
+commented out the testActivateDefaultAttendant test
+it depended on autoattendant.vm, stopped working after woofs changes
+need to rewrite the test - use internally provided .vm file or fix stylesheet used to compare the results to make it less volatile
+
+Enable the VXML engine to wait for prompts to complete.
+This corrects many issues with prompts being "cut off" or not played at all
+in certain situations.
+In sipXmediaLib:
+Corrected the ability to "reset" the MpStreamPlaylistPlayer so it
+can be waited on when used more than once.  The previous implemenation could
+only be waited on once reliably, and it could have failed on subsequent plays.
+In sipXvxml:
+The OpenVXI VXML engine was missing the required "wait" functionality
+that allows it to wait for in process prompts to completely play before
+it does something else (like start a transfer).
+Added the support for the "wait" function in osbprompt.cpp, and the support
+for a null "wait" when no prompts are playing at all.
+Added/enabled waiting in PromptManager.cpp and VXI.cpp.
+
+XCF-1132 remove default value (100) of the onfail/transfer-extension parameter - we do not know which extensions are valid 
+fix autoattendant.vm template to work properly if transfer-extension is not set - use quiet reference notation - see http://jakarta.apache.org/velocity/docs/user-guide.html#Quiet%20Reference%20Notation
+
+END

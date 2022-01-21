@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-03T23:56:37.767197Z
+K 7
+svn:log
+V 662
+sub-configure speex if it is selected as previously, but don't blindly add
+libspeex in contrib as a subdir to build.  
+Doing it that way, all invocations of make would pass to it, including 
+'make install' and 'make uninstall' which we did not want to have happen.  All 
+we really need is 'make', 'make clean', and 'make distclean' to pass on to
+libspeex, if it is selected.
+
+So, this now does just that -- it literally invokes:
+'$(MAKE) -C libspeex' at the 'all-local' target
+'$(MAKE) -C libspeex clean' at the 'clean-local' target, and
+'$(MAKE) -C libspeex distclean' at the 'distclean-local' target.
+
+And is now not contained in the "SUBDIRS" make variable.
+
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-10-01T17:29:03.362639Z
+K 7
+svn:log
+V 107
+Correct location of httpd configuration file in startup script
+
+http://track.sipfoundry.org/browse/XPB-58
+
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-03-11T21:54:46.309356Z
+K 7
+svn:log
+V 155
+Changed the logo from Pingtel to SIPfoundry and changed all the Pingtel specific copyright to SIPfoundry one.
+
+http://track.sipfoundry.org/browse/XPB-208
+
+
+END

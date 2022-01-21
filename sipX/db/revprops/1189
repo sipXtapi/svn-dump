@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-01-31T18:35:12.012438Z
+K 7
+svn:log
+V 60
+Only include <sys/time.h> if building with _PROFILE option.
+
+END

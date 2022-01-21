@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-04-19T17:42:46.277790Z
+K 7
+svn:log
+V 98
+XPR-149: Fix path of cron.daily file. Better regexp pattern matching in
+configuration file tests.
+
+END

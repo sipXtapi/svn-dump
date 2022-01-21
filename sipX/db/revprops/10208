@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-17T08:45:22.194374Z
+K 7
+svn:log
+V 41
+Add G.722 and AMR codecs to Linux build.
+
+END

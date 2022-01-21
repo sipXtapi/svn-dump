@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-12T07:23:00.259190Z
+K 7
+svn:log
+V 39
+Fix assert in MprnDTMFMsg constructor.
+
+END

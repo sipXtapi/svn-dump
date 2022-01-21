@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-12-05T10:57:06.297789Z
+K 7
+svn:log
+V 142
+Reduce race condition window with OsSysLog destruction.
+This is a sort of hack, OsSysLog destruction should be made safe by some other means.
+
+END

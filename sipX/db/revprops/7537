@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-21T19:36:21.771248Z
+K 7
+svn:log
+V 273
+XCF-1249 change the way permissions are tracked in dailing rules to fix support for custom rules
+dialing rules now keep the list of permisison names (and not the list of permissions as before)
+it fixes issues with dialing rules "forgetting" which permissions were selected
+
+END

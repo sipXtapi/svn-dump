@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-05-25T21:07:49.218395Z
+K 7
+svn:log
+V 202
+when system boots up, backup plan was trying to start and this would fail on a system that needs patches applied.  Added a general mechanism to test for applied patches so code and make nec. adjustments
+END

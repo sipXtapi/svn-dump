@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-03-11T19:04:01.604760Z
+K 7
+svn:log
+V 201
+sipXmediaLib: New notification type - MPRNM_FROMFILE_ERROR.
+It is fired when playFile() is called but failed for any reason. This allows caller to stop waiting for other events from FromFile resource.
+
+END

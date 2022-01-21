@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-08T13:25:31.699220Z
+K 7
+svn:log
+V 44
+Put wildcard in svn:ignore for .tar.gz file.
+END

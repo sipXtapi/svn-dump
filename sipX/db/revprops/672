@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-09-30T20:19:32.231521Z
+K 7
+svn:log
+V 255
+1) Minimum changes needed to build on Windows with latest SIPX_ define 
+changes.  The solution for windows/softphone are not ideal.  See 
+XPH-15 for a description of issues.
+
+2) Clean up creation of credentials -- don't delete arrays of zero
+   elements
+
+
+END

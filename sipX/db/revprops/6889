@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-06-02T19:22:09.489877Z
+K 7
+svn:log
+V 148
+Merge in rev 6888 from Sipfoundry 3.4 branch
+
+Implement parked call retrieval by having the park server transfer
+the original call to the executor.
+
+END

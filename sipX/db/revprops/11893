@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-03-23T04:38:00.586354Z
+K 7
+svn:log
+V 81
+Improved out information for ASSERT_EQUAL tests in portable unit test framework.
+
+END

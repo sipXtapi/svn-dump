@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-02-24T22:53:22.305943Z
+K 7
+svn:log
+V 119
+sipXezPhone - added accessors for hCall and hLine to sipXmgr.  Added the Hold Button event handler.  
+  Reformatted.  
+
+END

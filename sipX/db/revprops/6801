@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-05-10T01:13:31.877265Z
+K 7
+svn:log
+V 52
+Fixed build for sipXportLib unit tests on Windows.
+
+
+END

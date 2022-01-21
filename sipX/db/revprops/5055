@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-09-16T02:54:25.086193Z
+K 7
+svn:log
+V 109
+Spring IDE 1.2.3 errors about specifying extraneous class attribute on bean when also specifying factory-bean
+END

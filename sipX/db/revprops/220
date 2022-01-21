@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-09-27T15:08:31.084714Z
+K 7
+svn:log
+V 100
+Fixed miss-quoted logic in the libwww macro that tests
+to see if the libwww libraries are present.
+
+
+END

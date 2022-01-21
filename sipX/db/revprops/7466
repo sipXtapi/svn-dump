@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-09-12T22:47:36.222802Z
+K 7
+svn:log
+V 137
+XCF-1183 Add domain manager to verious other contexts, add unittest default helper for inject default business objects into unit test env
+END

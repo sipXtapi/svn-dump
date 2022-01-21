@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-13T14:24:26.869677Z
+K 7
+svn:log
+V 91
+Add frame description to top of SIP Message windows.
+Delete unused function pupulateModel.
+
+END

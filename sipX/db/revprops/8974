@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-05T04:30:05.234365Z
+K 7
+svn:log
+V 270
+attempt to fix failed unit test on  on PPC, xml parser is leaving CDATA nodes and xmlunit does not believe they are equals to nodes w/o CDATA. I believe the right solution is to change the expected results because we actually do want to ensure data is wrapped in CDATA. 
+END

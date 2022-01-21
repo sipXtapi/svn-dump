@@ -1,0 +1,151 @@
+PLAIN
+K 13
+svn:externals
+V 77
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/post-2.6.1/config
+
+K 10
+svn:ignore
+V 156
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.properties
+config.status
+configure
+libtool
+stamp-h1
+bin.eclipse
+
+K 18
+svnmerge-main-head
+V 46
+https://scm.sipfoundry.org/rep/sipXconfig/main
+K 18
+svnmerge-main-revs
+V 5
+1-123
+END
+ENDREP
+id: 2hf.ha.r3149/408
+type: dir
+pred: 2hf.ha.r3148/15504
+count: 76
+text: 3148 13742 1201 1201 f61a3b515c183b8930ac849d2985782e
+props: 3149 0 395 0 656ff2260018fb72c197417a9a8a3dea
+cpath: /old/sipXconfig/branches/post-2.6.1
+copyroot: 3088 /old/sipXconfig/branches/post-2.6.1
+
+PLAIN
+K 10
+post-2.6.1
+V 20
+dir 2hf.ha.r3149/408
+END
+ENDREP
+id: 4c1.0.r3149/741
+type: dir
+pred: 4c1.0.r3148/15845
+count: 19
+text: 3149 682 46 46 b6a72c7d01b814f13659dd37a16ff4ba
+cpath: /old/sipXconfig/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 4c1.0.r3149/741
+K 4
+main
+V 20
+dir 2hf.0.r3143/1397
+K 4
+tags
+V 19
+dir 4b6.0.r3137/925
+END
+ENDREP
+id: 2he.0.r3149/1030
+type: dir
+pred: 2he.0.r3148/16140
+count: 125
+text: 3149 906 111 111 15e5f7028911ae3c0fdaa613582122df
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 20
+dir 2he.0.r3149/1030
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3149/1634
+type: dir
+pred: 1.0.r3148/16748
+count: 3148
+text: 3149 1190 431 431 9f9f096e3df2ca22d67d9e98792c130d
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3149/1634
+END
+ENDREP
+id: 0.0.r3149/1830
+type: dir
+pred: 0.0.r3148/16947
+count: 3149
+text: 3149 1781 36 36 118e25fe16542495ded0b1dfbdd289a0
+cpath: /
+copyroot: 0 /
+
+2hf.ha.t3148-1 modify false true /old/sipXconfig/branches/post-2.6.1
+
+
+1830 1972

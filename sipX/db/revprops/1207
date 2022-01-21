@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-02-14T16:29:01.765603Z
+K 7
+svn:log
+V 239
+Verify that Player is not in "unrealized" state when handling a ::play() request.
+Put back the previous formating changes (Note to self: Do not attempt to interpret
+code diffs on a Monday morning before having at least one cup of coffee.)
+
+END

@@ -1,0 +1,845 @@
+PLAIN
+K 14
+svn:executable
+V 1
+*
+END
+ENDREP
+id: f4k.0.r10279/43
+type: file
+pred: f4k.0.r10173/398674
+count: 1
+text: 10173 128494 188080 755882 523a120e59e6a7bfd3a7cd0f52ed5bba
+props: 10279 0 30 0 4160c74de5f4e580dc15660c798ff9fc
+cpath: /branches/sipXtapi/sipXmediaLib/contrib/libamrwb/configure
+copyroot: 0 /
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+END
+ENDREP
+id: f4m.0.r10279/352
+type: file
+pred: f4m.0.r10173/399555
+count: 1
+text: 10173 317617 6277 15936 d7d8db17e074dcabf513d766b728993d
+props: 10279 309 30 0 4160c74de5f4e580dc15660c798ff9fc
+cpath: /branches/sipXtapi/sipXmediaLib/contrib/libamrwb/depcomp
+copyroot: 0 /
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+END
+ENDREP
+id: f4h.0.r10279/659
+type: file
+pred: f4h.0.r10173/399741
+count: 1
+text: 10173 98217 2105 3707 b2a35e98453194ca837c363ee9c0d379
+props: 10279 616 30 0 4160c74de5f4e580dc15660c798ff9fc
+cpath: /branches/sipXtapi/sipXmediaLib/contrib/libamrwb/compile
+copyroot: 0 /
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+END
+ENDREP
+id: f4i.0.r10279/964
+type: file
+pred: f4i.0.r10173/400326
+count: 1
+text: 10173 100335 16126 44393 b043b499ad77cdf4df46f292a4b0c60d
+props: 10279 921 30 0 4160c74de5f4e580dc15660c798ff9fc
+cpath: /branches/sipXtapi/sipXmediaLib/contrib/libamrwb/config.guess
+copyroot: 0 /
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+END
+ENDREP
+id: f4j.0.r10279/1277
+type: file
+pred: f4j.0.r10173/401029
+count: 1
+text: 10173 116474 12007 32418 fdf54a7b1c5ffd090f17ce5ab1ee0bf0
+props: 10279 1234 30 0 4160c74de5f4e580dc15660c798ff9fc
+cpath: /branches/sipXtapi/sipXmediaLib/contrib/libamrwb/config.sub
+copyroot: 0 /
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+END
+ENDREP
+id: f4u.0.r10279/1590
+type: file
+pred: f4u.0.r10173/403758
+count: 1
+text: 10173 392225 4287 11014 5d58f0dd4262171a71b65bd515d85d07
+props: 10279 1547 30 0 4160c74de5f4e580dc15660c798ff9fc
+cpath: /branches/sipXtapi/sipXmediaLib/contrib/libamrwb/missing
+copyroot: 0 /
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+END
+ENDREP
+id: f4n.0.r10279/1899
+type: file
+pred: f4n.0.r10173/404675
+count: 1
+text: 10173 323907 4410 9233 aded5875c5d5830de6653181e8ced19c
+props: 10279 1856 30 0 4160c74de5f4e580dc15660c798ff9fc
+cpath: /branches/sipXtapi/sipXmediaLib/contrib/libamrwb/install-sh
+copyroot: 0 /
+
+PLAIN
+K 7
+AUTHORS
+V 24
+file f42.0.r10173/399193
+K 7
+COPYING
+V 24
+file f43.0.r10173/403251
+K 9
+ChangeLog
+V 24
+file f44.0.r10173/399371
+K 7
+INSTALL
+V 24
+file f45.0.r10173/403010
+K 11
+Makefile.am
+V 24
+file f46.0.r10173/403513
+K 11
+Makefile.in
+V 24
+file f47.0.r10173/398947
+K 4
+NEWS
+V 24
+file f48.0.r10173/404139
+K 6
+README
+V 24
+file f49.0.r10173/400788
+K 4
+TODO
+V 24
+file f4a.0.r10173/402422
+K 10
+aclocal.m4
+V 24
+file f4b.0.r10173/404427
+K 22
+amrwb-any-cflags.patch
+V 24
+file f4c.0.r10173/400127
+K 27
+amrwb-dhf-declaration.patch
+V 24
+file f4d.0.r10173/399925
+K 20
+amrwb-intsizes.patch
+V 24
+file f4e.0.r10173/403944
+K 10
+amrwb.spec
+V 24
+file f4f.0.r10173/401575
+K 13
+amrwb.spec.in
+V 24
+file f4g.0.r10173/402681
+K 7
+compile
+V 21
+file f4h.0.r10279/659
+K 12
+config.guess
+V 21
+file f4i.0.r10279/964
+K 10
+config.sub
+V 22
+file f4j.0.r10279/1277
+K 9
+configure
+V 20
+file f4k.0.r10279/43
+K 12
+configure.ac
+V 24
+file f4l.0.r10173/402174
+K 7
+depcomp
+V 21
+file f4m.0.r10279/352
+K 10
+install-sh
+V 22
+file f4n.0.r10279/1899
+K 21
+libamrwb-msvc8.vcproj
+V 23
+file f5f.0.r10180/14583
+K 12
+libamrwb.def
+V 24
+file f4o.0.r10173/400518
+K 15
+libamrwb.vcproj
+V 21
+file f4p.0.r10177/146
+K 9
+ltmain.sh
+V 24
+file f4q.0.r10173/401327
+K 2
+m4
+V 23
+dir f4r.0.r10173/398497
+K 7
+missing
+V 22
+file f4u.0.r10279/1590
+K 21
+prepare_sources.sh.in
+V 24
+file f4v.0.r10173/397390
+END
+ENDREP
+id: f41.0.r10279/3513
+type: dir
+pred: f41.0.r10180/16201
+count: 3
+text: 10279 2167 1333 1333 3792931e7352431074515bd69cd5f383
+cpath: /branches/sipXtapi/sipXmediaLib/contrib/libamrwb
+copyroot: 0 /
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+END
+ENDREP
+id: f3l.0.r10279/3753
+type: file
+pred: f3l.0.r10168/403830
+count: 1
+text: 10168 133718 187627 755470 20f8b3aac753b3e9c59c2530cafcd8e5
+props: 10279 3710 30 0 4160c74de5f4e580dc15660c798ff9fc
+cpath: /branches/sipXtapi/sipXmediaLib/contrib/libamrnb/configure
+copyroot: 0 /
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+END
+ENDREP
+id: f3n.0.r10279/4067
+type: file
+pred: f3n.0.r10168/404899
+count: 1
+text: 10168 322375 6277 15936 d7d8db17e074dcabf513d766b728993d
+props: 10279 4024 30 0 4160c74de5f4e580dc15660c798ff9fc
+cpath: /branches/sipXtapi/sipXmediaLib/contrib/libamrnb/depcomp
+copyroot: 0 /
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+END
+ENDREP
+id: f3i.0.r10279/4376
+type: file
+pred: f3i.0.r10168/405085
+count: 1
+text: 10168 103441 2105 3707 b2a35e98453194ca837c363ee9c0d379
+props: 10279 4333 30 0 4160c74de5f4e580dc15660c798ff9fc
+cpath: /branches/sipXtapi/sipXmediaLib/contrib/libamrnb/compile
+copyroot: 0 /
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+END
+ENDREP
+id: f3j.0.r10279/4684
+type: file
+pred: f3j.0.r10168/405991
+count: 1
+text: 10168 105559 16126 44393 b043b499ad77cdf4df46f292a4b0c60d
+props: 10279 4641 30 0 4160c74de5f4e580dc15660c798ff9fc
+cpath: /branches/sipXtapi/sipXmediaLib/contrib/libamrnb/config.guess
+copyroot: 0 /
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+END
+ENDREP
+id: f3k.0.r10279/4999
+type: file
+pred: f3k.0.r10168/406836
+count: 1
+text: 10168 121698 12007 32418 fdf54a7b1c5ffd090f17ce5ab1ee0bf0
+props: 10279 4956 30 0 4160c74de5f4e580dc15660c798ff9fc
+cpath: /branches/sipXtapi/sipXmediaLib/contrib/libamrnb/config.sub
+copyroot: 0 /
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+END
+ENDREP
+id: f3v.0.r10279/5312
+type: file
+pred: f3v.0.r10168/408915
+count: 1
+text: 10168 396884 4287 11014 5d58f0dd4262171a71b65bd515d85d07
+props: 10279 5269 30 0 4160c74de5f4e580dc15660c798ff9fc
+cpath: /branches/sipXtapi/sipXmediaLib/contrib/libamrnb/missing
+copyroot: 0 /
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+END
+ENDREP
+id: f3o.0.r10279/5621
+type: file
+pred: f3o.0.r10168/409637
+count: 1
+text: 10168 328665 4410 9233 aded5875c5d5830de6653181e8ced19c
+props: 10279 5578 30 0 4160c74de5f4e580dc15660c798ff9fc
+cpath: /branches/sipXtapi/sipXmediaLib/contrib/libamrnb/install-sh
+copyroot: 0 /
+
+PLAIN
+K 7
+AUTHORS
+V 24
+file f33.0.r10168/404537
+K 7
+COPYING
+V 24
+file f34.0.r10168/408408
+K 9
+ChangeLog
+V 24
+file f35.0.r10168/404715
+K 7
+INSTALL
+V 24
+file f36.0.r10168/408167
+K 11
+Makefile.am
+V 24
+file f37.0.r10168/408670
+K 11
+Makefile.in
+V 24
+file f38.0.r10168/404103
+K 4
+NEWS
+V 24
+file f39.0.r10168/409101
+K 6
+README
+V 24
+file f3a.0.r10168/406595
+K 4
+TODO
+V 24
+file f3b.0.r10168/407908
+K 10
+aclocal.m4
+V 24
+file f3c.0.r10168/409389
+K 22
+amrnb-any-cflags.patch
+V 24
+file f3d.0.r10168/402263
+K 20
+amrnb-intsizes.patch
+V 24
+file f3e.0.r10168/407382
+K 27
+amrnb-strict-aliasing.patch
+V 24
+file f3f.0.r10168/405457
+K 10
+amrnb.spec
+V 24
+file f3g.0.r10168/405270
+K 13
+amrnb.spec.in
+V 24
+file f3h.0.r10168/406265
+K 7
+compile
+V 22
+file f3i.0.r10279/4376
+K 12
+config.guess
+V 22
+file f3j.0.r10279/4684
+K 10
+config.sub
+V 22
+file f3k.0.r10279/4999
+K 9
+configure
+V 22
+file f3l.0.r10279/3753
+K 12
+configure.ac
+V 24
+file f3m.0.r10168/407660
+K 7
+depcomp
+V 22
+file f3n.0.r10279/4067
+K 10
+install-sh
+V 22
+file f3o.0.r10279/5621
+K 21
+libamrnb-msvc8.vcproj
+V 23
+file f5e.0.r10180/16479
+K 12
+libamrnb.def
+V 24
+file f3p.0.r10168/404349
+K 15
+libamrnb.vcproj
+V 24
+file f3q.0.r10168/405740
+K 9
+ltmain.sh
+V 24
+file f3r.0.r10168/407134
+K 2
+m4
+V 23
+dir f3s.0.r10168/403653
+K 7
+missing
+V 22
+file f3v.0.r10279/5312
+K 21
+prepare_sources.sh.in
+V 24
+file f3w.0.r10168/402545
+END
+ENDREP
+id: f32.0.r10279/7243
+type: dir
+pred: f32.0.r10180/18097
+count: 2
+text: 10279 5889 1341 1341 4279140cfc58436e81ad6ead60d893af
+cpath: /branches/sipXtapi/sipXmediaLib/contrib/libamrnb
+copyroot: 0 /
+
+PLAIN
+K 8
+libamrnb
+V 21
+dir f32.0.r10279/7243
+K 8
+libamrwb
+V 21
+dir f41.0.r10279/3513
+K 6
+libgsm
+V 20
+dir ebx.0.r9774/1591
+K 7
+libilbc
+V 21
+dir ezs.0.r10159/1224
+K 10
+libspandsp
+V 21
+dir f50.0.r10178/4400
+END
+ENDREP
+id: ebw.0.r10279/7656
+type: dir
+pred: ebw.0.r10259/91
+count: 17
+text: 10279 7440 203 203 b586fc510b8c01f6f00d6a1c2a9d8a3e
+props: 10259 0 78 0 ba8cb2f282badd8886af10678e6e535b
+cpath: /branches/sipXtapi/sipXmediaLib/contrib
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 25
+file b41.0.r6469/22054157
+K 9
+ChangeLog
+V 25
+file b42.0.r6469/22025314
+K 7
+INSTALL
+V 24
+file b43.0.r6955/1728056
+K 11
+Makefile.am
+V 22
+file b44.0.r9285/62880
+K 4
+NEWS
+V 25
+file b45.0.r6469/22058814
+K 6
+README
+V 24
+file b46.0.r6955/1727035
+K 4
+TODO
+V 25
+file b47.0.r6469/22057442
+K 9
+acsite.m4
+V 24
+file b48.0.r6955/1726702
+K 3
+bin
+V 21
+dir b49.0.r9285/62616
+K 12
+configure.ac
+V 22
+file b4k.0.r10208/7743
+K 7
+contrib
+V 21
+dir ebw.0.r10279/7656
+K 3
+doc
+V 21
+dir b4l.0.r9673/16679
+K 7
+include
+V 21
+dir b4p.0.r10275/9595
+K 3
+lib
+V 24
+dir b8u.0.r6469/22057603
+K 4
+meta
+V 24
+dir b8v.0.r6469/22024982
+K 25
+sipXmediaLib-msvc8.vcproj
+V 23
+file e76.0.r10275/17155
+K 16
+sipXmediaLib.dsp
+V 24
+file up.670.r10275/16847
+K 16
+sipXmediaLib.vcp
+V 22
+file e6i.0.r9956/38866
+K 19
+sipXmediaLib.vcproj
+V 23
+file b92.0.r10275/17362
+K 29
+sipXmediaLibTest-msvc8.vcproj
+V 23
+file e77.0.r10268/10166
+K 20
+sipXmediaLibTest.dsp
+V 23
+file mh.671.r10268/9910
+K 20
+sipXmediaLibTest.sln
+V 23
+file eaj.0.r8484/543808
+K 20
+sipXmediaLibTest.vcp
+V 22
+file e6j.0.r8865/20512
+K 23
+sipXmediaLibTest.vcproj
+V 23
+file eak.0.r10268/10375
+K 20
+sipxmedialib.spec.in
+V 23
+file b93.0.r7578/102965
+K 3
+src
+V 21
+dir b94.0.r10277/2385
+END
+ENDREP
+id: b40.0.r10279/9119
+type: dir
+pred: b40.0.r10277/3792
+count: 780
+text: 10279 7893 1213 1213 a968ece450b3e75ed135721260ca3a37
+props: 9032 16570 214 0 77545161d1a06c0f5ca1788673e28006
+cpath: /branches/sipXtapi/sipXmediaLib
+copyroot: 0 /
+
+PLAIN
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 14
+build_evc4.bat
+V 21
+file e6c.0.r8504/2231
+K 14
+buildmsvs6.bat
+V 22
+file dm4.66u.r9234/175
+K 6
+config
+V 21
+dir 9wj.0.r10223/1419
+K 10
+readme.txt
+V 20
+file 9ws.0.r9463/434
+K 14
+sipX-msvc8.sln
+V 22
+file e73.0.r10109/1082
+K 11
+sipXcallLib
+V 21
+dir 9wt.0.r10260/2129
+K 19
+sipXmediaAdapterLib
+V 21
+dir b2p.0.r10266/3100
+K 12
+sipXmediaLib
+V 21
+dir b40.0.r10279/9119
+K 11
+sipXportLib
+V 22
+dir bcf.0.r10141/10300
+K 10
+sipXsdpLib
+V 21
+dir e7v.0.r10248/2811
+K 11
+sipXtackLib
+V 21
+dir boq.0.r10249/8256
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.0.r10279/10005
+type: dir
+pred: 9wi.0.r10277/4678
+count: 1373
+text: 10279 9357 635 635 6284c62b1e868387bebc6c1b45369c73
+cpath: /branches/sipXtapi
+copyroot: 0 /
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r8066/42815
+K 3
+3.6
+V 23
+dir 7q4.50x.r9677/12870
+K 7
+bbridge
+V 22
+dir 7q4.68z.r9829/4609
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 8
+sipXtapi
+V 22
+dir 9wi.0.r10279/10005
+K 12
+sipXtapi-AOL
+V 23
+dir 9wi.7jw.r9655/14919
+K 11
+sipXtapi-UC
+V 22
+dir 9wi.7jy.r9594/5049
+K 21
+sipXtapi-media-update
+V 24
+dir 9wi.3ke.r10278/48652
+K 14
+sipXtapi.wince
+V 24
+dir 9wi.662.r8313/638537
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 21
+dir 7q4.4t1.r7562/240
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 14
+virtual-domain
+V 24
+dir 7q4.4t6.r8010/314955
+END
+ENDREP
+id: 7pt.0.r10279/11167
+type: dir
+pred: 7pt.0.r10278/49922
+count: 2724
+text: 10279 10173 981 981 b8131bcead1e5c8f87d68363c0f0c54a
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 22
+dir 7pt.0.r10279/11167
+K 4
+main
+V 20
+dir 7q4.0.r9837/8232
+K 4
+tags
+V 20
+dir 7q5.0.r9367/2658
+END
+ENDREP
+id: 0.0.r10279/11456
+type: dir
+pred: 0.0.r10278/50210
+count: 10279
+text: 10279 11328 115 115 5c1fa3057115914be95bccc70ab87880
+cpath: /
+copyroot: 0 /
+
+f3j.0.t10278-1 modify false true /branches/sipXtapi/sipXmediaLib/contrib/libamrnb/config.guess
+
+f4k.0.t10278-1 modify false true /branches/sipXtapi/sipXmediaLib/contrib/libamrwb/configure
+
+f3k.0.t10278-1 modify false true /branches/sipXtapi/sipXmediaLib/contrib/libamrnb/config.sub
+
+f3o.0.t10278-1 modify false true /branches/sipXtapi/sipXmediaLib/contrib/libamrnb/install-sh
+
+f4m.0.t10278-1 modify false true /branches/sipXtapi/sipXmediaLib/contrib/libamrwb/depcomp
+
+f3l.0.t10278-1 modify false true /branches/sipXtapi/sipXmediaLib/contrib/libamrnb/configure
+
+f4h.0.t10278-1 modify false true /branches/sipXtapi/sipXmediaLib/contrib/libamrwb/compile
+
+f4u.0.t10278-1 modify false true /branches/sipXtapi/sipXmediaLib/contrib/libamrwb/missing
+
+f4i.0.t10278-1 modify false true /branches/sipXtapi/sipXmediaLib/contrib/libamrwb/config.guess
+
+f4j.0.t10278-1 modify false true /branches/sipXtapi/sipXmediaLib/contrib/libamrwb/config.sub
+
+f3n.0.t10278-1 modify false true /branches/sipXtapi/sipXmediaLib/contrib/libamrnb/depcomp
+
+f4n.0.t10278-1 modify false true /branches/sipXtapi/sipXmediaLib/contrib/libamrwb/install-sh
+
+f3i.0.t10278-1 modify false true /branches/sipXtapi/sipXmediaLib/contrib/libamrnb/compile
+
+f3v.0.t10278-1 modify false true /branches/sipXtapi/sipXmediaLib/contrib/libamrnb/missing
+
+
+11456 11606

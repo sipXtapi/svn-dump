@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-02-23T20:15:20.108421Z
+K 7
+svn:log
+V 117
+sipXtapi - added Line Event firing in SipRefreshMgr, created new sipXtapi specific configurations in the .dsp file.
+
+
+END

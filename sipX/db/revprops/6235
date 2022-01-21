@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-23T23:09:05.009376Z
+K 7
+svn:log
+V 252
+XCF-753 user friendly error page used
+this is the same page that we used with Tapestry 3, in oreder to see the full error information swtich off styling (View->PAge Style->No Style in Firefox)
+verbose error information is also logged in sipxconfig.log
+
+END

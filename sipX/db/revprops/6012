@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-02-01T19:00:16.438149Z
+K 7
+svn:log
+V 170
+Create registrations.cgi to display the current registrations.
+Update index.html to refer to registrations.cgi, add references to SIPit,
+and add a disclaimer of privacy.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-07-12T21:24:02.358140Z
+K 7
+svn:log
+V 31
+Add function for the FNV hash.
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-02-21T23:12:14.440533Z
+K 7
+svn:log
+V 144
+Initial implementation of MpInputDeviceManager MprFromInputDevice.
+Buyer beware: this is not yet tested.  No unit tests have been created yet.
+
+
+END

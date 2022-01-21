@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-08-30T15:25:58.223008Z
+K 7
+svn:log
+V 99
+Remove weird do-nothing twisting around codec list from sipXmediaFactoryImpl::buildCodecFactory().
+
+END

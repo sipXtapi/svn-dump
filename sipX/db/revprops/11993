@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-11-15T16:34:58.177618Z
+K 7
+svn:log
+V 59
+Fix potential dead lock on sipXtapi CONF data object locks
+
+END

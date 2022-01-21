@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-04-06T01:38:41.970303Z
+K 7
+svn:log
+V 144
+XCF-286 - I have 1GB and I ran out of memory, Java hits a ceiling (256 maybe) and won't grab anymore unless you tell it so I increased it to 384
+END

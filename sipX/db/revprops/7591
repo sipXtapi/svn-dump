@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-09-27T14:42:34.080445Z
+K 7
+svn:log
+V 48
+Add reference to OsDefs.h to support strcasecmp.
+END

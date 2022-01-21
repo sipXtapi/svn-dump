@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-06-25T18:13:35.023299Z
+K 7
+svn:log
+V 71
+sipXportLib: Implement sending message to a OsMsgQ without copying it.
+
+END

@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-09-05T16:04:08.724095Z
+K 7
+svn:log
+V 301
+Merged revisions 7401 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7401 | mcohen | 2006-09-03 20:33:22 +0400 | 4 lines
+  
+  setGain should belooking for the component type:
+  MIXERLINE_COMPONENTTYPE_SRC_MICROPHONE
+  Fixes the sipXtapiTest testGainAPI
+........
+
+END

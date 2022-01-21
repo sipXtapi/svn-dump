@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-16T23:54:20.423931Z
+K 7
+svn:log
+V 127
+Changes for GSM and Speex build under VS2003.
+
+* Speex library input paths added
+* HAVE_GSM and HAVE_SPEEX defined by default.
+
+END

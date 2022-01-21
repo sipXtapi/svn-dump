@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-10-06T17:33:45.574710Z
+K 7
+svn:log
+V 198
+Disable verbose transaction search time logging.
+
+Log warning when a header parameter is disallowed
+ (as opposed to printing it on stdout where no one will see it)
+
+update cppunit autoconfiguration
+
+END

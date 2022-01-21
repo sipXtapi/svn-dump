@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-11-17T22:45:35.129128Z
+K 7
+svn:log
+V 115
+Code formatting rules for Eclipse.
+To import:
+Windows/Preferences Java/Code Style/Code Formatter - press Import...
+
+END

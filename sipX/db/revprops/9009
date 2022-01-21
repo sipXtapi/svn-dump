@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-03-08T18:12:10.921416Z
+K 7
+svn:log
+V 107
+New unittest: OsServerTaskTest.
+Its purpose is to test issue with thread shutdown right after its startup.
+
+END

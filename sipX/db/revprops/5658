@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-11-28T20:49:53.125898Z
+K 7
+svn:log
+V 353
+[XSL-112] [XPL-136] Make UtlContainable types public and use them in XmlRpc
+
+  The isInstanceOf and the TYPE constant in each of the UtlContainable types 
+  was either protected or private.  Move all of these to public so that code
+  can efficiently test for a type match:
+
+  UtlContainable* foo = something();
+  if (foo->isInstanceOf(UtlString::TYPE))
+
+END

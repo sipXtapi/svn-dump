@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+cypromis
+K 8
+svn:date
+V 27
+2006-07-11T17:31:13.917698Z
+K 7
+svn:log
+V 124
+Changes to the build system to cater for multiple compilers.
+Multiple platforms to follow soon and some finetuning as well
+
+
+END

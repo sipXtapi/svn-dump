@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-22T17:42:25.517811Z
+K 7
+svn:log
+V 657
+Tune connection pooling.  Related to XCF-643 although it doesn't fix that bug.
+Minimize startup time by creating the first DB connection on demand, not in advance.
+Cap the number of active DB connections to 8 to avoid bogging down the machine.  Since  we hold onto a connection only for the duration of a web request, we should not need to use many connections simultaneously.
+If we have to wait for more than five minutes to get a DB connection, then give up and throw an exception rather than just hanging forever.  This will give us better debug info as to what's going wrong.
+If a connection has been idle for five minutes, then allow it to be evicted.
+
+END

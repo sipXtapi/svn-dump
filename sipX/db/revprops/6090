@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-02-10T14:39:25.362602Z
+K 7
+svn:log
+V 275
+Adding persistent connections to HttpMessage and HttpServer. On the
+client side a connection is kept in a connection map and existing
+connections can be looked up and reused. On the server side a 
+connection is kept open and runs as an OsTask until it is closed
+by the peer.
+
+END

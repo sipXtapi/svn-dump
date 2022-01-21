@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-11-18T22:43:36.969010Z
+K 7
+svn:log
+V 56
+Disable checkstyle until compilation problem is resolved
+END

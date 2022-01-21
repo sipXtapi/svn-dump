@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2013-01-23T18:53:29.970113Z
+K 7
+svn:log
+V 568
+Upon receiving the first provisional response for a cancelled transaction, only send CANCEL once.
+Otherwise we keep sending CANCEL requests when we get a provisional response for the cancelled INVITE.
+Bria got in a weird state and kept sending provisional responses for CANCEL and we got in a tight
+loop of receiving 3000+ 100 Trying responses for CANCEL and sending 3000+ CANCELs in 25 seconds.
+This filled the SipUserAgent message queue, blocked the OsTimerTask from queuing timers, then blocked
+OsNatAgentTask from cancelling timers, and we got in a huge deadlock.
+
+END

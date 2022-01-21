@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-30T16:37:32.797524Z
+K 7
+svn:log
+V 390
+Fix XCF-673: Add users - click on Apply and then Ok - shows error message.
+Give the NewUser page a persistent userId property.  Otherwise if the admin hits Apply and stays on the page, then hits Apply again, then we'll try to save the new user a second time and run into trouble.
+Create the class PageWithCallback to encapsulate and reuse knowledge about the callbacks used by FormActions.
+
+END

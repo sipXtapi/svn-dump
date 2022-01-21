@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-04-28T14:38:33.598808Z
+K 7
+svn:log
+V 99
+XPB-259 support vxml parameters with fixed values like operator and otherwise if null, print 'none'
+END

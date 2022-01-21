@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-02-09T23:20:21.130796Z
+K 7
+svn:log
+V 169
+add polycom support for Registration, Call Handling, Diversion, Dial Plan, Messaging.  change test-db fork mode, make setting display group names as page section headers
+END

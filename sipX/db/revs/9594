@@ -1,0 +1,519 @@
+PLAIN
+END
+ENDREP
+id: bde.7jy.r9594/17
+type: dir
+pred: bde.0.r9571/38647
+count: 83
+text: 9571 38424 210 210 aa14ab1dda165a058e32557cf0c34554
+props: 9594 0 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /branches/sipXtapi-UC/sipXportLib/include
+copyroot: 9592 /branches/sipXtapi-UC
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 25
+file bcg.0.r6469/21591964
+K 9
+ChangeLog
+V 25
+file bch.0.r6469/21535752
+K 7
+INSTALL
+V 20
+file bci.0.r8760/962
+K 11
+Makefile.am
+V 22
+file bcj.0.r9285/35165
+K 4
+NEWS
+V 25
+file bck.0.r6469/21599943
+K 6
+README
+V 24
+file bcl.0.r6955/1419372
+K 4
+TODO
+V 25
+file bcm.0.r6469/21597743
+K 9
+acsite.m4
+V 24
+file bcn.0.r6955/1417808
+K 3
+bin
+V 21
+dir bco.0.r9285/34903
+K 12
+configure.ac
+V 24
+file bd3.0.r6711/4505206
+K 3
+doc
+V 21
+dir bd4.0.r9285/34127
+K 7
+include
+V 20
+dir bde.7jy.r9594/17
+K 4
+meta
+V 24
+dir bhw.0.r6469/21535422
+K 24
+sipXportLib-msvc8.vcproj
+V 22
+file e78.0.r9571/29037
+K 15
+sipXportLib.dsp
+V 23
+file 4c.672.r9571/47601
+K 15
+sipXportLib.vcp
+V 22
+file e6k.0.r8667/79650
+K 18
+sipXportLib.vcproj
+V 19
+file bi1.0.r9573/87
+K 28
+sipXportLibTest-msvc8.vcproj
+V 22
+file e79.0.r9456/13120
+K 19
+sipXportLibTest.dsp
+V 22
+file ap.673.r9037/3655
+K 19
+sipXportLibTest.sln
+V 25
+file bi2.0.r6469/21599763
+K 19
+sipXportLibTest.vcp
+V 22
+file e6l.0.r9027/28874
+K 22
+sipXportLibTest.vcproj
+V 21
+file bi3.0.r9009/2807
+K 29
+sipXportLib_NoSecurity.vcproj
+V 23
+file bi4.0.r8484/442220
+K 30
+sipXunitTestSuite-msvc8.vcproj
+V 22
+file exf.0.r9456/13327
+K 24
+sipXunitTestSuite.vcproj
+V 21
+file eb6.0.r8855/8132
+K 19
+sipxportlib.spec.in
+V 24
+file bi5.0.r6955/1422006
+K 3
+src
+V 21
+dir bi6.0.r9572/43536
+K 12
+syslogviewer
+V 21
+dir bom.0.r9285/33145
+END
+ENDREP
+id: bcf.7jy.r9594/1637
+type: dir
+pred: bcf.7jy.r9593/182
+count: 189
+text: 9594 278 1346 1346 1c8408c5f10aafbc23b71f9c1af76aa8
+props: 9593 0 169 0 aabd506067ca93427d6e5d0fa677216b
+cpath: /branches/sipXtapi-UC/sipXportLib
+copyroot: 9592 /branches/sipXtapi-UC
+
+PLAIN
+END
+ENDREP
+id: bq1.7jy.r9594/1912
+type: dir
+pred: bq1.0.r9578/6054
+count: 43
+text: 9578 5918 123 123 c058c4252c1aed19983d052e3db73ad2
+props: 9594 1895 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /branches/sipXtapi-UC/sipXtackLib/include
+copyroot: 9592 /branches/sipXtapi-UC
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 25
+file bor.0.r6469/22114347
+K 9
+ChangeLog
+V 25
+file bos.0.r6469/22149247
+K 7
+INSTALL
+V 24
+file bot.0.r6955/1737850
+K 11
+Makefile.am
+V 22
+file bou.0.r9285/80469
+K 4
+NEWS
+V 25
+file bov.0.r6469/22121423
+K 6
+README
+V 24
+file bow.0.r6955/1738184
+K 4
+TODO
+V 25
+file box.0.r6469/22151942
+K 9
+acsite.m4
+V 24
+file boy.0.r6955/1731963
+K 14
+ant-targets.am
+V 24
+file boz.0.r6711/5226484
+K 15
+ant-targets.xml
+V 25
+file bp0.0.r6469/22149418
+K 3
+bin
+V 21
+dir bp1.0.r9285/78161
+K 8
+cert8.db
+V 25
+file bp3.0.r6469/22154413
+K 20
+config.properties.in
+V 24
+file bpd.0.r6955/1734502
+K 12
+configure.ac
+V 21
+file bpe.0.r8534/8572
+K 11
+dialogwatch
+V 21
+dir dsz.0.r9285/71995
+K 3
+doc
+V 21
+dir bpf.0.r9285/77584
+K 8
+examples
+V 20
+dir bpw.0.r9428/2357
+K 7
+include
+V 22
+dir bq1.7jy.r9594/1912
+K 7
+key3.db
+V 25
+file bt7.0.r6469/22151521
+K 3
+lib
+V 24
+dir bt8.0.r6469/22119550
+K 22
+mcohen@pingtel.com.p12
+V 25
+file btb.0.r6469/22121180
+K 4
+meta
+V 21
+dir btc.0.r9285/71316
+K 9
+secmod.db
+V 25
+file btj.0.r6469/22151225
+K 24
+sipXtackLib-msvc8.vcproj
+V 22
+file e7a.0.r9457/29610
+K 15
+sipXtackLib.dsp
+V 23
+file gj.674.r9037/11859
+K 15
+sipXtackLib.vcp
+V 22
+file e6m.0.r8918/17060
+K 18
+sipXtackLib.vcproj
+V 21
+file btk.0.r8649/4361
+K 28
+sipXtackLibTest-msvc8.vcproj
+V 22
+file e7b.0.r9456/22877
+K 19
+sipXtackLibTest.dsp
+V 23
+file mh.675.r9037/11607
+K 19
+sipXtackLibTest.sln
+V 23
+file btl.0.r7990/285820
+K 19
+sipXtackLibTest.vcp
+V 22
+file e6n.0.r9041/21232
+K 22
+sipXtackLibTest.vcproj
+V 21
+file btm.0.r9020/5244
+K 29
+sipXtackLib_NoSecurity.vcproj
+V 21
+file btn.0.r8649/4556
+K 15
+siplog2siptrace
+V 21
+dir bto.0.r9285/78789
+K 7
+siptest
+V 21
+dir btr.0.r9285/76831
+K 9
+sipviewer
+V 21
+dir buv.0.r9285/81324
+K 19
+sipxtacklib.spec.in
+V 24
+file bvi.0.r6955/1738517
+K 3
+src
+V 21
+dir bvj.0.r9579/11173
+K 15
+syslog2siptrace
+V 21
+dir byz.0.r9285/80194
+K 16
+tcpdump2siptrace
+V 25
+file bz3.0.r6469/22149596
+K 32
+user_cert_mcohen@pingtel.com.der
+V 25
+file bz4.0.r6469/22150908
+END
+ENDREP
+id: boq.7jy.r9594/4136
+type: dir
+pred: boq.7jy.r9593/2016
+count: 134
+text: 9594 2176 1947 1947 b52de97cbe9ae6c8fa4fe1edb5acfc59
+props: 9593 1793 210 0 880bd3284da0b593163e1cc6ba0fe606
+cpath: /branches/sipXtapi-UC/sipXtackLib
+copyroot: 9592 /branches/sipXtapi-UC
+
+PLAIN
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 14
+build_evc4.bat
+V 21
+file e6c.0.r8504/2231
+K 14
+buildmsvs6.bat
+V 22
+file dm4.66u.r9234/175
+K 6
+config
+V 20
+dir 9wj.0.r8547/1557
+K 10
+readme.txt
+V 20
+file 9ws.0.r9463/434
+K 14
+sipX-msvc8.sln
+V 22
+file e73.0.r9456/22698
+K 11
+sipXcallLib
+V 21
+dir 9wt.7jy.r9593/727
+K 19
+sipXmediaAdapterLib
+V 22
+dir b2p.7jy.r9593/1525
+K 12
+sipXmediaLib
+V 22
+dir b40.7jy.r9593/1119
+K 11
+sipXportLib
+V 22
+dir bcf.7jy.r9594/1637
+K 10
+sipXsdpLib
+V 21
+dir e7v.7jy.r9593/455
+K 11
+sipXtackLib
+V 22
+dir boq.7jy.r9594/4136
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7jy.r9594/5049
+type: dir
+pred: 9wi.7jy.r9593/2928
+count: 720
+text: 9594 4399 637 637 a96efc0814192486e3305240e3a400db
+cpath: /branches/sipXtapi-UC
+copyroot: 9592 /branches/sipXtapi-UC
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r8066/42815
+K 3
+3.6
+V 22
+dir 7q4.50x.r8955/2083
+K 7
+bbridge
+V 22
+dir 7q4.68z.r8427/2781
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 8
+sipXtapi
+V 20
+dir 9wi.0.r9591/4330
+K 12
+sipXtapi-AOL
+V 22
+dir 9wi.7jw.r9588/3586
+K 11
+sipXtapi-UC
+V 22
+dir 9wi.7jy.r9594/5049
+K 21
+sipXtapi-media-update
+V 23
+dir 9wi.3ke.r8871/11907
+K 14
+sipXtapi.wince
+V 24
+dir 9wi.662.r8313/638537
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 21
+dir 7q4.4t1.r7562/240
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 14
+virtual-domain
+V 24
+dir 7q4.4t6.r8010/314955
+END
+ENDREP
+id: 7pt.0.r9594/6231
+type: dir
+pred: 7pt.0.r9593/4107
+count: 2043
+text: 9594 5242 976 976 a9418f51ae1b93670e2bebeb722ae8a7
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r9594/6231
+K 4
+main
+V 20
+dir 7q4.0.r9374/1770
+K 4
+tags
+V 20
+dir 7q5.0.r9367/2658
+END
+ENDREP
+id: 0.0.r9594/6512
+type: dir
+pred: 0.0.r9593/4388
+count: 9594
+text: 9594 6386 113 113 0d2a2ef177548da4ee9a34ae971af304
+cpath: /
+copyroot: 0 /
+
+bq1.7jy.t9593-1 modify false true /branches/sipXtapi-UC/sipXtackLib/include
+
+bde.7jy.t9593-1 modify false true /branches/sipXtapi-UC/sipXportLib/include
+
+
+6512 6655

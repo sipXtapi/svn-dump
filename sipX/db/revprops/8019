@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-11-18T17:05:20.990969Z
+K 7
+svn:log
+V 90
+Continued implementation of WinCEFixups (implementing required functionality for WINCE).
+
+
+END

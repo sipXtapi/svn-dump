@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-04-05T16:05:54.229229Z
+K 7
+svn:log
+V 128
+Update Interop config mappingrules to recognize all 4 standard SIP
+domains, and to handle MOH and resource list URIs correctly.
+
+END

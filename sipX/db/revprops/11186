@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-15T14:56:01.938505Z
+K 7
+svn:log
+V 182
+sipXmediaAdapterLib: Add configure option --disable-local-audio to enable server mode.
+In this mode we use a timer for media processing heartbeat and don't engage sound card at all.
+
+END

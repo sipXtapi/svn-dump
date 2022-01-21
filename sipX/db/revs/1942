@@ -1,0 +1,196 @@
+PLAIN
+K 13
+svn:externals
+V 75
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-M/config
+
+K 10
+svn:ignore
+V 183
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxcommserverlib-*.tar.gz
+sipxcommserverlib.spec
+stamp-h1
+
+K 18
+svnmerge-main-head
+V 53
+https://scm.sipfoundry.org/rep/sipXcommserverLib/main
+K 18
+svnmerge-main-revs
+V 5
+1-105
+END
+ENDREP
+id: 1qo.8r.r1942/440
+type: dir
+pred: 1qo.8e.r1938/2011
+count: 106
+text: 1938 1212 786 786 40ef0c4cb86bcc6d7db88e1692cfc72e
+props: 1942 0 427 0 dfde4d974dde2f00102651401b34a611
+cpath: /old/sipXcommserverLib/tags/2.6-export-M
+copyfrom: 1941 /old/sipXcommserverLib/branches/2.6
+
+PLAIN
+K 5
+2.5.1
+V 20
+dir 1qo.81.r1809/199
+K 5
+2.5.2
+V 21
+dir 1qo.82.r1825/1265
+K 12
+2.6-export-A
+V 20
+dir 1qo.8f.r1908/563
+K 12
+2.6-export-B
+V 20
+dir 1qo.8g.r1911/563
+K 12
+2.6-export-C
+V 20
+dir 1qo.8h.r1918/563
+K 12
+2.6-export-D
+V 20
+dir 1qo.8i.r1919/563
+K 12
+2.6-export-E
+V 20
+dir 1qo.8j.r1920/563
+K 12
+2.6-export-F
+V 20
+dir 1qo.8k.r1924/563
+K 12
+2.6-export-G
+V 20
+dir 1qo.8m.r1929/440
+K 12
+2.6-export-H
+V 20
+dir 1qo.8n.r1931/440
+K 12
+2.6-export-J
+V 20
+dir 1qo.8o.r1934/440
+K 12
+2.6-export-K
+V 20
+dir 1qo.8p.r1940/440
+K 12
+2.6-export-L
+V 20
+dir 1qo.8q.r1941/440
+K 12
+2.6-export-M
+V 20
+dir 1qo.8r.r1942/440
+K 5
+2.6.1
+V 20
+dir 1qo.8l.r1926/556
+K 13
+main-export-B
+V 20
+dir 1qo.8c.r1903/441
+K 13
+main-export-C
+V 20
+dir 1qo.8d.r1906/441
+END
+ENDREP
+id: 1uu.0.r1942/1460
+type: dir
+pred: 1uu.0.r1941/1416
+count: 18
+text: 1942 716 731 731 f87e8e441ae822f98973dffcd712a2dd
+cpath: /old/sipXcommserverLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1v5.0.r1938/2335
+K 4
+main
+V 20
+dir 1qo.0.r1939/1911
+K 4
+tags
+V 20
+dir 1uu.0.r1942/1460
+END
+ENDREP
+id: 1qn.0.r1942/1756
+type: dir
+pred: 1qn.0.r1941/1712
+count: 145
+text: 1942 1630 113 113 149e5ae0c3888b8aaed8f9ff75d800c2
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r1942/1756
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1942/2157
+type: dir
+pred: 1.0.r1941/2113
+count: 1941
+text: 1942 1923 221 221 edcc6730943fbceb32a28cca72f68755
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1942/2157
+END
+ENDREP
+id: 0.0.r1942/2352
+type: dir
+pred: 0.0.r1941/2308
+count: 1942
+text: 1942 2303 36 36 a45fab9445fc9d5e366ae17849098c8a
+cpath: /
+copyroot: 0 /
+
+1qo._0.t1941-1 add false true /old/sipXcommserverLib/tags/2.6-export-M
+1941 /old/sipXcommserverLib/branches/2.6
+
+2352 2493

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-02-17T16:41:54.932311Z
+K 7
+svn:log
+V 85
+Rename MetaStorage to Folder and SettingMeta to FolderValue(soon to be FolderSetting)
+END

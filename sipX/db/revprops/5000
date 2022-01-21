@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-09-07T22:06:15.994123Z
+K 7
+svn:log
+V 84
+XCF-482 Create operator auto attendant on system initialize and migration completion
+END

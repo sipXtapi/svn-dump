@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2005-02-10T20:10:09.496360Z
+K 7
+svn:log
+V 181
+Attempt to make sipXphone build under Linux again - work still in progress. Libraries now have to be checked out in parallel directories and built first explicitely before sipXphone
+END

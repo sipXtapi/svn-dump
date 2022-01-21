@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-13T18:55:14.753888Z
+K 7
+svn:log
+V 257
+Added a method to control logging from sipXtapi.   Previously,
+sipXtapi defaulted to creating a log named "sipXtapi.log" in the
+current working directory.  Now, logging is disabled until you
+explicitly enable it.  See sipxConfigEnableLog(...) for details.
+
+
+END

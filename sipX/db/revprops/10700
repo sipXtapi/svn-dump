@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-07-01T21:11:22.874565Z
+K 7
+svn:log
+V 194
+Add new test to MpInputOutputFrameworkTest - testOutput(), aimed at measuring soundcard jitter and clock-skew. It remain disabled by default, because it require special setup to be carried out.
+
+END

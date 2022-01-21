@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-09T15:08:35.555106Z
+K 7
+svn:log
+V 64
+Fix sipXsdpLibTest to match latest changes to SdpCandidatePair.
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-27T02:22:55.690463Z
+K 7
+svn:log
+V 169
+http://track.sipfoundry.org/browse/XVX-45
+Ensure the VXML behaves properly (returns with "end of messages" indication)
+if action=playmsg is invoked on an empty mailbox.
+
+END

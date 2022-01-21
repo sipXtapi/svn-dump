@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-09-05T00:27:03.494855Z
+K 7
+svn:log
+V 66
+Fix Doxygen documentation and formatting in MpCodecFactory header.
+END

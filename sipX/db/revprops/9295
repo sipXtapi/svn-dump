@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-04-09T21:38:33.247971Z
+K 7
+svn:log
+V 115
+Some minor refactoring and clean up to minimize the scope of
+  MpCallFlowGraph
+  MpConnection
+  MpAUdioConnection
+
+
+END

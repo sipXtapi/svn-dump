@@ -1,0 +1,76 @@
+id: 2he.0.r3024/0
+type: dir
+count: 0
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 17
+dir 2he.0.r3024/0
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3024/516
+type: dir
+pred: 1.0.r3023/3834
+count: 3023
+text: 3024 75 428 428 78d9eb6b461127332dec99e00fd602f1
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r3024/516
+END
+ENDREP
+id: 0.0.r3024/707
+type: dir
+pred: 0.0.r3023/4029
+count: 3024
+text: 3024 659 35 35 cfc9e29794ba898e1a97dc7e3d36dd46
+cpath: /
+copyroot: 0 /
+
+_0.0.t3023-1 add false false /old/sipXconfig
+
+
+707 846

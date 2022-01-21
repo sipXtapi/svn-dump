@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-03-11T19:08:39.730436Z
+K 7
+svn:log
+V 179
+sipXmediaLib: Big fix of MprFromFile.
+Now it correctly maintain internal state and does not emit duplicated notificatioins if e.g. it is already stopped and stopFile() is called.
+
+END

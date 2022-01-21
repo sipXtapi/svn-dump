@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-10-17T23:59:31.256039Z
+K 7
+svn:log
+V 70
+Add ability to set speech type on generated frames in MpTestResource.
+
+END

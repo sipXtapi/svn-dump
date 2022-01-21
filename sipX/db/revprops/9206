@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2007-03-30T20:12:50.796438Z
+K 7
+svn:log
+V 738
+Correct voicemail "e-mail" notifications
+
+Use UTF-8 and 8bit transport for MIME parts.  This enables non-ascii
+characters and corrects a bug where links in the HTML part would not
+work in Opera and Entourage (due to quoted-printable transfer encoding
+mucking up parameters, e.g. mailbox=0001 would be converted into mailbox(NULL)
+because the quoted-printable transport uses the =NN escape sequence, and
+the HTML was not escaped correctly)
+
+Only send one e-mail on forwarded messages, with the merged comment and
+forwarded message included.  Previously two e-mails were sent, one with
+just the comment (empty if there was no comment), and one with the merged
+content.
+
+Cleaned up the code so it was more readable (to me, anyway).
+
+--Woof!
+
+END

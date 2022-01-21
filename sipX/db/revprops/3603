@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-03T16:18:21.524380Z
+K 7
+svn:log
+V 110
+XCF-174 - progress towards restarting polycom devices, sip messaging in and tested, starting to hook to ui now
+END

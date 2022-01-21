@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-11T15:02:37.746583Z
+K 7
+svn:log
+V 46
+Build fix: Add MpResourceMsg to VS2003 build.
+
+END

@@ -1,0 +1,509 @@
+PLAIN
+K 10
+svn:ignore
+V 10
+version.h
+
+END
+ENDREP
+id: e7.0.r657/49
+type: dir
+pred: e7.0.r655/3931
+count: 12
+text: 655 1903 2015 2015 e34c06aadd616900ed12ac90ae339e29
+props: 657 0 36 0 ff257944efec6d85a2de8765123bcfd4
+cpath: /old/sipXtackLib/main/include/net
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 19
+file e6.0.r637/3834
+K 3
+net
+V 16
+dir e7.0.r657/49
+K 8
+resparse
+V 19
+dir fp.0.r627/16666
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: e5.0.r657/459
+type: dir
+pred: e5.0.r655/4234
+count: 13
+text: 657 272 114 114 35251fabd3f3820a407378089a8d6b93
+props: 657 399 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXtackLib/main/include
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 51
+.deps
+.libs
+Makefile
+Makefile.in
+sandbox
+testsuite
+
+END
+ENDREP
+id: k9.0.r657/768
+type: dir
+pred: k9.0.r636/42204
+count: 11
+text: 636 42112 79 79 fab57ccc522914739d4e1ed6be18eb24
+props: 657 678 77 0 6b94d20aec46b8dab44ef95e370ba39c
+cpath: /old/sipXtackLib/main/src/test
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 19
+file i9.0.r637/6913
+K 3
+net
+V 18
+dir ia.0.r656/3978
+K 8
+resparse
+V 18
+dir jq.0.r646/1001
+K 4
+test
+V 17
+dir k9.0.r657/768
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 33
+.deps
+.libs
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: i8.0.r657/1221
+type: dir
+pred: i8.0.r656/4310
+count: 31
+text: 657 989 147 147 c49d4f2516e694ba43507eb91a244821
+props: 657 1149 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /old/sipXtackLib/main/src
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: gp.0.r657/1498
+type: dir
+pred: gp.0.r636/54887
+count: 4
+text: 636 54789 85 85 5419ca0ac3fa38b3a99ed3229112ac5b
+props: 657 1438 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXtackLib/main/siptest/include
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 41
+.deps
+.libs
+Makefile
+Makefile.in
+siptest
+
+END
+ENDREP
+id: h7.0.r657/1807
+type: dir
+pred: h7.0.r643/8240
+count: 8
+text: 643 7410 817 817 9310dbbf63a484e3c11f2b96ebe764bc
+props: 657 1727 67 0 165d544957006b64966a2387f00e09a8
+cpath: /old/sipXtackLib/main/siptest/src/siptest
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file h6.0.r600/808921
+K 7
+siptest
+V 18
+dir h7.0.r657/1807
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile.in
+Makefile
+
+END
+ENDREP
+id: h5.0.r657/2197
+type: dir
+pred: h5.0.r643/8571
+count: 8
+text: 657 2040 84 84 e4b3fd7f41fb76bc9f91f97ba5048bda
+props: 657 2137 47 0 bf36bdb5202732a1b9a911cc1234183c
+cpath: /old/sipXtackLib/main/siptest/src
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file go.0.r600/814645
+K 7
+include
+V 18
+dir gp.0.r657/1498
+K 3
+src
+V 18
+dir h5.0.r657/2197
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: gn.0.r657/2609
+type: dir
+pred: gn.0.r643/8925
+count: 8
+text: 657 2420 116 116 29e88fe6d054eba0c548202a02703e54
+props: 657 2549 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXtackLib/main/siptest
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 49
+.deps
+.libs
+Makefile
+Makefile.in
+syslog2siptrace
+
+END
+ENDREP
+id: kk.0.r657/2918
+type: dir
+pred: kk.0.r643/9489
+count: 5
+text: 643 9391 85 85 a76c21ce32e9cec9a710ec4d449203ac
+props: 657 2830 75 0 4be78b2a4509c4f806f18d0ba5ad1cf8
+cpath: /old/sipXtackLib/main/syslog2siptrace
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 30
+Doxyfile
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: e1.0.r657/3214
+type: dir
+pred: e1.0.r650/114593
+count: 5
+text: 650 114368 212 212 0e061c29fe051b403f3773e0efee2ee3
+props: 657 3145 56 0 357a444bd6df82003e865df156c283e9
+cpath: /old/sipXtackLib/main/doc
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 49
+.deps
+.libs
+Makefile
+Makefile.in
+siplog2siptrace
+
+END
+ENDREP
+id: gk.0.r657/3523
+type: dir
+pred: gk.0.r636/58553
+count: 5
+text: 636 58454 86 86 883658e2adffb3179684f737cec48559
+props: 657 3435 75 0 82dcc20edbd73cf7b6a964f58c3a4848
+cpath: /old/sipXtackLib/main/siplog2siptrace
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 53
+Makefile
+Makefile.in
+classes
+dist
+test-results
+tests
+
+END
+ENDREP
+id: hn.0.r657/3844
+type: dir
+pred: hn.0.r653/4276
+count: 5
+text: 653 4110 153 153 f6329f3de1025eb2d74f04fb902ba7fc
+props: 657 3752 79 0 770f954b82f9bb63c81549bfda4a0a7f
+cpath: /old/sipXtackLib/main/sipviewer
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 21
+file dl.0.r600/815397
+K 9
+ChangeLog
+V 18
+file dm.0.r642/581
+K 7
+INSTALL
+V 18
+file dn.0.r651/414
+K 7
+LICENSE
+V 21
+file do.0.r600/750535
+K 11
+Makefile.am
+V 18
+file dp.0.r654/618
+K 4
+NEWS
+V 21
+file dq.0.r600/820597
+K 6
+README
+V 19
+file dr.0.r634/4646
+K 4
+TODO
+V 21
+file ds.0.r600/818647
+K 9
+acsite.m4
+V 17
+file dt.0.r602/47
+K 14
+ant-targets.am
+V 19
+file du.0.r653/2486
+K 15
+ant-targets.xml
+V 19
+file dv.0.r653/2717
+K 20
+config.properties.in
+V 19
+file dz.0.r653/3173
+K 12
+configure.ac
+V 19
+file e0.0.r653/2943
+K 3
+doc
+V 18
+dir e1.0.r657/3214
+K 7
+include
+V 17
+dir e5.0.r657/459
+K 3
+lib
+V 20
+dir gh.0.r650/115439
+K 15
+sipXtackLib.dsp
+V 19
+file gj.0.r648/2070
+K 15
+siplog2siptrace
+V 18
+dir gk.0.r657/3523
+K 7
+siptest
+V 18
+dir gn.0.r657/2609
+K 11
+siptest.dsp
+V 19
+file kv.0.r648/1898
+K 9
+sipviewer
+V 18
+dir hn.0.r657/3844
+K 19
+sipxtacklib.spec.in
+V 18
+file kw.0.r654/842
+K 3
+src
+V 18
+dir i8.0.r657/1221
+K 15
+syslog2siptrace
+V 18
+dir kk.0.r657/2918
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 144
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.properties
+config.status
+configure
+libtool
+stamp-h1
+
+END
+ENDREP
+id: dk.0.r657/5318
+type: dir
+pred: dk.0.r656/5512
+count: 52
+text: 657 4067 967 967 801b984e7b2a96b40ba40b3e3d03fd7a
+props: 657 5047 258 0 7856ca495132c41555eebd65127ae118
+cpath: /old/sipXtackLib/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 18
+dir dk.0.r657/5318
+K 4
+tags
+V 18
+dir kr.0.r641/2057
+END
+ENDREP
+id: dj.0.r657/5616
+type: dir
+pred: dj.0.r656/5810
+count: 58
+text: 657 5533 70 70 287bb2a6a6ea12467ef1c57057430674
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 18
+dir dj.0.r657/5616
+END
+ENDREP
+id: 1.0.r657/5867
+type: dir
+pred: 1.0.r656/6061
+count: 656
+text: 657 5769 85 85 f02a92e18301ed46aaed2febde847285
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r657/5867
+END
+ENDREP
+id: 0.0.r657/6055
+type: dir
+pred: 0.0.r656/6249
+count: 657
+text: 657 6007 35 35 6d3d0ed8e4c951ccc6eda9762d9fe5fc
+cpath: /
+copyroot: 0 /
+
+h5.0.t656-1 modify false true /old/sipXtackLib/main/siptest/src
+
+e5.0.t656-1 modify false true /old/sipXtackLib/main/include
+
+e1.0.t656-1 modify false true /old/sipXtackLib/main/doc
+
+k9.0.t656-1 modify false true /old/sipXtackLib/main/src/test
+
+i8.0.t656-1 modify false true /old/sipXtackLib/main/src
+
+e7.0.t656-1 modify false true /old/sipXtackLib/main/include/net
+
+gk.0.t656-1 modify false true /old/sipXtackLib/main/siplog2siptrace
+
+gn.0.t656-1 modify false true /old/sipXtackLib/main/siptest
+
+h7.0.t656-1 modify false true /old/sipXtackLib/main/siptest/src/siptest
+
+hn.0.t656-1 modify false true /old/sipXtackLib/main/sipviewer
+
+kk.0.t656-1 modify false true /old/sipXtackLib/main/syslog2siptrace
+
+gp.0.t656-1 modify false true /old/sipXtackLib/main/siptest/include
+
+dk.0.t656-1 modify false true /old/sipXtackLib/main
+
+
+6055 6192

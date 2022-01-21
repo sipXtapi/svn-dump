@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-01-21T14:58:01.775972Z
+K 7
+svn:log
+V 103
+fix mime types, and minor changes to respective files for getting digester to understand property names
+END

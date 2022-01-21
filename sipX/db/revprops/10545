@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-29T23:22:11.893179Z
+K 7
+svn:log
+V 82
+Move default flowgraph sample rate specification from mediaLib to mediaAdapterLib.
+END

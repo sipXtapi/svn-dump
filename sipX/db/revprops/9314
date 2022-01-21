@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-04-11T03:12:58.231538Z
+K 7
+svn:log
+V 545
+Add MpResourceMsg.h and MpResourceMsg.cpp to Linux sipXmediaLib project.
+
+Fix compiler error looking for definition of MpCallFlowGraph in MpAudioConnection.h
+Fix compiler error looking for definition of min() macro in MpAudioOutputConnection.cpp
+
+New resource messaging changes checked in just prior to this are functioning well under Linux.  Only tested through sipXmediaLib unit tests though.
+There still remains a bug in one of the autoconf scripts for sipXmediaAdapterLib, preventing me from testing messaging behavior under Linux further.
+
+
+END

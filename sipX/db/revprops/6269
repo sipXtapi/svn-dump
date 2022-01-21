@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-02-28T21:29:57.492242Z
+K 7
+svn:log
+V 512
+For efficiency, persist the registration DB on a periodic basis rather than immediately.  The persistence interval defaults to 20 seconds but can be controlled by a config parameter, SIP_REGISTRAR_PERSIST_INTERVAL.  This parameter is provided mainly for testing and debugging, users should never have to set it.
+Also reject pushed updates received from peers that have been declared UnReachable.  UnReachable peers must go through a reset before we will talk to them, to ensure that state variables are in sync.
+
+END

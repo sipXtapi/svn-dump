@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-05-31T17:21:11.234632Z
+K 7
+svn:log
+V 107
+Set notify and content type arrays to NULL, when
+no subscriptions match the resourceId and 
+eventTypeKey.
+
+
+END

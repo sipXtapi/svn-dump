@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2018-03-01T03:51:39.498939Z
+K 7
+svn:log
+V 208
+Declare static CpMediaInterfaceFactory::sGetInputDeviceListFunction
+Comments and logging on switching between media task output device ticker and timer ticker
+Better check on OSS device being present or not
+
+
+END

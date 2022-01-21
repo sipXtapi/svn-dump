@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-09T17:03:48.258497Z
+K 7
+svn:log
+V 354
+XCF-1302 clicking on a link to Caller Sensitive dialing did not save current page - it caused exceptions if the rule has never been save by the user (i.e. when creating a new emergency rule)
+reorgainzed the page to display the link only when "Use Caller Sensitive Routing" box is selected, hide the list of gateways when caller sensitive routing is used
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-20T16:48:56.568033Z
+K 7
+svn:log
+V 67
+XCF-603 Code that cleans duplicate registrations was never called.
+
+END

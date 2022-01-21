@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-09-20T20:38:39.480412Z
+K 7
+svn:log
+V 155
+- Update project settings
+- Fixed build error under Win32 (osPrintf/OsSysLog)
+- Removed warnings under win32/dead code: OsSysLogTask/WindowsAdapterInfo)
+
+
+
+END

@@ -1,0 +1,91 @@
+id: 221.0.r2585/0
+type: dir
+count: 0
+cpath: /old/sipXpublisher/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 17
+dir 221.0.r2585/0
+K 4
+main
+V 20
+dir 20n.0.r2584/1674
+K 4
+tags
+V 20
+dir 21v.0.r2566/1433
+END
+ENDREP
+id: 20m.0.r2585/210
+type: dir
+pred: 20m.0.r2584/1983
+count: 37
+text: 2585 87 110 110 90d0cb0be5d587944de9a839fe97e19c
+cpath: /old/sipXpublisher
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 19
+dir 20m.0.r2585/210
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2585/731
+type: dir
+pred: 1.0.r2584/2506
+count: 2584
+text: 2585 369 349 349 469df133c57c88f8cbf07061732e2e89
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r2585/731
+END
+ENDREP
+id: 0.0.r2585/923
+type: dir
+pred: 0.0.r2584/2701
+count: 2585
+text: 2585 875 35 35 14a49458d08205374893c64e429c71db
+cpath: /
+copyroot: 0 /
+
+_0.0.t2584-1 add false false /old/sipXpublisher/branches
+
+
+923 1062

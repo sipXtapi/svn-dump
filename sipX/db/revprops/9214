@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-04-02T20:04:30.771903Z
+K 7
+svn:log
+V 114
+XCF-1567 - Add secondary ntp server support for devices that support more than one: clearone, hitachi and ciscoata
+END

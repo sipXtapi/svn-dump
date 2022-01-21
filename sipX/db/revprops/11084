@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-11T17:44:11.729379Z
+K 7
+svn:log
+V 179
+Correction for changes I had made to OsDefs relating to snprintf and vsnprintf
+on VS2008.
+
+VS2008 defines vsnprintf but not snprintf.
+
+Thank you to Paul Whitfield for the patch.
+
+
+END

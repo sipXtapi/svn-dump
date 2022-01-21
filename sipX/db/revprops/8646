@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-29T14:20:02.005903Z
+K 7
+svn:log
+V 310
+Merged revisions 8543 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8543 | ipse | 2007-01-15 23:20:34 +0300 | 3 lines
+  
+  Add buffers size alignment in MpBufPool.
+  On x86 misaligned pointers just hit performance, but on ARM they cause first chance exception.
+........
+
+END

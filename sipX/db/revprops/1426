@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-12-10T15:30:14.691875Z
+K 7
+svn:log
+V 125
+Added two new methods to the sipXtapi API (needs unit testing):
+
+  sipxConfigSetOutboundProxy
+  sipxConfigSetDnsSrvTimeouts
+
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-09-06T00:30:23.973562Z
+K 7
+svn:log
+V 115
+Make MpdPtAVT more robust to uninitialized flowgraph pointer (report better errors), which shouldn't really happen.
+END

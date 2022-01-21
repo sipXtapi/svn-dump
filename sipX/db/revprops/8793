@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-02-15T16:04:49.408271Z
+K 7
+svn:log
+V 232
+XCF-1486 Decypher vm file system to comply with forwarded messages.  forwarded message do showup as such in web ui, however i still need to work on display details.  friendly urls (e.g. ones that are sent in emails) changed slightly
+END

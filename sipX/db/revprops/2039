@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-04-06T20:14:39.990098Z
+K 7
+svn:log
+V 93
+Check in the change for using getUserPin() API.
+
+http://track.sipfoundry.org/browse/XPB-252
+
+
+END

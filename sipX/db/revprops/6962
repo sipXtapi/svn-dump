@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-06-13T13:36:54.181225Z
+K 7
+svn:log
+V 123
+Some tweaks to the readme.  One of the ./configure flags was missing and added the required packages under Fedora Core 5.
+
+
+END

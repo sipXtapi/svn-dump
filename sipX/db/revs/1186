@@ -1,0 +1,189 @@
+id: mz.5b.r1186/0
+type: dir
+pred: mz.5a.r1184/438
+count: 51
+text: 1171 1053 675 675 bf6c53ca0f9cffda25eeaddea39ee993
+props: 1184 0 425 0 da57f0f20eb4fc68e125adb5fd2f141c
+cpath: /old/sipXmediaLib/tags/2.6.2
+copyfrom: 1185 /old/sipXmediaLib/tags/2.6-export-U
+
+PLAIN
+K 5
+2.5.1
+V 19
+dir mz.4g.r1077/198
+K 5
+2.5.2
+V 20
+dir mz.4h.r1091/1003
+K 12
+2.6-export-A
+V 19
+dir mz.4o.r1122/555
+K 12
+2.6-export-B
+V 19
+dir mz.4p.r1124/555
+K 12
+2.6-export-C
+V 19
+dir mz.4r.r1131/555
+K 12
+2.6-export-D
+V 19
+dir mz.4s.r1132/555
+K 12
+2.6-export-E
+V 19
+dir mz.4t.r1133/555
+K 12
+2.6-export-F
+V 19
+dir mz.4u.r1136/555
+K 12
+2.6-export-G
+V 19
+dir mz.4w.r1140/438
+K 12
+2.6-export-H
+V 19
+dir mz.4x.r1141/438
+K 12
+2.6-export-J
+V 19
+dir mz.4y.r1144/438
+K 12
+2.6-export-K
+V 19
+dir mz.4z.r1150/438
+K 12
+2.6-export-L
+V 19
+dir mz.50.r1157/438
+K 12
+2.6-export-M
+V 19
+dir mz.51.r1158/438
+K 12
+2.6-export-N
+V 19
+dir mz.52.r1160/438
+K 12
+2.6-export-O
+V 19
+dir mz.53.r1172/438
+K 12
+2.6-export-P
+V 19
+dir mz.54.r1173/438
+K 12
+2.6-export-Q
+V 19
+dir mz.55.r1175/438
+K 12
+2.6-export-R
+V 19
+dir mz.56.r1176/438
+K 12
+2.6-export-S
+V 19
+dir mz.57.r1177/438
+K 12
+2.6-export-T
+V 19
+dir mz.58.r1181/438
+K 12
+2.6-export-U
+V 19
+dir mz.5a.r1184/438
+K 5
+2.6.1
+V 19
+dir mz.4v.r1138/548
+K 5
+2.6.2
+V 17
+dir mz.5b.r1186/0
+K 13
+main-export-B
+V 19
+dir mz.4l.r1119/439
+K 13
+main-export-C
+V 19
+dir mz.4m.r1120/439
+END
+ENDREP
+id: uq.0.r1186/1362
+type: dir
+pred: uq.0.r1185/1071
+count: 29
+text: 1186 258 1091 1091 d3e4470fbc2a42f21116af8904ae2d80
+cpath: /old/sipXmediaLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir ux.0.r1171/2051
+K 4
+main
+V 18
+dir mz.0.r1182/576
+K 4
+tags
+V 19
+dir uq.0.r1186/1362
+END
+ENDREP
+id: my.0.r1186/1649
+type: dir
+pred: my.0.r1185/1356
+count: 119
+text: 1186 1527 109 109 3598196e976389de01f24c4946e7c431
+cpath: /old/sipXmediaLib
+copyroot: 0 /
+
+PLAIN
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1186/1649
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1186/1952
+type: dir
+pred: 1.0.r1185/1659
+count: 1185
+text: 1186 1809 130 130 2f3319c139a3772d254e3f7683a5abd8
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1186/1952
+END
+ENDREP
+id: 0.0.r1186/2147
+type: dir
+pred: 0.0.r1185/1854
+count: 1186
+text: 1186 2098 36 36 5e0849e345e3a00a285c7748cb67e497
+cpath: /
+copyroot: 0 /
+
+mz._0.t1185-1 add false false /old/sipXmediaLib/tags/2.6.2
+1185 /old/sipXmediaLib/tags/2.6-export-U
+
+2147 2288

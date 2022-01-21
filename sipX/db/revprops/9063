@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-03-12T21:55:13.563955Z
+K 7
+svn:log
+V 85
+Remove forwardingrules.xsd from DISTCLEANFILES, as it is no longer a
+generated file.
+
+END

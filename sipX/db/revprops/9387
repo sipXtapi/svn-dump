@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-04-18T14:19:42.075725Z
+K 7
+svn:log
+V 90
+Made resource operation messages for start/stop send of RTP
+on MpRtpOutputAudioConnection
+
+END

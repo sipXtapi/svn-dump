@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 7
+mdm2000
+K 8
+svn:date
+V 27
+2006-05-22T02:26:58.262277Z
+K 7
+svn:log
+V 849
+Adding most of the changes necessary to build and run sipXezPhone on Mac OS X.
+
+A few key additions:
+* OS X code to enumerate and select a network interface to listen on.
+* OS X audio driver (must be enabled with --enable-local-audio)
+* Bugfix for UDP socket initialization code needed on OS X
+* Small auto* tool tweaks to detect and work with OS X
+* wxWidgets GUI code fixes to work with OS X glitches
+* An icon for the OS X version of sipXezPhone (*)
+
+There is another piece to be added shortly - a script to collect all the pieces
+into an OS X application bundle. This bundle can then be distributed in an OS X
+disk image file, and run like any other OS X application.
+
+(*) The icon was created from a photograph I took in London. I release any
+    copyright to the icon to whatever domain it needs to be in for it to be
+    used in sipXezPhone.
+
+END

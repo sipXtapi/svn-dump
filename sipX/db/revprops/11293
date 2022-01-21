@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2009-03-09T17:46:57.415115Z
+K 7
+svn:log
+V 260
+Fix bug in received DTMF ToneId at sipxtapi level.
+sipXmediaLib stored values as numeric 0-15 - 0-9, star, pound, A-D
+sipXtapi was expecting this to be '0','1','2',...
+Conversion now happens so users of sipXtapi properly get '0', etc
+as the received tone IDs
+
+
+END

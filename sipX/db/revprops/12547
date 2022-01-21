@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-11-03T12:51:48.609918Z
+K 7
+svn:log
+V 60
+Added /usr/lib/x86_64-linux-gnu to autoconf lib search path
+
+END

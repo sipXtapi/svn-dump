@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-05-26T13:01:14.799539Z
+K 7
+svn:log
+V 54
+Made the insert(size_t, UtlString &) docs more clear
+
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-03-15T17:48:53.415122Z
+K 7
+svn:log
+V 97
+Sinewave test causing issues at the moment -- commenting out unit test registration temporarily.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-05-08T20:45:44.330456Z
+K 7
+svn:log
+V 166
+UtlString should not be passed to OsSysLog::add() as a optional paramter directly. We have to you use UtlString::data() to get actual char* data from it explicitely.
+
+END

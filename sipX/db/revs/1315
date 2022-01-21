@@ -1,0 +1,316 @@
+PLAIN
+K 13
+svn:externals
+V 68
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.8.1/config
+
+K 10
+svn:ignore
+V 217
+BUILDSTAMP
+Debug
+Makefile
+Makefile.in
+Release
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxmedialib-*.rpm
+sipxmedialib-*.tar.gz
+sipxmedialib.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 56
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 12
+1-75,104,124
+K 18
+svnmerge-main-head
+V 48
+https://scm.sipfoundry.org/rep/sipXmediaLib/main
+K 18
+svnmerge-main-revs
+V 13
+1-182,186-187
+END
+ENDREP
+id: mz.61.r1315/597
+type: dir
+pred: mz.5c.r1314/2001
+count: 144
+text: 1314 1223 765 765 b19824fd660ae3848240f9cdc522ad85
+props: 1315 0 584 0 e8f877ee5f6f52479b7d4c7a76ebad0f
+cpath: /old/sipXmediaLib/tags/2.8.1
+copyfrom: 1314 /old/sipXmediaLib/branches/2.8
+
+PLAIN
+K 5
+2.5.1
+V 19
+dir mz.4g.r1077/198
+K 5
+2.5.2
+V 20
+dir mz.4h.r1091/1003
+K 12
+2.6-export-A
+V 19
+dir mz.4o.r1122/555
+K 12
+2.6-export-B
+V 19
+dir mz.4p.r1124/555
+K 12
+2.6-export-C
+V 19
+dir mz.4r.r1131/555
+K 12
+2.6-export-D
+V 19
+dir mz.4s.r1132/555
+K 12
+2.6-export-E
+V 19
+dir mz.4t.r1133/555
+K 12
+2.6-export-F
+V 19
+dir mz.4u.r1136/555
+K 12
+2.6-export-G
+V 19
+dir mz.4w.r1140/438
+K 12
+2.6-export-H
+V 19
+dir mz.4x.r1141/438
+K 12
+2.6-export-J
+V 19
+dir mz.4y.r1144/438
+K 12
+2.6-export-K
+V 19
+dir mz.4z.r1150/438
+K 12
+2.6-export-L
+V 19
+dir mz.50.r1157/438
+K 12
+2.6-export-M
+V 19
+dir mz.51.r1158/438
+K 12
+2.6-export-N
+V 19
+dir mz.52.r1160/438
+K 12
+2.6-export-O
+V 19
+dir mz.53.r1172/438
+K 12
+2.6-export-P
+V 19
+dir mz.54.r1173/438
+K 12
+2.6-export-Q
+V 19
+dir mz.55.r1175/438
+K 12
+2.6-export-R
+V 19
+dir mz.56.r1176/438
+K 12
+2.6-export-S
+V 19
+dir mz.57.r1177/438
+K 12
+2.6-export-T
+V 19
+dir mz.58.r1181/438
+K 12
+2.6-export-U
+V 19
+dir mz.5a.r1184/438
+K 5
+2.6.1
+V 19
+dir mz.4v.r1138/548
+K 5
+2.6.2
+V 20
+dir mz.5b.r1192/1800
+K 12
+2.8-export-A
+V 19
+dir mz.5d.r1257/604
+K 12
+2.8-export-B
+V 19
+dir mz.5e.r1267/604
+K 12
+2.8-export-C
+V 19
+dir mz.5i.r1277/604
+K 12
+2.8-export-D
+V 19
+dir mz.5l.r1285/604
+K 12
+2.8-export-E
+V 19
+dir mz.5m.r1286/604
+K 12
+2.8-export-F
+V 19
+dir mz.5q.r1291/604
+K 12
+2.8-export-G
+V 19
+dir mz.5r.r1292/604
+K 12
+2.8-export-H
+V 19
+dir mz.5s.r1293/604
+K 12
+2.8-export-I
+V 19
+dir mz.5t.r1294/604
+K 12
+2.8-export-J
+V 19
+dir mz.5v.r1300/604
+K 12
+2.8-export-K
+V 19
+dir mz.5w.r1301/604
+K 12
+2.8-export-L
+V 19
+dir mz.5x.r1306/604
+K 12
+2.8-export-M
+V 19
+dir mz.5y.r1308/604
+K 12
+2.8-export-N
+V 19
+dir mz.5z.r1309/604
+K 12
+2.8-export-O
+V 19
+dir mz.60.r1312/604
+K 5
+2.8.1
+V 19
+dir mz.61.r1315/597
+K 13
+main-export-B
+V 19
+dir mz.4l.r1119/439
+K 13
+main-export-C
+V 19
+dir mz.4m.r1120/439
+K 17
+sipxtapi-export-A
+V 19
+dir mz.5g.r1272/731
+K 17
+sipxtapi-export-B
+V 20
+dir mz.5k.r1287/1843
+K 17
+sipxtapi-export-C
+V 19
+dir mz.5o.r1288/755
+K 17
+sipxtapi-export-D
+V 19
+dir mz.5u.r1297/888
+END
+ENDREP
+id: uq.0.r1315/2834
+type: dir
+pred: uq.0.r1312/2815
+count: 55
+text: 1315 854 1967 1967 ceaa76b8c85f4f4c7252539a356dbe59
+cpath: /old/sipXmediaLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir ux.0.r1314/2428
+K 4
+main
+V 20
+dir mz.0.r1313/12219
+K 4
+tags
+V 19
+dir uq.0.r1315/2834
+END
+ENDREP
+id: my.0.r1315/3123
+type: dir
+pred: my.0.r1314/2720
+count: 248
+text: 1315 2999 111 111 5f5de2ebd36d837472dbcecee884c730
+cpath: /old/sipXmediaLib
+copyroot: 0 /
+
+PLAIN
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1315/3123
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1315/3426
+type: dir
+pred: 1.0.r1314/3024
+count: 1314
+text: 1315 3283 130 130 0bd8f43dfe99e81e04cbe23e8352ce98
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1315/3426
+END
+ENDREP
+id: 0.0.r1315/3621
+type: dir
+pred: 0.0.r1314/3220
+count: 1315
+text: 1315 3572 36 36 f3e8e468ecc0929707735837f62f6a0a
+cpath: /
+copyroot: 0 /
+
+mz._0.t1314-1 add false true /old/sipXmediaLib/tags/2.8.1
+1314 /old/sipXmediaLib/branches/2.8
+
+3621 3762

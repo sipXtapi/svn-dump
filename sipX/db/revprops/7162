@@ -1,0 +1,61 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-08-02T20:36:31.001312Z
+K 7
+svn:log
+V 2176
+mergefrom pingtel-main 6953,6960-6961
+
+This includes a number of new changes as well, especially to combine
+the changes to OsTimerTest.cpp for the new timer implementation with
+those to make it more platform-independent.  I think the combined
+version works correctly in all situations, but I've been unable to
+test on non-Linux platforms.
+
+First merge of OsTimer improvements:
+mergefrom dworley-OsTimer2main 6232,6233,6239,6252
+First version of new Ostimer implementation.
+Compiles and passes the unit tests.
+Fixes so the new OsTimer implementation passes the unit tests after
+sipXportLib.  Specifically, OsTimerTask::destroyTimer has been renamed
+OsTimerTask::destroyTimerTask.
+Allow synchronous stops as well as asynchronous stops.  Make stops
+default to being synchronous, as that guarantees that the event
+routine cannot be called afterward, which was the behavior of the
+previous implementation.
+Fix some minor errors in the new OsTimerTask.
+
+
+mergefrom dworley-OsTimer2main 6281-6318
+Use more efficient implementation of OsTimer::compareTimes.
+Overhaul and upgrade tests of OsTimer.
+Reactivate OsTimerTest.
+Improve comments in OstimerTask.h and OsDateTimeLinux.h.
+Fix how timer notifier is called to supply pointer to timer, not
+pointer to timer task.
+Add mechanism for clean shutdown of the timer task.
+In tests, print the timer skew message before asserting on the timer
+skew, so if a skew test fails, there is output telling how much it
+skewed.
+Add debug messages for timer task start and stop.
+Rename the timerQ member to mTimerQueue, per coding standard.
+Upgrade various comments.
+
+mergefrom dworley-OsTimer2main 6401-6423
+Increase the tolerance on the OsTimer tests to 10ms, as Woof tells me
+that the kernel's timing quantum is now 2.5ms.
+Update the OsTimer tests to always check that the timer has fired
+before attempting to calculate the deviation between its scheduled
+firing and its real firing.
+Make OsTimerTask::sLock a dynamically-created semaphore so that it
+does not get destroyed when the process ends.
+Replace call of gettimeofday() with OsDateTime::getCurTime.
+Remove obsolete sections of the timer system, viz.:  OsSysTimer,
+OsSysSoftTimer,OsTimerDb.
+
+END

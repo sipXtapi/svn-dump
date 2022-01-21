@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2020-06-19T08:41:29.686228Z
+K 7
+svn:log
+V 299
+Created MSVS2019 solution file for sipX
+sipXportLib, sipXsdpLib, sipXtackLib and sipXmediaLib and their sub-projects have been migrated
+With the exception of some of the codec plugins and perhaps some mediaLib contrib projects
+Still needs to have sipXcallLib and other projects migrated to MSVS2019
+
+END

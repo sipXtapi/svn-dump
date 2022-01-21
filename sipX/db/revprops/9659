@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-06-06T02:55:46.521630Z
+K 7
+svn:log
+V 204
+Add new files needed for buffer recorder addition to the project/makefiles for the following platforms:
+MSVC6
+MSVC7 (Visual Studio 2003)
+MSVC8 (Visual Studio 2005)
+Gnu/*nix (tested on Ubuntu Linux 7.04)
+
+
+END

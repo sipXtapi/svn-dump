@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-11-08T01:19:30.624271Z
+K 7
+svn:log
+V 55
+First pass at making sipXportLib compile on WinCE 5.0
+
+
+END

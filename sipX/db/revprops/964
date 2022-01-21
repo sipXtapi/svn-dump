@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-05-11T13:09:47.796389Z
+K 7
+svn:log
+V 101
+Added the ability to parse/add/get the "candidate" attribute from Sdp per
+draft-ietf-mmusic-ice-04.
+
+
+END

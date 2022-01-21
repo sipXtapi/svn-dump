@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-06-04T21:00:33.375778Z
+K 7
+svn:log
+V 210
+sipXmediaLib: Add constructor classes for Speex preprocess and Speex AEC resources.
+Note, that Speex AEC resource can only be created in a couple with MprToOutputDevice from which it takes echo reference data.
+
+END

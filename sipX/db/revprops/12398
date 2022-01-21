@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-06-23T18:59:44.276767Z
+K 7
+svn:log
+V 50
+Fixed compiler warnings in MprSpeexEchoCancel.cpp
+
+END

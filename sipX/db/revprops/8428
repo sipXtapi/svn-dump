@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-01-02T21:38:33.940267Z
+K 7
+svn:log
+V 193
+mergefrom pingtel-main 7621,7627
+
+Remove bbridge and resiprocateLib projects, which are not currently
+being developed in sipX.
+Remove mentions of bbridge and resiprocateLib from control files.
+
+END

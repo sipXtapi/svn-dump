@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-14T23:11:29.789907Z
+K 7
+svn:log
+V 183
+remove references to NumericField (deprecated in Tapestry 4.0)
+NumericField is replaced by properly configured TextField: one has to set up translators and validators for such fields
+
+END

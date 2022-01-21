@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2019-09-05T23:07:59.866232Z
+K 7
+svn:log
+V 135
+Fixed output driver construction syntax problem in unit test identitied in MSVS 2019 build.
+Not sure why this passed on any platform.
+
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-18T14:16:27.097496Z
+K 7
+svn:log
+V 173
+Fix crash in sipXmediaLib unittests.
+mSamplesPerFrame and mSamplesPerSec variables was not initialized to correct values in MpSineWaveGeneratorDeviceDriver::enableDevice().
+
+END

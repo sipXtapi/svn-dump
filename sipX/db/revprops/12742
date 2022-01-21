@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2019-10-14T20:26:17.828676Z
+K 7
+svn:log
+V 82
+Better logging in MprRecord unit test to diagnose incorrect startFile error code.
+
+END

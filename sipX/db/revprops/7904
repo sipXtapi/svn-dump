@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-31T21:43:24.437877Z
+K 7
+svn:log
+V 234
+XCF-1356 "After hours" autoattendant which is installed by default by media server is nopw accessible from sipXconfig
+XVX-170 When sipXconfig disables special autoattendant it leaves 'afterhour' name as default special autoattendant.
+
+END

@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-18T19:59:30.093381Z
+K 7
+svn:log
+V 470
+A number of changes in support of building sipXcommserverLib:
+
+1) Added stubs for UtlSortedListIterator  -- definitely won't work (Jira: XPL-17).
+
+2) Added a friend UtlString::operator==(const char, const UtlString &) method to
+   UtlString.  Needs unit testing (Jira: XPL-15).
+
+3) Modified UtlTokenizer::next(UtlString& token, const char delim) to return 
+   a UtlBoolean indicating status and to clear the token string.  Again, needs
+   unit testing (Jira: XPL: 16).
+
+
+END

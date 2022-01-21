@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-11-16T19:44:18.639584Z
+K 7
+svn:log
+V 56
+[XPL-132] fix leak of certificate memory in SSL context
+
+END

@@ -1,0 +1,29 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2004-12-17T20:21:28.528034Z
+K 7
+svn:log
+V 514
+Fix for XPH-21.
+very interesting bug actually - 
+new UtlString arrays were allocated using:
+   UtlString *realm = new UtlString[noOfCredentials];
+   UtlString *type = new UtlString[noOfCredentials];
+   UtlString *userId = new UtlString[noOfCredentials];
+   UtlString *passToken = new UtlString[noOfCredentials];
+
+then, deleted using:
+   delete [] realm;
+   delete [] userId;
+   delete [] type;
+   delete [] passToken;
+
+Well, if noOfCredentials was 0 - this was bad.
+
+So, a conditional was added before the deletes.
+END

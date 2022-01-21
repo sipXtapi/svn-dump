@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-05-12T22:02:35.656709Z
+K 7
+svn:log
+V 78
+Enabled the build of the SIP Subscribe Client in
+the automake configuration.
+
+
+END

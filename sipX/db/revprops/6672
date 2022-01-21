@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-04-27T14:51:29.096526Z
+K 7
+svn:log
+V 284
+XCF-936 CoreContextImpl explicitely initializes Permission class on ApplicationInitializedEvent.
+Initialization adds additional call permissions defined in /etc/sipxpbx/user-settings.xml 
+As a result one can now define the additional permission and use them in Custome Dialing rules.
+
+END

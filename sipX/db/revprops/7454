@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2006-09-11T19:34:13.700589Z
+K 7
+svn:log
+V 112
+Correct HTML in voicemail notification e-mails.
+The HTML was missing many end tags, and had no DOCTYPE.
+--Woof!
+
+END

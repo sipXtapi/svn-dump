@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-07-21T18:19:37.076862Z
+K 7
+svn:log
+V 102
+A few more STUN parsing updates to match draft-ietf-behave-rfc3489bis-04.txt -- more testing needed.
+
+
+END

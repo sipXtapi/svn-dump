@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-05-26T15:31:38.557311Z
+K 7
+svn:log
+V 128
+Introduced a new define "UTL_NOT_FOUND" and specified that various
+string and list methods return UTL_NOT_FOUND instead of -1.
+
+
+END

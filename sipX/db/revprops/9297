@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2007-04-09T21:55:36.376173Z
+K 7
+svn:log
+V 461
+Revamp MpStreamPlaylistPlayer to support unlimited number of prompt entries.
+
+Previous version used a fixed sized array, with a MAX of 40 prompts.
+This isn't big enough for some of the existing VoiceXML scripts
+(dial by name, for example).  Rather than just making it bigger, I
+reworked the code to use a UtlSList instead of an array. 
+
+Fixes XPB-245 (When dialbyname finds too many matches, sometimes, the transfer
+using dialbyname doesn't complete.)
+
+--Woof!
+
+END

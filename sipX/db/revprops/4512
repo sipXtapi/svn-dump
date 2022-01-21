@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2005-02-16T20:31:18.176210Z
+K 7
+svn:log
+V 67
+XPB-198 - fixing permission problems by manually unsetting BASH_ENV
+END

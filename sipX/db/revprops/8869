@@ -1,0 +1,683 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-22T12:21:41.557360Z
+K 7
+svn:log
+V 25116
+Merged many changes via svnmerge from sipXtapi branch:
+
+................
+  r8663 | kkyzivat | 2007-01-29 23:42:44 +0300 | 9 lines
+  
+  WinCE6 targets added to MSVC8 projects.
+  Libraries compile with no error under default WinCE6 emulator.
+  Custom emulator with console still generates buggy header files (STL use breaks
+  malloc signature, + others)
+  
+  SipXportLib unit test links and runs (default emu), small issues with sipXtackLi
+  bTest.
+................
+  r8664 | kkyzivat | 2007-01-29 23:53:05 +0300 | 4 lines
+  
+  Add MpTopologyGraph class files to MSVC2005 WIN32 & CE6 mediaLib project.
+  Add CpTopologyGraphInterface, CpTopologyGraphFactory class files to MSVC2005 WIN32 & CE6 mediaAdapterLib project.
+................
+  r8667 | kkyzivat | 2007-01-30 01:11:05 +0300 | 3 lines
+  
+  Add Topology classes to EVC4 CE5 mediaLib and mediaAdapterLib projects.
+  Add wince_strftime.cpp to sipXportLib project (initially created under CE6)
+................
+  r8673 | kkyzivat | 2007-01-30 21:38:13 +0300 | 5 lines
+  
+  WinCE6 - missing FindFirstFileA, FindNextFileA, GetFileAttributesA
+  Those functions are now defined.
+  sipXtackLibTest now compiles and links for WinCE6
+................
+  r8678 | bob | 2007-02-01 05:16:15 +0300 | 6 lines
+  
+  Updated doxygen docs:
+  1) Fixed warnings (no docs or deltas between @params and func params)
+  2) Nicer event state diagrams
+  3) A few wording/description changes
+................
+  r8679 | bob | 2007-02-01 06:17:19 +0300 | 3 lines
+  
+  A few more minor tweaks in docs -- regenerated using latest doxygen (1.5)
+................
+  r8688 | dpetrie | 2007-02-02 20:30:36 +0300 | 5 lines
+  
+  Added unit test for mediaInterface to test RTP streaming,
+  mixing of multiple RTP streams and generating tones in more than
+  one flowgraph at the same time.
+................
+  r8692 | kkyzivat | 2007-02-02 23:50:44 +0300 | 4 lines
+  
+  Add pkgconfig to list of prereqs for an autoconf-needed build.
+  Pull in Fedora Core 4 yum install line from main branch.
+................
+  r8701 | dpetrie | 2007-02-06 01:31:09 +0300 | 7 lines
+  
+  Added new resource MprNull e.g. /dev/null
+  
+  Fixed resource linkage problems in MpTopologyGraph
+  
+  Cleaned up flowgraphs after tests were run in unit tests.
+................
+  r8706 | ipse | 2007-02-07 01:24:21 +0300 | 4 lines
+  
+  Bugfix: implement first packet detection in MpdSipxPcma/u correctly.
+  
+  mLastSeqNo was initialized with (-1) and then checked for -1, but it is 'unsigned int', so this check always failed, and all stream dropped.
+................
+  r8707 | ipse | 2007-02-07 01:32:38 +0300 | 2 lines
+  
+  Bugfix: compare() should be used to compare two timestamps to avoid problems with wrapping to zero.
+................
+  r8709 | ipse | 2007-02-07 10:10:24 +0300 | 2 lines
+  
+  Bugfix to bugfix: furst packet guard variable mIsFirstFrame was initialized to false instead of true.
+................
+  r8710 | ipse | 2007-02-07 15:42:16 +0300 | 2 lines
+  
+  Bugfix: Path to libgsm lib-file added to sipXtapi VS2003 project file.
+................
+  r8711 | ipse | 2007-02-07 16:12:12 +0300 | 3 lines
+  
+  * MprEncode::mPacket1PayloadUsed variable moved to local MprEncode::doPrimaryCodec() local variable payloadBytesUsed.
+  * Braces in MprEncode::doPrimaryCodec() aligned according to coding style.
+................
+  r8712 | ipse | 2007-02-07 16:17:31 +0300 | 2 lines
+  
+  Typo fixed in MprBridge and debug output disabled in MprEncode.
+................
+  r8713 | ipse | 2007-02-07 16:40:57 +0300 | 3 lines
+  
+  * MprMixer: set type of audio block after mix to UNKNOWN. There chould be VAD after mixer to detect real type.
+  * Minor optimization: use MpBufPtr::swap() to exchange buffers.
+................
+  r8714 | ipse | 2007-02-07 18:50:29 +0300 | 2 lines
+  
+  In MprEncode::doPrimaryCodec() 'content' variable should be set to 'MP_SPEECH_UNKNOWN' on initialization.
+................
+  r8716 | ipse | 2007-02-08 01:25:23 +0300 | 2 lines
+  
+  MprBridge: Added special case for processing one-to-one case. Bridge should not suppress silence in this case. Someday smarter processing even for n-to-n case will be implemented.
+................
+  r8723 | ipse | 2007-02-08 14:12:28 +0300 | 2 lines
+  
+  Correctly count number of contibuting sources in MprBridge.
+................
+  r8724 | ipse | 2007-02-08 16:14:28 +0300 | 3 lines
+  
+  MprEncode: New member variable - mDisableDTX. If TRUE, internal DTX will be disabled.
+  Default value - TRUE, while we do not have CN codec.
+................
+  r8725 | ipse | 2007-02-08 16:27:08 +0300 | 2 lines
+  
+  Several members of MprEncode documented.
+................
+  r8726 | ipse | 2007-02-08 18:05:33 +0300 | 2 lines
+  
+  Implemented MprEncde::enableDTX() function to enable and disable MprEncode internal DTX functionality.
+................
+  r8727 | kkyzivat | 2007-02-08 20:24:46 +0300 | 11 lines
+  
+  Automated build makefile for gnu autoconf targets.
+  
+  from readme in linux build section:
+  Makefile.gnu
+  There is also a makefile in the root of sipXtapi used by an automated build
+  system that does all steps necessary to build libraries and tests from a
+  freshly checked out sandbox from the subversion repository.  While not built
+  with normal users in mind, it can be used by them.  Find more information in
+  the makefile itself.
+................
+  r8734 | ipse | 2007-02-09 13:01:39 +0300 | 2 lines
+  
+  More documentation for MprEncode members.
+................
+  r8735 | ipse | 2007-02-09 13:03:56 +0300 | 2 lines
+  
+  Partial revert of r8711. MprEncode::mPayloadBytesUsed should be member variable, to maintain state between doPrimaryCodec() calls.
+................
+  r8736 | ipse | 2007-02-09 18:17:57 +0300 | 3 lines
+  
+  Bugfix: Fix bug introduced in rev8293.
+  Due to mistype bRC was set to FALSE instead of TREU at line 1935 of CpPhoneMediaInterface.cpp (CpPhoneMediaInterface::getNatedAddresses() function).
+................
+  r8737 | ipse | 2007-02-09 18:37:57 +0300 | 2 lines
+  
+  libspoex VS2003 project shuld produce "libspeex.dll" instead of "speex.dll".
+................
+  r8738 | ipse | 2007-02-09 20:04:40 +0300 | 2 lines
+  
+  Addition to rev8735: Forgotten line removed.
+................
+  r8744 | dpetrie | 2007-02-10 02:16:17 +0300 | 2 lines
+  
+  Created first draft of new input device driver framework.
+................
+  r8746 | ipse | 2007-02-10 17:26:05 +0300 | 5 lines
+  
+  Support for audio cards with separate mixers for input and output.
+  Mixers now detected from wavein/waveout device handle.
+  
+  Thanks to Jaroslav Libak for this patch.
+................
+  r8747 | ipse | 2007-02-10 18:44:55 +0300 | 2 lines
+  
+  Typo in documentation to MprSpeexEchoCancel fixed.
+................
+  r8748 | ipse | 2007-02-10 18:55:12 +0300 | 2 lines
+  
+  sipXtapi documentation for AEC, AGC and Noise Reduction updated. They are supported with Speex library in addition to GIPS VoiceEngine.
+................
+  r8749 | ipse | 2007-02-10 20:14:57 +0300 | 2 lines
+  
+  Typo fixed in MprNull, several style cleanups too.
+................
+  r8750 | ipse | 2007-02-10 20:15:28 +0300 | 2 lines
+  
+  MprNull added to VS2003 build.
+................
+  r8751 | ipse | 2007-02-10 20:18:20 +0300 | 2 lines
+  
+  More style fixes for MprNull.cpp
+................
+  r8752 | ipse | 2007-02-10 20:25:25 +0300 | 2 lines
+  
+  Added to added to VS2003 build: MpTopologyGraph, CpTopologyGraphFactoryImpl and CpTopologyGraphInterface.
+................
+  r8753 | ipse | 2007-02-11 00:20:26 +0300 | 4 lines
+  
+  * Added to VS2003 build: MpInputDeviceManager.cpp, MpInputDeviceDriver.h, MpInputDeviceManager.h, MprFromInputDevice.h.
+  * Several typos in documentation fixed.
+  * Documentation made readable by Doxygen and consistent with other sipXmediaLib documentation. Neither interface nor implementation of this files was not modified.
+................
+  r8754 | ipse | 2007-02-11 01:04:08 +0300 | 2 lines
+  
+  Build fix: misplaced semicolon removed.
+................
+  r8760 | kkyzivat | 2007-02-13 00:12:51 +0300 | 3 lines
+  
+  Fix EVC section in PortLib INSTALL document - add info indicating free EVC is needed, along with SP2, and a hotfix.
+  
+  Added Unit Test running capabilities to msvc6 full build batch file.
+................
+  r8773 | kkyzivat | 2007-02-14 00:36:57 +0300 | 4 lines
+  
+  Changes to make msvc6 automated build run and 
+  gather unit test results properly
+................
+  r8784 | ipse | 2007-02-15 00:20:47 +0300 | 2 lines
+  
+  New line at the end of file.
+................
+  r8785 | ipse | 2007-02-15 00:23:48 +0300 | 2 lines
+  
+  Unused variable removed.
+................
+  r8786 | ipse | 2007-02-15 00:27:02 +0300 | 2 lines
+  
+  MpTestResource: Order of member variables initialization made consistent with order of their declaration.
+................
+  r8792 | ipse | 2007-02-15 13:21:52 +0300 | 2 lines
+  
+  Many typos in documentation fixed. Thanks to Visual Assist X for its internal dictionary.
+................
+  r8808 | ipse | 2007-02-16 17:57:41 +0300 | 2 lines
+  
+  SipUserAgent: One typo in documentation fixed and several syle fixes applied.
+................
+  r8809 | ipse | 2007-02-16 18:31:59 +0300 | 2 lines
+  
+  Partial fix for [XSL-149]: SipMessage::getContactField() should be used instead of SipMessage::getContactUri().
+................
+  r8813 | dpetrie | 2007-02-16 23:05:40 +0300 | 6 lines
+  
+  Incorporated changes from comments from Alex and Keith:
+    Don't user MpBufPtr&
+    Forgot MpInputDeviceDriver inheritance from UtlString
+    Fixed order input and output of arguments
+................
+  r8817 | ipse | 2007-02-19 14:59:28 +0300 | 5 lines
+  
+  Fix MpBufPtr usage and order of MpInputDeviceManager::getFrame() parameter documentation.
+  
+  When passing MpBufPtr as parameter to function, it should be passed as reference or const reference (i.e. 'MpBufPtr&' or 'const MpBufPtr&'). And it should not be passed as pointer (i.e. 'MpBufPtr*'), because it breaks whole ideology of smart pointer.
+................
+  r8818 | ipse | 2007-02-19 15:06:25 +0300 | 2 lines
+  
+  [XCL-124] bugfix: Incorrect use of '^' operator - it is not power operator, but XOR.
+................
+  r8819 | ipse | 2007-02-19 15:20:59 +0300 | 2 lines
+  
+  [XCL-114] bugfix: 'pData->strCallId' does not checked for NULL before access. Suggested patch applied.
+................
+  r8820 | ipse | 2007-02-19 15:34:38 +0300 | 2 lines
+  
+  [XCL-125] bugfix: Suggested patch applied. 'pData->strCallId' should be checked before access.
+................
+  r8821 | ipse | 2007-02-19 22:37:58 +0300 | 2 lines
+  
+  [XPL-137] bugfix: wait for real thread startup before executing OsTask::run().
+................
+  r8822 | ipse | 2007-02-20 16:57:33 +0300 | 2 lines
+  
+  Documentation fix: there are no separate MEDIA_REMOTE_DTMF_START and MEDIA_REMOTE_DTMF_STOP events now. We have MEDIA_REMOTE_DTMF event with different causes instead.
+................
+  r8823 | ipse | 2007-02-20 16:58:43 +0300 | 2 lines
+  
+  Build fixes for OsTLS and SipTlsServer with enabled TLS, as suggested by Jaroslav Libak.
+................
+  r8824 | ipse | 2007-02-20 18:30:11 +0300 | 2 lines
+  
+  UtlRegex: typo in documentation fixed. "impelments" -> "implements"
+................
+  r8825 | ipse | 2007-02-20 18:35:18 +0300 | 2 lines
+  
+  Bugfix: Fixed bug with 32-bit int iverflow in OsDateTimeWnt::cvtToTimeSinceBoot().
+................
+  r8826 | ipse | 2007-02-20 19:08:19 +0300 | 3 lines
+  
+  Initialized merge tracking for sipXportLib starting from revision 7992
+  Source branch: http://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+................
+  r8827 | ipse | 2007-02-20 19:10:38 +0300 | 19 lines
+  
+  Merged revisions 8004 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+  
+  ........
+    r8004 | dworley | 2006-11-16 05:25:13 +0300 | 12 lines
+    
+    mergefrom pingtel-main 7525
+    
+    Copy improved definition of OsTimer::compareTimes from Pingtel Main.
+    Improved debugging messages on timer system:
+    Put in some additional checks that the objects on which the OsTimer
+    methods are call are really OsTimers.
+    Only report on a slow timer firing routine if it takes more than 1
+    sec.  (Because nearly 100 msec is seen routinely even in lightly
+    loaded systems.)
+    Only report on messages processed by SipUserAgent::handleMessage if
+    its queue exceeds 100 messages.
+  ........
+................
+  r8828 | ipse | 2007-02-20 19:20:40 +0300 | 11 lines
+  
+  Merged revisions 8063 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+  
+  ........
+    r8063 | xmlscott | 2006-11-22 00:15:44 +0300 | 16 lines
+    
+    TLS Improvements
+     - Improve logging in TLS/SSL Http server connections
+     - Cache peer status for TLS connections to avoid parsing cert many times
+  ........
+................
+  r8829 | ipse | 2007-02-20 19:34:27 +0300 | 19 lines
+  
+  Merged revisions 8065 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+  
+  ........
+    r8065 | dworley | 2006-11-22 01:09:33 +0300 | 15 lines
+    
+    mergefrom pingtel-3.6 7543
+    Fix race condition in OsTimer:
+    If the application side of OsTimer::stop() has executed on a periodic
+    timer before it fires, but the resulting message to OsTimerTask is
+    processed after it fires, assert(current) fails in
+    OsTimerTask::removeTimer().
+    Also, improve the documentation of OsTimerTask::fireTimer(), add a
+    (messy) test to show this race condition has been fixed, remove all
+    uses of OsTimer::mDeleting when NDEBUG is #define'd (except
+    initializing it when the OsTimer is allocated).
+    This fixes XPB-630.
+  ........
+................
+  r8830 | ipse | 2007-02-20 19:39:28 +0300 | 13 lines
+  
+  Merged revisions 8075 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+  
+  ........
+    r8075 | woof | 2006-11-22 19:08:04 +0300 | 6 lines
+    
+    Plug a memory Leak in RegEx.
+    
+    Even malloc(0), if not freed, will leak!
+    
+    --Woof!
+  ........
+................
+  r8831 | ipse | 2007-02-20 19:49:58 +0300 | 9 lines
+  
+  Merged revisions 8122 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+  
+  ........
+    r8122 | mdm2000 | 2006-11-27 11:48:22 +0300 | 2 lines
+    
+    Make sure to zero out the struct sockaddr_in for systems that require it, like OS X.
+  ........
+................
+  r8832 | ipse | 2007-02-20 19:53:32 +0300 | 11 lines
+  
+  Merged revisions 8197 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+  
+  ........
+    r8197 | xmlscott | 2006-12-05 16:36:06 +0300 | 4 lines
+    
+    [XPL-181] Fix connection peer caching
+              (Initialize OsSSLConnectionSocket::mPeerIdentity in all
+              constructors).  Thanks to Dale for finding this.
+  ........
+................
+  r8833 | ipse | 2007-02-20 20:08:33 +0300 | 10 lines
+  
+  Merged revisions 8245 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+  
+  ........
+    r8245 | dworley | 2006-12-13 06:22:49 +0300 | 4 lines
+    
+    Add the RLS to the list of OsSysLog facilities, and remove some errors
+    from those files.
+  ........
+................
+  r8834 | ipse | 2007-02-20 20:40:41 +0300 | 30 lines
+  
+  Merged revisions 8318 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+  
+  ........
+    r8318 | dpetrie | 2006-12-20 08:37:05 +0300 | 24 lines
+    
+    Changed the name of OsTimerMsg enum values to avoid conflict with UPDATE on vxworks.
+    
+    Cleaned up a few porting constructs for vxworks.
+    
+    Fixed MSVC6 dsp files so that the build works after the names of the subscribe tests where changed.
+    
+    Added getters for media properties.
+    
+    Added option to call media property setter to set either the interface or connection specific
+    media property.
+    
+    Fixed SipSubscriptionTest.cpp so that it binds to 127.0.0.1 after it was broken by the addition of
+    multiple interface support.
+    
+    Fixed sipXtapiTestTransfer, sipXtapiTestConferenceAdv and sipXtapiTestConference after they were
+    broken by the event change made in rev. 7707
+    
+    Fixed some inconsistant use of bool and UtlBoolean.
+    
+    Fixed failing test case in SipSubscriptionClientTest.
+    
+    All of the unit tests now pass on windows, including the sipXtapi unit tests that were disabled.
+  ........
+................
+  r8835 | ipse | 2007-02-20 20:43:34 +0300 | 11 lines
+  
+  Merged revisions 8319 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+  
+  ........
+    r8319 | dworley | 2006-12-21 00:18:56 +0300 | 4 lines
+    
+    Fix test OsTimerTest, which was broken by rev. 8318.
+    Add test in OsTimerTask::handleMessage to abort if a message arrives
+    with an invalid msgSubType.
+  ........
+................
+  r8842 | ipse | 2007-02-21 00:30:33 +0300 | 3 lines
+  
+  New typedefs: MpInputDeviceHandle for logical device driver ID and MpFrameTime for frame time.
+  Setting devide Id separated from MpInputDeviceDriver::enableDevice() to MpInputDeviceDriver::setDeviceId().
+................
+  r8843 | kkyzivat | 2007-02-21 01:03:36 +0300 | 2 lines
+  
+  Initial infrastructure for new MpInputDeviceDriver, including framework for windows specific device driver.
+................
+  r8844 | kkyzivat | 2007-02-21 01:41:21 +0300 | 4 lines
+  
+  new media infrastructure - MpInputDeviceDriver..
+  Added more comments, fixed some merge issues that I overlooked with last checkin.
+  Conform better to coding guidelines.
+................
+  r8846 | ipse | 2007-02-21 18:24:10 +0300 | 2 lines
+  
+  Fix coding style in new device driver files.
+................
+  r8848 | ipse | 2007-02-21 18:41:18 +0300 | 15 lines
+  
+  Merged revisions 8326 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+  
+  ........
+    r8326 | xmlscott | 2006-12-21 05:03:42 +0300 | 18 lines
+    
+    Made OsSocket a UtlContainable so that all sockets can be stored
+      in UtlContainers.
+    
+    Added documentation to UtlVoidPtr directing developers to
+      UtlContainableAtomic as a better alternative.
+    
+    Fixed a number of warnings under gcc4 on linux
+  ........
+................
+  r8849 | ipse | 2007-02-21 18:46:05 +0300 | 11 lines
+  
+  Merged revisions 8334 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+  
+  ........
+    r8334 | dworley | 2006-12-21 22:37:13 +0300 | 4 lines
+    
+    mergefrom pingtel-main 7605
+    
+    Documentation update for OsSysLogFacilities.
+  ........
+................
+  r8850 | ipse | 2007-02-21 18:49:24 +0300 | 21 lines
+  
+  Merged revisions 8340 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+  
+  ........
+    r8340 | dworley | 2006-12-22 01:12:23 +0300 | 6 lines
+    
+    mergefrom pingtel-main 7622-7623
+    
+    Create XmlDecimal, for appending the decimal representation of an
+    integer to an XML string that is being assembled.
+    Tidy coding.
+  ........
+  
+  Blocked revisions 8363 via svnmerge
+  
+  ........
+    r8363 | xmlscott | 2006-12-23 00:51:12 +0300 | 1 line
+    
+    add svn-version generator to tarballs
+  ........
+................
+  r8851 | ipse | 2007-02-21 18:51:28 +0300 | 9 lines
+  
+  Merged revisions 8430 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+  
+  ........
+    r8430 | mdm2000 | 2007-01-03 02:40:16 +0300 | 2 lines
+    
+    On OS X, the extension for dynamic libraries is .dylib and not .so, so use that when running unit tests.
+  ........
+................
+  r8853 | ipse | 2007-02-21 20:46:15 +0300 | 31 lines
+  
+  Blocked revisions 8539,8597,8691 via svnmerge
+  
+  ........
+    r8539 | xmlscott | 2007-01-15 18:42:42 +0300 | 1 line
+    
+    correct svn mime type for html files
+  ........
+    r8597 | woof | 2007-01-20 02:13:26 +0300 | 17 lines
+    
+    Corrected call to OsDatagramSocket to enable remote host and port.
+    
+    A problem was manifesting itself as many more sockets than expected 
+    were being used for SIP transactions.  Turns out not setting remote 
+    host and port caused the upper layer SipClient code to create a new 
+    socket for each and every UDP packet that needed to be sent, and kept 
+    the previous one around as well!
+    
+    Under light load, this caused proxy and authproxy (and probably others) to
+    run over the 1024 per process (default) file descriptor limit, resulting
+    in failed calls.
+    
+    By setting the remote host and port, the SipClient code will re-use the
+    existing socket for sending packets addressed to the same place.
+    
+    --Woof!
+  ........
+    r8691 | kkyzivat | 2007-02-02 23:48:52 +0300 | 2 lines
+    
+    Clean up fc4 yum line, put in proper place.
+  ........
+................
+  r8854 | ipse | 2007-02-21 21:34:38 +0300 | 12 lines
+  
+  Merged revisions 8708 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+  
+  ........
+    r8708 | mdm2000 | 2007-02-07 09:29:17 +0300 | 5 lines
+    
+    Fixing OsFile locking API. Rather than broken read/write locks, it now supports
+    a simpler, advisory, exclusive lock. The lock is obtained when the file is
+    opened, and is released when the file is closed, when FSLOCK (non-blocking) or
+    FSLOCK_WAIT (blocking) are used in the open mode of the file.
+  ........
+................
+  r8855 | ipse | 2007-02-21 22:57:27 +0300 | 21 lines
+  
+  Merged revisions 8772-8774 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+  
+  ........
+    r8772 | xmlscott | 2007-02-14 00:27:07 +0300 | 10 lines
+    
+    Add OsSysLog logging to sipxunit framework so that
+    unit tests now generate log files.
+    
+       The unit test log files are generated in the directory
+       where the test is run, which is normally the same as
+       where the 'testsuite' libtool wrapper script is created.
+    
+       Log files are named <class>__<test>.log, so identifying
+       them is straightforward.
+  ........
+    r8774 | xmlscott | 2007-02-14 01:22:49 +0300 | 1 line
+    
+    re-add files left out by merge from Pingtel
+  ........
+................
+  r8856 | ipse | 2007-02-21 23:23:53 +0300 | 9 lines
+  
+  Merged revisions 8791 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+  
+  ........
+    r8791 | xmlscott | 2007-02-15 06:55:43 +0300 | 1 line
+    
+    fix include rule in sipxunit
+  ........
+................
+  r8857 | ipse | 2007-02-21 23:25:44 +0300 | 9 lines
+  
+  Merged revisions 8804 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+  
+  ........
+    r8804 | xmlscott | 2007-02-16 16:44:48 +0300 | 1 line
+    
+    [XPL-169] fix error in count before resize
+  ........
+................
+  r8858 | ipse | 2007-02-21 23:36:22 +0300 | 9 lines
+  
+  Merged revisions 8839 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+  
+  ........
+    r8839 | lazyboy | 2007-02-20 23:32:50 +0300 | 1 line
+    
+    XPL-191 Mark os file tests as known failures
+  ........
+................
+  r8859 | ipse | 2007-02-22 00:54:12 +0300 | 2 lines
+  
+  Unittests build fixes for VS2003: gsmd.lib was not found.
+................
+  r8861 | ipse | 2007-02-22 01:23:30 +0300 | 9 lines
+  
+  Merged revisions 8860 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+  
+  ........
+    r8860 | lazyboy | 2007-02-22 01:03:43 +0300 | 1 line
+    
+    XPL-191 Move known bug tag to where the assertion in the library where it actually fails
+  ........
+................
+  r8862 | dpetrie | 2007-02-22 02:12:14 +0300 | 4 lines
+  
+  Initial implementation of MpInputDeviceManager MprFromInputDevice.
+  Buyer beware: this is not yet tested.  No unit tests have been created yet.
+................
+  r8863 | kkyzivat | 2007-02-22 03:53:09 +0300 | 5 lines
+  
+  Add TestOsSysLogListener to sipXportLib unit tests.
+  Fix TestOsSysLogListener so that it works in an os-independent way.
+  Don't use unlink(filename), use OsFileSystem::remove(filename)
+................
+  r8864 | kkyzivat | 2007-02-22 04:20:17 +0300 | 3 lines
+  
+  Add TestOsSysLogListener class to test projects (new infrastructure merged from main).
+  
+  Fix OsFileTest bug in WINCE6 (no errno.h under CE6)
+................
+  r8865 | kkyzivat | 2007-02-22 04:50:25 +0300 | 3 lines
+  
+  Adding TestOsLogListener to other unit test projects.
+  (TestOsLogListener merged from main branch)
+................
+  r8866 | ipse | 2007-02-22 07:55:40 +0300 | 2 lines
+  
+  Add MprFromInputDevice.cpp to VS2003 sipXmediaLib project.
+................
+  r8867 | ipse | 2007-02-22 08:12:18 +0300 | 2 lines
+  
+  MpInputDeviceDriver: Move setDeviceId() and clearDeviceId() to MANIPULATORS section. It is a manipulator, not accessor according to coding style guidelines.
+................
+  r8868 | ipse | 2007-02-22 08:31:16 +0300 | 7 lines
+  
+  Numerous style fixes in MpInputDeviceManager.
+  
+  * Space after 'if'.
+  * Member variables should be initialized in initialization section, not in constructor body.
+  * If constructor parameter is stored in member variable, then use member variable in constructor body to prevent errors.
+  * Inline definitions should visually distinguish from definitions, so place its body on new line. This also prevents 80 column overrun in many cases.
+................
+
+END

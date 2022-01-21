@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-09-11T14:07:19.396880Z
+K 7
+svn:log
+V 333
+Merged revisions 7434 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7434 | bob | 2006-09-07 19:24:09 +0400 | 3 lines
+  
+  Added a UtlCrc32 utility class and updated sipXportLib tests.  This will be used for the STUN implementation (which lives in sipXportLib -- not the sipXtackLib).
+........
+
+END

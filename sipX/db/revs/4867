@@ -1,0 +1,320 @@
+PLAIN
+K 10
+svn:ignore
+V 96
+.settings
+Makefile
+Makefile.in
+bin.eclipse
+classes
+dist
+test-results
+tests
+spy.log
+velocity.log
+
+END
+ENDREP
+id: 4eo.1i7.r4867/135
+type: dir
+pred: 4eo.1i7.r4866/4816
+count: 400
+text: 4866 4464 339 339 0bba8a2256c70d025b3fefab72f3afd1
+props: 4867 0 122 0 72994517c8973db80428b7acf89205bf
+cpath: /main/sipXconfig/neoconf
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 2hg.0.r3393/21790
+K 9
+ChangeLog
+V 20
+file 2hh.0.r3490/576
+K 7
+INSTALL
+V 22
+file 2hi.0.r4025/62429
+K 7
+LICENSE
+V 23
+file 2hj.0.r3393/851332
+K 11
+Makefile.am
+V 26
+file 2hk.1i7.r4835/1704453
+K 4
+NEWS
+V 23
+file 2hl.0.r3393/808567
+K 6
+README
+V 21
+file 2hm.0.r3573/5968
+K 4
+TODO
+V 22
+file 2hn.0.r4025/58643
+K 9
+acsite.m4
+V 22
+file 2ho.0.r3393/21475
+K 14
+ant-targets.am
+V 23
+file 2hp.0.r3742/119328
+K 15
+ant-targets.xml
+V 20
+file 2hq.0.r4010/925
+K 3
+bin
+V 25
+dir 4bz.1i7.r4835/1704210
+K 9
+build.xml
+V 22
+file 4h8.1i7.r4846/176
+K 20
+config.properties.in
+V 24
+file 2jf.1i7.r4862/86683
+K 12
+configure.ac
+V 26
+file 2jg.1i7.r4835/1692781
+K 16
+dependencies.xml
+V 20
+file 5d9.0.r4010/715
+K 3
+doc
+V 25
+dir 2jh.1i7.r4835/1698589
+K 3
+etc
+V 23
+dir 4b7.1i7.r4821/31785
+K 3
+lib
+V 23
+dir 2jy.1i7.r4862/90802
+K 4
+meta
+V 25
+dir 4ea.1i7.r4835/1620661
+K 7
+neoconf
+V 21
+dir 4eo.1i7.r4867/135
+K 23
+profilepub_sipagent.dsp
+V 22
+file 4b5.0.r3393/16177
+K 12
+sipagent-jni
+V 23
+dir 48h.1w7.r4821/28271
+K 18
+sipxconfig.spec.in
+V 26
+file 4bh.1i7.r4835/1703510
+K 18
+subant-targets.xml
+V 21
+file 4h9.0.r3453/6142
+K 3
+web
+V 21
+dir 4l5.1i7.r4865/733
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 55
+config https://scm.sipfoundry.org/rep/sipX/main/config
+
+K 10
+svn:ignore
+V 255
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+bin.eclipse
+build
+config.h
+config.h.in
+config.log
+config.properties
+config.status
+configure
+libtool
+sipxconfig-*.rpm
+sipxconfig-*.tar.gz
+sipxconfig.spec
+stamp-h1
+top.build.dir
+velocity.log
+spy.log
+
+K 17
+svnmerge-2.6-head
+V 54
+https://scm.sipfoundry.org/rep/sipXconfig/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 29
+1-204,218,223-251,265,314,459
+K 17
+svnmerge-2.8-head
+V 54
+https://scm.sipfoundry.org/rep/sipXconfig/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 18
+1-829,837-855,1016
+K 21
+svnmerge-lowcarb-head
+V 58
+https://scm.sipfoundry.org/rep/sipXconfig/branches/lowcarb
+K 21
+svnmerge-lowcarb-revs
+V 6
+1-1002
+K 24
+svnmerge-post-2.6.1-revs
+V 5
+1-143
+K 22
+svnmerge-user_pin-head
+V 59
+https://scm.sipfoundry.org/rep/sipXconfig/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-732
+K 23
+svnmerge-user_ping-head
+V 60
+https://scm.sipfoundry.org/rep/sipXconfig/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-692
+END
+ENDREP
+id: 2hf.1i7.r4867/2615
+type: dir
+pred: 2hf.1i7.r4866/6221
+count: 847
+text: 4867 378 1144 1144 d71d32f60e8718e2b7e7c3c0fc6dd097
+props: 4867 1535 1067 0 327c8772f695a500267f4e9931f3ff0b
+cpath: /main/sipXconfig
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 6
+config
+V 24
+dir 91.1i4.r4835/1618934
+K 12
+dependencies
+V 19
+file 7rk.0.r4842/79
+K 11
+sipXcallLib
+V 22
+dir va.1i5.r4821/24840
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r4850/13352
+K 10
+sipXconfig
+V 22
+dir 2hf.1i7.r4867/2615
+K 12
+sipXmediaLib
+V 22
+dir mz.1i8.r4821/40400
+K 7
+sipXpbx
+V 23
+dir 5g6.1i9.r4850/16477
+K 9
+sipXphone
+V 23
+dir 6qk.1ia.r4852/35496
+K 11
+sipXportLib
+V 23
+dir 3.1ib.r4835/1618061
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r4850/3578
+K 13
+sipXpublisher
+V 22
+dir 20n.1id.r4850/1460
+K 12
+sipXregistry
+V 22
+dir 1y5.1ie.r4850/9035
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r4860/21331
+K 8
+sipXvxml
+V 22
+dir 22d.1ig.r4850/7359
+K 9
+sipxbuild
+V 21
+file 7rl.0.r4834/1249
+END
+ENDREP
+id: 7q4.0.r4867/3536
+type: dir
+pred: 7q4.0.r4866/7143
+count: 53
+text: 4867 2856 667 667 6289e342df62bac7b343d5d17921d164
+props: 4857 0 291 0 52227c9b544a534f2b579db85a600f58
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r4813/32382
+K 4
+main
+V 20
+dir 7q4.0.r4867/3536
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r4867/3867
+type: dir
+pred: 0.0.r4866/7474
+count: 4867
+text: 4867 3738 116 116 f4ced9d0de98dd8fb911659fefc4e956
+cpath: /
+copyroot: 0 /
+
+4eo.1i7.t4866-1 modify false true /main/sipXconfig/neoconf
+
+2hf.1i7.t4866-1 modify false true /main/sipXconfig
+
+
+3867 4010

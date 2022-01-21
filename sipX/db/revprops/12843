@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2021-08-31T04:45:44.332465Z
+K 7
+svn:log
+V 76
+
+Take SIPX instance lock when modifying the device names
+
+M    sipXtapi.cpp
+
+END

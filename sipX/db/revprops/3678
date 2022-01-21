@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-18T22:37:56.242658Z
+K 7
+svn:log
+V 97
+XCF-242 - Fixed, patch file for v8_mods_v2.sql was wrong and patch manager would not apply patch.
+END

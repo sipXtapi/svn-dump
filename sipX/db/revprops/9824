@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-11T11:24:18.874054Z
+K 7
+svn:log
+V 96
+Fix full call recording. Now it include tones and locally played files as well as remote party.
+
+END

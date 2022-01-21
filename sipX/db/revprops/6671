@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-04-27T03:15:35.263802Z
+K 7
+svn:log
+V 155
+Refactor the call resolver config into a separate class, and make the config machinery more uniform, in order to make the call resolver more maintainable.
+
+END

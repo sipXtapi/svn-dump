@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-03-23T03:12:21.942000Z
+K 7
+svn:log
+V 127
+LG-Nortel phone: woof! noticed that default value of HTTPS port is outside of the allowed range - relaxing constraint checking
+
+END

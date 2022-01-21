@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-05-05T04:10:55.946811Z
+K 7
+svn:log
+V 66
+Fix cast warning - use size_t type when retrieving string indexes.
+END

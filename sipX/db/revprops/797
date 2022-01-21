@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-02-11T21:01:36.687104Z
+K 7
+svn:log
+V 183
+Merge fix forward from 2.6 branch:
+
+Correct order of SDP header lines
+Add unit test for header construction (still need one for media data)
+
+http://track.sipfoundry.org/browse/XSL-54
+
+END

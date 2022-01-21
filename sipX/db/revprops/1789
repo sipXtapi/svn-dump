@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-06-23T21:25:02.783639Z
+K 7
+svn:log
+V 44
+Build the Makefile for sipXezPhone as well.
+
+END

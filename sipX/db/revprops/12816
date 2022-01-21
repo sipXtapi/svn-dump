@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2021-05-11T18:07:42.476873Z
+K 7
+svn:log
+V 247
+-Added support for WAV file playback with G711 mulaw encoding
+-Added proper error handling for unrecognized audio file playback formats
+-Added consistent WARNING level logs for failures to playback an audio file
+-cleanup indentations in OsStatus.h
+END

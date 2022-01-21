@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-12-16T01:28:34.399025Z
+K 7
+svn:log
+V 238
+XCF-834 changes in calling sequence were not persisted properly:
+problem with naive implementation of idConverter - it was loading a separate copies of UserRing object, UI was modifying a freshly loaded instance which was never persisted
+
+END

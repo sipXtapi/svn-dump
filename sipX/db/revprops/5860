@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-12T00:31:05.929008Z
+K 7
+svn:log
+V 267
+XCF-505 services screen is now fully functional for in configurations with more than one location configured
+switched to sipx Table component - it is using FormTable tapestry component - we need it since the number of services may change between render/rewind cycles
+
+END

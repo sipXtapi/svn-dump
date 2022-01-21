@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-03-23T16:35:35.459272Z
+K 7
+svn:log
+V 99
+Fix static linking of codecs plugins.
+This was broken due to mistype in preprocessor macros names.
+
+END

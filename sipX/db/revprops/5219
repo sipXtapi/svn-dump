@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-28T17:42:55.370744Z
+K 7
+svn:log
+V 294
+Tune database pooling configuration.  Related to XCF-643.
+In SipxDatabaseTestCase.teardown, close the TestHelper DB connection to clean up.  This code was commented out previously because with DBCP it was causing connection closed exceptions.  This is not happening now that we are using c3p0.
+
+END

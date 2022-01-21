@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-09-17T21:28:51.698023Z
+K 7
+svn:log
+V 67
+Turn off -Werror until I can fix warnings showing up under gcc 3.2
+
+END

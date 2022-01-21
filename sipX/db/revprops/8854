@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-21T18:34:38.986421Z
+K 7
+svn:log
+V 476
+Merged revisions 8708 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+
+........
+  r8708 | mdm2000 | 2007-02-07 09:29:17 +0300 | 5 lines
+  
+  Fixing OsFile locking API. Rather than broken read/write locks, it now supports
+  a simpler, advisory, exclusive lock. The lock is obtained when the file is
+  opened, and is released when the file is closed, when FSLOCK (non-blocking) or
+  FSLOCK_WAIT (blocking) are used in the open mode of the file.
+........
+
+END

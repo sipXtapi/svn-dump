@@ -1,0 +1,277 @@
+PLAIN
+K 10
+svn:ignore
+V 162
+01.pem
+Makefile
+Makefile.in
+ca.conf
+ca_cert.pem
+ca_key.pem
+index.txt
+index.txt.old
+openssl.id
+openssl.tmpl
+serial
+serial.old
+sipx.conf
+sipx.crt
+sipx.csr
+sipx.key
+
+END
+ENDREP
+id: 5qy.0.r4148/202
+type: dir
+pred: 5qy.0.r4147/1047
+count: 8
+text: 4147 811 223 223 b08a277b7b26eb2bbb694a6d5401dae2
+props: 4148 0 189 0 3c3d62a9aafb2621f9c758c3fb00d715
+cpath: /old/sipXpbx/main/etc/cert
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file 5r4.0.r4143/8120
+K 25
+ProcessDefinitions.xml.in
+V 21
+file 5gq.0.r4124/3813
+K 15
+WatchDog.xml.in
+V 21
+file 5gr.0.r4127/3680
+K 21
+autoattendant.vxml.in
+V 23
+file 5gs.0.r4094/341866
+K 4
+cert
+V 19
+dir 5qy.0.r4148/202
+K 22
+forwardmessage.vxml.in
+V 23
+file 5gt.0.r4094/341041
+K 38
+httpd-sipxchange-common-ssl.conf.in.in
+V 21
+file 5gu.0.r4119/4250
+K 34
+httpd-sipxchange-common.conf.in.in
+V 21
+file 5gv.0.r4119/4512
+K 43
+httpd-sipxchange-mediaserver-ssl.conf.in.in
+V 21
+file 5r5.0.r4119/5047
+K 39
+httpd-sipxchange-mediaserver.conf.in.in
+V 25
+file 5r6.0.r4122/12896802
+K 13
+login.vxml.in
+V 23
+file 5gw.0.r4094/340776
+K 30
+login_no_autoattendant.vxml.in
+V 23
+file 5gx.0.r4094/342139
+K 18
+resourcemap.xml.in
+V 23
+file 5gy.0.r4094/342421
+K 12
+root.vxml.in
+V 23
+file 5gz.0.r4094/342980
+K 19
+savemessage.vxml.in
+V 23
+file 5h0.0.r4094/343244
+K 31
+savemessage_no_operator.vxml.in
+V 23
+file 5h1.0.r4094/341582
+K 19
+voicemail.xml.in.in
+V 25
+file 5r7.0.r4122/12896557
+END
+ENDREP
+id: 5gp.0.r4148/1415
+type: dir
+pred: 5gp.0.r4147/2264
+count: 14
+text: 4148 422 980 980 df9ae4aefcfe6dcb5cbcdfe7082dd49f
+props: 4144 7340 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpbx/main/etc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4094/345033
+K 9
+ChangeLog
+V 20
+file 5g8.0.r4133/458
+K 7
+INSTALL
+V 21
+file 5g9.0.r4143/3730
+K 7
+LICENSE
+V 23
+file 5ga.0.r4094/296233
+K 11
+Makefile.am
+V 21
+file 5gb.0.r4143/7891
+K 4
+NEWS
+V 23
+file 5gc.0.r4094/344891
+K 6
+README
+V 21
+file 5gd.0.r4124/5275
+K 4
+TODO
+V 23
+file 5ge.0.r4094/299180
+K 9
+acsite.m4
+V 23
+file 5gf.0.r4094/300422
+K 3
+bin
+V 19
+dir 5gg.0.r4146/955
+K 12
+configure.ac
+V 21
+file 5gl.0.r4137/2575
+K 3
+doc
+V 22
+dir 5gm.0.r4094/299881
+K 3
+etc
+V 20
+dir 5gp.0.r4148/1415
+K 7
+include
+V 19
+dir 5h2.0.r4144/779
+K 3
+src
+V 20
+dir 5hb.0.r4144/5473
+END
+ENDREP
+id: 5g6.0.r4148/2238
+type: dir
+pred: 5g6.0.r4147/3088
+count: 47
+text: 4148 1634 591 591 28a18d148446a3c16c3b1d02ffee4285
+props: 4144 8225 241 0 62cd57c97efeb37d89369c2aee464908
+cpath: /old/sipXpbx/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 20
+dir 5g6.0.r4148/2238
+K 4
+tags
+V 20
+dir 5kn.0.r4134/2736
+END
+ENDREP
+id: 5g5.0.r4148/2542
+type: dir
+pred: 5g5.0.r4147/3392
+count: 55
+text: 4148 2455 74 74 738c6a436901f78c4b201b1b6938e80a
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4148/2542
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4148/3179
+type: dir
+pred: 1.0.r4147/4029
+count: 4146
+text: 4148 2696 470 470 e1816693720fc113c3255a7bcb946a96
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4148/3179
+END
+ENDREP
+id: 0.0.r4148/3374
+type: dir
+pred: 0.0.r4147/4224
+count: 4148
+text: 4148 3325 36 36 a1696cb6e1b6266ce08e26e364133207
+cpath: /
+copyroot: 0 /
+
+5qy.0.t4147-1 modify false true /old/sipXpbx/main/etc/cert
+
+
+3374 3515

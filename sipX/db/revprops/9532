@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-05-12T20:29:24.187965Z
+K 7
+svn:log
+V 138
+Changed OsTime::OS_INFINITY and OsTime::NO_WAIT_TIME from static member into typedef enum. Added constructor and = operator for this type.
+END

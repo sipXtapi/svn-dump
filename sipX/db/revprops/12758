@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2020-04-13T19:53:42.287264Z
+K 7
+svn:log
+V 96
+Make inlines static in PlgDefsV1 to avoid multiple definitions on older gcc (e.g. CentOS 6 & 7)
+
+END

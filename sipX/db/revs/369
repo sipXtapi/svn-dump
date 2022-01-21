@@ -1,0 +1,169 @@
+id: 3.1c.r369/0
+type: dir
+pred: 3.s.r364/998
+count: 276
+text: 364 306 679 679 6293b7968b34c90f4aa66d6222e52782
+props: 289 0 344 0 72981628abcd0e75dbe8d0c9fd877136
+cpath: /old/sipXportLib/tags/2.6-export-R
+copyfrom: 368 /old/sipXportLib/branches/2.6
+
+PLAIN
+K 5
+2.5.1
+V 17
+dir 3.e.r115/2794
+K 5
+2.5.2
+V 17
+dir 3.h.r169/1469
+K 12
+2.6-export-A
+V 16
+dir 3.t.r290/474
+K 12
+2.6-export-B
+V 16
+dir 3.u.r294/474
+K 12
+2.6-export-C
+V 16
+dir 3.v.r302/474
+K 12
+2.6-export-D
+V 16
+dir 3.w.r303/474
+K 12
+2.6-export-E
+V 16
+dir 3.x.r305/474
+K 12
+2.6-export-F
+V 16
+dir 3.y.r307/474
+K 12
+2.6-export-G
+V 15
+dir 3.10.r311/0
+K 12
+2.6-export-H
+V 15
+dir 3.11.r312/0
+K 12
+2.6-export-J
+V 15
+dir 3.12.r315/0
+K 12
+2.6-export-K
+V 15
+dir 3.13.r318/0
+K 12
+2.6-export-L
+V 15
+dir 3.14.r334/0
+K 12
+2.6-export-M
+V 15
+dir 3.15.r335/0
+K 12
+2.6-export-N
+V 15
+dir 3.16.r336/0
+K 12
+2.6-export-O
+V 15
+dir 3.19.r365/0
+K 12
+2.6-export-P
+V 15
+dir 3.1a.r366/0
+K 12
+2.6-export-Q
+V 15
+dir 3.1b.r368/0
+K 12
+2.6-export-R
+V 15
+dir 3.1c.r369/0
+K 5
+2.6.1
+V 16
+dir 3.z.r309/474
+K 13
+main-export-A
+V 14
+dir 3.p.r276/0
+K 13
+main-export-B
+V 16
+dir 3.q.r282/357
+K 13
+main-export-C
+V 16
+dir 3.r.r288/357
+END
+ENDREP
+id: an.0.r369/1155
+type: dir
+pred: an.0.r368/1116
+count: 25
+text: 369 250 892 892 f39671b593066e7aba7dd9c3a302f855
+cpath: /old/sipXportLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir ar.0.r364/1292
+K 4
+main
+V 16
+dir 3.0.r367/391
+K 4
+tags
+V 18
+dir an.0.r369/1155
+END
+ENDREP
+id: 2.0.r369/1432
+type: dir
+pred: 2.0.r368/1393
+count: 367
+text: 369 1314 105 105 f42e5082f45c26aafd1ee36534e0cd93
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r369/1432
+END
+ENDREP
+id: 1.0.r369/1643
+type: dir
+pred: 1.0.r368/1603
+count: 368
+text: 369 1586 44 44 e6a4e6d29235abf1bccb0331843e1534
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r369/1643
+END
+ENDREP
+id: 0.0.r369/1831
+type: dir
+pred: 0.0.r368/1790
+count: 369
+text: 369 1783 35 35 1811d80ec83ff72499c7a6af3b387245
+cpath: /
+copyroot: 0 /
+
+3._0.t368-1 add false false /old/sipXportLib/tags/2.6-export-R
+368 /old/sipXportLib/branches/2.6
+
+1831 1968

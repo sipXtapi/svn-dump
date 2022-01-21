@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-03-04T12:54:24.369212Z
+K 7
+svn:log
+V 63
+made the .vcproj match the .dsp
+changed solution dependencies.
+
+END

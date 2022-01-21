@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-10-23T20:16:20.919488Z
+K 7
+svn:log
+V 101
+XCF-1339 - Add codec settings for G722 and 650 preference settings to declare G722 as preferred codec
+END

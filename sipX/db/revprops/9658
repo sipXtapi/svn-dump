@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-06-06T02:38:57.756151Z
+K 7
+svn:log
+V 284
+Changes to add a new Buffer Recorder, so writing to file does not occur inside the media task.
+
+Both CpPhoneMediaInterface and CpTopologyGraphInterface can use this new resource.
+
+MediaAdapter record unit test now uses this resource to record instead of the old file record mechanism.
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-12-20T00:35:54.836189Z
+K 7
+svn:log
+V 131
+Initial commit of G.722.1 codec wrapper.
+Still has noise/artifacts in audio to debug.
+Also has lots of log noise to be cleaned up.
+
+END

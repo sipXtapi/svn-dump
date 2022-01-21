@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-08-28T20:23:04.177084Z
+K 7
+svn:log
+V 86
+Remove SdpCodec class forward declaration from Connection.h, as it is not used there.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-01-25T20:28:52.227006Z
+K 7
+svn:log
+V 97
+Merged revisions 101,115 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXproxy/branches/2.6
+
+END

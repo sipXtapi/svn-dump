@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-07-10T14:50:35.606576Z
+K 7
+svn:log
+V 207
+Make the string/data to OsFileBase::openAndWrite const
+as it is readonly.
+
+Fixed rename/mv functionality so that it is portable.  Use
+the portable file rename method in tinyxml so that it works
+on Windows.
+
+
+END

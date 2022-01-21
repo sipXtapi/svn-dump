@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-08-17T12:18:25.851813Z
+K 7
+svn:log
+V 78
+Remove GIPS NetEQ dependencies: use int instead of JB_size in MpJitterBuffer.
+
+END

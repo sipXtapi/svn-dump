@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-06-08T22:14:20.310924Z
+K 7
+svn:log
+V 127
+XCF-1059 - Use domain name for sending reboot sip messages, domain name is actual FQDN of just sip domain name when appropriate
+END

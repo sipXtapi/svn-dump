@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-09-22T18:57:37.599819Z
+K 7
+svn:log
+V 110
+Need to compare fmtp parameters for H.264 codec for isSame method
+  Added methods to compare fmpt parameters.
+
+END

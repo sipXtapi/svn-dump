@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-09-23T16:26:12.392125Z
+K 7
+svn:log
+V 164
+Modified 'config' externals to point to the new url -- i.e. using the main branch instead of branches/sipXtapi, since that no longer exists in the new repository.
+
+
+END

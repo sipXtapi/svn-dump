@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-07-11T20:21:55.604271Z
+K 7
+svn:log
+V 299
+XCF-1119 split phone and gateway model defintions into individual *-model.beans.xml files - one per manufacturer
+it enables developers to drop jars with phone plugins into {prefix}/share/sipxpbx/lib/ directory - they will be automatically discovered and added to sipXconfig list of supported models
+
+END

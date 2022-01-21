@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-28T22:33:13.099558Z
+K 7
+svn:log
+V 155
+XCF-684 related: until we have this fixed I am setting the default timezone for all supported devices to GMT-5 (Boston time)
+please follow this convention
+
+END

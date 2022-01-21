@@ -1,0 +1,97 @@
+id: 1qo.83.r1862/0
+type: dir
+pred: 1qo.0.r1860/1033
+count: 59
+text: 1860 242 778 778 557f26a6dce7226f66b3d5a835ccd2a7
+props: 1852 0 297 0 24430ce0b22a120bd22a7be77f91071c
+cpath: /old/sipXcommserverLib/branches/post-2.6.1
+copyfrom: 1861 /old/sipXcommserverLib/main
+
+PLAIN
+K 10
+post-2.6.1
+V 18
+dir 1qo.83.r1862/0
+END
+ENDREP
+id: 1v5.0.r1862/322
+type: dir
+pred: 1v5.0.r1861/0
+count: 1
+text: 1862 265 44 44 75ab1c03354f1d3dc5b7148a16967245
+cpath: /old/sipXcommserverLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 1v5.0.r1862/322
+K 4
+main
+V 20
+dir 1qo.0.r1860/1033
+K 4
+tags
+V 20
+dir 1uu.0.r1825/1623
+END
+ENDREP
+id: 1qn.0.r1862/614
+type: dir
+pred: 1qn.0.r1861/214
+count: 65
+text: 1862 489 112 112 43861e6ce5d628f094ea34b62fa05da8
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 19
+dir 1qn.0.r1862/614
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1862/1010
+type: dir
+pred: 1.0.r1861/610
+count: 1861
+text: 1862 777 220 220 729c4497730849787d91fcbd0a10c026
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1862/1010
+END
+ENDREP
+id: 0.0.r1862/1203
+type: dir
+pred: 0.0.r1861/802
+count: 1862
+text: 1862 1154 36 36 b7bca2ec84754655ee3a00b10f360097
+cpath: /
+copyroot: 0 /
+
+1qo._0.t1861-1 add false false /old/sipXcommserverLib/branches/post-2.6.1
+1861 /old/sipXcommserverLib/main
+
+1203 1343

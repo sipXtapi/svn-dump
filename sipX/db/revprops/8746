@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-10T14:26:05.607533Z
+K 7
+svn:log
+V 164
+Support for audio cards with separate mixers for input and output.
+Mixers now detected from wavein/waveout device handle.
+
+Thanks to Jaroslav Libak for this patch.
+
+END

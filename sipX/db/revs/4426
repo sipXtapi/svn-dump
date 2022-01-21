@@ -1,0 +1,257 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+END
+ENDREP
+id: 6oc.0.r4426/47
+type: file
+pred: 6oc.0.r4392/317
+count: 3
+text: 4392 0 291 834 a3a3fcc72c89ee32205e37a8de03f00d
+props: 4426 0 34 0 25e6c2f7558b7484000d4d090dea5b92
+cpath: /old/sipXpbx/main/etc/sipxchange
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 5r4.0.r4421/15015
+K 25
+ProcessDefinitions.xml.in
+V 21
+file 5gq.0.r4300/6484
+K 15
+WatchDog.xml.in
+V 20
+file 5gr.0.r4420/543
+K 38
+httpd-sipxchange-common-ssl.conf.in.in
+V 20
+file 5gu.0.r4308/188
+K 34
+httpd-sipxchange-common.conf.in.in
+V 21
+file 5gv.0.r4309/1527
+K 40
+httpd-sipxchange-configserver.conf.in.in
+V 20
+file 6o3.0.r4295/514
+K 43
+httpd-sipxchange-mediaserver-ssl.conf.in.in
+V 21
+file 5r5.0.r4237/8269
+K 39
+httpd-sipxchange-mediaserver.conf.in.in
+V 21
+file 5r6.0.r4401/6564
+K 13
+httpd.conf.in
+V 21
+file 6mw.0.r4289/1821
+K 10
+mime.types
+V 21
+file 6o0.0.r4198/9456
+K 18
+resourcemap.xml.in
+V 19
+file 5gy.0.r4352/44
+K 10
+sipxchange
+V 19
+file 6oc.0.r4426/47
+K 19
+voicemail.xml.in.in
+V 22
+file 5r7.0.r4398/14840
+END
+ENDREP
+id: 5gp.0.r4426/1025
+type: dir
+pred: 5gp.0.r4421/16006
+count: 54
+text: 4426 269 743 743 d018be298b5ff5aa1fde27f12a7fb00d
+props: 4144 7340 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpbx/main/etc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4094/345033
+K 9
+ChangeLog
+V 21
+file 5g8.0.r4389/3247
+K 7
+INSTALL
+V 20
+file 5g9.0.r4297/208
+K 7
+LICENSE
+V 23
+file 5ga.0.r4094/296233
+K 11
+Makefile.am
+V 19
+file 5gb.0.r4425/72
+K 4
+NEWS
+V 23
+file 5gc.0.r4094/344891
+K 6
+README
+V 20
+file 5gd.0.r4418/823
+K 4
+TODO
+V 23
+file 5ge.0.r4094/299180
+K 9
+acsite.m4
+V 23
+file 5gf.0.r4094/300422
+K 3
+bin
+V 20
+dir 5gg.0.r4423/1729
+K 12
+configure.ac
+V 22
+file 5gl.0.r4421/11826
+K 3
+doc
+V 20
+dir 5gm.0.r4422/2907
+K 3
+etc
+V 20
+dir 5gp.0.r4426/1025
+K 7
+include
+V 20
+dir 5h2.0.r4246/2224
+K 4
+meta
+V 20
+dir 6of.z4.r4406/423
+K 15
+sipxpbx.spec.in
+V 20
+file 6mo.0.r4423/456
+K 3
+src
+V 21
+dir 5hb.0.r4421/11604
+END
+ENDREP
+id: 5g6.0.r4426/1930
+type: dir
+pred: 5g6.0.r4425/983
+count: 260
+text: 4426 1245 672 672 2692613d42fd491a3ee03d9535852072
+props: 4423 2639 392 0 23fd8d60f3b7e237bf69134dbf568cbf
+cpath: /old/sipXpbx/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 6o1.0.r4419/3996
+K 4
+main
+V 20
+dir 5g6.0.r4426/1930
+K 4
+tags
+V 20
+dir 5kn.0.r4411/1596
+END
+ENDREP
+id: 5g5.0.r4426/2273
+type: dir
+pred: 5g5.0.r4425/1324
+count: 333
+text: 4426 2147 113 113 03d05afadc8ea29ca3f1ca1ed1e85372
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4426/2273
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4426/2913
+type: dir
+pred: 1.0.r4425/1964
+count: 4424
+text: 4426 2430 470 470 583f5deba54f3e985e5a7737e770b695
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4426/2913
+END
+ENDREP
+id: 0.0.r4426/3108
+type: dir
+pred: 0.0.r4425/2159
+count: 4426
+text: 4426 3059 36 36 1dd5c34f59dfc5dc0b63b6c9664e4a02
+cpath: /
+copyroot: 0 /
+
+6oc.0.t4425-1 modify false true /old/sipXpbx/main/etc/sipxchange
+
+
+3108 3249

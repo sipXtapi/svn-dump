@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-07-22T15:36:27.065075Z
+K 7
+svn:log
+V 65
+Added a  generic OsSysLog facility for application use (FAC_APP)
+
+END

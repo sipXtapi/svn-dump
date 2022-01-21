@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-23T15:38:20.564960Z
+K 7
+svn:log
+V 73
+Get everything in order so it will build with ./configure --enable-tapi.
+
+END

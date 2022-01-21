@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-27T22:15:08.382958Z
+K 7
+svn:log
+V 58
+Reactivate OsSysLog::add's now that format %ls is working.
+END

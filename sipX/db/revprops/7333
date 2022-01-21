@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-08-24T14:13:43.834717Z
+K 7
+svn:log
+V 127
+XCF-861 Create optional sipxconfig-ftp RPM that installs and configures vsftpd server w/default polycom soundpoint user and pwd
+END

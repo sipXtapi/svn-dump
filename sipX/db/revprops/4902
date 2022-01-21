@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-08-24T17:04:58.767157Z
+K 7
+svn:log
+V 731
+Plugin framework and Register Plugin improvements.
+Clarity improvements to the plugin framework based on comments
+  from Dale, Dong, and Lih at the review.
+  Changed a couple of the class names, added UML overview to the
+  Plugin documentation.
+Updated RegisterPlugin support.
+Converted the hard-coded support for implied mwi subscriptions
+  to a plugin (which is built and installed by default, as before,
+  but this way it could be removed, and serves as a working example
+  of how to do a RegisterPlugin).
+Added unit tests for the implied subscription plugin
+  and fixed bugs in the implied subscription requests that the test
+  found!
+Added a singleton wrapper class for the SipNonceDb
+Cleaned up some of the Plugin logging.
+
+
+
+END

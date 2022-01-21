@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-05-24T15:11:46.287374Z
+K 7
+svn:log
+V 79
+Check for invalid SDP payload types.
+http://track.sipfoundry.org/browse/XMR-36
+
+END

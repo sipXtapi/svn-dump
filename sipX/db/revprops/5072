@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-19T23:20:51.828486Z
+K 7
+svn:log
+V 82
+XCF-635 fix for stripping directory names when Windows file is uploaded on Linux 
+
+END

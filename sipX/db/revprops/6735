@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-05-04T22:55:06.315415Z
+K 7
+svn:log
+V 485
+Merge 6730,6732,6734 from sipfoundry 3.4:
+
+Fix XPR-154: In CDR , HA setup, if the distributed machine is down CDR is not logged .
+If we get an error connecting to a CSE DB, then catch it, report it, and at least try to do CDRs for the DBs that we are able to reach.
+
+Add a variant of the call resolver config file for use in development
+
+Fix the way the load path is handled to eliminate annoying warnings about constants already having been defined.
+Add unit tests for DatabaseUtils.
+
+END

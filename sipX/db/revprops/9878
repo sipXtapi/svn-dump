@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-19T21:09:25.104000Z
+K 7
+svn:log
+V 192
+Allow use multicast sockets with CpPhoneMediaInterface and CpTopologyGraphInterface.
+This solution is a short hand and will be replaced by RTP stream abstraction in next few months hopefully.
+
+END

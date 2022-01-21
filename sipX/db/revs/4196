@@ -1,0 +1,398 @@
+PLAIN
+END
+ENDREP
+id: 6no.0.r4196/17
+type: dir
+pred: 6no.0.r4195/38508
+count: 1
+text: 4196 0 4 4 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /old/sipXpbx/main/doc/developer/test-config/etc=sipxpbx/ssl
+copyroot: 0 /
+
+PLAIN
+K 22
+ProcessDefinitions.xml
+V 22
+file 6mz.0.r4195/39893
+K 12
+WatchDog.xml
+V 22
+file 6n0.0.r4195/37260
+K 19
+authproxy-config.in
+V 22
+file 6n1.0.r4195/40491
+K 16
+authrules.xml.in
+V 22
+file 6n2.0.r4195/34889
+K 21
+autoattendant.vxml.in
+V 22
+file 6n3.0.r4195/39498
+K 11
+config.defs
+V 22
+file 6n4.0.r4195/35874
+K 22
+forwardingrules.xml.in
+V 22
+file 6n5.0.r4195/35279
+K 22
+forwardmessage.vxml.in
+V 22
+file 6n6.0.r4195/38880
+K 16
+huntgroup.xml.in
+V 22
+file 6n7.0.r4195/37066
+K 13
+login.vxml.in
+V 22
+file 6n8.0.r4195/38687
+K 30
+login_no_autoattendant.vxml.in
+V 22
+file 6n9.0.r4195/36065
+K 19
+mappingrules.xml.in
+V 22
+file 6na.0.r4195/40093
+K 20
+mappingrules2.xml.in
+V 22
+file 6nb.0.r4195/36665
+K 21
+mediaserver-config.in
+V 22
+file 6nc.0.r4195/41078
+K 12
+pgs.props.in
+V 22
+file 6nd.0.r4195/37451
+K 22
+profilewriter.props.in
+V 22
+file 6ne.0.r4195/39083
+K 15
+proxy-config.in
+V 22
+file 6nf.0.r4195/36276
+K 19
+registrar-config.in
+V 22
+file 6ng.0.r4195/40293
+K 15
+resourcemap.xml
+V 22
+file 6nh.0.r4195/35679
+K 12
+root.vxml.in
+V 22
+file 6ni.0.r4195/40885
+K 19
+savemessage.vxml.in
+V 22
+file 6nj.0.r4195/36865
+K 31
+savemessage_no_operator.vxml.in
+V 22
+file 6nk.0.r4195/39285
+K 13
+sds-config.in
+V 22
+file 6nl.0.r4195/37833
+K 12
+sds.props.in
+V 22
+file 6nm.0.r4195/37642
+K 15
+security.policy
+V 22
+file 6nn.0.r4195/39699
+K 3
+ssl
+V 18
+dir 6no.0.r4196/17
+K 16
+status-config.in
+V 22
+file 6nr.0.r4195/36470
+K 20
+status-plugin.xml.in
+V 22
+file 6ns.0.r4195/35480
+K 15
+topology.xml.in
+V 22
+file 6nt.0.r4195/35084
+K 16
+voicemail.xml.in
+V 22
+file 6nu.0.r4195/40688
+END
+ENDREP
+id: 6my.0.r4196/1762
+type: dir
+pred: 6my.0.r4195/42834
+count: 1
+text: 4196 211 1538 1538 3e98ab823c7b72ab501216902f26bcad
+cpath: /old/sipXpbx/main/doc/developer/test-config/etc=sipxpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+etc=sipxpbx
+V 20
+dir 6my.0.r4196/1762
+K 18
+var=sipxdata=sipdb
+V 21
+dir 6nv.0.r4195/34705
+END
+ENDREP
+id: 6mx.0.r4196/2073
+type: dir
+pred: 6mx.0.r4195/43125
+count: 1
+text: 4196 1962 98 98 397fb5cb06377b14a2a9456415b1a7c8
+cpath: /old/sipXpbx/main/doc/developer/test-config
+copyroot: 0 /
+
+PLAIN
+K 18
+INSTALLATION.NOTES
+V 21
+file 6mg.0.r4179/1077
+K 8
+Makefile
+V 20
+file 6mh.0.r4178/504
+K 6
+README
+V 23
+file 6mf.y6.r4195/43288
+K 10
+config-xml
+V 22
+file 6mk.0.r4159/20472
+K 13
+gen-config.sh
+V 22
+file 6ml.0.r4159/20806
+K 10
+port-usage
+V 22
+file 6mm.0.r4159/20976
+K 7
+sipX.el
+V 22
+file 6mn.0.r4159/20309
+K 11
+test-config
+V 20
+dir 6mx.0.r4196/2073
+END
+ENDREP
+id: 6me.0.r4196/2623
+type: dir
+pred: 6me.0.r4195/43874
+count: 19
+text: 4196 2258 352 352 34a188655a92b854b38ebe837bf317be
+cpath: /old/sipXpbx/main/doc/developer
+copyroot: 0 /
+
+PLAIN
+K 9
+developer
+V 20
+dir 6me.0.r4196/2623
+K 7
+license
+V 20
+dir 5gn.0.r4189/1884
+K 3
+ssl
+V 20
+dir 6ms.0.r4191/3925
+END
+ENDREP
+id: 5gm.0.r4196/2928
+type: dir
+pred: 5gm.0.r4195/44181
+count: 23
+text: 4196 2799 116 116 34fd2ee538589af2558394c054cf0ec4
+cpath: /old/sipXpbx/main/doc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4094/345033
+K 9
+ChangeLog
+V 20
+file 5g8.0.r4133/458
+K 7
+INSTALL
+V 21
+file 5g9.0.r4191/4385
+K 7
+LICENSE
+V 23
+file 5ga.0.r4094/296233
+K 11
+Makefile.am
+V 22
+file 5gb.0.r4190/21687
+K 4
+NEWS
+V 23
+file 5gc.0.r4094/344891
+K 6
+README
+V 21
+file 5gd.0.r4191/3404
+K 4
+TODO
+V 23
+file 5ge.0.r4094/299180
+K 9
+acsite.m4
+V 23
+file 5gf.0.r4094/300422
+K 3
+bin
+V 20
+dir 5gg.0.r4193/1461
+K 12
+configure.ac
+V 22
+file 5gl.0.r4190/19627
+K 3
+doc
+V 20
+dir 5gm.0.r4196/2928
+K 3
+etc
+V 21
+dir 5gp.0.r4190/23415
+K 7
+include
+V 21
+dir 5h2.0.r4151/18040
+K 15
+sipxpbx.spec.in
+V 19
+file 6mo.0.r4194/62
+K 3
+src
+V 21
+dir 5hb.0.r4190/19405
+END
+ENDREP
+id: 5g6.0.r4196/3749
+type: dir
+pred: 5g6.0.r4195/45004
+count: 95
+text: 4196 3094 642 642 e0c7e8af5a324de33e61eacc7ddf5693
+props: 4180 3032 254 0 35f60484cc30a3f5e68a0cbc3d8302ff
+cpath: /old/sipXpbx/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 20
+dir 5g6.0.r4196/3749
+K 4
+tags
+V 20
+dir 5kn.0.r4134/2736
+END
+ENDREP
+id: 5g5.0.r4196/4054
+type: dir
+pred: 5g5.0.r4195/45310
+count: 103
+text: 4196 3967 74 74 e8cd49a71fd43f1f6d940e5c0a4cd47c
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4196/4054
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4196/4693
+type: dir
+pred: 1.0.r4195/45951
+count: 4194
+text: 4196 4210 470 470 9e95cc2a10b7a3859b64d0e573402c89
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4196/4693
+END
+ENDREP
+id: 0.0.r4196/4889
+type: dir
+pred: 0.0.r4195/46149
+count: 4196
+text: 4196 4840 36 36 a0461ac3f41af5d4ace145b40f2019e2
+cpath: /
+copyroot: 0 /
+
+6np.0.r4195/38025 delete false false /old/sipXpbx/main/doc/developer/test-config/etc=sipxpbx/ssl/sipx.crt
+
+6nq.0.r4195/38218 delete false false /old/sipXpbx/main/doc/developer/test-config/etc=sipxpbx/ssl/sipx.key
+
+
+4889 5031

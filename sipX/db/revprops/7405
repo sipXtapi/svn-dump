@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+cypromis
+K 8
+svn:date
+V 27
+2006-09-04T19:52:24.054222Z
+K 7
+svn:log
+V 38
+Get rid of empty lines in snom.vm file
+END

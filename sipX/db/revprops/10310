@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-10T09:54:36.988461Z
+K 7
+svn:log
+V 102
+More clean up of MpWBInputOutputDeviceTest on the way to make it robust to CPPUnit asserts' failures.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-06-12T10:22:41.908730Z
+K 7
+svn:log
+V 66
+sipXmediaAdapterLib: Fix VS6 and VS2005 build with Speex enabled.
+
+END

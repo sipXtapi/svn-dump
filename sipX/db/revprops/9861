@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-17T20:28:58.869919Z
+K 7
+svn:log
+V 399
+Current windows implementation of getCurTime(OsTime&) is not accurate down to microsecond level.
+Use QueryPerformanceCounter to increase resolution to 1us level, and accuracy not too much worse than 1us..  (depends on clockspeed, and other factors in your PC - for more information, see:
+http://www.interact-sw.co.uk/iangblog/2005/03/31/nanoperf
+http://www.virtualdub.org/blog/pivot/entry.php?id=106
+END

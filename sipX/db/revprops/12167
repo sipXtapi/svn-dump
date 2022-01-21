@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2013-10-15T23:24:53.203597Z
+K 7
+svn:log
+V 83
+Adding missing file from Android mediaLib build.  Fixed build constructs for NDK 8
+
+END

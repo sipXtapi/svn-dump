@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-28T22:02:23.245536Z
+K 7
+svn:log
+V 299
+New MprFromFile test -- plays tone stored in a file or buffer (one test for each), receives fromFile output, verifies proper length of frames, runs samples through DTMF detector, then, if DTMF tone matches what it really is, then test passes.
+
+Changes to add this test to builds will be forthcoming.
+END

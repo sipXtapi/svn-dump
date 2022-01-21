@@ -1,0 +1,1283 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: m6.0.r1038/82
+type: file
+pred: m6.0.r1024/6632
+count: 5
+text: 1024 497 969 5632 fe0cd091680eff7b6ed5159ea6557891
+props: 1038 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/include/net/SipSubscriptionMgr.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: m1.0.r1038/410
+type: file
+pred: m1.0.r1037/20446
+count: 7
+text: 1037 745 503 17213 fe906d421c9e792facc0202e0415e207
+props: 1038 328 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/include/net/SipPublishContentMgr.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: lv.0.r1038/745
+type: file
+pred: lv.0.r1037/20701
+count: 2
+text: 1037 1619 511 9298 4d2fad28c864e0341ad0adad276ab523
+props: 1038 663 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/include/net/SipSubscribeClient.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: lu.0.r1038/1078
+type: file
+pred: lu.0.r1037/20954
+count: 3
+text: 1037 1275 317 10213 4c38417030e0eb43c2a439ff130a7571
+props: 1038 996 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/include/net/SipRefreshManager.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: ls.0.r1038/1412
+type: file
+pred: ls.0.r1037/21207
+count: 3
+text: 1037 0 403 12802 684198c477bc6ca016787df9c47c3f7e
+props: 1038 1330 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/include/net/SipDialog.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: lt.0.r1038/1736
+type: file
+pred: lt.0.r1037/21449
+count: 5
+text: 1037 428 290 5973 0fc66b52c70346dc0707c8a537b1b83e
+props: 1038 1654 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/include/net/SipDialogMgr.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: m3.0.r1038/2064
+type: file
+pred: m3.0.r1024/7125
+count: 6
+text: 1024 122 350 9915 4c0d721b26ba038fa79b5e82c0fdc73d
+props: 1038 1982 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/include/net/SipSubscribeServer.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: m5.0.r1038/2397
+type: file
+pred: m5.0.r1002/9862
+count: 2
+text: 1002 3532 166 4645 a29eb37bd4d386028f175f1ce3358e10
+props: 1038 2315 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/include/net/SipSubscribeServerEventHandler.h
+copyroot: 0 /
+
+PLAIN
+K 10
+HttpBody.h
+V 19
+file e8.0.r984/5858
+K 13
+HttpMessage.h
+V 21
+file e9.0.r1003/14433
+K 20
+HttpRequestContext.h
+V 19
+file ea.0.r998/7992
+K 12
+HttpServer.h
+V 21
+file eb.0.r891/122088
+K 16
+MailAttachment.h
+V 20
+file ec.0.r772/11325
+K 13
+MailMessage.h
+V 20
+file ed.0.r772/17852
+K 14
+MimeBodyPart.h
+V 20
+file ee.0.r772/12306
+K 15
+NameValuePair.h
+V 21
+file ef.0.r891/117873
+K 26
+NameValuePairInsensitive.h
+V 19
+file m8.0.r998/7759
+K 20
+NameValueTokenizer.h
+V 19
+file eg.0.r964/4648
+K 23
+NetAttributeTokenizer.h
+V 20
+file eh.0.r772/14892
+K 16
+NetBase64Codec.h
+V 21
+file ei.0.r891/118120
+K 13
+NetMd5Codec.h
+V 20
+file ek.0.r772/18503
+K 5
+QoS.h
+V 20
+file el.0.r772/13605
+K 9
+SdpBody.h
+V 20
+file en.0.r1008/5071
+K 10
+SdpCodec.h
+V 21
+file eo.0.r891/123569
+K 17
+SdpCodecFactory.h
+V 20
+file ep.0.r772/16214
+K 11
+SipClient.h
+V 21
+file er.0.r891/118368
+K 22
+SipConfigServerAgent.h
+V 20
+file es.0.r772/17518
+K 11
+SipDialog.h
+V 20
+file ls.0.r1038/1412
+K 16
+SipDialogEvent.h
+V 19
+file me.0.r1023/528
+K 14
+SipDialogMgr.h
+V 20
+file lt.0.r1038/1736
+K 9
+SipLine.h
+V 19
+file et.0.r914/4998
+K 20
+SipLineCredentials.h
+V 21
+file eu.0.r891/123073
+K 14
+SipLineEvent.h
+V 20
+file ev.0.r772/21455
+K 13
+SipLineList.h
+V 21
+file ew.0.r891/121353
+K 12
+SipLineMgr.h
+V 19
+file ex.0.r914/5235
+K 12
+SipMessage.h
+V 21
+file ey.0.r1003/13681
+K 17
+SipMessageEvent.h
+V 21
+file ez.0.r891/121598
+K 16
+SipMessageList.h
+V 20
+file f0.0.r772/11978
+K 12
+SipNonceDb.h
+V 21
+file f2.0.r891/123325
+K 20
+SipNotifyStateTask.h
+V 20
+file f3.0.r772/22106
+K 21
+SipObserverCriteria.h
+V 20
+file f4.0.r772/24395
+K 14
+SipPimClient.h
+V 17
+file li.0.r916/82
+K 18
+SipPresenceEvent.h
+V 20
+file ml.0.r1034/7664
+K 23
+SipProtocolServerBase.h
+V 21
+file f5.0.r891/121098
+K 22
+SipPublishContentMgr.h
+V 19
+file m1.0.r1038/410
+K 19
+SipRefreshManager.h
+V 20
+file lu.0.r1038/1078
+K 15
+SipRefreshMgr.h
+V 19
+file f9.0.r914/4753
+K 19
+SipRequestContext.h
+V 19
+file l5.0.r840/3941
+K 15
+SipServerBase.h
+V 21
+file fb.0.r891/122825
+K 12
+SipSession.h
+V 20
+file fc.0.r772/20152
+K 14
+SipSrvLookup.h
+V 19
+file fd.0.r911/4843
+K 20
+SipSubscribeClient.h
+V 19
+file lv.0.r1038/745
+K 20
+SipSubscribeServer.h
+V 20
+file m3.0.r1038/2064
+K 32
+SipSubscribeServerEventHandler.h
+V 20
+file m5.0.r1038/2397
+K 20
+SipSubscriptionMgr.h
+V 18
+file m6.0.r1038/82
+K 14
+SipTcpServer.h
+V 21
+file fe.0.r891/120600
+K 14
+SipTlsServer.h
+V 21
+file ff.0.r891/119609
+K 16
+SipTransaction.h
+V 18
+file fg.0.r997/652
+K 20
+SipTransactionList.h
+V 20
+file fh.0.r928/11286
+K 14
+SipUdpServer.h
+V 21
+file fi.0.r891/118610
+K 14
+SipUserAgent.h
+V 19
+file fj.0.r949/2523
+K 18
+SipUserAgentBase.h
+V 21
+file fk.0.r891/119358
+K 23
+SipUserAgentStateless.h
+V 21
+file fl.0.r891/119102
+K 9
+TapiMgr.h
+V 17
+file ln.0.r900/42
+K 5
+Url.h
+V 20
+file fn.0.r990/16175
+END
+ENDREP
+id: e7.0.r1038/5394
+type: dir
+pred: e7.0.r1037/24437
+count: 81
+text: 1038 2661 2720 2720 c6757254a2843e823fe1a9d65ea15627
+props: 657 0 36 0 ff257944efec6d85a2de8765123bcfd4
+cpath: /old/sipXtackLib/main/include/net
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file e6.0.r1034/10860
+K 3
+net
+V 19
+dir e7.0.r1038/5394
+K 8
+resparse
+V 18
+dir fp.0.r936/2635
+END
+ENDREP
+id: e5.0.r1038/5754
+type: dir
+pred: e5.0.r1037/24800
+count: 93
+text: 1038 5623 118 118 270215853c6a2c5ed6ac9f9033aaac53
+props: 657 399 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXtackLib/main/include
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: mk.0.r1038/6061
+type: file
+pred: mk.0.r1024/10650
+count: 3
+text: 1024 5446 1158 16276 193be3599b99f9a3da15a96ddc462c1c
+props: 1038 5979 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/src/test/net/SipSubcribeServerTest.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: mo.0.r1038/6404
+type: file
+pred: mo.0.r1037/25074
+count: 1
+text: 1037 12725 3883 14862 630793834778e7379e1e88d93b789a98
+props: 1038 6322 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/src/test/net/SipRefreshManagerTest.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: m0.0.r1038/6748
+type: file
+pred: m0.0.r1010/5935
+count: 4
+text: 1010 1443 940 15319 63e6f03ed950aeedfb5c36e8ee6c2a0f
+props: 1038 6666 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/src/test/net/SipDialogTest.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: mp.0.r1038/7081
+type: file
+pred: mp.0.r1037/25362
+count: 1
+text: 1037 16621 3812 16216 3efe64d250547a8863df1d561103c122
+props: 1038 6999 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/src/test/net/SipSubcriptionClientTest.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: mj.0.r1038/7428
+type: file
+pred: mj.0.r1016/4546
+count: 1
+text: 1016 1181 3305 14133 051a6ce3c450a8a27d81d9d9bbfca945
+props: 1038 7346 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/src/test/net/SipSubcriptionMgrTest.cpp
+copyroot: 0 /
+
+PLAIN
+K 19
+HttpMessageTest.cpp
+V 21
+file ke.0.r891/128354
+K 32
+NameValuePairInsensitiveTest.cpp
+V 20
+file ma.0.r998/12030
+K 21
+NameValuePairTest.cpp
+V 20
+file kf.0.r998/11695
+K 29
+NetAttributeTokenizerTest.cpp
+V 20
+file kg.0.r772/30250
+K 19
+NetMd5CodecTest.cpp
+V 20
+file kh.0.r772/30928
+K 15
+SdpBodyTest.cpp
+V 21
+file l9.3k.r1008/8587
+K 22
+SipDialogEventTest.cpp
+V 21
+file mg.0.r1034/11778
+K 17
+SipDialogTest.cpp
+V 20
+file m0.0.r1038/6748
+K 18
+SipMessageTest.cpp
+V 18
+file ks.0.r978/859
+K 24
+SipPresenceEventTest.cpp
+V 21
+file mn.0.r1034/11541
+K 28
+SipPublishContentMgrTest.cpp
+V 20
+file mi.0.r1021/4729
+K 25
+SipRefreshManagerTest.cpp
+V 20
+file mo.0.r1038/6404
+K 25
+SipSubcribeServerTest.cpp
+V 20
+file mk.0.r1038/6061
+K 28
+SipSubcriptionClientTest.cpp
+V 20
+file mp.0.r1038/7081
+K 25
+SipSubcriptionMgrTest.cpp
+V 20
+file mj.0.r1038/7428
+K 20
+SipUserAgentTest.cpp
+V 18
+file lq.0.r967/149
+K 11
+UrlTest.cpp
+V 20
+file ki.0.r998/11450
+END
+ENDREP
+id: kd.0.r1038/8627
+type: dir
+pred: kd.0.r1037/26548
+count: 57
+text: 1038 7688 926 926 855dc8b21b9ea33e50c7d03fefe85dac
+cpath: /old/sipXtackLib/main/src/test/net
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file ka.0.r1034/13037
+K 3
+net
+V 19
+dir kd.0.r1038/8627
+END
+ENDREP
+id: k9.0.r1038/8898
+type: dir
+pred: k9.0.r1037/26822
+count: 64
+text: 1038 8804 81 81 ce4602036724056ff97fad94ff51db87
+props: 657 678 77 0 6b94d20aec46b8dab44ef95e370ba39c
+cpath: /old/sipXtackLib/main/src/test
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: ly.0.r1038/9204
+type: file
+pred: ly.0.r1037/27048
+count: 5
+text: 1037 6645 2331 42701 6e282aaa7793185ed6ba415be3098dc6
+props: 1038 9122 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/src/net/SipRefreshManager.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: lw.0.r1038/9538
+type: file
+pred: lw.0.r1037/27300
+count: 5
+text: 1037 2606 1481 27027 0e04501f4cf97fbc9068d72a5bbd6041
+props: 1038 9456 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/src/net/SipDialog.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: lx.0.r1038/9864
+type: file
+pred: lx.0.r1037/27544
+count: 5
+text: 1037 4115 854 14254 10e768ebc31333dced3fc9d0152f5db9
+props: 1038 9782 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/src/net/SipDialogMgr.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: m7.0.r1038/10192
+type: file
+pred: m7.0.r1024/12419
+count: 5
+text: 1024 1797 2402 24007 13d65754e3104ef46cbf4b2a68cf2887
+props: 1038 10110 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/src/net/SipSubscribeServer.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: mc.4d.r1038/10529
+type: file
+pred: mc.4d.r1023/4289
+count: 6
+text: 1023 263 239 6197 66123660ad276d0efd1fa00ec3613e6e
+props: 1038 10447 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/src/net/SipSubscribeServerEventHandler.cpp
+copyroot: 1003 /old/sipXtackLib/main/src/net/SipSubscribeServerEventHandler.cpp
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: md.0.r1038/10942
+type: file
+pred: md.0.r1025/111
+count: 6
+text: 1025 0 83 23343 681dccc2a5758861838de3a2f6bddbcc
+props: 1038 10860 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/src/net/SipSubscriptionMgr.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: m4.0.r1038/11272
+type: file
+pred: m4.0.r1037/28033
+count: 9
+text: 1037 4997 1621 15023 d5b30ffa0c823b3c19015c14abe81820
+props: 1038 11190 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/src/net/SipPublishContentMgr.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: lz.0.r1038/11611
+type: file
+pred: lz.0.r1037/28287
+count: 4
+text: 1037 9004 3695 32993 173fb24dfa221afe375e4e19192ecf05
+props: 1038 11529 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXtackLib/main/src/net/SipSubscribeClient.cpp
+copyroot: 0 /
+
+PLAIN
+K 12
+HttpBody.cpp
+V 21
+file ib.0.r1037/27791
+K 15
+HttpMessage.cpp
+V 20
+file ic.0.r1033/5140
+K 22
+HttpRequestContext.cpp
+V 20
+file id.0.r998/14088
+K 14
+HttpServer.cpp
+V 21
+file ie.0.r891/136391
+K 18
+MailAttachment.cpp
+V 20
+file if.0.r772/45224
+K 15
+MailMessage.cpp
+V 20
+file ig.0.r772/51090
+K 16
+MimeBodyPart.cpp
+V 20
+file ih.0.r772/46206
+K 17
+NameValuePair.cpp
+V 21
+file ii.0.r891/137873
+K 28
+NameValuePairInsensitive.cpp
+V 20
+file m9.0.r998/13854
+K 22
+NameValueTokenizer.cpp
+V 19
+file ij.0.r964/9379
+K 25
+NetAttributeTokenizer.cpp
+V 20
+file ik.0.r772/48466
+K 18
+NetBase64Codec.cpp
+V 21
+file il.0.r891/138119
+K 15
+NetMd5Codec.cpp
+V 20
+file in.0.r772/51739
+K 11
+SdpBody.cpp
+V 20
+file ip.0.r1008/9972
+K 12
+SdpCodec.cpp
+V 21
+file iq.0.r891/137632
+K 19
+SdpCodecFactory.cpp
+V 19
+file ir.0.r794/1271
+K 13
+SipClient.cpp
+V 20
+file it.0.r982/16621
+K 24
+SipConfigServerAgent.cpp
+V 21
+file iu.0.r891/140342
+K 13
+SipDialog.cpp
+V 20
+file lw.0.r1038/9538
+K 18
+SipDialogEvent.cpp
+V 21
+file mf.0.r1034/13600
+K 16
+SipDialogMgr.cpp
+V 20
+file lx.0.r1038/9864
+K 11
+SipLine.cpp
+V 19
+file iv.0.r914/8479
+K 22
+SipLineCredentials.cpp
+V 21
+file iw.0.r891/137381
+K 16
+SipLineEvent.cpp
+V 21
+file ix.0.r891/136146
+K 15
+SipLineList.cpp
+V 21
+file iy.0.r891/135403
+K 14
+SipLineMgr.cpp
+V 19
+file iz.0.r914/8716
+K 14
+SipMessage.cpp
+V 20
+file j0.0.r1033/4658
+K 19
+SipMessageEvent.cpp
+V 21
+file j1.0.r891/135898
+K 18
+SipMessageList.cpp
+V 21
+file j2.0.r891/138855
+K 14
+SipNonceDb.cpp
+V 20
+file j4.0.r772/43280
+K 22
+SipNotifyStateTask.cpp
+V 20
+file j5.0.r982/16123
+K 23
+SipObserverCriteria.cpp
+V 20
+file j6.0.r772/43919
+K 16
+SipPimClient.cpp
+V 19
+file lj.0.r916/3150
+K 20
+SipPresenceEvent.cpp
+V 21
+file mm.0.r1034/13930
+K 25
+SipProtocolServerBase.cpp
+V 21
+file j7.0.r891/135148
+K 24
+SipPublishContentMgr.cpp
+V 21
+file m4.0.r1038/11272
+K 21
+SipRefreshManager.cpp
+V 20
+file ly.0.r1038/9204
+K 17
+SipRefreshMgr.cpp
+V 18
+file jb.0.r951/435
+K 21
+SipRequestContext.cpp
+V 19
+file lm.0.r916/3473
+K 17
+SipServerBase.cpp
+V 20
+file jd.0.r772/42622
+K 14
+SipSession.cpp
+V 20
+file je.0.r772/39051
+K 16
+SipSrvLookup.cpp
+V 19
+file jf.0.r911/8093
+K 22
+SipSubscribeClient.cpp
+V 21
+file lz.0.r1038/11611
+K 22
+SipSubscribeServer.cpp
+V 21
+file m7.0.r1038/10192
+K 34
+SipSubscribeServerEventHandler.cpp
+V 22
+file mc.4d.r1038/10529
+K 22
+SipSubscriptionMgr.cpp
+V 21
+file md.0.r1038/10942
+K 16
+SipTcpServer.cpp
+V 20
+file jg.0.r982/16864
+K 16
+SipTlsServer.cpp
+V 20
+file jh.0.r880/16712
+K 18
+SipTransaction.cpp
+V 20
+file ji.0.r1033/4409
+K 22
+SipTransactionList.cpp
+V 20
+file jj.0.r982/17106
+K 16
+SipUdpServer.cpp
+V 18
+file jk.0.r930/607
+K 16
+SipUserAgent.cpp
+V 20
+file jl.0.r982/16375
+K 20
+SipUserAgentBase.cpp
+V 20
+file jm.0.r772/48137
+K 25
+SipUserAgentStateless.cpp
+V 21
+file jn.0.r891/139343
+K 11
+TapiMgr.cpp
+V 18
+file lo.0.r858/452
+K 7
+Url.cpp
+V 20
+file jp.0.r1033/4903
+END
+ENDREP
+id: ia.0.r1038/14691
+type: dir
+pred: ia.0.r1037/31365
+count: 153
+text: 1038 11866 2812 2812 3e20d1a7d21dd9135aa0a5d4d199efc2
+cpath: /old/sipXtackLib/main/src/net
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file i9.0.r1034/17155
+K 3
+net
+V 20
+dir ia.0.r1038/14691
+K 8
+resparse
+V 18
+dir jq.0.r921/9032
+K 4
+test
+V 19
+dir k9.0.r1038/8898
+END
+ENDREP
+id: i8.0.r1038/15034
+type: dir
+pred: i8.0.r1037/31709
+count: 190
+text: 1038 14868 153 153 71950dbde76b2c4bc1bb8d70a8cee721
+props: 657 1149 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /old/sipXtackLib/main/src
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 20
+file dl.0.r772/70283
+K 9
+ChangeLog
+V 21
+file dm.0.r891/128130
+K 7
+INSTALL
+V 21
+file dn.0.r891/155358
+K 7
+LICENSE
+V 21
+file do.0.r891/111455
+K 11
+Makefile.am
+V 19
+file dp.0.r1036/160
+K 4
+NEWS
+V 20
+file dq.0.r772/79111
+K 6
+README
+V 20
+file dr.0.r772/69980
+K 4
+TODO
+V 20
+file ds.0.r772/75936
+K 9
+acsite.m4
+V 20
+file dt.0.r772/28655
+K 14
+ant-targets.am
+V 21
+file du.0.r891/127031
+K 15
+ant-targets.xml
+V 21
+file dv.0.r891/143992
+K 17
+basicimclient.dsp
+V 19
+file le.0.r916/6589
+K 3
+bin
+V 20
+dir l0.0.r891/155979
+K 20
+config.properties.in
+V 20
+file dz.0.r772/75620
+K 12
+configure.ac
+V 19
+file e0.0.r861/3376
+K 3
+doc
+V 18
+dir e1.0.r961/1098
+K 8
+examples
+V 18
+dir lf.0.r917/1087
+K 7
+include
+V 19
+dir e5.0.r1038/5754
+K 3
+lib
+V 20
+dir gh.0.r650/115439
+K 4
+meta
+V 20
+dir l6.0.r891/127911
+K 15
+sipXtackLib.dsp
+V 21
+file gj.0.r1010/11404
+K 18
+sipXtackLib.vcproj
+V 18
+file ld.0.r906/267
+K 19
+sipXtackLibTest.dsp
+V 21
+file mh.0.r1020/15478
+K 15
+siplog2siptrace
+V 20
+dir gk.0.r891/156923
+K 7
+siptest
+V 18
+dir gn.0.r970/2446
+K 11
+siptest.dsp
+V 18
+file kv.0.r909/714
+K 9
+sipviewer
+V 19
+dir hn.0.r1031/5183
+K 19
+sipxtacklib.spec.in
+V 18
+file kw.0.r980/478
+K 3
+src
+V 20
+dir i8.0.r1038/15034
+K 15
+syslog2siptrace
+V 18
+dir kk.0.r983/2230
+K 16
+tcpdump2siptrace
+V 19
+file mb.0.r1029/108
+END
+ENDREP
+id: dk.0.r1038/16561
+type: dir
+pred: dk.0.r1037/33237
+count: 333
+text: 1038 15259 1289 1289 7d06549106dddb2ae26723c34aa2565a
+props: 1036 1690 953 0 cc27b188cf7f455071c40c9a1844214a
+cpath: /old/sipXtackLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir kz.0.r1035/2302
+K 4
+main
+V 20
+dir dk.0.r1038/16561
+K 4
+tags
+V 19
+dir kr.0.r1015/2864
+END
+ENDREP
+id: dj.0.r1038/16910
+type: dir
+pred: dj.0.r1037/33585
+count: 439
+text: 1038 16786 111 111 26372e823c83520c2b5895c66170c08a
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1038/16910
+END
+ENDREP
+id: 1.0.r1038/17172
+type: dir
+pred: 1.0.r1037/33846
+count: 1037
+text: 1038 17072 87 87 de4a4950e0bd113eafbca3f8bb457088
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 19
+dir 1.0.r1038/17172
+END
+ENDREP
+id: 0.0.r1038/17369
+type: dir
+pred: 0.0.r1037/34042
+count: 1038
+text: 1038 17319 37 37 df989f99470ec91d4965a401ec8103a7
+cpath: /
+copyroot: 0 /
+
+m4.0.t1037-1 modify false true /old/sipXtackLib/main/src/net/SipPublishContentMgr.cpp
+
+mc.4d.t1037-1 modify false true /old/sipXtackLib/main/src/net/SipSubscribeServerEventHandler.cpp
+
+m7.0.t1037-1 modify false true /old/sipXtackLib/main/src/net/SipSubscribeServer.cpp
+
+m1.0.t1037-1 modify false true /old/sipXtackLib/main/include/net/SipPublishContentMgr.h
+
+mo.0.t1037-1 modify false true /old/sipXtackLib/main/src/test/net/SipRefreshManagerTest.cpp
+
+m5.0.t1037-1 modify false true /old/sipXtackLib/main/include/net/SipSubscribeServerEventHandler.h
+
+m3.0.t1037-1 modify false true /old/sipXtackLib/main/include/net/SipSubscribeServer.h
+
+m0.0.t1037-1 modify false true /old/sipXtackLib/main/src/test/net/SipDialogTest.cpp
+
+mp.0.t1037-1 modify false true /old/sipXtackLib/main/src/test/net/SipSubcriptionClientTest.cpp
+
+lz.0.t1037-1 modify false true /old/sipXtackLib/main/src/net/SipSubscribeClient.cpp
+
+lv.0.t1037-1 modify false true /old/sipXtackLib/main/include/net/SipSubscribeClient.h
+
+mj.0.t1037-1 modify false true /old/sipXtackLib/main/src/test/net/SipSubcriptionMgrTest.cpp
+
+ly.0.t1037-1 modify false true /old/sipXtackLib/main/src/net/SipRefreshManager.cpp
+
+md.0.t1037-1 modify false true /old/sipXtackLib/main/src/net/SipSubscriptionMgr.cpp
+
+lu.0.t1037-1 modify false true /old/sipXtackLib/main/include/net/SipRefreshManager.h
+
+m6.0.t1037-1 modify false true /old/sipXtackLib/main/include/net/SipSubscriptionMgr.h
+
+lw.0.t1037-1 modify false true /old/sipXtackLib/main/src/net/SipDialog.cpp
+
+ls.0.t1037-1 modify false true /old/sipXtackLib/main/include/net/SipDialog.h
+
+mk.0.t1037-1 modify false true /old/sipXtackLib/main/src/test/net/SipSubcribeServerTest.cpp
+
+lx.0.t1037-1 modify false true /old/sipXtackLib/main/src/net/SipDialogMgr.cpp
+
+lt.0.t1037-1 modify false true /old/sipXtackLib/main/include/net/SipDialogMgr.h
+
+
+17369 17513

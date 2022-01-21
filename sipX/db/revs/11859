@@ -1,0 +1,447 @@
+PLAIN
+K 10
+svn:ignore
+V 22
+Makefile
+Makefile.in
+
+
+END
+ENDREP
+id: b3q.7n5.r11859/61
+type: dir
+pred: b3q.7n5.r11795/6124
+count: 98
+text: 11795 5759 352 352 97ee69d111013fa1069dcfbf5f78f8b6
+props: 11859 0 48 0 86168c69db02cf3306494c6df91bc2ed
+cpath: /main/sipXmediaAdapterLib/sipXmediaMediaProcessing/include
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 28
+Makefile
+Makefile.in
+.deps
+
+
+END
+ENDREP
+id: dmm.7n5.r11859/396
+type: dir
+pred: dmm.7n5.r11567/1284
+count: 85
+text: 11567 881 390 390 89d894deea170ed442ac1f2c77cf191c
+props: 11859 329 54 0 9e8708e9b4786ab3c7ff09e372496a63
+cpath: /main/sipXmediaAdapterLib/sipXmediaMediaProcessing/src/test
+copyroot: 10815 /main
+
+PLAIN
+K 25
+CpPhoneMediaInterface.cpp
+V 24
+file b3w.7n5.r11771/3548
+K 30
+CpTopologyGraphFactoryImpl.cpp
+V 22
+file eio.7n5.r11794/67
+K 28
+CpTopologyGraphInterface.cpp
+V 23
+file eip.7n5.r11858/712
+K 30
+MaNotfTranslatorDispatcher.cpp
+V 24
+file f1n.7n5.r11791/2010
+K 11
+Makefile.am
+V 24
+file b3x.7n5.r11731/7076
+K 24
+sipXmediaFactoryImpl.cpp
+V 23
+file b3y.7n5.r11601/250
+K 4
+test
+V 22
+dir dmm.7n5.r11859/396
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 28
+Makefile
+Makefile.in
+.deps
+
+
+END
+ENDREP
+id: b3v.7n5.r11859/1148
+type: dir
+pred: b3v.7n5.r11858/1425
+count: 283
+text: 11859 667 401 401 3e199bd05966f567816ff0453a30f0db
+props: 11859 1081 54 0 9e8708e9b4786ab3c7ff09e372496a63
+cpath: /main/sipXmediaAdapterLib/sipXmediaMediaProcessing/src
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file b3p.0.r9285/67275
+K 7
+include
+V 21
+dir b3q.7n5.r11859/61
+K 3
+src
+V 23
+dir b3v.7n5.r11859/1148
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 22
+Makefile
+Makefile.in
+
+
+END
+ENDREP
+id: b3o.7n5.r11859/1616
+type: dir
+pred: b3o.7n5.r11858/1779
+count: 295
+text: 11859 1417 125 125 09625f534bbf88213139b6856f3b64bd
+props: 11859 1555 48 0 86168c69db02cf3306494c6df91bc2ed
+cpath: /main/sipXmediaAdapterLib/sipXmediaMediaProcessing
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 28
+Makefile
+Makefile.in
+.deps
+
+
+END
+ENDREP
+id: b38.7n5.r11859/1949
+type: dir
+pred: b38.7n5.r11795/9330
+count: 83
+text: 11795 8719 598 598 508aa14835843b9b380cb71b1fe9d149
+props: 11859 1882 54 0 9e8708e9b4786ab3c7ff09e372496a63
+cpath: /main/sipXmediaAdapterLib/interface
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 22
+Makefile
+Makefile.in
+
+
+END
+ENDREP
+id: fxw.7n5.r11859/2260
+type: dir
+pred: fxw.7n5.r11139/10248
+count: 3
+text: 11139 10090 145 145 7bfda50240d7abb21f59cf826ea1aefa
+props: 11859 2199 48 0 86168c69db02cf3306494c6df91bc2ed
+cpath: /main/sipXmediaAdapterLib/doc
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 22
+Makefile
+Makefile.in
+
+
+END
+ENDREP
+id: fx7.7n5.r11859/2566
+type: dir
+pred: fx7.7n5.r11198/31193
+count: 9
+text: 11198 31086 94 94 5d07bed8534a86a2793f9b286c71e67a
+props: 11859 2505 48 0 86168c69db02cf3306494c6df91bc2ed
+cpath: /main/sipXmediaAdapterLib/examples
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g94.7n5.r11851/338
+K 12
+CONTRIBUTORS
+V 25
+file b2q.0.r6469/22070758
+K 9
+ChangeLog
+V 25
+file b2r.0.r6469/22069861
+K 7
+INSTALL
+V 23
+file b2s.0.r8484/550333
+K 11
+Makefile.am
+V 24
+file b2t.7n5.r11121/9242
+K 4
+NEWS
+V 25
+file b2u.0.r6469/22070590
+K 6
+README
+V 24
+file b2v.0.r6955/1730763
+K 4
+TODO
+V 25
+file b2w.0.r6469/22065755
+K 9
+acsite.m4
+V 24
+file b2x.0.r6955/1730061
+K 12
+configure.ac
+V 24
+file b37.7n5.r11366/1590
+K 3
+doc
+V 23
+dir fxw.7n5.r11859/2260
+K 8
+examples
+V 23
+dir fx7.7n5.r11859/2566
+K 9
+interface
+V 23
+dir b38.7n5.r11859/1949
+K 4
+meta
+V 24
+dir b3i.0.r6469/22069690
+K 19
+playback_prompt.wav
+V 22
+file e6d.0.r9479/50558
+K 17
+record_prompt.wav
+V 22
+file e6e.0.r9479/50821
+K 9
+short.wav
+V 23
+file f66.0.r10234/24599
+K 32
+sipXmediaAdapterLib-msvc8.vcproj
+V 24
+file e74.7n5.r11365/1073
+K 23
+sipXmediaAdapterLib.dsp
+V 22
+file up.7na.r11365/755
+K 23
+sipXmediaAdapterLib.vcp
+V 22
+file e6f.0.r8667/83038
+K 26
+sipXmediaAdapterLib.vcproj
+V 24
+file b3u.7nb.r11351/4677
+K 36
+sipXmediaAdapterLibTest-msvc8.vcproj
+V 24
+file e75.7n5.r11268/3305
+K 27
+sipXmediaAdapterLibTest.dsp
+V 25
+file dix.7np.r11289/26444
+K 27
+sipXmediaAdapterLibTest.sln
+V 23
+file dmk.0.r8350/303097
+K 27
+sipXmediaAdapterLibTest.vcp
+V 22
+file e6g.0.r8865/22166
+K 30
+sipXmediaAdapterLibTest.vcproj
+V 24
+file dml.7n5.r11268/3528
+K 24
+sipXmediaMediaProcessing
+V 23
+dir b3o.7n5.r11859/1616
+K 27
+sipxmediaadapterlib.spec.in
+V 24
+file b3z.7n5.r10867/7578
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 55
+config https://scm.sipfoundry.org/rep/sipX/main/config
+
+K 10
+svn:ignore
+V 83
+aclocal.m4
+config.h
+config.h.in
+configure
+libtool
+BUILDSTAMP
+Makefile
+Makefile.in
+
+
+K 16
+svnmerge-blocked
+V 30
+/main/sipXmediaAdapterLib:8363
+K 19
+svnmerge-integrated
+V 37
+/main/sipXmediaAdapterLib:1-7992,8177
+END
+ENDREP
+id: b2p.7n5.r11859/4598
+type: dir
+pred: b2p.7n5.r11858/3447
+count: 411
+text: 11859 2814 1443 1443 e1630ed9ed1631a862a3c2e7102f48be
+props: 11859 4270 315 0 96dcaef652f3fff2da18a7d6e16ab7f4
+cpath: /main/sipXmediaAdapterLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 24
+file g8y.7n5.r11608/2763
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 23
+dir 9wj.7n5.r11721/1537
+K 10
+readme.txt
+V 24
+file 9ws.7n5.r11483/5210
+K 7
+scripts
+V 23
+dir fxk.7n5.r11663/1205
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r11830/6889
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r11859/4598
+K 12
+sipXmediaLib
+V 23
+dir b40.7n5.r11857/2464
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r11849/3453
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r11848/1393
+K 11
+sipXtackLib
+V 23
+dir boq.7n5.r11853/3114
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r11859/5501
+type: dir
+pred: 9wi.7n5.r11858/4350
+count: 2852
+text: 11859 4842 646 646 e1b71bef61b9005891faeb2c2c55465f
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r11666/17573
+K 4
+main
+V 23
+dir 9wi.7n5.r11859/5501
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r11859/5839
+type: dir
+pred: 0.0.r11858/4688
+count: 11859
+text: 11859 5667 159 159 a4c7c1e4295d3f2fe55640a945af4167
+cpath: /
+copyroot: 0 /
+
+b3q.7n5.t11858-1 modify false true /main/sipXmediaAdapterLib/sipXmediaMediaProcessing/include
+
+fxw.7n5.t11858-1 modify false true /main/sipXmediaAdapterLib/doc
+
+dmm.7n5.t11858-1 modify false true /main/sipXmediaAdapterLib/sipXmediaMediaProcessing/src/test
+
+b3v.7n5.t11858-1 modify false true /main/sipXmediaAdapterLib/sipXmediaMediaProcessing/src
+
+fx7.7n5.t11858-1 modify false true /main/sipXmediaAdapterLib/examples
+
+b38.7n5.t11858-1 modify false true /main/sipXmediaAdapterLib/interface
+
+b3o.7n5.t11858-1 modify false true /main/sipXmediaAdapterLib/sipXmediaMediaProcessing
+
+b2p.7n5.t11858-1 modify false true /main/sipXmediaAdapterLib
+
+
+5839 5986

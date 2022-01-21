@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-29T14:07:58.977068Z
+K 7
+svn:log
+V 71
+Fix unterminated last line.
+
+http://track.sipfoundry.org/browse/XCL-49
+
+END

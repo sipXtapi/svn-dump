@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-08-10T17:31:51.529071Z
+K 7
+svn:log
+V 177
+Added unit tests for the sipXtapi url parsing utilities functions.  I also fixed some bugs in the existing utilities and added a new utility function to parse url parameters.
+
+
+
+END

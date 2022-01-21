@@ -1,0 +1,71 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-29T14:04:27.064254Z
+K 7
+svn:log
+V 1999
+Merged revisions 8503-8518 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8503 | kkyzivat | 2007-01-11 02:29:18 +0300 | 4 lines
+  
+  Addition of sipXsdpLib broke eVC4 WinCE5 build.
+  These changes fix that.
+........
+  r8504 | kkyzivat | 2007-01-11 04:45:05 +0300 | 3 lines
+  
+  Add sipXsdpLib, sipXsdpLibTest, and sipXmediaLibTest to evc4 command line build script
+  (adds to automated build)
+........
+  r8505 | kkyzivat | 2007-01-11 04:46:25 +0300 | 4 lines
+  
+  Add eVC4 callLib projects.
+  Things still aren't fully compiling yet, but the projects now exist.
+........
+  r8508 | ipse | 2007-01-11 16:42:58 +0300 | 14 lines
+  
+  Visual Studio 6 build fixes
+  
+  * Added VS6 project files for sipXsdpLib ad sipXsdpLibTest.
+  * Do not use require SSL by default.
+  * sdpTest.cpp: char * could not be outputed to cout directly. Use printf instead.
+  * Static CPPUnit library used, include dirs for CPPUnit added.
+  * Added links to sipXsdpLib in all other libraries.
+  * Counters declarations taked out of the loops.
+  * Added sipXtapi.dsw VS6 solution.
+  * Added missed source files to sipXmediaLib and sipXportLib.
+  * More tests added to sipXportLib, sipXmediaLib and sipXtackLib projects.
+  * UtlLongLongInt.h: LLONG_MAX was undefined under VS6.
+........
+  r8509 | ipse | 2007-01-11 16:58:18 +0300 | 2 lines
+  
+  sipXsdpLib added to buildmsvs6.bat
+........
+  r8512 | sgodin | 2007-01-11 19:58:02 +0300 | 1 line
+  
+  modified VS.NET 2005 build for new sdp library
+........
+  r8514 | kkyzivat | 2007-01-11 22:15:43 +0300 | 3 lines
+  
+  Fix for msvc6 automated build.
+........
+  r8516 | ipse | 2007-01-12 01:16:07 +0300 | 2 lines
+  
+  Formating cleanup. Unused member variable removed.
+........
+  r8517 | ipse | 2007-01-12 01:46:20 +0300 | 2 lines
+  
+  sipXsdpLibTest should be built after sipXtackLib.
+........
+  r8518 | ipse | 2007-01-12 03:15:02 +0300 | 2 lines
+  
+  Link with CPPUnit dynamically to avoid problems with different runtime libraries.
+........
+
+END

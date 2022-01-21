@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-05-24T23:05:49.703666Z
+K 7
+svn:log
+V 191
+XCF-396 music on hold support removed - this feature in not supported in sipX 2.9
+XCF-380 removed generarion of call park aliases - as Dale commented it is handled automatically by registrar
+
+END

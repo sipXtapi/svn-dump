@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-03T10:56:42.592620Z
+K 7
+svn:log
+V 192
+MSVS automated build script
+
+Add scripting to build:
+* libgsm
+* sipXmediaLib
+* sipXmediaLibTest
+* sipXmediaAdapterLib
+* sipXmediaAdapterLibTest
+* sipXcallLib
+* sipXcallLibTest
+* sipXtapiTest
+
+
+END

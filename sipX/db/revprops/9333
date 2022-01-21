@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-11T22:54:30.340330Z
+K 7
+svn:log
+V 215
+MpInputDeviceManager::getFrame(): Return correct numFramesBefore and numFramesAfter even if frame was not found.
+This is really useful to know to prevent clock skew, get rid of missed frames and frame time sealing.
+
+END

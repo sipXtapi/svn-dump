@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-10-02T03:11:58.839141Z
+K 7
+svn:log
+V 173
+XCF-1168 add ldap schedule into hibernate session by saving it first then allowing parent object to save it.  this gets around an annoying issue with hibernate session cache
+END

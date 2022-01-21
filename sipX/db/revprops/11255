@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-02-05T23:11:04.853886Z
+K 7
+svn:log
+V 449
+sipXsdpLib: Add a workaround for RFC4733 tones to SDP handling.
+We use empty fmtp string by default, but some implementations (e.g. X-Lite) prefer to explicitely specify "0-15" (default value). To interoperate with them we should equal "0-15" to empty fmtp.
+Now this is done more like a quick hack, and later will probably be changed to provide wider support for all this crazy fmtp handling stuff. AMR and Speex are ones who appeals to this a lot.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-03-25T13:23:53.550473Z
+K 7
+svn:log
+V 83
+XCF-965 persistent rings information needs to be cleared when new user is selected
+
+END

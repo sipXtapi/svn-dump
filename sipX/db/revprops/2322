@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-08-25T07:51:42.410260Z
+K 7
+svn:log
+V 320
+Fixed the registrar so that the correct nonce expiration
+was used.  The registrar sometimes regected valid registration
+requests due to an expired nonce.  It was using the expiration
+date as opposed to the duration a nonce is supposed to be good
+for.  This cause to large numbers to be added and a subsequent
+overflow.
+
+
+END

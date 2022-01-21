@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-04-25T17:34:59.337630Z
+K 7
+svn:log
+V 89
+XPB-259 Make menu item action type select the right form element for the action parameter
+END

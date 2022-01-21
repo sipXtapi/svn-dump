@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-22T21:29:09.372001Z
+K 7
+svn:log
+V 451
+Add a sipx_abs_srcdir Autoconf substitution.
+abs_srcdir (provided by default from autoconf) is not enough -- it is 
+properly specified from the root of the filesystem (/) but it can (and often
+does) include relative bits within it.
+
+sipx_abs_srcdir corrects this, providing a full absolute path, without any
+relativity in it.
+
+This was added for use in stripping path prefixes when generating Doxygen
+documentation, which will be checked in shortly.
+
+
+END

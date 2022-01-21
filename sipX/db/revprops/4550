@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-21T16:42:01.961019Z
+K 7
+svn:log
+V 67
+First cut at script to check that "make clean" is working properly.
+END

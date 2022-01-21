@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2006-05-04T14:59:35.833345Z
+K 7
+svn:log
+V 185
+Don't set SO_DONTROUTE on server sockets.  We want to support subnets.
+Fixes ACD-67 (A sentinel that is on a different subnet than the 
+   acdserver can't sign-in) and possibly others.
+
+END

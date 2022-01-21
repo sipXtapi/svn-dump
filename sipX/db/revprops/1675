@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-23T12:54:19.913883Z
+K 7
+svn:log
+V 431
+Merged revisions 352 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXcallLib/branches/2.8
+    ------------------------------------------------------------------------
+    r352 | dworley | 2005-03-22 13:12:49 -0500 (Tue, 22 Mar 2005) | 3 lines
+    Changed paths:
+       M /branches/2.8/examples/CallScript/src/Makefile.am
+    
+    Remove TAPI library from the link, as the functionality is now in the CallLib
+    library.
+    
+
+END

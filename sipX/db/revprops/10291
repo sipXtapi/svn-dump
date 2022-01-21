@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-08T21:22:31.404520Z
+K 7
+svn:log
+V 107
+Rename some resources in MpWBInputOutputDeviceTest to be more readable.
+E.g. remove "%d" from their names.
+
+END

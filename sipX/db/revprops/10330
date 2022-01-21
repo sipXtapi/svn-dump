@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-26T01:53:05.233011Z
+K 7
+svn:log
+V 34
+Fix build: "#else if" -> "#elif".
+
+END

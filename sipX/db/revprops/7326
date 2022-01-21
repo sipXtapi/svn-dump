@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-08-23T13:20:21.355674Z
+K 7
+svn:log
+V 51
+MpBufPtr::makeClone() renamed to MpBufPtr::clone()
+
+END

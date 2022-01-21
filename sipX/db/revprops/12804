@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2021-02-02T05:56:24.370872Z
+K 7
+svn:log
+V 56
+Set taskId in sysLog for non OsTask threads in Windows.
+
+END

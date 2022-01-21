@@ -1,0 +1,121 @@
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 214
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxcalllib-*.rpm
+sipxcalllib-*.tar.gz
+sipxcalllib.spec
+stamp-h1
+Debug
+Release
+
+K 17
+svnmerge-2.6-head
+V 55
+https://scm.sipfoundry.org/rep/sipXcallLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 20
+1-75,120,130,143,156
+K 18
+svnmerge-main-revs
+V 7
+1-60,72
+END
+ENDREP
+id: va.0.r1501/510
+type: dir
+pred: va.0.r1500/12433
+count: 133
+text: 1500 11540 880 880 d1b3f927805ea30d36d77d25df6910a2
+props: 1501 0 497 0 780f72d0d82e33c30ea602ca0fff9a15
+cpath: /old/sipXcallLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 15e.0.r1477/8948
+K 4
+main
+V 18
+dir va.0.r1501/510
+K 4
+tags
+V 20
+dir 156.0.r1494/1728
+END
+ENDREP
+id: v9.0.r1501/852
+type: dir
+pred: v9.0.r1500/12782
+count: 180
+text: 1501 728 111 111 3f4ae2bcfd17eadb3fd35eaaf43d63b6
+cpath: /old/sipXcallLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 18
+dir v9.0.r1501/852
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1501/1194
+type: dir
+pred: 1.0.r1500/13130
+count: 1500
+text: 1501 1010 171 171 a12413a22b5dfc491d73e9c4eb141e9a
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1501/1194
+END
+ENDREP
+id: 0.0.r1501/1390
+type: dir
+pred: 0.0.r1500/13329
+count: 1501
+text: 1501 1341 36 36 c356d5acd7e0a2bf30b587ef7059e3fa
+cpath: /
+copyroot: 0 /
+
+va.0.t1500-1 modify false true /old/sipXcallLib/main
+
+
+1390 1532

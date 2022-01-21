@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-02-15T19:13:53.625087Z
+K 7
+svn:log
+V 62
+fix for XPH-62 - launchix.exe build and install documentation.
+END

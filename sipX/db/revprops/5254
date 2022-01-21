@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-10-03T01:56:06.997279Z
+K 7
+svn:log
+V 67
+Fixed compilation problems with OpenSSL implementation 
+of S/MIME 
+
+END

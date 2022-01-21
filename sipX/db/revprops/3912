@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-05-16T22:30:36.300871Z
+K 7
+svn:log
+V 129
+XCF-273 old Configuration screen replaced with new UI
+only voice mail, music on hold and call pick-up related parameters defined
+
+END

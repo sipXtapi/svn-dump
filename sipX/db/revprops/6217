@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-22T20:34:40.355947Z
+K 7
+svn:log
+V 443
+XCF-753 fix for ListParkOrbits test
+not sure if thsi is HhttpUnit problem or a Tapestry 4 problem:
+HTTPUnit will not include "upload file" parameter in the response unless it's specifically set,
+Tapestry 4 will cause NullPointerException if it cannot find parameters related to "upload file" in the response
+If there are any Upload fields on the page, you can only test the page with HttpUnit if you set those fields explicitely in your test.
+
+END

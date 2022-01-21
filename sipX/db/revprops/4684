@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-09-22T09:12:14.899029Z
+K 7
+svn:log
+V 130
+Made the automake dependency consistant across all
+sipX projects to version 1.6.  This is the version
+that is provided on RHE 3.
+
+
+END

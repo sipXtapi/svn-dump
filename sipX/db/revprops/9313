@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-04-11T02:56:52.932733Z
+K 7
+svn:log
+V 177
+Removed concept of connection ID from MprBridge and replace it with 
+port reservation mechanism on MpResource.
+
+Added ability to create logical port IDs in MpResourceTopology.
+
+
+END

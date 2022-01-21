@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-02T15:41:37.800349Z
+K 7
+svn:log
+V 192
+Relocate OrbitFileReader.* into sipXcommserverLib/.../filereader, so its
+header goes into /usr/include/filereader, rather than /usr/include.
+Clean up the related fixes in revs. 7622 and 7624.
+
+END

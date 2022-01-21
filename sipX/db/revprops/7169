@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-03T15:59:54.860943Z
+K 7
+svn:log
+V 101
+XCF-1114 remove code that explicitly escapes * - since XCS-69 has been fixed it's no longer required
+
+END

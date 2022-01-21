@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-07-24T14:37:10.650865Z
+K 7
+svn:log
+V 86
+Ignore FINGERPRINT attributes for now (don't send unknown attribute error response).
+
+
+END

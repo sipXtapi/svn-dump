@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-02-21T20:08:27.424185Z
+K 7
+svn:log
+V 217
+Persistence for gateways implemented.
+DialPlanContext defined as an interface for DialPlanManager (changes in page and component defintions to reflect new spring bean names).
+DialPlanManager is now Hibernate enabled.
+
+END

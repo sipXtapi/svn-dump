@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-16T00:59:01.859938Z
+K 7
+svn:log
+V 181
+Linux build fix.
+
+Added macro SFAC_MEDIA_PROCESSING, which search for media interface includes and media processing libraries. sipXcallLib should depend on it, not on sipXmediaLib.
+
+END

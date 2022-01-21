@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-09-13T21:39:29.436922Z
+K 7
+svn:log
+V 51
+Remove strdub prototype due to conflict on gcc 5.X
+
+END

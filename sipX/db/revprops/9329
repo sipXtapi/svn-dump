@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-04-11T19:34:30.751158Z
+K 7
+svn:log
+V 58
+Fix localization glitch that chopped off resource strings 
+END

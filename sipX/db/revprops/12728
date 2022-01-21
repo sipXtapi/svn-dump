@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2019-10-05T00:44:43.471284Z
+K 7
+svn:log
+V 99
+Unit test for Ogg/Opus file write/record and header validation utilities to be used in MprRecorder
+
+END

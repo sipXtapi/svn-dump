@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-03-16T18:34:36.382591Z
+K 7
+svn:log
+V 265
+Added early media option to accept incoming call in offering state
+for sipXtapi and call processing classes.  
+   Note: this does not implement the early media functionality.  That
+   is coming later.  This just gets the option flag to the place it is 
+   needed.
+
+
+END

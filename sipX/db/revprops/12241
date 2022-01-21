@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2014-11-24T22:39:32.634896Z
+K 7
+svn:log
+V 134
+Exposed ability to record audio to wave files using GSM encoding in sipXtapi and cp interfaces.
+  Also fixed a few compiler warnings.
+
+END

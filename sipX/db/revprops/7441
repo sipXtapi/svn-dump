@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-09-07T22:22:06.206062Z
+K 7
+svn:log
+V 106
+Add select option for polycom 650 phone, note only runs 2.0 firmware, preliminary testing results are good
+END

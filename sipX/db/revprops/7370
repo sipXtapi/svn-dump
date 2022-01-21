@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-08-29T16:33:30.144418Z
+K 7
+svn:log
+V 85
+Change bandwidth constant for Speex 24kbps -- it use SDP_CODEC_BANDWIDTH_NORMAL now.
+
+END

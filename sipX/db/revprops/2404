@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-01-05T23:13:37.854332Z
+K 7
+svn:log
+V 194
+Correct tag handling for implied SUBSCRIBE requests
+  Remove the From tag from the REGISTER and generate a new one for SUBSCRIBE
+  Part of the fix for http://track.sipfoundry.org/browse/XRR-30
+
+
+END

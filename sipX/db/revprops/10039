@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-05T12:37:22.585027Z
+K 7
+svn:log
+V 35
+Fix build of SdpBodyTest unittest.
+
+END

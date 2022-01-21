@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-06-06T22:11:51.818446Z
+K 7
+svn:log
+V 327
+Add the getProcessStatus SOAP method to the WSDL, SOAP server, and SOAP unit test.
+Change the WSDL to use document style/literal use rather than document style/encoding use.  Document/encoded is not WSI-compliant and was not intended -- when I switched from RPC-style to document-style I should have changed the "use" as well.
+
+END

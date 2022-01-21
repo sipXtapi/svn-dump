@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-26T19:06:54.121569Z
+K 7
+svn:log
+V 121
+Add code to upgrade registrar config from 2.8 to 3.0.
+Also, revamp error handling in sipx-upgrade and add some features.
+
+END

@@ -1,0 +1,39 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-07-29T20:42:17.158147Z
+K 7
+svn:log
+V 1110
+Merged revisions 2726 via svnmerge from
+https://paradise.pingtel.com/rep/sipX/mirror/main
+    ------------------------------------------------------------------------
+    
+        Added the option to access either local or remote monitor.
+        
+        Created a SipPresenceMonitor module to monitor the presence event and a PresenceDialInServer to support sign-in/out feature via TUI.
+        
+        Added the authentication required fault code.
+        
+        Removed an unused argument and also changed how the response is being sent back.
+        
+        Fixed a crash in the memory clean and added a test in the unittest.
+        
+        Changed to use error() function to check whether the document parsing is successful or not.
+        
+        Creation of sipXdialog server and sipXpresence server.
+        
+        Added the check for handling empty values in XML-RPC requests and responses.
+        
+        Added all the files related to sipxdialog server and sipxpresence server to the distribution list.
+        
+        Added proceeding state to the dialog event.
+        
+        
+    
+
+END

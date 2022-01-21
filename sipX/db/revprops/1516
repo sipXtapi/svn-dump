@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-02-02T14:06:26.854641Z
+K 7
+svn:log
+V 42
+added sipXtapiInternal.cpp to the project.
+END

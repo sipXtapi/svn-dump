@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-12-31T18:45:59.155384Z
+K 7
+svn:log
+V 130
+Change svn:ignore so that it ignores the build-stamp generated files
+for all projects.
+http://track.sipfoundry.org/browse/XPB-142
+
+END

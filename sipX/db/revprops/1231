@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+lbudnick
+K 8
+svn:date
+V 27
+2005-02-28T14:09:32.821607Z
+K 7
+svn:log
+V 161
+Bug: RTP Senders that start with a timestamp of 0 not handled correctly. Handle unsigned ints better. Also, modify to follow coding standards wrt no use of tabs.
+END

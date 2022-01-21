@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-09-14T20:12:18.122644Z
+K 7
+svn:log
+V 91
+remove warnings during rpm make, make clean before rpm, point jboss to it's own policy file
+END

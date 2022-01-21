@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-07-14T18:18:55.797215Z
+K 7
+svn:log
+V 189
+Tweak watchdog script to work on a more generic linux distro, or at 
+least on gentoo. 
+
+  su -c "command" user 
+
+will quetly ignore user, fun! proper syntax now is
+
+  su user -c "command"
+
+
+END

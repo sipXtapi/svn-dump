@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-07-12T22:59:41.916518Z
+K 7
+svn:log
+V 104
+sipXmediaAdapterLib: Correctly state that audio device change is not yet implemented in Topology graph.
+
+END

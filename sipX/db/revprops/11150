@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-29T17:56:58.990041Z
+K 7
+svn:log
+V 166
+sipXmediaLib: Change MpFrameTime type from unsigned int to uint32_t to fix compilation problems on VS6.
+Other compilers are fine with it, but VS6 is way too special.
+
+END

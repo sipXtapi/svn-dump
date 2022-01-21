@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2018-02-26T23:39:06.086569Z
+K 7
+svn:log
+V 71
+Handle FMTP not set case in iLBC plugin.  Also use logging not printf.
+
+END

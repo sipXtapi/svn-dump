@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-03T20:33:19.773084Z
+K 7
+svn:log
+V 181
+XCF-1325 comment out empty labels in English translation so that sipXconfig display labels for which we do not have any translation (even English one i.e. msg.bypassInstantMessage)
+
+END

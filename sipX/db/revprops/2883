@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2004-12-19T22:00:29.708287Z
+K 7
+svn:log
+V 161
+- Modified to use MpStreamPlaylistPlayer for prompt queuing.
+- Now perform a prefetch of all audio data prior to playing.
+- Cleaned up some of the trace output.
+
+END

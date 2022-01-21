@@ -1,0 +1,137 @@
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 217
+BUILDSTAMP
+Debug
+Makefile
+Makefile.in
+Release
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxmedialib-*.rpm
+sipxmedialib-*.tar.gz
+sipxmedialib.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 56
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 12
+1-75,104,124
+K 17
+svnmerge-2.8-head
+V 56
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 17
+1-183,185,197,201
+K 22
+svnmerge-user_pin-head
+V 61
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-222
+K 23
+svnmerge-user_ping-head
+V 62
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-212
+END
+ENDREP
+id: mz.0.r1290/870
+type: dir
+pred: mz.0.r1283/1085
+count: 152
+text: 1283 314 758 758 37e6094f3b5598362a71bee007db9d96
+props: 1290 0 857 0 f70a8f71764e17adefcff3d9010ad7fb
+cpath: /old/sipXmediaLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir ux.0.r1289/1279
+K 4
+main
+V 18
+dir mz.0.r1290/870
+K 4
+tags
+V 19
+dir uq.0.r1288/2481
+END
+ENDREP
+id: my.0.r1290/1208
+type: dir
+pred: my.0.r1289/1571
+count: 223
+text: 1290 1086 109 109 8b4ef54b49813f504b05ddae9153b000
+cpath: /old/sipXmediaLib
+copyroot: 0 /
+
+PLAIN
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1290/1208
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1290/1511
+type: dir
+pred: 1.0.r1289/1874
+count: 1289
+text: 1290 1368 130 130 b986cee060fc6f48e40908bd9ecbb006
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1290/1511
+END
+ENDREP
+id: 0.0.r1290/1706
+type: dir
+pred: 0.0.r1289/2069
+count: 1290
+text: 1290 1657 36 36 6b25b5179ff2581cf8b0047d91017547
+cpath: /
+copyroot: 0 /
+
+mz.0.t1289-1 modify false true /old/sipXmediaLib/main
+
+
+1706 1847

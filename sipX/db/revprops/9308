@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-04-10T20:14:36.701336Z
+K 7
+svn:log
+V 91
+XCF-1435 - Do not validate the speed dial form unless attempting to save speed dail entries
+END

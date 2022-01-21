@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2008-05-07T15:05:02.051843Z
+K 7
+svn:log
+V 133
+-removed broken copy post build steps from plgspeex-msvc8.vcproj - they are not needed the dll is build directly in the bin directory
+END

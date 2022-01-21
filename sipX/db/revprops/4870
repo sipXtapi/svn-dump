@@ -1,0 +1,376 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-07-19T21:15:52.145965Z
+K 7
+svn:log
+V 19796
+Merged revisions 2286-2394 via svnmerge from
+https://paradise.pingtel.com/rep/sipX/mirror/main
+    ------------------------------------------------------------------------
+    r2300 | dworley | 2005-07-16 12:03:46 -0400 (Sat, 16 Jul 2005) | 422 lines
+    Changed paths:
+    [deleted]
+    
+    Aligning the contents of sipXcallLib between
+    https://paradise.pingtel.com/rep/sipX/mirror/main and
+    https://paradise.pingtel.com/rep/sipX/pingtel/branches/merge-1.
+    
+    Install changes for 2.9-export-A from SIPfoundry to
+    paradise-pingtel-merge-1 (which hadn't been installed yet), and then
+    changes from 2.9-export-A to HEAD from paradise-mirror-main.  (config
+    directory not changed.)
+    
+    Clean up various differences between file contents, leaving the ones
+    that appear to be legitimate differences between the two versions.
+    Remove paradise-mirror-main/sipXcallLib/INSTALL, as it is not included
+    in the Pingtel distribution.
+    
+    
+    ------------------------------------------------------------------------
+    r2302 | dworley | 2005-07-16 12:42:26 -0400 (Sat, 16 Jul 2005) | 122 lines
+    Changed paths:
+    [deleted]
+    
+    Aligning the contents of sipXcommserverLib between
+    https://paradise.pingtel.com/rep/sipX/mirror/main and
+    https://paradise.pingtel.com/rep/sipX/pingtel/branches/merge-1.
+    
+    Install changes for 2.9-export-A from SIPfoundry to
+    paradise-pingtel-merge-1 (which hadn't been installed yet), and then
+    changes from 2.9-export-A to HEAD from paradise-mirror-main.  (config
+    directory not changed.)
+    
+    Clean up various differences between file contents, leaving the ones
+    that appear to be legitimate differences between the two versions.
+    Have to check out what is going on with the INSTALL and lib*.a files,
+    as paradise-pingtel-merge-1/sipxcalllib.spec.in does not include them,
+    but sipxcommserverlib.spec.in does.
+    
+    
+    ------------------------------------------------------------------------
+    r2304 | dworley | 2005-07-16 14:29:41 -0400 (Sat, 16 Jul 2005) | 138 lines
+    Changed paths:
+    [deleted]
+    
+    Aligning the contents of sipXmediaLib between
+    https://paradise.pingtel.com/rep/sipX/mirror/main and
+    https://paradise.pingtel.com/rep/sipX/pingtel/branches/merge-1.
+    
+    Install changes for 2.9-export-A from SIPfoundry to
+    paradise-pingtel-merge-1 (which hadn't been installed yet), and then
+    changes from 2.9-export-A to HEAD from paradise-mirror-main.  (config
+    directory not changed.)
+    
+    Clean up various differences between file contents, leaving the ones
+    that appear to be legitimate differences between the two versions.
+    
+    
+    ------------------------------------------------------------------------
+    r2306 | dworley | 2005-07-16 14:45:42 -0400 (Sat, 16 Jul 2005) | 381 lines
+    Changed paths:
+    [deleted]
+    
+    Aligning the contents of sipXcallLib between
+    https://paradise.pingtel.com/rep/sipX/mirror/main and
+    https://paradise.pingtel.com/rep/sipX/pingtel/branches/merge-1.
+    
+    Install changes for 2.9-export-A from SIPfoundry to
+    paradise-pingtel-merge-1 (which hadn't been installed yet), and then
+    changes from 2.9-export-A to HEAD from paradise-mirror-main.  (config
+    directory not changed.)
+    
+    Clean up various differences between file contents, leaving the ones
+    that appear to be legitimate differences between the two versions.
+    
+    
+    
+    ------------------------------------------------------------------------
+    r2308 | dworley | 2005-07-16 15:01:11 -0400 (Sat, 16 Jul 2005) | 282 lines
+    Changed paths:
+    [deleted]
+    
+    Aligning the contents of sipXcallLib between
+    https://paradise.pingtel.com/rep/sipX/mirror/main and
+    https://paradise.pingtel.com/rep/sipX/pingtel/branches/merge-1.
+    
+    Install changes for 2.9-export-A from SIPfoundry to
+    paradise-pingtel-merge-1 (which hadn't been installed yet), and then
+    changes from 2.9-export-A to HEAD from paradise-mirror-main.  (config
+    directory not changed.)
+    
+    Clean up various differences between file contents, leaving the ones
+    that appear to be legitimate differences between the two versions.
+    
+    
+    ------------------------------------------------------------------------
+    r2310 | dworley | 2005-07-16 15:12:40 -0400 (Sat, 16 Jul 2005) | 80 lines
+    Changed paths:
+    [deleted]
+    
+    Aligning the contents of sipXproxyLib between
+    https://paradise.pingtel.com/rep/sipX/mirror/main and
+    https://paradise.pingtel.com/rep/sipX/pingtel/branches/merge-1.
+    
+    Install changes for 2.9-export-A from SIPfoundry to
+    paradise-pingtel-merge-1 (which hadn't been installed yet), and then
+    changes from 2.9-export-A to HEAD from paradise-mirror-main.  (config
+    directory not changed.)
+    
+    Clean up various differences between file contents, leaving the ones
+    that appear to be legitimate differences between the two versions.
+    
+    
+    ------------------------------------------------------------------------
+    r2312 | dworley | 2005-07-16 15:19:36 -0400 (Sat, 16 Jul 2005) | 70 lines
+    Changed paths:
+    [deleted]
+    
+    Aligning the contents of sipXpublisher between
+    https://paradise.pingtel.com/rep/sipX/mirror/main and
+    https://paradise.pingtel.com/rep/sipX/pingtel/branches/merge-1.
+    
+    Install changes for 2.9-export-A from SIPfoundry to
+    paradise-pingtel-merge-1 (which hadn't been installed yet), and then
+    changes from 2.9-export-A to HEAD from paradise-mirror-main.  (config
+    directory not changed.)
+    
+    Clean up various differences between file contents, leaving the ones
+    that appear to be legitimate differences between the two versions.
+    
+    
+    ------------------------------------------------------------------------
+    r2314 | dworley | 2005-07-16 15:30:57 -0400 (Sat, 16 Jul 2005) | 109 lines
+    Changed paths:
+    [deleted]
+    
+    Aligning the contents of sipXregistry between
+    https://paradise.pingtel.com/rep/sipX/mirror/main and
+    https://paradise.pingtel.com/rep/sipX/pingtel/branches/merge-1.
+    
+    Install changes for 2.9-export-A from SIPfoundry to
+    paradise-pingtel-merge-1 (which hadn't been installed yet), and then
+    changes from 2.9-export-A to HEAD from paradise-mirror-main.  (config
+    directory not changed.)
+    
+    Clean up various differences between file contents, leaving the ones
+    that appear to be legitimate differences between the two versions.
+    Remove paradise-mirror-main/sipXcallLib/INSTALL, as it is not included
+    in the Pingtel distribution.
+    
+    
+    ------------------------------------------------------------------------
+    r2316 | dworley | 2005-07-16 16:45:31 -0400 (Sat, 16 Jul 2005) | 316 lines
+    Changed paths:
+    [deleted]
+    
+    Aligning the contents of sipXtackLib between
+    https://paradise.pingtel.com/rep/sipX/mirror/main and
+    https://paradise.pingtel.com/rep/sipX/pingtel/branches/merge-1.
+    
+    Install changes for 2.9-export-A from SIPfoundry to
+    paradise-pingtel-merge-1 (which hadn't been installed yet), and then
+    changes from 2.9-export-A to 4854 from paradise-mirror-main.  (4854 is
+    the last rev of scm.sipfoundry.org/rep/sipX that has been merged into
+    mirror/main.)  (The 'config' is directory not changed.)
+    
+    Clean up various differences between file contents, leaving the ones
+    that appear to be legitimate differences between the two versions.
+    
+    
+    ------------------------------------------------------------------------
+    r2318 | dworley | 2005-07-16 17:00:34 -0400 (Sat, 16 Jul 2005) | 95 lines
+    Changed paths:
+    [deleted]
+    
+    Aligning the contents of sipXvxmlLib between
+    https://paradise.pingtel.com/rep/sipX/mirror/main and
+    https://paradise.pingtel.com/rep/sipX/pingtel/branches/merge-1.
+    
+    Install changes for 2.9-export-A from SIPfoundry to
+    paradise-pingtel-merge-1 (which hadn't been installed yet), and then
+    changes from 2.9-export-A to 4854 from paradise-mirror-main.  (4854 is
+    the last rev of scm.sipfoundry.org/rep/sipX that has been merged into
+    mirror/main.)  (The 'config' is directory not changed.)
+    
+    Clean up various differences between file contents, leaving the ones
+    that appear to be legitimate differences between the two versions.
+    
+    
+    ------------------------------------------------------------------------
+    r2320 | dworley | 2005-07-16 18:37:33 -0400 (Sat, 16 Jul 2005) | 3245 lines
+    Changed paths:
+    [deleted]
+    
+    Aligning the contents of sipXconfig between
+    https://paradise.pingtel.com/rep/sipX/mirror/main and
+    https://paradise.pingtel.com/rep/sipX/pingtel/branches/merge-1.
+    
+    Install changes from 2.8.1 a/k/a 2.8.1-export-A to HEAD from
+    SIPfoundry.  (config directory not changed.)
+    
+    Clean up various differences between file contents, leaving the ones
+    that appear to be legitimate differences between the two versions.
+    
+    
+    ------------------------------------------------------------------------
+    r2340 | dworley | 2005-07-17 16:58:13 -0400 (Sun, 17 Jul 2005) | 3 lines
+    Changed paths:
+       M /mirror/main
+    
+    Initialized merge tracking via svnmerge with revisions 1-2337 from
+    https://paradise.pingtel.com/rep/sipX/pingtel/main
+    
+    ------------------------------------------------------------------------
+    r2358 | prikov | 2005-07-18 14:47:48 -0400 (Mon, 18 Jul 2005) | 179 lines
+    Changed paths:
+       M /mirror/main
+       M /mirror/main/sipXconfig
+       M /mirror/main/sipXconfig/config.properties.in
+       A /mirror/main/sipXconfig/lib/xmlrpc-2.0.jar
+       M /mirror/main/sipXconfig/neoconf
+       M /mirror/main/sipXconfig/neoconf/.classpath
+       M /mirror/main/sipXconfig/neoconf/build.xml
+       M /mirror/main/sipXconfig/neoconf/etc/database/database.xml
+       A /mirror/main/sipXconfig/neoconf/etc/user-settings.xml
+       M /mirror/main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig/applicationContext-sipxconfig.xml
+       M /mirror/main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig/common/CoreContext.java
+       M /mirror/main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig/common/CoreContextImpl.java
+       M /mirror/main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig/common/common.hbm.xml
+       M /mirror/main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig/phone/PhoneContextImpl.java
+       M /mirror/main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig/setting/ConfigFileStorage.java
+       M /mirror/main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig/setting/SettingDao.java
+       M /mirror/main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig/setting/SettingDaoImpl.java
+       M /mirror/main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig/setting/XmlModelBuilder.java
+       A /mirror/main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig/xmlrpc
+       A /mirror/main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig/xmlrpc/XmlRpcClientInterceptor.java
+       A /mirror/main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig/xmlrpc/XmlRpcProxyFactoryBean.java
+       M /mirror/main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/ClearDb.xml
+       M /mirror/main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/common/BackgroundTaskInterceptorTest.java
+       M /mirror/main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/common/CoreContextImplTestDb.java
+       A /mirror/main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/common/UserGroupSeed.xml
+       M /mirror/main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/common/UserTestDb.java
+       M /mirror/main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/setting/ConfigFileStorageTest.java
+       A /mirror/main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/xmlrpc
+       A /mirror/main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/xmlrpc/Server.java
+       A /mirror/main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/xmlrpc/TestFunctions.java
+       A /mirror/main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/xmlrpc/XmlRpcClientInterceptorTest.java
+       A /mirror/main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/xmlrpc/XmlRpcProxyFactoryBeanTest.java
+       A /mirror/main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/xmlrpc/beans.xml
+       M /mirror/main/sipXconfig/web/context/WEB-INF/TestPage.html
+       M /mirror/main/sipXconfig/web/context/WEB-INF/TestPage.page
+       M /mirror/main/sipXconfig/web/context/WEB-INF/common/AdminNavigation.html
+       M /mirror/main/sipXconfig/web/context/WEB-INF/dialplan/EditEmergencyRouting.page
+       M /mirror/main/sipXconfig/web/context/WEB-INF/phone/EditPhoneForm.html
+       M /mirror/main/sipXconfig/web/context/WEB-INF/phone/EditPhoneForm.jwc
+       A /mirror/main/sipXconfig/web/context/WEB-INF/setting/GroupSelect.html
+       A /mirror/main/sipXconfig/web/context/WEB-INF/setting/GroupSelect.jwc
+       A /mirror/main/sipXconfig/web/context/WEB-INF/setting/GroupSettings.html
+       A /mirror/main/sipXconfig/web/context/WEB-INF/setting/GroupSettings.page
+       M /mirror/main/sipXconfig/web/context/WEB-INF/sipXconfig-web.application
+       M /mirror/main/sipXconfig/web/context/WEB-INF/user/UserForm.html
+       M /mirror/main/sipXconfig/web/context/WEB-INF/user/UserForm.jwc
+       M /mirror/main/sipXconfig/web/context/WEB-INF/user/UserGroups.page
+       M /mirror/main/sipXconfig/web/context/css/sipxconfig.css
+       D /mirror/main/sipXconfig/web/etc/jmsContext.xml
+       D /mirror/main/sipXconfig/web/etc/log4j.properties
+       M /mirror/main/sipXconfig/web/src/org/sipfoundry/sipxconfig/site/TestPage.java
+       A /mirror/main/sipXconfig/web/src/org/sipfoundry/sipxconfig/site/setting/GroupSettings.java
+       M /mirror/main/sipXconfig/web/src/org/sipfoundry/sipxconfig/site/user/UserGroups.java
+       M /mirror/main/sipXconfig/web/test/org/sipfoundry/sipxconfig/site/SiteTestHelper.java
+       M /mirror/main/sipXconfig/web/test/org/sipfoundry/sipxconfig/site/dialplan/EditEmergencyRoutingTestUi.java
+       M /mirror/main/sipXconfig/web/test/org/sipfoundry/sipxconfig/site/phone/EditPhoneGroupTestUi.java
+       M /mirror/main/sipXconfig/web/test/org/sipfoundry/sipxconfig/site/phone/PhoneTestHelper.java
+       A /mirror/main/sipXconfig/web/test/org/sipfoundry/sipxconfig/site/setting/GroupSettingsTestUi.java
+       M /mirror/main/sipXtackLib/include/Makefile.am
+       A /mirror/main/sipXtackLib/include/net/LinePresenceBase.h
+       A /mirror/main/sipXtackLib/include/net/LinePresenceMonitor.h
+       M /mirror/main/sipXtackLib/include/net/SipDialogMonitor.h
+       M /mirror/main/sipXtackLib/include/net/SipPresenceEvent.h
+       M /mirror/main/sipXtackLib/include/net/SipResourceList.h
+       A /mirror/main/sipXtackLib/include/net/StateChangeNotifier.h
+       M /mirror/main/sipXtackLib/include/net/XmlRpcBody.h
+       M /mirror/main/sipXtackLib/include/net/XmlRpcRequest.h
+       M /mirror/main/sipXtackLib/include/net/XmlRpcResponse.h
+       M /mirror/main/sipXtackLib/src/Makefile.am
+       A /mirror/main/sipXtackLib/src/net/LinePresenceMonitor.cpp
+       M /mirror/main/sipXtackLib/src/net/SipDialogEvent.cpp
+       M /mirror/main/sipXtackLib/src/net/SipDialogMonitor.cpp
+       M /mirror/main/sipXtackLib/src/net/SipPresenceEvent.cpp
+       M /mirror/main/sipXtackLib/src/net/SipResourceList.cpp
+       A /mirror/main/sipXtackLib/src/net/StateChangeNotifier.cpp
+       M /mirror/main/sipXtackLib/src/net/XmlRpcBody.cpp
+       M /mirror/main/sipXtackLib/src/net/XmlRpcRequest.cpp
+       M /mirror/main/sipXtackLib/src/net/XmlRpcResponse.cpp
+       M /mirror/main/sipXtackLib/src/test/net/SipPresenceEventTest.cpp
+       M /mirror/main/sipXtackLib/src/test/net/XmlRpcTest.cpp
+    
+    Merged revisions 4855-4868 via svnmerge from
+    https://scm.sipfoundry.org/rep/sipX/main
+    r2394 | dworley | 2005-07-19 15:54:25 -0400 (Tue, 19 Jul 2005) | 291 lines
+    Changed paths:
+       M /mirror/main
+       M /mirror/main/sipXcallLib/doc/Doxyfile.in
+       M /mirror/main/sipXcallLib/examples/sipXezPhone
+       M /mirror/main/sipXcommserverLib/doc/Doxyfile.in
+       M /mirror/main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig/common/ApplicationInitializedEvent.java
+       M /mirror/main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig/common/DynamicSessionFactoryBean.java
+       M /mirror/main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig/common/SpringHibernateInstantiator.java
+       M /mirror/main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig/gateway/audiocodes/SettingIniFilter.java
+       M /mirror/main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig/setting/Group.java
+       M /mirror/main/sipXconfig/neoconf/src/org/sipfoundry/sipxconfig/setting/SettingSet.java
+       M /mirror/main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/phone/PhoneContextTestDb.java
+       M /mirror/main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/phone/PhoneTestDriver.java
+       M /mirror/main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/phone/kphone/KPhoneTest.java
+       M /mirror/main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/xmlrpc/Server.java
+       M /mirror/main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/xmlrpc/TestFunctions.java
+       M /mirror/main/sipXconfig/neoconf/test/org/sipfoundry/sipxconfig/xmlrpc/XmlRpcClientInterceptorTest.java
+       M /mirror/main/sipXconfig/web/.tapestryplugin
+       M /mirror/main/sipXconfig/web/src/org/sipfoundry/sipxconfig/site/setting/SettingsForm.java
+       M /mirror/main/sipXconfig/web/test/org/sipfoundry/sipxconfig/site/SiteTestHelper.java
+       M /mirror/main/sipXmediaLib/doc/Doxyfile.in
+       M /mirror/main/sipXpbx/bin/sipx-snapshot.in
+       M /mirror/main/sipXpbx/doc/Doxyfile.in
+       M /mirror/main/sipXpbx/sipXpark
+       M /mirror/main/sipXpbx/sipXpark/bin
+       M /mirror/main/sipXpbx/sipXpark/doc
+       M /mirror/main/sipXpbx/sipXpark/etc
+       M /mirror/main/sipXpbx/sipXpark/src
+       M /mirror/main/sipXportLib/include/utl/PluginHook.h
+       M /mirror/main/sipXportLib/include/utl/PluginHooks.h
+       M /mirror/main/sipXportLib/src/test/testplugin
+       M /mirror/main/sipXportLib/src/test/testplugin/TestPlugin.cpp
+       M /mirror/main/sipXportLib/src/test/utl/PluginHooksTest.cpp
+       M /mirror/main/sipXportLib/src/test/utl/TestPlugin.h
+       M /mirror/main/sipXportLib/src/utl/PluginHooks.cpp
+       M /mirror/main/sipXproxy/doc/Doxyfile.in
+       M /mirror/main/sipXpublisher/doc/Doxyfile.in
+       M /mirror/main/sipXregistry/Makefile.am
+       M /mirror/main/sipXregistry/configure.ac
+       M /mirror/main/sipXregistry/doc/Doxyfile.in
+       M /mirror/main/sipXregistry/doc/footer.html
+       A /mirror/main/sipXregistry/include (from /pingtel/main/sipXregistry/include:2393)
+       R /mirror/main/sipXregistry/include/Makefile.am (from /pingtel/main/sipXregistry/include/Makefile.am:2393)
+       R /mirror/main/sipXregistry/include/RegisterHook.h (from /pingtel/main/sipXregistry/include/RegisterHook.h:2393)
+       M /mirror/main/sipXregistry/sipXregistry.dsp
+       M /mirror/main/sipXregistry/src/Makefile.am
+       M /mirror/main/sipXregistry/src/SipRedirectorPickUp.h
+       M /mirror/main/sipXregistry/src/SipRegistrar.cpp
+       M /mirror/main/sipXregistry/src/SipRegistrar.h
+       M /mirror/main/sipXregistry/src/SipRegistrarServer.cpp
+       M /mirror/main/sipXregistry/src/SipRegistrarServer.h
+       M /mirror/main/sipXregistry/src/main.cpp
+       D /mirror/main/sipXregistry/src/version.h
+       M /mirror/main/sipXtackLib/examples
+       M /mirror/main/sipXtackLib/examples/im
+       M /mirror/main/sipXtackLib/src/net/XmlRpcDispatch.cpp
+       M /mirror/main/sipXvxml/doc/Doxyfile.in
+    
+    Merged revisions 2338-2393 via svnmerge from
+    https://paradise.pingtel.com/rep/sipX/pingtel/main
+
+END

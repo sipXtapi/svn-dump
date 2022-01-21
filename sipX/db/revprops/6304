@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-03-07T17:28:00.758114Z
+K 7
+svn:log
+V 178
+XCF-753 listener cleanup after upgrading to T4
+most listerners do not require IRequestCycle parameter now
+see: http://jakarta.apache.org/tapestry/UsersGuide/listenermethods.html
+
+END

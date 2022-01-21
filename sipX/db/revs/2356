@@ -1,0 +1,175 @@
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 1yf.0.r2356/60
+type: dir
+pred: 1yf.0.r2352/2127
+count: 7
+text: 2352 1965 98 98 72f9b7e95c1e0f407e2dc0512371d588
+props: 2356 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXregistry/main/bin
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1y6.0.r2300/66299
+K 9
+ChangeLog
+V 20
+file 1y7.0.r2317/342
+K 7
+INSTALL
+V 21
+file 1y8.0.r2318/7772
+K 7
+LICENSE
+V 22
+file 1y9.0.r2300/57828
+K 11
+Makefile.am
+V 19
+file 1ya.0.r2355/58
+K 4
+NEWS
+V 22
+file 1yb.0.r2300/66153
+K 6
+README
+V 22
+file 1yc.0.r2300/66500
+K 4
+TODO
+V 21
+file 1yd.0.r2328/3301
+K 9
+acsite.m4
+V 22
+file 1ye.0.r2300/59380
+K 3
+bin
+V 18
+dir 1yf.0.r2356/60
+K 12
+configure.ac
+V 21
+file 1yk.0.r2352/1470
+K 3
+doc
+V 20
+dir 1z6.0.r2328/3080
+K 3
+etc
+V 20
+dir 1yl.0.r2325/8481
+K 16
+sipXregistry.dsp
+V 20
+file 1z4.0.r2346/133
+K 20
+sipxregistry.spec.in
+V 20
+file 1ze.0.r2354/413
+K 3
+src
+V 20
+dir 1yq.0.r2343/2234
+END
+ENDREP
+id: 1y5.0.r2356/934
+type: dir
+pred: 1y5.0.r2355/946
+count: 49
+text: 2356 277 644 644 8868bc89a19f344f357c6c6b1affaf56
+props: 2332 0 258 0 1a61ae1164ac0c19824dad4e3902e67e
+cpath: /old/sipXregistry/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 1zf.0.r2350/615
+K 4
+main
+V 19
+dir 1y5.0.r2356/934
+K 4
+tags
+V 20
+dir 1z5.0.r2316/1476
+END
+ENDREP
+id: 1y4.0.r2356/1274
+type: dir
+pred: 1y4.0.r2355/1287
+count: 57
+text: 2356 1150 111 111 35582dce51a6b7ca8dffc9aa81ae2ea6
+cpath: /old/sipXregistry
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2356/1274
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2356/1753
+type: dir
+pred: 1.0.r2355/1766
+count: 2355
+text: 2356 1435 305 305 8416a79f678c69dc005e69c6b4cd6323
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2356/1753
+END
+ENDREP
+id: 0.0.r2356/1948
+type: dir
+pred: 0.0.r2355/1961
+count: 2356
+text: 2356 1899 36 36 1b85a67b4650974f71000539c07b7397
+cpath: /
+copyroot: 0 /
+
+1yf.0.t2355-1 modify false true /old/sipXregistry/main/bin
+
+
+1948 2089

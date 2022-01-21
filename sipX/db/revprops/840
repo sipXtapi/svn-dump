@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-03-17T05:57:06.111334Z
+K 7
+svn:log
+V 238
+Added SipPimClient and the example command line client: basicImClient
+to the autotools build.
+
+Also checked in SipRequestContext for use with SIP server
+request handling APIs such as those in the sipStatusServer
+and the redirect server.
+
+
+END

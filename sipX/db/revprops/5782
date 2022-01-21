@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-12-22T18:55:37.514495Z
+K 7
+svn:log
+V 171
+XCF-818 remove references to attendant extension from EditAutoAttendant and ManageAttendants screens
+attendant extensions are now managed through Attendant dialing rules 
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-13T14:59:10.383521Z
+K 7
+svn:log
+V 75
+Minor cleaning on redirectors.
+Check in first draft of gateway redirector.
+
+END

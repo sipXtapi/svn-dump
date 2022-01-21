@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-15T13:21:37.918367Z
+K 7
+svn:log
+V 294
+First step towards static linking of codec plugins.
+St this point basic infrastructure is ready. Also it should be possible to statically link with PCMA/PCMU and tones codecs, though this is not fully integrated into build system. Other codecs and full integration to build system are ongoing.
+
+END

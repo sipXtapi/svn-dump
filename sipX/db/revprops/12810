@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2021-03-13T07:16:15.914979Z
+K 7
+svn:log
+V 55
+Enable the disaptching of call indepenent media events
+
+END

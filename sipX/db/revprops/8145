@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-11-29T14:58:59.226867Z
+K 7
+svn:log
+V 190
+XCF-1384 add configuration for 're-prompt' switch: number of times the autoattendant repeat the prompt before proceeding with 'on-fail' action
+enable test for autoattendant.vxml generation 
+
+END

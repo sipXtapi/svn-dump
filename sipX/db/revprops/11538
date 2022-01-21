@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-01-29T15:06:44.528730Z
+K 7
+svn:log
+V 42
+Fixed sipXtapi compile issue for Android.
+
+END

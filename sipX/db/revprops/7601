@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-29T18:50:51.740705Z
+K 7
+svn:log
+V 265
+XCF-1286 - sipXconfig will now restart sipXproxy (in addition to restarting registrar and authproxy) when activating dial plans. Newly added support for domain aliases requires that changes to forwardingrules.xml are propagated, and this file is read by sipXproxy.
+
+END

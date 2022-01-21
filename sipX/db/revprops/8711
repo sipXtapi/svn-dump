@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-07T13:12:12.243157Z
+K 7
+svn:log
+V 193
+* MprEncode::mPacket1PayloadUsed variable moved to local MprEncode::doPrimaryCodec() local variable payloadBytesUsed.
+* Braces in MprEncode::doPrimaryCodec() aligned according to coding style.
+
+END

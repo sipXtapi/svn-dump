@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-11T20:47:08.617618Z
+K 7
+svn:log
+V 274
+sipXtapi:Some failures where hidden under the CALLSTATE_SMIME_FAILURE fail code.
+E.g. if we have no loaded codecs, dial() used to fire CALLSTATE_DISCONNECTED:CALLSTATE_CAUSE_SMIME_FAILURE, which was misleading. Now it fires CALLSTATE_DISCONNECTED:CALLSTATE_CAUSE_NO_CODECS.
+
+END

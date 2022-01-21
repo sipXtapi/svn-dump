@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-10-31T17:07:47.086473Z
+K 7
+svn:log
+V 69
+Add commons logging jar to axis.path to make the Windows build happy
+
+END

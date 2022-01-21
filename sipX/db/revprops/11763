@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-10-31T17:10:55.723031Z
+K 7
+svn:log
+V 80
+SdpCodec definitions for AAC using both AAC_LC and mpeg4-generic Mime subtypes.
+
+END

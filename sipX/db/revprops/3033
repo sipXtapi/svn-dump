@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-29T21:13:06.725529Z
+K 7
+svn:log
+V 64
+Add MSVC project (.dsp) to the EXTRA_DIST line (for make dist)
+
+
+END

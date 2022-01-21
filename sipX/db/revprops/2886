@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2004-12-28T14:53:38.203464Z
+K 7
+svn:log
+V 68
+Adding --days switch to override the age of to be deleted voicemails
+END

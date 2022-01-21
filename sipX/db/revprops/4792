@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-04-03T20:12:14.850745Z
+K 7
+svn:log
+V 226
+First cut at adding STUN support to sipXphone
+ - Added SIP_STUN_SERVER and SIP_STUN_REFRESH_PERIOD parameters
+ - Updated the WebUI to allow setting of SIP_STUN_SERVER,
+   SIP_STUN_REFRESH_PERIOD, and SIP_SYMMETRIC_SIGNALING.
+
+
+END

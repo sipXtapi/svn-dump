@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-04-15T19:17:16.493373Z
+K 7
+svn:log
+V 122
+Eclipse configuration files updates: 
+- new Spring IDE update sides
+- java code templates with sipfoundry copyright notice
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-05-12T20:47:56.907091Z
+K 7
+svn:log
+V 143
+Implemented a few missing methods for the SIP SUBSCRIBE
+Client.  Updated the SipPublishContentMgr interface
+part of the SIP SUBSCRIBE Server.
+
+
+END

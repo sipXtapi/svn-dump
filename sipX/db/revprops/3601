@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-03-02T22:59:36.695067Z
+K 7
+svn:log
+V 252
+XCF-190 Initializing JMS resources when .war is deployed in EJB container.
+
+WEB-INF/jmsContext.xml defines JNDI specific resources.
+When .war is deployed in test container this file is overwritten with an empty etc/jmsContext.xml to enable UI testing.
+
+END

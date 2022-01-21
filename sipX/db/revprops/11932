@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-05-10T19:34:35.160023Z
+K 7
+svn:log
+V 120
+Fixed with-cppunit/without-cppunit so that sipX portable unit test frame work can be used even if CPPUNIT is installed.
+
+END

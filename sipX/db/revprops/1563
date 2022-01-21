@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-02-14T19:47:26.406757Z
+K 7
+svn:log
+V 329
+Turning off RtpReceive before a hangup, and if no RTP address exists.  This fixes the 'machine-gunning' problem. 
+(In sipXphone, in a conference, if a party is put on hold, the last buffer received from them is repeated over and over).
+
+However, this is probably a band-aid.  The real fix for this is probably in the FlowGraph??
+
+END

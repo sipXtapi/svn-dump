@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-08-07T18:51:23.139968Z
+K 7
+svn:log
+V 83
+Separate bridge mixing algorithms from bridge resource for better maintainability.
+
+END

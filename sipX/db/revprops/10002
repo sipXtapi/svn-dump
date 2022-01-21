@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-08-23T14:51:06.068118Z
+K 7
+svn:log
+V 52
+Correctly handle situation when no cam is attached.
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-02-16T16:04:24.151178Z
+K 7
+svn:log
+V 111
+Added unit test for HttpMessage parsing when there are no headers. 
+This occurs in some keepalive situations.
+
+
+END

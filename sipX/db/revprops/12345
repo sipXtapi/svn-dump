@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2016-09-13T03:51:26.729772Z
+K 7
+svn:log
+V 61
+Added mediaInteface unit test for energy level notifications
+
+END

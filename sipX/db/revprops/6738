@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-05-05T05:22:43.705246Z
+K 7
+svn:log
+V 29
+Fixed windows build issues.
+
+
+END

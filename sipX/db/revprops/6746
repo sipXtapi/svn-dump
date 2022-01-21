@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-05-05T15:45:30.223130Z
+K 7
+svn:log
+V 161
+minor changes for 1.5 compatibility
+- anotate unused paramters with @SuppressWarning
+- some examples of 1.5 syntax (generics and foreach) in RegistrationMetrics
+
+END

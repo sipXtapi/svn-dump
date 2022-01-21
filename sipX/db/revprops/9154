@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-03-23T21:58:07.200692Z
+K 7
+svn:log
+V 356
+support for SIP_CALLRESOLVER_MAX_CALL_LEN configuration property
+active calls that last longer than SIP_CALLRESOLVER_MAX_CALL_LEN seconds are classified as completed by callresolver 
+the default value is 28800 (8hours), set to -1 to disable long call aging
+
+Aging of old calls helps in situations when call terminate events are not logged by sipX proxies.
+
+END

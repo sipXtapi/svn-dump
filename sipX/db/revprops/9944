@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-08-15T21:39:36.577366Z
+K 7
+svn:log
+V 155
+Fix Linux build that was broken by modification of MediaAdapterLib test to use notifications, and by buffer recorder sendNotification function signature.
+
+
+END

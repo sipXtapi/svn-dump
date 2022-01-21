@@ -1,0 +1,43 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-03T23:03:34.367103Z
+K 7
+svn:log
+V 1402
+Merge out from main:
+    Improve usage message.
+    RpmPackage debug/debuginfo fix
+    Print status information about what build labels were used and what
+    configuration switches that created.
+    Remove extraneous 'cd' output
+    Tighten up how the returned status from a subprocess is handled, so
+    that if the subprocess returns null or garbage, the test won't produce
+    a "unary operator expected" message, nor an invalid result.
+    Improve some comments on the structure of the label file.
+    Add --verbose to suppress -s from "make" invocations.
+    Add --configure to allow ./configure options to be specified on the
+    command line.
+    Allow relative directories as destination argument.
+    Some more adjustments to ./build so that it displays variables from
+    multiple labels correctly.
+
+    Prevent ./build from hanging when no labels are specified.
+    Allow "-p Project+" to mean "Project" and all following projects in
+    the standard build order.
+    At the beginning of a run, print the order projects will be built.
+    Get the tab characters out of ./build.
+    In some places, I had to use the $'...\t...' construction, which may
+    not be as portable as we'd like, but it appears to be Posix standard
+    on the bash manual page.
+    Modified to comply with the new dist tree
+
+    Remove tabs from ./build.
+
+Fixed externals link in sipXconfig to point to this branch
+
+END

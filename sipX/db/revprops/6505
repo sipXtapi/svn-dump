@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-04-03T16:41:41.680618Z
+K 7
+svn:log
+V 81
+Use reference type in cast of lvalue.
+http://track.sipfoundry.org/browse/XSL-121
+
+END

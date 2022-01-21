@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-26T14:36:55.899931Z
+K 7
+svn:log
+V 117
+Added XmlFile.createFormat to enable subclasses influence XML generation.
+Modified the test to display generated XML
+
+END

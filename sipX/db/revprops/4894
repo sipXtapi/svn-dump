@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-08-22T14:31:21.527590Z
+K 7
+svn:log
+V 59
+Remove conflict marker.
+Document invocation of autoreconf.
+
+END

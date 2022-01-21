@@ -1,0 +1,192 @@
+PLAIN
+K 10
+svn:ignore
+V 241
+BUILDSTAMP
+Makefile
+Makefile.in
+SVN-VERSION
+aclocal.m4
+authproxy-config.in.tmp
+authrules.xml.in.tmp
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+forwardingrules.xml.in.tmp
+libtool
+proxy-config.in.tmp
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 53
+https://scm.sipfoundry.org/rep/sipXproxy/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 24
+1-95,101,115,118,132,138
+K 17
+svnmerge-2.8-head
+V 53
+https://scm.sipfoundry.org/rep/sipXproxy/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 29
+1-154,157,161-162,166,173,200
+K 19
+svnmerge-integrated
+V 22
+/main/sipXproxy:1-7799
+K 22
+svnmerge-user_pin-head
+V 58
+https://scm.sipfoundry.org/rep/sipXproxy/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-180
+K 23
+svnmerge-user_ping-head
+V 59
+https://scm.sipfoundry.org/rep/sipXproxy/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-174
+END
+ENDREP
+id: 1vt.5hb.r7808/872
+type: dir
+pred: 1vt.5hb.r7807/18269
+count: 283
+text: 7807 17501 755 755 67bbb9327c26951dff7ada6a2f11a54e
+props: 7808 0 859 0 127cb97d2874061650be7f2a236838e9
+cpath: /branches/proxy_simple_cdr
+copyroot: 7807 /branches/proxy_simple_cdr
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 22
+dir 7q4.3ib.r7575/4152
+K 3
+3.6
+V 23
+dir 7q4.50x.r7806/19370
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 16
+proxy_simple_cdr
+V 21
+dir 1vt.5hb.r7808/872
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 21
+dir 9wi.0.r7794/23342
+K 21
+sipXtapi-media-update
+V 23
+dir 9wi.3ke.r7803/70742
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 21
+dir 7q4.4t1.r7562/240
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 24
+user_dworley_redirectors
+V 22
+dir 7q4.3xw.r7792/3727
+K 14
+virtual-domain
+V 22
+dir 7q4.4t6.r7757/5623
+END
+ENDREP
+id: 7pt.0.r7808/2083
+type: dir
+pred: 7pt.0.r7807/19476
+count: 1029
+text: 7808 1129 941 941 0337979bce30a9305bde7f3ce6d6c3ae
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r7808/2083
+K 4
+main
+V 20
+dir 7q4.0.r7804/8212
+K 4
+tags
+V 20
+dir 7q5.0.r7783/3024
+END
+ENDREP
+id: 0.0.r7808/2365
+type: dir
+pred: 0.0.r7807/19761
+count: 7808
+text: 7808 2239 113 113 abe39e1aabe95468153e99c7a176ff35
+cpath: /
+copyroot: 0 /
+
+1vt.5hb.t7807-1 modify false true /branches/proxy_simple_cdr
+
+
+2365 2509

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2010-04-01T20:12:12.094068Z
+K 7
+svn:log
+V 139
+sipXmediaLib: In MprVoiceActivityNotifier send maximum energy level value since last notification instead of a value from a current frame.
+
+END

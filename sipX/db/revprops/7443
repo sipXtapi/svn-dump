@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-09-08T13:45:21.986342Z
+K 7
+svn:log
+V 81
+Removed some garbage files in contrib area, fixed mime-type and eol-style props
+
+
+END

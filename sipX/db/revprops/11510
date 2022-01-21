@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-01-18T19:02:10.135886Z
+K 7
+svn:log
+V 87
+Removed dynamic casts in sdpLib as RTTI and dynamic_casts are not supported on Android
+
+END

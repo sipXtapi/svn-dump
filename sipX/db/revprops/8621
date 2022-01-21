@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-01-25T18:14:10.049354Z
+K 7
+svn:log
+V 120
+Add reference to testing DTMF generation.
+Add note that aliased domains (int-udp/tcp) are not usable for
+registrations.
+
+END

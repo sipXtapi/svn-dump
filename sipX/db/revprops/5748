@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-12-15T00:37:47.571745Z
+K 7
+svn:log
+V 274
+Implement XRR-74: new registration DB columns for HA.  The new columns are "primary" (the primary registrar for this registration) and "update_number" (the database update number for this change).
+Also implement XRR-87: use and increment the update number in applyRegister.
+
+END

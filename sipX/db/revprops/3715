@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-25T22:16:50.604948Z
+K 7
+svn:log
+V 72
+XCF-246 Fixed, rewrite userId to credentials whether it's changed or not
+END

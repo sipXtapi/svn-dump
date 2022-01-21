@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-05-15T14:43:42.559765Z
+K 7
+svn:log
+V 263
+upgrade easymock and easymockclassextension libraries
+new easymock is using 1.5 specific features (static imports, generic types) - at the moment we have plenty of "deprecated" warnings in tests, all the mocks used in test will be gradually replaced with 2.x API
+
+END

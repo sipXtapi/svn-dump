@@ -1,0 +1,33 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-21T19:57:27.519999Z
+K 7
+svn:log
+V 660
+Merged revisions 8772-8774 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+
+........
+  r8772 | xmlscott | 2007-02-14 00:27:07 +0300 | 10 lines
+  
+  Add OsSysLog logging to sipxunit framework so that
+  unit tests now generate log files.
+  
+     The unit test log files are generated in the directory
+     where the test is run, which is normally the same as
+     where the 'testsuite' libtool wrapper script is created.
+  
+     Log files are named <class>__<test>.log, so identifying
+     them is straightforward.
+........
+  r8774 | xmlscott | 2007-02-14 01:22:49 +0300 | 1 line
+  
+  re-add files left out by merge from Pingtel
+........
+
+END

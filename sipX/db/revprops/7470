@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-09-13T03:41:53.313083Z
+K 7
+svn:log
+V 132
+Turn SipRedirectorCallerAlias into a Plugin, including relocating
+SipRegistrar.h to include/registry, so it can be used by Plugins.
+
+END

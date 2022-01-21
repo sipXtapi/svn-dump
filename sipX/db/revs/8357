@@ -1,0 +1,145 @@
+id: dm4.683.r8357/0
+type: file
+pred: dm4.0.r8318/61612
+count: 3
+text: 8318 0 372 2743 bc1151041af80c40af7d011c6597df80
+cpath: /main/buildmsvs6.bat
+copyfrom: 8318 /main/msvs6build.bat
+
+PLAIN
+K 11
+Makefile.in
+V 23
+file d0m.421.r8194/1039
+K 7
+bbridge
+V 21
+dir 8dl.0.r8083/18422
+K 5
+build
+V 22
+file d5a.0.r7664/15661
+K 14
+buildmsvs6.bat
+V 20
+file dm4.683.r8357/0
+K 6
+config
+V 21
+dir 91.1i4.r8352/1107
+K 12
+configure.ac
+V 20
+file d0n.0.r8051/327
+K 16
+dependencies.mak
+V 19
+file dxw.0.r8252/81
+K 3
+lib
+V 20
+dir cyn.0.r8329/2472
+K 14
+resiprocateLib
+V 21
+dir 8g8.0.r7696/13751
+K 9
+sipXb2bua
+V 21
+dir dau.0.r7967/44454
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r8338/8946
+K 17
+sipXcommserverLib
+V 22
+dir 1qo.1i6.r8347/2807
+K 10
+sipXconfig
+V 23
+dir 2hf.1i7.r8354/29821
+K 19
+sipXmediaAdapterLib
+V 21
+dir 89s.0.r8177/13233
+K 12
+sipXmediaLib
+V 22
+dir mz.1i8.r8309/12843
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r8351/5908
+K 11
+sipXportLib
+V 21
+dir 3.1ib.r8340/10235
+K 9
+sipXproxy
+V 23
+dir 1vt.1ic.r8343/14112
+K 13
+sipXpublisher
+V 23
+dir 20n.1id.r8180/70541
+K 12
+sipXregistry
+V 23
+dir 1y5.1ie.r8334/13261
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r8340/17392
+K 9
+sipXtools
+V 20
+dir dtl.0.r8324/3048
+K 8
+sipXvxml
+V 22
+dir 22d.1ig.r8260/1937
+K 10
+top.mak.in
+V 21
+file d5l.0.r7330/2797
+END
+ENDREP
+id: 7q4.0.r8357/1250
+type: dir
+pred: 7q4.0.r8354/31134
+count: 2197
+text: 8357 184 1053 1053 d701b6efc317e098733f978b2a634c29
+props: 8340 18703 2648 0 3f1144af43132a20d2204ec5951b68d7
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r8356/8940
+K 4
+main
+V 20
+dir 7q4.0.r8357/1250
+K 4
+tags
+V 20
+dir 7q5.0.r8275/3149
+END
+ENDREP
+id: 0.0.r8357/1587
+type: dir
+pred: 0.0.r8356/9226
+count: 8357
+text: 8357 1461 113 113 5aee1d403d581af969cfb4d2b74d2437
+cpath: /
+copyroot: 0 /
+
+dm4._0.t8356-1 add false false /main/buildmsvs6.bat
+8318 /main/msvs6build.bat
+dm4.0.r8318/61612 delete false false /main/msvs6build.bat
+
+
+1587 1730

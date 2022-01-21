@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-05T19:52:28.590514Z
+K 7
+svn:log
+V 180
+XCF-777 fixed problem in PhoneContextImpl.getPhoneIdBySerialNumber 
+serial number was not normalized in this function. It was causing problems when re-importing the same data set.
+
+END

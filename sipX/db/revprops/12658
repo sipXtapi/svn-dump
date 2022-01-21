@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2018-01-30T19:14:55.545774Z
+K 7
+svn:log
+V 167
+Fix/clean-up the teardown of this object. Too many calls to stop() at silly places in the code made its shutdown unreliable. Should finish gracefully and reliably now.
+END

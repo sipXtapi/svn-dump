@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-10-31T17:16:28.440216Z
+K 7
+svn:log
+V 67
+Support of AU, ADTS and no headers in AAC RTP in AAC codec plugin.
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-05-26T14:11:02.582836Z
+K 7
+svn:log
+V 87
+Added unit test and fixed issues for SipSubscriptionMgr
+part of SIP Subscribe server.
+
+
+END

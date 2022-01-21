@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-01-25T02:56:30.462220Z
+K 7
+svn:log
+V 340
+Fix XCS-56.  The sipdb relocation machinery for testing was incomplete, fastdb was still referencing the default directory.  Fix this in SIPDBManager by overriding the fastdb "keyFileDir" variable, *only* if the env var SIPX_DB_VAR_PATH is set.  Since this env var should seldom be set in production installs, this is a pretty safe change.
+
+END

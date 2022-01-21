@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-08-04T20:13:29.943679Z
+K 7
+svn:log
+V 64
+Remove mentions of source files that were deleted in rev. 7162.
+
+END

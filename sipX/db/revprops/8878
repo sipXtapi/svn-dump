@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-22T20:30:23.805592Z
+K 7
+svn:log
+V 76
+MpInputDeviceManager: unused local variables removed, minor style fix made.
+
+END

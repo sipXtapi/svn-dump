@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-09-24T01:30:54.750345Z
+K 7
+svn:log
+V 86
+Set rpm destination directory
+Fix warning about duplicate rules for sipxregistry.spec
+
+END

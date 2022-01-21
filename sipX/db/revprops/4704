@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-11-02T22:24:15.815583Z
+K 7
+svn:log
+V 174
+A few changes to help build under .NET.
+
+1) Delete Stackwalker.* -- didn't compile under .NET and not
+   sure where the source came from.
+2) Updated README/INSTALL for .NET
+
+
+END

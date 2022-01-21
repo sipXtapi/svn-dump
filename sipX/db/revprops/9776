@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-02T13:22:53.953116Z
+K 7
+svn:log
+V 186
+Bugfix: Clear input arrays, passed to CpMediaInterface::getCapabilitiesEx(). They are not cleared by callers, so used uninitialized and cause strange behaviour under some circumstances.
+
+END

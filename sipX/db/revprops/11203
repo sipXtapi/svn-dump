@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-21T20:58:39.239573Z
+K 7
+svn:log
+V 87
+sipXmediaLib: Better description for assert in MpMediaTask::flowgraphTickerCallback().
+
+END

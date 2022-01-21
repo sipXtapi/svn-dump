@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-10-10T17:47:38.492349Z
+K 7
+svn:log
+V 552
+Manually merged revision 7573 from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+1) Comma before '}' in enums removed in all places (I hope).
+2) MAXFILESIZE in MprFromFile increased to 50000000.
+3) Check for correct socket descriptor before FD_SET() added in NetInTask
+4) Dummy MpCodec_getVolume() and MpCodec_isBaseSpeakerOn() released for Windows.
+
+........
+  r7573 | bob | 2006-09-26 20:13:17 +0400 | 3 lines
+  
+  Part 1 of N: Merging sipXmediaLib changes (trivial changes to start) from sipX main (r7545) to the sipXtapi branch.
+........
+
+END

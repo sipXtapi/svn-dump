@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-22T15:08:29.340071Z
+K 7
+svn:log
+V 88
+Fix --enable-ss configure optin and by the way rename it to --enable-speaker-selection.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-14T16:11:05.955826Z
+K 7
+svn:log
+V 60
+No need for MpPlgDecoderWrap to be a friend of MpCodecInfo.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-02-01T15:06:15.779526Z
+K 7
+svn:log
+V 62
+add classes to generate each of the 4 config files for polycom
+END

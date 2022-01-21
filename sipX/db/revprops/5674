@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-11-30T16:30:52.028646Z
+K 7
+svn:log
+V 93
+Fix XCF-798: media server and status server are restarting soon after PBX starts, every time
+
+END

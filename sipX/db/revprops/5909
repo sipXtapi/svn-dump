@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-01-19T18:12:16.146506Z
+K 7
+svn:log
+V 90
+Check in a few minor HA-related changes to provide an unmodified sandbox for merging main
+
+END

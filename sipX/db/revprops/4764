@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-17T14:37:23.336596Z
+K 7
+svn:log
+V 240
+Added launchix.dsp to sipXphone workspace
+Changed target location for launchix.exe
+Updated sipXphone.bat to reference launchix in debug folder
+Fixed speeddial/JNDI complaints (code had to be in bootclasspath
+instead of normal class path).
+
+
+END

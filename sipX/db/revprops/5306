@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2005-10-11T15:10:10.588643Z
+K 7
+svn:log
+V 95
+- VS.NET 7.1 solution and project files 
+- minor changes to source to allow building in Windows
+END

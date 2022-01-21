@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2014-12-02T01:50:35.952545Z
+K 7
+svn:log
+V 57
+Added wasEarlyDialogFor(SipMessage&) method to SipDialog
+
+END

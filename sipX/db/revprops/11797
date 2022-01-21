@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-11-23T11:58:44.511692Z
+K 7
+svn:log
+V 61
+Handling of H264 SPS and PPS notifications at sipXtapi layer
+
+END

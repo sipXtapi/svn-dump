@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-11T21:57:46.576582Z
+K 7
+svn:log
+V 508
+XCF-1121 refactor permssion related code to prepare for dynamic updates to call permission list: Permission class is no longer Enumeration (cannot be updated dynamically) - however it behaves in a similar manner (equals and hashCode defined properly)
+new permission manager introduced - empty implmentation does not save custom permissions in DB yet
+addional bonus: since Permission now has label and description (it's created from Setting definition) we have user readable permission labels in Dial Plan UI
+
+END

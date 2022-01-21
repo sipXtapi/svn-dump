@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-01T12:52:11.352478Z
+K 7
+svn:log
+V 129
+Partially complete windows script for compiling, and only continuing on with each portion if prior steps completed successfully.
+
+END

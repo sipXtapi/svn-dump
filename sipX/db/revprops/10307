@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-09T15:56:48.452926Z
+K 7
+svn:log
+V 131
+Fix bug in SdpCandidatePair - '^' operator in C++ means 'xor', not 'power of'.
+
+Thanks to Andrzej Ciarkowski for pointing to this.
+
+END

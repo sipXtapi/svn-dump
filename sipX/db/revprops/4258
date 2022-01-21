@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-07T18:52:43.799278Z
+K 7
+svn:log
+V 139
+http://track.sipfoundry.org/browse/XPB-66
+Revise to use the Apache apxs tool to turn the .la into the .so in the Apache
+modules directory.
+
+END

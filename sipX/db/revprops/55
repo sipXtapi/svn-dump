@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+raghu
+K 8
+svn:date
+V 27
+2004-06-09T22:38:26.485010Z
+K 7
+svn:log
+V 191
+Some tests were missing. As a result of adding these tests, one of the test for UtlString now breaks. Moved the UtlStringTest_DesctructiveManipulators.cpp from CHECK_SOURCES to FAILED_SOURCES
+END

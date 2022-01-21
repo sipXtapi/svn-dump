@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-01-11T01:45:05.840124Z
+K 7
+svn:log
+V 113
+Add sipXsdpLib, sipXsdpLibTest, and sipXmediaLibTest to evc4 command line build script
+(adds to automated build)
+
+END

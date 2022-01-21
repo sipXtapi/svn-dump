@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-05-27T02:59:47.759432Z
+K 7
+svn:log
+V 60
+unittests: include ostream for cout and add GLIB C/lib flags
+END

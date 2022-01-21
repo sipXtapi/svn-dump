@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 3
+lih
+K 8
+svn:date
+V 27
+2007-03-28T16:47:38.355084Z
+K 7
+svn:log
+V 311
+XCF-1552 incorrect text description for Polycom config option [re 'get NTP
+offset from DHCP']
+
+Changed the label       from 'Offset from DHCP'
+                        to   'Ignore DHCP offset'
+Changed the description from 'Obtain GMT offset from DHCP'
+                        to   'Ignore GMT Offset from DHCP'
+
+END

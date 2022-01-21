@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-04T19:30:35.256109Z
+K 7
+svn:log
+V 56
+Disable SIPXTAPI event support under linux by default.
+
+
+END

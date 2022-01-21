@@ -1,0 +1,147 @@
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 193
+*.tmp
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxproxy-*.rpm
+sipxproxy-*.tar.gz
+sipxproxy.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 53
+https://scm.sipfoundry.org/rep/sipXproxy/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 24
+1-95,101,115,118,132,138
+K 17
+svnmerge-2.8-head
+V 53
+https://scm.sipfoundry.org/rep/sipXproxy/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 25
+1-154,157,161-162,166,173
+K 22
+svnmerge-user_pin-head
+V 58
+https://scm.sipfoundry.org/rep/sipXproxy/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-180
+K 23
+svnmerge-user_ping-head
+V 59
+https://scm.sipfoundry.org/rep/sipXproxy/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-174
+END
+ENDREP
+id: 1vt.0.r2277/854
+type: dir
+pred: 1vt.0.r2273/3040
+count: 113
+text: 2273 1578 725 725 d8f6ba689e14c143a331951f03c89146
+props: 2277 0 841 0 b8c620c510dd92ad64122d3806a8c960
+cpath: /old/sipXproxy/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1x8.0.r2276/1263
+K 4
+main
+V 19
+dir 1vt.0.r2277/854
+K 4
+tags
+V 20
+dir 1x7.0.r2275/2185
+END
+ENDREP
+id: 1vs.0.r2277/1195
+type: dir
+pred: 1vs.0.r2276/1556
+count: 181
+text: 2277 1070 112 112 c42a29f9c36942c196af2e7ae31f685a
+cpath: /old/sipXproxy
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2277/1195
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2277/1628
+type: dir
+pred: 1.0.r2276/1989
+count: 2276
+text: 2277 1354 261 261 83e4c8c5b092069cf7c37fe21d068941
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2277/1628
+END
+ENDREP
+id: 0.0.r2277/1823
+type: dir
+pred: 0.0.r2276/2184
+count: 2277
+text: 2277 1774 36 36 0b2d3120adf5d08425871dadd2df4266
+cpath: /
+copyroot: 0 /
+
+1vt.0.t2276-1 modify false true /old/sipXproxy/main
+
+
+1823 1964

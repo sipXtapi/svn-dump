@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2014-12-15T06:03:44.990326Z
+K 7
+svn:log
+V 62
+svn ignore wav and raw audio file generated in test directory
+
+END

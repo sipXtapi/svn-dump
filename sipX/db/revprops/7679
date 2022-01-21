@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-06T19:32:34.001887Z
+K 7
+svn:log
+V 103
+mergefrom pingtel-main 5560
+
+Merged the fix from Francis Joanis of CML for ACD-69, ACD-81, and ACD-82.
+
+END

@@ -1,0 +1,196 @@
+PLAIN
+K 5
+2.5.1
+V 20
+dir va.63.r1331/2380
+K 5
+2.5.2
+V 20
+dir va.66.r1347/1013
+K 12
+2.6-export-A
+V 19
+dir va.6d.r1388/551
+K 12
+2.6-export-B
+V 19
+dir va.6e.r1390/551
+K 12
+2.6-export-C
+V 19
+dir va.6f.r1401/554
+K 12
+2.6-export-D
+V 19
+dir va.6g.r1402/554
+K 12
+2.6-export-E
+V 19
+dir va.6h.r1403/554
+K 12
+2.6-export-F
+V 19
+dir va.6i.r1407/554
+K 12
+2.6-export-G
+V 19
+dir va.6k.r1412/438
+K 12
+2.6-export-H
+V 19
+dir va.6l.r1413/438
+K 12
+2.6-export-J
+V 19
+dir va.6m.r1414/438
+K 12
+2.6-export-K
+V 19
+dir va.6p.r1428/438
+K 12
+2.6-export-L
+V 19
+dir va.6r.r1432/438
+K 12
+2.6-export-M
+V 19
+dir va.6s.r1433/438
+K 12
+2.6-export-N
+V 19
+dir va.6t.r1435/438
+K 12
+2.6-export-O
+V 19
+dir va.6u.r1465/438
+K 12
+2.6-export-P
+V 19
+dir va.6v.r1466/438
+K 12
+2.6-export-Q
+V 19
+dir va.6w.r1469/438
+K 12
+2.6-export-R
+V 19
+dir va.6x.r1473/438
+K 12
+2.6-export-S
+V 19
+dir va.6y.r1485/438
+K 12
+2.6-export-T
+V 19
+dir va.6z.r1494/438
+K 12
+2.6-export-U
+V 19
+dir va.71.r1508/438
+K 5
+2.6.1
+V 19
+dir va.6j.r1409/547
+K 5
+2.6.2
+V 20
+dir va.72.r1529/1813
+K 12
+2.8-export-A
+V 19
+dir va.76.r1651/602
+K 12
+2.8-export-B
+V 19
+dir va.77.r1669/602
+K 13
+main-export-B
+V 19
+dir va.6a.r1385/436
+K 13
+main-export-C
+V 19
+dir va.6b.r1386/436
+K 17
+sipxtapi-export-A
+V 19
+dir va.7a.r1678/745
+END
+ENDREP
+id: 156.0.r1686/1242
+type: dir
+pred: 156.0.r1685/2288
+count: 38
+text: 1686 0 1229 1229 1728732d731f24a9bf24aec0f6af782d
+cpath: /old/sipXcallLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 15e.0.r1680/6823
+K 4
+main
+V 19
+dir va.0.r1684/4105
+K 4
+tags
+V 20
+dir 156.0.r1686/1242
+END
+ENDREP
+id: v9.0.r1686/1531
+type: dir
+pred: v9.0.r1685/2580
+count: 365
+text: 1686 1406 112 112 d972b5431d9aeb6a3a206a91a8b906e2
+cpath: /old/sipXcallLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1686/1531
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1686/1875
+type: dir
+pred: 1.0.r1685/2924
+count: 1685
+text: 1686 1690 172 172 7c0a87fb312fc1afbe316d6c8000ff54
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1686/1875
+END
+ENDREP
+id: 0.0.r1686/2070
+type: dir
+pred: 0.0.r1685/3119
+count: 1686
+text: 1686 2021 36 36 53666f29b33f3cdd6947696cd3495f59
+cpath: /
+copyroot: 0 /
+
+va.7b.r1685/748 delete false false /old/sipXcallLib/tags/2.8-export-C
+
+
+2070 2211

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-05-08T21:05:12.190968Z
+K 7
+svn:log
+V 154
+XCF-1017 Impolement a new setting model that doesnt rely on decoration, but COR (chain-of-resp) Code still uses decoration, COR will eventually replace it
+END

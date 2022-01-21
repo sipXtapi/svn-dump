@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-11-01T03:42:35.451334Z
+K 7
+svn:log
+V 231
+More work on alias/extension uniqueness: XCF-598.
+Split apart the code for call groups and park orbits, for better modularity.
+Add a few jars to paths for compiling WSDL and for checkstyle.  This is needed specifically on Windows.
+
+END

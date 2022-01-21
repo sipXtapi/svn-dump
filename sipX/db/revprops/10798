@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-09-08T10:39:12.841182Z
+K 7
+svn:log
+V 79
+Reformat MprFromFileConstructor.h to follow style guidelines.
+No code changes.
+
+END

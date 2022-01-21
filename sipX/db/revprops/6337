@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-03-10T23:24:37.606752Z
+K 7
+svn:log
+V 289
+Merge the aors and contacts tables into a single "parties" table.  Simpler and easier to understand, inspired by the XML schema in call_detail_record.xsd.
+Add the view "view_cdrs" that allows the user to get all the relevant CDR data in a single "select *" without having to do any joins.
+
+END

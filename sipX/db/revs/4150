@@ -1,0 +1,221 @@
+PLAIN
+K 11
+Makefile.am
+V 25
+file 5hc.0.r4122/12894907
+K 13
+emailnotifier
+V 20
+dir 5hd.0.r4144/3560
+K 10
+mailboxmgr
+V 20
+dir 5hi.0.r4144/2348
+K 14
+mediaservercgi
+V 20
+dir 5jf.0.r4144/4326
+K 12
+mod_sipxauth
+V 20
+dir 5ji.0.r4144/2970
+K 10
+processcgi
+V 20
+dir 5jm.0.r4144/2666
+K 14
+replicationcgi
+V 20
+dir 5ju.0.r4144/4649
+K 7
+sipxcgi
+V 20
+dir 5jx.0.r4144/3274
+K 4
+test
+V 20
+dir 5k0.0.r4144/1457
+K 8
+watchdog
+V 20
+dir 5kc.0.r4144/2048
+K 10
+wwwcontent
+V 20
+dir 5r8.0.r4144/1739
+END
+ENDREP
+id: 5hb.0.r4150/484
+type: dir
+pred: 5hb.0.r4144/5473
+count: 26
+text: 4150 0 471 471 78e6102a2bdfc0a395e67f5b202ec22e
+props: 4144 5413 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpbx/main/src
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4094/345033
+K 9
+ChangeLog
+V 20
+file 5g8.0.r4133/458
+K 7
+INSTALL
+V 21
+file 5g9.0.r4143/3730
+K 7
+LICENSE
+V 23
+file 5ga.0.r4094/296233
+K 11
+Makefile.am
+V 21
+file 5gb.0.r4143/7891
+K 4
+NEWS
+V 23
+file 5gc.0.r4094/344891
+K 6
+README
+V 20
+file 5gd.0.r4149/243
+K 4
+TODO
+V 23
+file 5ge.0.r4094/299180
+K 9
+acsite.m4
+V 23
+file 5gf.0.r4094/300422
+K 3
+bin
+V 19
+dir 5gg.0.r4146/955
+K 12
+configure.ac
+V 21
+file 5gl.0.r4137/2575
+K 3
+doc
+V 22
+dir 5gm.0.r4094/299881
+K 3
+etc
+V 20
+dir 5gp.0.r4148/1415
+K 7
+include
+V 19
+dir 5h2.0.r4144/779
+K 3
+src
+V 19
+dir 5hb.0.r4150/484
+END
+ENDREP
+id: 5g6.0.r4150/1302
+type: dir
+pred: 5g6.0.r4149/1067
+count: 49
+text: 4150 700 589 589 15f7446decc4a03f385e65041c9b0617
+props: 4144 8225 241 0 62cd57c97efeb37d89369c2aee464908
+cpath: /old/sipXpbx/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 20
+dir 5g6.0.r4150/1302
+K 4
+tags
+V 20
+dir 5kn.0.r4134/2736
+END
+ENDREP
+id: 5g5.0.r4150/1605
+type: dir
+pred: 5g5.0.r4149/1370
+count: 57
+text: 4150 1518 74 74 b421c8ff9aba1f141fc8c08e883ec534
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4150/1605
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4150/2242
+type: dir
+pred: 1.0.r4149/2007
+count: 4148
+text: 4150 1759 470 470 6bfdf7f9cafa16d219d13a465a2ba308
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4150/2242
+END
+ENDREP
+id: 0.0.r4150/2437
+type: dir
+pred: 0.0.r4149/2202
+count: 4150
+text: 4150 2388 36 36 1b94f8ace190651e4da6a05460d542d6
+cpath: /
+copyroot: 0 /
+
+5jr.0.r4121/43837 delete false false /old/sipXpbx/main/src/replication.cgi
+
+
+2437 2578

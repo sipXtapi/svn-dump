@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-02-03T16:38:35.845493Z
+K 7
+svn:log
+V 233
+sipXmediaLib: MprRecorder now can record to a memory buffer too.
+It's harder to bring MprBufferRecorder to the same level as MprRecoder, so I've gone this way.
+This also let us remove MprBufferRecorder and minimize code duplication.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-10-19T06:11:56.916161Z
+K 7
+svn:log
+V 73
+Implemented float maximum and simple convert short to float in DSP Utils
+
+END

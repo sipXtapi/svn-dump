@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-02-15T22:20:03.579111Z
+K 7
+svn:log
+V 49
+yum groups -typo ant xml dependencies on one line
+END

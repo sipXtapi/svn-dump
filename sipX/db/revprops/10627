@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-03-24T14:30:48.174136Z
+K 7
+svn:log
+V 110
+Fix bug in MprDecode - last played RTP sequence number was not updated, causing audio stop after few minutes.
+
+END

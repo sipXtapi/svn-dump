@@ -1,0 +1,195 @@
+PLAIN
+K 13
+svn:externals
+V 55
+config https://scm.sipfoundry.org/rep/sipX/main/config
+
+K 10
+svn:ignore
+V 1515
+aclocal.m4
+config.h
+config.h.in
+configure
+libtool
+BUILDSTAMP
+Makefile
+Makefile.in
+Debug
+Debug_NoVideo
+Release_NoVideo
+bin/codec_g722.dll
+bin/codec_g722.ilk
+bin/codec_g726.dll
+bin/codec_g726.ilk
+bin/codec_gsm.dll
+bin/codec_gsm.ilk
+bin/codec_ilbc.dll
+bin/codec_ilbc.ilk
+bin/codec_pcmapcmu.dll
+bin/codec_pcmapcmu.ilk
+bin/codec_speex.dll
+bin/codec_speex.ilk
+bin/codec_tones.dll
+bin/codec_tones.ilk
+bin/libspandsp.dll
+contrib/libamrnb/Debug
+contrib/libamrnb/Release
+contrib/libamrwb/Debug
+contrib/libamrwb/Release
+contrib/libgsm/Debug
+contrib/libgsm/Release
+contrib/libgsm/lib/gsmd.lib
+contrib/libilbc/VS2003/Debug
+contrib/libilbc/VS2003/Release
+contrib/libilbc/lib/libilbcd.lib
+contrib/libspandsp/Debug
+contrib/libspandsp/Release
+contrib/libspeex/bin
+contrib/libspeex/lib
+contrib/libspeex/win32/VS2003/libspeex/Debug
+contrib/libspeex/win32/VS2003/libspeex/Release_Dynamic_SSE
+contrib/libspeex/win32/VS2003/libspeexdsp/Debug
+contrib/libspeex/win32/VS2003/libspeexdsp/Release_Dynamic_SSE
+src/mp/codecs/plgamr/Debug
+src/mp/codecs/plgamr/Release
+src/mp/codecs/plgamrwb/Debug
+src/mp/codecs/plgamrwb/Release
+src/mp/codecs/plgg722/Debug
+src/mp/codecs/plgg722/Release
+src/mp/codecs/plgg726/Debug
+src/mp/codecs/plgg726/Release
+src/mp/codecs/plggsm/Debug
+src/mp/codecs/plggsm/Release
+src/mp/codecs/plgilbc/Debug
+src/mp/codecs/plgilbc/Release
+src/mp/codecs/plgpcmapcmu/Debug
+src/mp/codecs/plgpcmapcmu/Release
+src/mp/codecs/plgspeex/Debug
+src/mp/codecs/plgspeex/Release
+src/mp/codecs/plgtones/Debug
+src/mp/codecs/plgtones/Release
+
+
+K 13
+svn:mergeinfo
+V 48
+/branches/rtcp-reenable/sipXmediaLib:12014-12113
+K 16
+svnmerge-blocked
+V 28
+/main/sipXmediaLib:8363,8539
+K 19
+svnmerge-integrated
+V 30
+/main/sipXmediaLib:1-7992,8309
+END
+ENDREP
+id: b40.7n5.r12145/1826
+type: dir
+pred: b40.7n5.r12144/1826
+count: 1680
+text: 12143 8944 1392 1392 57370cc6607765f92ea1169da9475193
+props: 12145 0 1813 0 58248c4af0182e106449432dd66c2042
+cpath: /main/sipXmediaLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 24
+file g8y.7n5.r11608/2763
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 22
+dir 9wj.7n5.r11934/735
+K 10
+readme.txt
+V 26
+file 9ws.7n5.r12043/247879
+K 7
+scripts
+V 25
+dir fxk.7n5.r12043/199806
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 24
+dir 9wt.7n5.r12142/11913
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r12139/5895
+K 12
+sipXmediaLib
+V 23
+dir b40.7n5.r12145/1826
+K 11
+sipXportLib
+V 24
+dir bcf.7n5.r12127/12144
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r12128/3881
+K 11
+sipXtackLib
+V 23
+dir boq.7n5.r12130/9072
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r12145/2726
+type: dir
+pred: 9wi.7n5.r12144/2727
+count: 3083
+text: 12145 2062 651 651 7acd3ce31df6959d0f9d31aaa7209f10
+props: 12114 59175 76 0 1dd3880c3272b32f88d1700b38908223
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r12113/17441
+K 4
+main
+V 23
+dir 9wi.7n5.r12145/2726
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r12145/3121
+type: dir
+pred: 0.0.r12144/3123
+count: 12145
+text: 12145 2949 159 159 94c3f411fb1b1a5dab7c3e3f682bc9dc
+cpath: /
+copyroot: 0 /
+
+b40.7n5.t12144-1 modify false true /main/sipXmediaLib
+
+
+3121 3268

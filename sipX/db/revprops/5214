@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-27T21:58:41.806964Z
+K 7
+svn:log
+V 83
+XCF-488 background task queue test failing on fast machine - race condition removed
+END

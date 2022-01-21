@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-12-09T22:15:54.976862Z
+K 7
+svn:log
+V 183
+XCF-822 start tapestry project for upgrade wizard. this may well be a replacement for earlier work in rails.  if thats the case I will rm sipXconfig/setup and rename this dir to setup
+END

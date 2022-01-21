@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-06-12T20:15:23.932256Z
+K 7
+svn:log
+V 231
+XCF-829 LDAP import now properly removes the users that were removed from LDAP since previous import
+(strictly speaking it removes the users that are members of ldap_default group and are not present in the list of imported users)
+
+END

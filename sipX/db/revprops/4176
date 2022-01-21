@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-20T14:07:12.694785Z
+K 7
+svn:log
+V 62
+Remove boilerplate lines from 'status' and 'status-u' output.
+
+END

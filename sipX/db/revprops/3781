@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-04-13T21:53:58.057059Z
+K 7
+svn:log
+V 92
+test-ui: junit classpatch changed to allow for UI tests running with clover decorated files
+
+END

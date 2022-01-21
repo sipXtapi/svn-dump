@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-14T22:42:23.221881Z
+K 7
+svn:log
+V 101
+Implement MpCodecFactory::addCodecsToList() to add all loaded codecs to given SDP descriptions list.
+
+END

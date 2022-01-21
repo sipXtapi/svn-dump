@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-06-21T16:17:19.522017Z
+K 7
+svn:log
+V 85
+sipXmediaLib: Add getDeviceName() getters to input and output device driver classes.
+
+END

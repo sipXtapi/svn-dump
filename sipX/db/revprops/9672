@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-07T23:09:34.574557Z
+K 7
+svn:log
+V 159
+Few more Doxygen fixes for MpResource.
+* Put @nosubgrouping to prevent group breakage due to static methods.
+* Remove duplicated Accessors group start header.
+
+END

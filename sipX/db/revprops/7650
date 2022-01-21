@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-04T18:42:24.777594Z
+K 7
+svn:log
+V 90
+Add comment explaining why some of the WWW libraries occur in the -l list
+more than once.
+
+END

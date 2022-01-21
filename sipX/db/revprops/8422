@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-01-02T03:56:17.995098Z
+K 7
+svn:log
+V 101
+XCF-1418 - Finally resolve why sipxconfig-agent wsdl generated stubs were not being packaged into gem
+END

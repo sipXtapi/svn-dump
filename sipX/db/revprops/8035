@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-11-19T19:19:25.768269Z
+K 7
+svn:log
+V 175
+A second pass of WinCE fixes to make most of the sipXportLib unit tests pass on WinCE.
+
+Fixes to make some of sipXtackLib compile along with an eVC4 project for sipXtackLib.
+
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-17T05:09:51.648631Z
+K 7
+svn:log
+V 107
+r9849 fix was inverse of what we wanted - TIME_KILL_SYNCHRONOUS used on MS compilers > VC6, otherwise not.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-11-08T19:21:46.091373Z
+K 7
+svn:log
+V 220
+AssetSelector split into AssetSelector (bare component) and AssetSelectorPanel (fieldset component)
+new type of settings added - "file": it allows for uploading and downloading files, currently used by conference server
+
+END

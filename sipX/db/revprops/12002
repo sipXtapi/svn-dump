@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-11-20T05:12:55.167361Z
+K 7
+svn:log
+V 102
+Better heuristic for sizing UDP and RTP buffer pools per number of calls.  Label buf pools with name.
+
+END

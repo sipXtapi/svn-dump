@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-05-25T20:35:15.305869Z
+K 7
+svn:log
+V 154
+1) Renamed UtlHashTable -> UtlHashBag and UtlHashDictionary -> UtlHashMap
+2) Fix build errors caused by slight changes in APIs are part of documenting.
+
+
+
+END

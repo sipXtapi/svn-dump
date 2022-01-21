@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-30T17:31:27.377064Z
+K 7
+svn:log
+V 383
+Bugfix: Fix two bugs in NetInTask shutdown which may cause hang or crash.
+1) NetInTask should be shutdown synchronously to avoid problems with access to spInstance from inside NetInTask::run().
+2) requestShutdown() should called before sending message to control socket, or NetInTask will not process shutdown request, because it will blocked waiting for some data oncontrol socket.
+
+END

@@ -1,0 +1,47 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-10-09T16:19:53.666160Z
+K 7
+svn:log
+V 1306
+Merged revisions 7493-7565 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7493 | bob | 2006-09-16 17:23:30 +0400 | 2 lines
+  
+  More TURN updates -- making sure that I maint some form of backword compatibilty with old servers.
+........
+  r7496 | bob | 2006-09-17 00:49:42 +0400 | 5 lines
+  
+  Some stun/turn handling tweaks:
+  1) Remove duplicated stun/turn handling in each of the read methods
+  2) Added handling for stun messages within turn data indications
+........
+  r7497 | bob | 2006-09-17 01:26:26 +0400 | 3 lines
+  
+  Started moving some common code from OsNatDatagramSocket to OsNatSocketBaseImpl -- this should allow easier updates to OsNatConnectionSocket.
+........
+  r7498 | bob | 2006-09-17 01:28:21 +0400 | 3 lines
+  
+  handleTurnMessage should have been virtual
+........
+  r7534 | bob | 2006-09-21 03:54:22 +0400 | 2 lines
+  
+  Fixed typo -- misplaced break
+........
+  r7564 | bob | 2006-09-25 23:19:57 +0400 | 3 lines
+  
+  Better compatibilty with STUN RFC3468.  I broken the string padding logic when adding support for rfc3489bis-04.
+........
+  r7565 | bob | 2006-09-25 23:31:05 +0400 | 3 lines
+  
+  Last check-in was not quite right (fixing stun rfc3489 backwards compatibility).  I report the incorrect length for bis4 after my change.
+........
+
+END

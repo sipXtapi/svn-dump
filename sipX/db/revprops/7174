@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-08-03T21:57:33.385448Z
+K 7
+svn:log
+V 198
+branch for a release engineering endeavor attempting to overhaul 
+how components are built allowing for more flexibility and maintainablity.
+
+For more information, see XCF-1175, XCF-1172, XCF-1173
+
+
+END

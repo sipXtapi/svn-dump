@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-18T22:13:46.938913Z
+K 7
+svn:log
+V 422
+XCF-1187 new Caller ID panel for Gateway UI - you can specify default Caller ID, switch on Caller ID blocking and specify how user extension will be modified to create caller ID
+- moved Prefix to new Dial Plan panel
+- updated TabNavigation component to work properly in forms - it's using SubmitLinks (and not direct links) if submit parameter is set to true, it triggers validation and saves edited values in the session
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-05-30T15:27:21.664435Z
+K 7
+svn:log
+V 180
+Remove "align=left" from the top-level table, to prevent text from flowing around the table.
+This crept back in from an old version during a merge with Scott's formatting changes.
+
+END

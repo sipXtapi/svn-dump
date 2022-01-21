@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-03-04T21:27:48.429551Z
+K 7
+svn:log
+V 66
+Make event logging a compile time option and turn off by default.
+
+END

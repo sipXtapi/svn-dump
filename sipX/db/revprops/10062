@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-07T14:29:51.926369Z
+K 7
+svn:log
+V 74
+Fix comments to iLBC decoder - bitrates were mapped to modes incorrectly.
+
+END

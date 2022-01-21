@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-06-16T22:51:41.735716Z
+K 7
+svn:log
+V 44
+force the testplugin libs to build .so files
+END

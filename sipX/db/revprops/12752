@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2020-02-25T06:14:37.351794Z
+K 7
+svn:log
+V 584
+Enabled testing of Opus OGG encoded recordings and fixed lots of bugs with the unit tests:
+  + Refactored a bunch of code to reduce duplication.
+  + Fixed cases where it was falsely assumed destructor would close recording, but were not due to looping.
+  + Fixed GSM frame count and size calculation.
+  + Added support of slop or tolerence to file size calculations for codecs which do not have constantant frame sizes.
+  + Clean up queued messages for failure cases (e.g. append with invalid codec type).
+  + Better logging and printf info for failure cases to help diagnose error.
+
+
+END

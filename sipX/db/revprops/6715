@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-05-03T13:57:06.331233Z
+K 7
+svn:log
+V 63
+Create new branch for sipXmediaLib refactoring under sipXtapi
+
+
+END

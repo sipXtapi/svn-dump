@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-11-09T17:32:15.841056Z
+K 7
+svn:log
+V 158
+XCF-765 - Support phone profile generation and restart thru SOAP.  Introduce ManagePhone/User api over finer-grained object actions like delete, restart, etc.
+END

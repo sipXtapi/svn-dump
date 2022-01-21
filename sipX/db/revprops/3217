@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-11-29T18:12:30.310738Z
+K 7
+svn:log
+V 120
+XCF-77 fix: USER_DEFAULT_OUTBOUND_LINE is now modified after changing Domain Name (unless it's been changed by the user)
+END

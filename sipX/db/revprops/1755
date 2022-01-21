@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-05-03T19:03:46.538701Z
+K 7
+svn:log
+V 149
+Removed default parameter values from CallManager constructor prototype.
+Modified test / sample code to comply with new CallManager constructor API.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-04T22:53:41.780941Z
+K 7
+svn:log
+V 202
+Remove specialized resampler, present in sipXmediaLib.
+It was created to meet specific needs and is not needed anymore. We're going to create universal resampler, so this one will be superseded anyway.
+
+END

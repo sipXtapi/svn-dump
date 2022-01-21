@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-01T23:00:52.875268Z
+K 7
+svn:log
+V 21
+Fix svn:* properties.
+END

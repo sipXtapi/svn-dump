@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-01-18T01:35:51.099835Z
+K 7
+svn:log
+V 188
+Reorganize SyncRpc methods to make individual method classes public
+Implement registrarSync.pullUpdates and  registrarSync.pushUpdates (untested)
+Add framework for initial synchronization
+
+END

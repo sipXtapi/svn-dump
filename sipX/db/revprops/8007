@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-11-16T17:04:17.379979Z
+K 7
+svn:log
+V 78
+Changes so that cross compiler can find the sipX unit test lib and includes.
+
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-16T23:05:55.668389Z
+K 7
+svn:log
+V 271
+Checking in libamrnb library to sipXmediaLib contrib dir.
+
+This library is taken from http://www.penguin.cz/~utx/amr and VS2003 project was added by me.
+It is not really an implementation of AMR codec - it download reference implementation from 3GPP site and compile it.
+
+END

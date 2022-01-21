@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-03-16T19:28:25.273053Z
+K 7
+svn:log
+V 59
+Remove event_type, it is redundant given the status column
+
+END

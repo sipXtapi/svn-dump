@@ -1,0 +1,1047 @@
+PLAIN
+K 10
+DSP_type.h
+V 24
+file b4s.0.r6711/5047374
+K 15
+DspResampling.h
+V 24
+file b4t.0.r6711/5033578
+K 12
+FilterBank.h
+V 24
+file b4u.0.r6711/5044541
+K 4
+GIPS
+V 23
+dir b4v.0.r6711/5026603
+K 19
+HandsetFilterBank.h
+V 24
+file b4z.0.r6711/5029702
+K 26
+HandsetFilterbankWindows.h
+V 24
+file b50.0.r6711/5039622
+K 2
+JB
+V 23
+dir b51.0.r6711/5041424
+K 17
+MpAudioAbstract.h
+V 24
+file b54.0.r6711/5045248
+K 23
+MpAudioFileDecompress.h
+V 24
+file b55.0.r6711/5055830
+K 17
+MpAudioFileOpen.h
+V 24
+file b56.0.r6711/5044187
+K 18
+MpAudioFileUtils.h
+V 24
+file b57.0.r6711/5055120
+K 14
+MpAudioUtils.h
+V 24
+file b58.0.r6711/5054768
+K 21
+MpAudioWaveFileRead.h
+V 24
+file b59.0.r6711/5027235
+K 7
+MpBuf.h
+V 23
+file b5a.3ke.r6751/2505
+K 13
+MpBufferMsg.h
+V 24
+file b5b.0.r6711/5043478
+K 17
+MpCallFlowGraph.h
+V 24
+file b5c.0.r6711/5028294
+K 9
+MpCodec.h
+V 24
+file b5d.0.r6711/5034643
+K 16
+MpCodecFactory.h
+V 24
+file b5e.0.r6711/5038567
+K 13
+MpCodecInfo.h
+V 24
+file b5f.0.r6711/5046659
+K 14
+MpConnection.h
+V 24
+file b5g.0.r6711/5031113
+K 15
+MpDecoderBase.h
+V 24
+file b5h.0.r6711/5021924
+K 15
+MpEncoderBase.h
+V 24
+file b5j.0.r6711/5052310
+K 17
+MpFlowGraphBase.h
+V 24
+file b5k.0.r6711/5044891
+K 16
+MpFlowGraphMsg.h
+V 24
+file b5l.0.r6711/5048424
+K 16
+MpJitterBuffer.h
+V 24
+file b5m.0.r6711/5036420
+K 13
+MpMediaTask.h
+V 24
+file b5n.0.r6711/5049485
+K 16
+MpMediaTaskMsg.h
+V 24
+file b5o.0.r6711/5051595
+K 8
+MpMisc.h
+V 24
+file b5p.0.r6711/5056543
+K 10
+MpPlayer.h
+V 24
+file b5q.0.r6711/5030059
+K 15
+MpPlayerEvent.h
+V 24
+file b5r.0.r6711/5030760
+K 18
+MpPlayerListener.h
+V 24
+file b5s.0.r6711/5022978
+K 23
+MpQueuePlayerListener.h
+V 24
+file b5t.0.r6711/5051234
+K 12
+MpResource.h
+V 24
+file b5u.3ke.r6754/82975
+K 19
+MpResourceSortAlg.h
+V 24
+file b5v.0.r6711/5043830
+K 16
+MpSipxDecoders.h
+V 24
+file b5w.0.r6711/5021570
+K 16
+MpStreamFeeder.h
+V 23
+file b5x.3ke.r6751/2194
+K 13
+MpStreamMsg.h
+V 24
+file b5y.0.r6711/5022627
+K 16
+MpStreamPlayer.h
+V 24
+file b5z.0.r6711/5040340
+K 24
+MpStreamPlaylistPlayer.h
+V 24
+file b60.0.r6711/5047011
+K 21
+MpStreamQueuePlayer.h
+V 24
+file b61.0.r6711/5034283
+K 9
+MpTypes.h
+V 24
+file b62.0.r6711/5050187
+K 15
+MpdGIPSG729ab.h
+V 24
+file b63.0.r6711/5054414
+K 13
+MpdGIPSPCMA.h
+V 24
+file b64.0.r6711/5023334
+K 13
+MpdGIPSPCMU.h
+V 24
+file b65.0.r6711/5029350
+K 13
+MpdGIPSiLBC.h
+V 24
+file b66.0.r6711/5031466
+K 14
+MpdGIPSiPCMA.h
+V 24
+file b67.0.r6711/5035355
+K 14
+MpdGIPSiPCMU.h
+V 24
+file b68.0.r6711/5038215
+K 15
+MpdGIPSiPCMWB.h
+V 24
+file b69.0.r6711/5024049
+K 10
+MpdPtAVT.h
+V 24
+file b6a.0.r6711/5022278
+K 13
+MpdSipxPcma.h
+V 24
+file b6b.0.r6711/5028999
+K 13
+MpdSipxPcmu.h
+V 24
+file b6c.0.r6711/5033932
+K 15
+MpeGIPSG729ab.h
+V 24
+file b6d.0.r6711/5055476
+K 13
+MpeGIPSPCMA.h
+V 24
+file b6e.0.r6711/5039988
+K 13
+MpeGIPSPCMU.h
+V 24
+file b6f.0.r6711/5047721
+K 13
+MpeGIPSiLBC.h
+V 24
+file b6g.0.r6711/5048779
+K 14
+MpeGIPSiPCMA.h
+V 24
+file b6h.0.r6711/5027594
+K 14
+MpeGIPSiPCMU.h
+V 24
+file b6i.0.r6711/5032167
+K 15
+MpeGIPSiPCMWB.h
+V 24
+file b6j.0.r6711/5024402
+K 10
+MpePtAVT.h
+V 24
+file b6k.0.r6711/5049838
+K 13
+MpeSipxPcma.h
+V 24
+file b6l.0.r6711/5046307
+K 13
+MpeSipxPcmu.h
+V 24
+file b6m.0.r6711/5052664
+K 11
+MprBridge.h
+V 24
+file b6n.3ke.r6754/82666
+K 11
+MprDecode.h
+V 24
+file b6o.3ke.r6754/84537
+K 13
+MprDejitter.h
+V 24
+file b6p.3ke.r6754/81184
+K 17
+MprEchoSuppress.h
+V 24
+file b6q.3ke.r6754/82350
+K 11
+MprEncode.h
+V 24
+file b6r.3ke.r6754/80873
+K 13
+MprFromFile.h
+V 24
+file b6s.3ke.r6754/81806
+K 12
+MprFromMic.h
+V 24
+file b6t.3ke.r6754/80562
+K 12
+MprFromNet.h
+V 24
+file b6u.3ke.r6754/83599
+K 15
+MprFromStream.h
+V 24
+file b6v.3ke.r6754/83911
+K 10
+MprMixer.h
+V 24
+file b6w.3ke.r6754/81496
+K 13
+MprRecorder.h
+V 24
+file b6x.3ke.r6754/85159
+K 13
+MprSplitter.h
+V 24
+file b6y.3ke.r6754/83287
+K 10
+MprToNet.h
+V 24
+file b6z.3ke.r6754/80252
+K 11
+MprToSpkr.h
+V 24
+file b70.3ke.r6754/84226
+K 12
+MprToneGen.h
+V 24
+file b71.3ke.r6754/84847
+K 11
+NetInTask.h
+V 24
+file b72.0.r6711/5031817
+K 24
+StreamBufferDataSource.h
+V 24
+file b73.0.r6711/5037852
+K 18
+StreamDataSource.h
+V 24
+file b74.0.r6711/5041702
+K 26
+StreamDataSourceListener.h
+V 24
+file b75.0.r6711/5034991
+K 23
+StreamDecoderListener.h
+V 24
+file b76.0.r6711/5036059
+K 12
+StreamDefs.h
+V 23
+file b77.3ke.r6747/5415
+K 22
+StreamFileDataSource.h
+V 24
+file b78.0.r6711/5042059
+K 21
+StreamFormatDecoder.h
+V 24
+file b79.0.r6711/5036774
+K 22
+StreamHttpDataSource.h
+V 23
+file b7a.3ke.r6747/5724
+K 16
+StreamQueueMsg.h
+V 24
+file b7b.0.r6711/5033224
+K 29
+StreamQueueingFormatDecoder.h
+V 24
+file b7c.0.r6711/5037484
+K 24
+StreamRAWFormatDecoder.h
+V 24
+file b7d.0.r6711/5023686
+K 24
+StreamWAVFormatDecoder.h
+V 24
+file b7e.0.r6711/5042420
+K 9
+dmaTask.h
+V 24
+file b7f.0.r6711/5028651
+K 8
+dsplib.h
+V 24
+file b7g.0.r6711/5053016
+K 9
+dtmflib.h
+V 24
+file b7h.0.r6711/5027947
+K 6
+mpau.h
+V 24
+file b7i.0.r6711/5039278
+K 15
+resamplingby2.h
+V 24
+file b7j.0.r6711/5054061
+END
+ENDREP
+id: b4r.3ke.r6760/4769
+type: dir
+pred: b4r.3ke.r6754/90296
+count: 6
+text: 6760 0 4756 4756 b0a30a5092a5256a443bb5ee63449c70
+cpath: /branches/sipXtapi-media-update/sipXmediaLib/include/mp
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+K 11
+Makefile.am
+V 25
+file b4q.0.r6469/21998604
+K 2
+mp
+V 22
+dir b4r.3ke.r6760/4769
+K 4
+rtcp
+V 23
+dir b7k.0.r6711/5021289
+END
+ENDREP
+id: b4p.3ke.r6760/5142
+type: dir
+pred: b4p.3ke.r6754/90674
+count: 6
+text: 6760 5004 125 125 ed811d56d035477aff38c81cc17f3d55
+cpath: /branches/sipXtapi-media-update/sipXmediaLib/include
+copyroot: 6715 /branches/sipXtapi-media-update
+
+id: c51.3kq.r6760/5375
+type: file
+pred: c51.3ke.r6754/82119
+count: 1
+text: 6754 0 1877 5906 c528810d59f357e4885cfac7603dbd4a
+cpath: /branches/sipXtapi-media-update/sipXmediaLib/src/mp/MpAudioResource.cpp
+copyfrom: 6759 /branches/sipXtapi-media-update/sipXmediaLib/include/mp/MpAudioResource.cpp
+
+PLAIN
+K 10
+DSPlib.cpp
+V 24
+file b97.0.r6711/5082764
+K 17
+DspResampling.cpp
+V 24
+file b98.0.r6711/5073215
+K 14
+FilterBank.cpp
+V 24
+file b99.0.r6711/5099600
+K 21
+HandsetFilterBank.cpp
+V 24
+file b9a.0.r6711/5101724
+K 16
+MicThreadWnt.cpp
+V 24
+file b9b.0.r6711/5086267
+K 19
+MpAudioAbstract.cpp
+V 24
+file b9c.0.r6711/5084165
+K 25
+MpAudioFileDecompress.cpp
+V 24
+file b9d.0.r6711/5076394
+K 19
+MpAudioFileOpen.cpp
+V 24
+file b9e.0.r6711/5083110
+K 20
+MpAudioFileUtils.cpp
+V 24
+file b9f.0.r6711/5075689
+K 19
+MpAudioResource.cpp
+V 23
+file c51.3kq.r6760/5375
+K 17
+MpAudioResource.h
+V 24
+file c52.3ke.r6754/94951
+K 16
+MpAudioUtils.cpp
+V 24
+file b9g.0.r6711/5075337
+K 23
+MpAudioWaveFileRead.cpp
+V 24
+file b9h.0.r6711/5082405
+K 9
+MpBuf.cpp
+V 24
+file b9i.0.r6711/5097515
+K 15
+MpBufferMsg.cpp
+V 24
+file b9j.0.r6711/5098557
+K 19
+MpCallFlowGraph.cpp
+V 24
+file b9k.0.r6711/5100307
+K 11
+MpCodec.cpp
+V 24
+file b9l.0.r6711/5073927
+K 18
+MpCodecFactory.cpp
+V 24
+file b9m.0.r6711/5079580
+K 15
+MpCodecInfo.cpp
+V 24
+file b9n.0.r6711/5085567
+K 16
+MpConnection.cpp
+V 24
+file b9o.0.r6711/5102781
+K 17
+MpDecoderBase.cpp
+V 24
+file b9p.0.r6711/5077816
+K 17
+MpEncoderBase.cpp
+V 24
+file b9q.0.r6711/5072864
+K 19
+MpFlowGraphBase.cpp
+V 24
+file b9r.0.r6711/5099952
+K 18
+MpFlowGraphMsg.cpp
+V 24
+file b9s.0.r6711/5103133
+K 18
+MpJitterBuffer.cpp
+V 24
+file b9t.0.r6711/5076753
+K 15
+MpMediaTask.cpp
+V 24
+file b9u.0.r6711/5071465
+K 18
+MpMediaTaskMsg.cpp
+V 24
+file b9v.0.r6711/5089764
+K 10
+MpMisc.cpp
+V 24
+file b9w.0.r6711/5094340
+K 12
+MpPlayer.cpp
+V 24
+file b9x.0.r6711/5086619
+K 17
+MpPlayerEvent.cpp
+V 24
+file b9y.0.r6711/5086966
+K 14
+MpResource.cpp
+V 24
+file b9z.3ke.r6754/92157
+K 21
+MpResourceSortAlg.cpp
+V 24
+file ba0.0.r6711/5083462
+K 18
+MpSipxDecoders.cpp
+V 24
+file ba1.0.r6711/5077106
+K 18
+MpStreamFeeder.cpp
+V 24
+file ba2.0.r6711/5089063
+K 15
+MpStreamMsg.cpp
+V 24
+file ba3.0.r6711/5078514
+K 18
+MpStreamPlayer.cpp
+V 24
+file ba4.0.r6711/5096462
+K 26
+MpStreamPlaylistPlayer.cpp
+V 24
+file ba5.0.r6711/5101012
+K 23
+MpStreamQueuePlayer.cpp
+V 24
+file ba6.0.r6711/5073568
+K 17
+MpdGIPSG729ab.cpp
+V 24
+file ba7.0.r6711/5074985
+K 15
+MpdGIPSPCMA.cpp
+V 24
+file ba8.0.r6711/5095402
+K 15
+MpdGIPSPCMU.cpp
+V 24
+file ba9.0.r6711/5101374
+K 15
+MpdGIPSiLBC.cpp
+V 24
+file baa.0.r6711/5087317
+K 16
+MpdGIPSiPCMA.cpp
+V 24
+file bab.0.r6711/5092227
+K 16
+MpdGIPSiPCMU.cpp
+V 24
+file bac.0.r6711/5095052
+K 17
+MpdGIPSiPCMWB.cpp
+V 24
+file bad.0.r6711/5080276
+K 12
+MpdPtAVT.cpp
+V 24
+file bae.0.r6711/5078167
+K 15
+MpdSipxPcma.cpp
+V 24
+file baf.0.r6711/5084869
+K 15
+MpdSipxPcmu.cpp
+V 24
+file bag.0.r6711/5090828
+K 17
+MpeGIPSG729ab.cpp
+V 24
+file bah.0.r6711/5093278
+K 15
+MpeGIPSPCMA.cpp
+V 24
+file bai.0.r6711/5096113
+K 15
+MpeGIPSPCMU.cpp
+V 24
+file baj.0.r6711/5102432
+K 15
+MpeGIPSiLBC.cpp
+V 24
+file bak.0.r6711/5087666
+K 16
+MpeGIPSiPCMA.cpp
+V 24
+file bal.0.r6711/5099250
+K 16
+MpeGIPSiPCMU.cpp
+V 24
+file bam.0.r6711/5072514
+K 17
+MpeGIPSiPCMWB.cpp
+V 24
+file ban.0.r6711/5096816
+K 12
+MpePtAVT.cpp
+V 24
+file bao.0.r6711/5088368
+K 15
+MpeSipxPcma.cpp
+V 24
+file bap.0.r6711/5085218
+K 15
+MpeSipxPcmu.cpp
+V 24
+file baq.0.r6711/5091177
+K 13
+MprBridge.cpp
+V 24
+file bar.3ke.r6754/94642
+K 13
+MprDecode.cpp
+V 24
+file bas.3ke.r6754/93093
+K 15
+MprDejitter.cpp
+V 24
+file bat.3ke.r6754/92468
+K 19
+MprEchoSuppress.cpp
+V 24
+file bau.3ke.r6754/91530
+K 13
+MprEncode.cpp
+V 24
+file bav.3ke.r6754/95180
+K 15
+MprFromFile.cpp
+V 24
+file baw.3ke.r6754/91218
+K 14
+MprFromMic.cpp
+V 24
+file bax.3ke.r6754/91846
+K 14
+MprFromNet.cpp
+V 24
+file bay.3ke.r6754/95800
+K 17
+MprFromStream.cpp
+V 24
+file baz.3ke.r6754/92779
+K 12
+MprMixer.cpp
+V 24
+file bb0.3ke.r6754/93403
+K 15
+MprRecorder.cpp
+V 24
+file bb1.3ke.r6754/94021
+K 15
+MprSplitter.cpp
+V 24
+file bb2.3ke.r6754/95490
+K 12
+MprToNet.cpp
+V 24
+file bb3.3ke.r6754/94333
+K 13
+MprToSpkr.cpp
+V 24
+file bb4.3ke.r6754/90908
+K 14
+MprToneGen.cpp
+V 24
+file bb5.3ke.r6754/93711
+K 13
+NetInTask.cpp
+V 24
+file bb6.0.r6711/5071816
+K 20
+SpeakerThreadWnt.cpp
+V 24
+file bb7.0.r6711/5091526
+K 26
+StreamBufferDataSource.cpp
+V 24
+file bb8.0.r6711/5078864
+K 20
+StreamDataSource.cpp
+V 24
+file bb9.0.r6711/5080627
+K 28
+StreamDataSourceListener.cpp
+V 24
+file bba.0.r6711/5074274
+K 25
+StreamDecoderListener.cpp
+V 24
+file bbb.0.r6711/5093981
+K 24
+StreamFileDataSource.cpp
+V 24
+file bbc.0.r6711/5080982
+K 23
+StreamFormatDecoder.cpp
+V 24
+file bbd.0.r6711/5077459
+K 24
+StreamHttpDataSource.cpp
+V 24
+file bbe.0.r6711/5090116
+K 18
+StreamQueueMsg.cpp
+V 24
+file bbf.0.r6711/5090476
+K 31
+StreamQueueingFormatDecoder.cpp
+V 24
+file bbg.0.r6711/5094686
+K 26
+StreamRAWFormatDecoder.cpp
+V 24
+file bbh.0.r6711/5095752
+K 26
+StreamWAVFormatDecoder.cpp
+V 24
+file bbi.0.r6711/5081693
+K 7
+dft.cpp
+V 24
+file bbj.0.r6711/5098907
+K 16
+dmaTaskPosix.cpp
+V 21
+file bbk.0.r6712/6361
+K 14
+dmaTaskWnt.cpp
+V 24
+file bbl.0.r6711/5074636
+K 11
+dtmflib.cpp
+V 24
+file bbm.0.r6711/5083818
+K 10
+mpG711.cpp
+V 24
+file bbn.0.r6711/5091882
+K 8
+mpau.cpp
+V 24
+file bbo.0.r6711/5079933
+K 17
+resamplingby2.cpp
+V 24
+file bbp.0.r6711/5092926
+END
+ENDREP
+id: b96.3ke.r6760/10589
+type: dir
+pred: b96.3ke.r6754/100975
+count: 4
+text: 6760 5671 4905 4905 451620dfc5c1ce6fcb5f5b81160805b1
+cpath: /branches/sipXtapi-media-update/sipXmediaLib/src/mp
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+K 11
+Makefile.am
+V 25
+file b95.0.r6469/22031382
+K 2
+mp
+V 23
+dir b96.3ke.r6760/10589
+K 4
+rtcp
+V 23
+dir bbq.0.r6711/5071190
+K 4
+test
+V 23
+dir bc7.0.r6711/5064528
+END
+ENDREP
+id: b94.3ke.r6760/11002
+type: dir
+pred: b94.3ke.r6754/101388
+count: 4
+text: 6760 10825 164 164 5cccf12ded5cb2129fc30b7d98630744
+cpath: /branches/sipXtapi-media-update/sipXmediaLib/src
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 25
+file b41.0.r6469/22054157
+K 9
+ChangeLog
+V 25
+file b42.0.r6469/22025314
+K 7
+INSTALL
+V 25
+file b43.0.r6469/22057705
+K 11
+Makefile.am
+V 25
+file b44.0.r6469/22058458
+K 4
+NEWS
+V 25
+file b45.0.r6469/22058814
+K 6
+README
+V 25
+file b46.0.r6469/22053994
+K 4
+TODO
+V 25
+file b47.0.r6469/22057442
+K 9
+acsite.m4
+V 25
+file b48.0.r6469/22025146
+K 3
+bin
+V 24
+dir b49.0.r6469/22058114
+K 12
+configure.ac
+V 24
+file b4k.0.r6711/5108858
+K 3
+doc
+V 24
+dir b4l.0.r6469/22055197
+K 7
+include
+V 22
+dir b4p.3ke.r6760/5142
+K 3
+lib
+V 24
+dir b8u.0.r6469/22057603
+K 4
+meta
+V 24
+dir b8v.0.r6469/22024982
+K 19
+sipXmediaLib.vcproj
+V 22
+file b92.3ke.r6755/128
+K 20
+sipxmedialib.spec.in
+V 25
+file b93.0.r6469/22058275
+K 3
+src
+V 23
+dir b94.3ke.r6760/11002
+END
+ENDREP
+id: b40.3ke.r6760/11991
+type: dir
+pred: b40.3ke.r6755/1127
+count: 11
+text: 6760 11234 744 744 ed714d7c4b6bb4e300e70f32bd2f9055
+props: 6718 793 110 0 d239bb82cadefea8ebc85ad6b3eed562
+cpath: /branches/sipXtapi-media-update/sipXmediaLib
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+K 6
+config
+V 24
+dir 9wj.0.r6469/21603218
+K 10
+readme.txt
+V 25
+file 9ws.0.r6469/22059939
+K 11
+sipXcallLib
+V 22
+dir 9wt.3ke.r6756/3094
+K 19
+sipXmediaAdapterLib
+V 22
+dir b2p.3ke.r6757/4919
+K 12
+sipXmediaLib
+V 23
+dir b40.3ke.r6760/11991
+K 11
+sipXportLib
+V 21
+dir bcf.3ke.r6718/123
+K 11
+sipXtackLib
+V 22
+dir boq.3ke.r6718/1723
+END
+ENDREP
+id: 9wi.3ke.r6760/12612
+type: dir
+pred: 9wi.3ke.r6757/5544
+count: 15
+text: 6760 12273 326 326 89a8b91ce6d9786eeb9fad6b5ca5f52b
+cpath: /branches/sipXtapi-media-update
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r6684/6307
+K 3
+3.4
+V 23
+dir 7q4.3ib.r6759/42377
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 21
+dir 9wi.0.r6758/48068
+K 21
+sipXtapi-media-update
+V 23
+dir 9wi.3ke.r6760/12612
+K 12
+solaris_port
+V 24
+dir 7q4.39l.r6666/116324
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r6760/13497
+type: dir
+pred: 7pt.0.r6759/43287
+count: 611
+text: 6760 12826 658 658 3dacf8189ba621c7bb1d6b6dc42bd120
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r6760/13497
+K 4
+main
+V 21
+dir 7q4.0.r6750/14418
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6760/13783
+type: dir
+pred: 0.0.r6759/43573
+count: 6760
+text: 6760 13654 116 116 31c1429fd4be29c078344a1f7f1afe0f
+cpath: /
+copyroot: 0 /
+
+c51.3ke.r6754/82119 delete false false /branches/sipXtapi-media-update/sipXmediaLib/include/mp/MpAudioResource.cpp
+
+c51._0.t6759-1 add false false /branches/sipXtapi-media-update/sipXmediaLib/src/mp/MpAudioResource.cpp
+6759 /branches/sipXtapi-media-update/sipXmediaLib/include/mp/MpAudioResource.cpp
+
+13783 13929

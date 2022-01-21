@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2004-12-09T14:40:42.002500Z
+K 7
+svn:log
+V 393
+added a new method- encryptExistingProfiles to Pinger.cpp, which encrypts pinger-config and user-config, only if pinger-config contains the ENCRYPT_PROFILES : ENABLED property.  The method is called on a restart request, which comes after profiles are sent.  It is also called when the app is started, just in case profiles were sent and the app exited before a restart request was kicked off.
+END

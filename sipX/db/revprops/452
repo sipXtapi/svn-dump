@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-20T11:20:56.634800Z
+K 7
+svn:log
+V 506
+Added stun support to the OS abstraction layer.  A special thanks to Somasundaram Easwaramoorthy who pulled together the STUN client and took a first pass at integration!
+
+Todos:
+- OsStunQueryAgent should use DNS SRV to locate stun server
+  http://track.sipfoundry.org/browse/XPL-96 
+- OsStunDatagramSocket, stun keep alives should not block timer task
+  http://track.sipfoundry.org/browse/XPL-97
+- OsStunDatagramSocket should look for refresh/binding failures
+  http://track.sipfoundry.org/browse/XPL-98
+
+
+END

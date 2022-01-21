@@ -1,0 +1,191 @@
+PLAIN
+K 18
+apache_version.awk
+V 18
+file aw.0.r380/398
+K 7
+dist.am
+V 23
+file d3f.422.r7572/4269
+K 13
+download-file
+V 24
+file d1g.423.r7320/71602
+K 10
+general.m4
+V 21
+file 95.1i4.r7593/899
+K 13
+local.repo.in
+V 24
+file d35.424.r7320/71382
+K 10
+project.am
+V 23
+file b3.425.r7375/40276
+K 22
+sipX-buildstamp.cpp.in
+V 19
+file b1.0.r380/1661
+K 20
+sipX-buildstamp.h.in
+V 17
+file b2.0.r380/82
+K 14
+sipX-config.in
+V 25
+file av.1i4.r4884/5496658
+K 10
+sipXlib.m4
+V 21
+file 9a.1i4.r7593/662
+K 9
+subdir.am
+V 23
+file b0.426.r7545/41559
+K 10
+top.mak.in
+V 22
+file d1e.427.r7476/533
+END
+ENDREP
+id: 91.1i4.r7594/575
+type: dir
+pred: 91.1i4.r7593/1754
+count: 186
+text: 7594 0 562 562 f1b95dc5e9f9bd0ba7284a102276f8a8
+props: 5464 23462 151 0 c92d0cbc29ca249416c4f1cab3f269da
+cpath: /main/config
+copyroot: 4813 /main/config
+
+PLAIN
+K 11
+Makefile.in
+V 22
+file d0m.421.r7476/352
+K 7
+bbridge
+V 21
+dir 8dl.0.r7320/66517
+K 5
+build
+V 22
+file d5a.0.r7320/66775
+K 6
+config
+V 20
+dir 91.1i4.r7594/575
+K 12
+configure.ac
+V 22
+file d0n.0.r7375/40114
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 3
+lib
+V 20
+dir cyn.0.r7587/4615
+K 14
+resiprocateLib
+V 20
+dir 8g8.0.r7593/2169
+K 9
+sipXb2bua
+V 22
+dir dau.0.r7443/443096
+K 11
+sipXcallLib
+V 22
+dir va.1i5.r7585/39619
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r7586/22333
+K 10
+sipXconfig
+V 22
+dir 2hf.1i7.r7593/3983
+K 19
+sipXmediaAdapterLib
+V 20
+dir 89s.0.r7592/2266
+K 12
+sipXmediaLib
+V 22
+dir mz.1i8.r7585/46747
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r7581/5134
+K 9
+sipXphone
+V 24
+dir 6qk.1ia.r7320/116868
+K 11
+sipXportLib
+V 20
+dir 3.1ib.r7586/9540
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r7587/2904
+K 13
+sipXpublisher
+V 23
+dir 20n.1id.r7545/41310
+K 12
+sipXregistry
+V 23
+dir 1y5.1ie.r7586/16387
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r7586/29210
+K 8
+sipXvxml
+V 23
+dir 22d.1ig.r7545/21876
+K 10
+top.mak.in
+V 21
+file d5l.0.r7330/2797
+END
+ENDREP
+id: 7q4.0.r7594/1822
+type: dir
+pred: 7q4.0.r7593/7063
+count: 1835
+text: 7594 801 1008 1008 c602a38816cee326e9821caceac3d414
+props: 7593 5248 1802 0 058b2c003e5804a770bf9bff12b2c665
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r7591/5594
+K 4
+main
+V 20
+dir 7q4.0.r7594/1822
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r7594/2158
+type: dir
+pred: 0.0.r7593/7400
+count: 7594
+text: 7594 2031 114 114 d22adc42503ba4be3a0c26815858fb29
+cpath: /
+copyroot: 0 /
+
+8er.1i4.r5202/966 delete false false /main/config/cppunit.m4
+
+
+2158 2301

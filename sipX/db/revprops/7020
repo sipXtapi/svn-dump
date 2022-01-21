@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2006-06-29T20:28:20.150607Z
+K 7
+svn:log
+V 388
+Send "481 Subscription does not exist" response to NOTIFYs that contain call-ids
+we don't know (or care) about anymore.  This is the correct RFC 3265 behavior, and it
+works around a bug in Polycom phones which don't stop sending NOTIFYs even
+after the subscription has expired.  They do stop sending them when they get the 
+481.
+Fixes XPB-681 (http://track.sipfoundry.org/browse/XPB-681)
+
+END

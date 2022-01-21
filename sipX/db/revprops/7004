@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+cypromis
+K 8
+svn:date
+V 27
+2006-06-27T22:36:05.753697Z
+K 7
+svn:log
+V 131
+Major fixes to non Ansi C++ code and gccisms, see  http://track.sipfoundry.org/browse/XSL-129
+Fixes ro Solaaris issues see XPL-113
+
+END

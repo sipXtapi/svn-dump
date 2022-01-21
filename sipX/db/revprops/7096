@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-07-18T15:41:35.130471Z
+K 7
+svn:log
+V 192
+For XCF-1114: add a unique constraint to the auto-answer code; fix the primary key for the auto_answer_phone_group table; add foreign key constraints. Don't hook this in via database.xml yet.
+
+END

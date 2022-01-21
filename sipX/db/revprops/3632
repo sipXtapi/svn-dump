@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-08T18:24:27.442912Z
+K 7
+svn:log
+V 112
+XCF-174 - Finished implementing restart for polycom phones. forwards restart messages to first registration line
+END

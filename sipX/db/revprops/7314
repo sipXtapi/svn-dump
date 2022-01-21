@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-08-21T14:52:40.078137Z
+K 7
+svn:log
+V 373
+Documentation for caller-alias.xml database.
+  This is the database that allows From-header rewriting.
+  This checkin adds the schema for the persistent database file, and
+  an example, and checks any file in the sipdb against the schema
+  during the configtest.
+
+  Also clarified some usages in the fallbackrules example.
+
+  See http://track.sipfoundry.org/browse/XPR-180
+
+END

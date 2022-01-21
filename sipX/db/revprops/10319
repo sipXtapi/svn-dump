@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-10T22:48:25.450619Z
+K 7
+svn:log
+V 155
+Fix usage of uninitialized memory in fnSplit() function in OsPathBase.cpp.
+If spec is an empty string, spec[1] is refering to uninitialized memory region.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-28T00:39:39.193872Z
+K 7
+svn:log
+V 197
+XCF-564 allow any valid SIP name to be an alias including names with dots and commas
+alias lists in UI are now space separated (they used to be comma separated), commas will be a part of the alias
+
+END

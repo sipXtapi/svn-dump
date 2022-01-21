@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-29T17:14:44.025971Z
+K 7
+svn:log
+V 287
+Merged revisions 8634 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8634 | dpetrie | 2007-01-27 09:21:16 +0300 | 4 lines
+  
+  Created a first hack refactoring of a flexible topology flowgraph.  The new flowgraph
+  is disabled by default.
+........
+
+END

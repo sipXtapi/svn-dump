@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-02-09T20:25:00.644715Z
+K 7
+svn:log
+V 178
+sipXmediaAdapterLib: Correctly implemented CpTopologyGraphInterface::canAddParty().
+It was preventing us from adding more then 4 parties to a conference if sipXtapi API is used.
+
+END

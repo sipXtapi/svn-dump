@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-05-27T15:25:27.462828Z
+K 7
+svn:log
+V 52
+Added a new function to build SipDialogEvent body.
+
+
+END

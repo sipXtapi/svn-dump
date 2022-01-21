@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2004-07-03T00:06:38.360081Z
+K 7
+svn:log
+V 93
+Fix compiler warnings in sipXtackLib/src/net (there are still
+14 files that need attention).
+
+END

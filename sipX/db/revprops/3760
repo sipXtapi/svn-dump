@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-04-07T19:19:46.178186Z
+K 7
+svn:log
+V 123
+XCF-312 added declarative transaction to Message Driven Beans
+
+configure optimistic locking strategy for all Entity beans
+
+
+END

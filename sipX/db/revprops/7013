@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-06-29T03:09:23.985144Z
+K 7
+svn:log
+V 48
+Fix the WSDL so that we can run wsdl2java on it
+
+END

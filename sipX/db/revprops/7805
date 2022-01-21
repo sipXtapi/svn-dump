@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-23T17:33:33.260712Z
+K 7
+svn:log
+V 337
+XCF-1267 Michal's fixes to Hitachi profile
+- use Veloctiy macros instead of copy and paste when generating profiles
+- we do not really support well group without any members (I will open a separate issue on that) so when you declare a group in which all members are conditional, declare condition on a group level not on a setting level
+
+END

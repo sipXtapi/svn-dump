@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-09-24T00:04:39.687326Z
+K 7
+svn:log
+V 36
+move user creation to commserver lib
+END

@@ -1,0 +1,118 @@
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 126
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 53
+https://scm.sipfoundry.org/rep/sipXproxy/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 4
+1-73
+END
+ENDREP
+id: 1vt.0.r2191/367
+type: dir
+pred: 1vt.0.r2188/4385
+count: 64
+text: 2188 3712 660 660 ba0ffe5fe1b884793c9f48b07d6eb806
+props: 2191 0 354 0 238a288a0930fbf3853f0387be2be4d7
+cpath: /old/sipXproxy/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1x8.0.r2187/4457
+K 4
+main
+V 19
+dir 1vt.0.r2191/367
+K 4
+tags
+V 20
+dir 1x7.0.r2190/1202
+END
+ENDREP
+id: 1vs.0.r2191/707
+type: dir
+pred: 1vs.0.r2190/1490
+count: 95
+text: 2191 582 112 112 823f73f9337b40f7fe9557389175180c
+cpath: /old/sipXproxy
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 19
+dir 1vs.0.r2191/707
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2191/1136
+type: dir
+pred: 1.0.r2190/1922
+count: 2190
+text: 2191 863 260 260 f35e0ccb883138679151c34545e5c359
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2191/1136
+END
+ENDREP
+id: 0.0.r2191/1330
+type: dir
+pred: 0.0.r2190/2117
+count: 2191
+text: 2191 1281 36 36 7cba4e4027c50e56912511357765a921
+cpath: /
+copyroot: 0 /
+
+1vt.0.t2190-1 modify false true /old/sipXproxy/main
+
+
+1330 1471

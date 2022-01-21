@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-07-24T11:43:45.773625Z
+K 7
+svn:log
+V 309
+1)  Added remote DTMF events -- this is implemented somewhat differently from 
+    what Dan Petrie did on the main line.
+2)  Renamed TONE_ID to SIPX_TONE_ID to better fit in our namespace.
+
+[Needs more testing on my side -- doesn't seem to break anything, but I need
+to verify that the events actually work]
+
+
+END

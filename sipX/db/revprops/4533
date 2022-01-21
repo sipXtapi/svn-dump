@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-03-11T20:45:13.053474Z
+K 7
+svn:log
+V 205
+Do not want to display heard messages in next block in Web UI.
+
+http://track.sipfoundry.org/browse/XPB-147
+
+Also, change the loging message from ERR to WARNING.
+
+http://track.sipfoundry.org/browse/XVX-83
+
+
+END

@@ -1,0 +1,118 @@
+id: 7n4.0.r4744/0
+type: dir
+count: 0
+cpath: /old/sipXphone/branches/tmp
+copyroot: 0 /
+
+PLAIN
+K 3
+tmp
+V 17
+dir 7n4.0.r4744/0
+END
+ENDREP
+id: 7n3.0.r4744/135
+type: dir
+pred: 7n3.0.r4743/0
+count: 1
+text: 4744 87 35 35 b334d61b6d102ab3895ccf791af374ed
+cpath: /old/sipXphone/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 7n3.0.r4744/135
+K 4
+main
+V 20
+dir 6qk.0.r4742/1919
+END
+ENDREP
+id: 6qj.0.r4744/383
+type: dir
+pred: 6qj.0.r4743/171
+count: 72
+text: 4744 293 77 77 1f41781c4e857477d571e444086e4859
+cpath: /old/sipXphone
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4671/3383
+K 9
+sipXphone
+V 19
+dir 6qj.0.r4744/383
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4744/1058
+type: dir
+pred: 1.0.r4743/846
+count: 4742
+text: 4744 536 509 509 4759e2607fb2a3f2bc0ea26254f0b9b1
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4744/1058
+END
+ENDREP
+id: 0.0.r4744/1251
+type: dir
+pred: 0.0.r4743/1038
+count: 4744
+text: 4744 1202 36 36 33dc6f39e0a71d1005155b0102d018a9
+cpath: /
+copyroot: 0 /
+
+_0.0.t4743-1 add false false /old/sipXphone/branches/tmp
+
+
+1251 1392

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-19T21:05:23.069487Z
+K 7
+svn:log
+V 174
+http://track.sipfoundry.org/browse/XPB-94
+Always attempt to create the mailstore directories, even if the top
+level directory (.../${SIPXCHANGE_DOMAIN_NAME}) already exists.
+
+END

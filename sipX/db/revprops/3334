@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-01-05T18:26:32.629973Z
+K 7
+svn:log
+V 196
+DB related beans were referenced in a bean factory description used during unit tests.
+This is temporarily commented out. We need to isolate DB references; build machines do not have DB installed.
+END

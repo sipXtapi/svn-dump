@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-09T18:23:37.162714Z
+K 7
+svn:log
+V 370
+- maven build results are placed in build.maven so that ithey do not conflict with standard build: you can change it by setting top.build.dir property
+- a new way of specyfing top.dir variable: use SIPX_SRC to point to main workplace directory (parent of sipXconfig)
+- compiler is now properly using source:1.4 and target:1.4 variables to preserve JDK 1.4 compatibility
+
+END

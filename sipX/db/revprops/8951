@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-03-01T23:24:57.769168Z
+K 7
+svn:log
+V 95
+Update for coding guidelines (space after if,for, etc)
+New windows input device drvier update.
+
+END

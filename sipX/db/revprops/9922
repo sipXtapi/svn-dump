@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-08-03T15:29:29.969312Z
+K 7
+svn:log
+V 181
+Some improved documentation for CpMediaInterface.
+Not entirely complete, but better than it was before.
+
+There is no functional change to this whatsoever, just documentation update.
+END

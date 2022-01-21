@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-11-15T15:21:41.161971Z
+K 7
+svn:log
+V 635
+XML-RPC interface for remote OsConfigDb manipulation.
+
+sipXcommserverLib now has a general mechanism to remotely manipulate
+an OsConfigDb - see sipXcommserverLib/src/configrpc/README for a
+description of the XML-RPC interface it implements.
+
+bbridge now provides remote configuration access based on that
+mechanism.  The security of that access is not done yet (some
+work is needed in the SSL/HTTPS/XML-RPC interface for this).
+
+Changed the bbridge configuration parameter names to facilitate
+modular configuration of conferences and add some new parameters.
+Most of them are not used yet, but they are documented now and
+initialized.
+
+END

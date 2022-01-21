@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-06-29T17:29:26.009299Z
+K 7
+svn:log
+V 296
+allow for more flexibility in specifying PSTN prefix and Prefix for Local, Long Distance and Internation rules
+those prefixes can now be any valid sipUrl - previously they were restricted to digits and one had to use custom rules to overcome this
+also it's onw legal to leave prefix fields empty
+
+END

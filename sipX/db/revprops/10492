@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-25T17:13:36.358489Z
+K 7
+svn:log
+V 439
+API change to sipXmediaAdapterLib for specifying media interface samples per frame and sample rate.
+
+createMediaInterface now takes both of these parameters, and it is then passed through such that the associated flowgraph is created with the specified sample rate, samples per frame.
+
+If no sample rate is specified, the usual default of 8000Hz, and 80 samples per second is used.  Those defaults are now determined in MpFlowGraphBase.cpp
+END

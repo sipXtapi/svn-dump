@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-10T22:43:21.426828Z
+K 7
+svn:log
+V 134
+Fix sipXmediaLib build under Linux - system includes should be included after application includes to prevent errors with <stdint.h>.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-05-02T02:02:18.405825Z
+K 7
+svn:log
+V 88
+Added unit test for SipMessage::isClientMsgStrictRouted with multiple routes in 1 field
+
+END

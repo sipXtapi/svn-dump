@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-03-01T20:22:56.472229Z
+K 7
+svn:log
+V 78
+Fix build of sipXtackLib tests under Linux: sipXsdpLib dependency was missed.
+
+END

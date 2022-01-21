@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-27T21:12:41.514233Z
+K 7
+svn:log
+V 82
+Minor form actions refactoring to simplify detecting if Apply button was pressed.
+
+END

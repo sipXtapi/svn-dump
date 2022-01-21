@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-14T11:37:06.038148Z
+K 7
+svn:log
+V 67
+Split G711 codecs plugin source to several files, cleanup sources.
+
+END

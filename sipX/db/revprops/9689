@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-15T13:53:28.772456Z
+K 7
+svn:log
+V 36
+Fix some indents in HttpMessage.cpp
+
+END

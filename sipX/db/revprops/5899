@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-18T23:28:10.703224Z
+K 7
+svn:log
+V 278
+XCF-875 remove separate generate(EmergencyRouting er) method
+generating EmergencyRouting contributions is now part of the same method that generates DialPlan contributions
+it removes the possibility of calling MappingRules.generate function out of order (before begin function)
+
+END

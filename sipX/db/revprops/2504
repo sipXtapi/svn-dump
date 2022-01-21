@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-03T18:49:52.793129Z
+K 7
+svn:log
+V 169
+First increment of work on directed call pick-up.
+Create the redirector.  Set up most of its logic, and it sends
+SUBSCRIBEs, but it does not receive or process NOTIFYs.
+
+END

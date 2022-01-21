@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-10-07T18:06:44.289657Z
+K 7
+svn:log
+V 77
+XCF-498 - Restrict running user to @sipxpbx.user@ to avoid messing up install
+END

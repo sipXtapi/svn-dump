@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-13T19:31:01.958812Z
+K 7
+svn:log
+V 138
+Fix memory leak in CpTopologyGraphFactoryImpl.
+Initial topologies and resource factory should be deleted with CpTopologyGraphFactoryImpl.
+
+END

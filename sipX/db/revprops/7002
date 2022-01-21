@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-06-27T01:48:49.857536Z
+K 7
+svn:log
+V 102
+Check in work-in-progress on the readFile remote method to take advantage of the repository being up!
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-01-18T18:56:24.916462Z
+K 7
+svn:log
+V 43
+Further changes so TAPI works under Linux.
+
+END

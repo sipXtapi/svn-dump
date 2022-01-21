@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-16T15:53:45.677039Z
+K 7
+svn:log
+V 340
+Assume ant has already been setup with proper dependencies. Also, don't assume JAVA_HOME is set from ant perspective. Now that JPackage supplies ANT 1.6, via FC3, this rpm's only purpose is to supply ant support for FC2 and RHEL.  I've added the libs for what sipXconfig needs so that build files can work against this rpm or Jpackage rpms.
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-02-19T23:20:42.535490Z
+K 7
+svn:log
+V 207
+sipXportLib: Under Linux don't log error if requested symbol is not found in a shared library. Log it as at debug priority instead. Under Windows, log this the same way as under Linux instead of osPrintf().
+
+END

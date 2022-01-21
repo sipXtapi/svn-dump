@@ -1,0 +1,339 @@
+PLAIN
+K 10
+svn:ignore
+V 50
+Doxyfile
+Makefile
+Makefile.in
+sipxpbx
+sipxpbx.tag
+
+END
+ENDREP
+id: 6px.0.r4670/89
+type: dir
+pred: 6px.0.r4665/1758
+count: 4
+text: 4665 1521 224 224 f9aaa9fd2a7fa1adc11965fe2e370c4d
+props: 4670 0 76 0 bec8a81f4d2fbcc97baeef67e5884d76
+cpath: /old/sipXpbx/main/sipXpark/doc
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 33
+.deps
+.libs
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 6q8.0.r4670/384
+type: dir
+pred: 6q8.0.r4669/730
+count: 12
+text: 4669 289 428 428 631866f74638b637208f6720fc7106be
+props: 4670 312 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /old/sipXpbx/main/sipXpark/src
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 6pu.0.r4670/669
+type: dir
+pred: 6pu.0.r4645/1119
+count: 3
+text: 4645 1010 96 96 ce2e7cba21c3e2022052a0cbc5acce29
+props: 4670 609 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpbx/main/sipXpark/bin
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 6q4.0.r4670/953
+type: dir
+pred: 6q4.0.r4665/3059
+count: 4
+text: 4665 2945 101 101 e3dd538f74d152934f079e082889a175
+props: 4670 893 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpbx/main/sipXpark/etc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 21
+file 6pm.0.r4665/3677
+K 9
+ChangeLog
+V 21
+file 6pn.0.r4665/2380
+K 7
+INSTALL
+V 21
+file 6po.0.r4665/2065
+K 7
+LICENSE
+V 19
+file 6pp.0.r4665/82
+K 11
+Makefile.am
+V 21
+file 6pq.0.r4639/1036
+K 4
+NEWS
+V 21
+file 6pr.0.r4665/3368
+K 6
+README
+V 21
+file 6ps.0.r4665/3994
+K 4
+TODO
+V 20
+file 6pt.0.r4665/394
+K 3
+bin
+V 19
+dir 6pu.0.r4670/669
+K 3
+doc
+V 18
+dir 6px.0.r4670/89
+K 3
+etc
+V 19
+dir 6q4.0.r4670/953
+K 16
+sipxpark.spec.in
+V 23
+file 6q7.0.r4633/505273
+K 3
+src
+V 19
+dir 6q8.0.r4670/384
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 6pl.0.r4670/1753
+type: dir
+pred: 6pl.0.r4669/1474
+count: 16
+text: 4670 1179 501 501 8b10184f41fb23000b6ea1e328d8a9c8
+props: 4670 1693 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpbx/main/sipXpark
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4454/288397
+K 9
+ChangeLog
+V 21
+file 5g8.0.r4571/9011
+K 7
+INSTALL
+V 23
+file 5g9.0.r4454/289610
+K 7
+LICENSE
+V 21
+file 5ga.0.r4571/8791
+K 11
+Makefile.am
+V 20
+file 5gb.0.r4667/100
+K 4
+NEWS
+V 23
+file 5gc.0.r4454/299658
+K 6
+README
+V 23
+file 5gd.0.r4454/288092
+K 4
+TODO
+V 23
+file 5ge.0.r4454/289304
+K 9
+acsite.m4
+V 21
+file 5gf.0.r4454/4092
+K 3
+bin
+V 20
+dir 5gg.0.r4668/1270
+K 12
+configure.ac
+V 20
+file 5gl.0.r4634/783
+K 3
+doc
+V 20
+dir 5gm.0.r4648/1872
+K 3
+etc
+V 20
+dir 5gp.0.r4653/1060
+K 7
+include
+V 20
+dir 5h2.0.r4454/3129
+K 4
+meta
+V 21
+dir 6of.z4.r4521/2317
+K 8
+sipXpark
+V 20
+dir 6pl.0.r4670/1753
+K 15
+sipxpbx.spec.in
+V 19
+file 6mo.0.r4663/61
+K 3
+src
+V 20
+dir 5hb.0.r4657/7585
+END
+ENDREP
+id: 5g6.0.r4670/2702
+type: dir
+pred: 5g6.0.r4669/2422
+count: 427
+text: 4670 1978 711 711 066bb9e0d07ecbccee3c106d40751eba
+props: 4667 1051 930 0 6cf51fb4b6182555d55e7c86f4bbbc9f
+cpath: /old/sipXpbx/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 6o1.0.r4666/1478
+K 4
+main
+V 20
+dir 5g6.0.r4670/2702
+K 4
+tags
+V 20
+dir 5kn.0.r4659/2689
+END
+ENDREP
+id: 5g5.0.r4670/3046
+type: dir
+pred: 5g5.0.r4669/2766
+count: 577
+text: 4670 2920 113 113 08fe5ce7effcbe4c8bc7c10f07a0f1bc
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4670/3046
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4670/3686
+type: dir
+pred: 1.0.r4669/3406
+count: 4668
+text: 4670 3203 470 470 9f58df934c748ac9d2178f5fc3a182b0
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4670/3686
+END
+ENDREP
+id: 0.0.r4670/3881
+type: dir
+pred: 0.0.r4669/3601
+count: 4670
+text: 4670 3832 36 36 20f9f6aa2087c6853baebfa159e82f16
+cpath: /
+copyroot: 0 /
+
+6pl.0.t4669-1 modify false true /old/sipXpbx/main/sipXpark
+
+6px.0.t4669-1 modify false true /old/sipXpbx/main/sipXpark/doc
+
+6q8.0.t4669-1 modify false true /old/sipXpbx/main/sipXpark/src
+
+6pu.0.t4669-1 modify false true /old/sipXpbx/main/sipXpark/bin
+
+6q4.0.t4669-1 modify false true /old/sipXpbx/main/sipXpark/etc
+
+
+3881 4022

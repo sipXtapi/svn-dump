@@ -1,0 +1,349 @@
+PLAIN
+K 15
+TestHelper.java
+V 22
+file 4q9.0.r3379/22366
+K 5
+admin
+V 21
+dir 4ks.0.r3367/42377
+K 5
+phone
+V 21
+dir 4jf.0.r3379/24229
+K 8
+settings
+V 20
+dir 4jk.0.r3272/5388
+K 6
+vendor
+V 21
+dir 4g9.0.r3379/24852
+END
+ENDREP
+id: 4g5.0.r3381/217
+type: dir
+pred: 4g5.0.r3379/25354
+count: 34
+text: 3381 0 204 204 649b60f25589ea77d93d5003228b3077
+cpath: /old/sipXconfig/main/neoconf/test/org/sipfoundry/sipxconfig
+copyroot: 0 /
+
+PLAIN
+K 10
+sipxconfig
+V 19
+dir 4g5.0.r3381/217
+END
+ENDREP
+id: 4g4.0.r3381/475
+type: dir
+pred: 4g4.0.r3379/25621
+count: 34
+text: 3381 417 45 45 023efa345cf0fe13df75a30b1cc25576
+cpath: /old/sipXconfig/main/neoconf/test/org/sipfoundry
+copyroot: 0 /
+
+PLAIN
+K 10
+sipfoundry
+V 19
+dir 4g4.0.r3381/475
+END
+ENDREP
+id: 4g3.0.r3381/722
+type: dir
+pred: 4g3.0.r3379/25875
+count: 34
+text: 3381 664 45 45 866a9685b48ce5777b71ef7cba837c6f
+cpath: /old/sipXconfig/main/neoconf/test/org
+copyroot: 0 /
+
+PLAIN
+K 3
+org
+V 19
+dir 4g3.0.r3381/722
+END
+ENDREP
+id: 4g2.0.r3381/950
+type: dir
+pred: 4g2.0.r3379/26110
+count: 36
+text: 3381 900 37 37 d4d98e8867d3cd096120ecec16f6ec97
+cpath: /old/sipXconfig/main/neoconf/test
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 22
+file 4ep.0.r3379/26289
+K 8
+.project
+V 22
+file 4eq.0.r3175/49649
+K 11
+Makefile.am
+V 22
+file 4er.0.r3175/64370
+K 9
+build.xml
+V 19
+file 4es.0.r3380/77
+K 3
+etc
+V 22
+dir 4pz.0.r3378/378007
+K 3
+src
+V 21
+dir 4ev.0.r3379/31042
+K 4
+test
+V 19
+dir 4g2.0.r3381/950
+END
+ENDREP
+id: 4eo.0.r3381/1415
+type: dir
+pred: 4eo.0.r3380/605
+count: 67
+text: 3381 1124 278 278 d4df453c7b7cebe5d1eccacbf8b3809d
+props: 3257 35273 70 0 3abbb3844767b5e993328a3487bbdfd7
+cpath: /old/sipXconfig/main/neoconf
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 23
+file 4do.ia.r3150/21058
+K 8
+.project
+V 23
+file 4dp.ib.r3150/14475
+K 12
+CONTRIBUTORS
+V 24
+file 2hg.0.r3025/7526700
+K 9
+ChangeLog
+V 21
+file 2hh.0.r3209/4223
+K 7
+INSTALL
+V 21
+file 2hi.0.r3259/2886
+K 7
+LICENSE
+V 24
+file 2hj.0.r3025/7507227
+K 11
+Makefile.am
+V 19
+file 2hk.0.r3315/50
+K 4
+NEWS
+V 24
+file 2hl.0.r3025/8230780
+K 6
+README
+V 21
+file 2hm.0.r3219/7009
+K 4
+TODO
+V 21
+file 2hn.0.r3245/5065
+K 9
+acsite.m4
+V 24
+file 2ho.0.r3025/7507648
+K 14
+ant-targets.am
+V 21
+file 2hp.0.r3333/3154
+K 15
+ant-targets.xml
+V 22
+file 2hq.0.r3379/31990
+K 3
+bin
+V 19
+dir 4bz.0.r3311/708
+K 9
+build.xml
+V 21
+file 4h8.0.r3304/1304
+K 6
+common
+V 19
+dir 2hs.0.r3370/855
+K 20
+config.properties.in
+V 23
+file 2jf.0.r3378/352982
+K 12
+configure.ac
+V 21
+file 2jg.0.r3304/1475
+K 3
+doc
+V 22
+dir 2jh.0.r3378/352753
+K 3
+etc
+V 19
+dir 4b7.0.r3079/442
+K 3
+lib
+V 22
+dir 2jy.0.r3378/355737
+K 4
+meta
+V 20
+dir 4ea.0.r3337/1281
+K 7
+neoconf
+V 20
+dir 4eo.0.r3381/1415
+K 16
+profilegenerator
+V 22
+dir 2kj.0.r3378/359000
+K 23
+profilepub_sipagent.dsp
+V 20
+file 4b5.0.r3054/179
+K 16
+profilepublisher
+V 21
+dir 485.0.r3292/11627
+K 13
+profilewriter
+V 22
+dir 4a9.0.r3255/540983
+K 12
+sipagent-jni
+V 20
+dir 48h.h9.r3179/924
+K 26
+sipx-jboss-configure.patch
+V 20
+file 4bi.0.r3345/630
+K 18
+sipxconfig.spec.in
+V 20
+file 4bh.0.r3267/186
+K 18
+subant-targets.xml
+V 21
+file 4h9.0.r3248/8483
+K 3
+web
+V 21
+dir 4l5.0.r3379/22139
+END
+ENDREP
+id: 2hf.0.r3381/3038
+type: dir
+pred: 2hf.0.r3380/2227
+count: 271
+text: 3381 1642 1383 1383 3d8703d6f56de0095bacab905090e340
+props: 3343 0 454 0 540b223cc91917032329e7c4d0a3ed42
+cpath: /old/sipXconfig/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 4c1.0.r3344/10857
+K 4
+main
+V 20
+dir 2hf.0.r3381/3038
+K 4
+tags
+V 20
+dir 4b6.0.r3365/1772
+END
+ENDREP
+id: 2he.0.r3381/3385
+type: dir
+pred: 2he.0.r3380/2574
+count: 356
+text: 3381 3258 114 114 0ff51b438381ee208aeb2b4bba70cfdf
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 20
+dir 2he.0.r3381/3385
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3381/3989
+type: dir
+pred: 1.0.r3380/3179
+count: 3379
+text: 3381 3545 431 431 6565b846e726addf35456c64ffde66a7
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3381/3989
+END
+ENDREP
+id: 0.0.r3381/4184
+type: dir
+pred: 0.0.r3380/3375
+count: 3381
+text: 3381 4135 36 36 0abde2e5e29c2d020c54b73e8a6b2c30
+cpath: /
+copyroot: 0 /
+
+4q8.0.r3379/22565 delete false false /old/sipXconfig/main/neoconf/test/org/sipfoundry/sipxconfig/SipxconfigApplicationContextTest.java
+
+
+4184 4325

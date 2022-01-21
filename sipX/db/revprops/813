@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-02-24T01:00:42.381636Z
+K 7
+svn:log
+V 119
+Remove extraneous debugging print whose output was causing sipviewer
+to show bogus messages.
+Clean up code formatting.
+
+END

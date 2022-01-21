@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-08-23T21:12:13.106899Z
+K 7
+svn:log
+V 482
+Merged revisions 3355-3359 via svnmerge from
+https://paradise.pingtel.com/rep/sipX/mirror/main
+XCF-301 job status page: 
+"Clear All" button added
+there is now limit to display no more than 50 active jobs (circular buffer used to delete old ones)
+replication jobs are also displayed on job status page
+formating of dates on Jobstatus page improved
+
+HTTPS support in jetty
+Point to port 8443 now that sipxconfig supports https again
+
+Minor improvement to unit testing infrastructure.
+
+END

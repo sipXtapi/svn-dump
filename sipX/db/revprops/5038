@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-14T04:01:12.246374Z
+K 7
+svn:log
+V 215
+Fix XCF-623: edit user => get bogus error about user ID or alias being a duplicate.
+Add "distinct" to the query that loads user IDs by ID/alias to eliminate duplicate IDs from the query that were causing confusion.
+
+END

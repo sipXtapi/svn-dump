@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-12-14T21:22:57.763327Z
+K 7
+svn:log
+V 299
+XCF-102
+- support for mappingrules.xml added (Dial Plan Mapping Rules screen)
+- support for entity references in XML fixed (HTML browser will interpret references such as &lt; - by doing that it'll add invalid 
+ characters to XML file, references need to be escaped before sending them to a browser
+
+END

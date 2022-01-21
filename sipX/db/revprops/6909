@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-06-06T16:21:12.162442Z
+K 7
+svn:log
+V 154
+Add configure parameter to disable tapi tests. They remain enabled
+by default, turn them off (if they break on your machine) with
+'--enable-tapitest=no'.
+
+END

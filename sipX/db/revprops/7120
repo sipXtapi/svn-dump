@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-07-25T18:03:26.162636Z
+K 7
+svn:log
+V 645
+Merged revisions 7116-7117 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7116 | bob | 2006-07-24 15:43:45 +0400 | 8 lines
+  
+  1)  Added remote DTMF events -- this is implemented somewhat differently from 
+      what Dan Petrie did on the main line.
+  2)  Renamed TONE_ID to SIPX_TONE_ID to better fit in our namespace.
+  
+  [Needs more testing on my side -- doesn't seem to break anything, but I need
+  to verify that the events actually work]
+........
+  r7117 | bob | 2006-07-24 18:37:10 +0400 | 3 lines
+  
+  Ignore FINGERPRINT attributes for now (don't send unknown attribute error response).
+........
+
+END

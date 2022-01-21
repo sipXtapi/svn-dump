@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-29T20:19:42.485660Z
+K 7
+svn:log
+V 97
+Added a little more text for the INSTALL and removed all of the README content
+(very outdated) 
+
+
+END

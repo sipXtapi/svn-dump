@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-05-31T14:47:07.475658Z
+K 7
+svn:log
+V 47
+get true/false boolean types to validate on DTD
+END

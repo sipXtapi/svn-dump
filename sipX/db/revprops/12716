@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2019-09-05T23:39:53.072249Z
+K 7
+svn:log
+V 93
+#ifdef out codec path option in PLaceCall for WIN32 to temporarily avoid DLL export problem.
+
+END

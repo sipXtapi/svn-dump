@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-18T21:28:28.064912Z
+K 7
+svn:log
+V 43
+Small indent fix for OsDatagramSocket.cpp.
+
+END

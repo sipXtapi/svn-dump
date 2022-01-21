@@ -1,0 +1,115 @@
+id: 7q4.3xw.r7205/0
+type: dir
+pred: 7q4.0.r7192/20082
+count: 1604
+text: 7192 19153 916 916 15088fc6a3db5fe487f2d0c88e10d179
+props: 7187 0 1392 0 c20ec55e1bb6341381b2df071f54e2ce
+cpath: /branches/user_dworley_redirectors
+copyfrom: 7203 /main
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r6684/6307
+K 3
+3.4
+V 22
+dir 7q4.3ib.r7095/7472
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r6919/2247
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 22
+dir 7q4.3xt.r7178/5278
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 20
+dir 9wi.0.r7202/7293
+K 21
+sipXtapi-media-update
+V 25
+dir 9wi.3ke.r7153/1809406
+K 12
+solaris_port
+V 23
+dir 7q4.3wa.r7093/50041
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 24
+user_dworley_redirectors
+V 19
+dir 7q4.3xw.r7205/0
+END
+ENDREP
+id: 7pt.0.r7205/1004
+type: dir
+pred: 7pt.0.r7204/8380
+count: 783
+text: 7205 242 749 749 34468eafa7df7ddb0146f269a806b52a
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r7205/1004
+K 4
+main
+V 21
+dir 7q4.0.r7192/20082
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r7205/1285
+type: dir
+pred: 0.0.r7204/8661
+count: 7205
+text: 7205 1157 115 115 36433a7d57d1955600d17ae72426b9b0
+cpath: /
+copyroot: 0 /
+
+7q4._0.t7204-1 add false false /branches/user_dworley_redirectors
+7203 /main
+
+1285 1428

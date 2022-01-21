@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-08-23T21:59:20.037560Z
+K 7
+svn:log
+V 75
+Fixed compiler issue due to undefined macro:
+OS_INVALID_SOCKET_DESCRIPTOR
+
+
+END

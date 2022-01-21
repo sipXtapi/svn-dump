@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-08-08T13:23:33.392247Z
+K 7
+svn:log
+V 966
+Merged revisions 7198 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7198 | bob | 2006-08-05 17:10:00 +0400 | 10 lines
+  
+  A number of sipXtapi fixes:
+  
+  1) Make sure the SipLineMgr's thread context is started -- Thanks to Wolfgang Pichler found tracking this down.
+  
+  2) Make sure the network is up during sipxInitialize.  If the network is down (cannot enumerate adapaters or no valid IP addresses, sipxInitialize will return SIPX_RESULT_NETWORK_FAILURE.  If the network was down, it has been reported that sipXtapi crashes.  NOTE: This check is only performed on Win32 at the moment -- needs to be tested on other platforms before being enabled.
+  
+  3) sipxConfigGetAllLocalNetworkIps has been deprecated -- it allocates memory and expects the caller to free it -- this breaks the sipXtapi design and causes problems when using different c runtimes under windows.  It will be replaced in some future version.
+........
+
+END

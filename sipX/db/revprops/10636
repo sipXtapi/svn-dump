@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2008-04-14T20:47:16.834374Z
+K 7
+svn:log
+V 376
+1) Re-created sipXportLib VC71 projects and removed VC6 and VC8
+   projects.  These will need to be re-created (or deletions should not
+   be merged back to sipXtapi trunk).
+2) Created contrib directory and checked-in cppunit 1.12.1 with libs
+   MSVC libs build with /MT and /MTd (default uses DLL version of
+   runtimes).  Other contrib will be moved from calllib or added.
+
+
+END

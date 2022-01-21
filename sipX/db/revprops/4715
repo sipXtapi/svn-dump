@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2004-12-10T18:40:06.520020Z
+K 7
+svn:log
+V 56
+now displaying a "reason" in the request restart message
+END

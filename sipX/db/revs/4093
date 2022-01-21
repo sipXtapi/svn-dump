@@ -1,0 +1,80 @@
+id: 5g5.0.r4093/0
+type: dir
+count: 0
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 17
+dir 5g5.0.r4093/0
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4093/552
+type: dir
+pred: 1.0.r4092/23497
+count: 4091
+text: 4093 72 467 467 e26b67cd3378f8e7dc66d331466cd6c3
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r4093/552
+END
+ENDREP
+id: 0.0.r4093/744
+type: dir
+pred: 0.0.r4092/23696
+count: 4093
+text: 4093 696 35 35 9daa2ec429afda403f8c4c7cc975c94e
+cpath: /
+copyroot: 0 /
+
+_0.0.t4092-1 add false false /old/sipXpbx
+
+
+744 884

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-06-06T20:12:39.523293Z
+K 7
+svn:log
+V 60
+Fix callLib test makefiles so they link at runtime properly
+
+END

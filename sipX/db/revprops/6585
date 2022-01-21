@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-04-14T18:21:01.319622Z
+K 7
+svn:log
+V 244
+added information that refresh interval is editable
+added I18n support to AutoRefreshForm component
+
+add a new method to extract more user info from SIP URI - if available, we will  display name" pact both "display name" and "user" parh of URI
+
+END

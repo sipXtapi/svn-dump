@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-11-01T02:56:07.807118Z
+K 7
+svn:log
+V 93
+Clean up things that fell through the cracks during the merge from
+user_dworley_redirectors.
+
+END

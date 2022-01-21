@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-29T23:14:13.335287Z
+K 7
+svn:log
+V 162
+Fix part of ENG-236: paging does not work correctly when group filter is used on users/phones page.  Users are handled correctly now, next step is to fix phones.
+
+END

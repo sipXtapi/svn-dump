@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-08-10T03:48:32.866698Z
+K 7
+svn:log
+V 56
+Get SVN_VERSION working, subsequently rpm target working
+END

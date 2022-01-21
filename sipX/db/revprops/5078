@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-09-20T19:16:29.862250Z
+K 7
+svn:log
+V 231
+XCF-642 Not submitting a fix, rather wrote a unittest that tests binary format.  Also refactor text-based profile generation that excercise same code used in production and not velocity based profile generation that is now obsolete
+END

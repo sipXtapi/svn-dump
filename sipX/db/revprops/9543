@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-14T19:52:02.679516Z
+K 7
+svn:log
+V 139
+MpInputOutputFrameworkTest: next test implemented. Now it take sound from all available input devices and push it to single output device.
+
+END

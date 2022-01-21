@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-02-23T22:24:41.407613Z
+K 7
+svn:log
+V 140
+[XMR-56] Let media system decide which codecs it supports, don't let
+media server override and talk it into supporting unknown codec types.
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-12-29T22:59:20.812893Z
+K 7
+svn:log
+V 107
+minor performance improvement
+- vmstat 5 2 instead of vmstat 10 2
+- --numeric-hosts param added to netstat
+
+END

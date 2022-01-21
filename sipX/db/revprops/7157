@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-08-02T17:26:01.435191Z
+K 7
+svn:log
+V 236
+Continued STUN/TURN work in progress.  I've re-added the STUN/TURN message parsing tests to the sipXportLib unit ests under windows.  I also added support for the FINGERPRINT attribute (will change).  More to come, but getting closer.
+
+
+END

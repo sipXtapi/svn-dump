@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-02-15T05:14:40.465873Z
+K 7
+svn:log
+V 144
+Merged revisions 5638-6144 via svnmerge from
+/branches/3.0/sipXconfig
+XCF-913 - User extension were migrated in wrong place of migration script
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-31T02:50:31.845606Z
+K 7
+svn:log
+V 101
+Remove HAVE_SPEEX from VS2003 and VS2005 sipXmediaLibTest project files. This is not needed anymore.
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-04-12T15:47:11.414890Z
+K 7
+svn:log
+V 394
+XCF-994 This problem was introduced during upgrade to Tapestry 4. We gave up then on id converters and started using global squeezers. 
+SearchPhoneTableModel was incorrectly using squeezer to load found phones from the database. In this context it does not make sense to use squeezer at all. I replaced it by explicitely loading phones using phone context.
+Also - minor Eclipse warnings fixed.
+
+END

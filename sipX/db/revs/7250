@@ -1,0 +1,160 @@
+PLAIN
+K 9
+svk:merge
+V 95
+00f15c30-c60c-db11-b811-0007e9ead7ac:/main:1536
+a612230a-c5fa-0310-af8b-88eea846685b:/main:7092
+K 10
+svn:ignore
+V 10
+build.err
+
+K 22
+svnmerge-sipx-3.0-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.0
+K 22
+svnmerge-sipx-3.0-revs
+V 51
+1-5315,5348,5357,5382,5417,5451,5474-5478,5508,5621
+K 22
+svnmerge-sipx-3.2-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.2
+K 22
+svnmerge-sipx-3.2-revs
+V 41
+1-6323,6368-6370,6494,6521,6587-6588,6470
+K 22
+svnmerge-sipx-3.4-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.4
+K 22
+svnmerge-sipx-3.4-revs
+V 146
+1-6680,6748,6759,6763-6764,6773,6775,6777-6778,6784,6794-6795,6798,6803,6825,6888,6894,6902,6905,6926,6947,6956,6966,6976,6978,6987,7000,7077-7079
+K 26
+svnmerge-solaris2main-head
+V 57
+https://scm.sipfoundry.org/rep/sipX/branches/solaris_port
+K 26
+svnmerge-solaris2main-revs
+V 6
+1-6454
+END
+ENDREP
+id: 7q4.3wa.r7250/889
+type: dir
+pred: 7q4.3wa.r7093/50041
+count: 1525
+text: 7093 47729 814 814 b203c616b43d858fc4c60ba34b59ea5d
+props: 7250 0 876 0 1a02fa39a903917982ba48fe1e76097b
+cpath: /branches/solaris_port
+copyroot: 7064 /branches/solaris_port
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r7249/13014
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 21
+dir 7q4.3lm.r7227/164
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 24
+dir 7q4.3xt.r7243/191202
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 20
+dir 9wi.0.r7245/2799
+K 21
+sipXtapi-media-update
+V 23
+dir 9wi.3ke.r7233/23844
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 24
+user_dworley_redirectors
+V 23
+dir 7q4.3xw.r7213/21219
+END
+ENDREP
+id: 7pt.0.r7250/1903
+type: dir
+pred: 7pt.0.r7249/14017
+count: 809
+text: 7250 1139 751 751 f2ceaf869cce2c97509b18c47f8476d6
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r7250/1903
+K 4
+main
+V 20
+dir 7q4.0.r7248/5956
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r7250/2185
+type: dir
+pred: 0.0.r7249/14301
+count: 7250
+text: 7250 2058 114 114 de425b0e55769bf7745c9f71ffa2e378
+cpath: /
+copyroot: 0 /
+
+7q4.3wa.t7249-1 modify false true /branches/solaris_port
+
+
+2185 2329

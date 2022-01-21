@@ -1,0 +1,34 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-03-30T18:32:50.210131Z
+K 7
+svn:log
+V 968
+Merged in from Sipfoundry/main up to rev. 6474, added installation of
+cleveland.sql.
+
+initialize merge tracking from solaris_port branch
+
+Update release notes and bump rev from 3.3.0 to 3.3.2 (forgot to update notes and ver for 3.3.1)
+
+XCF-975 Exception on device upload page
+
+[XRR-96] Sanity check replication configuration.
+         If registry peers are configured, check that the domain name
+         is not the same as the local host name, and that the domain
+         name resolves to each of the peers.
+         Updated documentation to clarify setting of realm and domain.
+         http://track.sipfoundry.org/browse/XRR-96
+  Factored out some useful functions for examining configuration
+  settings and resolving dns names and put them in the (new)
+  sipXcommserverLib/src/sipx-utils.sh, which is installed and
+  can be sourced into other scripts as @SIPX_LIBEXECDIR@/sipx-utils.sh
+  Improved some makefiles by removing unconditional builds in shell
+  loops.
+
+END

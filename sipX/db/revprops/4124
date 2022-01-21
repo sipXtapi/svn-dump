@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-07-27T15:14:00.174527Z
+K 7
+svn:log
+V 203
+Revamp the startup and shutdown script to remove dependence on
+the output format of 'ps'.
+Add a 'keepalive' wrapper for that function of sipdbtest
+Rename the startup script from 'watchdog' to 'sipxpbx'
+
+
+END

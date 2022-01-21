@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-09T13:10:04.352252Z
+K 7
+svn:log
+V 203
+Update msinttypes to r20 version:
+
+Better C99 conformance: macros for format specifiers should only be included in C++ implementations if __STDC_FORMAT_MACROS is defined before <inttypes.h> is included.
+
+END

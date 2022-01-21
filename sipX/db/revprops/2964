@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-03-11T21:49:46.606281Z
+K 7
+svn:log
+V 121
+If unable to find a requested prompt from the "stdprompts" directory,
+substitute with the "prompt_not_found.wav" prompt.
+
+END

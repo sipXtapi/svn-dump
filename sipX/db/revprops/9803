@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2007-07-06T21:26:26.505437Z
+K 7
+svn:log
+V 46
+enable runtime type checking in release builds
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-03-13T17:31:10.900853Z
+K 7
+svn:log
+V 60
+Fixed MpInputDeviceManagerTest unit test so that it passed.
+
+END

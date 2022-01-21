@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-20T14:15:24.904417Z
+K 7
+svn:log
+V 265
+Change in how the OsStunDatagramSocket demuxes stun packets
+from RTP/SIP.  I was attemping to read from the socket if 
+no one else was reading -- this was incompatible with the
+way NetInTask reads data from a socket (uses a select with
+multiple file descriptors).
+
+
+END

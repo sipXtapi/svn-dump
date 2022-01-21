@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-04-19T22:29:55.460672Z
+K 7
+svn:log
+V 58
+Fixed patches mechanism - set initial version explicitly.
+
+END

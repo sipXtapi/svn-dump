@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2015-05-05T17:57:45.803689Z
+K 7
+svn:log
+V 135
+Added test cases for MprRecorder append feature.
+  Also fixed incorrect wave header size for other MprRecorder
+    to file test cases.
+
+END

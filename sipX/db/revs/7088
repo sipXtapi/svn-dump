@@ -1,0 +1,345 @@
+id: cwy.3xf.r7088/0
+type: dir
+pred: cwy.3wk.r7087/58801
+count: 1
+text: 7087 58539 249 249 0c6f78f306edd9ad6fa0dd50f262418b
+cpath: /branches/solaris_port/sipXconfig/plugins/patton
+copyfrom: 7087 /branches/solaris_port/sipXconfig/plugins/hitachi
+
+PLAIN
+K 7
+hitachi
+V 23
+dir cwy.3wk.r7087/58801
+K 6
+patton
+V 19
+dir cwy.3xf.r7088/0
+END
+ENDREP
+id: cwx.3wk.r7088/339
+type: dir
+pred: cwx.3wk.r7087/59050
+count: 1
+text: 7088 245 81 81 881be9ea5741556874b5ede23d28b42a
+cpath: /branches/solaris_port/sipXconfig/plugins
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 2hg.0.r3393/21790
+K 9
+ChangeLog
+V 23
+file 2hh.1i7.r7032/4953
+K 7
+INSTALL
+V 24
+file 2hi.1i7.r5443/27201
+K 7
+LICENSE
+V 23
+file 2hj.0.r3393/851332
+K 11
+Makefile.am
+V 24
+file 2hk.1i7.r6557/36271
+K 4
+NEWS
+V 23
+file 2hl.0.r3393/808567
+K 6
+README
+V 24
+file 2hm.1i7.r5365/24861
+K 4
+TODO
+V 22
+file 2hn.0.r4025/58643
+K 9
+acsite.m4
+V 22
+file 2ho.0.r3393/21475
+K 5
+agent
+V 22
+dir bzs.1i7.r6993/1140
+K 14
+ant-targets.am
+V 25
+file 2hp.1i7.r4886/145328
+K 15
+ant-targets.xml
+V 24
+file 2hq.1i7.r6783/21402
+K 3
+bin
+V 21
+dir 4bz.1i7.r5836/102
+K 19
+build.properties.in
+V 24
+file 81e.3wk.r7087/83293
+K 9
+build.xml
+V 24
+file 4h8.3wk.r7087/83024
+K 12
+configure.ac
+V 25
+file 2jg.3wk.r7067/370708
+K 16
+dependencies.xml
+V 21
+file 5d9.1i7.r5994/45
+K 3
+doc
+V 23
+dir 2jh.1i7.r6967/10720
+K 3
+etc
+V 25
+dir 4b7.1i7.r4884/5840691
+K 3
+lib
+V 24
+dir 2jy.1i7.r6939/269324
+K 14
+lib.properties
+V 23
+file 81m.1i7.r6886/4213
+K 4
+meta
+V 22
+dir 4ea.1i7.r6988/2332
+K 7
+neoconf
+V 23
+dir 4eo.3wk.r7087/82755
+K 7
+plugins
+V 21
+dir cwx.3wk.r7088/339
+K 7
+pom.xml
+V 25
+file 90w.2qr.r6329/204642
+K 23
+profilepub_sipagent.dsp
+V 22
+file 4b5.1i7.r4929/429
+K 18
+sipxconfig.spec.in
+V 23
+file 4bh.1i7.r6924/8551
+K 18
+subant-targets.xml
+V 24
+file 4h9.3wk.r7087/83513
+K 3
+web
+V 23
+dir 4l5.3wk.r7087/92141
+K 15
+web-targets.xml
+V 24
+file 8uq.1i7.r5770/11880
+END
+ENDREP
+id: 2hf.3wk.r7088/1883
+type: dir
+pred: 2hf.3wk.r7087/94620
+count: 1684
+text: 7088 542 1328 1328 cd46e863ba1ff36c2e4cead0c02a390b
+props: 7087 93749 858 0 6ca3ccd51a43fddd636d198af649ead6
+cpath: /branches/solaris_port/sipXconfig
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 7
+bbridge
+V 24
+dir 8dl.3wa.r7067/324691
+K 5
+build
+V 21
+file 7ve.0.r7033/4850
+K 6
+config
+V 23
+dir 91.3wb.r7067/331015
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 14
+resiprocateLib
+V 24
+dir 8g8.3wa.r7067/370442
+K 11
+sipXcallLib
+V 21
+dir va.3wc.r7074/6245
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.3wh.r7070/88477
+K 10
+sipXconfig
+V 22
+dir 2hf.3wk.r7088/1883
+K 19
+sipXmediaAdapterLib
+V 24
+dir 89s.3wa.r7067/390669
+K 12
+sipXmediaLib
+V 23
+dir mz.3wl.r7087/107371
+K 7
+sipXpbx
+V 23
+dir 5g6.3wm.r7087/49863
+K 9
+sipXphone
+V 22
+dir 6qk.1ia.r6366/8398
+K 11
+sipXportLib
+V 22
+dir 3.3wn.r7067/274319
+K 9
+sipXproxy
+V 23
+dir 1vt.3wo.r7070/23266
+K 13
+sipXpublisher
+V 23
+dir 20n.3wt.r7070/31959
+K 12
+sipXregistry
+V 23
+dir 1y5.3wu.r7070/80343
+K 11
+sipXtackLib
+V 22
+dir dk.3x3.r7070/94249
+K 8
+sipXvxml
+V 23
+dir 22d.3x5.r7087/31908
+END
+ENDREP
+id: 7q4.3wa.r7088/2969
+type: dir
+pred: 7q4.3wa.r7087/109948
+count: 1523
+text: 7088 2143 813 813 7439728d932ec2d5b375e4d0601a9257
+props: 7087 108463 1472 0 2eb323715f2d4d997c5d411e022e6b52
+cpath: /branches/solaris_port
+copyroot: 7064 /branches/solaris_port
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r6684/6307
+K 3
+3.4
+V 22
+dir 7q4.3ib.r7083/9839
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r6919/2247
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 21
+dir 9wi.0.r6974/28863
+K 21
+sipXtapi-media-update
+V 23
+dir 9wi.3ke.r7054/34018
+K 12
+solaris_port
+V 22
+dir 7q4.3wa.r7088/2969
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r7088/3938
+type: dir
+pred: 7pt.0.r7087/110922
+count: 737
+text: 7088 3226 699 699 51e97e20ab4d2fed03f8a574df964422
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r7088/3938
+K 4
+main
+V 21
+dir 7q4.0.r7086/18174
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r7088/4222
+type: dir
+pred: 0.0.r7087/111211
+count: 7088
+text: 7088 4094 115 115 c658d649276bd8e7f50799ba341f9824
+cpath: /
+copyroot: 0 /
+
+cwy._0.t7087-1 add false false /branches/solaris_port/sipXconfig/plugins/patton
+7087 /branches/solaris_port/sipXconfig/plugins/hitachi
+
+4222 4367

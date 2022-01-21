@@ -1,0 +1,48 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-11-28T15:35:47.957774Z
+K 7
+svn:log
+V 1691
+Merged revisions 7935-7953,7955,7957-8136 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/3.6/sipXconfig
+
+7938,8012,8047,8049,8128-8130
+  
+  Add ability to disable watchdog-process "process.d" XML files from being processed.
+  
+  Changed the watchdog schema to add an "enable" attribute to the top level "watchdog-process" element.
+   
+  This causes the file to be ignored if not enabled (enable="false").  
+  Thus it acts as if it doesn't exist in the process.d directory, and so 
+  doesn't ever get started, and better yet doesn't even show up as a service, 
+  running, stopped or otherwise.  It has an advantage over just deleting or 
+  renaming the file in that subsequent updates will not overwrite the file as 
+  it exists and has been modified.
+  
+  This simplifies the HA configuration as well, as the file only needs to be
+  changed in one location, not two.
+  
+  Fixes http://track.sipfoundry.org/browse/XPB-823
+  Fixes http://track.sipfoundry.org/browse/XPB-837
+  
+  --Woof!
+  
+  XCF-1377 hide SMTP server setting
+  
+  XCF-1371 - DND per line setting was not being used in polycom profile, but it was captured in settings descriptor file and web ui
+  
+  XCF-1381 Allow ConfigServer to stop and start from processmanager, not just restart
+  
+  XCF-1382 Allow codec preferences for Soudpoint IP 300s and 4000s to be configurable
+  
+  FIX BUILD : Unit test failed, still have to work out polycom 4000 G729 codec showing '1' preference when its actually 'do not use'.  Something to do with null values in lists
+  
+  XCF-1382 Polycom 4000 G729 codec now shows 'do not use'.  I had to order it on the top of the enumerated list of options even though it shouldnt matter
+
+END

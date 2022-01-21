@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-03-03T21:55:26.112539Z
+K 7
+svn:log
+V 562
+sipXezPhone:
+	1.  Changed the State Machine so that it is Observable, i.e. - objects that implement the IStateTransitions
+ 		interface can become observers of the State Machine.
+	2.  Made the DialEntry panel an observer of the State Machine.
+	3.  Made the sipXezPhone settings object an observer of the State Machine.
+	4.  Changed the dial entry text control to a combo box.
+	5.  Storing recently received and placed numbers in the combo box.
+	6.  Storing recently received and placed numbers in the settings object and flat file.
+	7.  Added Caller ID support.
+
+
+END

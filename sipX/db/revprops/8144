@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-29T14:40:48.400113Z
+K 7
+svn:log
+V 96
+Not checked in file removed from sipXmediaLib project to make it compile without video supoprt.
+
+END

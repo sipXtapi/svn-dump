@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-05T04:35:52.754880Z
+K 7
+svn:log
+V 84
+Second part of converting expected xml in polycom speeddial entries to expect CDATAs
+END

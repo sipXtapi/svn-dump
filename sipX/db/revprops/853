@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-03-21T23:00:54.348035Z
+K 7
+svn:log
+V 291
+Beginning to add TapiMgr to sipXtackLib.
+The TapiMgr singleton class allows
+ a callback funtion-pointer to be set, 
+ indicating the function that is to be called for
+ the firing of sipXtapi events.
+ This obviates the need for sipXcallLib and 
+ sipXtackLib to link-in the sipXtapi library.
+ 
+
+END

@@ -1,0 +1,44 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-05T20:16:51.716750Z
+K 7
+svn:log
+V 2091
+mergefrom pingtel-main 5201
+
+Insert missing braces around scope of temporary variable.
+
+mergefrom pingtel-main 5459
+
+Fixed the RNA for ring all scenario.
+http://track.pingtel.com/browse/ACD-64
+Not to subscribe the presence information if presenceServerUrl is ill-formed.
+There is a thread deadlock issue in LinePresenceMonitor component which definitely causes xmlrpc stop to respond in ACD server. Here is the attempt to fix the problem.
+http://track.pingtel.com/browse/ACD-56
+Output the agent sign-in and sign-out in the INFO level and do not send out unsubscribe message if mMonitorPresence is false.
+Fixed the typo of PRI_INFO.
+Fixed the issue of publishing the termination state on incoming lines.
+Also need to publish the line state if agent hangs up the call first.
+Accidentally broke the case of handling the overflow queue when the maximum queue time occurs.
+Added some debugging statements to help tracking the issue of ENG-406.
+http://paradise.pingtel.com:8080/browse/ENG-406
+Included the port number as part of entity. Otherwise, nobody will receive the notifications.
+Reverted back to version 5285. Handle variables for call object are still used in the call clean in ACDCallManager.
+Make maximum connections become a configurable parameter from ACDServer and pass it down to media subsystem.
+Added some debugging statements to help tracing the crash in ACD server.
+Set the default value for time out as 5 seconds.
+Accidentally broke a couple of things.
+http://paradise.pingtel.com:8080/browse/ENG-418
+http://paradise.pingtel.com:8080/browse/ENG-419
+Added the feature of transfer mode in ACD.
+Fixed the issue of delayed sign-in/sign-out from the presence server.
+http://paradise.pingtel.com:8080/browse/ENG-377
+Added some protections to what can be deleted during the runtime. However, there is more work need to be done to make full-bullet proof solution. Also, allow toset the maximum number of calls allowed in ACD from sipxacd.xml file.
+Make the presence server hang up the call after 3 seconds instead of 1 second. And also pass the maximum connections to media subsystem.
+
+END

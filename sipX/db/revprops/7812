@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-10-24T09:20:45.066618Z
+K 7
+svn:log
+V 240
+Merged revisions 7749 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7749 | bob | 2006-10-13 00:03:28 +0400 | 3 lines
+  
+  Merged sipXmediaAdapterLib from main (r7616) to the sipXtapi branch.
+........
+
+END

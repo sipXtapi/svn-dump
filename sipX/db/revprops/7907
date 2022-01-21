@@ -1,0 +1,29 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-11-01T01:39:18.676602Z
+K 7
+svn:log
+V 2069
+mergefrom user_dworley_redirectors2main 7771
+
+Next revision of interop configuration.
+
+------------------------------------------------------------------------
+r7771 | dworley | 2006-10-17 17:11:49 -0400 (Tue, 17 Oct 2006) | 2 lines
+Changed paths:
+   A /branches/user_dworley_redirectors/sipXpbx/doc/developer/interop.pingtel.com/sipx_confdir/httpd-sipxchange-common.conf.in.pre (from /branches/user_dworley_redirectors/sipXpbx/doc/developer/interop.pingtel.com/sipx_confdir/httpd-sipxchange-common.conf.in:7767)
+   A /branches/user_dworley_redirectors/sipXpbx/doc/developer/interop.pingtel.com/sipx_confdir/httpd.conf.pre (from /branches/user_dworley_redirectors/sipXpbx/doc/developer/interop.pingtel.com/sipx_confdir/httpd.conf:7767)
+   A /branches/user_dworley_redirectors/sipXpbx/doc/developer/interop.pingtel.com/sipx_confdir/mediaserver-config.in.pre (from /branches/user_dworley_redirectors/sipXpbx/doc/developer/interop.pingtel.com/sipx_confdir/mediaserver-config.in:7767)
+   A /branches/user_dworley_redirectors/sipXpbx/doc/developer/interop.pingtel.com/sipx_confdir/orbits.xml.pre (from /branches/user_dworley_redirectors/sipXpbx/doc/developer/interop.pingtel.com/sipx_confdir/orbits.xml:7767)
+
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXpbx/doc/developer/interop.pingtel.com/sipx_confdir/httpd-sipxchange-common.conf.in sipXpbx/doc/developer/interop.pingtel.com/sipx_confdir/httpd-sipxchange-common.conf.in.pre
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXpbx/doc/developer/interop.pingtel.com/sipx_confdir/httpd.conf sipXpbx/doc/developer/interop.pingtel.com/sipx_confdir/httpd.conf.pre
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXpbx/doc/developer/interop.pingtel.com/sipx_confdir/mediaserver-config.in sipXpbx/doc/developer/interop.pingtel.com/sipx_confdir/mediaserver-config.in.pre
+svn merge -r 7203:7876 https://scm.sipfoundry.org/rep/sipX/main/sipXpbx/doc/developer/interop.pingtel.com/sipx_confdir/orbits.xml sipXpbx/doc/developer/interop.pingtel.com/sipx_confdir/orbits.xml.pre
+
+END

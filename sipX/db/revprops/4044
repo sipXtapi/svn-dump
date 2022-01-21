@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-06-13T20:39:59.052997Z
+K 7
+svn:log
+V 355
+XCF-430 Two issues, a.) when both user name and pin token change, line was not getting updated. b.) change to pintoken actually sent passtoken to commserver but corrected itself on all subsequent communication to commserver.  Turns out db transaction wasn't commited yet and raw SQL code that circumvented EJB was not safe.  Now load pin tokens using EJBs
+END

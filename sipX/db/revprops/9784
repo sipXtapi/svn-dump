@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2007-07-03T01:58:41.186702Z
+K 7
+svn:log
+V 60
+-get local address from connection instead of mediaInterface
+END

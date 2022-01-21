@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-04-11T21:44:47.362368Z
+K 7
+svn:log
+V 79
+Let CallStateEventBuilder_DB create a temporary cseq placeholder for CSE events
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-04-15T18:35:29.073968Z
+K 7
+svn:log
+V 131
+[XPR-57] Fix the --with-commserverinc option to configure.
+  (patch from Timur Aydin)
+  http://track.sipfoundry.org/browse/XPR-57
+
+
+END

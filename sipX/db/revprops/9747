@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-25T23:49:52.819136Z
+K 7
+svn:log
+V 140
+Use SIPX_TRANSPORT_NULL instead of NULL to initialize variable of type SIPX_TRANSPORT in TransportTask::run() in TestExternalTransport.cpp.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-14T19:14:06.582508Z
+K 7
+svn:log
+V 48
+const'fy some parameters in UtlHashBagIterator.
+
+END

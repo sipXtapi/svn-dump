@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-09-04T04:42:00.642653Z
+K 7
+svn:log
+V 167
+Check if RTP output soceket is NULL immediately before write as it can be set to NULL outside media task.
+This sometimes caused a crash in when many lines are active.
+
+END

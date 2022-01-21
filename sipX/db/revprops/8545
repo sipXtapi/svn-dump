@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-15T21:17:49.726686Z
+K 7
+svn:log
+V 129
+Fixes for Linux build.
+
+* sipXsdpLib/configure.ac: sipXtackLib dependency removed.
+* sipXlib.m4: sipXtackLib require sipXsdpLib.
+
+END

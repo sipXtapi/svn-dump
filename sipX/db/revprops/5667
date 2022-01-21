@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-11-29T21:37:49.899832Z
+K 7
+svn:log
+V 456
+Next revision of the HA registrar design.
+Gives a lot more detail of the various processes.
+Start-up processing needs to be worked out in more detail.
+Also, need to figure out whether a registrar, when it comes up, needs
+to recover its own previous (and presumably lost) database from the
+other registrar.  If so, need a more elaborate data push/pull system.
+If not, some of the current machinery can be removed, espcially
+the base times stored in the DB.
+
+END

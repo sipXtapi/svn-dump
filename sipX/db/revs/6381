@@ -1,0 +1,1530 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 91p.36w.r6381/82
+type: file
+pred: 91p.2o9.r6259/106615
+count: 2
+text: 6132 2182 1252 5360 5f614f49dd0427866da578037eeb5880
+props: 6381 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /branches/3.2/sipXpbx/meta/watchdog.xsd.in
+copyroot: 6259 /main/sipXpbx/meta/watchdog.xsd.in
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 92s.36u.r6381/444
+type: file
+pred: 92s.2o7.r6259/107174
+count: 2
+text: 6207 2130 1439 6445 646b6b415e70de4c26fa14f914e9f0d3
+props: 6381 362 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /branches/3.2/sipXpbx/meta/processdefinitions.xsd.in
+copyroot: 6259 /main/sipXpbx/meta/processdefinitions.xsd.in
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+END
+ENDREP
+id: 90o.36v.r6381/790
+type: file
+pred: 90o.2o8.r6259/107492
+count: 3
+text: 6003 0 40 2387 7a3a5b52b435bce02fbc35d381cfa8b1
+props: 6381 747 30 0 4160c74de5f4e580dc15660c798ff9fc
+cpath: /branches/3.2/sipXpbx/meta/sync-sipx
+copyroot: 6259 /main/sipXpbx/meta/sync-sipx
+
+PLAIN
+K 11
+Makefile.am
+V 25
+file 8x0.1z3.r6259/106911
+K 25
+processdefinitions.xsd.in
+V 22
+file 92s.36u.r6381/444
+K 32
+sipx_main_fc2.configure-switches
+V 22
+file 6og.z5.r4454/3433
+K 38
+sipx_main_fc2_bldno.configure-switches
+V 22
+file 6ox.z4.r4521/1076
+K 38
+sipx_main_fc3_bldno.configure-switches
+V 22
+file 6oy.z4.r4521/1416
+K 39
+sipx_main_rhe3_bldno.configure-switches
+V 22
+file 6oz.z4.r4521/1757
+K 39
+sipxchange_main_rhe3.configure-switches
+V 26
+file 830.1z3.r4884/6035322
+K 15
+sipxpbx-3.0.tgz
+V 24
+file 8x1.1z3.r5851/46613
+K 9
+sync-sipx
+V 22
+file 90o.36v.r6381/790
+K 15
+watchdog.xsd.in
+V 21
+file 91p.36w.r6381/82
+END
+ENDREP
+id: 6of.36t.r6381/1681
+type: dir
+pred: 6of.1z3.r6259/108401
+count: 9
+text: 6381 1056 612 612 f4e8b29d85f2f48b4561eef0324b8e35
+props: 5851 47330 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /branches/3.2/sipXpbx/meta
+copyroot: 4389 /old/sipXpbx/main/meta
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4454/288397
+K 9
+ChangeLog
+V 21
+file 5g8.0.r4571/9011
+K 7
+INSTALL
+V 23
+file 5g9.0.r4454/289610
+K 7
+LICENSE
+V 21
+file 5ga.0.r4571/8791
+K 11
+Makefile.am
+V 24
+file 5gb.1i9.r5851/48130
+K 4
+NEWS
+V 23
+file 5gc.0.r4454/299658
+K 6
+README
+V 23
+file 5gd.0.r4454/288092
+K 4
+TODO
+V 23
+file 5ge.0.r4454/289304
+K 9
+acsite.m4
+V 21
+file 5gf.0.r4454/4092
+K 3
+bin
+V 24
+dir 5gg.1i9.r6259/112153
+K 12
+configure.ac
+V 23
+file 5gl.2q0.r6327/8832
+K 3
+doc
+V 22
+dir 5gm.1i9.r6108/6994
+K 3
+etc
+V 22
+dir 5gp.2q0.r6370/1152
+K 7
+include
+V 23
+dir 5h2.1i9.r5303/18118
+K 4
+meta
+V 22
+dir 6of.36t.r6381/1681
+K 14
+sipXconference
+V 23
+dir 86e.1i9.r5657/23243
+K 10
+sipXdialog
+V 23
+dir 7vj.1i9.r5657/20385
+K 8
+sipXpark
+V 23
+dir 6pl.1i9.r5657/18950
+K 12
+sipXpresence
+V 23
+dir 7w9.1i9.r5657/21733
+K 15
+sipxpbx.spec.in
+V 23
+file 6mo.2q0.r6327/8571
+K 3
+src
+V 22
+dir 5hb.1i9.r6264/5931
+END
+ENDREP
+id: 5g6.2q0.r6381/2829
+type: dir
+pred: 5g6.2q0.r6370/2290
+count: 526
+text: 6381 1936 880 880 b5b3d7856caccbbab03e48d038a4e030
+props: 6326 4062 926 0 b304748ae998e54de230c73905fbbd2c
+cpath: /branches/3.2/sipXpbx
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 8x9.36z.r6381/3152
+type: file
+pred: 8x9.2of.r6259/121556
+count: 8
+text: 6229 1461 746 3977 40fcf5ee28a85bbcfff8f256cfcd34ee
+props: 6381 3070 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /branches/3.2/sipXregistry/src/RegistrarSync.cpp
+copyroot: 6259 /main/sipXregistry/src/RegistrarSync.cpp
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 8xa.371.r6381/3530
+type: file
+pred: 8xa.2oh.r6269/20556
+count: 11
+text: 6269 368 135 6284 7212965c184407f761a7724d7cc64196
+props: 6381 3448 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /branches/3.2/sipXregistry/src/RegistrarTest.cpp
+copyroot: 6259 /main/sipXregistry/src/RegistrarTest.cpp
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 8xk.36x.r6381/3907
+type: file
+pred: 8xk.2od.r6259/122985
+count: 17
+text: 6247 0 107 10409 6c8757db798f3ddeb68c66a59a7d375f
+props: 6381 3825 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /branches/3.2/sipXregistry/src/RegistrarInitialSync.cpp
+copyroot: 6259 /main/sipXregistry/src/RegistrarInitialSync.cpp
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 8xh.375.r6381/4298
+type: file
+pred: 8xh.2om.r6259/124980
+count: 6
+text: 5991 11308 386 3283 7b318812b04140d4ba8015c5c65fb648
+props: 6381 4216 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /branches/3.2/sipXregistry/src/test/RegistrarPeerTest.cpp
+copyroot: 6259 /main/sipXregistry/src/test/RegistrarPeerTest.cpp
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 8xg.374.r6381/4718
+type: file
+pred: 8xg.2ol.r6259/125638
+count: 6
+text: 5936 0 430 1017 9a93f3066ff33fedbee7e3081aeb0c4f
+props: 6381 4613 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /branches/3.2/sipXregistry/src/test/Makefile.am
+copyroot: 6259 /main/sipXregistry/src/test/Makefile.am
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 8xg.374.r6381/4718
+K 21
+RegistrarPeerTest.cpp
+V 23
+file 8xh.375.r6381/4298
+K 26
+SipRegistrarServerTest.cpp
+V 25
+file 8z0.2on.r6259/125305
+K 9
+regdbdata
+V 24
+dir 8zs.2oo.r6259/126732
+END
+ENDREP
+id: 8xf.373.r6381/5235
+type: dir
+pred: 8xf.2ok.r6259/127256
+count: 10
+text: 6381 5009 213 213 c87064911dc812e0abad90bea859ccde
+props: 6259 127205 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /branches/3.2/sipXregistry/src/test
+copyroot: 6259 /main/sipXregistry/src/test
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 8x7.370.r6381/5588
+type: file
+pred: 8x7.2og.r6259/127811
+count: 5
+text: 6043 565 96 1362 f1f293e455174c98c4a829139c8d70c9
+props: 6381 5506 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /branches/3.2/sipXregistry/src/RegistrarSync.h
+copyroot: 6259 /main/sipXregistry/src/RegistrarSync.h
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 8x8.372.r6381/5960
+type: file
+pred: 8x8.2oi.r6269/21651
+count: 7
+text: 6269 530 56 2910 9acb2b3ee642d396e352feab692d6e10
+props: 6381 5878 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /branches/3.2/sipXregistry/src/RegistrarTest.h
+copyroot: 6259 /main/sipXregistry/src/RegistrarTest.h
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 8x6.36y.r6381/6331
+type: file
+pred: 8x6.2oe.r6259/129224
+count: 8
+text: 6072 889 44 2393 2d2b872700abda9b1bee1b17bc8159c4
+props: 6381 6249 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /branches/3.2/sipXregistry/src/RegistrarInitialSync.h
+copyroot: 6259 /main/sipXregistry/src/RegistrarInitialSync.h
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1yr.1ie.r6269/22737
+K 21
+RedirectResumeMsg.cpp
+V 23
+file 208.20g.r4909/4945
+K 19
+RedirectResumeMsg.h
+V 23
+file 209.20h.r4909/3820
+K 19
+RedirectSuspend.cpp
+V 23
+file 20a.dc.r2521/29881
+K 17
+RedirectSuspend.h
+V 23
+file 20b.dd.r2521/30540
+K 24
+RegistrarInitialSync.cpp
+V 23
+file 8xk.36x.r6381/3907
+K 22
+RegistrarInitialSync.h
+V 23
+file 8x6.36y.r6381/6331
+K 17
+RegistrarPeer.cpp
+V 25
+file 8u7.1ie.r6259/128956
+K 15
+RegistrarPeer.h
+V 25
+file 8u8.1ie.r6259/123573
+K 20
+RegistrarPersist.cpp
+V 23
+file 93b.1ie.r6278/9168
+K 18
+RegistrarPersist.h
+V 23
+file 93c.1ie.r6275/2594
+K 17
+RegistrarSync.cpp
+V 23
+file 8x9.36z.r6381/3152
+K 15
+RegistrarSync.h
+V 23
+file 8x7.370.r6381/5588
+K 17
+RegistrarTest.cpp
+V 23
+file 8xa.371.r6381/3530
+K 15
+RegistrarTest.h
+V 23
+file 8x8.372.r6381/5960
+K 21
+SipRedirectServer.cpp
+V 25
+file 1yw.1ie.r6259/122437
+K 19
+SipRedirectServer.h
+V 25
+file 1yx.1ie.r6259/128413
+K 17
+SipRedirector.cpp
+V 23
+file 1zu.2k6.r6065/6122
+K 15
+SipRedirector.h
+V 24
+file 1zv.2aj.r5552/10439
+K 24
+SipRedirectorAliasDB.cpp
+V 23
+file 1zy.dg.r2521/27821
+K 22
+SipRedirectorAliasDB.h
+V 23
+file 1zz.dh.r2521/29469
+K 21
+SipRedirectorHunt.cpp
+V 21
+file 1ys.2no.r6254/53
+K 19
+SipRedirectorHunt.h
+V 23
+file 1yt.dj.r2521/33085
+K 20
+SipRedirectorMPT.cpp
+V 25
+file 8hs.1ie.r6259/127537
+K 18
+SipRedirectorMPT.h
+V 25
+file 8ht.1ie.r6259/122166
+K 24
+SipRedirectorMapping.cpp
+V 25
+file 1zw.2dt.r6259/124673
+K 22
+SipRedirectorMapping.h
+V 25
+file 1zx.2oj.r6259/121252
+K 23
+SipRedirectorPickUp.cpp
+V 25
+file 20f.1zk.r6259/124362
+K 21
+SipRedirectorPickUp.h
+V 24
+file 20g.1y4.r5464/23859
+K 22
+SipRedirectorRegDB.cpp
+V 25
+file 1zs.28t.r5457/180056
+K 20
+SipRedirectorRegDB.h
+V 23
+file 1zt.dp.r2521/35613
+K 26
+SipRedirectorSubscribe.cpp
+V 23
+file 204.dq.r2521/32664
+K 24
+SipRedirectorSubscribe.h
+V 23
+file 205.dr.r2521/35195
+K 16
+SipRegistrar.cpp
+V 24
+file 1yy.1ie.r6269/21121
+K 14
+SipRegistrar.h
+V 24
+file 1yz.1ie.r6269/22472
+K 22
+SipRegistrarServer.cpp
+V 24
+file 1z0.1ie.r6269/20846
+K 20
+SipRegistrarServer.h
+V 24
+file 1z1.1ie.r6269/21936
+K 11
+SyncRpc.cpp
+V 24
+file 8u9.1ie.r6269/22208
+K 9
+SyncRpc.h
+V 24
+file 8ua.1ie.r6269/21389
+K 8
+main.cpp
+V 25
+file 1z2.1ie.r6259/123839
+K 4
+test
+V 22
+dir 8xf.373.r6381/5235
+END
+ENDREP
+id: 1yq.2q5.r6381/8861
+type: dir
+pred: 1yq.1ie.r6278/11672
+count: 75
+text: 6381 6635 2213 2213 f99585efa8d533dbf1182f462c68d767
+props: 2324 278 72 0 6f5a8267934fd4c2bfd6e818e833f306
+cpath: /branches/3.2/sipXregistry/src
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 21
+file 1y6.0.r2414/7414
+K 9
+ChangeLog
+V 20
+file 1y7.0.r2470/663
+K 7
+INSTALL
+V 22
+file 1y8.0.r2414/11973
+K 7
+LICENSE
+V 20
+file 1y9.0.r2470/440
+K 11
+Makefile.am
+V 24
+file 1ya.1ie.r5450/34197
+K 4
+NEWS
+V 22
+file 1yb.0.r2414/15680
+K 6
+README
+V 21
+file 1yc.0.r2414/7102
+K 4
+TODO
+V 22
+file 1yd.0.r2414/11664
+K 9
+acsite.m4
+V 21
+file 1ye.0.r2414/1353
+K 3
+bin
+V 24
+dir 1yf.1ie.r6259/137411
+K 12
+configure.ac
+V 24
+file 1yk.2q5.r6327/18692
+K 3
+doc
+V 24
+dir 1z6.1ie.r6259/136771
+K 3
+etc
+V 24
+dir 1yl.1ie.r6259/138253
+K 7
+include
+V 24
+dir 7v9.1ie.r5457/178326
+K 3
+lib
+V 22
+dir 87u.1ie.r6007/8556
+K 4
+meta
+V 24
+dir 1zk.1ie.r6259/121005
+K 16
+sipXregistry.dsp
+V 23
+file 1z4.1ie.r4909/7233
+K 20
+sipxregistry.spec.in
+V 24
+file 1ze.2q5.r6327/18959
+K 3
+src
+V 22
+dir 1yq.2q5.r6381/8861
+END
+ENDREP
+id: 1y5.2q5.r6381/9918
+type: dir
+pred: 1y5.2q5.r6327/20036
+count: 210
+text: 6381 9116 789 789 2fa65428e17247efa3febba9a6aba340
+props: 6326 11192 996 0 2222e67394b80fa974a599a0ca28b8c2
+cpath: /branches/3.2/sipXregistry
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 8z2.36i.r6381/10253
+type: file
+pred: 8z2.2ns.r6259/142061
+count: 2
+text: 5927 4900 1819 4415 384699f5056da96f2e841bdb26444ae5
+props: 6381 10171 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /branches/3.2/sipXcommserverLib/include/testlib/FileTestContext.h
+copyroot: 6259 /main/sipXcommserverLib/include/testlib/FileTestContext.h
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 8z3.36j.r6381/10668
+type: file
+pred: 8z3.2nt.r6259/142403
+count: 3
+text: 5935 0 22 1903 b83a404bab276aef8b0faa7e206b8b48
+props: 6381 10586 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /branches/3.2/sipXcommserverLib/include/testlib/RegistrationDbTestContext.h
+copyroot: 6259 /main/sipXcommserverLib/include/testlib/RegistrationDbTestContext.h
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 8z4.36k.r6381/11098
+type: file
+pred: 8z4.2nu.r6259/142758
+count: 2
+text: 5927 7692 874 1587 b99423142ec52d5b8dab537d872df5f0
+props: 6381 11016 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /branches/3.2/sipXcommserverLib/include/testlib/SipDbTestContext.h
+copyroot: 6259 /main/sipXcommserverLib/include/testlib/SipDbTestContext.h
+
+PLAIN
+K 17
+FileTestContext.h
+V 24
+file 8z2.36i.r6381/10253
+K 27
+RegistrationDbTestContext.h
+V 24
+file 8z3.36j.r6381/10668
+K 18
+SipDbTestContext.h
+V 24
+file 8z4.36k.r6381/11098
+END
+ENDREP
+id: 8z1.36h.r6381/11619
+type: dir
+pred: 8z1.2nr.r6259/143291
+count: 3
+text: 6381 11432 174 174 04ce8ea2aeef117d559190f9e9b84dd3
+cpath: /branches/3.2/sipXcommserverLib/include/testlib
+copyroot: 6259 /main/sipXcommserverLib/include/testlib
+
+PLAIN
+K 11
+Makefile.am
+V 25
+file 1rd.1i6.r6259/143538
+K 9
+configrpc
+V 23
+dir 8ja.1i6.r5640/23611
+K 9
+digitmaps
+V 19
+dir 1re.0.r1967/712
+K 6
+fastdb
+V 25
+dir 1rg.1i6.r4884/6026448
+K 5
+sipdb
+V 24
+dir 1sf.1i6.r6259/141844
+K 7
+testlib
+V 23
+dir 8z1.36h.r6381/11619
+END
+ENDREP
+id: 1rc.2px.r6381/12128
+type: dir
+pred: 1rc.1i6.r6259/144085
+count: 26
+text: 6381 11858 257 257 8e912c39891aae96fb623f585c339420
+props: 1837 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /branches/3.2/sipXcommserverLib/include
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 8z5.36l.r6381/12478
+type: file
+pred: 8z5.2nw.r6259/145680
+count: 4
+text: 5997 1093 2501 21277 ef23dd2b9d6d03707aa8f919427c3f51
+props: 6381 12396 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /branches/3.2/sipXcommserverLib/src/test/RegistryDbTest.cpp
+copyroot: 6259 /main/sipXcommserverLib/src/test/RegistryDbTest.cpp
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 8z9.36p.r6381/12882
+type: file
+pred: 8z9.2o3.r6259/146296
+count: 3
+text: 5953 566 29 4129 048260b2c09540a32521e925ad80576f
+props: 6381 12800 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /branches/3.2/sipXcommserverLib/src/test/testlib/FileTestContext.cpp
+copyroot: 6259 /main/sipXcommserverLib/src/test/testlib/FileTestContext.cpp
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 8zb.36r.r6381/13300
+type: file
+pred: 8zb.2o5.r6259/146641
+count: 2
+text: 5927 13695 1488 3271 dda69ea163adbed9f22d096452c3dfba
+props: 6381 13218 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /branches/3.2/sipXcommserverLib/src/test/testlib/RegistrationDbTestContext.cpp
+copyroot: 6259 /main/sipXcommserverLib/src/test/testlib/RegistrationDbTestContext.cpp
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 8zc.36s.r6381/13742
+type: file
+pred: 8zc.2o6.r6259/147010
+count: 2
+text: 5927 15196 728 1392 79e870707f4f9d93ece38d5b0b310e47
+props: 6381 13660 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /branches/3.2/sipXcommserverLib/src/test/testlib/SipDbTestContext.cpp
+copyroot: 6259 /main/sipXcommserverLib/src/test/testlib/SipDbTestContext.cpp
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 8za.36q.r6381/14188
+type: file
+pred: 8za.2o4.r6259/147360
+count: 2
+text: 5927 13417 265 359 fcbd2f829c8f99f2bd3ffa948d8b79b5
+props: 6381 14083 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /branches/3.2/sipXcommserverLib/src/test/testlib/Makefile.am
+copyroot: 6259 /main/sipXcommserverLib/src/test/testlib/Makefile.am
+
+PLAIN
+K 19
+FileTestContext.cpp
+V 24
+file 8z9.36p.r6381/12882
+K 11
+Makefile.am
+V 24
+file 8za.36q.r6381/14188
+K 29
+RegistrationDbTestContext.cpp
+V 24
+file 8zb.36r.r6381/13300
+K 20
+SipDbTestContext.cpp
+V 24
+file 8zc.36s.r6381/13742
+END
+ENDREP
+id: 8z8.36o.r6381/14750
+type: dir
+pred: 8z8.2o2.r6259/147986
+count: 3
+text: 6381 14510 227 227 a116627df8a2990d9371385b76593a26
+props: 6259 147935 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /branches/3.2/sipXcommserverLib/src/test/testlib
+copyroot: 6259 /main/sipXcommserverLib/src/test/testlib
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 8z7.36n.r6381/15127
+type: file
+pred: 8z7.2nz.r6259/149164
+count: 3
+text: 5972 2686 413 2619 e3dccf99cd1db83ad33b87f63272fedf
+props: 6381 15048 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /branches/3.2/sipXcommserverLib/src/test/regdbdata/getMaxUpdate.xml
+copyroot: 6259 /main/sipXcommserverLib/src/test/regdbdata/getMaxUpdate.xml
+
+PLAIN
+K 19
+cleanAndPersist.xml
+V 25
+file 90h.2ny.r6259/149507
+K 16
+getMaxUpdate.xml
+V 24
+file 8z7.36n.r6381/15127
+K 24
+getUnexpiredContacts.xml
+V 25
+file 90i.2o0.r6259/148861
+K 18
+updateBindings.xml
+V 25
+file 90j.2o1.r6259/148571
+END
+ENDREP
+id: 8z6.36m.r6381/15704
+type: dir
+pred: 8z6.2nx.r6259/150041
+count: 3
+text: 6381 15463 228 228 7a9b31455cd31ee569f90488b6f64bc4
+cpath: /branches/3.2/sipXcommserverLib/src/test/regdbdata
+copyroot: 6259 /main/sipXcommserverLib/src/test/regdbdata
+
+PLAIN
+K 11
+Makefile.am
+V 25
+file 1ui.1i6.r6259/148293
+K 18
+RegistryDbTest.cpp
+V 24
+file 8z5.36l.r6381/12478
+K 20
+ResultSetRpcTest.cpp
+V 25
+file 8pt.1i6.r6259/146011
+K 18
+UrlMappingTest.cpp
+V 25
+file 1uj.1i6.r6259/145393
+K 7
+mapdata
+V 24
+dir 1uk.1i6.r4984/286496
+K 9
+regdbdata
+V 23
+dir 8z6.36m.r6381/15704
+K 7
+testlib
+V 23
+dir 8z8.36o.r6381/14750
+END
+ENDREP
+id: 1uh.2px.r6381/16306
+type: dir
+pred: 1uh.1i6.r6259/150654
+count: 26
+text: 6381 15949 344 344 a1b35638863ef5b940ad769acd580db0
+props: 5457 193544 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /branches/3.2/sipXcommserverLib/src/test
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 11
+Makefile.am
+V 25
+file 1t2.1i6.r6259/153006
+K 9
+configrpc
+V 24
+dir 8jc.1i6.r6259/153720
+K 9
+digitmaps
+V 22
+dir 1t3.1i6.r4979/3307
+K 6
+fastdb
+V 22
+dir 1t5.1i6.r4915/1406
+K 5
+sipdb
+V 23
+dir 1to.1i6.r6278/13935
+K 9
+sipdbtest
+V 22
+dir 1u1.1i6.r5822/1743
+K 4
+test
+V 23
+dir 1uh.2px.r6381/16306
+K 8
+xsdvalid
+V 24
+dir 1vi.1i6.r6259/154329
+END
+ENDREP
+id: 1t1.2px.r6381/16932
+type: dir
+pred: 1t1.1i6.r6278/14498
+count: 85
+text: 6381 16580 339 339 09c0650b30c92c82f4ece4cc69bc2ae8
+props: 1837 1172 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /branches/3.2/sipXcommserverLib/src
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 6
+sf:tab
+V 3
+yes
+K 14
+svn:executable
+V 1
+*
+END
+ENDREP
+id: 90u.36g.r6381/17260
+type: file
+pred: 90u.2np.r6259/155477
+count: 4
+text: 6128 0 546 4110 68c03eae6589751740a7f5ee3e744fdf
+props: 6381 17198 49 0 cc435dbea71a521be1346064520d6d66
+cpath: /branches/3.2/sipXcommserverLib/bin/sipx-dns
+copyroot: 6259 /main/sipXcommserverLib/bin/sipx-dns
+
+PLAIN
+K 11
+Makefile.am
+V 25
+file 1qz.1i6.r6259/155769
+K 8
+configpp
+V 24
+file 1r0.1i6.r4850/11352
+K 13
+configrpc.cpp
+V 25
+file 8mi.1i6.r6259/156042
+K 16
+configrpcsrv.cpp
+V 24
+file 92z.1i6.r6249/17744
+K 12
+get_def_addr
+V 24
+file 1r1.1i6.r4850/11721
+K 11
+pkg-upgrade
+V 24
+file 90r.1i6.r6038/12552
+K 8
+sipx-dns
+V 24
+file 90u.36g.r6381/17260
+K 20
+sipx-expires-display
+V 22
+file 1vd.0.r1967/54440
+K 20
+sipx-validate-xml.in
+V 19
+file 1ve.0.r1983/63
+K 8
+ssl-cert
+V 23
+dir 1v6.1i6.r5865/11422
+END
+ENDREP
+id: 1qy.2px.r6381/18042
+type: dir
+pred: 1qy.1i6.r6259/156814
+count: 59
+text: 6381 17547 482 482 78affef1d826b9ade966a49b0528612a
+props: 1972 2087 90 0 717adb1a33f28af3f24597fe9e5960ec
+cpath: /branches/3.2/sipXcommserverLib/bin
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1qp.0.r1967/49607
+K 9
+ChangeLog
+V 20
+file 1qq.0.r1984/410
+K 7
+INSTALL
+V 21
+file 1qr.0.r2058/2054
+K 7
+LICENSE
+V 19
+file 1qs.0.r1967/82
+K 11
+Makefile.am
+V 24
+file 1qt.1i6.r5303/29278
+K 4
+NEWS
+V 22
+file 1qu.0.r1967/60154
+K 6
+README
+V 22
+file 1qv.0.r1967/49287
+K 4
+TODO
+V 22
+file 1qw.0.r1967/53785
+K 9
+acsite.m4
+V 22
+file 1qx.0.r1967/24543
+K 3
+bin
+V 23
+dir 1qy.2px.r6381/18042
+K 12
+configure.ac
+V 24
+file 1r5.2px.r6327/20291
+K 3
+doc
+V 22
+dir 1uv.1i6.r5865/9724
+K 3
+etc
+V 24
+dir 1r6.1i6.r6259/157462
+K 7
+include
+V 23
+dir 1rc.2px.r6381/12128
+K 4
+meta
+V 24
+dir 1v3.1i6.r6259/145136
+K 21
+sipXcommserverLib.dsp
+V 20
+file 1us.0.r2046/732
+K 13
+sipdbtest.dsp
+V 20
+file 1ut.0.r2046/491
+K 25
+sipxcommserverlib.spec.in
+V 24
+file 1v2.2px.r6327/20568
+K 3
+src
+V 23
+dir 1t1.2px.r6381/16932
+END
+ENDREP
+id: 1qo.2px.r6381/19125
+type: dir
+pred: 1qo.2px.r6327/21676
+count: 241
+text: 6381 18309 803 803 bac6150ef995754c443f6c04f4afd50b
+props: 6326 12966 875 0 20b75a6f0d1a704566ec5693eb2e3ced
+cpath: /branches/3.2/sipXcommserverLib
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 7
+bbridge
+V 22
+dir 8dl.2pk.r6326/5521
+K 5
+build
+V 23
+file 7ve.0.r6259/115402
+K 6
+config
+V 21
+dir 91.1i4.r6284/1507
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 14
+resiprocateLib
+V 22
+dir 8g8.2pk.r6326/8245
+K 11
+sipXcallLib
+V 22
+dir va.2pw.r6327/13431
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.2px.r6381/19125
+K 10
+sipXconfig
+V 22
+dir 2hf.2py.r6354/3322
+K 19
+sipXmediaAdapterLib
+V 23
+dir 89s.2pk.r6327/18436
+K 12
+sipXmediaLib
+V 22
+dir mz.2pz.r6327/17025
+K 7
+sipXpbx
+V 22
+dir 5g6.2q0.r6381/2829
+K 9
+sipXphone
+V 23
+dir 6qk.2q1.r6326/12719
+K 11
+sipXportLib
+V 20
+dir 3.2q2.r6327/5287
+K 9
+sipXproxy
+V 22
+dir 1vt.2q3.r6327/6821
+K 13
+sipXpublisher
+V 22
+dir 20n.2q4.r6380/2325
+K 12
+sipXregistry
+V 22
+dir 1y5.2q5.r6381/9918
+K 11
+sipXtackLib
+V 22
+dir dk.2q6.r6327/23894
+K 8
+sipXvxml
+V 22
+dir 22d.2q7.r6327/8328
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 10
+build.err
+
+K 20
+svnmerge-amazon-head
+V 65
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/3.1_amazon
+K 17
+svnmerge-cdr-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/cdr
+K 17
+svnmerge-cdr-revs
+V 6
+1-6295
+K 25
+svnmerge-dworley-3.1-head
+V 66
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/dworley-3.1
+K 30
+svnmerge-main2registry_ha-head
+V 40
+https://scm.sipfoundry.org/rep/sipX/main
+K 25
+svnmerge-mirror-main-head
+V 49
+https://paradise.pingtel.com/rep/sipX/mirror/main
+K 25
+svnmerge-mirror-main-revs
+V 456
+1-3404,3415,3440-3441,3444,3449,3454,3466,3508,3519,3523,3528,3546,3550,3554,3588,3594,3601-3603,3608-3612,3615,3619,3623,3666,3670,3672,3674-3675,3677,3683,3692-3693,3703-3706,3720-3721,3725,3739-3740,3745,3754,3758,3807,3837-3838,3892-3894,3897-3898,3915,3923,3926-3928,3934-3935,3955-3962,4012,4049,4054,4064-4065,4085,4097,4100,4139,4141,4150-4153,4156,4172,4175,4195-4198,4200-4201,4215,4230,4262-4268,4275-4276,4278,4280,4283,4285,4289,4296,4302-4305
+K 20
+svnmerge-pax737-head
+V 61
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/pax737
+K 25
+svnmerge-pingtel-3.0-head
+V 58
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/3.0
+K 25
+svnmerge-pingtel-3.1-head
+V 50
+https://paradise.pingtel.com/rep/sipX/pingtel/main
+K 25
+svnmerge-pingtel-3.1-revs
+V 1006
+1-3097,3106-3124,3126,3130-3159,3161-3195,3197-3250,3253-3323,3325-3329,3333-3347,3349-3352,3355-3366,3370,3380-3383,3386,3401,3403-3404,3413,3415,3419,3425,3428,3432-3433,3440-3441,3443-3444,3446,3449,3454,3466,3506-3529,3536,3546,3548-3550,3554-3560,3564,3573-3576,3580-3588,3593-3594,3596-3603,3608-3620,3623,3632,3666-3677,3683,3689,3692-3693,3695-3696,3703-3706,3712-3722,3725,3727,3732,3734-3741,3745,3750-3751,3754,3758,3761-3762,3771,3778,3803-3804,3807,3829-3839,3846-3847,3860-3874,3880-3882,3891-3899,3915-3920,3923-3928,3934-3935,3955-3962,3967,4008-4013,4026-4029,4039-4054,4063-4065,4085-4100,4118-4121,4139-4141,4150-4153,4156-4162,4169-4190,4195-4198,4200-4201,4215,4218,4230,4262-4280,4283-4286,4289,4296,4302-4305,4373,4406,4416-4417,4444,4446-4447,4466,4470,4482,4489,4495-4496,4502-4504,4506-4507,4515,4518-4520,4558,4576,4612,4623,4659-4668,4671-4673,4679-4680,4682-4685,4754,4774-4776,4856,4903,5136,5202,5212,5215,5240,5244,5275,5315-5330,5334,5355,5361-5362,5397,5442-5445,5447-5453
+K 25
+svnmerge-pingtel-3.2-head
+V 58
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/3.2
+K 25
+svnmerge-pingtel-3.2-revs
+V 6
+1-5598
+K 25
+svnmerge-pingtel-3.3-head
+V 50
+https://paradise.pingtel.com/rep/sipX/pingtel/main
+K 25
+svnmerge-pingtel-cml-head
+V 58
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/cml
+K 25
+svnmerge-registry_ha-head
+V 56
+https://scm.sipfoundry.org/rep/sipX/branches/registry_ha
+K 25
+svnmerge-registry_ha-revs
+V 6
+1-6251
+K 22
+svnmerge-sipx-3.0-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.0
+K 22
+svnmerge-sipx-3.0-revs
+V 51
+1-5315,5348,5357,5382,5417,5451,5474-5478,5508,5621
+K 22
+svnmerge-sipx-3.1-head
+V 40
+https://scm.sipfoundry.org/rep/sipX/main
+K 22
+svnmerge-sipx-3.2-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.2
+K 23
+svnmerge-sipx-main-head
+V 40
+https://scm.sipfoundry.org/rep/sipX/main
+K 23
+svnmerge-sipx-main-revs
+V 11
+1-6321,6379
+K 30
+svnmerge-sipx-replication-head
+V 67
+https://scm.sipfoundry.org/rep/sipX/branches/sipXconfig/replication
+K 30
+svnmerge-sipx-replication-revs
+V 6
+1-5723
+K 22
+svnmerge-sipxtapi-head
+V 63
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/sipxtapi
+END
+ENDREP
+id: 7q4.2pk.r6381/23698
+type: dir
+pred: 7q4.2pk.r6380/3395
+count: 1094
+text: 6381 19390 802 802 ca287db6b62a5c0a7b544c353060c980
+props: 6381 20205 3480 0 60af4b8b660e9b0a8563680c953dd89d
+cpath: /branches/3.2
+copyroot: 6321 /branches/3.2
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6300/5377
+K 3
+3.2
+V 23
+dir 7q4.2pk.r6381/23698
+K 3
+cdr
+V 23
+dir 7q4.2oy.r6378/11189
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 7
+restful
+V 21
+dir 7q0.0.r4813/15683
+K 10
+sipXconfig
+V 22
+dir 8q1.0.r6325/197137
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r6381/24507
+type: dir
+pred: 7pt.0.r6380/4197
+count: 459
+text: 6381 23936 558 558 15bca7c0cd200dab8d10f875b947fcaa
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r6381/24507
+K 4
+main
+V 21
+dir 7q4.0.r6379/25991
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6381/24792
+type: dir
+pred: 0.0.r6380/4480
+count: 6381
+text: 6381 24663 116 116 3284b9d4e92bc3f711964765183f286f
+cpath: /
+copyroot: 0 /
+
+90o._f.t6380-1 modify false true /branches/3.2/sipXpbx/meta/sync-sipx
+
+8zc._c.t6380-1 modify false true /branches/3.2/sipXcommserverLib/src/test/testlib/SipDbTestContext.cpp
+
+8z2._2.t6380-1 modify false true /branches/3.2/sipXcommserverLib/include/testlib/FileTestContext.h
+
+8z3._3.t6380-1 modify false true /branches/3.2/sipXcommserverLib/include/testlib/RegistrationDbTestContext.h
+
+8xh._p.t6380-1 modify false true /branches/3.2/sipXregistry/src/test/RegistrarPeerTest.cpp
+
+8z5._5.t6380-1 modify false true /branches/3.2/sipXcommserverLib/src/test/RegistryDbTest.cpp
+
+8x9._j.t6380-1 modify false true /branches/3.2/sipXregistry/src/RegistrarSync.cpp
+
+91p._g.t6380-1 modify false true /branches/3.2/sipXpbx/meta/watchdog.xsd.in
+
+8xa._l.t6380-1 modify false true /branches/3.2/sipXregistry/src/RegistrarTest.cpp
+
+8z7._7.t6380-1 modify false true /branches/3.2/sipXcommserverLib/src/test/regdbdata/getMaxUpdate.xml
+
+8x7._k.t6380-1 modify false true /branches/3.2/sipXregistry/src/RegistrarSync.h
+
+90u._0.t6380-1 modify false true /branches/3.2/sipXcommserverLib/bin/sipx-dns
+
+8x8._m.t6380-1 modify false true /branches/3.2/sipXregistry/src/RegistrarTest.h
+
+8xg._o.t6380-1 modify false true /branches/3.2/sipXregistry/src/test/Makefile.am
+
+8xk._h.t6380-1 modify false true /branches/3.2/sipXregistry/src/RegistrarInitialSync.cpp
+
+8z9._9.t6380-1 modify false true /branches/3.2/sipXcommserverLib/src/test/testlib/FileTestContext.cpp
+
+92s._e.t6380-1 modify false true /branches/3.2/sipXpbx/meta/processdefinitions.xsd.in
+
+8zb._b.t6380-1 modify false true /branches/3.2/sipXcommserverLib/src/test/testlib/RegistrationDbTestContext.cpp
+
+7q4.2pk.t6380-1 modify false true /branches/3.2
+
+8x6._i.t6380-1 modify false true /branches/3.2/sipXregistry/src/RegistrarInitialSync.h
+
+8za._a.t6380-1 modify false true /branches/3.2/sipXcommserverLib/src/test/testlib/Makefile.am
+
+8z4._4.t6380-1 modify false true /branches/3.2/sipXcommserverLib/include/testlib/SipDbTestContext.h
+
+
+24792 24937

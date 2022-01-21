@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-30T23:56:15.124358Z
+K 7
+svn:log
+V 202
+Linux build update: fix case when you have speex installed in your system and want to use contib one.
+This fix do not allow libtool to use system-wide libspeex library, and force it to use contrib one.
+
+END

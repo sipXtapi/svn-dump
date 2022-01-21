@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-09-12T17:45:18.529088Z
+K 7
+svn:log
+V 576
+Change MprEncode::handleSelectCodecs to take SdpCodec** instead of message, so it can be called from MpRtpOutputAudioConnection within media task, instead of delaying even more by queuing the message.
+
+Change MpRtpOutputAudioConnection so when RTP send is started, codecs are updated synchronously in MprEncode instead of asynchronous.
+
+The problem of codecs being enabled asynchronously in MprEncode was shown by starting RTP, and imediately sending tones.  Tones were not being sent from MprEncode::handleStartTone, because codecs were not set up yet.
+This fixes that issue.
+END

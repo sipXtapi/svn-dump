@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-01-20T18:04:44.517541Z
+K 7
+svn:log
+V 207
+Do not set bandwidth constraint for audio stream
+  Tandberg does not send video if SDP audio stream section contains b=AS:64
+  Seems it considers this to be a global bandwidth contraint, not stream specific
+
+END

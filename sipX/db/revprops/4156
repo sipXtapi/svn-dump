@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-09T19:42:34.105335Z
+K 7
+svn:log
+V 91
+Remove useless SetEnv directives, which set environment variables to their
+default values.
+
+END

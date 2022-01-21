@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-11-10T15:56:33.833231Z
+K 7
+svn:log
+V 95
+Don't use Java 1.5-only IllegalArgumentException constructor, sipXconfig must be 1.4-compatible
+END

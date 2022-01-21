@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-01-24T21:53:02.924683Z
+K 7
+svn:log
+V 274
+Added boolean parameter to OsFileSystem::createDir to force creation of 
+non-existing parent directories. Added unit test for new functionality.
+Reverted work-around for failing sipXcommserverLib unit test and modified
+test to take advantage of creating parent directories.
+
+END

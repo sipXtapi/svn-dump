@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-19T20:20:50.960695Z
+K 7
+svn:log
+V 77
+No meta/doc include directory, no includes, so remove them from sipXsdpLib.
+
+
+END

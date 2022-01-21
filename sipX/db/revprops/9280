@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-04-07T03:35:00.227944Z
+K 7
+svn:log
+V 130
+Enabled use of MpResourceTopology in MpTopologyGraph and 
+CpTopologyGraphFactoryImpl for the initial set of flowgraph resources.
+
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2016-11-04T04:05:36.192719Z
+K 7
+svn:log
+V 216
+Add message to reg. list before sending the unregister to prevent race 
+condition where SIP response to unREGISTER is processed before the
+SipRefreshMgr::sendRegister method returns and message is added to the list.
+
+END

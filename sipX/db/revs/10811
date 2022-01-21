@@ -1,0 +1,53 @@
+id: 7q4.7n2.r10811/0
+type: dir
+pred: 7q4.0.r9837/8232
+count: 2728
+text: 9837 7220 999 999 ae9ee8288a6b4ba2d4a1f021fa3c2695
+props: 9352 182476 2876 0 42ff73af28f7fa194262d114ed97b28e
+cpath: /sipXecs.old/main
+copyfrom: 10810 /main
+
+PLAIN
+K 4
+main
+V 20
+dir 7q4.7n2.r10811/0
+END
+ENDREP
+id: fus.0.r10811/282
+type: dir
+pred: fus.0.r10810/0
+count: 1
+text: 10811 230 39 39 d6ee4fa710895ef3a4af8e4f29221139
+cpath: /sipXecs.old
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r10809/2763
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10811/282
+K 4
+tags
+V 20
+dir 7q5.0.r9367/2658
+END
+ENDREP
+id: 0.0.r10811/568
+type: dir
+pred: 0.0.r10810/241
+count: 10811
+text: 10811 433 122 122 6d24e16a80885b281f7d8b43dd02eb32
+cpath: /
+copyroot: 0 /
+
+7q4.0.r9837/8232 delete false false /main
+
+7q4._0.t10810-1 add false false /sipXecs.old/main
+10810 /main
+
+568 712

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-05-08T16:10:23.169285Z
+K 7
+svn:log
+V 127
+Initialized merge tracking via svnmerge with revisions 1-6692 from
+https://scm.sipfoundry.org/rep/sipX/branches/3.4/sipXconfig
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-03-02T20:40:32.049620Z
+K 7
+svn:log
+V 191
+include dojo scripts on demand
+Border component has a new "useDojo" parameter - at the moment it is set to false, it should be manually set to true for all the pages that use AJAX components
+
+END

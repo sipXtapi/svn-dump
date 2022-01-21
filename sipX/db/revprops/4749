@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+khb
+K 8
+svn:date
+V 27
+2005-02-02T20:56:51.828755Z
+K 7
+svn:log
+V 93
+Move Pingtel identity to SipFoundry - conversion stage 1 and 2
+rename directories com to org
+
+END

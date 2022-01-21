@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-12-01T00:13:20.225634Z
+K 7
+svn:log
+V 121
+XCF-80 fix: after domain name is change we regenerate extensions, auth exceptions, aliases, permissions and credentials.
+
+END

@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-09T13:58:49.443111Z
+K 7
+svn:log
+V 301
+More methods for MpDspUtils implemented:
+* Integer shift operations: shl16_I, shl16, shl32_I, shl32.
+* Vector arithmetic operations: add, mul.
+* Vector methods to convert from 16-bit integers to 32-integers/float (with and without gain/attenuation).
+Note, unittests are not implemented for them yet.
+
+
+END

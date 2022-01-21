@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-10-10T21:29:45.804958Z
+K 7
+svn:log
+V 270
+Change global OsMutex locks to be dynamically allocated to avoid
+race conditions between the OsMutex destructor and the UtlContainable
+infrastructure (caused core files on exit).
+  This deliberately leaks them (but it only happens when
+  the process exits, so it's ok).
+
+END

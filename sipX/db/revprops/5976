@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-01-27T03:18:24.301188Z
+K 7
+svn:log
+V 114
+Remove complex setting model loading scheme, convert grandstream, obsolete old grandstream and cisco profile files
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-07-16T03:45:01.888063Z
+K 7
+svn:log
+V 112
+commented out testFactoryRegistered - need to figure out to provide application context access in plugins tests
+
+END

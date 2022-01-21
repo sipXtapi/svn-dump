@@ -1,0 +1,56 @@
+id: 7pt.7n4.r10814/0
+type: dir
+pred: 7pt.0.r10809/2763
+count: 3255
+text: 10809 1705 1045 1045 f53ad9b0093671a2fe89787a82fe389f
+cpath: /sipXecs.old/branches
+copyfrom: 10813 /branches
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.7n4.r10814/0
+K 4
+main
+V 20
+dir 7q4.7n2.r10811/0
+K 4
+tags
+V 20
+dir 7q5.7n3.r10812/0
+END
+ENDREP
+id: fus.0.r10814/309
+type: dir
+pred: fus.0.r10812/257
+count: 3
+text: 10814 183 113 113 020171f2fd86ec7f3d18d6347f6fb3e8
+cpath: /sipXecs.old
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10814/309
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r10814/557
+type: dir
+pred: 0.0.r10813/199
+count: 10814
+text: 10814 464 80 80 7814fdc189172c51d5a8cd499befd2e9
+cpath: /
+copyroot: 0 /
+
+7pt._0.t10813-1 add false false /sipXecs.old/branches
+10813 /branches
+7pt.0.r10809/2763 delete false false /branches
+
+
+557 699

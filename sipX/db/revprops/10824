@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2008-09-24T14:24:58.411652Z
+K 7
+svn:log
+V 97
+updated svn:externals to point to branches/sipXtapi-AOL instead of bandreasen-sipXtapi-AOL-merge
+
+END

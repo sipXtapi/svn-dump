@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-11-27T21:22:53.364735Z
+K 7
+svn:log
+V 83
+XCF-1382 Allow codec preferences for Soudpoint IP 300s and 4000s to be configurable
+END

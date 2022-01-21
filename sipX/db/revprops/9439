@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-04-28T12:31:33.657120Z
+K 7
+svn:log
+V 87
+Added checking for correct value of mWasFired member of OsTimer to various timer tests.
+END

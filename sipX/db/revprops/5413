@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-10-28T13:10:37.576174Z
+K 7
+svn:log
+V 62
+reduce shutdown test iterations from 3 to 2 (saves 20 seconds)
+END

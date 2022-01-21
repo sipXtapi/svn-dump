@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-11T18:13:17.732757Z
+K 7
+svn:log
+V 108
+XCF-1314 re-added explicit call to activateParkOrbits when saving a new orbit from UI and from SOAP service
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-09-16T20:49:42.570381Z
+K 7
+svn:log
+V 166
+Some stun/turn handling tweaks:
+1) Remove duplicated stun/turn handling in each of the read methods
+2) Added handling for stun messages within turn data indications
+
+
+END

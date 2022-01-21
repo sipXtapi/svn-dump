@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-03-28T18:54:18.785251Z
+K 7
+svn:log
+V 90
+Fix how the host's address is determined in sipproxy.sh.in, per
+Scott's patch in XPB-988.
+
+END

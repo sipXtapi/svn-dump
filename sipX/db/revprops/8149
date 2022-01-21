@@ -1,0 +1,28 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-11-29T16:45:56.909475Z
+K 7
+svn:log
+V 774
+Fixed a locking problem where we were taking a read lock instead of a write lock to
+create the NetInTask communication and control socket.
+
+Implemented simple short term mic and speaker driver abstraction for posix.
+This will have a real plugin in the medium term.
+
+Changed the mediaAdapter unit tests so that the media tasks are not shutdown.  There is
+a problem with the media subsystem shutdown that appears to leave the speaker and mic
+feeder/reader threads up such that restarting the media subsystem for each test causes
+multiple instances of the feeder/readers to exist resulting in bad audio.  Temporarily
+we are not going to shutdown the media subsystem between tests.
+
+These changes still have printfs as there is still a audio problem that is being chased
+down.
+
+
+END

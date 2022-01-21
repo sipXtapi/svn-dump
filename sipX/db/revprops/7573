@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-09-26T16:13:17.419699Z
+K 7
+svn:log
+V 117
+Part 1 of N: Merging sipXmediaLib changes (trivial changes to start) from sipX main (r7545) to the sipXtapi branch.
+
+
+END

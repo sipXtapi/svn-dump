@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-05-29T13:09:54.007724Z
+K 7
+svn:log
+V 19
+Fix non-RTL build.
+
+END

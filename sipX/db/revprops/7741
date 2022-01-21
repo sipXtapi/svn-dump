@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-12T02:08:56.731016Z
+K 7
+svn:log
+V 54
+Process the return value of ::initialize() correctly.
+
+END

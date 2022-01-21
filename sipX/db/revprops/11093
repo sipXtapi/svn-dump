@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-12T07:32:46.928304Z
+K 7
+svn:log
+V 362
+Fix bug in MpResourceTopology.
+
+MpResourceTopology::ResourceDef and MpResourceTopology::ConnectionDef structs
+included object reference members.  It was intended for these to be full
+fledged objects, and not references.  
+When references are passed in and the orginal objects are destroyed (like if
+they go out of scope), then these references are now invalid.
+
+
+END

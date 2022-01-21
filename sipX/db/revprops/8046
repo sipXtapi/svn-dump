@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2006-11-20T19:43:09.625893Z
+K 7
+svn:log
+V 287
+WINCE changes.
+
+Update for Jim Park's latest portlib, tacklib, and medialib changes to make
+WINCE working under the emulator.
+Update for making portlib and portlib unit tests compile mostly under arm.
+VCP projects now are almost correct for building and linking under emulator
+and arm.
+
+
+END

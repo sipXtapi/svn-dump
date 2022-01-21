@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-29T15:49:35.269982Z
+K 7
+svn:log
+V 142
+Fix ENG-246: after editing the PIN, reset all PIN fields, for security
+Fix XCF-510: Change PIN page: show success status for better usability
+
+END

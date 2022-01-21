@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-12-25T15:01:41.650874Z
+K 7
+svn:log
+V 284
+NetInTask priority boosted and receive buffer size increased.
+This is necessary to receive several big packets, comming head to head. E.g. when receiving video frames, splitted in several RTP packets. Whith previous settings it was often case when end of the video frame was dropped.
+
+END

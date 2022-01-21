@@ -1,0 +1,201 @@
+PLAIN
+K 11
+Doxyfile.in
+V 20
+file 1uy.0.r2071/889
+K 11
+INSTALL.ssl
+V 22
+file 1v7.84.r2058/1113
+K 11
+Makefile.am
+V 21
+file 1uz.0.r2071/1128
+K 14
+credential.xml
+V 22
+file 1uw.0.r2065/10910
+K 11
+footer.html
+V 20
+file 1v0.0.r2071/647
+K 14
+permission.xml
+V 21
+file 1ux.0.r1968/1188
+K 17
+update-passtokens
+V 22
+file 1vb.0.r2065/11154
+END
+ENDREP
+id: 1uv.0.r2086/338
+type: dir
+pred: 1uv.0.r2071/1748
+count: 29
+text: 2086 0 325 325 8ba55e7622e33aad3e1dc589d06a5e70
+props: 2009 0 101 0 fecde876016691d3ef6177d9fc043c00
+cpath: /old/sipXcommserverLib/main/doc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1qp.0.r1967/49607
+K 9
+ChangeLog
+V 20
+file 1qq.0.r1984/410
+K 7
+INSTALL
+V 21
+file 1qr.0.r2058/2054
+K 7
+LICENSE
+V 19
+file 1qs.0.r1967/82
+K 11
+Makefile.am
+V 20
+file 1qt.0.r2012/127
+K 4
+NEWS
+V 22
+file 1qu.0.r1967/60154
+K 6
+README
+V 22
+file 1qv.0.r1967/49287
+K 4
+TODO
+V 22
+file 1qw.0.r1967/53785
+K 9
+acsite.m4
+V 22
+file 1qx.0.r1967/24543
+K 3
+bin
+V 19
+dir 1qy.0.r2083/615
+K 12
+configure.ac
+V 21
+file 1r5.0.r2047/4753
+K 3
+doc
+V 19
+dir 1uv.0.r2086/338
+K 3
+etc
+V 19
+dir 1r6.0.r2081/394
+K 7
+include
+V 20
+dir 1rc.0.r2065/7083
+K 4
+meta
+V 19
+dir 1v3.0.r2080/813
+K 21
+sipXcommserverLib.dsp
+V 20
+file 1us.0.r2046/732
+K 13
+sipdbtest.dsp
+V 20
+file 1ut.0.r2046/491
+K 25
+sipxcommserverlib.spec.in
+V 20
+file 1v2.0.r2083/843
+K 3
+src
+V 20
+dir 1t1.0.r2077/1271
+END
+ENDREP
+id: 1qo.0.r2086/1344
+type: dir
+pred: 1qo.0.r2083/1877
+count: 180
+text: 2086 562 769 769 97480193acb61a160009438c082b3939
+props: 2067 2321 939 0 5c079a3ef8e487baeaa0e440afea7b1b
+cpath: /old/sipXcommserverLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1v5.0.r2084/2427
+K 4
+main
+V 20
+dir 1qo.0.r2086/1344
+K 4
+tags
+V 20
+dir 1uu.0.r2085/2710
+END
+ENDREP
+id: 1qn.0.r2086/1697
+type: dir
+pred: 1qn.0.r2085/3008
+count: 289
+text: 2086 1571 113 113 b9f5e911fe2366f26fa23fc894311a25
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2086/1697
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2086/2098
+type: dir
+pred: 1.0.r2085/3409
+count: 2085
+text: 2086 1864 221 221 c3773043313f858e75b1a95d1214fabe
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2086/2098
+END
+ENDREP
+id: 0.0.r2086/2293
+type: dir
+pred: 0.0.r2085/3604
+count: 2086
+text: 2086 2244 36 36 1bbb500eaffab8d0c0c393ac50cdabc5
+cpath: /
+copyroot: 0 /
+
+1vp.96.r2056/82 delete false false /old/sipXcommserverLib/main/doc/upgrade.txt
+
+
+2293 2434

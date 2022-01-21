@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-08-09T16:17:02.798891Z
+K 7
+svn:log
+V 133
+Move MAX_AMPLITUDE_ROUND from MpBridgeAlgSimple.cpp to MpBridgeAlgBase.h to be reusable amongst different algorithm implementations.
+
+END

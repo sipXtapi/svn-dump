@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2005-03-25T17:29:39.386279Z
+K 7
+svn:log
+V 361
+Merged revisions 477 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXportLib/branches/2.8
+    ------------------------------------------------------------------------
+    r477 | ajorde | 2005-03-25 12:27:18 -0500 (Fri, 25 Mar 2005) | 1 line
+    Changed paths:
+       M /branches/2.8/config/sipXlib.m4
+    
+    Fix indentation of ./configure --help message
+
+END

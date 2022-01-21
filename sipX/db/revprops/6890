@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-06-02T20:37:00.252513Z
+K 7
+svn:log
+V 136
+Add interface for including a Warning header
+Use it to put in a Warning on 483 responses per
+   draft-ietf-sip-hop-limit-diagnostics-02
+
+END

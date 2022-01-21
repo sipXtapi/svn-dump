@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-22T23:12:11.333198Z
+K 7
+svn:log
+V 109
+When using rport/udp, send all packets from the default sip udp port (instead of using a temp port/socket).
+
+
+END

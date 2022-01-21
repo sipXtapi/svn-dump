@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-05-04T18:57:50.786891Z
+K 7
+svn:log
+V 223
+Fix XPR-154: In CDR , HA setup, if the distributed machine is down CDR is not logged .
+If we get an error connecting to a CSE DB, then catch it, report it, and at least try to do CDRs for the DBs that we are able to reach.
+
+END

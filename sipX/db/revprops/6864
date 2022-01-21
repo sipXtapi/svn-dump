@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-05-29T15:49:27.316359Z
+K 7
+svn:log
+V 176
+Merged second part of r6758 from sipXtapi branch:
+
+1) Removed NoVideo build targets from sipXezPhone.
+
+2) Updated to wxWidgets 2.6.3 -- see updated INSTALL doc in sipXezPhone.
+
+END

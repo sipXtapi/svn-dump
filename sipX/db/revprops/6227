@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-23T18:32:01.964454Z
+K 7
+svn:log
+V 75
+minor changes from code review of Http client persistent connection support
+END

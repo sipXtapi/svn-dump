@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2013-05-13T01:33:58.424430Z
+K 7
+svn:log
+V 545
+Fix (or at least, improve) the handling of Task IDs.
+
+The problem is that they are treated as int or DWORD, but that is
+not correct on Linux/64.  I invented our own typedef, OsTaskId_t,
+which is defined as pthread_t on Linux.  Windows... who knows...
+
+There is still some trouble around the formatting of OsTaskId_t values,
+for example in OsSysLog.  My idea is to delegate that to a function or
+functions in the platform-specific implementations (e.g. OsTaskLinux)
+that take an OsTaskId_t and return a formatted value in a UtlString...
+Later...
+
+END

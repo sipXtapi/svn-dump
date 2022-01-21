@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-07T20:48:15.690486Z
+K 7
+svn:log
+V 84
+http://track.sipfoundry.org/browse/XPB-66
+Make these changes work in the RPM build.
+
+END

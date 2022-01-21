@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-08T16:52:41.446858Z
+K 7
+svn:log
+V 168
+XCF-1544 - Create 2 scripts that will handle the upgrading of voicemail store to report invalid email addresses and move voicemail from custom folders to 'saved' folder
+END

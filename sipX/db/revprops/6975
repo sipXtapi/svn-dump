@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 6
+prikov
+K 8
+svn:date
+V 27
+2006-06-16T21:53:09.645401Z
+K 7
+svn:log
+V 341
+A variety of modifications to improve the building process
+
+Manage sipx version of w3c-libwww depending on distro
+
+Use distro name RHE instead RHEL
+
+Define platforms in order to set LIBWWW_RPM
+
+We build and 'rpm -u sipx-w3c-libwww'
+
+Initiate a LIBWWW_RPM setup process
+
+Don't uninstall existing ruby RPMs since we don't build them for FC4/5
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-03-16T18:27:09.624721Z
+K 7
+svn:log
+V 51
+Fixed path for sipXtapi test in MSVS6 build script
+
+END

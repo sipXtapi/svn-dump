@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-11-21T22:09:33.223941Z
+K 7
+svn:log
+V 628
+mergefrom pingtel-3.6 7531
+Get the default.wav file name right in the test configuration.
+
+mergefrom pingtel-3.6 7543
+Fix race condition in OsTimer:
+If the application side of OsTimer::stop() has executed on a periodic
+timer before it fires, but the resulting message to OsTimerTask is
+processed after it fires, assert(current) fails in
+OsTimerTask::removeTimer().
+Also, improve the documentation of OsTimerTask::fireTimer(), add a
+(messy) test to show this race condition has been fixed, remove all
+uses of OsTimer::mDeleting when NDEBUG is #define'd (except
+initializing it when the OsTimer is allocated).
+This fixes XPB-630.
+
+END

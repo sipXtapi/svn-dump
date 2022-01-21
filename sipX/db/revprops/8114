@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-26T01:58:21.073400Z
+K 7
+svn:log
+V 116
+1) Video Window handle passed down to video flow graph.
+2) Video receiving disabled if video window handle is NULL.
+
+END

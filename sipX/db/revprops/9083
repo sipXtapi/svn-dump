@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-03-14T17:00:46.434849Z
+K 7
+svn:log
+V 132
+XCF-1561 get rid of CopyFromCacheInterceptor: it's not needed since ModelFilesContext is already creating a copy of loaded settings
+
+END

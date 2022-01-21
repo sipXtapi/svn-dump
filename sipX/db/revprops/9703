@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-20T12:10:29.165432Z
+K 7
+svn:log
+V 323
+Make MpArrayBuf, MpDataBuf and MpAudioBuf interfaces consistent in getting pointer to data. Also separate const and non-const versions of getSamples() in MpAudioBuf.
+This change lead to many small fixes in sipXmediaLib files. I appologize if this break someone's patches or so. This change have to be applied much earlier.
+
+END

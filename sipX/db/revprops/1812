@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2004-07-12T22:14:25.000003Z
+K 7
+svn:log
+V 261
+Cleaned up some compiler warnings.
+
+Quite a few still remain; they all appear to result from some strange
+and wondrous macros in the fastdb include files.  A brief attempt to
+clean them up led to ever widening spirals of new errors and warnings,
+so I gave up.
+
+
+END

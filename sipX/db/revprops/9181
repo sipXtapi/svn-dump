@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+lih
+K 8
+svn:date
+V 27
+2007-03-27T18:20:30.065127Z
+K 7
+svn:log
+V 181
+Remove "Phone manufacturer" from the help text on the Import CSV web page
+
+Phone manufacturer field is no longer used in 3.7/3.8 import CSV, so 
+change the help text to reflect it.
+
+END

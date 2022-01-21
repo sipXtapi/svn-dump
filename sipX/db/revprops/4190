@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-09-23T13:43:34.443325Z
+K 7
+svn:log
+V 176
+Change to providing a complete apache configuration rather
+than editting the one from the apache package.
+Install new commands for generating SSL keys, CSRs, and
+certificates.
+
+END

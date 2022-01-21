@@ -1,0 +1,258 @@
+PLAIN
+K 10
+svn:ignore
+V 149
+BUILDSTAMP
+Makefile
+Makefile.in
+SVN-VERSION
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 55
+https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 41
+1-311,338-339,344,358,360,362,369-373,396
+K 17
+svnmerge-2.8-head
+V 55
+https://scm.sipfoundry.org/rep/sipXportLib/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 49
+1-430,435,437-438,444,453,463,477,489,492-493,579
+K 20
+svnmerge-noglib-head
+V 69
+https://paradise.pingtel.com/rep/sipXportLib/branches/sipxtapi-noglib
+K 20
+svnmerge-noglib-revs
+V 5
+1-162
+K 24
+svnmerge-noresparse-head
+V 73
+https://paradise.pingtel.com/rep/sipXportLib/branches/sipxtapi-noresparse
+K 24
+svnmerge-noresparse-revs
+V 5
+1-158
+K 22
+svnmerge-sipxtapi-head
+V 62
+https://paradise.pingtel.com/rep/sipXportLib/branches/sipxtapi
+K 28
+svnmerge-sipxtapi-port0-head
+V 62
+https://paradise.pingtel.com/rep/sipXportLib/branches/sipxtapi
+K 28
+svnmerge-sipxtapi-port0-revs
+V 5
+1-209
+K 22
+svnmerge-sipxtapi-revs
+V 5
+1-204
+K 22
+svnmerge-user_pin-head
+V 60
+https://scm.sipfoundry.org/rep/sipXportLib/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-535
+K 23
+svnmerge-user_ping-head
+V 61
+https://scm.sipfoundry.org/rep/sipXportLib/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-484
+K 19
+svnmerge-video-head
+V 81
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/sipxtapi-video/sipXportLib
+K 19
+svnmerge-video-revs
+V 6
+1-3142
+END
+ENDREP
+id: 3.1ib.r7275/1486
+type: dir
+pred: 3.1ib.r7274/8406
+count: 595
+text: 7274 5953 954 954 fdd8640d25a52632b9c67f993c8322af
+props: 7275 0 1473 0 bdf292756f5bde7166683c3128e23a12
+cpath: /main/sipXportLib
+copyroot: 4813 /main/sipXportLib
+
+PLAIN
+K 10
+svn:ignore
+V 151
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+bbridge.spec
+stamp-h1
+
+
+END
+ENDREP
+id: 8dl.0.r7275/1912
+type: dir
+pred: 8dl.0.r7274/16790
+count: 89
+text: 7274 16172 414 414 c3f1b6ba15aaa0067a73e67ff8395a64
+props: 7275 1721 178 0 39fcce88b777b187cec2cef0538f8a49
+cpath: /main/bbridge
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file d0m.0.r7165/5738
+K 7
+bbridge
+V 20
+dir 8dl.0.r7275/1912
+K 5
+build
+V 20
+file 7ve.0.r7270/622
+K 6
+config
+V 22
+dir 91.1i4.r7274/20214
+K 12
+configure.ac
+V 21
+file d0n.0.r7165/2232
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 3
+lib
+V 21
+dir cyn.0.r7274/25135
+K 14
+resiprocateLib
+V 21
+dir 8g8.0.r7274/26165
+K 11
+sipXcallLib
+V 22
+dir va.1i5.r7274/23215
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r7274/40075
+K 10
+sipXconfig
+V 23
+dir 2hf.1i7.r7274/29199
+K 19
+sipXmediaAdapterLib
+V 21
+dir 89s.0.r7274/33269
+K 12
+sipXmediaLib
+V 22
+dir mz.1i8.r7274/31685
+K 7
+sipXpbx
+V 23
+dir 5g6.1i9.r7274/15477
+K 9
+sipXphone
+V 23
+dir 6qk.1ia.r7274/37677
+K 11
+sipXportLib
+V 20
+dir 3.1ib.r7275/1486
+K 9
+sipXproxy
+V 23
+dir 1vt.1ic.r7274/10743
+K 13
+sipXpublisher
+V 23
+dir 20n.1id.r7274/19032
+K 12
+sipXregistry
+V 23
+dir 1y5.1ie.r7274/35741
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r7274/43620
+K 8
+sipXvxml
+V 23
+dir 22d.1ig.r7274/12993
+END
+ENDREP
+id: 7q4.0.r7275/3065
+type: dir
+pred: 7q4.0.r7274/44805
+count: 1631
+text: 7275 2127 925 925 19e2a30660be92399507373b085bbe24
+props: 7242 31805 1561 0 284b6f7d8faa17448ac4fbe456ea93a1
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 22
+dir 7pt.0.r7273/105528
+K 4
+main
+V 20
+dir 7q4.0.r7275/3065
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r7275/3404
+type: dir
+pred: 0.0.r7274/45146
+count: 7275
+text: 7275 3275 116 116 e5c9c90632f92fef4d6c297ba942bc3c
+cpath: /
+copyroot: 0 /
+
+8dl.0.t7274-1 modify false true /main/bbridge
+
+3.1ib.t7274-1 modify false true /main/sipXportLib
+
+
+3404 3548

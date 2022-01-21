@@ -1,0 +1,418 @@
+DELTA 6772 58639 30642
+SVNENDREP
+id: 9w0.3bl.r6774/34
+type: file
+pred: 9w0.3bl.r6772/93094
+count: 9
+text: 6774 0 4 0 d41d8cd98f00b204e9800998ecf8427e
+cpath: /main/sipXproxy/src/cdr/log/test.log
+copyroot: 6484 /main/sipXproxy/src/cdr/log/test.log
+
+PLAIN
+K 15
+development.log
+V 24
+file 9vx.3bi.r6484/39981
+K 14
+production.log
+V 24
+file 9vy.3bj.r6484/40218
+K 10
+server.log
+V 24
+file 9vz.3bk.r6484/40457
+K 8
+test.log
+V 21
+file 9w0.3bl.r6774/34
+END
+ENDREP
+id: 9vw.3bh.r6774/452
+type: dir
+pred: 9vw.3bh.r6772/93529
+count: 9
+text: 6774 248 191 191 2b6d553239e492338e0dcf549bc15f4c
+cpath: /main/sipXproxy/src/cdr/log
+copyroot: 6484 /main/sipXproxy/src/cdr/log
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 9wf.3ax.r6608/143
+K 8
+Rakefile
+V 23
+file bzp.3aw.r6525/2682
+K 3
+app
+V 23
+dir 9u4.3ay.r6772/92890
+K 24
+call_direction_plugin.rb
+V 23
+file bzi.3aw.r6750/9103
+K 16
+call_resolver.rb
+V 23
+file 9tu.3b5.r6735/7960
+K 26
+call_resolver_configure.rb
+V 24
+file c0r.3aw.r6772/93950
+K 6
+config
+V 23
+dir 9uu.3b6.r6514/17239
+K 12
+configure.rb
+V 24
+file 9w9.3bf.r6701/73345
+K 15
+database_url.rb
+V 23
+file c0m.3aw.r6659/9804
+K 17
+database_utils.rb
+V 24
+file c0q.3aw.r6772/93734
+K 13
+exceptions.rb
+V 24
+file 9v8.3bg.r6524/15922
+K 3
+log
+V 21
+dir 9vw.3bh.r6774/452
+K 7
+main.rb
+V 23
+file 9tv.3bm.r6735/7530
+K 16
+sipx_ipsocket.rb
+V 23
+file c0f.3aw.r6606/4503
+K 15
+socket_utils.rb
+V 23
+file bzn.3aw.r6750/9542
+K 21
+stunnel_connection.rb
+V 24
+file c0o.3aw.r6729/12560
+K 4
+test
+V 23
+dir 9u9.3bn.r6772/91939
+K 8
+utils.rb
+V 24
+file 9va.3c9.r6772/94177
+END
+ENDREP
+id: 9tt.3aw.r6774/1522
+type: dir
+pred: 9tt.3aw.r6772/95265
+count: 71
+text: 6774 654 855 855 fa46681bdb48a4854435b212909321a5
+props: 6553 122164 51 0 01a3bed0815fba43088f550e5767ab5b
+cpath: /main/sipXproxy/src/cdr
+copyroot: 6484 /main/sipXproxy/src/cdr
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1wo.1ic.r6484/45799
+K 3
+cdr
+V 22
+dir 9tt.3aw.r6774/1522
+K 3
+cse
+V 23
+dir 1xp.1ic.r6702/10219
+K 12
+sipauthproxy
+V 22
+dir 1wp.1ic.r6702/5288
+K 15
+sipforkingproxy
+V 22
+dir 1wt.1ic.r6578/8860
+K 4
+test
+V 22
+dir 1wy.1ic.r6702/6146
+END
+ENDREP
+id: 1wn.1ic.r6774/2044
+type: dir
+pred: 1wn.1ic.r6772/95791
+count: 99
+text: 6774 1775 256 256 98b7fcf2667655bbcc261a68f4ddef62
+props: 2127 1384 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXproxy/src
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1vu.0.r2221/14695
+K 9
+ChangeLog
+V 20
+file 1vv.0.r2238/425
+K 7
+INSTALL
+V 22
+file 1vw.0.r2221/19180
+K 7
+LICENSE
+V 19
+file 1vx.0.r2221/82
+K 11
+Makefile.am
+V 23
+file 1vy.1ic.r6525/5637
+K 4
+NEWS
+V 22
+file 1vz.0.r2221/22868
+K 6
+README
+V 22
+file 1w0.0.r2221/14388
+K 4
+TODO
+V 22
+file 1w1.0.r2221/18875
+K 9
+acsite.m4
+V 21
+file 1w2.0.r2221/1636
+K 3
+bin
+V 23
+dir 1w3.1ic.r6729/15092
+K 12
+configure.ac
+V 23
+file 1w9.1ic.r6690/7106
+K 3
+doc
+V 23
+dir 1xb.1ic.r6772/97773
+K 3
+etc
+V 23
+dir 1wa.1ic.r6772/99045
+K 4
+meta
+V 21
+dir 1xi.1ic.r6253/755
+K 17
+sipXauthproxy.dsp
+V 26
+file 1x5.1ic.r4884/5502003
+K 20
+sipXforkingProxy.dsp
+V 26
+file 1x6.1ic.r4884/5501742
+K 17
+sipxproxy.spec.in
+V 23
+file 1x9.1ic.r6702/4392
+K 3
+src
+V 22
+dir 1wn.1ic.r6774/2044
+END
+ENDREP
+id: 1vt.1ic.r6774/3059
+type: dir
+pred: 1vt.1ic.r6772/100063
+count: 239
+text: 6774 2284 762 762 1c802a0c114475388bc35d9ad6847d8b
+props: 5457 136070 886 0 24c9b2e7838c4b90430aef9bdd7b25c4
+cpath: /main/sipXproxy
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 7
+bbridge
+V 19
+dir 8dl.0.r6648/271
+K 5
+build
+V 21
+file 7ve.0.r6765/1935
+K 6
+config
+V 21
+dir 91.1i4.r6589/1665
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 14
+resiprocateLib
+V 20
+dir 8g8.0.r5655/3734
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r6738/5509
+K 17
+sipXcommserverLib
+V 22
+dir 1qo.1i6.r6766/1969
+K 10
+sipXconfig
+V 23
+dir 2hf.1i7.r6771/17582
+K 19
+sipXmediaAdapterLib
+V 20
+dir 89s.0.r6723/1952
+K 12
+sipXmediaLib
+V 22
+dir mz.1i8.r6707/14798
+K 7
+sipXpbx
+V 24
+dir 5g6.1i9.r6744/267138
+K 9
+sipXphone
+V 22
+dir 6qk.1ia.r6366/8398
+K 11
+sipXportLib
+V 20
+dir 3.1ib.r6765/1696
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r6774/3059
+K 13
+sipXpublisher
+V 23
+dir 20n.1id.r6690/12779
+K 12
+sipXregistry
+V 23
+dir 1y5.1ie.r6690/21492
+K 11
+sipXtackLib
+V 21
+dir dk.1if.r6738/7720
+K 8
+sipXvxml
+V 22
+dir 22d.1ig.r6690/9615
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 10
+build.err
+
+K 25
+svnmerge-pingtel-3.3-head
+V 50
+https://paradise.pingtel.com/rep/sipX/pingtel/main
+K 25
+svnmerge-pingtel-3.3-revs
+V 51
+1-5590,5645,5954,5969,6041,6077,6139,6156,6207-6208
+K 26
+svnmerge-pingtel-main-head
+V 50
+https://paradise.pingtel.com/rep/sipX/pingtel/main
+K 26
+svnmerge-pingtel-main-revs
+V 91
+1-6259,6285,6289,6292-6295,6298-6299,6301,6306,6308-6309,6311,6325-6327,6329,6333,6338,6342
+K 22
+svnmerge-sipx-3.0-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.0
+K 22
+svnmerge-sipx-3.0-revs
+V 51
+1-5315,5348,5357,5382,5417,5451,5474-5478,5508,5621
+K 22
+svnmerge-sipx-3.2-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.2
+K 22
+svnmerge-sipx-3.2-revs
+V 41
+1-6323,6368-6370,6494,6521,6587-6588,6470
+K 22
+svnmerge-sipx-3.4-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.4
+K 22
+svnmerge-sipx-3.4-revs
+V 31
+1-6680,6748,6759,6763-6764,6773
+K 30
+svnmerge-sipx-replication-head
+V 67
+https://scm.sipfoundry.org/rep/sipX/branches/sipXconfig/replication
+K 30
+svnmerge-sipx-replication-revs
+V 6
+1-5723
+K 26
+svnmerge-solaris2main-head
+V 57
+https://scm.sipfoundry.org/rep/sipX/branches/solaris_port
+K 26
+svnmerge-solaris2main-revs
+V 6
+1-6454
+END
+ENDREP
+id: 7q4.0.r6774/5312
+type: dir
+pred: 7q4.0.r6772/102315
+count: 1336
+text: 6774 3300 793 793 8108f2f233918c56538567e97b3972b2
+props: 6774 4106 1193 0 7924ea51de0d3d6789d8755d31db5d4f
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r6773/5107
+K 4
+main
+V 20
+dir 7q4.0.r6774/5312
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6774/5649
+type: dir
+pred: 0.0.r6773/5391
+count: 6774
+text: 6774 5522 114 114 3291acafeb30338acb2c2c14290c74b3
+cpath: /
+copyroot: 0 /
+
+7q4.0.t6773-1 modify false true /main
+
+9w0.3bl.t6773-1 modify true false /main/sipXproxy/src/cdr/log/test.log
+
+
+5649 5792

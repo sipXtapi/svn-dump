@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-06-01T19:16:05.556871Z
+K 7
+svn:log
+V 79
+XCF-417  generate fallback voicemail rule that allows for non-numeric user ids
+
+END

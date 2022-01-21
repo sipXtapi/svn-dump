@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+mdm2000
+K 8
+svn:date
+V 27
+2007-01-03T06:17:47.326706Z
+K 7
+svn:log
+V 77
+Make sure sockaddr_in structures get zeroed out, which is necessary on OS X.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-11-20T21:48:33.749628Z
+K 7
+svn:log
+V 83
+XCF-1381 Allow ConfigServer to stop and start from processmanager, not just restart
+END

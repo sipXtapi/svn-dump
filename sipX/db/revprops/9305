@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-10T18:43:44.975930Z
+K 7
+svn:log
+V 128
+Remove <Windows.h> include from MpOutputDeviceDriver, remove setDeviceManager() from MpOutputDeviceDriver.
+They are not needed.
+
+END

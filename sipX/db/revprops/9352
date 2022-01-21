@@ -1,0 +1,45 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-04-12T22:54:54.831068Z
+K 7
+svn:log
+V 1125
+Merged revisions 8607-8610,8613-8615,8617,8619-8625,8627,8629-8637,8640-8661,8663-8668,8670-8686,8688-8813,8815-9259,9261-9348,9350-9351 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/freeswitch
+
+........
+  r8607 | urtho | 2007-01-23 16:19:35 -0500 (Tue, 23 Jan 2007) | 1 line
+  
+  Polish UI translation
+........
+  r9277 | urtho | 2007-04-06 19:55:34 -0400 (Fri, 06 Apr 2007) | 1 line
+  
+  updated Polish UI translation
+........
+  r9300 | urtho | 2007-04-09 20:07:59 -0400 (Mon, 09 Apr 2007) | 1 line
+  
+  complete web/ Polish UI translation, neoconf translation is next
+........
+  r9301 | urtho | 2007-04-09 20:29:29 -0400 (Mon, 09 Apr 2007) | 1 line
+  
+  Updated Polish translation of neoconf
+........
+  r9311 | urtho | 2007-04-10 20:21:46 -0400 (Tue, 10 Apr 2007) | 1 line
+  
+  partial Polish SNOM config translation
+........
+  r9332 | urtho | 2007-04-11 18:47:12 -0400 (Wed, 11 Apr 2007) | 1 line
+  
+  Polish UI translation cleanup phase 1 of 2
+........
+  r9347 | urtho | 2007-04-12 17:02:43 -0400 (Thu, 12 Apr 2007) | 1 line
+  
+  Completed (all existing properties files) Polish UI translation
+........
+
+END

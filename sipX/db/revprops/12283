@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2014-12-16T19:29:16.367287Z
+K 7
+svn:log
+V 153
+Added record pause and resume API to call processing
+Allow play tones, record and play operations when no connections exist
+fixed a few compiler warning
+
+END

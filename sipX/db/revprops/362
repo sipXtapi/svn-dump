@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-01-06T15:24:57.425943Z
+K 7
+svn:log
+V 101
+Lock the iterator list in container subclasses that overwrite
+the remove function from UtlContainer.
+
+END

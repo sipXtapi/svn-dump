@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-10-03T00:20:52.492495Z
+K 7
+svn:log
+V 92
+Additional opus include path for case when building/configure outside sipX/sipXmediaLib dir
+
+END

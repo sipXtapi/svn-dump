@@ -1,0 +1,209 @@
+PLAIN
+K 10
+svn:ignore
+V 23
+Makefile
+Makefile.in
+
+
+
+END
+ENDREP
+id: 1v6.0.r1885/62
+type: dir
+pred: 1v6.0.r1883/845
+count: 8
+text: 1883 637 195 195 18aa4cc5c8dd3917967a0c7845822be4
+props: 1885 0 49 0 31f10077e4c6a51f3b8862cc0d70354b
+cpath: /old/sipXcommserverLib/main/bin/ssl-cert
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file 1qz.0.r1869/8124
+K 8
+configpp
+V 19
+file 1r0.0.r1839/65
+K 12
+get_def_addr
+V 19
+file 1r1.0.r1834/92
+K 8
+ssl-cert
+V 18
+dir 1v6.0.r1885/62
+END
+ENDREP
+id: 1qy.0.r1885/472
+type: dir
+pred: 1qy.0.r1883/1258
+count: 13
+text: 1885 293 166 166 19fa5ec59b734ccc851cad35f2af5e20
+props: 1837 1772 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXcommserverLib/main/bin
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 1qp.0.r1798/425019
+K 9
+ChangeLog
+V 20
+file 1qq.0.r1826/373
+K 7
+INSTALL
+V 20
+file 1qr.0.r1840/199
+K 7
+LICENSE
+V 23
+file 1qs.0.r1798/380771
+K 11
+Makefile.am
+V 21
+file 1qt.0.r1873/3796
+K 4
+NEWS
+V 23
+file 1qu.0.r1798/424867
+K 6
+README
+V 23
+file 1qv.0.r1798/425226
+K 4
+TODO
+V 23
+file 1qw.0.r1798/400566
+K 9
+acsite.m4
+V 23
+file 1qx.0.r1798/401741
+K 3
+bin
+V 19
+dir 1qy.0.r1885/472
+K 12
+configure.ac
+V 21
+file 1r5.0.r1869/7884
+K 3
+doc
+V 19
+dir 1uv.0.r1882/669
+K 3
+etc
+V 19
+dir 1r6.0.r1876/463
+K 7
+include
+V 20
+dir 1rc.0.r1849/4512
+K 4
+meta
+V 19
+dir 1v3.0.r1842/349
+K 21
+sipXcommserverLib.dsp
+V 20
+file 1us.0.r1867/783
+K 13
+sipdbtest.dsp
+V 20
+file 1ut.0.r1867/544
+K 25
+sipxcommserverlib.spec.in
+V 21
+file 1v2.0.r1881/4215
+K 3
+src
+V 20
+dir 1t1.0.r1875/2329
+END
+ENDREP
+id: 1qo.0.r1885/1492
+type: dir
+pred: 1qo.0.r1883/2281
+count: 79
+text: 1885 700 779 779 eefd8680ea574b9cecc0694b8948e8c0
+props: 1852 0 297 0 24430ce0b22a120bd22a7be77f91071c
+cpath: /old/sipXcommserverLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 1v5.0.r1884/668
+K 4
+main
+V 20
+dir 1qo.0.r1885/1492
+K 4
+tags
+V 20
+dir 1uu.0.r1825/1623
+END
+ENDREP
+id: 1qn.0.r1885/1840
+type: dir
+pred: 1qn.0.r1884/963
+count: 88
+text: 1885 1715 112 112 f4a76c1a84daf6f37337e58a620dd6c2
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r1885/1840
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1885/2239
+type: dir
+pred: 1.0.r1884/1360
+count: 1884
+text: 1885 2005 221 221 fe368cf6c746dfcfee7a860fc2e94843
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1885/2239
+END
+ENDREP
+id: 0.0.r1885/2434
+type: dir
+pred: 0.0.r1884/1555
+count: 1885
+text: 1885 2385 36 36 75096a729a440be08218aa4136eb4c29
+cpath: /
+copyroot: 0 /
+
+1v6.0.t1884-1 modify false true /old/sipXcommserverLib/main/bin/ssl-cert
+
+
+2434 2575

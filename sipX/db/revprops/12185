@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2013-11-25T17:31:34.654038Z
+K 7
+svn:log
+V 143
+Logging additions to track media input and output device manipulations.
+There were used to debug a window audio device initialization problem.
+
+END

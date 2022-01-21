@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-07-26T16:08:40.915027Z
+K 7
+svn:log
+V 57
+change EXTRA_DATA to EXTRA_DIST to fix distribution build
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2010-04-01T11:19:14.689740Z
+K 7
+svn:log
+V 82
+sipXmediaLib: Implement MpDspUtils::mul_I() method. Only for fixed point for now.
+
+END

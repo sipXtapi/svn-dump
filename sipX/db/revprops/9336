@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-04-12T14:08:55.569252Z
+K 7
+svn:log
+V 243
+XCF-1598 - Use number for label when generating resource list xml configuration, label is not longer required as at least one phone, lgnortel phone does not show a label.  Plus using the number as the label is often exactly what the user wants
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-12-17T15:06:02.618698Z
+K 7
+svn:log
+V 131
+Fixed for XCL-18: TAPI::initAudioDevices passes bad value to waveInGetDevCaps.
+
+Thanks to Rafal Lindemann for pointing this out.
+ 
+
+END

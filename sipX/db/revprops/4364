@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-16T21:17:21.644907Z
+K 7
+svn:log
+V 143
+Remove files that have (functionally) been moved to either
+sipXpbx/etc/wwwcontent/{aa_vxml,vm_vxml}.
+http://track.sipfoundry.org/browse/XPB-26
+
+END

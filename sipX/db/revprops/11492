@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2010-01-03T16:16:11.071131Z
+K 7
+svn:log
+V 90
+Changed registry to use HKEY_CURRENT_USER.  Migrated some registry reads to use OsRegistry
+END

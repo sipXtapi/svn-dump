@@ -1,0 +1,152 @@
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 156
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+sipxpublisher.spec
+
+K 17
+svnmerge-2.6-head
+V 57
+https://scm.sipfoundry.org/rep/sipXpublisher/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 19
+1-91,95,108,110,127
+K 17
+svnmerge-2.8-head
+V 57
+https://scm.sipfoundry.org/rep/sipXpublisher/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 17
+1-139,141,147,157
+K 22
+svnmerge-user_pin-head
+V 62
+https://scm.sipfoundry.org/rep/sipXpublisher/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-162
+K 23
+svnmerge-user_ping-head
+V 63
+https://scm.sipfoundry.org/rep/sipXpublisher/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-154
+END
+ENDREP
+id: 20n.0.r2711/820
+type: dir
+pred: 20n.0.r2708/2545
+count: 100
+text: 2708 1818 714 714 cfd48275433f2349550bf1d3a8d5078c
+props: 2711 0 807 0 6a64e40e2cd2b09c191e539204b1c88b
+cpath: /old/sipXpublisher/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 221.0.r2710/1237
+K 4
+main
+V 19
+dir 20n.0.r2711/820
+K 4
+tags
+V 20
+dir 21v.0.r2709/2162
+END
+ENDREP
+id: 20m.0.r2711/1165
+type: dir
+pred: 20m.0.r2710/1534
+count: 163
+text: 2711 1040 112 112 696e31f223cbe57852c3a43c0f761d38
+cpath: /old/sipXpublisher
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2711/1165
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2711/1691
+type: dir
+pred: 1.0.r2710/2060
+count: 2710
+text: 2711 1328 350 350 4957a5a4707eadf4a2d89532b39378df
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2711/1691
+END
+ENDREP
+id: 0.0.r2711/1886
+type: dir
+pred: 0.0.r2710/2255
+count: 2711
+text: 2711 1837 36 36 5d2cddd214eb351d6fd3eb225c7062a9
+cpath: /
+copyroot: 0 /
+
+20n.0.t2710-1 modify false true /old/sipXpublisher/main
+
+
+1886 2027

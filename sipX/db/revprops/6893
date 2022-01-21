@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-06-02T22:10:01.640519Z
+K 7
+svn:log
+V 412
+Reduce Ruby min required version from 1.8.4 to 1.8.2 and Rake min required version from 0.7.0 to 0.5.3, to make it easier to build sipX on multiple distros. The only Ruby-dependent product features currently are CDRs and sipXconfig unit tests. CDRs might work on Ruby 1.8.2, we don't know; sipXconfig unit tests won't because SOAP4R is not part of Ruby 1.8.2, but only a few people need to run those unit tests.
+
+END

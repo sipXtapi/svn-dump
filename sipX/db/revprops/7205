@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-08-07T17:21:02.495123Z
+K 7
+svn:log
+V 92
+Create user_dworley_redirectors branch to turn sipXregistry
+redirectors into true plug-ins.
+
+END

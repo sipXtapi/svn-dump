@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-08-24T16:54:46.005630Z
+K 7
+svn:log
+V 127
+rpms are now building, use DESTDIR and getting right integration w/java projects, add more missed files to distribution tarball
+END

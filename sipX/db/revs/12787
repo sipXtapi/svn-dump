@@ -1,0 +1,518 @@
+PLAIN
+K 10
+svn:ignore
+V 5
+*.h
+
+
+END
+ENDREP
+id: ey2.7n5.r12787/43
+type: dir
+pred: ey2.0.r9705/1061
+count: 1
+props: 12787 0 30 0 c8a4373ee72ba5b84c93259bb6eab330
+cpath: /main/sipXcallLib/examples/include/os/msinttypes
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 5
+*.h
+
+
+END
+ENDREP
+id: a5i.7n5.r12787/282
+type: dir
+pred: a5i.0.r6469/21726152
+count: 1
+props: 12787 239 30 0 c8a4373ee72ba5b84c93259bb6eab330
+cpath: /main/sipXcallLib/examples/include/os/shared
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 5
+*.h
+
+
+END
+ENDREP
+id: a5j.7n5.r12787/524
+type: dir
+pred: a5j.0.r6469/21726276
+count: 1
+props: 12787 481 30 0 c8a4373ee72ba5b84c93259bb6eab330
+cpath: /main/sipXcallLib/examples/include/os/wnt
+copyroot: 10815 /main
+
+PLAIN
+K 10
+msinttypes
+V 21
+dir ey2.7n5.r12787/43
+K 6
+shared
+V 22
+dir a5i.7n5.r12787/282
+K 3
+wnt
+V 22
+dir a5j.7n5.r12787/524
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 13
+*.h
+*stream
+
+
+END
+ENDREP
+id: a5h.7n5.r12787/907
+type: dir
+pred: a5h.0.r9705/1323
+count: 2
+text: 12787 720 122 122 e89ee48e224a55e23c2944ba99c4cc44
+props: 12787 855 39 0 2e7dd81e0695faa205c135957934fb6b
+cpath: /main/sipXcallLib/examples/include/os
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 5
+*.h
+
+
+END
+ENDREP
+id: a5l.7n5.r12787/1195
+type: dir
+pred: a5l.0.r6469/21761261
+count: 1
+props: 12787 1152 30 0 c8a4373ee72ba5b84c93259bb6eab330
+cpath: /main/sipXcallLib/examples/include/utl
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 5
+*.h
+
+
+END
+ENDREP
+id: a1d.7n5.r12787/1433
+type: dir
+pred: a1d.0.r6469/21761379
+count: 1
+props: 12787 1390 30 0 c8a4373ee72ba5b84c93259bb6eab330
+cpath: /main/sipXcallLib/examples/include/net
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 5
+*.h
+
+
+END
+ENDREP
+id: a5k.7n5.r12787/1671
+type: dir
+pred: a5k.0.r6469/21761497
+count: 1
+props: 12787 1628 30 0 c8a4373ee72ba5b84c93259bb6eab330
+cpath: /main/sipXcallLib/examples/include/tapi
+copyroot: 10815 /main
+
+PLAIN
+K 3
+net
+V 23
+dir a1d.7n5.r12787/1433
+K 3
+nss
+V 23
+dir a1e.0.r6711/4705450
+K 2
+os
+V 22
+dir a5h.7n5.r12787/907
+K 4
+tapi
+V 23
+dir a5k.7n5.r12787/1671
+K 3
+utl
+V 23
+dir a5l.7n5.r12787/1195
+K 2
+wx
+V 23
+dir a5m.0.r6955/1716109
+END
+ENDREP
+id: a1c.7n5.r12787/2104
+type: dir
+pred: a1c.0.r9705/1758
+count: 5
+text: 12787 1867 224 224 569149b55e0c9b1bfc0899a108fb2cdd
+cpath: /main/sipXcallLib/examples/include
+copyroot: 10815 /main
+
+PLAIN
+K 10
+CallScript
+V 23
+dir 9zi.7n5.r11830/2761
+K 10
+CheckVMail
+V 24
+dir 9zx.7n5.r12361/79159
+K 11
+Makefile.am
+V 24
+file a02.7n5.r12498/7110
+K 9
+PlaceCall
+V 23
+dir a03.7n5.r12716/1462
+K 11
+ReceiveCall
+V 23
+dir a0d.7n5.r12649/3903
+K 21
+SampleGrabberCallback
+V 23
+dir a0n.0.r6711/4647056
+K 3
+bin
+V 24
+dir a13.0.r6469/21907817
+K 7
+include
+V 23
+dir a1c.7n5.r12787/2104
+K 3
+lib
+V 23
+dir akd.0.r6929/8100735
+K 11
+musicServer
+V 23
+dir al3.7n5.r12498/6858
+K 11
+sipXezPhone
+V 24
+dir ald.7n5.r12361/83885
+K 14
+sipXtapiDriver
+V 22
+dir apu.0.r8484/469504
+END
+ENDREP
+id: 9zh.7n5.r12787/2850
+type: dir
+pred: 9zh.7n5.r12716/2264
+count: 66
+text: 12787 2293 544 544 7567f5be26f2971f732780edbf794d95
+props: 11830 4776 48 0 86168c69db02cf3306494c6df91bc2ed
+cpath: /main/sipXcallLib/examples
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g93.7n5.r11699/277
+K 12
+CONTRIBUTORS
+V 25
+file 9wu.0.r6469/21689575
+K 9
+ChangeLog
+V 25
+file 9wv.0.r6469/21643511
+K 7
+INSTALL
+V 24
+file 9ww.0.r6955/1431648
+K 11
+Makefile.am
+V 24
+file 9wx.7n5.r12466/6939
+K 4
+NEWS
+V 25
+file 9wy.0.r6469/21715635
+K 6
+README
+V 24
+file 9wz.0.r6955/1430153
+K 4
+TODO
+V 25
+file 9x0.0.r6469/21714560
+K 9
+acsite.m4
+V 24
+file 9x1.0.r6955/1426469
+K 3
+bin
+V 23
+dir 9x2.7n5.r11830/1852
+K 12
+configure.ac
+V 24
+file 9xd.7n5.r12498/4730
+K 3
+doc
+V 23
+dir 9xe.7n5.r11830/1555
+K 8
+examples
+V 23
+dir 9zh.7n5.r12787/2850
+K 7
+include
+V 24
+dir aso.7n5.r12754/11439
+K 4
+meta
+V 23
+dir aww.7n5.r10859/1089
+K 10
+resource.h
+V 24
+file ax6.0.r6711/4638971
+K 24
+sipXcallLib-msvc8.vcproj
+V 24
+file eq7.7n5.r11190/4218
+K 15
+sipXcallLib.dsp
+V 24
+file 155.7o0.r11289/9722
+K 15
+sipXcallLib.vcp
+V 20
+file ebn.0.r8568/556
+K 18
+sipXcallLib.vcproj
+V 25
+file ax7.7n5.r12142/10038
+K 19
+sipXcallLib.vcxproj
+V 25
+file nqj.7n5.r12361/77734
+K 28
+sipXcallLibTest-msvc8.vcproj
+V 23
+file eq8.0.r10791/11692
+K 19
+sipXcallLibTest.dsp
+V 24
+file 80p.7nz.r11289/9481
+K 19
+sipXcallLibTest.vcp
+V 22
+file ebo.0.r10400/8524
+K 8
+sipXtapi
+V 24
+dir ax8.7n5.r11289/10298
+K 21
+sipXtapi-msvc8.vcproj
+V 23
+file exd.0.r10789/12306
+K 12
+sipXtapi.def
+V 23
+file axe.0.r7339/293346
+K 12
+sipXtapi.dsw
+V 23
+file ebp.7n5.r11290/548
+K 11
+sipXtapi.rc
+V 23
+file axf.7n5.r12712/141
+K 12
+sipXtapi.sln
+V 24
+file axg.7n5.r12142/9845
+K 15
+sipXtapi.vcproj
+V 24
+file axh.7n5.r12142/9457
+K 16
+sipXtapi.vcxproj
+V 25
+file nq6.7n5.r12361/77562
+K 25
+sipXtapiTest-msvc8.vcproj
+V 23
+file eq9.0.r10791/11487
+K 16
+sipXtapiTest.dsp
+V 24
+file 16c.7ny.r11289/9189
+K 19
+sipXtapiTest.vcproj
+V 24
+file axi.7n5.r12142/9649
+K 20
+sipXtapiTest.vcxproj
+V 25
+file nq8.7n5.r12361/77386
+K 19
+sipXtapi_VS2013.sln
+V 25
+file np9.7n5.r12361/77212
+K 19
+sipxcalllib.spec.in
+V 24
+file axj.7n5.r10867/2358
+K 3
+src
+V 24
+dir axk.7n5.r12754/10049
+END
+ENDREP
+id: 9wt.7n5.r12787/4995
+type: dir
+pred: 9wt.7n5.r12754/13586
+count: 458
+text: 12787 3091 1891 1891 e54b055b1fcb67481b15b8b1e8cc265d
+props: 12332 2994 205 0 ef07c7183e7adf0960f2168bcfc4512d
+cpath: /main/sipXcallLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g8y.7n5.r12172/315
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 22
+dir 9wj.7n5.r12744/788
+K 15
+configure.patch
+V 23
+file o60.7n5.r12434/574
+K 10
+readme.txt
+V 23
+file 9ws.7n5.r12464/516
+K 7
+scripts
+V 23
+dir fxk.7n5.r12171/1617
+K 15
+sipX-msvc16.sln
+V 23
+file r8b.7n5.r12786/558
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r12787/4995
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r12785/2570
+K 12
+sipXmediaLib
+V 24
+dir b40.7n5.r12783/12522
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r12781/2317
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r12761/5372
+K 11
+sipXtackLib
+V 23
+dir boq.7n5.r12779/2727
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r12787/5989
+type: dir
+pred: 9wi.7n5.r12786/1553
+count: 3725
+text: 12787 5232 744 744 0e3c2834e54b9c0d74b652d75dce9062
+props: 12114 59175 76 0 1dd3880c3272b32f88d1700b38908223
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r12113/17441
+K 4
+main
+V 23
+dir 9wi.7n5.r12787/5989
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r12787/6384
+type: dir
+pred: 0.0.r12786/1947
+count: 12787
+text: 12787 6212 159 159 15f7280582226724f2007f36272f9a89
+cpath: /
+copyroot: 0 /
+
+a1d.7n5.t12786-1 modify false true /main/sipXcallLib/examples/include/net
+
+a5i.7n5.t12786-1 modify false true /main/sipXcallLib/examples/include/os/shared
+
+a5j.7n5.t12786-1 modify false true /main/sipXcallLib/examples/include/os/wnt
+
+a5k.7n5.t12786-1 modify false true /main/sipXcallLib/examples/include/tapi
+
+ey2.7n5.t12786-1 modify false true /main/sipXcallLib/examples/include/os/msinttypes
+
+a5h.7n5.t12786-1 modify false true /main/sipXcallLib/examples/include/os
+
+a5l.7n5.t12786-1 modify false true /main/sipXcallLib/examples/include/utl
+
+
+6384 6531

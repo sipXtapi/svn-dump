@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-21T19:31:50.502497Z
+K 7
+svn:log
+V 398
+BugFix: XPL-98: OsStunDatagramSocket should look for refresh/binding failures.	
+
+The OsStunDatagramSocket now reports failures to the OsSysLog and will abort if never successful.
+
+Reporting strategy:
+
+Warning ever 1 minute then warnings once an hour if stun bindings fails.
+Error if NEVER gets a binding after 30 minutes  Also stops trying.  The code will never abort if ever received a binding.
+
+
+
+END

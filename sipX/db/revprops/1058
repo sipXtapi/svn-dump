@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-06-27T12:41:16.077884Z
+K 7
+svn:log
+V 75
+Implementation of resource list based on draft-ietf-simple-event-list-07.
+
+
+END

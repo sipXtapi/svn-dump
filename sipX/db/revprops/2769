@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-02T20:57:15.299525Z
+K 7
+svn:log
+V 51
+XVX-26: Add make rule to check for tabs in sipXvxml
+END

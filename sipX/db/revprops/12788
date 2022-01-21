@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2020-06-23T23:31:04.030627Z
+K 7
+svn:log
+V 186
+Created project build files for sipXcallLib, sipXcallLibTest, sipXtapi and sipXtapiTest projects on MSVS2019.
+Still need to create MSVS2019 project builds for callLib example projects.
+
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-10T14:29:05.912147Z
+K 7
+svn:log
+V 138
+Improve logging for connection setup, especially listening sockets.
+Don't attempt to initialize SSL on a socket when the connect failed.
+
+
+END

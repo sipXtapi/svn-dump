@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-05-05T12:31:24.199583Z
+K 7
+svn:log
+V 37
+Add svn:executable to proxy-summary.
+
+END

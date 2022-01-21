@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-03T19:53:42.947694Z
+K 7
+svn:log
+V 82
+Set audio type of mixed data in MprBridge depending on data types of mix sources.
+
+END

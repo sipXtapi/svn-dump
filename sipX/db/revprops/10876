@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-10-30T06:39:44.951766Z
+K 7
+svn:log
+V 163
+Add fancy Delay resource - it buffers audio in a circular buffer until you command to start play it. Then it plays it as usual (with some delay introduced, sure).
+
+END

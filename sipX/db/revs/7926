@@ -1,0 +1,243 @@
+PLAIN
+K 11
+Makefile.am
+V 24
+file 87v.1ie.r7920/58079
+K 16
+redirect_plugins
+V 23
+dir 87w.5mb.r7920/53879
+K 16
+register_plugins
+V 23
+dir 87w.5n5.r7920/57760
+END
+ENDREP
+id: 87u.1ie.r7926/166
+type: dir
+pred: 87u.1ie.r7920/58542
+count: 9
+text: 7926 0 153 153 14158c2bf883a9a45a0f71af00cc9784
+props: 5457 188544 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXregistry/lib
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 21
+file 1y6.0.r2414/7414
+K 9
+ChangeLog
+V 20
+file 1y7.0.r2470/663
+K 7
+INSTALL
+V 22
+file 1y8.0.r2414/11973
+K 7
+LICENSE
+V 20
+file 1y9.0.r2470/440
+K 11
+Makefile.am
+V 24
+file 1ya.1ie.r7616/16290
+K 4
+NEWS
+V 22
+file 1yb.0.r2414/15680
+K 6
+README
+V 21
+file 1yc.0.r2414/7102
+K 4
+TODO
+V 22
+file 1yd.0.r2414/11664
+K 3
+bin
+V 23
+dir 1yf.1ie.r7920/59518
+K 6
+config
+V 24
+file d3t.1ie.r7274/33796
+K 12
+configure.ac
+V 24
+file 1yk.1ie.r7920/39196
+K 3
+doc
+V 23
+dir 1z6.1ie.r7920/41219
+K 3
+etc
+V 23
+dir 1yl.1ie.r7920/60949
+K 7
+include
+V 23
+dir 7v9.1ie.r7920/32157
+K 3
+lib
+V 21
+dir 87u.1ie.r7926/166
+K 4
+meta
+V 22
+dir 1zk.1ie.r7373/5905
+K 16
+sipXregistry.dsp
+V 21
+file 1z4.1ie.r7688/52
+K 20
+sipxregistry.spec.in
+V 22
+file 1ze.1ie.r7923/334
+K 3
+src
+V 22
+dir 1yq.1ie.r7922/1600
+END
+ENDREP
+id: 1y5.1ie.r7926/1200
+type: dir
+pred: 1y5.1ie.r7923/1389
+count: 266
+text: 7926 409 778 778 421f5087796a6fd62aec2e07137f8f8c
+props: 7274 34820 908 0 fb4c6db7f7870bbd14ec49091b13a7c0
+cpath: /main/sipXregistry
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 11
+Makefile.in
+V 22
+file d0m.421.r7476/352
+K 7
+bbridge
+V 20
+dir 8dl.0.r7696/8716
+K 5
+build
+V 22
+file d5a.0.r7664/15661
+K 6
+config
+V 21
+dir 91.1i4.r7866/1575
+K 12
+configure.ac
+V 22
+file d0n.0.r7696/10199
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 3
+lib
+V 21
+dir cyn.0.r7920/25603
+K 14
+msvs6build.bat
+V 20
+file dm4.0.r7715/812
+K 14
+resiprocateLib
+V 21
+dir 8g8.0.r7696/13751
+K 9
+sipXb2bua
+V 22
+dir dau.0.r7443/443096
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r7898/7415
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r7919/40913
+K 10
+sipXconfig
+V 23
+dir 2hf.1i7.r7924/18623
+K 19
+sipXmediaAdapterLib
+V 20
+dir 89s.0.r7761/9455
+K 12
+sipXmediaLib
+V 21
+dir mz.1i8.r7761/7877
+K 7
+sipXpbx
+V 23
+dir 5g6.1i9.r7920/24333
+K 11
+sipXportLib
+V 20
+dir 3.1ib.r7920/9926
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r7852/3172
+K 13
+sipXpublisher
+V 22
+dir 20n.1id.r7870/4851
+K 12
+sipXregistry
+V 22
+dir 1y5.1ie.r7926/1200
+K 11
+sipXtackLib
+V 21
+dir dk.1if.r7873/7474
+K 8
+sipXvxml
+V 23
+dir 22d.1ig.r7919/13863
+K 10
+top.mak.in
+V 21
+file d5l.0.r7330/2797
+END
+ENDREP
+id: 7q4.0.r7926/2465
+type: dir
+pred: 7q4.0.r7924/19891
+count: 2003
+text: 7926 1443 1009 1009 6ac21e0b657f357b4e9d88f2911d449e
+props: 7920 63266 2483 0 34a3f5cff00027889fb3515943dd051b
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r7925/7750
+K 4
+main
+V 20
+dir 7q4.0.r7926/2465
+K 4
+tags
+V 20
+dir 7q5.0.r7874/3088
+END
+ENDREP
+id: 0.0.r7926/2803
+type: dir
+pred: 0.0.r7925/8035
+count: 7926
+text: 7926 2677 113 113 433589d86fbf3a64e451af27aba7fc57
+cpath: /
+copyroot: 0 /
+
+87w.1ie.r7861/1290 delete false false /main/sipXregistry/lib/plugin
+
+
+2803 2946

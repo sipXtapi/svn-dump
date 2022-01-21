@@ -1,0 +1,195 @@
+PLAIN
+K 8
+.project
+V 22
+file dtm.0.r8017/25775
+K 12
+CONTRIBUTORS
+V 22
+file dtn.0.r8017/32046
+K 9
+ChangeLog
+V 22
+file dto.0.r8017/26436
+K 7
+INSTALL
+V 22
+file dtp.0.r8017/26296
+K 7
+LICENSE
+V 22
+file dtq.0.r8017/25320
+K 11
+Makefile.am
+V 21
+file dtr.0.r8363/9100
+K 4
+NEWS
+V 22
+file dts.0.r8017/31907
+K 6
+README
+V 22
+file dtt.0.r8017/32191
+K 4
+TODO
+V 22
+file dtu.0.r8017/25918
+K 6
+config
+V 22
+file dtv.0.r8017/26097
+K 12
+configure.ac
+V 19
+file dtw.0.r8957/51
+K 17
+sipxtools.spec.in
+V 19
+file dtx.0.r8308/59
+K 3
+src
+V 20
+dir dty.0.r9304/1409
+END
+ENDREP
+id: dtl.0.r9374/547
+type: dir
+pred: dtl.0.r9324/2307
+count: 33
+text: 9374 0 534 534 ae26205f9dba4686e7de08b7cb16740f
+props: 8056 9591 74 0 05eebabc7a5a5886abd63f34e9888b91
+cpath: /main/sipXtools
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.in
+V 23
+file d0m.421.r8463/2590
+K 5
+build
+V 22
+file d5a.0.r7664/15661
+K 14
+buildmsvs6.bat
+V 20
+file dm4.683.r8357/0
+K 6
+config
+V 21
+dir 91.1i4.r8922/2027
+K 12
+configure.ac
+V 19
+file d0n.0.r8976/82
+K 16
+dependencies.mak
+V 20
+file dxw.0.r8471/894
+K 3
+lib
+V 20
+dir cyn.0.r9146/1492
+K 4
+meta
+V 20
+dir e8u.0.r9078/2167
+K 9
+sipXb2bua
+V 21
+dir dau.0.r7967/44454
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r9299/8499
+K 17
+sipXcommserverLib
+V 22
+dir 1qo.1i6.r9188/2395
+K 10
+sipXconfig
+V 23
+dir 2hf.1i7.r9359/11251
+K 19
+sipXmediaAdapterLib
+V 21
+dir 89s.0.r8363/16089
+K 12
+sipXmediaLib
+V 22
+dir mz.1i8.r9297/18722
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r9290/2569
+K 11
+sipXportLib
+V 20
+dir 3.1ib.r9274/4892
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r9259/4895
+K 13
+sipXpublisher
+V 24
+dir 20n.1id.r8539/123536
+K 12
+sipXregistry
+V 23
+dir 1y5.1ie.r9058/16711
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r9299/23536
+K 9
+sipXtools
+V 19
+dir dtl.0.r9374/547
+K 8
+sipXvxml
+V 22
+dir 22d.1ig.r9297/6143
+K 10
+top.mak.in
+V 21
+file d5l.0.r7330/2797
+END
+ENDREP
+id: 7q4.0.r9374/1770
+type: dir
+pred: 7q4.0.r9359/12511
+count: 2723
+text: 9374 757 1000 1000 ca236c9bb847c361b9860248ef98e95f
+props: 9352 182476 2876 0 42ff73af28f7fa194262d114ed97b28e
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r9373/24901
+K 4
+main
+V 20
+dir 7q4.0.r9374/1770
+K 4
+tags
+V 20
+dir 7q5.0.r9367/2658
+END
+ENDREP
+id: 0.0.r9374/2109
+type: dir
+pred: 0.0.r9373/25188
+count: 9374
+text: 9374 1982 114 114 7dc5089863ce9745564a70027e5ee05a
+cpath: /
+copyroot: 0 /
+
+es8.0.r9324/1527 delete false false /main/sipXtools/interop-server-config
+
+
+2109 2253

@@ -1,0 +1,43 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-10-05T09:43:50.150402Z
+K 7
+svn:log
+V 979
+Merged revisions 7339-7356 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7339 | bob | 2006-08-24 23:15:45 +0400 | 11 lines
+  
+  Somewhat large sipXtapi update:
+   - More infrastructure for RTP over TCP
+   - Ability to plug in external transports
+   - API tweaked for binary backwards comp
+   - Many Bug fixes
+   - Regenerated docs
+  
+  NOTE: I did cut a binary/source snapshot before this check-in
+        and will make that avavailable.
+........
+  r7340 | bob | 2006-08-24 23:38:39 +0400 | 3 lines
+  
+  Build fixes for gcc3.3.6/linux.   I still need to verify gcc4 and MacOS.
+........
+  r7344 | bob | 2006-08-25 16:47:54 +0400 | 5 lines
+  
+  Tweak to update version -- which will now work regardless of your checkout directory structure.
+  
+  (update version updates the version in sipXtapi.h with the current repo version).
+........
+  r7356 | bob | 2006-08-27 17:55:00 +0400 | 2 lines
+  
+  Fixes/tweaks to build under gcc 4.1.1
+........
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-01-10T21:45:18.549660Z
+K 7
+svn:log
+V 70
+Changes sipXsdpLibTest to fix eVC4 WinCE5 build through sipXtackLib.
+
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2010-03-31T22:22:59.705539Z
+K 7
+svn:log
+V 74
+sipXmediaAdapterLib: Add ability to set Mic gain by setting Bridge gains.
+
+END

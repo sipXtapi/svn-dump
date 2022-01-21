@@ -1,0 +1,52 @@
+id: v9.0.r1321/0
+type: dir
+count: 0
+cpath: /old/sipXcallLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 16
+dir v9.0.r1321/0
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1321/257
+type: dir
+pred: 1.0.r1320/3765
+count: 1320
+text: 1321 75 169 169 7df41791559aad401da722063bf36d11
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r1321/257
+END
+ENDREP
+id: 0.0.r1321/448
+type: dir
+pred: 0.0.r1320/3960
+count: 1321
+text: 1321 400 35 35 ee5ac4f3d3ecb16e1e185c41d3927b14
+cpath: /
+copyroot: 0 /
+
+_0.0.t1320-1 add false false /old/sipXcallLib
+
+
+448 587

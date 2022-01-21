@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-02-21T20:10:50.818223Z
+K 7
+svn:log
+V 78
+XCF-753 Fix squeezer in autoattendant working hours, verify time fields are ok
+END

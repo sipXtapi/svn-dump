@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-04-15T19:48:18.739111Z
+K 7
+svn:log
+V 70
+XCF-339 group label was missing, was cloneing wrong tapestry component
+END

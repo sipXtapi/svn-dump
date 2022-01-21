@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2016-04-06T14:40:13.151116Z
+K 7
+svn:log
+V 215
+-fixes for building in VS2015
+  -literal string concatenations must be spaced
+  -timespec struct definition not needed
+  -snprintf definition not needed
+  -custom inttypes.h not needed
+  -tzname should be _tzname
+  
+END

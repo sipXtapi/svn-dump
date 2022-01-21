@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-08-03T21:09:17.706941Z
+K 7
+svn:log
+V 97
+Bug patch XPL55: ./configure options to allow PCRE include and lib dirs to be in different places
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-11-14T04:44:35.503670Z
+K 7
+svn:log
+V 183
+Yank partial implementation of HTTP basic authentication so it doesn't get in the way of using web services, pending a full implementation.
+Fix a bug (I think) in SnapshotPageTestUi.
+
+END

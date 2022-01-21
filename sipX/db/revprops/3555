@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-02-21T17:20:12.247376Z
+K 7
+svn:log
+V 217
+hbm2ddl ant target added: run to generate a template for SQL scripts 
+
+this version does not modify database and does not chnage or overwrite any SQL scrupts
+a new schema-export.sql file is created in build directory
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-08-17T20:44:39.642847Z
+K 7
+svn:log
+V 74
+redirect to page that distinguishes uninitialized db from a initialized db
+END

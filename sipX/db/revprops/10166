@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-16T21:16:28.705364Z
+K 7
+svn:log
+V 71
+Add ability to set default codecs plugins search path at compile time.
+
+END

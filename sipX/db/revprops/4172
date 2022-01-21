@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-14T18:14:35.991491Z
+K 7
+svn:log
+V 93
+Add mention of use of --prefix option.
+Mention that expat-devel is needed, as well as expat.
+
+END

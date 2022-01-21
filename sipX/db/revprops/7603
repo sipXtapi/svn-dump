@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-29T19:53:17.832374Z
+K 7
+svn:log
+V 144
+XCF-1277 fix regular expresion responsible for validating user Caller ID - all characters valid in user part of SIP URIs should be accepted now
+
+END

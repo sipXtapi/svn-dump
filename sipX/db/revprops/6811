@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+prikov
+K 8
+svn:date
+V 27
+2006-05-11T18:38:46.158782Z
+K 7
+svn:log
+V 82
+Merge from sipx-main 6805,6807
+Remove SIPX_{DISTRO,DISTROVER}
+Add an usage detail
+
+END

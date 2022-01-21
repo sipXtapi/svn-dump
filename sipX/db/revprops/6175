@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-02-17T05:22:18.982946Z
+K 7
+svn:log
+V 230
+Address XRR-92: "HA: on startup, get any updates for unreachable peers from reachable ones" by implementing the method RegistrarInitialSync::recoverUnReachablePeers.  Not yet tested, requires setting up at least three registrars.
+
+END

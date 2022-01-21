@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-09-03T14:32:13.612244Z
+K 7
+svn:log
+V 231
+[XRR-114] Remove any transport parameter when changing domain in a mapping.
+          The request may fail if the domain is changed but an existing transport
+          restriction specifies a value the new domain does not support.
+
+END

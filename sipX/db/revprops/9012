@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-08T19:05:08.814872Z
+K 7
+svn:log
+V 109
+FIX BUILD : look for mailboxprefs.xml exactly, not a pattern match (was picking up subversion metadata files)
+END

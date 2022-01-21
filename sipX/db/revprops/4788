@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-27T13:05:43.320085Z
+K 7
+svn:log
+V 95
+Added some very crude/basic notes on building under Linux.  More work is
+clearly needed here.
+
+
+END

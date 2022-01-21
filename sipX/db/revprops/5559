@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-11-10T19:21:31.849822Z
+K 7
+svn:log
+V 117
+Undo last change, which makes the code uglier.  GCJ compatibility is not important -- didn't realize I was using GCJ.
+END

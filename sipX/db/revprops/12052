@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2013-02-21T18:57:41.034770Z
+K 7
+svn:log
+V 109
+Fix a latent bug: the sprintf buffer for the task ID was only 15 chars -- on a 64-bit host this is not enough
+END

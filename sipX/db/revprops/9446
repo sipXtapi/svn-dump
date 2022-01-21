@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-28T20:09:07.771958Z
+K 7
+svn:log
+V 111
+MpInputOutputFrameworkTest: Do not use MpMediaTask for now, as it may touch OSS device too. More debug output.
+
+END

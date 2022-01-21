@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2009-01-29T19:21:48.062522Z
+K 7
+svn:log
+V 193
+-fix Release build on a bunch of projects to match Debug settings for OutputDirectory
+-added DISABLE_STREAM_PLAYER define to sipXmediaLib project to match define in sipXmediaAdapterLib project
+
+END

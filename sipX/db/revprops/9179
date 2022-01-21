@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-27T16:02:11.245521Z
+K 7
+svn:log
+V 128
+XCF-1591 - Explicitly call save settings to save the configuration, bug was introduced in r9105 3/16/07 by some page refactoring
+END

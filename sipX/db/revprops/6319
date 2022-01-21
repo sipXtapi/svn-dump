@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-03-08T23:45:01.004127Z
+K 7
+svn:log
+V 361
+XPB-522 disable namespace awarness in DOM4J XML Parser when parsing process.cgi output
+ProcessDefinitions.xml has been recently updated to include namespace declaration.
+sipXconfig uses XPath expressions that stopped working, which results in empty services screen.
+I disabled namespace feature for now since namespace aware Xpath expressions look really ugly.
+
+END

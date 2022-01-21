@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-24T19:44:49.024555Z
+K 7
+svn:log
+V 84
+Remove SSL certificates from test configuration, so users have to create
+their own.
+
+END

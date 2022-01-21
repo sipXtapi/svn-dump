@@ -1,0 +1,187 @@
+PLAIN
+K 13
+svn:externals
+V 70
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6/config
+
+K 10
+svn:ignore
+V 156
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.properties
+config.status
+configure
+libtool
+stamp-h1
+bin.eclipse
+
+K 17
+svnmerge-2.6-head
+V 54
+https://scm.sipfoundry.org/rep/sipXconfig/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 5
+1-146
+K 18
+svnmerge-main-head
+V 46
+https://scm.sipfoundry.org/rep/sipXconfig/main
+K 18
+svnmerge-main-revs
+V 5
+1-133
+K 24
+svnmerge-post-2.6.1-head
+V 61
+https://scm.sipfoundry.org/rep/sipXconfig/branches/post-2.6.1
+K 24
+svnmerge-post-2.6.1-revs
+V 5
+1-125
+END
+ENDREP
+id: 2hf.jp.r3194/654
+type: dir
+pred: 2hf.jp.r3172/661
+count: 116
+text: 3170 18926 1185 1185 4ff9ed73e9c44a903bd16775d2eec0a9
+props: 3194 0 641 0 57373a35a6741166e90d33c30706f8cc
+cpath: /old/sipXconfig/tags/2.6-export-B
+copyroot: 3172 /old/sipXconfig/tags/2.6-export-B
+
+PLAIN
+K 5
+2.5.1
+V 20
+dir 2hf.h7.r3034/198
+K 5
+2.5.2
+V 21
+dir 2hf.h8.r3047/1465
+K 12
+2.6-export-A
+V 20
+dir 2hf.je.r3193/654
+K 12
+2.6-export-B
+V 20
+dir 2hf.jp.r3194/654
+K 13
+main-export-B
+V 20
+dir 2hf.i6.r3137/535
+K 13
+main-export-C
+V 20
+dir 2hf.jc.r3192/538
+END
+ENDREP
+id: 4b6.0.r3194/1191
+type: dir
+pred: 4b6.0.r3193/1190
+count: 10
+text: 3194 923 255 255 19c41d89bf0786cafe6c39b139a5075d
+cpath: /old/sipXconfig/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 4c1.0.r3191/51
+K 4
+main
+V 21
+dir 2hf.0.r3190/19445
+K 4
+tags
+V 20
+dir 4b6.0.r3194/1191
+END
+ENDREP
+id: 2he.0.r3194/1479
+type: dir
+pred: 2he.0.r3193/1477
+count: 170
+text: 3194 1354 112 112 139f594f5b2bec8ea7b9babf85b19c27
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 20
+dir 2he.0.r3194/1479
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3194/2083
+type: dir
+pred: 1.0.r3193/2081
+count: 3193
+text: 3194 1639 431 431 02f27f7c4bf046f4bccdc12666ca4fa1
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3194/2083
+END
+ENDREP
+id: 0.0.r3194/2278
+type: dir
+pred: 0.0.r3193/2276
+count: 3194
+text: 3194 2229 36 36 0245318261c9b1831028ac013f92cbb1
+cpath: /
+copyroot: 0 /
+
+2hf.jp.t3193-1 modify false true /old/sipXconfig/tags/2.6-export-B
+
+
+2278 2419

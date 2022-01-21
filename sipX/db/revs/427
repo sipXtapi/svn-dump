@@ -1,0 +1,167 @@
+PLAIN
+K 10
+svn:ignore
+V 59
+Doxyfile
+Makefile
+Makefile.in
+html
+sipXportLib
+sipxportlib
+
+END
+ENDREP
+id: ac.0.r427/98
+type: dir
+pred: ac.0.r421/534
+count: 14
+text: 421 346 175 175 4f22c9f7683223e0669bb4ac2b76188e
+props: 427 0 85 0 c28825632b609d0327b955145db53f59
+cpath: /old/sipXportLib/main/doc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 20
+file 4.0.r381/145534
+K 9
+ChangeLog
+V 17
+file 5.0.r400/542
+K 7
+INSTALL
+V 20
+file 6.0.r381/149407
+K 7
+LICENSE
+V 19
+file 7.0.r381/20386
+K 11
+Makefile.am
+V 18
+file 8.0.r425/4063
+K 4
+NEWS
+V 20
+file 9.0.r381/150995
+K 6
+README
+V 20
+file a.0.r381/145234
+K 4
+TODO
+V 20
+file b.0.r381/149109
+K 9
+acsite.m4
+V 19
+file c.0.r381/72051
+K 3
+bin
+V 18
+dir as.0.r405/9534
+K 6
+config
+V 18
+dir 91.0.r425/3844
+K 12
+configure.ac
+V 18
+file d.0.r425/2996
+K 3
+doc
+V 16
+dir ac.0.r427/98
+K 7
+include
+V 17
+dir e.0.r424/4009
+K 4
+meta
+V 18
+dir b6.0.r425/2853
+K 15
+sipXportLib.dsp
+V 19
+file 4c.0.r415/8258
+K 19
+sipxportlib.spec.in
+V 19
+file aq.0.r425/4290
+K 3
+src
+V 18
+dir 4d.0.r426/3647
+K 12
+syslogviewer
+V 20
+dir 8y.0.r381/146508
+END
+ENDREP
+id: 3.0.r427/1048
+type: dir
+pred: 3.0.r426/4606
+count: 358
+text: 427 309 726 726 37d3d906b9545e2376be2a5e03bc23c7
+props: 400 1478 398 0 91b037372b3a2f8db538cb6f519edaae
+cpath: /old/sipXportLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir ar.0.r406/12304
+K 4
+main
+V 17
+dir 3.0.r427/1048
+K 4
+tags
+V 18
+dir an.0.r399/2981
+END
+ENDREP
+id: 2.0.r427/1381
+type: dir
+pred: 2.0.r426/4940
+count: 425
+text: 427 1261 107 107 64fd482d5600513b5a4ea50818de09a8
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r427/1381
+END
+ENDREP
+id: 1.0.r427/1592
+type: dir
+pred: 1.0.r426/5151
+count: 426
+text: 427 1535 44 44 a8a78bf253518e0351037aade6aba595
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r427/1592
+END
+ENDREP
+id: 0.0.r427/1780
+type: dir
+pred: 0.0.r426/5339
+count: 427
+text: 427 1732 35 35 067d0f92c880438c4cd5d964f1ff2a10
+cpath: /
+copyroot: 0 /
+
+ac.0.t426-1 modify false true /old/sipXportLib/main/doc
+
+
+1780 1917

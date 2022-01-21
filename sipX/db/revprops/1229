@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-25T23:19:38.096841Z
+K 7
+svn:log
+V 29
+Turned on RTTI for project.
+
+
+END

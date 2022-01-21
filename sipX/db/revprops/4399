@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2004-12-06T19:30:20.221129Z
+K 7
+svn:log
+V 128
+emoved <domain> from media server voicemail and custom
+prompt directory structures.
+
+http://track.sipfoundry.org/browse/XPB-135
+
+END

@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2009-01-27T17:10:27.188960Z
+K 7
+svn:log
+V 133
+VideoEngine Only:
+
+1) Fixed crash when placing audio-only calls
+2) Connecting/no camera images were not displayed for inbound calls
+
+
+END

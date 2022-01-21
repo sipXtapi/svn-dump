@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-09-16T13:23:30.028572Z
+K 7
+svn:log
+V 99
+More TURN updates -- making sure that I maint some form of backword compatibilty with old servers.
+
+END

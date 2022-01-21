@@ -1,0 +1,273 @@
+PLAIN
+K 9
+svk:merge
+V 227
+753b6353-b8fa-0310-b9e5-93f878b9c26c:/pingtel/main/sipXconfig:6900
+ecada2a1-f43d-4c34-8217-77ef9caec149:/local:1336
+ecada2a1-f43d-4c34-8217-77ef9caec149:/remote:1346
+ecada2a1-f43d-4c34-8217-77ef9caec149:/sipfoundry/plugins:1329
+K 10
+svn:ignore
+V 302
+BUILDSTAMP
+Makefile
+Makefile.in
+SVN-VERSION
+aclocal.m4
+autom4te.cache
+bin.eclipse
+build
+build.maven
+build.properties
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxconfig-*.rpm
+sipxconfig-*.tar.gz
+sipxconfig.spec
+spy.log
+stamp-h1
+top.build.dir
+velocity.log
+config.OLD
+jsetup
+setup
+
+K 19
+svnmerge-integrated
+V 367
+/branches/2.6:1-204,218,223-251,265,314,459 /branches/2.8:1-829,837-855,1016 /branches/3.0/sipXconfig:1-6144 /branches/3.2/sipXconfig:1-6508 /branches/3.4/sipXconfig:1-7071,7077-7079 /branches/3.6/sipXconfig:1-7636 /branches/lowcarb:1-1002 /branches/sipXconfig/3.3:1-6033 /branches/user_pin:1-732 /main/sipXconfig:1-6697 /pingtel/main/sipXconfig:1-6584,6690,6733,6736
+END
+ENDREP
+id: 2hf.1i7.r7637/989
+type: dir
+pred: 2hf.1i7.r7636/14471
+count: 1890
+text: 7636 13126 1332 1332 630cf0a8a1bf18212db5b4b6571fd19c
+props: 7637 0 976 0 43258226507e8133fe0dbd5e5fda283d
+cpath: /main/sipXconfig
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 11
+Makefile.in
+V 22
+file d0m.421.r7476/352
+K 7
+bbridge
+V 20
+dir 8dl.0.r7621/5051
+K 5
+build
+V 22
+file d5a.0.r7320/66775
+K 6
+config
+V 20
+dir 91.1i4.r7617/902
+K 12
+configure.ac
+V 20
+file d0n.0.r7602/576
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 3
+lib
+V 20
+dir cyn.0.r7587/4615
+K 14
+resiprocateLib
+V 20
+dir 8g8.0.r7630/1102
+K 9
+sipXb2bua
+V 22
+dir dau.0.r7443/443096
+K 11
+sipXcallLib
+V 22
+dir va.1i5.r7636/12370
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r7636/20677
+K 10
+sipXconfig
+V 21
+dir 2hf.1i7.r7637/989
+K 19
+sipXmediaAdapterLib
+V 21
+dir 89s.0.r7636/17511
+K 12
+sipXmediaLib
+V 22
+dir mz.1i8.r7636/16047
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r7636/8718
+K 11
+sipXportLib
+V 20
+dir 3.1ib.r7636/4096
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r7636/5605
+K 13
+sipXpublisher
+V 23
+dir 20n.1id.r7636/10245
+K 12
+sipXregistry
+V 23
+dir 1y5.1ie.r7636/19064
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r7636/22927
+K 8
+sipXvxml
+V 22
+dir 22d.1ig.r7636/7094
+K 10
+top.mak.in
+V 21
+file d5l.0.r7330/2797
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 46
+build.err
+configure
+autom4te.cache
+aclocal.m4
+
+K 38
+svnmerge-dworley-URI-parsing2main-head
+V 74
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/dworley-URI-parsing
+K 38
+svnmerge-dworley-URI-parsing2main-revs
+V 6
+1-7477
+K 26
+svnmerge-pingtel-main-head
+V 50
+https://paradise.pingtel.com/rep/sipX/pingtel/main
+K 26
+svnmerge-pingtel-main-revs
+V 341
+1-5590,5645,5738,5954,5969,6041,6077,6139,6144,6156,6158,6187,6207-6208,6230,6285,6289,6292-6295,6298-6299,6301,6306,6308-6309,6311,6325-6327,6329,6333,6338,6342,6403,6491,6538-6539,6551,6561,6937,6953,6960-6961,6997,7053,7062-7063,7065,7067,7069-7070,7080,7087,7093,7105,7115-7116,7164,7169-7170,7180,7199,7241-7242,7274,7276,7280,7293,7295
+K 22
+svnmerge-sipx-3.0-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.0
+K 22
+svnmerge-sipx-3.0-revs
+V 51
+1-5315,5348,5357,5382,5417,5451,5474-5478,5508,5621
+K 22
+svnmerge-sipx-3.2-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.2
+K 22
+svnmerge-sipx-3.2-revs
+V 16
+1-6588,6684,7229
+K 22
+svnmerge-sipx-3.4-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.4
+K 22
+svnmerge-sipx-3.4-revs
+V 166
+1-6680,6748,6759,6763-6764,6773,6775,6777-6778,6784,6794-6795,6798,6803,6825,6830,6888,6894,6902,6905,6926,6947,6956,6966,6976,6978,6981,6987,7000,7077-7079,7095,7249
+K 22
+svnmerge-sipx-3.6-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.6
+K 22
+svnmerge-sipx-3.6-revs
+V 6
+1-7636
+K 29
+svnmerge-sipx-modularity-head
+V 55
+https://scm.sipfoundry.org/rep/sipX/branches/modularity
+K 29
+svnmerge-sipx-modularity-revs
+V 6
+1-6845
+K 30
+svnmerge-sipx-replication-head
+V 67
+https://scm.sipfoundry.org/rep/sipX/branches/sipXconfig/replication
+K 30
+svnmerge-sipx-replication-revs
+V 6
+1-5723
+K 26
+svnmerge-solaris2main-head
+V 57
+https://scm.sipfoundry.org/rep/sipX/branches/solaris_port
+K 26
+svnmerge-solaris2main-revs
+V 6
+1-6454
+K 43
+svnmerge-user_dworley_redirectors2main-head
+V 69
+https://scm.sipfoundry.org/rep/sipX/branches/user_dworley_redirectors
+K 43
+svnmerge-user_dworley_redirectors2main-revs
+V 11
+1-7213,7472
+END
+ENDREP
+id: 7q4.0.r7637/4263
+type: dir
+pred: 7q4.0.r7636/24148
+count: 1875
+text: 7637 1229 960 960 af62deadcc0414029da30ae9353b1b2e
+props: 7637 2202 2048 0 c242baef84019c600b7a1d60663333bc
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r7635/4016
+K 4
+main
+V 20
+dir 7q4.0.r7637/4263
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r7637/4599
+type: dir
+pred: 0.0.r7636/24487
+count: 7637
+text: 7637 4472 114 114 8f08abdc6d88bd144dacb5d19f7f0ed7
+cpath: /
+copyroot: 0 /
+
+7q4.0.t7636-1 modify false true /main
+
+2hf.1i7.t7636-1 modify false true /main/sipXconfig
+
+
+4599 4743

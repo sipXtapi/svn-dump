@@ -1,0 +1,121 @@
+id: 5g6.y5.r4129/0
+type: dir
+pred: 5g6.0.r4128/6309
+count: 33
+text: 4128 5698 598 598 6b9715d65de45437a817ded6f5e2fab7
+props: 4096 5324 180 0 12058b5d304b927b36c7896295e0d907
+cpath: /old/sipXpbx/tags/2.5.2
+copyfrom: 4128 /old/sipXpbx/main
+
+PLAIN
+K 5
+2.5.1
+V 22
+dir 5g6.y3.r4102/11489
+K 5
+2.5.2
+V 18
+dir 5g6.y5.r4129/0
+END
+ENDREP
+id: 5kn.0.r4129/329
+type: dir
+pred: 5kn.0.r4102/11791
+count: 2
+text: 4129 240 76 76 fae128c0021622c53123c3539ed5b225
+cpath: /old/sipXpbx/tags
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 20
+dir 5g6.0.r4128/6309
+K 4
+tags
+V 19
+dir 5kn.0.r4129/329
+END
+ENDREP
+id: 5g5.0.r4129/572
+type: dir
+pred: 5g5.0.r4128/6614
+count: 36
+text: 4129 486 73 73 7c8f1f2c32b212e2a158e5231c7ab400
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 19
+dir 5g5.0.r4129/572
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4129/1206
+type: dir
+pred: 1.0.r4128/7251
+count: 4127
+text: 4129 724 469 469 1c7a9799b9816031920ae164aa25e81a
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4129/1206
+END
+ENDREP
+id: 0.0.r4129/1400
+type: dir
+pred: 0.0.r4128/7446
+count: 4129
+text: 4129 1351 36 36 474c3c5dbc5b935d58ae4cc8b53ded2b
+cpath: /
+copyroot: 0 /
+
+5g6._0.t4128-1 add false false /old/sipXpbx/tags/2.5.2
+4128 /old/sipXpbx/main
+
+1400 1541

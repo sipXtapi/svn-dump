@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-05-18T11:12:17.098647Z
+K 7
+svn:log
+V 534
+Implemented XPL-204 - static initialization solution.
+
+Read the *Init.h files for detailed description on how to fix static initialization problem if discovered and how to avoid it. From now on, it is safe to use static objects in static constructor/destructor if the instructions are followed.
+
+Made TapiMgr a static singleton without using new, as it's not needed.
+
+Made spSipMessageFieldProps in SipMessage a static singleton without using new. Constructor/destructor ordering problem is avoided in the way described in UtlInit.h.
+
+END

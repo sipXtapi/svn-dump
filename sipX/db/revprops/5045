@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-15T15:14:01.316891Z
+K 7
+svn:log
+V 257
+Fix XCF-599 for real.  Sathya found (thanks for keeping me honest!) that although you get an error when you try to set the upper limit of the ext pool below the lower limit, nonetheless the limits are still updated to these bogus values.  Now they are not.
+
+END

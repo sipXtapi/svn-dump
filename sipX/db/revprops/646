@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-08-18T17:14:00.716118Z
+K 7
+svn:log
+V 59
+Fixed a compiler warning on Windows for the DNS SRV util.
+
+
+END

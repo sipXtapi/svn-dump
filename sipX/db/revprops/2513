@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-08T16:51:25.373806Z
+K 7
+svn:log
+V 115
+Handle CANCEL messages correctly, by finding the corresponding
+suspended request and terminating processing of it.
+
+END

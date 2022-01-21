@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-03-30T14:29:33.240329Z
+K 7
+svn:log
+V 162
+Make sipx-uninstall aware of ruby gems, try to uninstall if --gems
+option is given. Put SIPXCDR in list of databases to be removed
+if we want to clear databases.
+
+END

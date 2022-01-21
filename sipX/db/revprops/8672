@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2007-01-30T18:24:46.147640Z
+K 7
+svn:log
+V 453
+Make event publishing and subscription mechanisms agree on resource URI.
+
+In 3.6, the "resource IDs" used in the SUBSCRIBE and NOTIFY presence events 
+were all psuedo URIs without the sip:
+
+In 3.7, some of the resources became real URIs WITH the sip:, but some
+did not, causing mismatches.
+
+This change makes all of the contacts use sip: so they all agree.
+
+Completes XSL-148 "Event publishing mechanisms should use full URIs as "resource IDs"
+
+--Woof!
+
+END

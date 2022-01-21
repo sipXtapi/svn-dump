@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2014-12-15T06:09:35.914037Z
+K 7
+svn:log
+V 62
+Added record pause and resume to media interface (not tested)
+
+END

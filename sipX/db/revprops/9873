@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-19T10:04:24.076653Z
+K 7
+svn:log
+V 66
+Fix UtlBoolean issue in SipMessageTest, replace tabs with spaces.
+
+END

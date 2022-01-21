@@ -1,0 +1,6145 @@
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: f.1ib.r4821/105
+type: file
+pred: f.0.r587/15039
+count: 25
+text: 587 304 212 3667 934b97b7efb4eca7f91caf06da727e9f
+props: 4821 0 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXportLib/include/Makefile.am
+copyroot: 4813 /main/sipXportLib
+
+PLAIN
+K 11
+Makefile.am
+V 20
+file f.1ib.r4821/105
+K 4
+glib
+V 18
+dir bl.0.r529/1490
+K 2
+os
+V 17
+dir l.0.r597/6262
+K 3
+utl
+V 18
+dir 3n.0.r595/1626
+K 9
+xmlparser
+V 20
+dir 48.0.r444/129625
+END
+ENDREP
+id: e.1ib.r4821/549
+type: dir
+pred: e.0.r597/6627
+count: 150
+text: 4821 354 182 182 33bcc0cf8032fa9ad858f1008aa2eb6f
+props: 187 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXportLib/include
+copyroot: 4813 /main/sipXportLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: de.1ib.r4821/889
+type: file
+pred: de.0.r591/422
+count: 3
+text: 591 0 396 1802 f8e7e72d05bea14e2c8e5e42c610a143
+props: 4821 784 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXportLib/src/test/testplugin/Makefile.am
+copyroot: 4813 /main/sipXportLib
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file de.1ib.r4821/889
+K 14
+TestPlugin.cpp
+V 20
+file df.0.r587/18073
+END
+ENDREP
+id: dd.1ib.r4821/1256
+type: dir
+pred: dd.0.r596/72
+count: 4
+text: 4821 1149 94 94 540afe5ce1dc8aaebc3e4f4f446f0fef
+props: 596 0 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /main/sipXportLib/src/test/testplugin
+copyroot: 4813 /main/sipXportLib
+
+PLAIN
+K 11
+Makefile.am
+V 20
+file 7h.0.r587/17750
+K 6
+README
+V 20
+file 9i.0.r381/95026
+K 2
+os
+V 18
+dir 7l.0.r542/1890
+K 16
+sipXportTest.dsp
+V 21
+file ap.0.r510/225328
+K 8
+sipxunit
+V 20
+dir a5.0.r444/131295
+K 10
+testplugin
+V 21
+dir dd.1ib.r4821/1256
+K 3
+utl
+V 18
+dir 87.0.r594/3889
+END
+ENDREP
+id: 7g.1ib.r4821/1792
+type: dir
+pred: 7g.0.r596/582
+count: 121
+text: 4821 1501 278 278 387f743940bdf846308c750c6431312f
+props: 187 819 164 0 f7209600c6d1d54deaaf13b7bc5534cf
+cpath: /main/sipXportLib/src/test
+copyroot: 4813 /main/sipXportLib
+
+PLAIN
+K 11
+Makefile.am
+V 20
+file 4e.0.r587/21250
+K 4
+glib
+V 19
+dir cv.0.r524/13919
+K 2
+os
+V 18
+dir 4m.0.r597/9886
+K 4
+test
+V 21
+dir 7g.1ib.r4821/1792
+K 3
+utl
+V 18
+dir 89.0.r594/6088
+K 9
+xmlparser
+V 20
+dir 8s.0.r444/152612
+END
+ENDREP
+id: 4d.1ib.r4821/2267
+type: dir
+pred: 4d.0.r597/10285
+count: 256
+text: 4821 2034 220 220 abc669cfa52028476968d6d592479ca2
+props: 187 1410 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /main/sipXportLib/src
+copyroot: 4813 /main/sipXportLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 8z.1ib.r4821/2611
+type: file
+pred: 8z.0.r381/146164
+count: 5
+text: 22 418411 132 119 4261b77cb2e57be6c75bf12922df457d
+props: 4821 2506 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXportLib/syslogviewer/Makefile.am
+copyroot: 4813 /main/sipXportLib
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 8z.1ib.r4821/2611
+K 6
+README
+V 17
+file d4.0.r554/82
+K 6
+main.c
+V 18
+file 90.0.r560/559
+END
+ENDREP
+id: 8y.1ib.r4821/3003
+type: dir
+pred: 8y.0.r560/922
+count: 13
+text: 4821 2872 118 118 4c6934e3e4263f49419c054dfad1f585
+props: 187 1701 72 0 7e7839f806998caa7ca8ab99628e9156
+cpath: /main/sipXportLib/syslogviewer
+copyroot: 4813 /main/sipXportLib
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 20
+file 4.0.r381/145534
+K 9
+ChangeLog
+V 20
+file 5.0.r444/130192
+K 7
+INSTALL
+V 18
+file 6.0.r514/2774
+K 7
+LICENSE
+V 20
+file 7.0.r444/115426
+K 11
+Makefile.am
+V 18
+file 8.0.r582/2290
+K 4
+NEWS
+V 20
+file 9.0.r381/150995
+K 6
+README
+V 20
+file a.0.r381/145234
+K 4
+TODO
+V 20
+file b.0.r381/149109
+K 9
+acsite.m4
+V 19
+file c.0.r381/72051
+K 3
+bin
+V 17
+dir as.0.r590/887
+K 12
+configure.ac
+V 19
+file d.0.r587/21941
+K 3
+doc
+V 19
+dir ac.0.r587/22620
+K 7
+include
+V 19
+dir e.1ib.r4821/549
+K 4
+meta
+V 18
+dir b6.0.r425/2853
+K 15
+sipXportLib.dsp
+V 20
+file 4c.0.r522/17767
+K 18
+sipXportLib.vcproj
+V 18
+file ba.0.r462/771
+K 19
+sipxportlib.spec.in
+V 19
+file aq.0.r570/3667
+K 3
+src
+V 21
+dir 4d.1ib.r4821/2267
+K 12
+syslogviewer
+V 21
+dir 8y.1ib.r4821/3003
+END
+ENDREP
+id: 3.1ib.r4821/4012
+type: dir
+pred: 3.1ib.r4814/921
+count: 484
+text: 4821 3248 751 751 3aa96281a44889aade5c8917f84ced12
+props: 4814 0 908 0 c4317c5de6f3610a19aa550d61641f3e
+cpath: /main/sipXportLib
+copyroot: 4813 /main/sipXportLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 216.1id.r4821/4350
+type: file
+pred: 216.0.r2665/393
+count: 2
+text: 2549 16631 337 571 34fc73ada7b916c3236269e0342ab30f
+props: 4821 4245 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXpublisher/include/Makefile.am
+copyroot: 4813 /main/sipXpublisher
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 216.1id.r4821/4350
+K 12
+statusserver
+V 20
+dir 217.0.r2718/1167
+END
+ENDREP
+id: 215.1id.r4821/4718
+type: dir
+pred: 215.0.r2718/1458
+count: 15
+text: 4821 4611 94 94 68760005de2f352c346afa591e1f6e5f
+props: 2570 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXpublisher/include
+copyroot: 4813 /main/sipXpublisher
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21j.1id.r4821/5067
+type: file
+pred: 21j.0.r2680/455
+count: 9
+text: 2680 58 369 754 98ccba7dd8e92660abdc61c995ad7bf3
+props: 4821 4962 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXpublisher/src/Makefile.am
+copyroot: 4813 /main/sipXpublisher
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 21j.1id.r4821/5067
+K 12
+statusserver
+V 19
+dir 21k.0.r2731/785
+END
+ENDREP
+id: 21i.1id.r4821/5427
+type: dir
+pred: 21i.0.r2731/1070
+count: 27
+text: 4821 5321 93 93 bd7a54864ad990b691027570c06115d6
+props: 2570 282 69 0 71314970c2be9fc1b217109ae141f111
+cpath: /main/sipXpublisher/src
+copyroot: 4813 /main/sipXpublisher
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 225.1id.r4821/5774
+type: file
+pred: 225.0.r2725/1083
+count: 5
+text: 2725 48 387 816 1544ac70af3ed2603861a9984a24b62b
+props: 4821 5669 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXpublisher/doc/Makefile.am
+copyroot: 4813 /main/sipXpublisher
+
+PLAIN
+K 11
+Doxyfile.in
+V 20
+file 224.0.r2725/848
+K 11
+Makefile.am
+V 23
+file 225.1id.r4821/5774
+K 11
+footer.html
+V 20
+file 226.0.r2725/612
+K 7
+license
+V 21
+dir 21z.0.r2665/12039
+K 20
+message-waiting.html
+V 22
+file 223.0.r2665/12297
+END
+ENDREP
+id: 21y.1id.r4821/6271
+type: dir
+pred: 21y.0.r2725/1558
+count: 14
+text: 4821 6029 229 229 8e3484ea336ea19c09e276c2ac98ef46
+props: 2694 0 120 0 b2fe58c289b0f17057a9e9252b5065b1
+cpath: /main/sipXpublisher/doc
+copyroot: 4813 /main/sipXpublisher
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 222.1id.r4821/6619
+type: file
+pred: 222.0.r2678/2440
+count: 7
+text: 2678 0 129 819 4a4a7f2521b2912849e14750bae1bbf0
+props: 4821 6514 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXpublisher/bin/Makefile.am
+copyroot: 4813 /main/sipXpublisher
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 222.1id.r4821/6619
+K 15
+sipstatus.sh.in
+V 20
+file 20y.0.r2666/431
+END
+ENDREP
+id: 20x.1id.r4821/6983
+type: dir
+pred: 20x.0.r2679/442
+count: 17
+text: 4821 6873 97 97 adb5ceebd0647d86eaeec8283ced5860
+props: 2679 322 107 0 86ba9b69a52a167367b11512c77bc166
+cpath: /main/sipXpublisher/bin
+copyroot: 4813 /main/sipXpublisher
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 20s.1id.r4821/7330
+type: file
+pred: 20s.0.r2730/444
+count: 25
+text: 2730 0 420 1705 d2e86d0ff02dccab739abc397cece4ea
+props: 4821 7225 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXpublisher/Makefile.am
+copyroot: 4813 /main/sipXpublisher
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 21w.1id.r4821/7686
+type: file
+pred: 21w.0.r2665/16053
+count: 15
+text: 2625 0 17 421 67f1cfeec6bbcc2780976826dcd65edb
+props: 4821 7581 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXpublisher/etc/Makefile.am
+copyroot: 4813 /main/sipXpublisher
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 21w.1id.r4821/7686
+K 16
+status-config.in
+V 19
+file 213.0.r2668/57
+K 20
+status-plugin.xml.in
+V 22
+file 214.0.r2665/15720
+END
+ENDREP
+id: 210.1id.r4821/8105
+type: dir
+pred: 210.0.r2668/459
+count: 19
+text: 4821 7941 151 151 bc379fc657eeb011dd0a9d905e84fdff
+props: 2577 2236 73 0 0fbc19e77404e797688938a1b1279a52
+cpath: /main/sipXpublisher/etc
+copyroot: 4813 /main/sipXpublisher
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 20o.0.r2665/10756
+K 9
+ChangeLog
+V 20
+file 20p.0.r2677/179
+K 7
+INSTALL
+V 22
+file 20q.0.r2665/14101
+K 7
+LICENSE
+V 19
+file 20r.0.r2665/82
+K 11
+Makefile.am
+V 23
+file 20s.1id.r4821/7330
+K 4
+NEWS
+V 22
+file 20t.0.r2665/17092
+K 6
+README
+V 22
+file 20u.0.r2665/10441
+K 4
+TODO
+V 22
+file 20v.0.r2665/13792
+K 9
+acsite.m4
+V 21
+file 20w.0.r2665/5453
+K 3
+bin
+V 22
+dir 20x.1id.r4821/6983
+K 12
+configure.ac
+V 19
+file 20z.0.r2704/67
+K 3
+doc
+V 22
+dir 21y.1id.r4821/6271
+K 3
+etc
+V 22
+dir 210.1id.r4821/8105
+K 7
+include
+V 22
+dir 215.1id.r4821/4718
+K 4
+meta
+V 20
+dir 228.0.r2686/1984
+K 17
+sipXpublisher.dsp
+V 20
+file 21u.0.r2716/352
+K 21
+sipxpublisher.spec.in
+V 20
+file 21x.0.r2706/167
+K 3
+src
+V 22
+dir 21i.1id.r4821/5427
+END
+ENDREP
+id: 20n.1id.r4821/9093
+type: dir
+pred: 20n.1id.r4813/1811
+count: 108
+text: 4821 8349 731 731 16438bcdffd3d2e1eb6e191b3dde4eab
+props: 4813 990 808 0 0269071e97be9bb2f30d1d441b9afdc0
+cpath: /main/sipXpublisher
+copyroot: 4813 /main/sipXpublisher
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1wq.1ic.r4821/9442
+type: file
+pred: 1wq.0.r2239/700
+count: 11
+text: 2239 376 88 538 1c0def0b9f11abaaf3dcdf20f16e99b3
+props: 4821 9337 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXproxy/src/sipauthproxy/Makefile.am
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 24
+AuthProxyCseObserver.cpp
+V 21
+file 1xx.0.r2290/1820
+K 22
+AuthProxyCseObserver.h
+V 21
+file 1xy.0.r2221/4345
+K 11
+Makefile.am
+V 23
+file 1wq.1ic.r4821/9442
+K 10
+SipAaa.cpp
+V 21
+file 1wr.0.r2292/2363
+K 8
+SipAaa.h
+V 22
+file 1wi.9v.r2221/2583
+K 20
+sipauthproxymain.cpp
+V 21
+file 1ws.0.r2292/2610
+K 9
+version.h
+V 22
+file 1wj.9w.r2221/3970
+END
+ENDREP
+id: 1wp.1ic.r4821/10056
+type: dir
+pred: 1wp.0.r2292/3219
+count: 28
+text: 4821 9702 341 341 b0a16f54e874a524866fbfd9d87b1360
+props: 2127 280 72 0 05b8f9434837338b06ca07e18a6edce2
+cpath: /main/sipXproxy/src/sipauthproxy
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1x0.1ic.r4821/10411
+type: file
+pred: 1x0.0.r2239/1527
+count: 11
+text: 2239 584 89 962 d4a329732af91fa2ee75d6dc1578d65b
+props: 4821 10306 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXproxy/src/test/Makefile.am
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 33
+CallStateEventBuilder_XMLTest.cpp
+V 21
+file 1xw.0.r2221/6173
+K 20
+ForwardRulesTest.cpp
+V 21
+file 1wz.0.r2221/5274
+K 11
+Makefile.am
+V 24
+file 1x0.1ic.r4821/10411
+K 9
+rulesdata
+V 20
+dir 1x1.0.r2221/5911
+END
+ENDREP
+id: 1wy.1ic.r4821/10889
+type: dir
+pred: 1wy.0.r2239/1985
+count: 17
+text: 4821 10666 210 210 ad9b5bb042aa1c78438d5680dd32a9f2
+props: 2127 595 53 0 afc0537c0f2ece55c5ae2c7289c4a330
+cpath: /main/sipXproxy/src/test
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1wo.1ic.r4821/11237
+type: file
+pred: 1wo.0.r2221/7288
+count: 3
+text: 2199 12026 54 108 db0460161833b4ecaa0dcbca8cb0f412
+props: 4821 11132 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXproxy/src/Makefile.am
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1xv.1ic.r4821/11593
+type: file
+pred: 1xv.0.r2239/2211
+count: 4
+text: 2239 295 55 293 c235dbc138c47d85ea4aaa9a8a3bfaba
+props: 4821 11488 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXproxy/src/cse/Makefile.am
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 25
+CallStateEventBuilder.cpp
+V 21
+file 1xq.0.r2221/7605
+K 23
+CallStateEventBuilder.h
+V 21
+file 1xr.0.r2221/8602
+K 29
+CallStateEventBuilder_XML.cpp
+V 21
+file 1xs.0.r2221/7941
+K 27
+CallStateEventBuilder_XML.h
+V 21
+file 1xt.0.r2221/8936
+K 11
+Makefile.am
+V 24
+file 1xv.1ic.r4821/11593
+END
+ENDREP
+id: 1xp.1ic.r4821/12146
+type: dir
+pred: 1xp.0.r2240/72
+count: 6
+text: 4821 11846 287 287 1a009ddc983aa277d0ec78f9981238b2
+props: 2240 0 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /main/sipXproxy/src/cse
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1wv.1ic.r4821/12488
+type: file
+pred: 1wv.0.r2239/2970
+count: 11
+text: 2239 490 67 559 42638109ccdfc6017683679c4238cc43
+props: 4821 12383 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXproxy/src/sipforkingproxy/Makefile.am
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 27
+ForkingProxyCseObserver.cpp
+V 21
+file 1xz.0.r2290/2665
+K 25
+ForkingProxyCseObserver.h
+V 22
+file 1y0.0.r2221/11953
+K 16
+ForwardRules.cpp
+V 21
+file 1wu.0.r2221/9798
+K 14
+ForwardRules.h
+V 23
+file 1wl.9x.r2221/11225
+K 11
+Makefile.am
+V 24
+file 1wv.1ic.r4821/12488
+K 23
+SipForkingProxyMain.cpp
+V 21
+file 1ww.0.r2268/1658
+K 13
+SipRouter.cpp
+V 20
+file 1wx.0.r2248/600
+K 11
+SipRouter.h
+V 23
+file 1wm.9y.r2221/10134
+END
+ENDREP
+id: 1wt.1ic.r4821/13182
+type: dir
+pred: 1wt.0.r2290/3358
+count: 22
+text: 4821 12754 415 415 de8ad208a73c200a2d0894d0e6103a2c
+props: 2127 883 68 0 0911098a6c87bb684cd8e2810d3274d4
+cpath: /main/sipXproxy/src/sipforkingproxy
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1wo.1ic.r4821/11237
+K 3
+cse
+V 23
+dir 1xp.1ic.r4821/12146
+K 12
+sipauthproxy
+V 23
+dir 1wp.1ic.r4821/10056
+K 15
+sipforkingproxy
+V 23
+dir 1wt.1ic.r4821/13182
+K 4
+test
+V 23
+dir 1wy.1ic.r4821/10889
+END
+ENDREP
+id: 1wn.1ic.r4821/13672
+type: dir
+pred: 1wn.0.r2292/3672
+count: 37
+text: 4821 13436 223 223 053791b9b5b69bd175a1e37eedc6df09
+props: 2127 1384 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXproxy/src
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1xl.1ic.r4821/14016
+type: file
+pred: 1xl.0.r2289/700
+count: 6
+text: 2289 48 20 816 1544ac70af3ed2603861a9984a24b62b
+props: 4821 13911 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXproxy/doc/Makefile.am
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 11
+Doxyfile.in
+V 20
+file 1xk.0.r2289/469
+K 11
+Makefile.am
+V 24
+file 1xl.1ic.r4821/14016
+K 3
+cdr
+V 20
+dir 1xc.0.r2292/4011
+K 11
+footer.html
+V 20
+file 1xm.0.r2289/236
+END
+ENDREP
+id: 1xb.1ic.r4821/14447
+type: dir
+pred: 1xb.0.r2292/4418
+count: 18
+text: 4821 14263 171 171 f336c34816e1258361455936140b7763
+props: 2261 0 85 0 278967851fe8a0470c2901fc160cff52
+cpath: /main/sipXproxy/doc
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1xa.1ic.r4821/14788
+type: file
+pred: 1xa.0.r2239/5252
+count: 6
+text: 2239 0 129 886 f5ad2fdfdb7758448d44e0e3878aa960
+props: 4821 14683 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXproxy/bin/Makefile.am
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1xa.1ic.r4821/14788
+K 18
+sipauthproxy.sh.in
+V 21
+file 1w4.0.r2223/1202
+K 14
+sipproxy.sh.in
+V 20
+file 1w5.0.r2273/968
+END
+ENDREP
+id: 1w3.1ic.r4821/15197
+type: dir
+pred: 1w3.0.r2273/1360
+count: 18
+text: 4821 15036 148 148 f59aec336bc0dc8700681ad36d61c8bb
+props: 2251 0 92 0 7813287a169b784a181741eef57ca2cc
+cpath: /main/sipXproxy/bin
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1vy.1ic.r4821/15538
+type: file
+pred: 1vy.0.r2297/1008
+count: 33
+text: 2297 0 980 2484 0c4001b752849260295ef7fdf161ce05
+props: 4821 15433 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXproxy/Makefile.am
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1vu.0.r2221/14695
+K 9
+ChangeLog
+V 20
+file 1vv.0.r2238/425
+K 7
+INSTALL
+V 22
+file 1vw.0.r2221/19180
+K 7
+LICENSE
+V 19
+file 1vx.0.r2221/82
+K 11
+Makefile.am
+V 24
+file 1vy.1ic.r4821/15538
+K 4
+NEWS
+V 22
+file 1vz.0.r2221/22868
+K 6
+README
+V 22
+file 1w0.0.r2221/14388
+K 4
+TODO
+V 22
+file 1w1.0.r2221/18875
+K 9
+acsite.m4
+V 21
+file 1w2.0.r2221/1636
+K 3
+bin
+V 23
+dir 1w3.1ic.r4821/15197
+K 12
+configure.ac
+V 19
+file 1w9.0.r2272/76
+K 3
+doc
+V 23
+dir 1xb.1ic.r4821/14447
+K 3
+etc
+V 20
+dir 1wa.0.r2283/1455
+K 4
+meta
+V 20
+dir 1xi.0.r2249/2565
+K 17
+sipXauthproxy.dsp
+V 20
+file 1x5.0.r2282/751
+K 20
+sipXforkingProxy.dsp
+V 20
+file 1x6.0.r2282/513
+K 17
+sipxproxy.spec.in
+V 20
+file 1x9.0.r2295/198
+K 3
+src
+V 23
+dir 1wn.1ic.r4821/13672
+END
+ENDREP
+id: 1vt.1ic.r4821/16538
+type: dir
+pred: 1vt.1ic.r4813/3145
+count: 122
+text: 4821 15784 741 741 26184b69218f0d427c452ccb4a3d56bc
+props: 4813 2294 838 0 328d688c9da0111ee3b97f50a41f4fd6
+cpath: /main/sipXproxy
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: vu.1i5.r4821/16882
+type: file
+pred: vu.0.r1793/2149
+count: 8
+text: 1793 0 22 4193 e9b158c08ded0b3c0d3553e328a99180
+props: 4821 16777 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXcallLib/include/Makefile.am
+copyroot: 4813 /main/sipXcallLib
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file vu.1i5.r4821/16882
+K 2
+cp
+V 19
+dir vv.0.r1793/1975
+K 2
+ps
+V 21
+dir wi.0.r1711/237076
+K 5
+ptapi
+V 21
+dir xc.0.r1711/259444
+K 3
+tao
+V 21
+dir yz.0.r1711/245304
+K 4
+tapi
+V 19
+dir 166.0.r1787/644
+K 4
+test
+V 20
+dir zr.0.r1491/44926
+END
+ENDREP
+id: vt.1i5.r4821/17406
+type: dir
+pred: vt.0.r1793/2651
+count: 84
+text: 4821 17136 257 257 ad65aa4019ee12811d03864964769bf1
+props: 1356 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXcallLib/include
+copyroot: 4813 /main/sipXcallLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 14d.1i5.r4821/17753
+type: file
+pred: 14d.0.r1545/2155
+count: 7
+text: 1545 2046 85 1216 a1dfb5ec0bf3b18da8a007d8de46bbac
+props: 4821 17648 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXcallLib/src/test/Makefile.am
+copyroot: 4813 /main/sipXcallLib
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 14d.1i5.r4821/17753
+K 2
+cp
+V 20
+dir 14e.0.r1755/7487
+K 13
+jnibutton.cpp
+V 23
+file 14i.0.r1491/103420
+K 2
+mp
+V 20
+dir 14j.0.r1755/8419
+K 5
+ptapi
+V 22
+dir 14s.0.r1491/108077
+K 4
+tapi
+V 19
+dir 16g.0.r1728/977
+END
+ENDREP
+id: 14c.1i5.r4821/18263
+type: dir
+pred: 14c.0.r1755/8844
+count: 43
+text: 4821 18013 237 237 b3259fb7dac34313122306df3378a35f
+props: 1356 280 80 0 1986090cf4ed98243acab2ccd26aa954
+cpath: /main/sipXcallLib/src/test
+copyroot: 4813 /main/sipXcallLib
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file 10r.0.r1793/4230
+K 2
+cp
+V 20
+dir 10s.0.r1793/4058
+K 2
+ps
+V 20
+dir 11a.0.r1788/5100
+K 5
+ptapi
+V 21
+dir 120.0.r1752/22048
+K 3
+tao
+V 20
+dir 13m.0.r1788/6938
+K 4
+tapi
+V 20
+dir 16d.0.r1787/1928
+K 4
+test
+V 23
+dir 14c.1i5.r4821/18263
+END
+ENDREP
+id: 10q.1i5.r4821/18781
+type: dir
+pred: 10q.0.r1793/4736
+count: 172
+text: 4821 18510 258 258 b07c5fa8e0252646d9cba92b86ff9099
+props: 1356 835 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /main/sipXcallLib/src
+copyroot: 4813 /main/sipXcallLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 16j.1w6.r4821/19129
+type: file
+pred: 16j.6n.r1675/1249
+count: 6
+text: 1675 0 20 196 0131f9a6a8bc1ef11495f0b14c7cf429
+props: 4821 19024 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXcallLib/examples/CallScript/src/Makefile.am
+copyroot: 1422 /old/sipXcallLib/main/examples/CallScript
+
+PLAIN
+K 14
+CallScript.cpp
+V 21
+file 15z.6o.r1753/464
+K 19
+CallScriptDriver.pl
+V 20
+file 16l.6n.r1743/47
+K 11
+Makefile.am
+V 24
+file 16j.1w6.r4821/19129
+K 6
+README
+V 24
+file 16w.6n.r1711/301855
+K 15
+TestingProtocol
+V 24
+file 16x.6n.r1711/300595
+K 6
+driver
+V 20
+file 1q7.6n.r1706/82
+K 8
+driver-1
+V 24
+file 16y.6n.r1491/174108
+K 8
+driver-2
+V 24
+file 16z.6n.r1491/174492
+K 12
+hanging-call
+V 20
+file 1oh.6n.r1537/82
+K 13
+leave-message
+V 22
+file 170.6n.r1682/6220
+K 14
+leave-retrieve
+V 24
+file 171.6n.r1491/171727
+K 11
+log-analyze
+V 24
+file 172.6n.r1711/301236
+K 16
+retrieve-message
+V 22
+file 173.6n.r1682/5612
+END
+ENDREP
+id: 15y.1w6.r4821/20040
+type: dir
+pred: 15y.6n.r1753/1403
+count: 34
+text: 4821 19425 602 602 39942529f5788ad5145750e67a66351d
+props: 1431 10794 77 0 5a7c31a34a6db0baf7693974e8116718
+cpath: /main/sipXcallLib/examples/CallScript/src
+copyroot: 1422 /old/sipXcallLib/main/examples/CallScript
+
+PLAIN
+K 14
+CallScript.dsp
+V 24
+file 15x.6q.r1491/170935
+K 3
+src
+V 23
+dir 15y.1w6.r4821/20040
+END
+ENDREP
+id: 15w.1w6.r4821/20433
+type: dir
+pred: 15w.6n.r1753/1793
+count: 34
+text: 4821 20329 91 91 1c1187f90c3d0ff5eeb163d95e4b292a
+cpath: /main/sipXcallLib/examples/CallScript
+copyroot: 1422 /old/sipXcallLib/main/examples/CallScript
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 16j.1i5.r4821/20765
+type: file
+pred: 16j.0.r1717/525
+count: 5
+text: 1717 0 174 188 99722e74c7ce25483f3bff98d5be319f
+props: 4821 20660 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXcallLib/examples/PlaceCall/src/Makefile.am
+copyroot: 4813 /main/sipXcallLib
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 16j.1i5.r4821/20765
+K 13
+PlaceCall.cpp
+V 20
+file 15z.0.r1764/101
+END
+ENDREP
+id: 15y.1i5.r4821/21144
+type: dir
+pred: 15y.0.r1764/462
+count: 20
+text: 4821 21035 96 96 ad650f565d4dc05d9505dd7a9d057cfb
+props: 1431 12128 69 0 0c8e16825e544377fd6f3bc007304e11
+cpath: /main/sipXcallLib/examples/PlaceCall/src
+copyroot: 4813 /main/sipXcallLib
+
+PLAIN
+K 13
+PlaceCall.dsp
+V 22
+file 15x.0.r1616/10985
+K 10
+readme.txt
+V 21
+file 1qf.0.r1765/4027
+K 3
+src
+V 23
+dir 15y.1i5.r4821/21144
+END
+ENDREP
+id: 15w.1i5.r4821/21548
+type: dir
+pred: 15w.0.r1765/4337
+count: 24
+text: 4821 21404 131 131 e8dfdf6d32c3e4d3d50806f6f2ef63ac
+cpath: /main/sipXcallLib/examples/PlaceCall
+copyroot: 4813 /main/sipXcallLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: vm.1i5.r4821/21856
+type: file
+pred: vm.0.r1794/159
+count: 5
+text: 1794 0 132 140 edab957a1a38feea78014940f8929cb8
+props: 4821 21751 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXcallLib/examples/Makefile.am
+copyroot: 4813 /main/sipXcallLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1oi.1i5.r4821/22215
+type: file
+pred: 1oi.0.r1718/769
+count: 3
+text: 1718 0 52 200 e9327f39f5e15acce46658a3ce4f773e
+props: 4821 22110 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXcallLib/examples/ReceiveCall/src/Makefile.am
+copyroot: 4813 /main/sipXcallLib
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1oi.1i5.r4821/22215
+K 15
+ReceiveCall.cpp
+V 21
+file 165.0.r1765/4520
+END
+ENDREP
+id: 164.1i5.r4821/22598
+type: dir
+pred: 164.0.r1765/4894
+count: 19
+text: 4821 22486 99 99 e4f911758685a558335161b977168fdb
+cpath: /main/sipXcallLib/examples/ReceiveCall/src
+copyroot: 4813 /main/sipXcallLib
+
+PLAIN
+K 15
+ReceiveCall.dsp
+V 21
+file 161.0.r1593/8379
+K 7
+include
+V 21
+dir 163.0.r1398/95233
+K 10
+readme.txt
+V 21
+file 1qg.0.r1765/5082
+K 3
+src
+V 23
+dir 164.1i5.r4821/22598
+END
+ENDREP
+id: 160.1i5.r4821/22989
+type: dir
+pred: 160.0.r1765/5437
+count: 22
+text: 4821 22805 171 171 a4d144e2c665aab8f17735b7e8b6f9a7
+cpath: /main/sipXcallLib/examples/ReceiveCall
+copyroot: 4813 /main/sipXcallLib
+
+PLAIN
+K 10
+CallScript
+V 23
+dir 15w.1w6.r4821/20433
+K 11
+Makefile.am
+V 23
+file vm.1i5.r4821/21856
+K 9
+PlaceCall
+V 23
+dir 15w.1i5.r4821/21548
+K 11
+ReceiveCall
+V 23
+dir 160.1i5.r4821/22989
+K 11
+musicServer
+V 20
+dir vn.0.r1755/10280
+K 11
+sipXezPhone
+V 18
+dir 174.0.r1795/72
+END
+ENDREP
+id: vl.1i5.r4821/23475
+type: dir
+pred: vl.0.r1795/578
+count: 160
+text: 4821 23194 268 268 964e08dd5894bf6efcbaa99458dd0783
+props: 1356 1849 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXcallLib/examples
+copyroot: 4813 /main/sipXcallLib
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file vb.0.r1491/159931
+K 9
+ChangeLog
+V 22
+file vc.0.r1711/261331
+K 7
+INSTALL
+V 19
+file vd.0.r1766/716
+K 7
+LICENSE
+V 22
+file ve.0.r1711/229171
+K 11
+Makefile.am
+V 19
+file vf.0.r1786/108
+K 4
+NEWS
+V 22
+file vg.0.r1491/170627
+K 6
+README
+V 22
+file vh.0.r1491/159626
+K 4
+TODO
+V 22
+file vi.0.r1491/169087
+K 9
+acsite.m4
+V 21
+file vj.0.r1491/97655
+K 3
+bin
+V 22
+dir 15f.0.r1711/299696
+K 12
+configure.ac
+V 18
+file vk.0.r1789/93
+K 3
+doc
+V 21
+dir 158.0.r1768/38766
+K 8
+examples
+V 22
+dir vl.1i5.r4821/23475
+K 7
+include
+V 22
+dir vt.1i5.r4821/17406
+K 4
+meta
+V 20
+dir 16r.0.r1744/9345
+K 15
+sipXcallLib.dsp
+V 21
+file 155.0.r1731/1462
+K 18
+sipXcallLib.vcproj
+V 21
+file 1ow.0.r1759/3039
+K 8
+sipXtapi
+V 21
+dir 1p0.0.r1744/13906
+K 12
+sipXtapi.dsp
+V 22
+file 16a.0.r1781/13814
+K 12
+sipXtapi.dsw
+V 21
+file 16b.0.r1593/7616
+K 12
+sipXtapi.sln
+V 21
+file 1ok.0.r1759/2318
+K 15
+sipXtapi.vcproj
+V 21
+file 1ox.0.r1759/2553
+K 16
+sipXtapiTest.dsp
+V 21
+file 16c.0.r1731/1224
+K 19
+sipXtapiTest.vcproj
+V 21
+file 1oy.0.r1759/2794
+K 19
+sipxcalllib.spec.in
+V 20
+file 15d.0.r1649/504
+K 3
+src
+V 23
+dir 10q.1i5.r4821/18781
+END
+ENDREP
+id: va.1i5.r4821/24840
+type: dir
+pred: va.1i5.r4813/4272
+count: 385
+text: 4821 23721 1106 1106 92a7b80996234aef502e6d4e5274b143
+props: 4813 3384 875 0 426d4b64493f1a953636701d7a1d5b04
+cpath: /main/sipXcallLib
+copyroot: 4813 /main/sipXcallLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4er.1i7.r4821/25188
+type: file
+pred: 4er.0.r3393/880810
+count: 2
+text: 3175 21680 50 38 3283292c22e2b453288a054aaacc95b8
+props: 4821 25083 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXconfig/neoconf/Makefile.am
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 10
+.classpath
+V 21
+file 4ep.0.r4090/6754
+K 8
+.project
+V 20
+file 4eq.0.r3924/159
+K 12
+.springBeans
+V 23
+file 4xc.vn.r4065/31148
+K 11
+Makefile.am
+V 24
+file 4er.1i7.r4821/25188
+K 9
+build.xml
+V 22
+file 4es.0.r4072/21891
+K 3
+etc
+V 21
+dir 4pz.0.r4085/10149
+K 3
+src
+V 21
+dir 4ev.0.r4091/16031
+K 4
+test
+V 21
+dir 4g2.0.r4091/12282
+END
+ENDREP
+id: 4eo.1i7.r4821/25787
+type: dir
+pred: 4eo.0.r4091/16549
+count: 387
+text: 4821 25446 328 328 b359e3075dd18279c9e222e94f672b8a
+props: 3759 674 101 0 239e03791e25e0db51af6367844e70e8
+cpath: /main/sipXconfig/neoconf
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4ba.1i7.r4821/26139
+type: file
+pred: 4ba.0.r3393/911243
+count: 2
+text: 3050 399 50 38 3283292c22e2b453288a054aaacc95b8
+props: 4821 26034 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXconfig/common/Makefile.am
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 10
+.classpath
+V 23
+file 4dq.ic.r3916/27241
+K 8
+.project
+V 24
+file 4dr.id.r3393/889201
+K 11
+Makefile.am
+V 24
+file 4ba.1i7.r4821/26139
+K 3
+bin
+V 19
+dir 2ht.0.r4003/553
+K 9
+build.xml
+V 20
+file 2hv.0.r4053/503
+K 3
+etc
+V 22
+dir 2hw.0.r3393/911887
+K 4
+meta
+V 19
+dir 2hy.0.r3627/828
+K 3
+src
+V 21
+dir 2i4.0.r3916/36309
+END
+ENDREP
+id: 2hs.1i7.r4821/26724
+type: dir
+pred: 2hs.0.r4053/1067
+count: 58
+text: 4821 26394 317 317 441c6ca12dbbdc9766b53b296be51b5b
+props: 3150 19351 91 0 ef7155b17df75f3125706cf52a571f10
+cpath: /main/sipXconfig/common
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 48k.1w7.r4821/27074
+type: file
+pred: 48k.h9.r3393/884376
+count: 4
+text: 3073 0 60 48 0a3c58098ff21ef02f692a7834c2d1ff
+props: 4821 26969 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXconfig/sipagent-jni/include/Makefile.am
+copyroot: 3049 /old/sipXconfig/main/sipagent-jni
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 48k.1w7.r4821/27074
+K 11
+sipendpoint
+V 23
+dir 48l.h9.r3393/885118
+END
+ENDREP
+id: 48j.1w7.r4821/27469
+type: dir
+pred: 48j.h9.r3393/885464
+count: 8
+text: 4821 27359 97 97 9e779f82f3d86d3e18af2d0f7f2bf1f9
+props: 3055 316 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXconfig/sipagent-jni/include
+copyroot: 3049 /old/sipXconfig/main/sipagent-jni
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 48i.1w7.r4821/27848
+type: file
+pred: 48i.h9.r3393/887744
+count: 2
+text: 3025 7396070 35 23 97b3c0a731b5fcc055c685f0e8f0ae38
+props: 4821 27743 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXconfig/sipagent-jni/Makefile.am
+copyroot: 3049 /old/sipXconfig/main/sipagent-jni
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 48i.1w7.r4821/27848
+K 7
+include
+V 23
+dir 48j.1w7.r4821/27469
+K 3
+src
+V 21
+dir 48n.h9.r3826/4905
+END
+ENDREP
+id: 48h.1w7.r4821/28271
+type: dir
+pred: 48h.h9.r3826/5317
+count: 15
+text: 4821 28131 127 127 9f16fb1380c3bd709bbf5a3fda1b5cf9
+props: 3055 1124 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXconfig/sipagent-jni
+copyroot: 3049 /old/sipXconfig/main/sipagent-jni
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4bf.1i7.r4821/28644
+type: file
+pred: 4bf.0.r3393/923043
+count: 2
+text: 3050 114769 50 38 3283292c22e2b453288a054aaacc95b8
+props: 4821 28539 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXconfig/profilewriter/Makefile.am
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 10
+.classpath
+V 22
+file 4dx.j8.r3398/1813
+K 8
+.project
+V 24
+file 4dy.j9.r3393/913409
+K 11
+Makefile.am
+V 24
+file 4bf.1i7.r4821/28644
+K 3
+bin
+V 22
+dir 4aa.0.r3679/153909
+K 9
+build.xml
+V 20
+file 4ac.0.r4054/137
+K 3
+etc
+V 22
+dir 4ad.0.r3856/111489
+K 3
+src
+V 22
+dir 4ah.0.r3856/110617
+END
+ENDREP
+id: 4a9.1i7.r4821/29208
+type: dir
+pred: 4a9.0.r4054/680
+count: 28
+text: 4821 28909 286 286 f6f0d1fc13e501d6be82884faf2f15dc
+props: 3150 20718 91 0 ef7155b17df75f3125706cf52a571f10
+cpath: /main/sipXconfig/profilewriter
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4c4.1i7.r4821/29564
+type: file
+pred: 4c4.0.r3393/57527
+count: 3
+text: 3105 49 105 92 a22994579f79a7e861e08a20cd5e2193
+props: 4821 29459 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXconfig/doc/Makefile.am
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 8
+.project
+V 23
+file 4ds.if.r3393/31511
+K 11
+Makefile.am
+V 24
+file 4c4.1i7.r4821/29564
+K 9
+build.xml
+V 21
+file 4c5.0.r4050/3014
+K 7
+license
+V 20
+dir 2ji.0.r3857/9208
+K 3
+src
+V 20
+dir 4c6.0.r4083/9285
+END
+ENDREP
+id: 2jh.1i7.r4821/30034
+type: dir
+pred: 2jh.0.r4083/9675
+count: 126
+text: 4821 29815 206 206 a9833d6c100828b272b58c11fba25513
+props: 3759 0 100 0 b3e133322d8b30c4b4e9cfb34092576c
+cpath: /main/sipXconfig/doc
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4bd.1i7.r4821/30379
+type: file
+pred: 4bd.0.r3393/209687
+count: 2
+text: 3050 114305 50 38 3283292c22e2b453288a054aaacc95b8
+props: 4821 30274 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXconfig/profilegenerator/Makefile.am
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 10
+.classpath
+V 23
+file 4dt.ij.r4009/18613
+K 8
+.project
+V 24
+file 4du.ik.r3393/201010
+K 11
+Makefile.am
+V 24
+file 4bd.1i7.r4821/30379
+K 14
+authentication
+V 20
+dir 2kk.0.r3922/1960
+K 9
+build.xml
+V 23
+file 2kv.0.r3393/806918
+K 10
+commserver
+V 20
+dir 2kw.0.r3920/1578
+K 6
+deploy
+V 20
+dir 2lh.0.r4019/1341
+K 3
+ejb
+V 21
+dir 2lt.0.r4081/25893
+K 4
+meta
+V 22
+dir 2sa.0.r3856/172841
+K 4
+soap
+V 20
+dir 2sv.0.r3910/7164
+K 5
+webui
+V 20
+dir 2to.0.r4075/2662
+END
+ENDREP
+id: 2kj.1i7.r4821/31110
+type: dir
+pred: 2kj.0.r4081/26599
+count: 168
+text: 4821 30647 450 450 a38643f62bcc0f5eaa17367551771e71
+props: 3150 117388 59 0 cf767147ee0d0b2bf8fb1622b541bbec
+cpath: /main/sipXconfig/profilegenerator
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4b8.1i7.r4821/31473
+type: file
+pred: 4b8.0.r3393/926885
+count: 3
+text: 3078 0 4 0 d41d8cd98f00b204e9800998ecf8427e
+props: 4821 31368 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXconfig/etc/Makefile.am
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 4b8.1i7.r4821/31473
+END
+ENDREP
+id: 4b7.1i7.r4821/31785
+type: dir
+pred: 4b7.0.r3393/927179
+count: 6
+text: 4821 31721 51 51 b3de3b5ed5aedbb9279240bcc3b6a273
+props: 3079 356 73 0 0fbc19e77404e797688938a1b1279a52
+cpath: /main/sipXconfig/etc
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4mx.1i7.r4821/32129
+type: file
+pred: 4mx.0.r3393/849117
+count: 2
+text: 3304 1004 50 38 3283292c22e2b453288a054aaacc95b8
+props: 4821 32024 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXconfig/web/Makefile.am
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 10
+.classpath
+V 23
+file 4l6.0.r4057/221877
+K 8
+.project
+V 22
+file 4l7.0.r3976/10117
+K 12
+.springBeans
+V 22
+file 56r.vo.r3924/1470
+K 15
+.tapestryplugin
+V 22
+file 4l8.0.r3976/34406
+K 11
+Makefile.am
+V 24
+file 4mx.1i7.r4821/32129
+K 9
+build.xml
+V 20
+file 4l9.0.r3974/509
+K 7
+context
+V 21
+dir 4la.0.r4092/15445
+K 3
+etc
+V 22
+dir 4lk.0.r3856/390992
+K 3
+src
+V 21
+dir 4ln.0.r4092/20342
+K 4
+test
+V 21
+dir 4lw.0.r4092/10497
+END
+ENDREP
+id: 4l5.1i7.r4821/32813
+type: dir
+pred: 4l5.0.r4092/20946
+count: 341
+text: 4821 32382 418 418 92f86e6b36a87e0422b095729f240310
+props: 3759 335 101 0 239e03791e25e0db51af6367844e70e8
+cpath: /main/sipXconfig/web
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4be.1i7.r4821/33161
+type: file
+pred: 4be.0.r3393/951446
+count: 2
+text: 3050 114603 50 38 3283292c22e2b453288a054aaacc95b8
+props: 4821 33056 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXconfig/profilepublisher/Makefile.am
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 10
+.classpath
+V 22
+file 4dv.j6.r3398/2646
+K 8
+.project
+V 24
+file 4dw.j7.r3393/928190
+K 11
+Makefile.am
+V 24
+file 4be.1i7.r4821/33161
+K 3
+bin
+V 22
+dir 486.0.r3679/157282
+K 9
+build.xml
+V 23
+file 488.0.r3393/952757
+K 3
+etc
+V 21
+dir 489.0.r3419/39659
+K 4
+meta
+V 22
+dir 48c.0.r3393/929978
+K 3
+src
+V 22
+dir 48s.0.r4057/229048
+END
+ENDREP
+id: 485.1i7.r4821/33767
+type: dir
+pred: 485.0.r4057/229574
+count: 38
+text: 4821 33429 325 325 b3cc7a2fe9ebc91ec73eb130409c0ce8
+props: 3150 118553 91 0 ef7155b17df75f3125706cf52a571f10
+cpath: /main/sipXconfig/profilepublisher
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 2hg.0.r3393/21790
+K 9
+ChangeLog
+V 20
+file 2hh.0.r3490/576
+K 7
+INSTALL
+V 22
+file 2hi.0.r4025/62429
+K 7
+LICENSE
+V 23
+file 2hj.0.r3393/851332
+K 11
+Makefile.am
+V 20
+file 2hk.0.r4041/663
+K 4
+NEWS
+V 23
+file 2hl.0.r3393/808567
+K 6
+README
+V 21
+file 2hm.0.r3573/5968
+K 4
+TODO
+V 22
+file 2hn.0.r4025/58643
+K 9
+acsite.m4
+V 22
+file 2ho.0.r3393/21475
+K 14
+ant-targets.am
+V 23
+file 2hp.0.r3742/119328
+K 15
+ant-targets.xml
+V 20
+file 2hq.0.r4010/925
+K 3
+bin
+V 19
+dir 4bz.0.r3641/393
+K 9
+build.xml
+V 22
+file 4h8.0.r3393/22103
+K 6
+common
+V 23
+dir 2hs.1i7.r4821/26724
+K 20
+config.properties.in
+V 23
+file 2jf.0.r4057/211375
+K 12
+configure.ac
+V 22
+file 2jg.1i7.r4817/415
+K 16
+dependencies.xml
+V 20
+file 5d9.0.r4010/715
+K 3
+doc
+V 23
+dir 2jh.1i7.r4821/30034
+K 3
+etc
+V 23
+dir 4b7.1i7.r4821/31785
+K 3
+lib
+V 22
+dir 2jy.0.r4057/217612
+K 4
+meta
+V 20
+dir 4ea.0.r3994/1545
+K 7
+neoconf
+V 23
+dir 4eo.1i7.r4821/25787
+K 16
+profilegenerator
+V 23
+dir 2kj.1i7.r4821/31110
+K 23
+profilepub_sipagent.dsp
+V 22
+file 4b5.0.r3393/16177
+K 16
+profilepublisher
+V 23
+dir 485.1i7.r4821/33767
+K 13
+profilewriter
+V 23
+dir 4a9.1i7.r4821/29208
+K 12
+sipagent-jni
+V 23
+dir 48h.1w7.r4821/28271
+K 26
+sipx-jboss-configure.patch
+V 23
+file 4bi.0.r3393/927483
+K 18
+sipxconfig.spec.in
+V 20
+file 4bh.0.r4047/126
+K 18
+subant-targets.xml
+V 21
+file 4h9.0.r3453/6142
+K 3
+web
+V 23
+dir 4l5.1i7.r4821/32813
+END
+ENDREP
+id: 2hf.1i7.r4821/35406
+type: dir
+pred: 2hf.1i7.r4817/2023
+count: 827
+text: 4821 34025 1368 1368 05d791d90c9390a228aaf1f22561ab26
+props: 4813 4514 1046 0 6176a3a7131007efa37cf74c721f6d17
+cpath: /main/sipXconfig
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: nb.1i8.r4821/35755
+type: file
+pred: nb.0.r1180/27127
+count: 3
+text: 1070 0 95 4018 912e27732aa9820ff7ad3376166ca10b
+props: 4821 35650 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXmediaLib/include/Makefile.am
+copyroot: 4813 /main/sipXmediaLib
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file nb.1i8.r4821/35755
+K 2
+mp
+V 19
+dir nc.0.r1313/5371
+K 4
+rtcp
+V 19
+dir q5.0.r1318/2684
+END
+ENDREP
+id: na.1i8.r4821/36141
+type: dir
+pred: na.0.r1318/2988
+count: 39
+text: 4821 36012 116 116 6fb63715c076dbd3d2aa07cbdc28962d
+props: 1096 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXmediaLib/include
+copyroot: 4813 /main/sipXmediaLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: uh.1i8.r4821/36490
+type: file
+pred: uh.0.r1196/1187
+count: 8
+text: 1196 1048 116 845 72aec8dbb4b4577af568bdeabb899768
+props: 4821 36385 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXmediaLib/src/test/Makefile.am
+copyroot: 4813 /main/sipXmediaLib
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file uh.1i8.r4821/36490
+K 2
+mp
+V 20
+dir ui.0.r1180/68348
+END
+ENDREP
+id: ug.1i8.r4821/36846
+type: dir
+pred: ug.0.r1196/1522
+count: 16
+text: 4821 36750 83 83 d08e45d665355ff26f05026ee5e90c95
+props: 1096 283 77 0 6b94d20aec46b8dab44ef95e370ba39c
+cpath: /main/sipXmediaLib/src/test
+copyroot: 4813 /main/sipXmediaLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: rh.1i8.r4821/37196
+type: file
+pred: rh.0.r1278/1086
+count: 9
+text: 1278 611 445 3749 096d598c9719fa226246f1eda410ecdf
+props: 4821 37091 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXmediaLib/src/Makefile.am
+copyroot: 4813 /main/sipXmediaLib
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file rh.1i8.r4821/37196
+K 2
+mp
+V 19
+dir ri.0.r1319/5025
+K 4
+rtcp
+V 19
+dir tz.0.r1318/4239
+K 4
+test
+V 22
+dir ug.1i8.r4821/36846
+END
+ENDREP
+id: rg.1i8.r4821/37617
+type: dir
+pred: rg.0.r1319/5358
+count: 104
+text: 4821 37451 153 153 611f600ff3de060b8a8d51609011fba2
+props: 1096 759 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /main/sipXmediaLib/src
+copyroot: 4813 /main/sipXmediaLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: ut.1i8.r4821/37965
+type: file
+pred: ut.0.r1310/711
+count: 6
+text: 1310 49 20 817 8e10c11450e269a0dbbb293e989e40bd
+props: 4821 37860 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXmediaLib/doc/Makefile.am
+copyroot: 4813 /main/sipXmediaLib
+
+PLAIN
+K 11
+Doxyfile.in
+V 19
+file us.0.r1310/478
+K 11
+Makefile.am
+V 23
+file ut.1i8.r4821/37965
+K 11
+footer.html
+V 19
+file uu.0.r1310/242
+END
+ENDREP
+id: ur.1i8.r4821/38363
+type: dir
+pred: ur.0.r1310/1086
+count: 10
+text: 4821 38216 134 134 f124c19d33f1a246a072f556ee21897e
+props: 1261 0 91 0 368f5be2a255ba83ee1082500f4d8241
+cpath: /main/sipXmediaLib/doc
+copyroot: 4813 /main/sipXmediaLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: uz.1i8.r4821/38708
+type: file
+pred: uz.0.r1196/3496
+count: 5
+text: 1196 0 437 488 264952cdd4dcfd7b5eb189520c1b4b83
+props: 4821 38603 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXmediaLib/bin/Makefile.am
+copyroot: 4813 /main/sipXmediaLib
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file uz.1i8.r4821/38708
+END
+ENDREP
+id: uy.1i8.r4821/39023
+type: dir
+pred: uy.0.r1196/3792
+count: 7
+text: 4821 38960 50 50 2e4022d5039ec48f2c77369f589b1b4a
+props: 1170 0 67 0 a4e9076c61e0d64c49a4fc43ac2a3357
+cpath: /main/sipXmediaLib/bin
+copyroot: 4813 /main/sipXmediaLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: n4.1i8.r4821/39365
+type: file
+pred: n4.0.r1317/112
+count: 18
+text: 1317 0 88 1337 646e67e5247ac399e4716ee8ba135576
+props: 4821 39260 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXmediaLib/Makefile.am
+copyroot: 4813 /main/sipXmediaLib
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file n0.0.r1180/110990
+K 9
+ChangeLog
+V 19
+file n1.0.r1193/125
+K 7
+INSTALL
+V 22
+file n2.0.r1180/113962
+K 7
+LICENSE
+V 20
+file n3.0.r1180/9504
+K 11
+Makefile.am
+V 23
+file n4.1i8.r4821/39365
+K 4
+NEWS
+V 22
+file n5.0.r1180/115507
+K 6
+README
+V 22
+file n6.0.r1180/110684
+K 4
+TODO
+V 22
+file n7.0.r1180/113653
+K 9
+acsite.m4
+V 21
+file n8.0.r1180/65533
+K 3
+bin
+V 22
+dir uy.1i8.r4821/39023
+K 12
+configure.ac
+V 18
+file n9.0.r1283/84
+K 3
+doc
+V 22
+dir ur.1i8.r4821/38363
+K 7
+include
+V 22
+dir na.1i8.r4821/36141
+K 3
+lib
+V 21
+dir rf.0.r1068/744020
+K 4
+meta
+V 19
+dir v0.0.r1234/2018
+K 16
+sipXmediaLib.dsp
+V 19
+file up.0.r1296/462
+K 19
+sipXmediaLib.vcproj
+V 19
+file v8.0.r1259/391
+K 20
+sipxmedialib.spec.in
+V 19
+file uw.0.r1256/329
+K 3
+src
+V 22
+dir rg.1i8.r4821/37617
+END
+ENDREP
+id: mz.1i8.r4821/40400
+type: dir
+pred: mz.1i8.r4813/6694
+count: 169
+text: 4821 39613 774 774 ab69ede6ea4782a88f2210ba5f632c15
+props: 4813 5819 862 0 810208b4f5a116290a50a699daa74332
+cpath: /main/sipXmediaLib
+copyroot: 4813 /main/sipXmediaLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 2dd.1ig.r4821/40748
+type: file
+pred: 2dd.0.r2956/34460
+count: 6
+text: 2930 585 309 742 e9c8dd1367cc23df971af729f5084dda
+props: 4821 40643 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXvxml/src/VXI/Makefile.am
+copyroot: 4813 /main/sipXvxml
+
+PLAIN
+K 20
+CommonExceptions.hpp
+V 22
+file 2cx.0.r2903/42607
+K 12
+Counters.cpp
+V 22
+file 2cy.0.r2903/43939
+K 12
+Counters.hpp
+V 22
+file 2cz.0.r2903/45585
+K 7
+DTD.hpp
+V 22
+file 2d0.0.r2956/33776
+K 12
+Defaults.hpp
+V 22
+file 2d1.0.r2903/47239
+K 15
+DefaultsDTD.hpp
+V 22
+file 2d2.0.r2956/32725
+K 21
+DocumentConverter.cpp
+V 22
+file 2d3.0.r2903/44937
+K 21
+DocumentConverter.hpp
+V 22
+file 2d4.0.r2903/46583
+K 17
+DocumentModel.cpp
+V 22
+file 2d5.0.r2903/42271
+K 17
+DocumentModel.hpp
+V 22
+file 2d6.0.r2903/44602
+K 18
+DocumentParser.cpp
+V 22
+file 2d7.0.r2956/34799
+K 18
+DocumentParser.hpp
+V 22
+file 2d8.0.r2903/43273
+K 15
+DocumentRep.hpp
+V 22
+file 2d9.0.r2903/50861
+K 18
+GrammarManager.cpp
+V 20
+file 2da.0.r2971/835
+K 18
+GrammarManager.hpp
+V 22
+file 2db.0.r2903/49870
+K 17
+InternalMutex.hpp
+V 22
+file 2dc.0.r2903/44268
+K 11
+Makefile.am
+V 24
+file 2dd.1ig.r4821/40748
+K 13
+Makefile.unix
+V 22
+file 2de.0.r2903/47897
+K 17
+PromptManager.cpp
+V 22
+file 2df.0.r2956/33428
+K 17
+PromptManager.hpp
+V 22
+file 2dg.0.r2903/49201
+K 16
+PropertyList.cpp
+V 22
+file 2dh.0.r2956/34112
+K 16
+PropertyList.hpp
+V 22
+file 2di.0.r2903/49536
+K 12
+Scripter.cpp
+V 22
+file 2dj.0.r2903/51520
+K 12
+Scripter.hpp
+V 22
+file 2dk.0.r2903/43609
+K 16
+SimpleLogger.cpp
+V 21
+file 2dl.0.r2971/1080
+K 16
+SimpleLogger.hpp
+V 22
+file 2dm.0.r2903/41938
+K 7
+VXI.cpp
+V 20
+file 2dn.0.r3003/107
+K 7
+VXI.hpp
+V 22
+file 2do.0.r2903/46922
+K 11
+VXI_api.cpp
+V 22
+file 2dp.0.r2956/32040
+K 6
+VXML.h
+V 22
+file 2dq.0.r2903/51844
+K 18
+XMLChConverter.hpp
+V 22
+file 2dr.0.r2956/33075
+END
+ENDREP
+id: 2cw.1ig.r4821/42518
+type: dir
+pred: 2cw.0.r3003/1853
+count: 16
+text: 4821 41001 1504 1504 42f424f2f0e0ee14d6125a5aee6089d5
+props: 2934 1543 68 0 181be3b0133f03bdaf568968bf4fc959
+cpath: /main/sipXvxml/src/VXI
+copyroot: 4813 /main/sipXvxml
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 2cv.1ig.r4821/42866
+type: file
+pred: 2cv.0.r2903/53917
+count: 2
+text: 2734 1355597 420 637 6bb8ac3d782448b71249a451491aaf06
+props: 4821 42761 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXvxml/src/Makefile.am
+copyroot: 4813 /main/sipXvxml
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 2cv.1ig.r4821/42866
+K 3
+VXI
+V 23
+dir 2cw.1ig.r4821/42518
+K 6
+client
+V 20
+dir 2ds.0.r3017/9102
+K 4
+inet
+V 20
+dir 2ed.0.r3015/1662
+K 3
+jsi
+V 21
+dir 2f2.0.r2956/31712
+K 3
+log
+V 21
+dir 2fe.0.r2956/25709
+K 6
+prompt
+V 20
+dir 2fj.0.r3022/6160
+K 3
+rec
+V 20
+dir 2fr.0.r2981/2311
+K 3
+tel
+V 20
+dir 2fx.0.r2981/1602
+K 3
+trd
+V 20
+dir 2g1.0.r3009/3943
+K 5
+value
+V 19
+dir 2g6.0.r2962/623
+END
+ENDREP
+id: 2cu.1ig.r4821/43536
+type: dir
+pred: 2cu.0.r3022/6799
+count: 85
+text: 4821 43119 404 404 c6b5169b2865a08c390e0815b05b44ba
+props: 2763 3810 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXvxml/src
+copyroot: 4813 /main/sipXvxml
+
+PLAIN
+K 7
+AUTHORS
+V 22
+file 22e.0.r2903/20704
+K 12
+CONTRIBUTORS
+V 22
+file 2h3.0.r2903/68683
+K 7
+COPYING
+V 22
+file 22f.0.r2956/51695
+K 9
+ChangeLog
+V 22
+file 22g.0.r2956/15190
+K 7
+INSTALL
+V 22
+file 22h.0.r2903/74726
+K 11
+Makefile.am
+V 20
+file 22i.0.r3021/146
+K 4
+NEWS
+V 23
+file 22j.0.r2903/186996
+K 6
+README
+V 22
+file 22k.0.r2903/68375
+K 9
+acsite.m4
+V 22
+file 22l.0.r2903/21604
+K 3
+bin
+V 21
+dir 22m.0.r2956/51375
+K 12
+configure.ac
+V 19
+file 22o.0.r2991/76
+K 3
+doc
+V 20
+dir 2gf.0.r3012/1109
+K 3
+etc
+V 19
+dir 22p.0.r2983/369
+K 7
+include
+V 21
+dir 22u.0.r2956/14136
+K 2
+js
+V 20
+dir 23o.0.r3016/9816
+K 4
+meta
+V 21
+dir 2cs.0.r2956/15022
+K 16
+sipxvxml.spec.in
+V 21
+file 2h0.0.r3009/6286
+K 3
+src
+V 23
+dir 2cu.1ig.r4821/43536
+END
+ENDREP
+id: 22d.1ig.r4821/44499
+type: dir
+pred: 22d.1ig.r4813/7777
+count: 193
+text: 4821 43773 713 713 b5cd2ac199651ee40cdb85033cf68f33
+props: 4813 6937 827 0 c0f78b11b82de9d872e0a5de20bdfee6
+cpath: /main/sipXvxml
+copyroot: 4813 /main/sipXvxml
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1zl.1ie.r4821/44841
+type: file
+pred: 1zl.0.r2417/2419
+count: 3
+text: 2417 1500 34 512 3dbf972ce8390839d5dd18b81cec7d3d
+props: 4821 44736 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXregistry/meta/Makefile.am
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1zl.1ie.r4821/44841
+K 12
+alias.xsd.in
+V 20
+file 1zm.0.r2414/707
+K 16
+huntgroup.xsd.in
+V 19
+file 1zo.0.r2419/79
+K 38
+sipx_main_fc2_bldno.configure-switches
+V 21
+file 1zp.0.r2442/1124
+K 38
+sipx_main_fc3_bldno.configure-switches
+V 21
+file 1zq.0.r2442/1445
+K 39
+sipx_main_rhe3_bldno.configure-switches
+V 21
+file 1zr.0.r2442/1766
+END
+ENDREP
+id: 1zk.1ie.r4821/45467
+type: dir
+pred: 1zk.0.r2442/2372
+count: 6
+text: 4821 45098 356 356 4660df2559667a61559be5630360f58c
+props: 2433 0 71 0 970628bddb725c5ced241b34e94147e3
+cpath: /main/sipXregistry/meta
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1yr.1ie.r4821/45814
+type: file
+pred: 1yr.0.r2526/274
+count: 13
+text: 2526 0 248 1193 6bcd69ee34dc46ad52c0ebcd7cf3bb15
+props: 4821 45709 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXregistry/src/Makefile.am
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1yr.1ie.r4821/45814
+K 21
+RedirectResumeMsg.cpp
+V 23
+file 208.da.r2521/36261
+K 19
+RedirectResumeMsg.h
+V 23
+file 209.db.r2521/28237
+K 19
+RedirectSuspend.cpp
+V 23
+file 20a.dc.r2521/29881
+K 17
+RedirectSuspend.h
+V 23
+file 20b.dd.r2521/30540
+K 27
+SipImpliedSubscriptions.cpp
+V 20
+file 1yu.0.r2446/291
+K 25
+SipImpliedSubscriptions.h
+V 21
+file 1yv.0.r2414/5539
+K 21
+SipRedirectServer.cpp
+V 21
+file 1yw.0.r2545/9916
+K 19
+SipRedirectServer.h
+V 21
+file 1yx.0.r2522/7348
+K 17
+SipRedirector.cpp
+V 23
+file 1zu.de.r2521/32014
+K 15
+SipRedirector.h
+V 23
+file 1zv.df.r2545/10162
+K 24
+SipRedirectorAliasDB.cpp
+V 23
+file 1zy.dg.r2521/27821
+K 22
+SipRedirectorAliasDB.h
+V 23
+file 1zz.dh.r2521/29469
+K 21
+SipRedirectorHunt.cpp
+V 23
+file 1ys.di.r2521/31191
+K 19
+SipRedirectorHunt.h
+V 23
+file 1yt.dj.r2521/33085
+K 24
+SipRedirectorMapping.cpp
+V 21
+file 1zw.dk.r2535/448
+K 22
+SipRedirectorMapping.h
+V 23
+file 1zx.dl.r2521/29056
+K 23
+SipRedirectorPickUp.cpp
+V 23
+file 20f.dm.r2545/10452
+K 21
+SipRedirectorPickUp.h
+V 22
+file 20g.dn.r2525/9501
+K 22
+SipRedirectorRegDB.cpp
+V 23
+file 1zs.do.r2521/33492
+K 20
+SipRedirectorRegDB.h
+V 23
+file 1zt.dp.r2521/35613
+K 26
+SipRedirectorSubscribe.cpp
+V 23
+file 204.dq.r2521/32664
+K 24
+SipRedirectorSubscribe.h
+V 23
+file 205.dr.r2521/35195
+K 16
+SipRegistrar.cpp
+V 22
+file 1yy.0.r2521/32336
+K 14
+SipRegistrar.h
+V 22
+file 1yz.0.r2521/34223
+K 22
+SipRegistrarServer.cpp
+V 20
+file 1z0.0.r2541/686
+K 20
+SipRegistrarServer.h
+V 21
+file 1z1.0.r2414/4894
+K 8
+main.cpp
+V 22
+file 1z2.0.r2521/34873
+K 9
+version.h
+V 21
+file 1z3.0.r2414/5223
+END
+ENDREP
+id: 1yq.1ie.r4821/47646
+type: dir
+pred: 1yq.0.r2545/12331
+count: 42
+text: 4821 46069 1564 1564 85b1a1e0fb6a03a486954da620c746fd
+props: 2324 278 72 0 6f5a8267934fd4c2bfd6e818e833f306
+cpath: /main/sipXregistry/src
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1z7.1ie.r4821/47998
+type: file
+pred: 1z7.0.r2543/49
+count: 10
+text: 2543 0 24 924 2ea9d7f9efa42bc11a4d073952f554e9
+props: 4821 47893 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXregistry/doc/Makefile.am
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 11
+Doxyfile.in
+V 20
+file 1zh.0.r2515/898
+K 11
+Makefile.am
+V 24
+file 1z7.1ie.r4821/47998
+K 15
+Redirection.txt
+V 22
+file 1z8.0.r2521/39342
+K 9
+alias.xml
+V 21
+file 1z9.0.r2415/1312
+K 9
+developer
+V 20
+dir 200.d4.r2546/957
+K 17
+fallbackrules.xml
+V 22
+file 1zc.bj.r2415/1546
+K 11
+footer.html
+V 20
+file 1zi.0.r2515/663
+K 13
+huntgroup.xml
+V 21
+file 1za.0.r2415/1837
+K 16
+mappingrules.xml
+V 21
+file 1zb.0.r2415/1071
+K 16
+registration.xml
+V 22
+file 1zd.0.r2414/10316
+END
+ENDREP
+id: 1z6.1ie.r4821/48726
+type: dir
+pred: 1z6.0.r2546/1646
+count: 24
+text: 4821 48250 463 463 fb458e14615945cdb9b94ac097427437
+props: 2451 0 91 0 94a19a2036daeea8458fc260e14043ce
+cpath: /main/sipXregistry/doc
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1zg.1ie.r4821/49073
+type: file
+pred: 1zg.0.r2432/2989
+count: 6
+text: 2432 0 129 820 e61c1124af2df6e467349cca111a7e32
+props: 4821 48968 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXregistry/bin/Makefile.am
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1zg.1ie.r4821/49073
+K 18
+sipregistrar.sh.in
+V 21
+file 1yg.0.r2417/3535
+END
+ENDREP
+id: 1yf.1ie.r4821/49442
+type: dir
+pred: 1yf.0.r2433/695
+count: 16
+text: 4821 49327 102 102 08f011c8016ab3ca83e083f059310516
+props: 2433 599 83 0 e63c4d5c1aa543a6172cd482740ab7d5
+cpath: /main/sipXregistry/bin
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ya.1ie.r4821/49790
+type: file
+pred: 1ya.0.r2539/670
+count: 33
+text: 2539 0 642 1344 bf92fe6599e5726081b0762bb669bbf6
+props: 4821 49685 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXregistry/Makefile.am
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1zn.1ie.r4821/50146
+type: file
+pred: 1zn.0.r2427/97
+count: 3
+text: 2427 0 71 1899 f69ceac309468706c82bd1c3ca1b09de
+props: 4821 50041 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXregistry/etc/Makefile.am
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1zn.1ie.r4821/50146
+K 20
+fallbackrules.xml.in
+V 23
+file 1yo.bi.r2414/14899
+K 19
+mappingrules.xml.in
+V 19
+file 1yn.0.r2503/68
+K 19
+registrar-config.in
+V 22
+file 1yp.0.r2525/11909
+END
+ENDREP
+id: 1yl.1ie.r4821/50620
+type: dir
+pred: 1yl.0.r2525/12370
+count: 19
+text: 4821 50398 209 209 31bdc69f5bf8c286122e5732a18d1c74
+props: 2451 324 53 0 f53ffc4488277f7bd92c054bbbdf4ac3
+cpath: /main/sipXregistry/etc
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 21
+file 1y6.0.r2414/7414
+K 9
+ChangeLog
+V 20
+file 1y7.0.r2470/663
+K 7
+INSTALL
+V 22
+file 1y8.0.r2414/11973
+K 7
+LICENSE
+V 20
+file 1y9.0.r2470/440
+K 11
+Makefile.am
+V 24
+file 1ya.1ie.r4821/49790
+K 4
+NEWS
+V 22
+file 1yb.0.r2414/15680
+K 6
+README
+V 21
+file 1yc.0.r2414/7102
+K 4
+TODO
+V 22
+file 1yd.0.r2414/11664
+K 9
+acsite.m4
+V 21
+file 1ye.0.r2414/1353
+K 3
+bin
+V 23
+dir 1yf.1ie.r4821/49442
+K 12
+configure.ac
+V 19
+file 1yk.0.r2463/66
+K 3
+doc
+V 23
+dir 1z6.1ie.r4821/48726
+K 3
+etc
+V 23
+dir 1yl.1ie.r4821/50620
+K 4
+meta
+V 23
+dir 1zk.1ie.r4821/45467
+K 16
+sipXregistry.dsp
+V 20
+file 1z4.0.r2482/352
+K 20
+sipxregistry.spec.in
+V 20
+file 1ze.0.r2450/246
+K 3
+src
+V 23
+dir 1yq.1ie.r4821/47646
+END
+ENDREP
+id: 1y5.1ie.r4821/51574
+type: dir
+pred: 1y5.1ie.r4813/9021
+count: 131
+text: 4821 50865 696 696 69c0bb886bf7230e4059ae65a8cb1ca5
+props: 4813 8014 994 0 3c3f8a8865d904475db512612fd2e950
+cpath: /main/sipXregistry
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1rd.1i6.r4821/51924
+type: file
+pred: 1rd.0.r1967/22372
+count: 2
+text: 1798 26978 743 1617 b24b9fbb13684b04e18fe476b4442290
+props: 4821 51819 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXcommserverLib/include/Makefile.am
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1rd.1i6.r4821/51924
+K 9
+digitmaps
+V 19
+dir 1re.0.r1967/712
+K 6
+fastdb
+V 21
+dir 1rg.0.r1967/22101
+K 5
+sipdb
+V 20
+dir 1sf.0.r2065/6724
+END
+ENDREP
+id: 1rc.1i6.r4821/52375
+type: dir
+pred: 1rc.0.r2065/7083
+count: 14
+text: 4821 52198 164 164 3c95e35921a01c80067986e101294728
+props: 1837 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXcommserverLib/include
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1vf.1i6.r4821/52736
+type: file
+pred: 1vf.0.r1967/23464
+count: 2
+text: 1959 1191 288 414 c5381fc3ed10374cc3f41c4694ec5dcf
+props: 4821 52631 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXcommserverLib/meta/Makefile.am
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1vf.1i6.r4821/52736
+K 13
+authrules.xsd
+V 20
+file 1vg.0.r1970/677
+K 10
+regdisplay
+V 20
+file 1vr.0.r2088/108
+K 13
+setsipxpasswd
+V 20
+file 1v4.0.r2080/122
+K 38
+sipx_main_fc2_bldno.configure-switches
+V 21
+file 1vl.0.r1994/1543
+K 38
+sipx_main_fc3_bldno.configure-switches
+V 21
+file 1vm.0.r1994/1869
+K 39
+sipx_main_rhe3_bldno.configure-switches
+V 21
+file 1vn.0.r1994/2195
+K 10
+urlmap.xsd
+V 20
+file 1vh.0.r1970/919
+END
+ENDREP
+id: 1v3.1i6.r4821/53457
+type: dir
+pred: 1v3.0.r2088/793
+count: 11
+text: 4821 53005 439 439 10188d8d961b68824d883cd7c9751e05
+props: 1972 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXcommserverLib/meta
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ui.1i6.r4821/53814
+type: file
+pred: 1ui.0.r1985/1140
+count: 10
+text: 1985 933 93 521 47540036569f6bd2af816293c77f4a10
+props: 4821 53709 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXcommserverLib/src/test/Makefile.am
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1ui.1i6.r4821/53814
+K 18
+UrlMappingTest.cpp
+V 20
+file 1uj.0.r2063/421
+K 7
+mapdata
+V 20
+dir 1uk.0.r2063/1211
+END
+ENDREP
+id: 1uh.1i6.r4821/54237
+type: dir
+pred: 1uh.0.r2063/1547
+count: 18
+text: 4821 54085 139 139 230802e03d1144b1cfd704e552d4e643
+props: 1837 288 69 0 a55b9c7c849058edc17f2440b12156da
+cpath: /main/sipXcommserverLib/src/test
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ue.1i6.r4821/54601
+type: file
+pred: 1ue.0.r1985/1774
+count: 14
+text: 1985 811 95 1088 ce81a4df2f69d53587312d2ce6a09baf
+props: 4821 54496 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXcommserverLib/src/sipdbtest/Makefile.am
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 15
+DisplayTask.cpp
+V 21
+file 1u2.0.r2065/8621
+K 13
+DisplayTask.h
+V 22
+file 1u3.0.r1967/38004
+K 20
+HeartBeatMonitor.cpp
+V 22
+file 1u4.0.r1967/35595
+K 18
+HeartBeatMonitor.h
+V 22
+file 1u5.0.r1967/37659
+K 19
+IMDBTaskMonitor.cpp
+V 22
+file 1u6.0.r1967/35254
+K 17
+IMDBTaskMonitor.h
+V 22
+file 1u7.0.r1967/37314
+K 18
+IMDBWorkerTask.cpp
+V 21
+file 1u8.0.r2065/8880
+K 16
+IMDBWorkerTask.h
+V 22
+file 1u9.0.r1967/38345
+K 14
+ImportTask.cpp
+V 21
+file 1ua.0.r2065/9140
+K 12
+ImportTask.h
+V 22
+file 1ub.0.r1967/34579
+K 17
+KeepAliveTask.cpp
+V 22
+file 1uc.0.r1967/36632
+K 15
+KeepAliveTask.h
+V 22
+file 1ud.0.r1967/39031
+K 11
+Makefile.am
+V 24
+file 1ue.1i6.r4821/54601
+K 8
+main.cpp
+V 22
+file 1uf.0.r1967/34919
+K 15
+sipdbtest.sh.in
+V 22
+file 1ug.0.r1967/34238
+END
+ENDREP
+id: 1u1.1i6.r4821/55631
+type: dir
+pred: 1u1.0.r2065/10148
+count: 28
+text: 4821 54878 740 740 6799b20dd4d50143366830175e88d621
+props: 1972 285 82 0 fc3a85936477ef4841f3848610f2ceb3
+cpath: /main/sipXcommserverLib/src/sipdbtest
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1t2.1i6.r4821/56001
+type: file
+pred: 1t2.0.r1985/3017
+count: 10
+text: 1985 466 319 1904 41d9a69e918000135d4072a5bfb8b462
+props: 4821 55896 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXcommserverLib/src/Makefile.am
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1vj.1i6.r4821/56374
+type: file
+pred: 1vj.0.r1985/3261
+count: 4
+text: 1985 1050 64 400 6941ea1a33e7093993c016c077e12ba4
+props: 4821 56269 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXcommserverLib/src/xsdvalid/Makefile.am
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1vj.1i6.r4821/56374
+K 12
+xsdvalid.cpp
+V 22
+file 1vk.0.r1967/47735
+END
+ENDREP
+id: 1vi.1i6.r4821/56759
+type: dir
+pred: 1vi.0.r1985/3619
+count: 5
+text: 4821 56649 97 97 4023763c7ea342c4641d57101a137445
+props: 1972 620 68 0 c687454c086e7b1bb2596970399abc85
+cpath: /main/sipXcommserverLib/src/xsdvalid
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1t2.1i6.r4821/56001
+K 9
+digitmaps
+V 19
+dir 1t3.0.r2077/802
+K 6
+fastdb
+V 20
+dir 1t5.0.r2094/1243
+K 5
+sipdb
+V 20
+dir 1to.0.r2065/8440
+K 9
+sipdbtest
+V 23
+dir 1u1.1i6.r4821/55631
+K 4
+test
+V 23
+dir 1uh.1i6.r4821/54237
+K 8
+xsdvalid
+V 23
+dir 1vi.1i6.r4821/56759
+END
+ENDREP
+id: 1t1.1i6.r4821/57318
+type: dir
+pred: 1t1.0.r2094/1713
+count: 57
+text: 4821 57019 286 286 b127b5f89ca1c52a61e51f2c4d38cb42
+props: 1837 1172 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /main/sipXcommserverLib/src
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1uz.1i6.r4821/57678
+type: file
+pred: 1uz.0.r2071/1128
+count: 9
+text: 2071 48 413 871 977fd5670f9e200c6e7eb24f852d71f1
+props: 4821 57573 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXcommserverLib/doc/Makefile.am
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 11
+Doxyfile.in
+V 20
+file 1uy.0.r2071/889
+K 11
+INSTALL.ssl
+V 22
+file 1v7.84.r2058/1113
+K 11
+Makefile.am
+V 24
+file 1uz.1i6.r4821/57678
+K 14
+credential.xml
+V 22
+file 1uw.0.r2065/10910
+K 11
+footer.html
+V 20
+file 1v0.0.r2071/647
+K 14
+permission.xml
+V 21
+file 1ux.0.r1968/1188
+K 17
+update-passtokens
+V 22
+file 1vb.0.r2065/11154
+END
+ENDREP
+id: 1uv.1i6.r4821/58284
+type: dir
+pred: 1uv.0.r2086/338
+count: 30
+text: 4821 57943 328 328 aaaa9facca5671338ff7d2d7c0df819e
+props: 2009 0 101 0 fecde876016691d3ef6177d9fc043c00
+cpath: /main/sipXcommserverLib/doc
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1qz.1i6.r4821/58641
+type: file
+pred: 1qz.0.r2083/90
+count: 11
+text: 2083 0 17 1061 7cee110f6893ce793054c9e52077b95e
+props: 4821 58536 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXcommserverLib/bin/Makefile.am
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1v8.1i6.r4821/59009
+type: file
+pred: 1v8.0.r2093/415
+count: 13
+text: 2093 0 391 1209 7063117c2c79f6259859f0ff47b280f8
+props: 4821 58904 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXcommserverLib/bin/ssl-cert/Makefile.am
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1v8.1i6.r4821/59009
+K 12
+ca_rehash.in
+V 21
+file 1vq.0.r2047/5598
+K 16
+check-cert.sh.in
+V 22
+file 1vc.9i.r2092/2169
+K 18
+gen-ssl-keys.sh.in
+V 21
+file 1v9.0.r2047/4993
+K 18
+install-cert.sh.in
+V 19
+file 1va.0.r2089/55
+END
+ENDREP
+id: 1v6.1i6.r4821/59542
+type: dir
+pred: 1v6.0.r2093/920
+count: 25
+text: 4821 59283 246 246 c1c9b244aa1b4f778883959f39e4afce
+props: 2047 6652 90 0 8d02fee1ad43fa5d4351a4617b15ee3e
+cpath: /main/sipXcommserverLib/bin/ssl-cert
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1qz.1i6.r4821/58641
+K 8
+configpp
+V 20
+file 1r0.0.r2006/246
+K 12
+get_def_addr
+V 22
+file 1r1.0.r1967/55140
+K 20
+sipx-expires-display
+V 22
+file 1vd.0.r1967/54440
+K 20
+sipx-validate-xml.in
+V 19
+file 1ve.0.r1983/63
+K 8
+ssl-cert
+V 23
+dir 1v6.1i6.r4821/59542
+END
+ENDREP
+id: 1qy.1i6.r4821/60101
+type: dir
+pred: 1qy.0.r2093/1444
+count: 46
+text: 4821 59805 283 283 71dc77aa2f2c61541cf7dbc69694d90f
+props: 1972 2087 90 0 717adb1a33f28af3f24597fe9e5960ec
+cpath: /main/sipXcommserverLib/bin
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1qt.1i6.r4821/60461
+type: file
+pred: 1qt.0.r2091/122
+count: 24
+text: 2091 0 98 1754 7bb7b528ce1f540e0de3ac9f3e0455ee
+props: 4821 60356 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXcommserverLib/Makefile.am
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1r7.1i6.r4821/60826
+type: file
+pred: 1r7.0.r1967/58828
+count: 9
+text: 1947 1047 206 543 525abce0bceda3a7f0f56c8706179142
+props: 4821 60721 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXcommserverLib/etc/Makefile.am
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1r7.1i6.r4821/60826
+K 14
+config.defs.in
+V 19
+file 1r8.0.r2081/46
+END
+ENDREP
+id: 1r6.1i6.r4821/61203
+type: dir
+pred: 1r6.0.r2081/394
+count: 23
+text: 4821 61094 96 96 b2dde5e1f01199e32c68edd82a27c537
+props: 1972 2421 59 0 471da4dcabe501d110071896cb618425
+cpath: /main/sipXcommserverLib/etc
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1qp.0.r1967/49607
+K 9
+ChangeLog
+V 20
+file 1qq.0.r1984/410
+K 7
+INSTALL
+V 21
+file 1qr.0.r2058/2054
+K 7
+LICENSE
+V 19
+file 1qs.0.r1967/82
+K 11
+Makefile.am
+V 24
+file 1qt.1i6.r4821/60461
+K 4
+NEWS
+V 22
+file 1qu.0.r1967/60154
+K 6
+README
+V 22
+file 1qv.0.r1967/49287
+K 4
+TODO
+V 22
+file 1qw.0.r1967/53785
+K 9
+acsite.m4
+V 22
+file 1qx.0.r1967/24543
+K 3
+bin
+V 23
+dir 1qy.1i6.r4821/60101
+K 12
+configure.ac
+V 21
+file 1r5.0.r2047/4753
+K 3
+doc
+V 23
+dir 1uv.1i6.r4821/58284
+K 3
+etc
+V 23
+dir 1r6.1i6.r4821/61203
+K 7
+include
+V 23
+dir 1rc.1i6.r4821/52375
+K 4
+meta
+V 23
+dir 1v3.1i6.r4821/53457
+K 21
+sipXcommserverLib.dsp
+V 20
+file 1us.0.r2046/732
+K 13
+sipdbtest.dsp
+V 20
+file 1ut.0.r2046/491
+K 25
+sipxcommserverlib.spec.in
+V 21
+file 1v2.0.r2092/3751
+K 3
+src
+V 23
+dir 1t1.1i6.r4821/57318
+END
+ENDREP
+id: 1qo.1i6.r4821/62264
+type: dir
+pred: 1qo.1i6.r4813/10215
+count: 189
+text: 4821 61455 796 796 a8617e3d20b880213307607f6e876d2e
+props: 4813 9266 936 0 906bcca43d326368ae1df969c442ecf6
+cpath: /main/sipXcommserverLib
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 5h6.1i9.r4821/62625
+type: file
+pred: 5h6.0.r4454/721
+count: 3
+text: 4103 219 67 55 c9f2f2914a7bd911b487e8b8de0631c6
+props: 4821 62520 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXpbx/include/processcgi/Makefile.am
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 16
+DependencyList.h
+V 20
+file 5h5.0.r4454/389
+K 11
+Makefile.am
+V 24
+file 5h6.1i9.r4821/62625
+K 18
+processXMLCommon.h
+V 21
+file 5h7.0.r4454/1045
+END
+ENDREP
+id: 5h4.1i9.r4821/63046
+type: dir
+pred: 5h4.0.r4454/1458
+count: 8
+text: 4821 62883 150 150 2486e55a021581df8e9d3e2321604fde
+props: 4144 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXpbx/include/processcgi
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 5ha.1i9.r4821/63397
+type: file
+pred: 5ha.0.r4454/2097
+count: 3
+text: 4246 0 48 36 5bcbe084d5151740da472af0d05e4be1
+props: 4821 63292 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXpbx/include/sipxcgi/Makefile.am
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 11
+CgiValues.h
+V 21
+file 5h9.0.r4454/1772
+K 11
+Makefile.am
+V 24
+file 5ha.1i9.r4821/63397
+END
+ENDREP
+id: 5h8.1i9.r4821/63759
+type: dir
+pred: 5h8.0.r4454/2441
+count: 6
+text: 4821 63651 95 95 e69a552767f793aaab9a4fd5a8c00f49
+props: 4144 291 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXpbx/include/sipxcgi
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 5h3.1i9.r4821/64107
+type: file
+pred: 5h3.0.r4454/2751
+count: 2
+text: 4094 39620 41 29 d39a90f23be021963960cefb60761791
+props: 4821 64002 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXpbx/include/Makefile.am
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 5h3.1i9.r4821/64107
+K 10
+processcgi
+V 23
+dir 5h4.1i9.r4821/63046
+K 7
+sipxcgi
+V 23
+dir 5h8.1i9.r4821/63759
+END
+ENDREP
+id: 5h2.1i9.r4821/64507
+type: dir
+pred: 5h2.0.r4454/3129
+count: 9
+text: 4821 64357 137 137 3968cfe5c11caff423e69ba6b7475ad3
+props: 4144 719 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXpbx/include
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 5k1.1i9.r4821/64849
+type: file
+pred: 5k1.0.r4618/5164
+count: 3
+text: 4618 316 30 18 c6465178549bdfb532e27ef370df2c99
+props: 4821 64744 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXpbx/src/test/Makefile.am
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 5k1.1i9.r4821/64849
+K 7
+sipxcgi
+V 20
+dir 5k2.0.r4571/9846
+END
+ENDREP
+id: 5k0.1i9.r4821/65200
+type: dir
+pred: 5k0.0.r4618/5497
+count: 16
+text: 4821 65098 89 89 60265e7b4bbf43f3e4fcd086a4dba887
+props: 4144 1397 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXpbx/src/test
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 5hc.1i9.r4821/65543
+type: file
+pred: 5hc.0.r4454/284715
+count: 4
+text: 4122 1154 61 706 568326eb02b2c165df6352fd1d9be14a
+props: 4821 65438 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXpbx/src/Makefile.am
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 5hc.1i9.r4821/65543
+K 13
+emailnotifier
+V 21
+dir 5hd.0.r4571/95251
+K 10
+mailboxmgr
+V 20
+dir 5hi.0.r4657/6860
+K 14
+mediaservercgi
+V 21
+dir 5jf.0.r4624/42236
+K 12
+mod_sipxauth
+V 21
+dir 5ji.0.r4571/93520
+K 10
+processcgi
+V 21
+dir 5jm.0.r4571/92507
+K 14
+replicationcgi
+V 20
+dir 5ju.0.r4651/2895
+K 7
+sipxcgi
+V 21
+dir 5jx.0.r4571/94214
+K 4
+test
+V 23
+dir 5k0.1i9.r4821/65200
+K 8
+watchdog
+V 21
+dir 5kc.0.r4571/91722
+K 10
+wwwcontent
+V 22
+dir 5r8.0.r4652/375022
+END
+ENDREP
+id: 5hb.1i9.r4821/66285
+type: dir
+pred: 5hb.0.r4657/7585
+count: 148
+text: 4821 65791 481 481 1fcff40f879a9a174a405a3cfddadf97
+props: 4144 5413 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXpbx/src
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6pz.1i9.r4821/66626
+type: file
+pred: 6pz.0.r4633/506770
+count: 1
+text: 4633 21907 485 832 38693478dba1df490b5542444e9dcd6b
+props: 4821 66521 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXpbx/sipXpark/doc/Makefile.am
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 11
+Doxyfile.in
+V 21
+file 6py.0.r4665/1276
+K 11
+Makefile.am
+V 24
+file 6pz.1i9.r4821/66626
+K 11
+footer.html
+V 23
+file 6q0.0.r4633/505891
+K 11
+header.html
+V 23
+file 6q1.0.r4633/507073
+K 7
+license
+V 20
+dir 6q2.0.r4665/1017
+END
+ENDREP
+id: 6px.1i9.r4821/67123
+type: dir
+pred: 6px.0.r4670/89
+count: 5
+text: 4821 66885 225 225 2e8c544e20c60410c0d72f6f634d997e
+props: 4670 0 76 0 bec8a81f4d2fbcc97baeef67e5884d76
+cpath: /main/sipXpbx/sipXpark/doc
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6qb.1i9.r4821/67466
+type: file
+pred: 6qb.0.r4646/79
+count: 6
+text: 4646 0 55 1231 5a1fb66dd06926ae32e958618d943271
+props: 4821 67361 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXpbx/sipXpark/src/Makefile.am
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 14
+ActiveCall.cpp
+V 23
+file 6q9.0.r4633/509530
+K 12
+ActiveCall.h
+V 23
+file 6qa.0.r4633/510771
+K 11
+Makefile.am
+V 24
+file 6qb.1i9.r4821/67466
+K 17
+OrbitListener.cpp
+V 23
+file 6qc.0.r4633/509216
+K 15
+OrbitListener.h
+V 23
+file 6qd.0.r4633/510460
+K 20
+ParkedCallObject.cpp
+V 23
+file 6qe.0.r4633/510145
+K 18
+ParkedCallObject.h
+V 23
+file 6qf.0.r4633/508088
+K 5
+audio
+V 22
+dir 6qg.0.r4633/508670
+K 8
+main.cpp
+V 19
+file 6qi.0.r4669/54
+END
+ENDREP
+id: 6q8.1i9.r4821/68163
+type: dir
+pred: 6q8.0.r4670/384
+count: 13
+text: 4821 67717 433 433 cc04db40310679570d0d14ad02a00ed2
+props: 4670 312 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /main/sipXpbx/sipXpark/src
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6pv.1i9.r4821/68510
+type: file
+pred: 6pv.0.r4645/769
+count: 2
+text: 4645 0 157 810 cb56a170eee321e18e7aa76016191b97
+props: 4821 68405 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXpbx/sipXpark/bin/Makefile.am
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 6pv.1i9.r4821/68510
+K 14
+sipxpark.sh.in
+V 23
+file 6pw.0.r4633/511707
+END
+ENDREP
+id: 6pu.1i9.r4821/68875
+type: dir
+pred: 6pu.0.r4670/669
+count: 4
+text: 4821 68762 100 100 4f085c5b382c2322b8c41e3a3574126f
+props: 4670 609 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXpbx/sipXpark/bin
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6pq.1i9.r4821/69221
+type: file
+pred: 6pq.0.r4639/1036
+count: 2
+text: 4639 0 465 1553 39ae10156586658af73d80845f789303
+props: 4821 69116 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXpbx/sipXpark/Makefile.am
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6q5.1i9.r4821/69576
+type: file
+pred: 6q5.0.r4633/512887
+count: 1
+text: 4633 24316 276 396 0aa7735685ac5a2e460913ff3460d31c
+props: 4821 69471 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXpbx/sipXpark/etc/Makefile.am
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 6q5.1i9.r4821/69576
+K 18
+sipxpark-config.in
+V 21
+file 6q6.0.r4665/2696
+END
+ENDREP
+id: 6q4.1i9.r4821/69950
+type: dir
+pred: 6q4.0.r4670/953
+count: 5
+text: 4821 69835 102 102 4e98c59806a5ac0ce7420907e8c829a9
+props: 4670 893 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXpbx/sipXpark/etc
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 21
+file 6pm.0.r4665/3677
+K 9
+ChangeLog
+V 21
+file 6pn.0.r4665/2380
+K 7
+INSTALL
+V 21
+file 6po.0.r4665/2065
+K 7
+LICENSE
+V 19
+file 6pp.0.r4665/82
+K 11
+Makefile.am
+V 24
+file 6pq.1i9.r4821/69221
+K 4
+NEWS
+V 21
+file 6pr.0.r4665/3368
+K 6
+README
+V 21
+file 6ps.0.r4665/3994
+K 4
+TODO
+V 20
+file 6pt.0.r4665/394
+K 3
+bin
+V 23
+dir 6pu.1i9.r4821/68875
+K 3
+doc
+V 23
+dir 6px.1i9.r4821/67123
+K 3
+etc
+V 23
+dir 6q4.1i9.r4821/69950
+K 16
+sipxpark.spec.in
+V 23
+file 6q7.0.r4633/505273
+K 3
+src
+V 23
+dir 6q8.1i9.r4821/68163
+END
+ENDREP
+id: 6pl.1i9.r4821/70725
+type: dir
+pred: 6pl.0.r4670/1753
+count: 17
+text: 4821 70191 521 521 d7a4ca3b371cc2e8152144e7ecb3deee
+props: 4670 1693 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXpbx/sipXpark
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4454/288397
+K 9
+ChangeLog
+V 21
+file 5g8.0.r4571/9011
+K 7
+INSTALL
+V 23
+file 5g9.0.r4454/289610
+K 7
+LICENSE
+V 21
+file 5ga.0.r4571/8791
+K 11
+Makefile.am
+V 20
+file 5gb.0.r4667/100
+K 4
+NEWS
+V 23
+file 5gc.0.r4454/299658
+K 6
+README
+V 23
+file 5gd.0.r4454/288092
+K 4
+TODO
+V 23
+file 5ge.0.r4454/289304
+K 9
+acsite.m4
+V 21
+file 5gf.0.r4454/4092
+K 3
+bin
+V 20
+dir 5gg.0.r4668/1270
+K 12
+configure.ac
+V 20
+file 5gl.0.r4634/783
+K 3
+doc
+V 22
+dir 5gm.1i9.r4820/2022
+K 3
+etc
+V 20
+dir 5gp.0.r4653/1060
+K 7
+include
+V 23
+dir 5h2.1i9.r4821/64507
+K 4
+meta
+V 21
+dir 6of.z4.r4521/2317
+K 8
+sipXpark
+V 23
+dir 6pl.1i9.r4821/70725
+K 15
+sipxpbx.spec.in
+V 19
+file 6mo.0.r4663/61
+K 3
+src
+V 23
+dir 5hb.1i9.r4821/66285
+END
+ENDREP
+id: 5g6.1i9.r4821/71700
+type: dir
+pred: 5g6.1i9.r4820/2979
+count: 430
+text: 4821 70965 722 722 16f1aac038eff6a8b4bf8dc4ae4c3c61
+props: 4813 10471 923 0 8e9c0f95f12b335ea36bf9c96969254e
+cpath: /main/sipXpbx
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+END
+ENDREP
+id: 6r3.1ia.r4821/72006
+type: file
+pred: 6r3.0.r4779/47
+count: 4
+text: 4753 147 42 1323 da1b74d337449fc76666c8607ab1b4bd
+props: 4821 71936 57 0 6cf7b9a5851486d474da139b168458a4
+cpath: /main/sipXphone/include/Makefile.am
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 6r3.1ia.r4821/72006
+K 3
+cmd
+V 21
+dir 6r4.0.r4677/14326
+K 8
+config.h
+V 21
+file 7m8.0.r4688/1470
+K 14
+licensemanager
+V 23
+dir 6rx.0.r4673/7297030
+K 6
+pinger
+V 19
+dir 6s3.0.r4802/928
+K 9
+pingerjni
+V 21
+dir 6sh.0.r4753/17214
+K 3
+web
+V 20
+dir 6t3.0.r4799/7316
+END
+ENDREP
+id: 6r2.1ia.r4821/72557
+type: dir
+pred: 6r2.0.r4802/1398
+count: 20
+text: 4821 72258 286 286 fa7f3f7bff054cc4b81283c44c75bcf5
+props: 4675 158 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /main/sipXphone/include
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+END
+ENDREP
+id: 7ly.1ia.r4821/72869
+type: file
+pred: 7ly.0.r4779/1850
+count: 7
+text: 4757 1621 141 500 d5cbf16271106d32d7fec6995ad3ed89
+props: 4821 72799 57 0 6cf7b9a5851486d474da139b168458a4
+cpath: /main/sipXphone/src/test/Makefile.am
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 7ly.1ia.r4821/72869
+K 12
+unitmain.cpp
+V 24
+file 7lz.0.r4673/7300836
+END
+ENDREP
+id: 7lx.1ia.r4821/73237
+type: dir
+pred: 7lx.0.r4779/2198
+count: 8
+text: 4821 73125 99 99 e8b466241e0be9b32457d99dcf856966
+props: 4675 438 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /main/sipXphone/src/test
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+END
+ENDREP
+id: 7i3.1ia.r4821/73547
+type: file
+pred: 7i3.0.r4782/1616
+count: 15
+text: 4782 159 40 4430 caa2e498b44fb2840e1c6a26b1de79ad
+props: 4821 73477 57 0 6cf7b9a5851486d474da139b168458a4
+cpath: /main/sipXphone/src/Makefile.am
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 7i3.1ia.r4821/73547
+K 3
+cmd
+V 19
+dir 7i4.0.r4679/546
+K 8
+launchix
+V 20
+dir 7mw.0.r4801/8966
+K 14
+licensemanager
+V 21
+dir 7ix.0.r4677/34468
+K 6
+pinger
+V 20
+dir 7j3.0.r4810/2112
+K 9
+pingerjni
+V 20
+dir 7k8.0.r4801/8064
+K 4
+test
+V 23
+dir 7lx.1ia.r4821/73237
+K 3
+web
+V 21
+dir 7m0.1ia.r4818/722
+END
+ENDREP
+id: 7i2.1ia.r4821/74131
+type: dir
+pred: 7i2.1ia.r4818/1234
+count: 66
+text: 4821 73798 320 320 dfb144e51cf630f866d246086a859d04
+props: 4675 1021 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /main/sipXphone/src
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+END
+ENDREP
+id: 6tb.1ia.r4821/74442
+type: file
+pred: 6tb.0.r4779/311189
+count: 2
+text: 4673 119442 113 127 e30249531a4f56de45db18581b113aca
+props: 4821 74372 57 0 6cf7b9a5851486d474da139b168458a4
+cpath: /main/sipXphone/javacore/Makefile.am
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 10
+.classpath
+V 21
+file 7mg.0.r4721/1039
+K 8
+.project
+V 21
+file 7mh.0.r4721/1196
+K 11
+Makefile.am
+V 24
+file 6tb.1ia.r4821/74442
+K 20
+build-wnt.properties
+V 22
+file 6tc.0.r4779/14642
+K 13
+build-wnt.xml
+V 22
+file 6td.0.r4779/14937
+K 9
+build.xml
+V 20
+file 6te.0.r4811/498
+K 7
+classes
+V 19
+dir 6tf.0.r4805/509
+K 4
+dist
+V 23
+dir 6th.0.r4673/7353150
+K 12
+javacore.iml
+V 21
+file 7me.0.r4692/3048
+K 4
+meta
+V 21
+dir 6tj.0.r4779/89766
+K 3
+src
+V 22
+dir 6zv.0.r4794/115498
+K 12
+test-results
+V 23
+dir 7dy.0.r4673/7629166
+K 5
+tests
+V 23
+dir 7dz.0.r4673/7352893
+END
+ENDREP
+id: 6ta.1ia.r4821/75268
+type: dir
+pred: 6ta.0.r4811/1300
+count: 33
+text: 4821 74702 553 553 1ddbb4b5823c2257bddf5a994f66c3a1
+props: 4691 2492 42 0 36e19d5208d6fe4b81b1977390a5e6b2
+cpath: /main/sipXphone/javacore
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+END
+ENDREP
+id: 7f4.1ia.r4821/75582
+type: file
+pred: 7f4.0.r4779/349241
+count: 3
+text: 4679 470 29 162 22aeb75865394e54cdc1ca6a87a392bf
+props: 4821 75512 57 0 6cf7b9a5851486d474da139b168458a4
+cpath: /main/sipXphone/softphone/Makefile.am
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 10
+.classpath
+V 21
+file 7mi.0.r4721/2149
+K 8
+.project
+V 21
+file 7mj.0.r4721/2309
+K 11
+Makefile.am
+V 24
+file 7f4.1ia.r4821/75582
+K 3
+bin
+V 20
+dir 7f5.0.r4808/2302
+K 20
+build-wnt.properties
+V 23
+file 7f7.0.r4779/314897
+K 13
+build-wnt.xml
+V 23
+file 7f8.0.r4779/315195
+K 9
+build.xml
+V 21
+file 7f9.0.r4807/3503
+K 4
+dist
+V 23
+dir 7fa.0.r4673/7643476
+K 4
+meta
+V 22
+dir 7fd.0.r4794/117313
+K 13
+softphone.iml
+V 21
+file 7mf.0.r4692/3923
+K 3
+src
+V 20
+dir 7hl.0.r4807/2790
+K 12
+test-results
+V 23
+dir 7i0.0.r4673/7680356
+K 5
+tests
+V 23
+dir 7i1.0.r4673/7642867
+END
+ENDREP
+id: 7f3.1ia.r4821/76405
+type: dir
+pred: 7f3.0.r4808/3042
+count: 23
+text: 4821 75839 553 553 042fa0e45f912ef9e6c5f7c3f1f605c6
+props: 4691 3540 42 0 36e19d5208d6fe4b81b1977390a5e6b2
+cpath: /main/sipXphone/softphone
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+END
+ENDREP
+id: 6qp.1ia.r4821/76720
+type: file
+pred: 6qp.0.r4785/679
+count: 9
+text: 4785 0 651 1183 0553f6ff58e880110a69de8a0752f8e6
+props: 4821 76650 57 0 6cf7b9a5851486d474da139b168458a4
+cpath: /main/sipXphone/Makefile.am
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 7
+AUTHORS
+V 21
+file 6ql.0.r4779/1091
+K 7
+COPYING
+V 23
+file 6qm.0.r4779/350868
+K 9
+ChangeLog
+V 21
+file 6qn.0.r4779/1579
+K 7
+INSTALL
+V 20
+file 6qo.0.r4788/529
+K 11
+Makefile.am
+V 24
+file 6qp.1ia.r4821/76720
+K 4
+NEWS
+V 23
+file 6qq.0.r4779/351399
+K 11
+QuickConfig
+V 21
+dir 7pc.0.r4800/23557
+K 6
+README
+V 23
+file 6qr.0.r4779/312572
+K 9
+acsite.m4
+V 21
+file 6qs.0.r4779/1333
+K 14
+ant-targets.am
+V 21
+file 6qt.0.r4804/1423
+K 15
+ant-targets.xml
+V 20
+file 6qu.0.r4811/268
+K 12
+applayer.ipr
+V 21
+file 7md.0.r4692/4793
+K 20
+config.properties.in
+V 23
+file 6qv.0.r4779/314640
+K 12
+configure.ac
+V 21
+file 6qw.0.r4804/2925
+K 3
+doc
+V 22
+dir 6qx.0.r4779/314422
+K 7
+include
+V 23
+dir 6r2.1ia.r4821/72557
+K 15
+installer.win32
+V 20
+dir 7oy.0.r4812/1285
+K 8
+javacore
+V 23
+dir 6ta.1ia.r4821/75268
+K 3
+lib
+V 22
+dir 7e0.0.r4687/165534
+K 13
+sipXphone.dsp
+V 20
+file 7m7.0.r4797/365
+K 13
+sipXphone.dsw
+V 22
+file 7mc.0.r4801/13353
+K 9
+softphone
+V 23
+dir 7f3.1ia.r4821/76405
+K 3
+src
+V 23
+dir 7i2.1ia.r4821/74131
+END
+ENDREP
+id: 6qk.1ia.r4821/77963
+type: dir
+pred: 6qk.1ia.r4818/2455
+count: 132
+text: 4821 76964 986 986 060791ccd83be54fae823744b5ff2a69
+props: 4813 11644 242 0 911b42856c4ef9badacabafae1761519
+cpath: /main/sipXphone
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: gq.1if.r4821/78308
+type: file
+pred: gq.0.r772/55987
+count: 2
+text: 600 306653 171 422 b71fe7f3611a823feda2c68e1f5d4353
+props: 4821 78203 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXtackLib/siptest/include/Makefile.am
+copyroot: 4813 /main/sipXtackLib
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file gq.1if.r4821/78308
+K 7
+siptest
+V 20
+dir gr.0.r891/148257
+END
+ENDREP
+id: gp.1if.r4821/78675
+type: dir
+pred: gp.0.r891/148543
+count: 8
+text: 4821 78574 88 88 0e47578d2cd409deb637024bb63fa896
+props: 657 1438 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXtackLib/siptest/include
+copyroot: 4813 /main/sipXtackLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: h6.1if.r4821/79030
+type: file
+pred: h6.0.r772/61874
+count: 2
+text: 600 320988 88 77 f78b0f87bab7792e5d21fcc7955605ee
+props: 4821 78925 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXtackLib/siptest/src/Makefile.am
+copyroot: 4813 /main/sipXtackLib
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file h6.1if.r4821/79030
+K 7
+siptest
+V 18
+dir h7.0.r970/1763
+END
+ENDREP
+id: h5.1if.r4821/79389
+type: dir
+pred: h5.0.r970/2092
+count: 31
+text: 4821 79290 86 86 c15baa7bbec0faabf83e27c7ab3954f8
+props: 657 2137 47 0 bf36bdb5202732a1b9a911cc1234183c
+cpath: /main/sipXtackLib/siptest/src
+copyroot: 4813 /main/sipXtackLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: go.1if.r4821/79739
+type: file
+pred: go.0.r772/69306
+count: 2
+text: 600 306548 92 81 9c54e27e27491f53d17482b329150853
+props: 4821 79634 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXtackLib/siptest/Makefile.am
+copyroot: 4813 /main/sipXtackLib
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file go.1if.r4821/79739
+K 7
+include
+V 22
+dir gp.1if.r4821/78675
+K 3
+src
+V 22
+dir h5.1if.r4821/79389
+END
+ENDREP
+id: gn.1if.r4821/80134
+type: dir
+pred: gn.0.r970/2446
+count: 31
+text: 4821 79995 126 126 9117173460f1bacbdcd602c9f1dd098f
+props: 657 2549 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXtackLib/siptest
+copyroot: 4813 /main/sipXtackLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: kl.1if.r4821/80482
+type: file
+pred: kl.0.r979/2379
+count: 6
+text: 979 2297 57 253 3003b92c96586e7af4782abd125e0270
+props: 4821 80377 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXtackLib/syslog2siptrace/Makefile.am
+copyroot: 4813 /main/sipXtackLib
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file kl.1if.r4821/80482
+K 8
+main.cpp
+V 19
+file km.4a.r1048/70
+K 14
+siptrace-merge
+V 19
+file lr.0.r1057/438
+K 19
+syslog2siptrace.dsp
+V 20
+file l3.0.r772/70591
+END
+ENDREP
+id: kk.1if.r4821/80941
+type: dir
+pred: kk.0.r1057/873
+count: 29
+text: 4821 80744 184 184 a61ec1cd7fe95a56313607d9a7683f6a
+props: 657 2830 75 0 4be78b2a4509c4f806f18d0ba5ad1cf8
+cpath: /main/sipXtackLib/syslog2siptrace
+copyroot: 4813 /main/sipXtackLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: gl.1if.r4821/81297
+type: file
+pred: gl.0.r792/7920
+count: 5
+text: 792 1613 80 224 78fb63a9f61b108678ef646b956b00ed
+props: 4821 81192 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXtackLib/siplog2siptrace/Makefile.am
+copyroot: 4813 /main/sipXtackLib
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file gl.1if.r4821/81297
+K 8
+main.cpp
+V 21
+file gm.0.r891/156527
+K 19
+siplog2siptrace.dsp
+V 20
+file l2.0.r772/77435
+END
+ENDREP
+id: gk.1if.r4821/81713
+type: dir
+pred: gk.0.r891/156923
+count: 13
+text: 4821 81559 141 141 42bb7aed6f60ade39e969be7fbd59b6b
+props: 657 3435 75 0 82dcc20edbd73cf7b6a964f58c3a4848
+cpath: /main/sipXtackLib/siplog2siptrace
+copyroot: 4813 /main/sipXtackLib
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: ho.1if.r4821/82071
+type: file
+pred: ho.0.r772/86063
+count: 2
+text: 600 351442 91 83 04f639d52707442c2668e14a233f7b17
+props: 4821 81966 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /main/sipXtackLib/sipviewer/Makefile.am
+copyroot: 4813 /main/sipXtackLib
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file ho.1if.r4821/82071
+K 6
+README
+V 18
+file m2.0.r1028/82
+K 3
+bin
+V 19
+dir hp.0.r1031/4769
+K 9
+build.bat
+V 20
+file l4.0.r772/79411
+K 9
+build.xml
+V 20
+file hr.0.r772/86382
+K 3
+src
+V 19
+dir hs.0.r1031/4293
+END
+ENDREP
+id: hn.1if.r4821/82573
+type: dir
+pred: hn.0.r1031/5183
+count: 21
+text: 4821 82329 231 231 4a539c8d40410ac15011d580f73d19c2
+props: 657 3752 79 0 770f954b82f9bb63c81549bfda4a0a7f
+cpath: /main/sipXtackLib/sipviewer
+copyroot: 4813 /main/sipXtackLib
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 20
+file dl.0.r772/70283
+K 9
+ChangeLog
+V 21
+file dm.0.r891/128130
+K 7
+INSTALL
+V 21
+file dn.0.r891/155358
+K 7
+LICENSE
+V 21
+file do.0.r891/111455
+K 11
+Makefile.am
+V 19
+file dp.0.r1036/160
+K 4
+NEWS
+V 20
+file dq.0.r772/79111
+K 6
+README
+V 20
+file dr.0.r772/69980
+K 4
+TODO
+V 20
+file ds.0.r772/75936
+K 9
+acsite.m4
+V 20
+file dt.0.r772/28655
+K 14
+ant-targets.am
+V 21
+file du.0.r891/127031
+K 15
+ant-targets.xml
+V 18
+file dv.0.r1039/83
+K 17
+basicimclient.dsp
+V 19
+file le.0.r916/6589
+K 3
+bin
+V 20
+dir l0.0.r891/155979
+K 20
+config.properties.in
+V 20
+file dz.0.r772/75620
+K 12
+configure.ac
+V 19
+file e0.0.r861/3376
+K 3
+doc
+V 18
+dir e1.0.r961/1098
+K 8
+examples
+V 18
+dir lf.0.r917/1087
+K 7
+include
+V 19
+dir e5.0.r1066/5193
+K 3
+lib
+V 20
+dir gh.0.r650/115439
+K 4
+meta
+V 20
+dir l6.0.r891/127911
+K 15
+sipXtackLib.dsp
+V 21
+file gj.0.r1010/11404
+K 18
+sipXtackLib.vcproj
+V 18
+file ld.0.r906/267
+K 19
+sipXtackLibTest.dsp
+V 21
+file mh.0.r1020/15478
+K 15
+siplog2siptrace
+V 22
+dir gk.1if.r4821/81713
+K 7
+siptest
+V 22
+dir gn.1if.r4821/80134
+K 11
+siptest.dsp
+V 18
+file kv.0.r909/714
+K 9
+sipviewer
+V 22
+dir hn.1if.r4821/82573
+K 19
+sipxtacklib.spec.in
+V 18
+file kw.0.r980/478
+K 3
+src
+V 20
+dir i8.0.r1066/10749
+K 15
+syslog2siptrace
+V 22
+dir kk.1if.r4821/80941
+K 16
+tcpdump2siptrace
+V 19
+file mb.0.r1047/729
+END
+ENDREP
+id: dk.1if.r4821/84131
+type: dir
+pred: dk.1if.r4813/13099
+count: 362
+text: 4821 82819 1299 1299 ee67912c735e40e4ecc8290fc4d7b5e2
+props: 4813 12140 946 0 60078909234b5ef914fb50a03e621bf8
+cpath: /main/sipXtackLib
+copyroot: 4813 /main/sipXtackLib
+
+PLAIN
+K 6
+config
+V 20
+dir 91.1i4.r4815/183
+K 11
+sipXcallLib
+V 22
+dir va.1i5.r4821/24840
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r4821/62264
+K 10
+sipXconfig
+V 23
+dir 2hf.1i7.r4821/35406
+K 12
+sipXmediaLib
+V 22
+dir mz.1i8.r4821/40400
+K 7
+sipXpbx
+V 23
+dir 5g6.1i9.r4821/71700
+K 9
+sipXphone
+V 23
+dir 6qk.1ia.r4821/77963
+K 11
+sipXportLib
+V 20
+dir 3.1ib.r4821/4012
+K 9
+sipXproxy
+V 23
+dir 1vt.1ic.r4821/16538
+K 13
+sipXpublisher
+V 22
+dir 20n.1id.r4821/9093
+K 12
+sipXregistry
+V 23
+dir 1y5.1ie.r4821/51574
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r4821/84131
+K 8
+sipXvxml
+V 23
+dir 22d.1ig.r4821/44499
+END
+ENDREP
+id: 7q4.0.r4821/84969
+type: dir
+pred: 7q4.0.r4820/3798
+count: 7
+text: 4821 84376 580 580 1d2d721276a2841ee4e40dd0731c5d23
+props: 4819 0 36 0 7f7837a88a598584dcd9896164d1c688
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r4813/32382
+K 4
+main
+V 21
+dir 7q4.0.r4821/84969
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r4821/85301
+type: dir
+pred: 0.0.r4820/4125
+count: 4821
+text: 4821 85171 117 117 6f0445f2281cf3da4fd61b3d27e2f489
+cpath: /
+copyroot: 0 /
+
+6tb.1ia.t4820-1 modify false true /main/sipXphone/javacore/Makefile.am
+
+222.1id.t4820-1 modify false true /main/sipXpublisher/bin/Makefile.am
+
+6q5.1i9.t4820-1 modify false true /main/sipXpbx/sipXpark/etc/Makefile.am
+
+kl.1if.t4820-1 modify false true /main/sipXtackLib/syslog2siptrace/Makefile.am
+
+16j._0.t4820-1 modify false true /main/sipXcallLib/examples/CallScript/src/Makefile.am
+
+6qp.1ia.t4820-1 modify false true /main/sipXphone/Makefile.am
+
+uh.1i8.t4820-1 modify false true /main/sipXmediaLib/src/test/Makefile.am
+
+5h6.1i9.t4820-1 modify false true /main/sipXpbx/include/processcgi/Makefile.am
+
+4be.1i7.t4820-1 modify false true /main/sipXconfig/profilepublisher/Makefile.am
+
+1zn.1ie.t4820-1 modify false true /main/sipXregistry/etc/Makefile.am
+
+2dd.1ig.t4820-1 modify false true /main/sipXvxml/src/VXI/Makefile.am
+
+1r7.1i6.t4820-1 modify false true /main/sipXcommserverLib/etc/Makefile.am
+
+1xl.1ic.t4820-1 modify false true /main/sipXproxy/doc/Makefile.am
+
+gq.1if.t4820-1 modify false true /main/sipXtackLib/siptest/include/Makefile.am
+
+6pz.1i9.t4820-1 modify false true /main/sipXpbx/sipXpark/doc/Makefile.am
+
+7i3.1ia.t4820-1 modify false true /main/sipXphone/src/Makefile.am
+
+go.1if.t4820-1 modify false true /main/sipXtackLib/siptest/Makefile.am
+
+21w.1id.t4820-1 modify false true /main/sipXpublisher/etc/Makefile.am
+
+14d.1i5.t4820-1 modify false true /main/sipXcallLib/src/test/Makefile.am
+
+ut.1i8.t4820-1 modify false true /main/sipXmediaLib/doc/Makefile.am
+
+5h3.1i9.t4820-1 modify false true /main/sipXpbx/include/Makefile.am
+
+4bd.1i7.t4820-1 modify false true /main/sipXconfig/profilegenerator/Makefile.am
+
+1z7.1ie.t4820-1 modify false true /main/sipXregistry/doc/Makefile.am
+
+1uz.1i6.t4820-1 modify false true /main/sipXcommserverLib/doc/Makefile.am
+
+1vj.1i6.t4820-1 modify false true /main/sipXcommserverLib/src/xsdvalid/Makefile.am
+
+7ly.1ia.t4820-1 modify false true /main/sipXphone/src/test/Makefile.am
+
+48k._1.t4820-1 modify false true /main/sipXconfig/sipagent-jni/include/Makefile.am
+
+1vy.1ic.t4820-1 modify false true /main/sipXproxy/Makefile.am
+
+nb.1i8.t4820-1 modify false true /main/sipXmediaLib/include/Makefile.am
+
+6pq.1i9.t4820-1 modify false true /main/sipXpbx/sipXpark/Makefile.am
+
+h6.1if.t4820-1 modify false true /main/sipXtackLib/siptest/src/Makefile.am
+
+1rd.1i6.t4820-1 modify false true /main/sipXcommserverLib/include/Makefile.am
+
+4ba.1i7.t4820-1 modify false true /main/sipXconfig/common/Makefile.am
+
+48i._1.t4820-1 modify false true /main/sipXconfig/sipagent-jni/Makefile.am
+
+1zl.1ie.t4820-1 modify false true /main/sipXregistry/meta/Makefile.am
+
+1ue.1i6.t4820-1 modify false true /main/sipXcommserverLib/src/sipdbtest/Makefile.am
+
+225.1id.t4820-1 modify false true /main/sipXpublisher/doc/Makefile.am
+
+4bf.1i7.t4820-1 modify false true /main/sipXconfig/profilewriter/Makefile.am
+
+n4.1i8.t4820-1 modify false true /main/sipXmediaLib/Makefile.am
+
+1wo.1ic.t4820-1 modify false true /main/sipXproxy/src/Makefile.am
+
+1ya.1ie.t4820-1 modify false true /main/sipXregistry/Makefile.am
+
+1qt.1i6.t4820-1 modify false true /main/sipXcommserverLib/Makefile.am
+
+2cv.1ig.t4820-1 modify false true /main/sipXvxml/src/Makefile.am
+
+7f4.1ia.t4820-1 modify false true /main/sipXphone/softphone/Makefile.am
+
+5hc.1i9.t4820-1 modify false true /main/sipXpbx/src/Makefile.am
+
+vm.1i5.t4820-1 modify false true /main/sipXcallLib/examples/Makefile.am
+
+4b8.1i7.t4820-1 modify false true /main/sipXconfig/etc/Makefile.am
+
+216.1id.t4820-1 modify false true /main/sipXpublisher/include/Makefile.am
+
+6qb.1i9.t4820-1 modify false true /main/sipXpbx/sipXpark/src/Makefile.am
+
+vu.1i5.t4820-1 modify false true /main/sipXcallLib/include/Makefile.am
+
+1oi.1i5.t4820-1 modify false true /main/sipXcallLib/examples/ReceiveCall/src/Makefile.am
+
+ho.1if.t4820-1 modify false true /main/sipXtackLib/sipviewer/Makefile.am
+
+1x0.1ic.t4820-1 modify false true /main/sipXproxy/src/test/Makefile.am
+
+16j.1i5.t4820-1 modify false true /main/sipXcallLib/examples/PlaceCall/src/Makefile.am
+
+1xa.1ic.t4820-1 modify false true /main/sipXproxy/bin/Makefile.am
+
+20s.1id.t4820-1 modify false true /main/sipXpublisher/Makefile.am
+
+rh.1i8.t4820-1 modify false true /main/sipXmediaLib/src/Makefile.am
+
+5k1.1i9.t4820-1 modify false true /main/sipXpbx/src/test/Makefile.am
+
+1vf.1i6.t4820-1 modify false true /main/sipXcommserverLib/meta/Makefile.am
+
+1yr.1ie.t4820-1 modify false true /main/sipXregistry/src/Makefile.am
+
+1t2.1i6.t4820-1 modify false true /main/sipXcommserverLib/src/Makefile.am
+
+6pv.1i9.t4820-1 modify false true /main/sipXpbx/sipXpark/bin/Makefile.am
+
+4c4.1i7.t4820-1 modify false true /main/sipXconfig/doc/Makefile.am
+
+8z.1ib.t4820-1 modify false true /main/sipXportLib/syslogviewer/Makefile.am
+
+1v8.1i6.t4820-1 modify false true /main/sipXcommserverLib/bin/ssl-cert/Makefile.am
+
+uz.1i8.t4820-1 modify false true /main/sipXmediaLib/bin/Makefile.am
+
+de.1ib.t4820-1 modify false true /main/sipXportLib/src/test/testplugin/Makefile.am
+
+1ui.1i6.t4820-1 modify false true /main/sipXcommserverLib/src/test/Makefile.am
+
+1zg.1ie.t4820-1 modify false true /main/sipXregistry/bin/Makefile.am
+
+1qz.1i6.t4820-1 modify false true /main/sipXcommserverLib/bin/Makefile.am
+
+1xv.1ic.t4820-1 modify false true /main/sipXproxy/src/cse/Makefile.am
+
+5ha.1i9.t4820-1 modify false true /main/sipXpbx/include/sipxcgi/Makefile.am
+
+4mx.1i7.t4820-1 modify false true /main/sipXconfig/web/Makefile.am
+
+gl.1if.t4820-1 modify false true /main/sipXtackLib/siplog2siptrace/Makefile.am
+
+21j.1id.t4820-1 modify false true /main/sipXpublisher/src/Makefile.am
+
+1wv.1ic.t4820-1 modify false true /main/sipXproxy/src/sipforkingproxy/Makefile.am
+
+1wq.1ic.t4820-1 modify false true /main/sipXproxy/src/sipauthproxy/Makefile.am
+
+6r3.1ia.t4820-1 modify false true /main/sipXphone/include/Makefile.am
+
+4er.1i7.t4820-1 modify false true /main/sipXconfig/neoconf/Makefile.am
+
+f.1ib.t4820-1 modify false true /main/sipXportLib/include/Makefile.am
+
+
+85301 85446

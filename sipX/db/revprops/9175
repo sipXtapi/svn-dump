@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-03-27T03:02:08.642062Z
+K 7
+svn:log
+V 90
+Fix typo that prevented sipdb files from being generated.
+Clean up various constructions.
+
+END

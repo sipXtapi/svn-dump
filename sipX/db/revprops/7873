@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-30T16:55:52.389252Z
+K 7
+svn:log
+V 216
+Add definition of T_NAPTR to the Windows header file that defines DNS
+record symbols.  Also add a backup definition to resparse/rr.h, as
+that seems to be the convention for the more unusual record.types
+(e.g., SRV).
+
+END

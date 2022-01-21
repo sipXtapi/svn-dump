@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-10T20:35:02.754883Z
+K 7
+svn:log
+V 539
+mergefrom pingtel-main 7063,7092
+
+In CpPeerCall::handleGetSession and handleGetInvite, revise the search
+for the call in question to always compare the call-ID and to compare
+the address both with its tag and without, because the address is
+recorded in the SipConnection without its tag before the call is
+established.  The previous test always used the tag, so both methods
+failed when applied to ringing calls.
+Improve debugging prints.
+
+Also, make some edits to new code in this branch to match the changes
+in the CpPeerCall functions.
+
+END

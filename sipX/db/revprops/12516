@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-10-14T04:53:00.499392Z
+K 7
+svn:log
+V 89
+Added prototypes for mppLogErr and get_codecs_v1 to eliminate warning from codec plugins
+
+END

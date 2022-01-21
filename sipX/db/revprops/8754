@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-10T22:04:08.700751Z
+K 7
+svn:log
+V 40
+Build fix: misplaced semicolon removed.
+
+END

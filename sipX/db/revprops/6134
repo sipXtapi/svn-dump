@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-14T22:20:19.444465Z
+K 7
+svn:log
+V 792
+Daily merge out from main:
+    XCF-910 - Set lucene lock directories thru system props.  Unfort
+    ant is setting java.io.tmpdir and we are setting it to configure
+    jetty so this property overrides all system properties
+
+    Revise how Call-IDs are generated so that multiple applications on a
+    single host cannot produce duplicate Call-IDs.
+    This is issue http://track.sipfoundry.org/browse/XCL-51.
+    This includes importing the UtlLongLongInt implementation.
+    Make the generated Call-IDs a little shorter by hashing all the fixed
+    fields with MD5 and using only the first 16 hex characters.
+    Make CpCallManager::getNewCallId(const char*, UtlString*) static,
+    since it doesn't depend on any member variables, and it could be used
+    by anybody to generate Call-IDs.
+
+END

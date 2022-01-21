@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-10-30T07:01:22.938297Z
+K 7
+svn:log
+V 126
+Add VAD resource - it processes all incoming frames with VAD and fills energy and VAD fields if they haven't been set before.
+
+END

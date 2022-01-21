@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-05-08T21:54:32.767961Z
+K 7
+svn:log
+V 636
+Merge 6778 from sipx-3.4:
+For XCF-981 (CDR reporting), add a duration column to the views and document it in the user guide.  Per Scott's suggestion, compute direction as end_time minus connect_time, rather than end_time minus start_time.  The advantage is that connect_time and end_time are more likely to have been recorded on the same machine, in an HA configuration, so the computed duration is less vulnerable to errors from clocks being out of sync.
+Make some other changes to the CDR user guide to bring it up to date.  Most important, delete the part about no support for CDR/HA, since that is in fact supported by release 3.4.
+
+END

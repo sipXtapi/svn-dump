@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-10-24T14:54:22.432084Z
+K 7
+svn:log
+V 38
+disable the eval expiration by default
+END

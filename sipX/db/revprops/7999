@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-11-15T19:13:11.736878Z
+K 7
+svn:log
+V 125
+XPR-185 Relax Ruby dependencies (we do not need 1.8.4 any more since we are not using ruby rails)
+Build ruby-dbi by default.
+
+END

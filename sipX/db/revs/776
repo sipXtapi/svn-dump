@@ -1,0 +1,236 @@
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: l6.0.r776/60
+type: dir
+pred: l6.0.r772/28355
+count: 2
+text: 772 28251 91 91 1e98cc8717c5ec34350db76e05f3a4c0
+props: 776 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXtackLib/main/meta
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 20
+file dl.0.r772/70283
+K 9
+ChangeLog
+V 20
+file dm.0.r772/28960
+K 7
+INSTALL
+V 20
+file dn.0.r772/76238
+K 7
+LICENSE
+V 18
+file do.0.r772/718
+K 11
+Makefile.am
+V 20
+file dp.0.r772/77128
+K 4
+NEWS
+V 20
+file dq.0.r772/79111
+K 6
+README
+V 20
+file dr.0.r772/69980
+K 4
+TODO
+V 20
+file ds.0.r772/75936
+K 9
+acsite.m4
+V 20
+file dt.0.r772/28655
+K 14
+ant-targets.am
+V 20
+file du.0.r772/27708
+K 15
+ant-targets.xml
+V 20
+file dv.0.r772/55675
+K 3
+bin
+V 19
+dir l0.0.r772/76831
+K 20
+config.properties.in
+V 20
+file dz.0.r772/75620
+K 12
+configure.ac
+V 20
+file e0.0.r772/72289
+K 3
+doc
+V 19
+dir e1.0.r772/75324
+K 7
+include
+V 18
+dir e5.0.r773/4130
+K 3
+lib
+V 20
+dir gh.0.r650/115439
+K 4
+meta
+V 16
+dir l6.0.r776/60
+K 15
+sipXtackLib.dsp
+V 20
+file gj.0.r772/71976
+K 15
+siplog2siptrace
+V 19
+dir gk.0.r772/78481
+K 7
+siptest
+V 19
+dir gn.0.r772/69674
+K 11
+siptest.dsp
+V 18
+file kv.0.r772/412
+K 9
+sipviewer
+V 19
+dir hn.0.r772/86823
+K 19
+sipxtacklib.spec.in
+V 20
+file kw.0.r772/78795
+K 3
+src
+V 18
+dir i8.0.r775/9561
+K 15
+syslog2siptrace
+V 19
+dir kk.0.r772/71639
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 225
+BUILDSTAMP
+Debug
+Makefile
+Makefile.in
+Release
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.properties
+config.status
+configure
+libtool
+sipxtacklib-*.rpm
+sipxtacklib-*.tar.gz
+sipxtacklib.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 55
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 33
+1-131,137,147,152,155-157,159,169
+END
+ENDREP
+id: dk.0.r776/1831
+type: dir
+pred: dk.0.r775/11322
+count: 119
+text: 776 273 1047 1047 fa37e6d49c0d71e6dd82e0d1eae8edb8
+props: 776 1333 485 0 6ae44e380963066e07d057080dff9974
+cpath: /old/sipXtackLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir kz.0.r768/18265
+K 4
+main
+V 18
+dir dk.0.r776/1831
+K 4
+tags
+V 18
+dir kr.0.r774/1751
+END
+ENDREP
+id: dj.0.r776/2170
+type: dir
+pred: dj.0.r775/11664
+count: 177
+text: 776 2049 108 108 b924c6d4b3b9bad3d45c308bc1af1d12
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 18
+dir dj.0.r776/2170
+END
+ENDREP
+id: 1.0.r776/2425
+type: dir
+pred: 1.0.r775/11921
+count: 775
+text: 776 2327 85 85 5ac51c60e459d220b05ba22397b1d32d
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r776/2425
+END
+ENDREP
+id: 0.0.r776/2614
+type: dir
+pred: 0.0.r775/12112
+count: 776
+text: 776 2566 35 35 2e1e33e8a23c1659bb066964e6fef4b4
+cpath: /
+copyroot: 0 /
+
+l6.0.t775-1 modify false true /old/sipXtackLib/main/meta
+
+dk.0.t775-1 modify false true /old/sipXtackLib/main
+
+
+2614 2752

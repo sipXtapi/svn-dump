@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-09-21T20:09:27.608962Z
+K 7
+svn:log
+V 98
+fix rpm build: remove reference to debug libraries only rellevant to the newest version of libtool
+END

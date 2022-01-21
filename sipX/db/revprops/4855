@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-07-14T22:18:12.453765Z
+K 7
+svn:log
+V 135
+XCF-481 Fixed reference to gateways (which are now managed by gateway context).
+Updated unit test to catch more problems on this page.
+
+END

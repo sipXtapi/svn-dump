@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-26T02:04:55.826638Z
+K 7
+svn:log
+V 240
+When setting remote video window callLib pass to mediaLib window handle instead of SIPX_VIDEO_DISPLAY pointer. I do not know how to work with SIPX_VIDEO_DISPLAY without including sipXtapi.h. And I do not want to include it in sipXmediaLib.
+
+END

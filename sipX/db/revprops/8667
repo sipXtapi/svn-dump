@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-01-29T22:11:05.634343Z
+K 7
+svn:log
+V 148
+Add Topology classes to EVC4 CE5 mediaLib and mediaAdapterLib projects.
+Add wince_strftime.cpp to sipXportLib project (initially created under CE6)
+
+END

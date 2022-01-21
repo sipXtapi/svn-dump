@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-07-14T01:39:10.627848Z
+K 7
+svn:log
+V 68
+Add creation of truststore when sipxconfig starts to fix replication
+END

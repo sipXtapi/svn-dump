@@ -1,0 +1,162 @@
+PLAIN
+K 13
+svn:externals
+V 75
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-E/config
+
+K 10
+svn:ignore
+V 196
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.properties
+config.status
+configure
+libtool
+sipxtacklib-*.tar.gz
+sipxtacklib.spec
+stamp-h1
+Debug
+Release
+
+K 17
+svnmerge-2.6-head
+V 55
+https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 5
+1-106
+K 18
+svnmerge-main-head
+V 47
+https://scm.sipfoundry.org/rep/sipXtackLib/main
+K 18
+svnmerge-main-revs
+V 4
+1-96
+END
+ENDREP
+id: dk.2z.r708/563
+type: dir
+pred: dk.2u.r705/22489
+count: 87
+text: 705 21474 1002 1002 82fbc4ff6ffc2fba2c91e827c1238fbe
+props: 708 0 550 0 fee16a9d8d03e661d6a42c0829223543
+cpath: /old/sipXtackLib/tags/2.6-export-E
+copyfrom: 707 /old/sipXtackLib/branches/2.6
+
+PLAIN
+K 5
+2.5.1
+V 19
+dir dk.2k.r622/2796
+K 5
+2.5.2
+V 19
+dir dk.2l.r641/1720
+K 12
+2.6-export-A
+V 18
+dir dk.2v.r697/562
+K 12
+2.6-export-B
+V 18
+dir dk.2w.r699/562
+K 12
+2.6-export-C
+V 18
+dir dk.2x.r706/563
+K 12
+2.6-export-D
+V 18
+dir dk.2y.r707/563
+K 12
+2.6-export-E
+V 18
+dir dk.2z.r708/563
+K 13
+main-export-B
+V 18
+dir dk.2s.r692/447
+K 13
+main-export-C
+V 18
+dir dk.2t.r694/447
+END
+ENDREP
+id: kr.0.r708/1206
+type: dir
+pred: kr.0.r707/1164
+count: 11
+text: 708 823 370 370 100c805be7a33720d7554dd877a85a7f
+cpath: /old/sipXtackLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir kz.0.r705/22796
+K 4
+main
+V 18
+dir dk.0.r702/1429
+K 4
+tags
+V 18
+dir kr.0.r708/1206
+END
+ENDREP
+id: dj.0.r708/1486
+type: dir
+pred: dj.0.r707/1444
+count: 109
+text: 708 1365 108 108 ff3f0dc7ac9cf935665ed92c12d6bd16
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 18
+dir dj.0.r708/1486
+END
+ENDREP
+id: 1.0.r708/1740
+type: dir
+pred: 1.0.r707/1698
+count: 707
+text: 708 1642 85 85 b80102912583c1385d9e558950536c7d
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r708/1740
+END
+ENDREP
+id: 0.0.r708/1928
+type: dir
+pred: 0.0.r707/1886
+count: 708
+text: 708 1880 35 35 49643ad8894f1ee55452a711b60d23fd
+cpath: /
+copyroot: 0 /
+
+dk._0.t707-1 add false true /old/sipXtackLib/tags/2.6-export-E
+707 /old/sipXtackLib/branches/2.6
+
+1928 2065

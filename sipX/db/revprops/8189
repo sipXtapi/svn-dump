@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-12-04T18:25:13.152224Z
+K 7
+svn:log
+V 300
+XMR-84: Use FFMpeg for colorsapce conversion (ccvt library used before).
+This remove one extra dependancy and moreover slightly fasten color conversion.
+
+Plus Windows 16 and 15 bit colorspaces enabled. However they could not be used now - FFMpeg get infinitely locked somewhere inside img_convert().
+
+END

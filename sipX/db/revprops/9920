@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-30T23:38:09.266677Z
+K 7
+svn:log
+V 156
+Include winmm.lib library under all windows variants except WinCE using MSVC pragma directives, to localize inclusion to where it is needed - OsDateTimeWnt.
+END

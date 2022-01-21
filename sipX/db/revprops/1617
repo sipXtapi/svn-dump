@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-03-04T20:49:15.699060Z
+K 7
+svn:log
+V 53
+sipXtapi - added sipxConfigVoicemailSubscribe method
+
+END

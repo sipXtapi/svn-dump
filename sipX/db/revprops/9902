@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-07-27T20:32:04.666322Z
+K 7
+svn:log
+V 95
+Fixed bug in keepalive events. In case of SIP OPTIONS/PING, there was wrong type sent in event.
+END

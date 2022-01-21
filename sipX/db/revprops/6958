@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-06-12T21:59:47.806830Z
+K 7
+svn:log
+V 116
+Merge 6956 from sipx-3.4:
+Add a note on being sure that comma is the column separator for data export to a CSV file
+
+END

@@ -1,0 +1,95 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-03-17T15:39:21.401061Z
+K 7
+svn:log
+V 3973
+Merged revisions 438-441,444,447 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXpbx/branches/2.8
+    ------------------------------------------------------------------------
+    r438 | dhsu | 2005-03-10 17:35:06 -0500 (Thu, 10 Mar 2005) | 5 lines
+    Changed paths:
+       M /branches/2.8/src/mailboxmgr/MailboxManager.cpp
+    
+    Fixed the issue of protocol mismatch during the web UI access.
+    
+    http://track.sipfoundry.org/browse/XVX-83
+    
+    
+    ------------------------------------------------------------------------
+    r439 | dhsu | 2005-03-11 13:48:20 -0500 (Fri, 11 Mar 2005) | 3 lines
+    Changed paths:
+       A /branches/2.8/src/wwwcontent/stdprompts/an_outside_caller.wav
+    
+    Checked in this missing wavefile because VM app needs it for playing out the message info.
+    
+    
+    ------------------------------------------------------------------------
+    r440 | dhsu | 2005-03-11 15:45:13 -0500 (Fri, 11 Mar 2005) | 9 lines
+    Changed paths:
+       M /branches/2.8/src/mailboxmgr/MailboxManager.cpp
+    
+    Do not want to display heard messages in next block in Web UI.
+    
+    http://track.sipfoundry.org/browse/XPB-147
+    
+    Also, change the loging message from ERR to WARNING.
+    
+    http://track.sipfoundry.org/browse/XVX-83
+    
+    
+    ------------------------------------------------------------------------
+    r441 | dhsu | 2005-03-11 16:54:46 -0500 (Fri, 11 Mar 2005) | 5 lines
+    Changed paths:
+       M /branches/2.8/src/wwwcontent/userui/WebHelp/advanced_settings.htm
+       M /branches/2.8/src/wwwcontent/userui/WebHelp/all_folders_managing_messages.htm
+       M /branches/2.8/src/wwwcontent/userui/WebHelp/call_handling_page.htm
+       M /branches/2.8/src/wwwcontent/userui/WebHelp/cshdat_robohelp.htm
+       M /branches/2.8/src/wwwcontent/userui/WebHelp/cshdat_webhelp.htm
+       M /branches/2.8/src/wwwcontent/userui/WebHelp/email_notification_page.htm
+       M /branches/2.8/src/wwwcontent/userui/WebHelp/link_email_page.htm
+       M /branches/2.8/src/wwwcontent/userui/WebHelp/log_in_log_out_page.htm
+       M /branches/2.8/src/wwwcontent/userui/WebHelp/logosmall.gif
+       M /branches/2.8/src/wwwcontent/userui/WebHelp/manage_distribution_lists_page.htm
+       M /branches/2.8/src/wwwcontent/userui/WebHelp/manage_folders_page.htm
+       M /branches/2.8/src/wwwcontent/userui/WebHelp/manage_greetings_page.htm
+       M /branches/2.8/src/wwwcontent/userui/WebHelp/manage_lists_page.htm
+       M /branches/2.8/src/wwwcontent/userui/WebHelp/mediauser.htm
+       M /branches/2.8/src/wwwcontent/userui/WebHelp/mediauser_csh.htm
+       M /branches/2.8/src/wwwcontent/userui/WebHelp/mediauser_rhc.htm
+       M /branches/2.8/src/wwwcontent/userui/WebHelp/notify_by_email_page.htm
+       M /branches/2.8/src/wwwcontent/userui/WebHelp/welcome.htm
+       M /branches/2.8/src/wwwcontent/userui/WebHelp/whnjs.htm
+       M /branches/2.8/src/wwwcontent/userui/logosmall.gif
+    
+    Changed the logo from Pingtel to SIPfoundry and changed all the Pingtel specific copyright to SIPfoundry one.
+    
+    http://track.sipfoundry.org/browse/XPB-208
+    
+    
+    ------------------------------------------------------------------------
+    r444 | dhsu | 2005-03-14 13:57:39 -0500 (Mon, 14 Mar 2005) | 6 lines
+    Changed paths:
+       M /branches/2.8/src/wwwcontent/vm_vxml/manage_system_greetings.vxml
+    
+    Change bargein property in the prompt statement will cause the current VXI interpreter to throw away the unfinished prompts in the prompt queue. Workaround for now is not to set the bargein property each time. This will fix the issue of XPB-210.
+    
+    http://track.sipfoundry.org/browse/XPB-210
+    
+    
+    
+    ------------------------------------------------------------------------
+    r447 | dhsu | 2005-03-15 16:33:02 -0500 (Tue, 15 Mar 2005) | 3 lines
+    Changed paths:
+       M /branches/2.8/src/wwwcontent/Makefile.am
+    
+    Added the waveform of an_outside_caller.wav in the makefile
+    
+    
+
+END

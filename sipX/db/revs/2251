@@ -1,0 +1,182 @@
+PLAIN
+K 10
+svn:ignore
+V 66
+Makefile
+Makefile.in
+sipauthproxy.sh
+sipproxy.sh
+sipxproxy-config
+
+END
+ENDREP
+id: 1w3.0.r2251/105
+type: dir
+pred: 1w3.0.r2240/1132
+count: 15
+text: 2239 5485 145 145 4c95d72616ffb3050b74de5d2e934a0a
+props: 2251 0 92 0 7813287a169b784a181741eef57ca2cc
+cpath: /old/sipXproxy/main/bin
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1vu.0.r2221/14695
+K 9
+ChangeLog
+V 20
+file 1vv.0.r2238/425
+K 7
+INSTALL
+V 22
+file 1vw.0.r2221/19180
+K 7
+LICENSE
+V 19
+file 1vx.0.r2221/82
+K 11
+Makefile.am
+V 21
+file 1vy.0.r2249/2965
+K 4
+NEWS
+V 22
+file 1vz.0.r2221/22868
+K 6
+README
+V 22
+file 1w0.0.r2221/14388
+K 4
+TODO
+V 22
+file 1w1.0.r2221/18875
+K 9
+acsite.m4
+V 21
+file 1w2.0.r2221/1636
+K 3
+bin
+V 19
+dir 1w3.0.r2251/105
+K 12
+configure.ac
+V 21
+file 1w9.0.r2249/2732
+K 3
+doc
+V 19
+dir 1xb.0.r2247/869
+K 3
+etc
+V 19
+dir 1wa.0.r2229/834
+K 4
+meta
+V 20
+dir 1xi.0.r2249/2565
+K 17
+sipXauthproxy.dsp
+V 22
+file 1x5.0.r2221/14071
+K 20
+sipXforkingProxy.dsp
+V 22
+file 1x6.0.r2221/13753
+K 17
+sipxproxy.spec.in
+V 21
+file 1x9.0.r2249/1044
+K 3
+src
+V 20
+dir 1wn.0.r2248/1734
+END
+ENDREP
+id: 1vt.0.r2251/1069
+type: dir
+pred: 1vt.0.r2249/3941
+count: 101
+text: 2251 323 733 733 2e770d1d8953502d7e48a23fdd0f1b47
+props: 2238 1396 436 0 5581a0378412e7c3863da53783a1111e
+cpath: /old/sipXproxy/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 1x8.0.r2250/898
+K 4
+main
+V 20
+dir 1vt.0.r2251/1069
+K 4
+tags
+V 20
+dir 1x7.0.r2235/3361
+END
+ENDREP
+id: 1vs.0.r2251/1413
+type: dir
+pred: 1vs.0.r2250/1186
+count: 155
+text: 2251 1288 112 112 6f976b2bf641813d076f7d7d76f9000f
+cpath: /old/sipXproxy
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2251/1413
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2251/1846
+type: dir
+pred: 1.0.r2250/1619
+count: 2250
+text: 2251 1572 261 261 699df11b55bc79a5bccf534bfbaf919b
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2251/1846
+END
+ENDREP
+id: 0.0.r2251/2041
+type: dir
+pred: 0.0.r2250/1814
+count: 2251
+text: 2251 1992 36 36 7a1644fa7f6e2c21a81dd330e69228f8
+cpath: /
+copyroot: 0 /
+
+1w3.0.t2250-1 modify false true /old/sipXproxy/main/bin
+
+
+2041 2182

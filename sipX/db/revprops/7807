@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-23T20:11:21.486811Z
+K 7
+svn:log
+V 117
+branch for simplifying CDR calculation:
+- removing rails dependency
+- attempt at O(n) algorithm
+see XPR-185, XPR-186
+
+END

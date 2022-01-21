@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-11-07T22:17:33.895719Z
+K 7
+svn:log
+V 537
+Merged revisions 7954-7956 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/3.6/sipXconfig
+
+........
+  r7954 | lazyboy | 2006-11-07 15:56:54 -0500 (Tue, 07 Nov 2006) | 1 line
+  
+  XCF-1367 - Make deviceId available from SOAP
+........
+  r7956 | dkrzemin | 2006-11-07 17:06:01 -0500 (Tue, 07 Nov 2006) | 3 lines
+  
+  XCF-1366 switching between weekly and daily schedules was leaving "day of the week" field initialized to illegal value (0)
+  added support for 0 meaning "every day of the week" in ScheduleDay class
+........
+
+END

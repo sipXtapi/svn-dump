@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-08-15T20:07:25.590676Z
+K 7
+svn:log
+V 540
+Merged revisions 7235,7237-7238,7240 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7235 | bob | 2006-08-10 21:31:51 +0400 | 4 lines
+  
+  Added unit tests for the sipXtapi url parsing utilities functions.  I also fixed some bugs in the existing utilities and added a new utility function to parse url parameters.
+........
+  r7240 | bob | 2006-08-11 03:33:11 +0400 | 3 lines
+  
+  Removed the sipXezPhone.sln (windows solution).  It was very out of date -- use the sipXtapi.sln in sipXcallLib.
+........
+
+END

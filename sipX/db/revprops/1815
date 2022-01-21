@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-07-13T15:17:01.739721Z
+K 7
+svn:log
+V 223
+Update UrlMappingTest to get the status correctly documented
+and use some of the newer infrastructure for better reporting
+Split the blanket issue into separate ones
+Add all the data files for the test to the distribution
+
+
+END

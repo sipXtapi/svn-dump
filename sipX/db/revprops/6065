@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-08T20:56:09.978924Z
+K 7
+svn:log
+V 294
+Clean up logs: [XPR-78] [XRR-59] [XRR-95]
+  This removes a number of log entries that look scary (and so get
+  reported in many bug reports) but are actually benign.
+
+http://track.sipfoundry.org/browse/XPR-78
+http://track.sipfoundry.org/browse/XRR-95
+http://track.sipfoundry.org/browse/XRR-59
+
+
+END

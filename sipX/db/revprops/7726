@@ -1,0 +1,136 @@
+K 10
+svn:author
+V 4
+szuk
+K 8
+svn:date
+V 27
+2006-10-11T02:10:04.765093Z
+K 7
+svn:log
+V 5849
+Merged revisions 7698-7725 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main
+
+................
+  r7699 | dworley | 2006-10-08 10:37:11 -0600 (Sun, 08 Oct 2006) | 7 lines
+  
+  mergefrom pingtel-main 6182,6441
+  
+  Fixed the crash caused by syslog.
+  http://track.sipfoundry.org/browse/XPB-565
+  Log messages when getSipDialog fails.
+  Improve comments.
+................
+  r7700 | dworley | 2006-10-08 12:28:59 -0600 (Sun, 08 Oct 2006) | 5 lines
+  
+  mergefrom pingtel-main 6587 (partial)
+  
+  Implement parked call retrieval by having the park server transfer 
+  the original call to the executor.
+................
+  r7703 | cypromis | 2006-10-09 04:17:40 -0600 (Mon, 09 Oct 2006) | 1 line
+  
+  More PL & DE translations for sipXconfig
+................
+  r7707 | dworley | 2006-10-09 11:46:06 -0600 (Mon, 09 Oct 2006) | 11 lines
+  
+  mergefrom pingtel-main 6936,7277,6085
+  
+  Move a couple of classes to be subclasses of UtlContainableAtomic
+  rather than UtlContainable.
+  Update a bunch of classes to use the class::getContainableType() and
+  class:TYPE members according to our conventions.
+  
+  Correct how GRUUs are generated.
+  Fix how libsipXcommserverTest.la is searched for, so it can be found
+  even when it is not installed.
+................
+  r7711 | cypromis | 2006-10-09 13:13:19 -0600 (Mon, 09 Oct 2006) | 1 line
+  
+  more translations (de, pl ) for sipXconfig
+................
+  r7712 | dworley | 2006-10-09 14:04:37 -0600 (Mon, 09 Oct 2006) | 2 lines
+  
+  Minor edits to finish aligning the codebases in re event handling.
+................
+  r7713 | dkrzemin | 2006-10-09 14:11:01 -0600 (Mon, 09 Oct 2006) | 34 lines
+  
+  Merged revisions 7644-7711 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/branches/3.6/sipXconfig
+  
+  ........
+    r7695 | dkrzemin | 2006-10-07 12:19:23 -0400 (Sat, 07 Oct 2006) | 4 lines
+    
+    XCF-1196 nasty problem in Group.inheritSettingsForEdit: If bean from which settings to be inherited were retrieved happened to be the member of the group that we were editing, than changing the value of the setting was also changing the default value of the settings. Since the default value was the same as the value, subsequent  edits were removing the setting. It lead to strange UI behavior with default group values randomly reverting to previous defaults.
+    Fixed by simplifying GroupSettingModel and cleaning the model in the settings that serve as base settings for the group.
+  ........
+    r7704 | dkrzemin | 2006-10-09 11:07:43 -0400 (Mon, 09 Oct 2006) | 2 lines
+    
+    Clarification of Music on Hold support requested by Martin.
+  ........
+    r7706 | dkrzemin | 2006-10-09 13:03:48 -0400 (Mon, 09 Oct 2006) | 3 lines
+    
+    XCF-1302 clicking on a link to Caller Sensitive dialing did not save current page - it caused exceptions if the rule has never been save by the user (i.e. when creating a new emergency rule)
+    reorgainzed the page to display the link only when "Use Caller Sensitive Routing" box is selected, hide the list of gateways when caller sensitive routing is used
+  ........
+    r7708 | dkrzemin | 2006-10-09 13:48:11 -0400 (Mon, 09 Oct 2006) | 3 lines
+    
+    XCF-1085 add "required" validator to alias and alias domain
+    fix ManageDomain.commit to actually use validators
+  ........
+    r7709 | dkrzemin | 2006-10-09 14:01:57 -0400 (Mon, 09 Oct 2006) | 2 lines
+    
+    XCF-1085 implement excluding certain text fields from the index, added pintoken and sip password to list of sensitive field
+  ........
+    r7710 | dkrzemin | 2006-10-09 15:10:23 -0400 (Mon, 09 Oct 2006) | 4 lines
+    
+    XCF-1099 Fixed Hibernate exception when saving user who is supervising its own group.
+    Changed cascade parameter on user->supervised groups associations from "save-update" to "none" - the drawback is that you have to pass saved groups to User.addSupervisorForGroup method, but it this function only worked reliable if saved groups were passed.
+    Added "saveNew" parameter to SettingDao.getGroupsByString to allow for one step adding and saving of groups. 
+  ........
+................
+  r7715 | dpetrie | 2006-10-09 20:33:37 -0600 (Mon, 09 Oct 2006) | 3 lines
+  
+  Build script for MS Visual Studio 6.0
+................
+  r7716 | lazyboy | 2006-10-09 23:20:19 -0600 (Mon, 09 Oct 2006) | 1 line
+  
+  XCF-1308 Refactor how phone and to a degree how gateway models are declared. Define all phone models in spring files, make model_id required and unique within the system, add TestPhone to test phone api, instead of sample AcmePhone, have only 1 place to register phone models ModelSource instead of Enum class
+................
+  r7718 | dworley | 2006-10-10 08:52:10 -0600 (Tue, 10 Oct 2006) | 3 lines
+  
+  Enable Makefile to substitute for installation directory names as well
+  as the SIP domain.
+................
+  r7722 | dworley | 2006-10-10 11:53:48 -0600 (Tue, 10 Oct 2006) | 12 lines
+  
+  mergefrom pingtel-main 7359-7360,7374,7380-7382
+  
+  Cross-merges from Pingtel Main.
+  
+  mergefrom-incremental pingtel-main 7385
+  
+  Copy interop.pingtel.com changes from SIPfoundry.
+  
+  mergefrom-incremental pingtel-main 7389
+  
+  Reactivate dialog events for the Park Server.
+................
+  r7723 | dworley | 2006-10-10 14:35:02 -0600 (Tue, 10 Oct 2006) | 13 lines
+  
+  mergefrom pingtel-main 7063,7092
+  
+  In CpPeerCall::handleGetSession and handleGetInvite, revise the search
+  for the call in question to always compare the call-ID and to compare
+  the address both with its tag and without, because the address is
+  recorded in the SipConnection without its tag before the call is
+  established.  The previous test always used the tag, so both methods
+  failed when applied to ringing calls.
+  Improve debugging prints.
+  
+  Also, make some edits to new code in this branch to match the changes
+  in the CpPeerCall functions.
+................
+
+END

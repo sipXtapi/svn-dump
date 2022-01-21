@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-19T20:32:53.614331Z
+K 7
+svn:log
+V 249
+http://track.sipfoundry.org/browse/XCF-28
+Install links to automatically start Postgres and sipX.
+Revise sipX so it starts after Postgres (as postgresql as well as rhdb).
+Make sure Postgres is running before starting sipxpbx.
+Various code cleanups.
+
+END

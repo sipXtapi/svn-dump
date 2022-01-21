@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-17T08:41:32.289327Z
+K 7
+svn:log
+V 83
+Linux build: Few typos in general.m4 fixed, added macros for G.722 and AMR codecs.
+
+END

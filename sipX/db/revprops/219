@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-09-27T05:04:37.655093Z
+K 7
+svn:log
+V 194
+Fixed typo in libwww macro.
+
+Added logic to the libwww macro to better check for
+dependent libwww libraries.  In particular the libwwwssl
+library is not provided as part of the libwww package.
+
+
+END

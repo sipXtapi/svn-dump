@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-18T22:24:27.130303Z
+K 7
+svn:log
+V 138
+XCF-872 added EditAttendantDialRule screen to EnumEditPageProvider to support clicking on found attendant rules on search results screen.
+
+END

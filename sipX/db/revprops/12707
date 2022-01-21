@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2019-09-05T22:59:28.670445Z
+K 7
+svn:log
+V 62
+Fixed printf macro for SipSubscriptionMgr for MSVS 2019 build
+
+END

@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-09-09T22:37:44.183027Z
+K 7
+svn:log
+V 716
+Clean up definition and use of socket protocol types
+  Replace 'enum SocketProtocolType' with a typedef 'IpProtocolSocketType'
+  and make all interfaces and uses of this type use it rather than 'int'.
+  Do translations to strings using static OsSocket::ipProtocolString method.
+Fix [XCF-59] - the log message for leftover bytes was just wrong for
+  anything but UDP, so eliminated it for those cases (and changed the
+  severity to WARNING for UDP because it may indicate an error in the
+  message sender).
+  The log entry about 180 not being dispatched probably does indicate
+  some error, but is not related to this issue other than by the fact
+  that both occur at similar load levels.  That is tracked elsewhere.
+
+END

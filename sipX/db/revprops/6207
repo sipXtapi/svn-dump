@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-22T02:39:59.524705Z
+K 7
+svn:log
+V 211
+Document how to disable non-redundant services on the Distributed
+  Server.
+Document how to configure the Master services on the Distributed
+  Server.
+Add validation of the ProcessDefinitions.xml configuration.
+
+END

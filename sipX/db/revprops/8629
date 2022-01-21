@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-01-26T14:43:31.034352Z
+K 7
+svn:log
+V 70
+XCF-1164 - Make helplink a skin property as opposed to resource string
+END

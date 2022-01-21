@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-11-08T07:42:08.361476Z
+K 7
+svn:log
+V 95
+Fixed the codec dll names for speex and pcm a/u so that they have the
+codec_ prefix for MSVS6
+
+
+END

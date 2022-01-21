@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-11T21:54:49.548126Z
+K 7
+svn:log
+V 104
+Rescind rev. 560.  We already has OsProcess::getCurrentPID, and don't
+need OsTask::getCurrentProcessId.
+
+END

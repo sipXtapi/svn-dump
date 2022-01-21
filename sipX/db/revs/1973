@@ -1,0 +1,193 @@
+id: 1qo.90.r1973/0
+type: dir
+pred: 1qo.8z.r1969/440
+count: 112
+text: 1964 1291 786 786 597bf4dc3f4e607e15139e0c8ae7178e
+props: 1969 0 427 0 644d0367e987245d45e427e40c56bb36
+cpath: /old/sipXcommserverLib/tags/2.6.2
+copyfrom: 1972 /old/sipXcommserverLib/tags/2.6-export-T
+
+PLAIN
+K 5
+2.5.1
+V 20
+dir 1qo.81.r1809/199
+K 5
+2.5.2
+V 21
+dir 1qo.82.r1825/1265
+K 12
+2.6-export-A
+V 20
+dir 1qo.8f.r1908/563
+K 12
+2.6-export-B
+V 20
+dir 1qo.8g.r1911/563
+K 12
+2.6-export-C
+V 20
+dir 1qo.8h.r1918/563
+K 12
+2.6-export-D
+V 20
+dir 1qo.8i.r1919/563
+K 12
+2.6-export-E
+V 20
+dir 1qo.8j.r1920/563
+K 12
+2.6-export-F
+V 20
+dir 1qo.8k.r1924/563
+K 12
+2.6-export-G
+V 20
+dir 1qo.8m.r1929/440
+K 12
+2.6-export-H
+V 20
+dir 1qo.8n.r1931/440
+K 12
+2.6-export-J
+V 20
+dir 1qo.8o.r1934/440
+K 12
+2.6-export-K
+V 20
+dir 1qo.8p.r1940/440
+K 12
+2.6-export-L
+V 20
+dir 1qo.8q.r1941/440
+K 12
+2.6-export-M
+V 20
+dir 1qo.8r.r1942/440
+K 12
+2.6-export-N
+V 20
+dir 1qo.8s.r1943/440
+K 12
+2.6-export-O
+V 20
+dir 1qo.8u.r1955/440
+K 12
+2.6-export-P
+V 20
+dir 1qo.8v.r1956/440
+K 12
+2.6-export-Q
+V 20
+dir 1qo.8w.r1958/440
+K 12
+2.6-export-R
+V 20
+dir 1qo.8x.r1963/440
+K 12
+2.6-export-S
+V 20
+dir 1qo.8y.r1965/440
+K 12
+2.6-export-T
+V 20
+dir 1qo.8z.r1969/440
+K 5
+2.6.1
+V 20
+dir 1qo.8l.r1926/556
+K 5
+2.6.2
+V 18
+dir 1qo.90.r1973/0
+K 13
+main-export-B
+V 20
+dir 1qo.8c.r1903/441
+K 13
+main-export-C
+V 20
+dir 1qo.8d.r1906/441
+END
+ENDREP
+id: 1uu.0.r1973/1357
+type: dir
+pred: 1uu.0.r1969/1768
+count: 26
+text: 1973 271 1073 1073 a05e51f1e917cab85640841816edec55
+cpath: /old/sipXcommserverLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1v5.0.r1964/2414
+K 4
+main
+V 20
+dir 1qo.0.r1972/4005
+K 4
+tags
+V 20
+dir 1uu.0.r1973/1357
+END
+ENDREP
+id: 1qn.0.r1973/1655
+type: dir
+pred: 1qn.0.r1972/4358
+count: 176
+text: 1973 1529 113 113 d75e3924b9cd34a805421e58defdca80
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r1973/1655
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1973/2056
+type: dir
+pred: 1.0.r1972/4758
+count: 1972
+text: 1973 1822 221 221 7ddd6d0c9fbdd484b2dea83696360eaa
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1973/2056
+END
+ENDREP
+id: 0.0.r1973/2251
+type: dir
+pred: 0.0.r1972/4953
+count: 1973
+text: 1973 2202 36 36 b526366ac6617583f07698f19b28bf38
+cpath: /
+copyroot: 0 /
+
+1qo._0.t1972-1 add false false /old/sipXcommserverLib/tags/2.6.2
+1972 /old/sipXcommserverLib/tags/2.6-export-T
+
+2251 2392

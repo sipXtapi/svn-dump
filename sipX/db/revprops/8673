@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-01-30T18:38:13.285355Z
+K 7
+svn:log
+V 151
+WinCE6 - missing FindFirstFileA, FindNextFileA, GetFileAttributesA
+Those functions are now defined.
+sipXtackLibTest now compiles and links for WinCE6
+
+
+END

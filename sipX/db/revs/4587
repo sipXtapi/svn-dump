@@ -1,0 +1,339 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6pd.0.r4587/108
+type: file
+pred: 6pd.0.r4574/1077
+count: 1
+text: 4574 771 250 366 99a5d46c6c47b0973e66072b1bd44995
+props: 4587 0 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /old/sipXpbx/main/doc/developer/profile-format
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6pc.0.r4587/456
+type: file
+pred: 6pc.0.r4574/1341
+count: 1
+text: 4574 0 758 1339 f902ed4f201e274167d231989c7106fa
+props: 4587 348 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /old/sipXpbx/main/doc/developer/profile-driver
+copyroot: 0 /
+
+PLAIN
+K 18
+INSTALLATION.NOTES
+V 23
+file 6mg.0.r4571/100158
+K 18
+Makefile.config.in
+V 23
+file 6mh.ze.r4571/99611
+K 14
+Makefile.devel
+V 21
+file 6mh.zf.r4561/114
+K 6
+README
+V 21
+file 6mf.y6.r4450/661
+K 18
+buildloop.switches
+V 19
+file 6o2.0.r4451/82
+K 15
+check-libraries
+V 20
+file 6os.0.r4481/918
+K 14
+clean-check.sh
+V 20
+file 6p1.0.r4550/894
+K 10
+config-xml
+V 22
+file 6mk.0.r4571/99022
+K 12
+eol-check.sh
+V 22
+file 6om.0.r4571/99263
+K 24
+find-call-transitions.pl
+V 23
+file 6ov.0.r4571/100413
+K 13
+gen-config.sh
+V 21
+file 6ml.0.r4451/1049
+K 10
+port-usage
+V 22
+file 6mm.0.r4571/99914
+K 14
+profile-driver
+V 20
+file 6pc.0.r4587/456
+K 14
+profile-format
+V 20
+file 6pd.0.r4587/108
+K 7
+sipX.el
+V 22
+file 6mn.0.r4571/97850
+K 11
+test-config
+V 21
+dir 6mx.0.r4571/98836
+END
+ENDREP
+id: 6me.0.r4587/1462
+type: dir
+pred: 6me.0.r4574/2328
+count: 78
+text: 4587 697 752 752 8115f05f67ccc05f49e951baddfebb28
+props: 4503 0 42 0 53dbb2403cdf571d867f8a60d94ee489
+cpath: /old/sipXpbx/main/doc/developer
+copyroot: 0 /
+
+PLAIN
+K 11
+Doxyfile.in
+V 20
+file 6oj.0.r4518/280
+K 11
+Makefile.am
+V 23
+file 6oh.0.r4571/101681
+K 9
+developer
+V 20
+dir 6me.0.r4587/1462
+K 11
+footer.html
+V 22
+file 6ok.0.r4421/12138
+K 11
+header.html
+V 22
+file 6ol.0.r4421/12865
+K 7
+license
+V 19
+dir 5gn.0.r4453/768
+END
+ENDREP
+id: 5gm.0.r4587/1961
+type: dir
+pred: 5gm.0.r4574/2830
+count: 93
+text: 4587 1688 260 260 07cdb12ea7ada318cf22b542bbc5dcb2
+props: 4547 0 81 0 9d2955fa11968b67f44f1f2a3ba894df
+cpath: /old/sipXpbx/main/doc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4454/288397
+K 9
+ChangeLog
+V 21
+file 5g8.0.r4571/9011
+K 7
+INSTALL
+V 23
+file 5g9.0.r4454/289610
+K 7
+LICENSE
+V 21
+file 5ga.0.r4571/8791
+K 11
+Makefile.am
+V 23
+file 5gb.0.r4571/102514
+K 4
+NEWS
+V 23
+file 5gc.0.r4454/299658
+K 6
+README
+V 23
+file 5gd.0.r4454/288092
+K 4
+TODO
+V 23
+file 5ge.0.r4454/289304
+K 9
+acsite.m4
+V 21
+file 5gf.0.r4454/4092
+K 3
+bin
+V 20
+dir 5gg.0.r4578/1328
+K 12
+configure.ac
+V 21
+file 5gl.0.r4535/1462
+K 3
+doc
+V 20
+dir 5gm.0.r4587/1961
+K 3
+etc
+V 20
+dir 5gp.0.r4548/3896
+K 7
+include
+V 20
+dir 5h2.0.r4454/3129
+K 4
+meta
+V 21
+dir 6of.z4.r4521/2317
+K 15
+sipxpbx.spec.in
+V 21
+file 6mo.0.r4535/1229
+K 3
+src
+V 20
+dir 5hb.0.r4585/5431
+END
+ENDREP
+id: 5g6.0.r4587/2869
+type: dir
+pred: 5g6.0.r4585/6343
+count: 374
+text: 4587 2178 678 678 fabee4243483c0b2a00dab98fe47e6c2
+props: 4584 8449 754 0 6342b5950ea75c145798fb749d5b940f
+cpath: /old/sipXpbx/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 6o1.0.r4583/6291
+K 4
+main
+V 20
+dir 5g6.0.r4587/2869
+K 4
+tags
+V 20
+dir 5kn.0.r4586/2213
+END
+ENDREP
+id: 5g5.0.r4587/3213
+type: dir
+pred: 5g5.0.r4586/2501
+count: 494
+text: 4587 3087 113 113 21b7a9c44bbace181eacd200fe4a2030
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4587/3213
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4587/3853
+type: dir
+pred: 1.0.r4586/3141
+count: 4585
+text: 4587 3370 470 470 fb8ef2fbba7ff8b18c2446e26cd7d0c1
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4587/3853
+END
+ENDREP
+id: 0.0.r4587/4048
+type: dir
+pred: 0.0.r4586/3336
+count: 4587
+text: 4587 3999 36 36 bf78ef065ad83ff65f210460a2345e55
+cpath: /
+copyroot: 0 /
+
+6pc.0.t4586-1 modify false true /old/sipXpbx/main/doc/developer/profile-driver
+
+6pd.0.t4586-1 modify false true /old/sipXpbx/main/doc/developer/profile-format
+
+
+4048 4189

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-06-26T22:51:33.461888Z
+K 7
+svn:log
+V 47
+Better shutdown handling in PlaceCall example.
+
+END

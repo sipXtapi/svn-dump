@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2006-11-25T17:53:37.909383Z
+K 7
+svn:log
+V 242
+Colin's fixes from 2006-11-24 23:50 to add Embedded Visual C++ project for MediaAdapterLibTest, and to get MediaAdapterLib and MediaAdapterLibTest compiling.
+
+Also includes fixes from KTK that fix nearly all compiler warnings in sipXportLib.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-02-22T13:37:40.355271Z
+K 7
+svn:log
+V 69
+fix for XPH-72 - now using the proper directory when deleting files.
+
+END

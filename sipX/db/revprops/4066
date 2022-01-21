@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-06-21T21:21:07.260376Z
+K 7
+svn:log
+V 121
+XCF-295 Rename SettingGroup to SettingSet, and rename Tag to Group, start working on EditSettingGroup page and components
+END

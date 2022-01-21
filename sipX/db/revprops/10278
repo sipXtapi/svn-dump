@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-05T11:37:59.833282Z
+K 7
+svn:log
+V 757
+Video update:
+- defined codec IDs for H263-1998 & H263-2000 (AFAIK the payloads are identical, they differ only by the supported MIME attributes and H263 annexes)
+- video codec runtime selection
+- video scaling support in MpvoGdi (rendered video is scaled to match the client area of output window, it's the client's responsibility to set the desired size)
+- various bugfixes & tweaks for H263
+
+Regarding the codec negotiation: there is still a lot of work to be done in order to be able to request specific bitrate, framerate, video size etc. Currently I commented out code which was dealing with obsolete MIME attributes like "size" or "imagesize", however I'm thinking of generalizing this process slightly.
+
+Thanks to Andrzej Ciarkowski for this patch.
+
+END

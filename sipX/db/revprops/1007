@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-05-24T17:58:46.630026Z
+K 7
+svn:log
+V 469
+Added unit test for testing multiple m lines.  Still more work to do.  I found an interesting bug while working on this: If you create an SdpBody with no arguments and then populate, the accessor method do not always work.  In my case, a blank "c=" line was added as part of the default constructor which broke the getMediaAddress(int, UtlString*) method.  This was fixed by created a new SdpBody and initializing it with the rendered content from the original one.
+
+
+
+
+END

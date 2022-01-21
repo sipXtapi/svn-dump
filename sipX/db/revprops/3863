@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-05-01T12:39:20.828444Z
+K 7
+svn:log
+V 179
+XCF-187 support for moving gateways in the dialing rules
+DataCollecionUtil.moveXXX requirements relaxed. It now can work with any objects implementing PrimaryKeySource interface.
+
+END

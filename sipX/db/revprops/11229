@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-29T23:19:05.267882Z
+K 7
+svn:log
+V 115
+sipXmediaLib: Add mSpeakerWeight parameter to MpSpeechParams.
+Later it will completely replace mSpeakerRank there.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2013-03-25T17:28:55.204964Z
+K 7
+svn:log
+V 77
+Fix a per-call leak: DecoderBase needs to free previous plgHandle if non-NULL
+END

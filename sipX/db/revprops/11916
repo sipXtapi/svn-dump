@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-04-14T19:15:36.337468Z
+K 7
+svn:log
+V 67
+Added methods and unit test for getting SDP direction/active state
+
+END

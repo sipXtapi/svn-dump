@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-03-14T20:48:57.116241Z
+K 7
+svn:log
+V 69
+Fixed the path for running the sipXtapi unit test in the MSCV6 build
+
+END

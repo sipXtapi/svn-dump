@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-04-06T05:34:23.509642Z
+K 7
+svn:log
+V 111
+Leave turd on Android sdcard when we catch a crash in signal catcher so we can react to this upon next startup
+
+END

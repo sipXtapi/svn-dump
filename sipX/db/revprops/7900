@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-31T18:59:36.165056Z
+K 7
+svn:log
+V 595
+mergefrom sipx-main 7898
+
+Delete unused (and dangling) link.
+Fix the test which detects (and does not pass to the upper layers)
+DTMF events which indicate only the prolongation of a key that is
+already down.
+Clean up comments.
+Solve the problem with Polycom phones (which have an error if a
+re-INVITE arrives while a DTMF key is down) in two ways:
+Update ParkedCallObject to call CallManager::transfer_blind with the
+flag indicating that the call should not be put on hold before the
+REFER is sent.
+Perform the transfer-to-parker operation upon receiving the keyup
+event, not the keydown event.
+
+END

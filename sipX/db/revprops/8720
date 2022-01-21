@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-02-07T23:48:30.977424Z
+K 7
+svn:log
+V 380
+XCF-998 tie enabling CSE logging in authproxy and forking proxy to a single CALLRESOLVER_CALL_STATE_DB variable defined in config.defs
+this simplifies CDR configuration in sipXconfig
+By default CSE generation is now enabled since CDR generation does not require much resources on typical systems any more - it's state might be changed to DISABLED if 3.7 testing proves otherwise.
+
+END

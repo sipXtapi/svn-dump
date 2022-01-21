@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-29T18:27:20.716419Z
+K 7
+svn:log
+V 343
+XCF-1287 displayName parameter needs to be set on a TextField for validation message to work properly.
+Ideally TextLabel should hold this value and not text field (which would require Tapestry fix), or we could be more intelligent about setting this from our FieldPanel component. For now though I just added missing displayName declarations.
+
+END

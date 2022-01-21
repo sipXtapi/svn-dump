@@ -1,0 +1,230 @@
+PLAIN
+K 13
+svn:externals
+V 3
+
+
+
+
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 4bz.0.r3109/87
+type: dir
+pred: 4bz.0.r3099/1216
+count: 3
+text: 3099 1078 47 47 89baaa9b759c5f901abf9d6b367568ba
+props: 3109 0 74 0 440fdb2590caea598d8d1d9866959b5c
+cpath: /old/sipXconfig/main/bin
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 24
+file 2hg.0.r3025/7526700
+K 9
+ChangeLog
+V 20
+file 2hh.0.r3048/286
+K 7
+INSTALL
+V 22
+file 2hi.0.r3103/88368
+K 7
+LICENSE
+V 24
+file 2hj.0.r3025/7507227
+K 11
+Makefile.am
+V 20
+file 2hk.0.r3105/810
+K 4
+NEWS
+V 24
+file 2hl.0.r3025/8230780
+K 6
+README
+V 22
+file 2hm.0.r3103/78816
+K 4
+TODO
+V 24
+file 2hn.0.r3025/7543047
+K 9
+acsite.m4
+V 24
+file 2ho.0.r3025/7507648
+K 14
+ant-targets.am
+V 21
+file 2hp.0.r3057/7190
+K 15
+ant-targets.xml
+V 21
+file 2hq.0.r3107/3399
+K 3
+bin
+V 18
+dir 4bz.0.r3109/87
+K 6
+common
+V 21
+dir 2hs.0.r3103/78591
+K 20
+config.properties.in
+V 21
+file 2jf.0.r3096/8321
+K 12
+configure.ac
+V 22
+file 2jg.0.r3103/79046
+K 3
+doc
+V 20
+dir 2jh.0.r3107/5920
+K 3
+etc
+V 19
+dir 4b7.0.r3079/442
+K 3
+lib
+V 22
+dir 2jy.0.r3050/121617
+K 16
+profilegenerator
+V 20
+dir 2kj.0.r3108/1816
+K 23
+profilepub_sipagent.dsp
+V 20
+file 4b5.0.r3054/179
+K 16
+profilepublisher
+V 21
+dir 485.0.r3096/12375
+K 13
+profilewriter
+V 20
+dir 4a9.0.r3096/7854
+K 12
+sipagent-jni
+V 20
+dir 48h.h9.r3073/889
+K 26
+sipx-jboss-configure.patch
+V 20
+file 4bi.0.r3086/463
+K 18
+sipxconfig.spec.in
+V 19
+file 4bh.0.r3104/97
+END
+ENDREP
+id: 2hf.0.r3109/1408
+type: dir
+pred: 2hf.0.r3108/3160
+count: 76
+text: 3109 302 1093 1093 479f3f7c3c2b8bb768f116225ae1e793
+props: 3055 5989 259 0 69df2b86f19c9537de805791a2312c9f
+cpath: /old/sipXconfig/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 4c1.0.r3098/2448
+K 4
+main
+V 20
+dir 2hf.0.r3109/1408
+K 4
+tags
+V 20
+dir 4b6.0.r3047/1810
+END
+ENDREP
+id: 2he.0.r3109/1755
+type: dir
+pred: 2he.0.r3108/3508
+count: 85
+text: 3109 1629 113 113 5556ba24585be546bb4b1b96ff743921
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 20
+dir 2he.0.r3109/1755
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3109/2358
+type: dir
+pred: 1.0.r3108/4111
+count: 3108
+text: 3109 1914 431 431 a747dab2b7ea7088d86c864108ff3ba9
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3109/2358
+END
+ENDREP
+id: 0.0.r3109/2553
+type: dir
+pred: 0.0.r3108/4307
+count: 3109
+text: 3109 2504 36 36 34f307044d9dea82a4cf5b9f37a8e8d3
+cpath: /
+copyroot: 0 /
+
+4bz.0.t3108-1 modify false true /old/sipXconfig/main/bin
+
+
+2553 2694

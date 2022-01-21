@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-12-28T22:02:09.030259Z
+K 7
+svn:log
+V 332
+XPL-183: Fixed bug in OsProcessMgrTest::testManager().
+
+'startupDir' string should be empty when running program in PATH. If it is set to ".", then program will be called as ".\program", limiting search to local directory only. In our case we call 'ping' program, located somewhere in PATH, it is unlikely find in local directory.
+
+
+END

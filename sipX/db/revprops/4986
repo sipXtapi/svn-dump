@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-09-06T22:41:14.931683Z
+K 7
+svn:log
+V 140
+XCF-552 - Domain name edit now shows resolved domainname, not shell scriptlet and wont blowup rest of application if apply button is pressed
+END

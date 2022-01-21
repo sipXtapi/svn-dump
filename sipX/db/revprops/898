@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-07T15:46:29.526826Z
+K 7
+svn:log
+V 250
+Change algorithm:  Instead of doing one SUBSCRIBE and a series of
+INVITEs, follow each INVITE with a SUBSCRIBE with Expires: 0.  This
+gets around the fact that siptest responds to all NOTIFYs with 501,
+which causes some UAs to drop the subscription.
+
+END

@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-09T02:17:41.905233Z
+K 7
+svn:log
+V 407
+Remove erroneous and unneeded isShutDown() call.
+The 'mRunDone' check suffices to tell if the run command finished.
+isShutDown() only returns true if the task was specifically requested
+to be shut down with requestShutDown() and the task properly processed
+and acknowledged the shutdown request.  
+
+This doesn't request a shutdown, therefore the unit test was failing 
+checking the isShutdown() for TRUE.
+
+
+
+END

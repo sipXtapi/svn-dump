@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-12T07:22:01.430249Z
+K 7
+svn:log
+V 139
+Add getSignalingData() method to MpDecoderBase to get signaling data from signaling codecs (only RFC2833/RFC4733 DTMFs are supported now).
+
+END

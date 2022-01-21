@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-03-22T01:09:46.117159Z
+K 7
+svn:log
+V 184
+XCF-959 Add end user presence managemement, but disabled by default until presence server is more multipurpose.  To enable, set preserverServer.enabled=true in sipxconfig.properties.in
+END

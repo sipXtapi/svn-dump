@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-10-31T16:58:20.907137Z
+K 7
+svn:log
+V 77
+Hook to create logs for each unit test class in portable unit test framework
+
+END

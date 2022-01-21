@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-09T19:55:44.943322Z
+K 7
+svn:log
+V 131
+Rename gen-config.txt to gen-config.sh, since it is a script.
+
+Change the scrip to use '<<EOF' rather than long series of 'echo's.
+
+END

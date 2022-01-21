@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-09T20:10:50.393611Z
+K 7
+svn:log
+V 234
+MprFromInputDevice::doProcessFrame() should return result of mpInputDeviceManager->getFrame() call and not buffer.isValid(). Invalid input bufer does not indicate error - it is just empty input, while failed getFrame is a real error.
+
+END

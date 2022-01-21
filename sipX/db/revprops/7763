@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-10-16T20:50:09.163462Z
+K 7
+svn:log
+V 135
+Fixed call-id generator so that it does not require 64 bit 
+printf format: %lld as this seems to have some problems on
+some platforms.
+
+END

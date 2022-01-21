@@ -1,0 +1,129 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2004-11-15T16:28:11.798676Z
+K 7
+svn:log
+V 6163
+svncopy.pl: creating branch 2.6
+	Copying from https://scm.sipfoundry.org/rep/sipXportLib/main 285
+		to https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6
+	Copying from https://scm.sipfoundry.org/rep/sipXtackLib/main 96
+		to https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.6
+	Copying from https://scm.sipfoundry.org/rep/sipXmediaLib/main 51
+		to https://scm.sipfoundry.org/rep/sipXmediaLib/branches/2.6
+	Copying from https://scm.sipfoundry.org/rep/sipXcallLib/main 60
+		to https://scm.sipfoundry.org/rep/sipXcallLib/branches/2.6
+	Copying from https://scm.sipfoundry.org/rep/sipXcommserverLib/main 105
+		to https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.6
+	Copying from https://scm.sipfoundry.org/rep/sipXvxml/main 107
+		to https://scm.sipfoundry.org/rep/sipXvxml/branches/2.6
+	Copying from https://scm.sipfoundry.org/rep/sipXconfig/main 133
+		to https://scm.sipfoundry.org/rep/sipXconfig/branches/2.6
+	Copying from https://scm.sipfoundry.org/rep/sipXregistry/main 61
+		to https://scm.sipfoundry.org/rep/sipXregistry/branches/2.6
+	Copying from https://scm.sipfoundry.org/rep/sipXproxy/main 68
+		to https://scm.sipfoundry.org/rep/sipXproxy/branches/2.6
+	Copying from https://scm.sipfoundry.org/rep/sipXpublisher/main 68
+		to https://scm.sipfoundry.org/rep/sipXpublisher/branches/2.6
+	Copying from https://scm.sipfoundry.org/rep/sipXpbx/main 265
+		to https://scm.sipfoundry.org/rep/sipXpbx/branches/2.6
+
+ * https://scm.sipfoundry.org/rep/sipXmediaLib/branches/2.6: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/main/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6/config'
+
+ * https://scm.sipfoundry.org/rep/sipXregistry/branches/2.6: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/main/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6/config'
+
+ * https://scm.sipfoundry.org/rep/sipXvxml/branches/2.6: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/main/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6/config'
+
+ * https://scm.sipfoundry.org/rep/sipXproxy/branches/2.6: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/main/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6/config'
+
+ * https://scm.sipfoundry.org/rep/sipXpbx/branches/2.6: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/main/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6/config'
+
+ * https://scm.sipfoundry.org/rep/sipXpublisher/branches/2.6: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/main/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6/config'
+
+ * https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.6: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/main/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6/config'
+
+ * https://scm.sipfoundry.org/rep/sipXcallLib/branches/2.6: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/main/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6/config'
+
+ * https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.6: update svn:externals
+   from 'config https://scm.sipfoundry.org/rep/sipXportLib/main/config' to 'config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6/config'
+
+ * https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6: update svnmerge-main-head
+   to 'https://scm.sipfoundry.org/rep/sipXportLib/main'
+
+ * https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6: update svnmerge-main-revs
+   to '1-285'
+
+ * https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.6: update svnmerge-main-head
+   to 'https://scm.sipfoundry.org/rep/sipXtackLib/main'
+
+ * https://scm.sipfoundry.org/rep/sipXtackLib/branches/2.6: update svnmerge-main-revs
+   to '1-96'
+
+ * https://scm.sipfoundry.org/rep/sipXmediaLib/branches/2.6: update svnmerge-main-head
+   to 'https://scm.sipfoundry.org/rep/sipXmediaLib/main'
+
+ * https://scm.sipfoundry.org/rep/sipXmediaLib/branches/2.6: update svnmerge-main-revs
+   to '1-51'
+
+ * https://scm.sipfoundry.org/rep/sipXcallLib/branches/2.6: update svnmerge-main-head
+   to 'https://scm.sipfoundry.org/rep/sipXcallLib/main'
+
+ * https://scm.sipfoundry.org/rep/sipXcallLib/branches/2.6: update svnmerge-main-revs
+   to '1-60'
+
+ * https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.6: update svnmerge-main-head
+   to 'https://scm.sipfoundry.org/rep/sipXcommserverLib/main'
+
+ * https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.6: update svnmerge-main-revs
+   to '1-105'
+
+ * https://scm.sipfoundry.org/rep/sipXvxml/branches/2.6: update svnmerge-main-head
+   to 'https://scm.sipfoundry.org/rep/sipXvxml/main'
+
+ * https://scm.sipfoundry.org/rep/sipXvxml/branches/2.6: update svnmerge-main-revs
+   to '1-107'
+
+ * https://scm.sipfoundry.org/rep/sipXconfig/branches/2.6: update svnmerge-main-head
+   to 'https://scm.sipfoundry.org/rep/sipXconfig/main'
+
+ * https://scm.sipfoundry.org/rep/sipXconfig/branches/2.6: update svnmerge-main-revs
+   to '1-133'
+
+ * https://scm.sipfoundry.org/rep/sipXregistry/branches/2.6: update svnmerge-main-head
+   to 'https://scm.sipfoundry.org/rep/sipXregistry/main'
+
+ * https://scm.sipfoundry.org/rep/sipXregistry/branches/2.6: update svnmerge-main-revs
+   to '1-61'
+
+ * https://scm.sipfoundry.org/rep/sipXproxy/branches/2.6: update svnmerge-main-head
+   to 'https://scm.sipfoundry.org/rep/sipXproxy/main'
+
+ * https://scm.sipfoundry.org/rep/sipXproxy/branches/2.6: update svnmerge-main-revs
+   to '1-68'
+
+ * https://scm.sipfoundry.org/rep/sipXpublisher/branches/2.6: update svnmerge-main-head
+   to 'https://scm.sipfoundry.org/rep/sipXpublisher/main'
+
+ * https://scm.sipfoundry.org/rep/sipXpublisher/branches/2.6: update svnmerge-main-revs
+   to '1-68'
+
+ * https://scm.sipfoundry.org/rep/sipXpbx/branches/2.6: update svnmerge-main-head
+   to 'https://scm.sipfoundry.org/rep/sipXpbx/main'
+
+ * https://scm.sipfoundry.org/rep/sipXpbx/branches/2.6: update svnmerge-main-revs
+   to '1-265'
+
+END

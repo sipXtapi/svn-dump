@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-04-15T12:49:06.867679Z
+K 7
+svn:log
+V 73
+Fixed the issue of XPB-266.
+
+http://track.sipfoundry.org/browse/XPB-266
+
+
+END

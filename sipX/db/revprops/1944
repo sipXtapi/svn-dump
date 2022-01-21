@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2004-12-17T14:38:51.229152Z
+K 7
+svn:log
+V 115
+Updated to allow proper compilation with newer gcc (>= v3.4) compilers.
+
+http://track.sipfoundry.org/browse/XCS-34
+
+END

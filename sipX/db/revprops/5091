@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-09-21T20:44:29.298350Z
+K 7
+svn:log
+V 151
+XCF-624 Remove port from SIP notify message AND include syncinfo.xml file that is consulted by Cisco 7940/60 phoneswhen deciding if they should reboot.
+END

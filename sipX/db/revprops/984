@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-05-13T15:37:50.043975Z
+K 7
+svn:log
+V 180
+Implemented SipPublishContentMgr part of SIP SUBSCRIBE
+Server.  Created initial stub of SipSubscribeServer header.
+SipPublisherCOntentMgr compiles, but there is no unit test
+yet.
+
+
+END

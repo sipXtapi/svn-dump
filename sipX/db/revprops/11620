@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-03-27T04:31:57.305391Z
+K 7
+svn:log
+V 57
+Fix use of STUN address so that we can work behind NATs.
+
+END

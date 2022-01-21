@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-01-12T23:04:48.283491Z
+K 7
+svn:log
+V 184
+Distinguish primary registrar name vs. calling registar name in the pullUpdates method signature.  Make some other changes to align the naming in the spec with the naming in the code.
+
+END

@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-07-13T17:18:59.732516Z
+K 7
+svn:log
+V 714
+Clean up failed error transfer processing in Auto Attendant
+After three attempts with either no DTMF input, or an invalid extension 
+is entered, the AA has the ability to transfer to a provisoned extension.  
+If THAT provisioned extension is invalid, the call flow now correctly 
+informs the caller than an error occurred and hangs up.
+Fixes http://track.sipfoundry.org/browse/XVX-171 (In AA, When Invalid 
+responce[sic] is set, does not work properly)
+--Woof!
+
+commented out the testActivateDefaultAttendant test
+it depended on autoattendant.vm, stopped working after woofs changes
+need to rewrite the test - use internally provided .vm file or fix stylesheet used to compare the results to make it less volatile
+
+END

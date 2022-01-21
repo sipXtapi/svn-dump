@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-09-24T21:47:55.570674Z
+K 7
+svn:log
+V 147
+Fixed autotools macros so that the boston bridge
+and other preojcts that depend upon the sipX media
+adapter can be built with relative locations.
+
+
+END

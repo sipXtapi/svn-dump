@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+prikov
+K 8
+svn:date
+V 27
+2006-05-01T16:52:35.739544Z
+K 7
+svn:log
+V 61
+Initialize merge tracking from both sipx-main and pingtel-3.4
+END

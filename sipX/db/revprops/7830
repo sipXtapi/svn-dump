@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-10-26T13:02:39.236949Z
+K 7
+svn:log
+V 171
+Added check for jitter buffer overflow in MpdSipxPcma/u::decode().
+Jitter buffer size increased to be mutltiple of 480 (needed for Tiptel Innovaphone 200 hardware phone).
+
+END

@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-05T21:56:23.735771Z
+K 7
+svn:log
+V 305
+Changes to get sipXmediaLibTest working again under VC6.
+
+* syntax changes
+* define M_PI for one test, since under VC6, M_PI is not defined
+  in math.h.
+* proper casting
+
+sipXmediaLibTest vc6 project file changes:
+* Link to speex library needed for sipXmediaLib
+* Increase heap for compilation with /Zm
+
+
+
+END

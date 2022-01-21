@@ -1,0 +1,202 @@
+PLAIN
+K 10
+svn:ignore
+V 75
+Doxyfile
+Makefile
+Makefile.in
+html
+sipxcommserverlib
+sipxcommserverlib.tag
+
+END
+ENDREP
+id: 1uv.93.r2014/114
+type: dir
+pred: 1uv.93.r2007/2343
+count: 22
+text: 2007 1915 415 415 b947ddc2c02212001ba9350e249b37f5
+props: 2014 0 101 0 fecde876016691d3ef6177d9fc043c00
+cpath: /old/sipXcommserverLib/branches/2.8/doc
+copyroot: 1996 /old/sipXcommserverLib/branches/2.8
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1qp.0.r1967/49607
+K 9
+ChangeLog
+V 20
+file 1qq.0.r1984/410
+K 7
+INSTALL
+V 20
+file 1qr.0.r1991/607
+K 7
+LICENSE
+V 19
+file 1qs.0.r1967/82
+K 11
+Makefile.am
+V 21
+file 1qt.93.r2011/118
+K 4
+NEWS
+V 22
+file 1qu.0.r1967/60154
+K 6
+README
+V 22
+file 1qv.0.r1967/49287
+K 4
+TODO
+V 22
+file 1qw.0.r1967/53785
+K 9
+acsite.m4
+V 22
+file 1qx.0.r1967/24543
+K 3
+bin
+V 21
+dir 1qy.93.r2004/3351
+K 12
+configure.ac
+V 21
+file 1r5.93.r1999/175
+K 3
+doc
+V 20
+dir 1uv.93.r2014/114
+K 3
+etc
+V 20
+dir 1r6.93.r2003/439
+K 7
+include
+V 20
+dir 1rc.0.r1978/3048
+K 4
+meta
+V 20
+dir 1v3.0.r1994/2850
+K 21
+sipXcommserverLib.dsp
+V 22
+file 1us.0.r1967/49927
+K 13
+sipdbtest.dsp
+V 22
+file 1ut.0.r1967/24220
+K 25
+sipxcommserverlib.spec.in
+V 22
+file 1v2.93.r2004/3627
+K 3
+src
+V 20
+dir 1t1.0.r1995/1548
+END
+ENDREP
+id: 1qo.93.r2014/1181
+type: dir
+pred: 1qo.93.r2011/1194
+count: 144
+text: 2014 388 780 780 9631cd7a5e6c45212d3b9329a814e3de
+props: 1996 0 601 0 5f2cac3d98a343a82e39a6aa9773ccea
+cpath: /old/sipXcommserverLib/branches/2.8
+copyroot: 1996 /old/sipXcommserverLib/branches/2.8
+
+PLAIN
+K 3
+2.6
+V 21
+dir 1qo.8e.r1987/4325
+K 3
+2.8
+V 21
+dir 1qo.93.r2014/1181
+END
+ENDREP
+id: 1v5.0.r2014/1539
+type: dir
+pred: 1v5.0.r2011/1552
+count: 37
+text: 2014 1452 74 74 0507edfa211664f0dd25adf329e9f268
+cpath: /old/sipXcommserverLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1v5.0.r2014/1539
+K 4
+main
+V 20
+dir 1qo.0.r2012/1905
+K 4
+tags
+V 20
+dir 1uu.0.r2013/2115
+END
+ENDREP
+id: 1qn.0.r2014/1838
+type: dir
+pred: 1qn.0.r2013/2413
+count: 217
+text: 2014 1712 113 113 c156936cf59274d579971d4012c6f81f
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2014/1838
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2014/2239
+type: dir
+pred: 1.0.r2013/2814
+count: 2013
+text: 2014 2005 221 221 c87e0ce26b2aee4356e2740646e1e50f
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2014/2239
+END
+ENDREP
+id: 0.0.r2014/2434
+type: dir
+pred: 0.0.r2013/3009
+count: 2014
+text: 2014 2385 36 36 f6b1acc32cce74a2abefc45a331fdfa6
+cpath: /
+copyroot: 0 /
+
+1uv.93.t2013-1 modify false true /old/sipXcommserverLib/branches/2.8/doc
+
+
+2434 2575

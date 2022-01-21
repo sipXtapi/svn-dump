@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-11-21T11:47:09.773339Z
+K 7
+svn:log
+V 246
+Add compile time option to use short fixed jitter buffer instead of dynamic jitter buffer.
+Current dynamic JB is going to be too long even in good network environment.
+comment out "#define LONG_DEJITTER" line in MprDejitter.h to enable fixed JB.
+
+END

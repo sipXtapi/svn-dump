@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-02-08T23:06:26.156852Z
+K 7
+svn:log
+V 58
+XCF-1475 Bring back ruby 1.8.4 for updates to support SOAP
+END

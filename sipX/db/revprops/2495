@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-29T21:22:18.555674Z
+K 7
+svn:log
+V 161
+First cut at implementing the redirection suspend mechanism.
+The current tests pass with the code in this state, though some
+crucial features are still missing.
+
+END

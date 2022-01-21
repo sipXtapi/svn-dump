@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-05-16T22:50:40.250263Z
+K 7
+svn:log
+V 438
+Removed synchronization delay hack from sipxtapi initialize which was effective in Windows. It delayed startup by unacceptable 500ms. Now startup takes acceptable ~180ms. Stresstests calling init/uninit very fast didn't reveal any problems.
+
+The reason why the delay hack was there, was to wait in Windows until OsServerTask is started. I believe OsServerTasks should be written to be immune to frequent start/stop without having to wait.
+END

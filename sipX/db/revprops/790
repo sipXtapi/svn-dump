@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-02-07T16:05:20.253878Z
+K 7
+svn:log
+V 306
+fix for XPH-61.  
+The removeMessageObserver method was changed so
+ that it specifically removes by reference and then 
+ deletes the object.  It had been calling UtlHashBag::destroy,
+ which removes by comparison - and removes the first item matching
+ the given key.  It was destroying the wrong 
+ observer.
+
+END

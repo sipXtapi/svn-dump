@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-08T21:50:08.323859Z
+K 7
+svn:log
+V 79
+Revise instructions for running httpd-sipxchange-config.sh and stopping Apache.
+END

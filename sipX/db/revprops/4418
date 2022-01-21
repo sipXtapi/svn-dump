@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-12-22T16:55:10.442327Z
+K 7
+svn:log
+V 278
+Merged r324 from 2.6 branch:
+
+Add 'status' argument to sipxpbx init script to display process statuses
+  http://track.sipfoundry.org/browse/XPB-154
+
+Also remove the use of ps to detect running watchdog
+  (this is not a portable enough thing to do - do not use ps in
+  scripts)
+
+
+END

@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-06-22T21:58:00.563032Z
+K 7
+svn:log
+V 461
+Changed required to build under Windows NT and an updated INSTALL (redirects to the sipXportLib).  Changes include:
+  - adding missing includes
+  - adjusting calls to UtlString::append that looked
+    return code's length .. by casting to an int and
+  - tweaking calls to UtlString::replace(const char, 
+    const char).
+  - #ifndef the definition of "pid_t" and "pipe" in
+    resparse impl -- it is not used by out project and
+    conflicts with decls in glib.
+END

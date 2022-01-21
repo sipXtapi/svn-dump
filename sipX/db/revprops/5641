@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-11-23T21:04:25.869023Z
+K 7
+svn:log
+V 46
+remove a couple of warnings in gcc compilation
+END

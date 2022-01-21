@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-04-28T17:42:52.426037Z
+K 7
+svn:log
+V 284
+Fix problem in selection of the append method by putting back
+  append(UtlString&)
+and not defaulting arguments on
+  append(UtlString&,int,int)
+
+The compiler apparently was choosing to cast UtlString to char*
+rather than using the default arguments, which caused problems
+elsewhere.
+
+
+END

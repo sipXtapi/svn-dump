@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2020-02-29T00:39:47.190242Z
+K 7
+svn:log
+V 198
+Expose OGG OPUS as a recording format in sipXtapi and CpMediaInterface.
+Also old fix to mix weights for multi-channel recorder:
+  weights depend upon number of recorder channels, not max channels.
+
+
+END

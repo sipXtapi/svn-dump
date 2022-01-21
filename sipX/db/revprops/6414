@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-03-21T16:53:27.808154Z
+K 7
+svn:log
+V 182
+XCF-957 Generating orbits.xml file was failing when call parking description was empty ("null").
+We are now skipping adding description component if it has not been set by the user.
+
+END

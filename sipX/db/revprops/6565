@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-04-12T15:06:27.644607Z
+K 7
+svn:log
+V 194
+When garbage-collecting deleted records, do a SQL "VACUUM ANALYZE", not just "VACUUM", per the recommendation in http://www.postgresql.org/docs/8.0/static/sql-vacuum.html .  Related to XPR-112.
+
+END

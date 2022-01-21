@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-04-03T18:36:22.088963Z
+K 7
+svn:log
+V 162
+Fix syntax error in install rule of proxy config files target
+Fix distribution list for sipx-utils.sh scripts
+ignore property for sipXcommserverLib/src/configrpc
+
+END

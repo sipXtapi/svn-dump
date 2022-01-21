@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2010-02-03T20:21:48.802803Z
+K 7
+svn:log
+V 44
+sipXmediaLib: Fix assert in MpidAndroid.cpp
+
+END

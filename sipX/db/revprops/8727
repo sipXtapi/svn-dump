@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-02-08T17:24:46.218917Z
+K 7
+svn:log
+V 426
+Automated build makefile for gnu autoconf targets.
+
+from readme in linux build section:
+Makefile.gnu
+There is also a makefile in the root of sipXtapi used by an automated build
+system that does all steps necessary to build libraries and tests from a
+freshly checked out sandbox from the subversion repository.  While not built
+with normal users in mind, it can be used by them.  Find more information in
+the makefile itself.
+
+
+END

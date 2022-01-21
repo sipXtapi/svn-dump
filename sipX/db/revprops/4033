@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-06-09T21:54:57.335194Z
+K 7
+svn:log
+V 108
+XCF-384 - only restart or generate profiles if there's one or more phones selected.  Also, confirm on delete
+END

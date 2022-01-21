@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-24T19:46:17.067149Z
+K 7
+svn:log
+V 293
+First attempt to support iLBC.
+
+This code is taken mostly as is from patch provided by Andrzej Ciarkowski. Only clean up and few changes was done.
+This code is not tested even for compilability with HAVE_ILBC defined. More testing will be done after final decision on licensing compatibility.
+
+END

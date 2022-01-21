@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-02-03T19:11:52.643607Z
+K 7
+svn:log
+V 200
+Eclipse code formating rules updated to reflect checkstyle requirements (specifically array initializer formating)
+
+Please go to Window->Preferences->Java->Code Style->Formatter and import this file.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-11-04T07:38:22.066498Z
+K 7
+svn:log
+V 78
+Add proper include path and AMR source files to new VC6 AMR Wideband project.
+
+END

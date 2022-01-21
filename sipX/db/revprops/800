@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-02-13T21:40:08.076591Z
+K 7
+svn:log
+V 405
+If HAVE_SSL is off (if SSL is not configured in), then attempts to
+open SSL listening sockets and connections will fail (and log messages
+at level CRIT), rather than silently falling back to unencrypted TCP.
+
+(Mardy and I have probably been held up two days by this problem, as
+HAVE_SSL was accidentally turned off in sipXpublisher, so we need to
+fix the code to make it fail sensibly in this situation.)
+
+END

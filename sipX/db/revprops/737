@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-12-21T22:32:36.229168Z
+K 7
+svn:log
+V 92
+Do not include a black "Supported: " header in a SipMessage if no extensions were allowed.
+
+
+END

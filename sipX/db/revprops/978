@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-05-12T22:49:46.324893Z
+K 7
+svn:log
+V 59
+fix transport (protocol) parsing bug in parseAddressFromUri
+END

@@ -1,0 +1,194 @@
+PLAIN
+K 10
+svn:ignore
+V 65
+Doxyfile
+Makefile
+Makefile.in
+html
+sipxmedialib
+sipxmedialib.tag
+
+END
+ENDREP
+id: ur.5c.r1268/104
+type: dir
+pred: ur.0.r1230/1047
+count: 8
+text: 1230 856 178 178 61edf54075bf296a5b4b78d033baa016
+props: 1268 0 91 0 368f5be2a255ba83ee1082500f4d8241
+cpath: /old/sipXmediaLib/branches/2.8/doc
+copyroot: 1250 /old/sipXmediaLib/branches/2.8
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file n0.0.r1180/110990
+K 9
+ChangeLog
+V 19
+file n1.0.r1193/125
+K 7
+INSTALL
+V 22
+file n2.0.r1180/113962
+K 7
+LICENSE
+V 20
+file n3.0.r1180/9504
+K 11
+Makefile.am
+V 20
+file n4.5c.r1264/784
+K 4
+NEWS
+V 22
+file n5.0.r1180/115507
+K 6
+README
+V 22
+file n6.0.r1180/110684
+K 4
+TODO
+V 22
+file n7.0.r1180/113653
+K 9
+acsite.m4
+V 21
+file n8.0.r1180/65533
+K 3
+bin
+V 19
+dir uy.0.r1196/3792
+K 12
+configure.ac
+V 19
+file n9.5c.r1252/99
+K 3
+doc
+V 19
+dir ur.5c.r1268/104
+K 7
+include
+V 20
+dir na.5c.r1255/8142
+K 3
+lib
+V 21
+dir rf.0.r1068/744020
+K 4
+meta
+V 19
+dir v0.0.r1234/2018
+K 16
+sipXmediaLib.dsp
+V 19
+file up.0.r1229/244
+K 19
+sipXmediaLib.vcproj
+V 19
+file v8.0.r1239/292
+K 20
+sipxmedialib.spec.in
+V 20
+file uw.5c.r1252/370
+K 3
+src
+V 20
+dir rg.5c.r1266/5724
+END
+ENDREP
+id: mz.5c.r1268/1138
+type: dir
+pred: mz.5c.r1266/6765
+count: 140
+text: 1268 362 763 763 82d5074083ff204bb4cf83f07df74a82
+props: 1255 14918 586 0 e84554303cdbc3ea1a0ab2ad1ca8ecd8
+cpath: /old/sipXmediaLib/branches/2.8
+copyroot: 1250 /old/sipXmediaLib/branches/2.8
+
+PLAIN
+K 3
+2.6
+V 20
+dir mz.4n.r1191/1373
+K 3
+2.8
+V 20
+dir mz.5c.r1268/1138
+END
+ENDREP
+id: ux.0.r1268/1486
+type: dir
+pred: ux.0.r1266/7114
+count: 21
+text: 1268 1401 72 72 d089ffc8fcaffbda4e6331650d831c60
+cpath: /old/sipXmediaLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir ux.0.r1268/1486
+K 4
+main
+V 19
+dir mz.0.r1265/2503
+K 4
+tags
+V 19
+dir uq.0.r1267/2061
+END
+ENDREP
+id: my.0.r1268/1775
+type: dir
+pred: my.0.r1267/2349
+count: 201
+text: 1268 1652 110 110 4e1c571d6d8bb3bd9cca8c8ae52f813f
+cpath: /old/sipXmediaLib
+copyroot: 0 /
+
+PLAIN
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1268/1775
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1268/2078
+type: dir
+pred: 1.0.r1267/2652
+count: 1267
+text: 1268 1935 130 130 941b8f0c3023a196c9ccba961e4178ec
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1268/2078
+END
+ENDREP
+id: 0.0.r1268/2273
+type: dir
+pred: 0.0.r1267/2847
+count: 1268
+text: 1268 2224 36 36 245ff90b22d58dc2495bb22dff29bb70
+cpath: /
+copyroot: 0 /
+
+ur.5c.t1267-1 modify false true /old/sipXmediaLib/branches/2.8/doc
+
+
+2273 2414

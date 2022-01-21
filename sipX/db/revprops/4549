@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-21T14:44:42.464871Z
+K 7
+svn:log
+V 93
+Add "switch" command group.
+Update "svnversion" to print the base URLs as well as revisions.
+
+END

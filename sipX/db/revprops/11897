@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-03-23T05:48:41.669543Z
+K 7
+svn:log
+V 59
+SIP To field tag is a field parameter, not a url parameter
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-09-17T18:31:23.455658Z
+K 7
+svn:log
+V 100
+Removed sipXphone.dsp from the EXTRA_DIST list (used for make dist) 
+until we have a working .dsp.
+
+
+END

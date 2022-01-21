@@ -1,0 +1,263 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 9
+text/html
+END
+ENDREP
+id: 1xe.1ic.r4910/80
+type: file
+pred: 1xe.1ic.r4884/5502934
+count: 9
+text: 2290 0 89 43388 ee909c998b9832d2d4123ef0862a97b2
+props: 4910 0 67 0 0c06cf5f4ba661b255b0e5ba6bcaaa80
+cpath: /main/sipXproxy/doc/cdr/call-state-events.html
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 8
+Makefile
+V 22
+file 1xd.0.r2243/11715
+K 22
+call-state-events.html
+V 21
+file 1xe.1ic.r4910/80
+K 21
+call-state-events.txt
+V 21
+file 1xf.0.r2290/4036
+K 21
+call-state-events.xml
+V 21
+file 1xg.0.r2290/4287
+K 23
+call_event_examples.xml
+V 21
+file 1xh.0.r2236/2155
+END
+ENDREP
+id: 1xc.1ic.r4910/619
+type: dir
+pred: 1xc.1ic.r4884/5503484
+count: 12
+text: 4910 342 264 264 c94281cff36ebc1cf19e517a647a9919
+props: 2292 3894 104 0 4ebd9007634615a29221f1ed373b1e8e
+cpath: /main/sipXproxy/doc/cdr
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 11
+Doxyfile.in
+V 24
+file 1xk.1ic.r4870/32721
+K 11
+Makefile.am
+V 24
+file 1xl.1ic.r4821/14016
+K 3
+cdr
+V 21
+dir 1xc.1ic.r4910/619
+K 11
+footer.html
+V 26
+file 1xm.1ic.r4884/5502600
+END
+ENDREP
+id: 1xb.1ic.r4910/1059
+type: dir
+pred: 1xb.1ic.r4884/5503931
+count: 21
+text: 4910 864 182 182 e2523d8375e71fa195cec8134b39778f
+props: 2261 0 85 0 278967851fe8a0470c2901fc160cff52
+cpath: /main/sipXproxy/doc
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1vu.0.r2221/14695
+K 9
+ChangeLog
+V 20
+file 1vv.0.r2238/425
+K 7
+INSTALL
+V 22
+file 1vw.0.r2221/19180
+K 7
+LICENSE
+V 19
+file 1vx.0.r2221/82
+K 11
+Makefile.am
+V 24
+file 1vy.1ic.r4821/15538
+K 4
+NEWS
+V 22
+file 1vz.0.r2221/22868
+K 6
+README
+V 22
+file 1w0.0.r2221/14388
+K 4
+TODO
+V 22
+file 1w1.0.r2221/18875
+K 9
+acsite.m4
+V 21
+file 1w2.0.r2221/1636
+K 3
+bin
+V 22
+dir 1w3.1ic.r4850/2588
+K 12
+configure.ac
+V 26
+file 1w9.1ic.r4884/5502261
+K 3
+doc
+V 22
+dir 1xb.1ic.r4910/1059
+K 3
+etc
+V 20
+dir 1wa.0.r2283/1455
+K 4
+meta
+V 23
+dir 1xi.1ic.r4899/36825
+K 17
+sipXauthproxy.dsp
+V 26
+file 1x5.1ic.r4884/5502003
+K 20
+sipXforkingProxy.dsp
+V 26
+file 1x6.1ic.r4884/5501742
+K 17
+sipxproxy.spec.in
+V 24
+file 1x9.1ic.r4870/32221
+K 3
+src
+V 25
+dir 1wn.1ic.r4884/5501496
+END
+ENDREP
+id: 1vt.1ic.r4910/2077
+type: dir
+pred: 1vt.1ic.r4899/37797
+count: 127
+text: 4910 1297 767 767 19048ce4cb1853c90809973f3f181b42
+props: 4813 2294 838 0 328d688c9da0111ee3b97f50a41f4fd6
+cpath: /main/sipXproxy
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 5
+build
+V 20
+file 7ve.0.r4903/917
+K 6
+config
+V 22
+dir 91.1i4.r4899/36259
+K 12
+dependencies
+V 19
+file 7rk.0.r4842/79
+K 11
+sipXcallLib
+V 22
+dir va.1i5.r4904/10657
+K 17
+sipXcommserverLib
+V 22
+dir 1qo.1i6.r4901/2849
+K 10
+sipXconfig
+V 22
+dir 2hf.1i7.r4907/1480
+K 12
+sipXmediaLib
+V 22
+dir mz.1i8.r4899/61995
+K 7
+sipXpbx
+V 23
+dir 5g6.1i9.r4904/16955
+K 9
+sipXphone
+V 23
+dir 6qk.1ia.r4852/35496
+K 11
+sipXportLib
+V 20
+dir 3.1ib.r4908/1210
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r4910/2077
+K 13
+sipXpublisher
+V 23
+dir 20n.1id.r4899/35247
+K 12
+sipXregistry
+V 22
+dir 1y5.1ie.r4909/8291
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r4904/30547
+K 8
+sipXvxml
+V 23
+dir 22d.1ig.r4899/63480
+END
+ENDREP
+id: 7q4.0.r4910/2986
+type: dir
+pred: 7q4.0.r4909/9207
+count: 96
+text: 4910 2315 658 658 de3b026a3812c26703447fc553487e86
+props: 4904 31471 615 0 21ccf80eb64f055ab8636932e753a61b
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r4813/32382
+K 4
+main
+V 20
+dir 7q4.0.r4910/2986
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r4910/3321
+type: dir
+pred: 0.0.r4909/9542
+count: 4910
+text: 4910 3192 116 116 74b0573cf1ebc9be7af3b1a7b0a6bb41
+cpath: /
+copyroot: 0 /
+
+1xe.1ic.t4909-1 modify false true /main/sipXproxy/doc/cdr/call-state-events.html
+
+
+3321 3464

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-11-30T23:31:56.750623Z
+K 7
+svn:log
+V 88
+give AUTH_USER_AND_ADMIN_ARRAY package scope rather than private scope, for unit testing
+END

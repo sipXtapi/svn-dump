@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-05-17T19:15:19.469882Z
+K 7
+svn:log
+V 53
+Modified the soap message for setting the user PIN.
+
+
+END

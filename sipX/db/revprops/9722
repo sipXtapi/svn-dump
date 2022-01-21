@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-23T19:23:40.780660Z
+K 7
+svn:log
+V 87
+Use 'MpAudioSample' type instead of 'short' for audio data in MpEncoderBase::encode().
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-11T22:39:14.932683Z
+K 7
+svn:log
+V 245
+Fix XCF-599: Give an error message if lower limit of extension pool is greater than the upper limit.  Also change the ext pool UI to disallow nulls for first or last extension, it's confusing to allow them even though we handle them gracefully.
+
+END

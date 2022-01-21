@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-07-10T20:49:07.465331Z
+K 7
+svn:log
+V 315
+XCF-1119 implement ModelSource interface that dynamically discovers gateway and phone models
+there is no need to register newly added models in phoneContext or gatewayContext
+one can limit the list of models presented to users by setting phoneModelSource.certified (gatewayModelSource.certified) regular expression
+
+END

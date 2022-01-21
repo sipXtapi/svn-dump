@@ -1,0 +1,122 @@
+id: 2hf.3hw.r6664/0
+type: dir
+pred: 2hf.1i7.r6662/5757
+count: 1578
+text: 6662 4460 1284 1284 766be59a4c3a45ac308c780f820f4fae
+props: 6585 18101 695 0 e9bb1e41e463b87ba2ce52334c0bd4ce
+cpath: /branches/sipXconfig/post-3.3
+copyfrom: 6663 /main/sipXconfig
+
+PLAIN
+K 3
+3.3
+V 24
+dir 2hf.2iy.r6325/196732
+K 8
+post-3.3
+V 19
+dir 2hf.3hw.r6664/0
+K 11
+replication
+V 23
+dir 7q4.2dh.r5710/13873
+END
+ENDREP
+id: 8q1.0.r6664/392
+type: dir
+pred: 8q1.0.r6563/101
+count: 140
+text: 6664 253 126 126 de2702b0c38c80a18f265c201e201d9b
+cpath: /branches/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r6590/2591
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 19
+dir 8q1.0.r6664/392
+K 8
+sipXtapi
+V 24
+dir 9wi.0.r6469/22163876
+K 12
+solaris_port
+V 24
+dir 7q4.39l.r6631/137602
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r6664/1136
+type: dir
+pred: 7pt.0.r6647/582
+count: 564
+text: 6664 554 569 569 3eb884d2ce87256b0dc196746d928e50
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r6664/1136
+K 4
+main
+V 21
+dir 7q4.0.r6663/97733
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6664/1416
+type: dir
+pred: 0.0.r6663/98066
+count: 6664
+text: 6664 1288 115 115 b445dc8a1f7fe1896914fa1a469e8041
+cpath: /
+copyroot: 0 /
+
+2hf._0.t6663-1 add false false /branches/sipXconfig/post-3.3
+6663 /main/sipXconfig
+
+1416 1560

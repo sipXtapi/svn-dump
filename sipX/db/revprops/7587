@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-09-27T04:58:08.593397Z
+K 7
+svn:log
+V 126
+XCF-1257 - Package CDRs into separate RPM, add build support for ruby(abi) only relevant for centos4 and rhe4 and used by cdrs
+END

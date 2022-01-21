@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-07-19T22:13:40.317930Z
+K 7
+svn:log
+V 138
+Fixed a minor crash in the UtlIterator: If you delete a list while an
+iterator still referenced it, the iterator blew up on destruction.
+
+
+END

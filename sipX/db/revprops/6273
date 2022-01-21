@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-02-28T23:17:37.958885Z
+K 7
+svn:log
+V 128
+First use of "svnmerge tidy" to compress the svnmerge properties:
+Reduced svnmerge-pingtel-3.1-revs and svnmerge-sipx-3.0-revs.
+
+END

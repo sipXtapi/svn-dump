@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-23T13:17:09.570032Z
+K 7
+svn:log
+V 30
+mstream: Fix crashes on exit.
+
+END

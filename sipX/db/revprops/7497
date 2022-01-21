@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-09-16T21:26:26.881029Z
+K 7
+svn:log
+V 143
+Started moving some common code from OsNatDatagramSocket to OsNatSocketBaseImpl -- this should allow easier updates to OsNatConnectionSocket.
+
+
+END

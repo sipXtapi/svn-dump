@@ -1,0 +1,172 @@
+PLAIN
+K 13
+svn:externals
+V 55
+config https://scm.sipfoundry.org/rep/sipX/main/config
+
+K 10
+svn:ignore
+V 302
+BUILDSTAMP
+Makefile
+Makefile.in
+SVN-VERSION
+aclocal.m4
+autom4te.cache
+bin.eclipse
+build
+build.maven
+build.properties
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxconfig-*.rpm
+sipxconfig-*.tar.gz
+sipxconfig.spec
+spy.log
+stamp-h1
+top.build.dir
+velocity.log
+config.OLD
+jsetup
+setup
+
+K 19
+svnmerge-integrated
+V 278
+/branches/2.6:1-204,218,223-251,265,314,459
+/branches/2.8:1-829,837-855,1016
+/branches/3.0/sipXconfig:1-6144
+/branches/3.2/sipXconfig:1-6508
+/branches/lowcarb:1-1002
+/branches/sipXconfig/3.3:1-6033
+/branches/user_pin:1-732
+/main/sipXconfig:1-6666
+/pingtel/main/sipXconfig:1-6074
+END
+ENDREP
+id: 2hf.3hw.r6668/732
+type: dir
+pred: 2hf.3hw.r6664/0
+count: 1579
+text: 6662 4460 1284 1284 766be59a4c3a45ac308c780f820f4fae
+props: 6668 0 719 0 b57191353a998f42ee00f5a2e2da106a
+cpath: /branches/sipXconfig/post-3.3
+copyroot: 6664 /branches/sipXconfig/post-3.3
+
+PLAIN
+K 3
+3.3
+V 24
+dir 2hf.2iy.r6325/196732
+K 8
+post-3.3
+V 21
+dir 2hf.3hw.r6668/732
+K 11
+replication
+V 23
+dir 7q4.2dh.r5710/13873
+END
+ENDREP
+id: 8q1.0.r6668/1134
+type: dir
+pred: 8q1.0.r6664/392
+count: 141
+text: 6668 993 128 128 92862c26044c78233b52ae9a9d36fcca
+cpath: /branches/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r6590/2591
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 20
+dir 8q1.0.r6668/1134
+K 8
+sipXtapi
+V 24
+dir 9wi.0.r6469/22163876
+K 12
+solaris_port
+V 24
+dir 7q4.39l.r6666/116324
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r6668/1880
+type: dir
+pred: 7pt.0.r6666/117166
+count: 566
+text: 6668 1297 570 570 327e987449f6391417c605705e101a3f
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r6668/1880
+K 4
+main
+V 21
+dir 7q4.0.r6667/13483
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6668/2164
+type: dir
+pred: 0.0.r6667/13819
+count: 6668
+text: 6668 2036 115 115 9bbe1df694ebd040cee7f2da047562a0
+cpath: /
+copyroot: 0 /
+
+2hf.3hw.t6667-1 modify false true /branches/sipXconfig/post-3.3
+
+
+2164 2308

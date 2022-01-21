@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-05-08T14:05:10.557105Z
+K 7
+svn:log
+V 62
+XCS-67 During upgrade, restrict patches to only going forward.
+END

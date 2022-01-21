@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2013-09-10T19:18:23.783670Z
+K 7
+svn:log
+V 83
+More tolerant matching of input and output device names in sipxAudioSetCall*Device
+
+END

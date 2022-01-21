@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-31T02:46:19.204965Z
+K 7
+svn:log
+V 371
+XCF-1602 Add ability to create unmanaged services from CLI
+
+  sipxconfig.sh --database -Dservice.name=PrimaryNtp \
+       -Dservice.id=ntpService -Dservice.address=ntp.example.com \
+       add-service
+
+Create a new interface for running tasks that can take arguments from
+CLI and an ant macro to call them, retooled reset-superadmin and 
+upgrade tasks to use interface.
+
+
+END

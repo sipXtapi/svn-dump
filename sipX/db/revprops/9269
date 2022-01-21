@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-04-06T18:02:17.349615Z
+K 7
+svn:log
+V 290
+XCF-1608 - Workaround hibernate known limitation regarding null in maps. Allow settings values set to NULL and rewrite them to be blank in collection, then return NULL back when getting setting value.  This ineffect means we cannot distinguish blank strings from NULL but this is acceptable
+END

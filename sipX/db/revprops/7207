@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-08-07T19:14:55.994181Z
+K 7
+svn:log
+V 265
+mergefrom pingtel-main 6937
+
+Move setting suid_dumpable into ./sipXpbx/bin/sipxpbx.in 
+Previously suid_dumpable was being set in 
+   ./sipXvxml/bin/sipXvxml.sh.in,
+however that script isn't run by root, and it requires root
+privledges to set suid_dumpable.
+--Woof!
+
+END

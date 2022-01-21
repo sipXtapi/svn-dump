@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+raghu
+K 8
+svn:date
+V 27
+2004-06-03T03:57:12.853928Z
+K 7
+svn:log
+V 186
+I am working with castor who are helping me to fix the issues with MSVC. MSVC doesn't seem to understand some of the standard cpp string functions which compiles like a charm under linux
+END

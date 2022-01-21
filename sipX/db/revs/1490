@@ -1,0 +1,428 @@
+PLAIN
+K 13
+svn:mime-type
+V 9
+image/gif
+END
+ENDREP
+id: 16u.0.r1490/50
+type: file
+pred: 16u.0.r1439/66492
+count: 1
+text: 1439 51261 4653 4717 3a80eb3dc17c6e0867d763e49e1bbe33
+props: 1490 0 37 0 89debc18bb10e7046b4c62f43fb6bb0a
+cpath: /old/sipXcallLib/main/meta/doc/images/callevents_inbound.gif
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 9
+image/gif
+END
+ENDREP
+id: 16v.0.r1490/358
+type: file
+pred: 16v.0.r1439/66799
+count: 1
+text: 1439 55927 5356 5415 38037dea44109348099541406deafa11
+props: 1490 308 37 0 89debc18bb10e7046b4c62f43fb6bb0a
+cpath: /old/sipXcallLib/main/meta/doc/images/callevents_outbound.gif
+copyroot: 0 /
+
+PLAIN
+K 22
+callevents_inbound.gif
+V 19
+file 16u.0.r1490/50
+K 23
+callevents_outbound.gif
+V 20
+file 16v.0.r1490/358
+END
+ENDREP
+id: 16t.0.r1490/745
+type: dir
+pred: 16t.0.r1439/67171
+count: 1
+text: 1490 620 112 112 b8403601d97e6811678ac72a00f44a63
+cpath: /old/sipXcallLib/main/meta/doc/images
+copyroot: 0 /
+
+PLAIN
+K 6
+images
+V 19
+dir 16t.0.r1490/745
+END
+ENDREP
+id: 16s.0.r1490/977
+type: dir
+pred: 16s.0.r1439/67385
+count: 1
+text: 1490 924 40 40 32fc83230cf84c9697a789d0c3dbbb88
+cpath: /old/sipXcallLib/main/meta/doc
+copyroot: 0 /
+
+PLAIN
+K 3
+doc
+V 19
+dir 16s.0.r1490/977
+END
+ENDREP
+id: 16r.0.r1490/1197
+type: dir
+pred: 16r.0.r1439/67587
+count: 1
+text: 1490 1147 37 37 6e80f9cd1ae78d6d1590c073a87b3908
+cpath: /old/sipXcallLib/main/meta
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 9
+image/gif
+END
+ENDREP
+id: 16m.0.r1490/1415
+type: file
+pred: 16m.0.r1439/71566
+count: 1
+text: 1439 0 4653 4717 3a80eb3dc17c6e0867d763e49e1bbe33
+props: 1490 1365 37 0 89debc18bb10e7046b4c62f43fb6bb0a
+cpath: /old/sipXcallLib/main/doc/sipXtapi/html/callevents_inbound.gif
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 9
+image/gif
+END
+ENDREP
+id: 16n.0.r1490/1726
+type: file
+pred: 16n.0.r1439/71871
+count: 1
+text: 1439 4666 5356 5415 38037dea44109348099541406deafa11
+props: 1490 1676 37 0 89debc18bb10e7046b4c62f43fb6bb0a
+cpath: /old/sipXcallLib/main/doc/sipXtapi/html/callevents_outbound.gif
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 9
+image/png
+END
+ENDREP
+id: 15k.0.r1490/2041
+type: file
+pred: 15k.0.r1398/90108
+count: 1
+text: 1398 1488 1235 1281 33f874b8cd0ceafd80ccad649e6e7846
+props: 1490 1991 37 0 d99d5193015a7bc1a7e3a4e8fc1e49ba
+cpath: /old/sipXcallLib/main/doc/sipXtapi/html/doxygen.png
+copyroot: 0 /
+
+PLAIN
+K 22
+callevents_inbound.gif
+V 21
+file 16m.0.r1490/1415
+K 23
+callevents_outbound.gif
+V 21
+file 16n.0.r1490/1726
+K 11
+doxygen.css
+V 22
+file 15j.0.r1398/90893
+K 11
+doxygen.png
+V 21
+file 15k.0.r1490/2041
+K 10
+files.html
+V 21
+file 15l.0.r1445/6773
+K 12
+globals.html
+V 21
+file 15m.0.r1445/5350
+K 17
+globals_defs.html
+V 21
+file 15n.0.r1445/5750
+K 17
+globals_enum.html
+V 21
+file 15o.0.r1445/7159
+K 17
+globals_eval.html
+V 21
+file 16o.0.r1445/5951
+K 17
+globals_func.html
+V 21
+file 15p.0.r1445/6364
+K 17
+globals_type.html
+V 21
+file 15q.0.r1445/5547
+K 10
+index.html
+V 21
+file 15r.0.r1445/6965
+K 24
+sip_xtapi_8h-source.html
+V 21
+file 15s.0.r1445/6153
+K 17
+sip_xtapi_8h.html
+V 21
+file 15t.0.r1445/6567
+K 31
+sip_xtapi_events_8h-source.html
+V 21
+file 15u.0.r1445/4923
+K 24
+sip_xtapi_events_8h.html
+V 21
+file 15v.0.r1445/5139
+K 33
+sip_xtapi_internal_8h-source.html
+V 22
+file 16p.0.r1439/73160
+END
+ENDREP
+id: 15i.0.r1490/3187
+type: dir
+pred: 15i.0.r1445/8257
+count: 4
+text: 1490 2294 880 880 27a5ef28bfa2a6688d5363ee0932aac6
+cpath: /old/sipXcallLib/main/doc/sipXtapi/html
+copyroot: 0 /
+
+PLAIN
+K 4
+html
+V 20
+dir 15i.0.r1490/3187
+END
+ENDREP
+id: 15h.0.r1490/3421
+type: dir
+pred: 15h.0.r1445/8492
+count: 4
+text: 1490 3369 39 39 00e2ead7c1298d442cefb9490a4c1e23
+cpath: /old/sipXcallLib/main/doc/sipXtapi
+copyroot: 0 /
+
+PLAIN
+K 11
+Doxyfile.in
+V 22
+file 159.0.r1353/11544
+K 11
+Makefile.am
+V 22
+file 15a.0.r1353/11706
+K 11
+footer.html
+V 22
+file 15b.0.r1353/11387
+K 11
+header.html
+V 22
+file 15c.0.r1353/11865
+K 8
+sipXtapi
+V 20
+dir 15h.0.r1490/3421
+END
+ENDREP
+id: 158.0.r1490/3832
+type: dir
+pred: 158.0.r1445/8904
+count: 6
+text: 1490 3596 223 223 ab0317acb2209bff37f2b97c748cdb78
+props: 1356 1128 56 0 357a444bd6df82003e865df156c283e9
+cpath: /old/sipXcallLib/main/doc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file vb.0.r1322/794377
+K 9
+ChangeLog
+V 19
+file vc.0.r1410/298
+K 7
+INSTALL
+V 19
+file vd.0.r1362/532
+K 7
+LICENSE
+V 22
+file ve.0.r1322/684024
+K 11
+Makefile.am
+V 19
+file vf.0.r1455/431
+K 4
+NEWS
+V 22
+file vg.0.r1322/794232
+K 6
+README
+V 19
+file vh.0.r1328/613
+K 4
+TODO
+V 22
+file vi.0.r1322/732281
+K 9
+acsite.m4
+V 22
+file vj.0.r1322/732833
+K 3
+bin
+V 19
+dir 15f.0.r1456/710
+K 12
+configure.ac
+V 19
+file vk.0.r1454/139
+K 3
+doc
+V 20
+dir 158.0.r1490/3832
+K 8
+examples
+V 19
+dir vl.0.r1478/6627
+K 7
+include
+V 19
+dir vt.0.r1486/1517
+K 4
+meta
+V 20
+dir 16r.0.r1490/1197
+K 15
+sipXcallLib.dsp
+V 21
+file 155.0.r1478/2780
+K 12
+sipXtapi.dsp
+V 20
+file 16a.0.r1487/313
+K 12
+sipXtapi.dsw
+V 20
+file 16b.0.r1488/293
+K 16
+sipXtapiTest.dsp
+V 22
+file 16c.0.r1421/13741
+K 19
+sipxcalllib.spec.in
+V 20
+file 15d.0.r1397/529
+K 3
+src
+V 20
+dir 10q.0.r1489/7473
+END
+ENDREP
+id: va.0.r1490/4919
+type: dir
+pred: va.0.r1489/9034
+count: 123
+text: 1490 4055 851 851 2dfe9de708d83f8d1dd9701ea05f9787
+props: 1489 8561 460 0 34666c99433b262e0dcdf386894f05e2
+cpath: /old/sipXcallLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 15e.0.r1477/8948
+K 4
+main
+V 19
+dir va.0.r1490/4919
+K 4
+tags
+V 20
+dir 156.0.r1485/1685
+END
+ENDREP
+id: v9.0.r1490/5264
+type: dir
+pred: v9.0.r1489/9379
+count: 169
+text: 1490 5139 112 112 37e3c851f40eb4f7d57af27153b9429a
+cpath: /old/sipXcallLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1490/5264
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1490/5608
+type: dir
+pred: 1.0.r1489/9723
+count: 1489
+text: 1490 5423 172 172 7e692d82254ac822821eb6369aea8bb3
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1490/5608
+END
+ENDREP
+id: 0.0.r1490/5803
+type: dir
+pred: 0.0.r1489/9918
+count: 1490
+text: 1490 5754 36 36 3c878922d3ec3ff7b0dd5f091f2695d7
+cpath: /
+copyroot: 0 /
+
+15k.0.t1489-1 modify false true /old/sipXcallLib/main/doc/sipXtapi/html/doxygen.png
+
+16m.0.t1489-1 modify false true /old/sipXcallLib/main/doc/sipXtapi/html/callevents_inbound.gif
+
+16n.0.t1489-1 modify false true /old/sipXcallLib/main/doc/sipXtapi/html/callevents_outbound.gif
+
+16u.0.t1489-1 modify false true /old/sipXcallLib/main/meta/doc/images/callevents_inbound.gif
+
+16v.0.t1489-1 modify false true /old/sipXcallLib/main/meta/doc/images/callevents_outbound.gif
+
+
+5803 5944

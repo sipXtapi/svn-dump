@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-09T21:29:07.395669Z
+K 7
+svn:log
+V 365
+Follow-on work related to XCF-555: make names unique for dialing rules as well. Fix the UI to respect this constraint. Use FormActions in the pages for editing dialing rules, rather than hardwired buttons. The main point is that FormActions has some machinery for handling user exceptions nicely, but beyond that the pages are cleaner by virtue of more code reuse.
+
+END

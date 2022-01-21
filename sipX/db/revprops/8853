@@ -1,0 +1,43 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-21T17:46:15.013399Z
+K 7
+svn:log
+V 1068
+Blocked revisions 8539,8597,8691 via svnmerge
+
+........
+  r8539 | xmlscott | 2007-01-15 18:42:42 +0300 | 1 line
+  
+  correct svn mime type for html files
+........
+  r8597 | woof | 2007-01-20 02:13:26 +0300 | 17 lines
+  
+  Corrected call to OsDatagramSocket to enable remote host and port.
+  
+  A problem was manifesting itself as many more sockets than expected 
+  were being used for SIP transactions.  Turns out not setting remote 
+  host and port caused the upper layer SipClient code to create a new 
+  socket for each and every UDP packet that needed to be sent, and kept 
+  the previous one around as well!
+  
+  Under light load, this caused proxy and authproxy (and probably others) to
+  run over the 1024 per process (default) file descriptor limit, resulting
+  in failed calls.
+  
+  By setting the remote host and port, the SipClient code will re-use the
+  existing socket for sending packets addressed to the same place.
+  
+  --Woof!
+........
+  r8691 | kkyzivat | 2007-02-02 23:48:52 +0300 | 2 lines
+  
+  Clean up fc4 yum line, put in proper place.
+........
+
+END

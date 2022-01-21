@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-04-28T22:07:31.655338Z
+K 7
+svn:log
+V 226
+Change SIPXCHANGE_DOMAIN_NAME default value: 
+It used to be set to domain name (hostname -d), now we set this to full hostname (hostname -f).
+New default value works in both cases - on configurations with and without DNS SRV.
+
+END

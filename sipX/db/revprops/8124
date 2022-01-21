@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-27T16:31:41.645895Z
+K 7
+svn:log
+V 385
+Merged revisions 8055 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8055 | bob | 2006-11-21 05:06:53 +0300 | 3 lines
+  
+  Continued merging.  At this point, the CUSTOM transport unit tests are not completely working and I believe we are missing a HOLD event in one case.  I will continue to fix these unit tests over the next few days.
+........
+
+END

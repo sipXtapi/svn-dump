@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2021-05-19T18:32:35.067711Z
+K 7
+svn:log
+V 114
+-allow playback of A-law encoded WAV files
+-reduce code blocks with the same logic down to a single case statement
+END

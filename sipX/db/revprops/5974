@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-26T23:57:44.313063Z
+K 7
+svn:log
+V 503
+XCF-873 added event driven service restarting support to SipxProcessContext
+instead of calling manageService to restart services it is now possible to call restartOnEvent which will delay the restart until a specific even is received
+added DialPlanActivatedEvent - dial plan context publishes this even after dial plan is activated
+since SipxReplicationContext has lazy implementation there it now has a publishEvent method that ensures that event is published only after replication has been completed
+
+END

@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-03-09T16:21:29.359886Z
+K 7
+svn:log
+V 333
+Merged revisions 8949 via svnmerge from sipXportLib main branch
+
+........
+  r8949 | woof | 2007-03-01 23:36:23 +0300 | 7 lines
+  
+  Various small contributed fixes
+  
+  XPL-190 UtlHashMap does a wrong insert and causes retrieval failure
+  XPL-141 OsFile::touch fails when called on an existing zero-length file
+  
+  --Woof!
+........
+
+END

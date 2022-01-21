@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-27T09:20:06.793405Z
+K 7
+svn:log
+V 211
+Beta version of OSS input and output drivers for new I/O framework.
+Original OSS code from current OSS driver, updates and tunning by Joe Boucher, porting to new interface and more tunning by Sergey Kostanbaev.
+
+END

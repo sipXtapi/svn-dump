@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-06T21:15:24.564915Z
+K 7
+svn:log
+V 147
+Move SdpCodecList and SdpDefaultCodecFactory classes from sipXtackLib to its natural place in sipXsdpLib.
+By the way split them to separate files.
+
+END

@@ -1,0 +1,165 @@
+PLAIN
+K 10
+general.m4
+V 20
+file 95.0.r22/467272
+K 13
+mkinstalldirs
+V 19
+file 99.0.r23/17995
+K 10
+sipXlib.m4
+V 20
+file 9a.0.r22/466708
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 75
+config.guess
+config.sub
+ltmain.sh
+install-sh
+mkinstalldirs
+depcomp
+missing
+
+END
+ENDREP
+id: 91.0.r27/259
+type: dir
+pred: 91.0.r25/34619
+count: 6
+text: 27 0 132 132 c3bc15b64e59b97c74e2210e593c5e1a
+props: 27 145 101 0 1bc797c35d4a455ac7c4ea5587cb4a1c
+cpath: /old/sipXportLib/main/config
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 19
+file 4.0.r22/520744
+K 9
+ChangeLog
+V 19
+file 5.0.r22/469231
+K 7
+INSTALL
+V 19
+file 6.0.r22/468962
+K 7
+LICENSE
+V 19
+file 7.0.r22/418615
+K 11
+Makefile.am
+V 19
+file 8.0.r22/520210
+K 4
+NEWS
+V 19
+file 9.0.r22/520483
+K 6
+README
+V 19
+file a.0.r22/521014
+K 4
+TODO
+V 18
+file b.0.r25/34332
+K 9
+acsite.m4
+V 19
+file c.0.r22/469495
+K 6
+config
+V 16
+dir 91.0.r27/259
+K 12
+configure.ac
+V 19
+file d.0.r22/419434
+K 7
+include
+V 16
+dir e.0.r26/9330
+K 15
+sipXportLib.dsp
+V 20
+file 4c.0.r22/465318
+K 3
+src
+V 18
+dir 4d.0.r26/12902
+K 12
+syslogviewer
+V 18
+dir 8y.0.r25/27013
+END
+ENDREP
+id: 3.0.r27/1060
+type: dir
+pred: 3.0.r26/13710
+count: 24
+text: 27 472 575 575 65bbbf1a784f881f533a96ec6643e6da
+props: 25 46063 102 0 dfadf7143a0dfad6b98b34bae97deccf
+cpath: /old/sipXportLib/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 16
+dir 3.0.r27/1060
+END
+ENDREP
+id: 2.0.r27/1318
+type: dir
+pred: 2.0.r26/13972
+count: 25
+text: 27 1270 35 35 da03c21d19093f38d6e0ab73c321a594
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 16
+dir 2.0.r27/1318
+END
+ENDREP
+id: 1.0.r27/1523
+type: dir
+pred: 1.0.r26/14180
+count: 26
+text: 27 1467 43 43 f1f0f46c89b3dc1713a37bb9a1051a7a
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 16
+dir 1.0.r27/1523
+END
+ENDREP
+id: 0.0.r27/1707
+type: dir
+pred: 0.0.r26/14367
+count: 27
+text: 27 1660 34 34 047b1f7b06eedc36611bd1faf09b2e4d
+cpath: /
+copyroot: 0 /
+
+96.0.r23/18939 delete false false /old/sipXportLib/main/config/install-sh
+
+91.0.t26-1 modify false true /old/sipXportLib/main/config
+
+94.0.r22/466148 delete false false /old/sipXportLib/main/config/depcomp
+
+98.0.r22/466428 delete false false /old/sipXportLib/main/config/missing
+
+
+1707 1841

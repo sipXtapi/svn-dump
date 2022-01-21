@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-02-26T03:41:54.866379Z
+K 7
+svn:log
+V 90
+Make rules to build a mediaLib sandbox unit test that can be run from Android app via JNI
+
+END

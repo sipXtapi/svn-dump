@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-10-11T19:29:47.112284Z
+K 7
+svn:log
+V 54
+translate "unknown port" (-1) to 5060 in log messages
+
+END

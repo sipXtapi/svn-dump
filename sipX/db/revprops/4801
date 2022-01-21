@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-04-29T12:51:47.435409Z
+K 7
+svn:log
+V 237
+- Updated the icon for launchix (now uses SIPfoundry icon)
+- Updated win32 build (not longer use glib and include QuickConfig)
+- A few minor changes to allow setting the call address type (NAT_MAPPED, LOCAL) based on the outbound line.
+
+
+END

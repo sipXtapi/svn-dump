@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 6
+prikov
+K 8
+svn:date
+V 27
+2005-09-01T21:57:34.331555Z
+K 7
+svn:log
+V 238
+Merged revisions 3603 via svnmerge from
+https://paradise.pingtel.com/rep/sipX/mirror/main
+  | ................................
+  | r3603 | prikov | 2005-09-01 17:05:53 -0400 (Thu, 01 Sep 2005) | 3 lines
+  | Remove .dsp file from the list
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-11-16T23:00:12.825207Z
+K 7
+svn:log
+V 78
+Overhaul resiprocateLib/Makefile.am so that it installs everything
+correctly.
+
+END

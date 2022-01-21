@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-07T15:55:12.346565Z
+K 7
+svn:log
+V 212
+Update sipXmediaLib Linux build:
+* add confingure option for codec_speex works with "--enable-codec-speex=contrib" (for cross-compiling);
+* fix clean build issue for plgamr* and add cross-compilation capability.
+
+END

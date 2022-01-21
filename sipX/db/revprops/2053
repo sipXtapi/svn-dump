@@ -1,0 +1,32 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-21T21:27:25.716440Z
+K 7
+svn:log
+V 759
+Merged revisions 217,239 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.8
+    ------------------------------------------------------------------------
+    r217 | dworley | 2005-03-22 13:06:28 -0500 (Tue, 22 Mar 2005) | 1 line
+    Changed paths:
+       M /branches/2.8/doc
+    
+    Fix svn:ignore property.
+    ------------------------------------------------------------------------
+    r239 | dworley | 2005-04-05 16:34:55 -0400 (Tue, 05 Apr 2005) | 6 lines
+    Changed paths:
+       M /branches/2.8/bin/sipx-upgrade
+    
+    Correct the directory in which we look for huntgroup.xml.
+    Use variable assignment to avoid repeating the name of every file five
+    times.
+    
+    http://track.sipfoundry.org/browse/XCF-158
+    
+
+END

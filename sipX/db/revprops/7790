@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-19T15:21:13.758998Z
+K 7
+svn:log
+V 97
+Correct the name of an attribute of the dialog-info element -- it is
+"state" not "notify-state".
+
+END

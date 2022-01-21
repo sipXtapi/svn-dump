@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-01-30T05:50:51.073600Z
+K 7
+svn:log
+V 540
+Finish pushUpdates and pullUpdates logic, with a few loose ends noted in the code.  Change RegistrarInitialSync to go through SipRegistrarServer rather than directly to RegistrationDB -- SipRegistrarServer should in general mediate DB access even though multithreading is not an issue when RegistrarInitialSync is running, since it is the only thread accessing the DB at that time.  Make a bunch of changes suggested by Scott in a code review.
+In some cases, switch from char* to UtlString to avoid having to worry about the NULL ptr case.
+
+END

@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-09-27T00:09:54.818728Z
+K 7
+svn:log
+V 432
+Change DEFAULT_CODECS_PATH input to use unquoted string that then gets
+stringified within the source via the C preprocessor.
+This is to workaround a feature (bug) in the windows compiler whereby quoted
+strings in preprocessor definitions are not allowed within project files.
+
+Thus, to be consistent, the behavior was changed for all platforms.
+See comments in MpMisc near the definition of CODEC_PLUGIN_PATH for more
+information.
+
+
+END

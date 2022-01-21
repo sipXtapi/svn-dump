@@ -1,0 +1,100 @@
+PLAIN
+K 3
+2.6
+V 21
+dir 20n.e5.r2619/2205
+END
+ENDREP
+id: 221.0.r2626/52
+type: dir
+pred: 221.0.r2624/10985
+count: 9
+text: 2626 0 39 39 79bbf73edca8734fa003ee2adb9bae32
+cpath: /old/sipXpublisher/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 221.0.r2626/52
+K 4
+main
+V 20
+dir 20n.0.r2625/1351
+K 4
+tags
+V 20
+dir 21v.0.r2620/1050
+END
+ENDREP
+id: 20m.0.r2626/340
+type: dir
+pred: 20m.0.r2625/1699
+count: 78
+text: 2626 216 111 111 06ae403a6f38e5e2368afbe1ebf41023
+cpath: /old/sipXpublisher
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 19
+dir 20m.0.r2626/340
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2626/862
+type: dir
+pred: 1.0.r2625/2225
+count: 2625
+text: 2626 500 349 349 5e462322f8ba04ae90dacad5bcee1206
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r2626/862
+END
+ENDREP
+id: 0.0.r2626/1054
+type: dir
+pred: 0.0.r2625/2421
+count: 2626
+text: 2626 1006 35 35 a7cc034632547b02a6dd2b4431e85b37
+cpath: /
+copyroot: 0 /
+
+20n.e1.r2624/10607 delete false false /old/sipXpublisher/branches/post-2.6.1
+
+
+1054 1195

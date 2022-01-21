@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-12-11T20:50:02.181341Z
+K 7
+svn:log
+V 324
+Remove ptapi tests.  We have no need for ptapi at all anymore.
+
+It is currently not included in sipXcallLib, but the tests were never removed
+from the Linux build, so this resulted in build failure -- unresolved
+references.
+
+ptapi itself should be entirely removed from sipXtapi, and is in the plannings
+to remove it soon.
+
+
+END

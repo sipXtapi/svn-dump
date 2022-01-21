@@ -1,0 +1,1248 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1y9.0.r2414/82
+type: file
+pred: 1y9.0.r2300/57828
+count: 1
+text: 2300 449 11212 26430 7fbc338309ac38fefcd64b04bb903e34
+props: 2414 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/LICENSE
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1zl.0.r2414/392
+type: file
+pred: 1zl.0.r2410/3528
+count: 1
+text: 2410 2267 316 495 b50d5af0391cf5c7855004650fc072ba
+props: 2414 310 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/meta/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1zm.0.r2414/707
+type: file
+pred: 1zm.0.r2410/3790
+count: 1
+text: 2410 2596 872 1972 aafbb4beb3f6db0d54b78d2483c1312a
+props: 2414 628 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXregistry/main/meta/alias.xsd.in
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 20
+file 1zl.0.r2414/392
+K 12
+alias.xsd.in
+V 20
+file 1zm.0.r2414/707
+END
+ENDREP
+id: 1zk.0.r2414/1049
+type: dir
+pred: 1zk.0.r2410/4164
+count: 1
+text: 2414 945 91 91 366f890c2c4dbab8dae514bceefa1c09
+props: 2410 4113 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXregistry/main/meta
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ye.0.r2414/1353
+type: file
+pred: 1ye.0.r2300/59380
+count: 1
+text: 2300 12517 56 64 2af585c49272869c469f0b5da782c309
+props: 2414 1271 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/acsite.m4
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1y7.0.r2414/1666
+type: file
+pred: 1y7.0.r2380/529
+count: 4
+text: 2380 0 505 876 13757dc64729c3369ff830d9abbc8fc7
+props: 2414 1584 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/ChangeLog
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1yy.0.r2414/1975
+type: file
+pred: 1yy.0.r2343/599
+count: 8
+text: 2343 439 30 16280 439558dfff5a87a8a674be3f663d2487
+props: 2414 1893 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/src/SipRegistrar.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1yt.0.r2414/2298
+type: file
+pred: 1yt.0.r2326/5418
+count: 3
+text: 2326 409 30 1649 5493138a35a51a5462c05926993a2f08
+props: 2414 2216 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/src/SipHuntGroupFilter.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1yz.0.r2414/2625
+type: file
+pred: 1yz.0.r2327/127
+count: 6
+text: 2327 0 31 3928 9062781ea17bed213c3e997f74029fa5
+props: 2414 2543 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/src/SipRegistrar.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1yw.0.r2414/2943
+type: file
+pred: 1yw.0.r2343/841
+count: 10
+text: 2343 381 30 16114 b023dec4756eac42e23bdadce4f8d3b8
+props: 2414 2861 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/src/SipRedirectServer.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1z2.0.r2414/3272
+type: file
+pred: 1z2.0.r2399/1671
+count: 9
+text: 2399 986 656 13112 5c5b7c54a9eb811c2524b23695d28039
+props: 2414 3190 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/src/main.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1z0.0.r2414/3589
+type: file
+pred: 1z0.0.r2327/364
+count: 8
+text: 2327 58 43 33949 65bf114c8d9718058571c6b5bbf42244
+props: 2414 3507 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/src/SipRegistrarServer.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1yu.0.r2414/3917
+type: file
+pred: 1yu.0.r2404/166
+count: 6
+text: 2404 0 140 14276 951eb194ad316f5c5c741ac24a4a1cee
+props: 2414 3835 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/src/SipImpliedSubscriptions.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1yr.0.r2414/4250
+type: file
+pred: 1yr.0.r2401/224
+count: 7
+text: 2401 68 132 743 1174ab174791ebcfe160663e8a207951
+props: 2414 4168 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/src/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1yx.0.r2414/4566
+type: file
+pred: 1yx.0.r2326/6896
+count: 5
+text: 2326 3260 431 1570 fe4d6e9427c1775c08b10029d8583b70
+props: 2414 4484 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/src/SipRedirectServer.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1z1.0.r2414/4894
+type: file
+pred: 1z1.0.r2326/7143
+count: 5
+text: 2326 4579 468 3552 af15be2567e82cd4b6db977b0cec1e1a
+props: 2414 4812 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/src/SipRegistrarServer.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1z3.0.r2414/5223
+type: file
+pred: 1z3.0.r2326/7391
+count: 2
+text: 2326 5124 21 383 f53065e0402bbed474c7cd37ffdaccdf
+props: 2414 5141 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/src/version.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1yv.0.r2414/5539
+type: file
+pred: 1yv.0.r2326/7627
+count: 2
+text: 2326 1375 21 2352 224f864eac5f21be6c2042acc20922f4
+props: 2414 5457 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/src/SipImpliedSubscriptions.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ys.0.r2414/5872
+type: file
+pred: 1ys.0.r2326/7880
+count: 5
+text: 2326 0 380 6268 9996c9def079a75c80a5fbb04dfe8137
+props: 2414 5790 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/src/SipHuntGroupFilter.cpp
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file 1yr.0.r2414/4250
+K 22
+SipHuntGroupFilter.cpp
+V 21
+file 1ys.0.r2414/5872
+K 20
+SipHuntGroupFilter.h
+V 21
+file 1yt.0.r2414/2298
+K 27
+SipImpliedSubscriptions.cpp
+V 21
+file 1yu.0.r2414/3917
+K 25
+SipImpliedSubscriptions.h
+V 21
+file 1yv.0.r2414/5539
+K 21
+SipRedirectServer.cpp
+V 21
+file 1yw.0.r2414/2943
+K 19
+SipRedirectServer.h
+V 21
+file 1yx.0.r2414/4566
+K 16
+SipRegistrar.cpp
+V 21
+file 1yy.0.r2414/1975
+K 14
+SipRegistrar.h
+V 21
+file 1yz.0.r2414/2625
+K 22
+SipRegistrarServer.cpp
+V 21
+file 1z0.0.r2414/3589
+K 20
+SipRegistrarServer.h
+V 21
+file 1z1.0.r2414/4894
+K 8
+main.cpp
+V 21
+file 1z2.0.r2414/3272
+K 9
+version.h
+V 21
+file 1z3.0.r2414/5223
+END
+ENDREP
+id: 1yq.0.r2414/6796
+type: dir
+pred: 1yq.0.r2404/1090
+count: 19
+text: 2414 6118 665 665 5e0a3268801855338f947f0a02184a11
+props: 2324 278 72 0 6f5a8267934fd4c2bfd6e818e833f306
+cpath: /old/sipXregistry/main/src
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1yc.0.r2414/7102
+type: file
+pred: 1yc.0.r2300/66500
+count: 1
+text: 2300 12227 260 286 39ed71cd6c74405188810e0dc362fe6d
+props: 2414 7020 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/README
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1y6.0.r2414/7414
+type: file
+pred: 1y6.0.r2300/66299
+count: 1
+text: 2300 0 239 244 4a768a2b46bbe127d4fb3d4737656fe5
+props: 2414 7332 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/CONTRIBUTORS
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 4
+CRLF
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1z4.0.r2414/7726
+type: file
+pred: 1z4.0.r2391/380
+count: 5
+text: 2391 0 355 5741 69c430db298cd1d4b2b15a831ae01899
+props: 2414 7646 67 0 40862581c28acc44b2153a4f7a6c3f75
+cpath: /old/sipXregistry/main/sipXregistry.dsp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1yk.0.r2414/8043
+type: file
+pred: 1yk.0.r2410/4364
+count: 13
+text: 2410 51 263 1724 0aeed269176e51b2f4f2289c3e7686c2
+props: 2414 7961 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/configure.ac
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1z8.0.r2414/8359
+type: file
+pred: 1z8.0.r2325/4549
+count: 3
+text: 2325 475 397 3025 07f53d622ca33e0adaa76ec28254ed2e
+props: 2414 8277 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/doc/Redirection.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1zb.0.r2414/8679
+type: file
+pred: 1zb.0.r2390/281
+count: 2
+text: 2390 0 254 2044 dbb84e542ba7c8e15d471361a65ad840
+props: 2414 8600 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXregistry/main/doc/mappingrules.xml
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1zh.0.r2414/9000
+type: file
+pred: 1zh.0.r2396/9420
+count: 1
+text: 2396 677 7618 23443 9353977e716a3e53c7cf361fae36a006
+props: 2414 8918 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/doc/Doxyfile.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1z9.0.r2414/9318
+type: file
+pred: 1z9.0.r2318/6433
+count: 1
+text: 2318 2455 464 1100 7191da982ef91582cb37fb8c08c55eca
+props: 2414 9239 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXregistry/main/doc/alias.xml
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1z7.0.r2414/9636
+type: file
+pred: 1z7.0.r2397/497
+count: 4
+text: 2397 419 51 299 3d687b5b4219c5d52befef5352c4e928
+props: 2414 9554 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/doc/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1zc.bj.r2414/9949
+type: file
+pred: 1zc.bj.r2360/179
+count: 3
+text: 2360 0 152 2399 0b702a28677d06d694d6a4b991f7869f
+props: 2414 9870 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXregistry/main/doc/fallbackrules.xml
+copyroot: 2328 /old/sipXregistry/main/doc/fallbackrules.xml
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1zd.0.r2414/10316
+type: file
+pred: 1zd.0.r2318/6851
+count: 1
+text: 2318 4991 597 734 88eac48c44e3fd16f3e237c1cee6280c
+props: 2414 10237 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXregistry/main/doc/registration.xml
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1za.0.r2414/10639
+type: file
+pred: 1za.0.r2318/7015
+count: 1
+text: 2318 2932 378 458 cd0b5dcb5825a3ecc2ce943f241d08b8
+props: 2414 10560 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXregistry/main/doc/huntgroup.xml
+copyroot: 0 /
+
+PLAIN
+K 11
+Doxyfile.in
+V 21
+file 1zh.0.r2414/9000
+K 11
+Makefile.am
+V 21
+file 1z7.0.r2414/9636
+K 15
+Redirection.txt
+V 21
+file 1z8.0.r2414/8359
+K 9
+alias.xml
+V 21
+file 1z9.0.r2414/9318
+K 17
+fallbackrules.xml
+V 22
+file 1zc.bj.r2414/9949
+K 11
+footer.html
+V 21
+file 1zi.0.r2396/9161
+K 11
+header.html
+V 21
+file 1zj.0.r2396/9953
+K 13
+huntgroup.xml
+V 22
+file 1za.0.r2414/10639
+K 16
+mappingrules.xml
+V 21
+file 1zb.0.r2414/8679
+K 16
+registration.xml
+V 22
+file 1zd.0.r2414/10316
+END
+ENDREP
+id: 1z6.0.r2414/11359
+type: dir
+pred: 1z6.0.r2397/1205
+count: 9
+text: 2414 10880 466 466 5bcbd7638dadae20a349356f6c6df3cc
+props: 2324 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXregistry/main/doc
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1yd.0.r2414/11664
+type: file
+pred: 1yd.0.r2328/3301
+count: 2
+text: 2328 498 166 184 82a174b552d2786a8bd9b6c52c6ca68e
+props: 2414 11582 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/TODO
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1y8.0.r2414/11973
+type: file
+pred: 1y8.0.r2318/7772
+count: 2
+text: 2318 0 373 771 f0b3377bbb52b5a67fee5a3ae26d64c1
+props: 2414 11891 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/INSTALL
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1zg.0.r2414/12283
+type: file
+pred: 1zg.0.r2402/115
+count: 4
+text: 2402 0 89 777 f6df3fc11142c954ca59db6ee3634ff6
+props: 2414 12201 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/bin/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 0
+
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1yg.0.r2414/12624
+type: file
+pred: 1yg.0.r2351/105
+count: 6
+text: 2351 0 79 825 56038d01fa3d8133dc59e7a7726f1d8e
+props: 2414 12517 94 0 3caf7fa5ef5a1e1eabc4ec47c023e3f3
+cpath: /old/sipXregistry/main/bin/sipregistrar.sh.in
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 1zg.0.r2414/12283
+K 18
+sipregistrar.sh.in
+V 22
+file 1yg.0.r2414/12624
+END
+ENDREP
+id: 1yf.0.r2414/12979
+type: dir
+pred: 1yf.0.r2402/457
+count: 11
+text: 2414 12865 101 101 d0180dd072bce08d2b9a1094f8d24ace
+props: 2356 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXregistry/main/bin
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ya.0.r2414/13284
+type: file
+pred: 1ya.0.r2410/4599
+count: 28
+text: 2410 0 28 1984 b95db346369627e27df7d6856ef920f5
+props: 2414 13202 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ze.0.r2414/13599
+type: file
+pred: 1ze.0.r2411/103
+count: 10
+text: 2411 0 77 2004 9ad94afd0facf74eb8641b7534a41103
+props: 2414 13517 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/sipxregistry.spec.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1ym.0.r2414/13919
+type: file
+pred: 1ym.0.r2300/64738
+count: 1
+text: 2300 20712 214 224 9af2279df237fb21bf2d4c6e7875c8ad
+props: 2414 13840 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXregistry/main/etc/huntgroup.xml.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1yn.0.r2414/14244
+type: file
+pred: 1yn.0.r2410/4831
+count: 3
+text: 2410 1373 866 2781 d1590e255414e2f6a7b5d0873bcf0b23
+props: 2414 14165 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXregistry/main/etc/mappingrules.xml.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1yp.0.r2414/14574
+type: file
+pred: 1yp.0.r2384/1424
+count: 3
+text: 2384 457 163 661 829d9db1db9bdbe5454bdc3ac41d52a1
+props: 2414 14492 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/etc/registrar-config.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1yo.bi.r2414/14899
+type: file
+pred: 1yo.bi.r2410/5078
+count: 3
+text: 2410 340 1005 4623 89d00fa3f9f6e5abd61ffa5bab88a889
+props: 2414 14820 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXregistry/main/etc/fallbackrules.xml.in
+copyroot: 2325 /old/sipXregistry/main/etc/fallbackrules.xml.in
+
+PLAIN
+K 20
+fallbackrules.xml.in
+V 23
+file 1yo.bi.r2414/14899
+K 16
+huntgroup.xml.in
+V 22
+file 1ym.0.r2414/13919
+K 19
+mappingrules.xml.in
+V 22
+file 1yn.0.r2414/14244
+K 19
+registrar-config.in
+V 22
+file 1yp.0.r2414/14574
+END
+ENDREP
+id: 1yl.0.r2414/15427
+type: dir
+pred: 1yl.0.r2410/5602
+count: 5
+text: 2414 15199 215 215 1077e0ef8d142f5465c13cbe060b3a92
+cpath: /old/sipXregistry/main/etc
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1yb.0.r2414/15680
+type: file
+pred: 1yb.0.r2300/66153
+count: 1
+text: 2300 12210 4 0 d41d8cd98f00b204e9800998ecf8427e
+props: 2414 15598 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXregistry/main/NEWS
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 21
+file 1y6.0.r2414/7414
+K 9
+ChangeLog
+V 21
+file 1y7.0.r2414/1666
+K 7
+INSTALL
+V 22
+file 1y8.0.r2414/11973
+K 7
+LICENSE
+V 19
+file 1y9.0.r2414/82
+K 11
+Makefile.am
+V 22
+file 1ya.0.r2414/13284
+K 4
+NEWS
+V 22
+file 1yb.0.r2414/15680
+K 6
+README
+V 21
+file 1yc.0.r2414/7102
+K 4
+TODO
+V 22
+file 1yd.0.r2414/11664
+K 9
+acsite.m4
+V 21
+file 1ye.0.r2414/1353
+K 3
+bin
+V 21
+dir 1yf.0.r2414/12979
+K 12
+configure.ac
+V 21
+file 1yk.0.r2414/8043
+K 3
+doc
+V 21
+dir 1z6.0.r2414/11359
+K 3
+etc
+V 21
+dir 1yl.0.r2414/15427
+K 4
+meta
+V 20
+dir 1zk.0.r2414/1049
+K 16
+sipXregistry.dsp
+V 21
+file 1z4.0.r2414/7726
+K 20
+sipxregistry.spec.in
+V 22
+file 1ze.0.r2414/13599
+K 3
+src
+V 20
+dir 1yq.0.r2414/6796
+END
+ENDREP
+id: 1y5.0.r2414/16606
+type: dir
+pred: 1y5.0.r2411/1036
+count: 70
+text: 2414 15906 687 687 ebdc55ee0ef90b479be966b943e5f2c5
+props: 2410 6467 395 0 349498c0b40ebc96ce0a87ab514f5f26
+cpath: /old/sipXregistry/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1zf.0.r2405/1622
+K 4
+main
+V 21
+dir 1y5.0.r2414/16606
+K 4
+tags
+V 20
+dir 1z5.0.r2413/1670
+END
+ENDREP
+id: 1y4.0.r2414/16957
+type: dir
+pred: 1y4.0.r2413/1961
+count: 115
+text: 2414 16830 114 114 74cc66cf1d11b6d1b34a202b5e869273
+cpath: /old/sipXregistry
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 12
+sipXregistry
+V 21
+dir 1y4.0.r2414/16957
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2414/17440
+type: dir
+pred: 1.0.r2413/2441
+count: 2413
+text: 2414 17121 306 306 1e8b34d6aefec4c4a702b0223e471001
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 19
+dir 1.0.r2414/17440
+END
+ENDREP
+id: 0.0.r2414/17638
+type: dir
+pred: 0.0.r2413/2636
+count: 2414
+text: 2414 17588 37 37 d49880d27a4c57b4b80f9e913814f851
+cpath: /
+copyroot: 0 /
+
+1y9.0.t2413-1 modify false true /old/sipXregistry/main/LICENSE
+
+1yp.0.t2413-1 modify false true /old/sipXregistry/main/etc/registrar-config.in
+
+1yy.0.t2413-1 modify false true /old/sipXregistry/main/src/SipRegistrar.cpp
+
+1y7.0.t2413-1 modify false true /old/sipXregistry/main/ChangeLog
+
+1yt.0.t2413-1 modify false true /old/sipXregistry/main/src/SipHuntGroupFilter.h
+
+1z8.0.t2413-1 modify false true /old/sipXregistry/main/doc/Redirection.txt
+
+1z2.0.t2413-1 modify false true /old/sipXregistry/main/src/main.cpp
+
+1y6.0.t2413-1 modify false true /old/sipXregistry/main/CONTRIBUTORS
+
+1z9.0.t2413-1 modify false true /old/sipXregistry/main/doc/alias.xml
+
+1yu.0.t2413-1 modify false true /old/sipXregistry/main/src/SipImpliedSubscriptions.cpp
+
+1zl.0.t2413-1 modify false true /old/sipXregistry/main/meta/Makefile.am
+
+1za.0.t2413-1 modify false true /old/sipXregistry/main/doc/huntgroup.xml
+
+1z4.0.t2413-1 modify false true /old/sipXregistry/main/sipXregistry.dsp
+
+1yk.0.t2413-1 modify false true /old/sipXregistry/main/configure.ac
+
+1ya.0.t2413-1 modify false true /old/sipXregistry/main/Makefile.am
+
+1zb.0.t2413-1 modify false true /old/sipXregistry/main/doc/mappingrules.xml
+
+1yb.0.t2413-1 modify false true /old/sipXregistry/main/NEWS
+
+1zd.0.t2413-1 modify false true /old/sipXregistry/main/doc/registration.xml
+
+1zc.bj.t2413-1 modify false true /old/sipXregistry/main/doc/fallbackrules.xml
+
+1yx.0.t2413-1 modify false true /old/sipXregistry/main/src/SipRedirectServer.h
+
+1z1.0.t2413-1 modify false true /old/sipXregistry/main/src/SipRegistrarServer.h
+
+1ys.0.t2413-1 modify false true /old/sipXregistry/main/src/SipHuntGroupFilter.cpp
+
+1yn.0.t2413-1 modify false true /old/sipXregistry/main/etc/mappingrules.xml.in
+
+1ye.0.t2413-1 modify false true /old/sipXregistry/main/acsite.m4
+
+1yo.bi.t2413-1 modify false true /old/sipXregistry/main/etc/fallbackrules.xml.in
+
+1yz.0.t2413-1 modify false true /old/sipXregistry/main/src/SipRegistrar.h
+
+1yc.0.t2413-1 modify false true /old/sipXregistry/main/README
+
+1zh.0.t2413-1 modify false true /old/sipXregistry/main/doc/Doxyfile.in
+
+1yr.0.t2413-1 modify false true /old/sipXregistry/main/src/Makefile.am
+
+1z3.0.t2413-1 modify false true /old/sipXregistry/main/src/version.h
+
+1yg.0.t2413-1 modify false true /old/sipXregistry/main/bin/sipregistrar.sh.in
+
+1yv.0.t2413-1 modify false true /old/sipXregistry/main/src/SipImpliedSubscriptions.h
+
+1yd.0.t2413-1 modify false true /old/sipXregistry/main/TODO
+
+1y8.0.t2413-1 modify false true /old/sipXregistry/main/INSTALL
+
+1ze.0.t2413-1 modify false true /old/sipXregistry/main/sipxregistry.spec.in
+
+1ym.0.t2413-1 modify false true /old/sipXregistry/main/etc/huntgroup.xml.in
+
+1yw.0.t2413-1 modify false true /old/sipXregistry/main/src/SipRedirectServer.cpp
+
+1z0.0.t2413-1 modify false true /old/sipXregistry/main/src/SipRegistrarServer.cpp
+
+1z7.0.t2413-1 modify false true /old/sipXregistry/main/doc/Makefile.am
+
+1zm.0.t2413-1 modify false true /old/sipXregistry/main/meta/alias.xsd.in
+
+1zg.0.t2413-1 modify false true /old/sipXregistry/main/bin/Makefile.am
+
+
+17638 17781

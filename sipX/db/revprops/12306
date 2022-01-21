@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2015-05-20T16:57:28.611891Z
+K 7
+svn:log
+V 57
+Added additional lib search path dir for CentOS 6 64 bit
+
+END

@@ -1,0 +1,33 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-03-08T23:05:09.604067Z
+K 7
+svn:log
+V 1120
+Merging in from main up to rev 6317
+
+[XPB-530] Workaround.
+  Change the default for the address in the Record-Route header
+  inserted by the authproxy to explicitly use the ip address and port.
+  This is only a change of how the value is constructed, not an actual
+  change in the value.  In earlier revisions, the config.defs variable
+  AUTH_PROXY_SERVER_SIP_SRV_OR_HOSTPORT was used, but its value was
+  set to ${MY_IP_ADDR}:${AUTH_PROXY_SERVER_SIP_PORT}.  With the HA
+  changes, an actual SRV name is used in config.defs.  Due to XPB-530,
+  the forking proxy does not correctly route messages that use an SRV
+  name in the Route header, so this checkin changes the authproxy to
+  always use what it did before.
+
+XCF-941 Pick different setting names for line and phone dial plans.  THIS WILL remove all dial-plan line settings, but they didn't work right to begin with
+
+Add sample SOAP script from Perl
+
+XCF-903 conditionally display additional column ("Primary registrar") on a Registrations page
+It is only usable if you have HA configured: it displays the name of the registrar that initially handled registration.
+
+END

@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-05-09T12:31:09.970401Z
+K 7
+svn:log
+V 299
+Fixes found in beta release testing
+  Fix coredump in sipregistrar at shutdown
+  Restore the use of persistent Http connections in an XmlRpc server
+  Minor problem in check-cert when used with --verbose
+  Use persistent connections for xmlrpc requests
+  Plug registrar memory leaks in HA and XmlRpc
+
+END

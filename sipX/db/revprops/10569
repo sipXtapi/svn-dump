@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-31T15:15:17.197336Z
+K 7
+svn:log
+V 348
+Add easy-to-enable xxENABLE_TOPOLOGY_FLOWGRAPH_INTERFACE_FACTORY and xxDISABLE_DEFAULT_PHONE_MEDIA_INTERFACE_FACTORY to all configurations.  Just remove xx to enable new topology graph
+* Fix _CRT_SECURE_NO_WARNINGS defines to their proper name - _CRT_SECURE_NO_DEPRECATE
+* Merge latest changes of AdditionalIncludeDirectories to all configurations.
+END

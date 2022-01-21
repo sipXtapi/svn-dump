@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-06-01T15:18:20.227066Z
+K 7
+svn:log
+V 102
+do not render sequence selector (if no response/at the same time) in the first row of huntgroup table
+
+END

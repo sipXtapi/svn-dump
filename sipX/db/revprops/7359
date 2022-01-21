@@ -1,0 +1,122 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-08-28T16:43:16.457676Z
+K 7
+svn:log
+V 6635
+Merged revisions 7275-7333 via svnmerge from
+https://scm.sipfoundry.org/rep/sipX/main
+  | ................................
+  | r7275 | dworley | 2006-08-16 14:48:55 -0400 (Wed, 16 Aug 2006) | 2 lines
+  | Remove the last svn:externals properties for "config" subdirectories.
+  | ................................
+  | r7276 | dkrzemin | 2006-08-16 16:29:53 -0400 (Wed, 16 Aug 2006) | 4 lines
+  | XCF-1121 improvements in permissions UI
+  | - built-in permissions are now read only
+  | - you cannot select built-in permissions or delete them
+  | ................................
+  | r7278 | dkrzemin | 2006-08-16 17:21:39 -0400 (Wed, 16 Aug 2006) | 2 lines
+  | hibernate marked as exported library: otherwise Eclipse refuses to build sipXconfig-web
+  | ................................
+  | r7279 | dkrzemin | 2006-08-16 19:47:10 -0400 (Wed, 16 Aug 2006) | 3 lines
+  | XCF-1121 admin can now define the default value of the custom permission
+  | bug fix: only one custom permission was displayed on User page
+  | ................................
+  | r7286 | lazyboy | 2006-08-17 13:31:01 -0400 (Thu, 17 Aug 2006) | 1 line
+  | FIX BUILD: Remove acsite.m4 from list of files to distribute
+  | ................................
+  | r7290 | dworley | 2006-08-17 21:27:56 -0400 (Thu, 17 Aug 2006) | 2 lines
+  | Update references to Internet-Drafts.
+  | ................................
+  | r7295 | dkrzemin | 2006-08-18 14:23:18 -0400 (Fri, 18 Aug 2006) | 2 lines
+  | XCF-1032 ability to specify permission by name in the spring bean definition file
+  | ................................
+  | r7296 | dkrzemin | 2006-08-18 14:50:17 -0400 (Fri, 18 Aug 2006) | 2 lines
+  | XCF-1185 fix broken services page
+  | ................................
+  | r7297 | dkrzemin | 2006-08-18 19:28:26 -0400 (Fri, 18 Aug 2006) | 5 lines
+  | XCF-1181/XCF-1182 settings support for Park Orbits
+  | - park orbit object is now bean with groups to support default and per orbit settings
+  | - settings model file added
+  | - DB and UI changes to display orbit settings
+  | ................................
+  | r7299 | dkrzemin | 2006-08-19 08:25:23 -0400 (Sat, 19 Aug 2006) | 1 line
+  | checkstyle fix
+  | ................................
+  | r7300 | dkrzemin | 2006-08-19 09:15:19 -0400 (Sat, 19 Aug 2006) | 1 line
+  | XCF-1181/XCF-1182 generating updated orbits.xml file
+  | ................................
+  | r7303 | dkrzemin | 2006-08-20 11:48:12 -0400 (Sun, 20 Aug 2006) | 1 line
+  | XCF-1181/XCF-1182 editing park orbits defaults
+  | ................................
+  | r7304 | xmlscott | 2006-08-20 15:22:56 -0400 (Sun, 20 Aug 2006) | 9 lines
+  | [XCS-66] fix shared memory and semaphore leaks
+  |          The sipXcommserverLib and sipXregistry unit tests leaked
+  |          system shared memory and shared semaphore references.  This
+  |          sometimes caused repeated builds to either hang or fail.
+  |          A registrar restart could also cause a similar leak, but in a
+  |          running system this is rare enough not to be a problem unless
+  |          the registrar was deliberately restarted many times (not a
+  |          normal event).
+  | ................................
+  | r7305 | xmlscott | 2006-08-20 18:01:02 -0400 (Sun, 20 Aug 2006) | 1 line
+  | turn off chatty test debugging output
+  | ................................
+  | r7306 | xmlscott | 2006-08-20 19:00:09 -0400 (Sun, 20 Aug 2006) | 1 line
+  | use SipRegistrar to track database instance 
+  | ................................
+  | r7312 | dkrzemin | 2006-08-21 10:04:31 -0400 (Mon, 21 Aug 2006) | 2 lines
+  | XCF-1181/XCF-1182 add UI test for park orbits defaults
+  | ................................
+  | r7313 | dkrzemin | 2006-08-21 10:28:14 -0400 (Mon, 21 Aug 2006) | 1 line
+  | XCF-1181/XCF-1182 make Park time-out and Transfer key advanced parameters: displayed after admin clicks on Show Advanced link.
+  | ................................
+  | r7314 | xmlscott | 2006-08-21 10:52:40 -0400 (Mon, 21 Aug 2006) | 10 lines
+  | Documentation for caller-alias.xml database.
+  |   This is the database that allows From-header rewriting.
+  |   This checkin adds the schema for the persistent database file, and
+  |   an example, and checks any file in the sipdb against the schema
+  |   during the configtest.
+  |   Also clarified some usages in the fallbackrules example.
+  |   See http://track.sipfoundry.org/browse/XPR-180
+  | ................................
+  | r7316 | dkrzemin | 2006-08-21 15:06:42 -0400 (Mon, 21 Aug 2006) | 1 line
+  | XCF-1181/XCF-1182 updated schema for orbits.xml file.
+  | ................................
+  | r7317 | dkrzemin | 2006-08-21 15:07:43 -0400 (Mon, 21 Aug 2006) | 2 lines
+  | XCF1181/XCF-1182 typos in parameters description (thanks Lih!)
+  | ................................
+  | r7318 | dkrzemin | 2006-08-21 16:39:04 -0400 (Mon, 21 Aug 2006) | 3 lines
+  | Relax requirements for checking phone serial numbers. It has to have at least (was: eaxactly) 12 hex digits now.
+  | Ideally each phone plugin would provide its own validator.
+  | ................................
+  | r7320 | lazyboy | 2006-08-22 10:34:25 -0400 (Tue, 22 Aug 2006) | 1 line
+  | Merge in new build framework from releng-nextgen
+  | ................................
+  | r7322 | lazyboy | 2006-08-23 07:22:15 -0400 (Wed, 23 Aug 2006) | 1 line
+  | XCF-1174 Allow you to define daemons outside ProcessDefinitions and WatchDog xml files
+  | ................................
+  | r7323 | lazyboy | 2006-08-23 08:39:01 -0400 (Wed, 23 Aug 2006) | 1 line
+  | XPL-39 Increase timer unit test tolerance from 10 ms to 30 ms, (was 150 ms before it was changed to 10 ms)
+  | ................................
+  | r7324 | xmlscott | 2006-08-23 09:04:34 -0400 (Wed, 23 Aug 2006) | 1 line
+  | update docs to reflect changes made during implementation
+  | ................................
+  | r7330 | lazyboy | 2006-08-23 15:50:59 -0400 (Wed, 23 Aug 2006) | 1 line
+  | build issue, top make file was getting generated into config dir and cannot be shared between ./lib and ./ so create respective symlinks
+  | ................................
+  | r7331 | lazyboy | 2006-08-23 17:07:29 -0400 (Wed, 23 Aug 2006) | 1 line
+  | Update java version to build 08
+  | ................................
+  | r7332 | lazyboy | 2006-08-23 18:30:05 -0400 (Wed, 23 Aug 2006) | 1 line
+  | backdown to jdk build 07, 08 jpackage wrapper isn't available yet
+  | ................................
+  | r7333 | lazyboy | 2006-08-24 10:13:43 -0400 (Thu, 24 Aug 2006) | 1 line
+  | XCF-861 Create optional sipxconfig-ftp RPM that installs and configures vsftpd server w/default polycom soundpoint user and pwd
+
+END

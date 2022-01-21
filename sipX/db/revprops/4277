@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-10T19:46:48.049742Z
+K 7
+svn:log
+V 372
+sipxpbx.in:
+Remove redirections of stdout and stderr from the component process to
+/dev/null, so that any errors when starting them up can be seen.
+A few editorial changes to the messages in sipxpbx.
+WatchDog*.cpp:
+Remove the routine output to stdout.
+keepalive.sh.in:
+Get the PID file from keepalive put in the right place.
+Makefile.am:
+Do substitution for @SIPX_DBDIR@.
+
+END

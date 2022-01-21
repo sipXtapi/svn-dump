@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2009-09-06T18:23:48.536455Z
+K 7
+svn:log
+V 214
+UPNP cleanup.  Added UpnpBindingTask to SipUdpServer - it will try to do a upnp binding in the background, if there was a prior udp failure on the same network interface.  Added a registry abstraction:  OsRegistry.
+END

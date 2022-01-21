@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-12-06T19:57:49.700959Z
+K 7
+svn:log
+V 95
+Apply support for new Grandstream models, GX2000, HT286, HT386, HT486, HT488, HT496 -- Hannu S.
+END

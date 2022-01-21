@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-28T23:14:03.109100Z
+K 7
+svn:log
+V 122
+Update for new SdpLib test classes. - MSVC2003 win32 target.
+Small clean up of sipXsdpLibTest project settings have done.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-06-23T02:54:43.965459Z
+K 7
+svn:log
+V 105
+Eliminate ManageProcessesInput intermediate arg and use a multipart SOAP message instead, for simplicity
+
+END

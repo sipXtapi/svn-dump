@@ -1,0 +1,217 @@
+id: 3.22.r501/0
+type: dir
+pred: 3.0.r499/12569
+count: 403
+text: 499 11771 785 785 8398a67ef2a7ec32ae96dc08eba4e6c5
+props: 487 0 667 0 f378ef1cc77e98b1ad0da3d8ae67d388
+cpath: /old/sipXportLib/tags/sipxtapi-export-C
+copyfrom: 500 /old/sipXportLib/main
+
+PLAIN
+K 5
+2.5.1
+V 17
+dir 3.e.r115/2794
+K 5
+2.5.2
+V 17
+dir 3.h.r169/1469
+K 12
+2.6-export-A
+V 16
+dir 3.t.r290/474
+K 12
+2.6-export-B
+V 16
+dir 3.u.r294/474
+K 12
+2.6-export-C
+V 16
+dir 3.v.r302/474
+K 12
+2.6-export-D
+V 16
+dir 3.w.r303/474
+K 12
+2.6-export-E
+V 16
+dir 3.x.r305/474
+K 12
+2.6-export-F
+V 16
+dir 3.y.r307/474
+K 12
+2.6-export-G
+V 15
+dir 3.10.r311/0
+K 12
+2.6-export-H
+V 15
+dir 3.11.r312/0
+K 12
+2.6-export-J
+V 15
+dir 3.12.r315/0
+K 12
+2.6-export-K
+V 15
+dir 3.13.r318/0
+K 12
+2.6-export-L
+V 15
+dir 3.14.r334/0
+K 12
+2.6-export-M
+V 15
+dir 3.15.r335/0
+K 12
+2.6-export-N
+V 15
+dir 3.16.r336/0
+K 12
+2.6-export-O
+V 15
+dir 3.19.r365/0
+K 12
+2.6-export-P
+V 15
+dir 3.1a.r366/0
+K 12
+2.6-export-Q
+V 15
+dir 3.1b.r368/0
+K 12
+2.6-export-R
+V 15
+dir 3.1c.r369/0
+K 12
+2.6-export-S
+V 15
+dir 3.1l.r376/0
+K 12
+2.6-export-T
+V 15
+dir 3.1m.r386/0
+K 12
+2.6-export-U
+V 15
+dir 3.1o.r392/0
+K 5
+2.6.1
+V 16
+dir 3.z.r309/474
+K 5
+2.6.2
+V 18
+dir 3.1p.r399/1682
+K 12
+2.8-export-A
+V 15
+dir 3.1r.r443/0
+K 12
+2.8-export-B
+V 15
+dir 3.1s.r459/0
+K 12
+2.8-export-C
+V 15
+dir 3.1w.r484/0
+K 12
+2.8-export-D
+V 15
+dir 3.1z.r496/0
+K 12
+2.8-export-E
+V 15
+dir 3.20.r498/0
+K 13
+main-export-A
+V 14
+dir 3.p.r276/0
+K 13
+main-export-B
+V 16
+dir 3.q.r282/357
+K 13
+main-export-C
+V 16
+dir 3.r.r288/357
+K 17
+sipxtapi-export-A
+V 15
+dir 3.1u.r469/0
+K 17
+sipxtapi-export-B
+V 18
+dir 3.1y.r500/1096
+K 17
+sipxtapi-export-C
+V 15
+dir 3.22.r501/0
+END
+ENDREP
+id: an.0.r501/1637
+type: dir
+pred: an.0.r500/2705
+count: 45
+text: 501 251 1373 1373 3ae482a6952481cca73e0df9b52bb82d
+cpath: /old/sipXportLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir ar.0.r495/3754
+K 4
+main
+V 18
+dir 3.0.r499/12569
+K 4
+tags
+V 18
+dir an.0.r501/1637
+END
+ENDREP
+id: 2.0.r501/1918
+type: dir
+pred: 2.0.r500/2987
+count: 499
+text: 501 1798 107 107 7e4c19b872c20d24ea0ebf9f9ade9fab
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r501/1918
+END
+ENDREP
+id: 1.0.r501/2129
+type: dir
+pred: 1.0.r500/3199
+count: 500
+text: 501 2072 44 44 b69b7e8fd7747d74f832e9ca68af04c5
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r501/2129
+END
+ENDREP
+id: 0.0.r501/2317
+type: dir
+pred: 0.0.r500/3388
+count: 501
+text: 501 2269 35 35 7d17df9db05cb0309b4b28754fae056c
+cpath: /
+copyroot: 0 /
+
+3._0.t500-1 add false false /old/sipXportLib/tags/sipxtapi-export-C
+500 /old/sipXportLib/main
+
+2317 2454

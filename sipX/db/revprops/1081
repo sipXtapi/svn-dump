@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2004-07-06T21:58:52.206445Z
+K 7
+svn:log
+V 223
+Fixed a few printf formats: I had replaced "0x%x" with "0x%p" in the
+previous round of cleaning up warning messages.  It turns out that
+the correct substitution should have been "%p" which implies a "0x"
+at the beginning.
+
+
+END

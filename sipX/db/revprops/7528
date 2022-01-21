@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-20T17:25:22.858712Z
+K 7
+svn:log
+V 66
+XCF-1258 caller alias DB patch needs to be postgres 7.4 compliant
+
+END

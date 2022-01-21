@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-11-08T21:02:07.347967Z
+K 7
+svn:log
+V 224
+- enabled unit testing on authentication and ejb
+- added getAuthenticationReal to Organization
+- fixed realm vs. DNS domain across the code
+- moved some authentication related functionality to Helper classes and added tests
+
+END

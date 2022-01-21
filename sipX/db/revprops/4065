@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-06-21T21:02:00.636169Z
+K 7
+svn:log
+V 209
+XCF-431 split applicationContext-sipxconfig
+phone models declaration is now in org/sipfoundry/sipxconfig/phone/phone.beans.xml,
+gateway model declaration in org/sipfoundry/sipxconfig/gateway/gateway.beans.xml
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-23T20:38:14.099083Z
+K 7
+svn:log
+V 194
+XCF-753 revert the changes to tables ids - looks like table ids are correctly preserved by Tapestry 
+we had unnecessary code in our Table component that was replacing Table id with component id
+
+END

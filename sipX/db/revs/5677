@@ -1,0 +1,91 @@
+id: 7q4.2cv.r5677/0
+type: dir
+pred: 7q4.0.r5676/19106
+count: 744
+text: 5676 18297 796 796 05ae69e225a8cb637c81fff644a6b9ed
+props: 5622 6467 2355 0 8d758fe65c1f2b79329e154e4d8f8c57
+cpath: /branches/user_dworley_localize
+copyfrom: 5676 /main
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 21
+dir 7pv.0.r4813/26770
+K 3
+3.0
+V 23
+dir 7q4.24b.r5674/11679
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 7
+restful
+V 21
+dir 7q0.0.r4813/15683
+K 17
+sipXconfig-lucene
+V 23
+dir 2hf.2a8.r5572/12367
+K 23
+sipXconfig-multi-domain
+V 23
+dir 2hf.2aa.r5519/35767
+K 21
+user_dworley_localize
+V 19
+dir 7q4.2cv.r5677/0
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r5677/757
+type: dir
+pred: 7pt.0.r5674/12378
+count: 120
+text: 5677 241 503 503 48c64d0c815ef9909148776e39d4ae8c
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 7pt.0.r5677/757
+K 4
+main
+V 21
+dir 7q4.0.r5676/19106
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r5677/1038
+type: dir
+pred: 0.0.r5676/19445
+count: 5677
+text: 5677 910 115 115 2ae7d38d0bea106ec8be5b3cbf7776db
+cpath: /
+copyroot: 0 /
+
+7q4._0.t5676-1 add false false /branches/user_dworley_localize
+5676 /main
+
+1038 1181

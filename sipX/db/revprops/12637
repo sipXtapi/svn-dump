@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2018-01-19T04:00:45.399733Z
+K 7
+svn:log
+V 42
+Added g729 targets to contrib/Makefile.am
+
+END

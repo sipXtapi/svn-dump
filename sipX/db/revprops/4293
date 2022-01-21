@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-20T22:11:18.398427Z
+K 7
+svn:log
+V 98
+http://track.sipfoundry.org/browse/XCS-27
+Update references to sipXcommserverLib/doc/INSTALL.ssl.
+
+END

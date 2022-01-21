@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-05-02T20:23:13.291412Z
+K 7
+svn:log
+V 87
+Linux sipXphone tweaks: Break relative path assumptions on startup (still more to do)
+
+
+END

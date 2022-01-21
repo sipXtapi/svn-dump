@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-01-11T16:52:24.764655Z
+K 7
+svn:log
+V 67
+FIX BUILD: stub out ant targets that do not apply to meta directory
+END

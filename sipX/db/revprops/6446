@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-03-28T19:01:09.022418Z
+K 7
+svn:log
+V 80
+XCF-966 Fix logout stale link issue and add link to voicemail ui from login page
+END

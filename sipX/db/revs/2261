@@ -1,0 +1,238 @@
+PLAIN
+K 10
+svn:ignore
+V 59
+Doxyfile
+Makefile
+Makefile.in
+html
+sipxproxy
+sipxproxy.tag
+
+END
+ENDREP
+id: 1xb.0.r2261/98
+type: dir
+pred: 1xb.0.r2247/869
+count: 14
+text: 2247 641 215 215 08cf664954c211623ac41659eff77440
+props: 2261 0 85 0 278967851fe8a0470c2901fc160cff52
+cpath: /old/sipXproxy/main/doc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1vu.0.r2221/14695
+K 9
+ChangeLog
+V 20
+file 1vv.0.r2238/425
+K 7
+INSTALL
+V 22
+file 1vw.0.r2221/19180
+K 7
+LICENSE
+V 19
+file 1vx.0.r2221/82
+K 11
+Makefile.am
+V 21
+file 1vy.0.r2249/2965
+K 4
+NEWS
+V 22
+file 1vz.0.r2221/22868
+K 6
+README
+V 22
+file 1w0.0.r2221/14388
+K 4
+TODO
+V 22
+file 1w1.0.r2221/18875
+K 9
+acsite.m4
+V 21
+file 1w2.0.r2221/1636
+K 3
+bin
+V 19
+dir 1w3.0.r2259/957
+K 12
+configure.ac
+V 20
+file 1w9.0.r2255/633
+K 3
+doc
+V 18
+dir 1xb.0.r2261/98
+K 3
+etc
+V 19
+dir 1wa.0.r2229/834
+K 4
+meta
+V 20
+dir 1xi.0.r2249/2565
+K 17
+sipXauthproxy.dsp
+V 20
+file 1x5.0.r2254/971
+K 20
+sipXforkingProxy.dsp
+V 20
+file 1x6.0.r2254/731
+K 17
+sipxproxy.spec.in
+V 20
+file 1x9.0.r2260/158
+K 3
+src
+V 20
+dir 1wn.0.r2248/1734
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 70
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.8/config
+
+K 10
+svn:ignore
+V 193
+*.tmp
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxproxy-*.rpm
+sipxproxy-*.tar.gz
+sipxproxy.spec
+stamp-h1
+
+K 17
+svnmerge-2.6-head
+V 53
+https://scm.sipfoundry.org/rep/sipXproxy/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 24
+1-95,101,115,118,132,138
+K 17
+svnmerge-2.8-head
+V 53
+https://scm.sipfoundry.org/rep/sipXproxy/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 17
+1-154,157,161-162
+K 18
+svnmerge-main-head
+V 45
+https://scm.sipfoundry.org/rep/sipXproxy/main
+K 18
+svnmerge-main-revs
+V 5
+1-153
+END
+ENDREP
+id: 1vt.0.r2261/1752
+type: dir
+pred: 1vt.0.r2260/1824
+count: 107
+text: 2261 313 726 726 b8dc0c3b618165a53749108d9572e8bf
+props: 2261 1052 687 0 bdd3319802fa2c35f06bd289b06c6fb4
+cpath: /old/sipXproxy/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1x8.0.r2258/2344
+K 4
+main
+V 20
+dir 1vt.0.r2261/1752
+K 4
+tags
+V 20
+dir 1x7.0.r2256/2008
+END
+ENDREP
+id: 1vs.0.r2261/2097
+type: dir
+pred: 1vs.0.r2260/2169
+count: 165
+text: 2261 1971 113 113 df426b0b27fb96a76c992e324828ab10
+cpath: /old/sipXproxy
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2261/2097
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2261/2530
+type: dir
+pred: 1.0.r2260/2602
+count: 2260
+text: 2261 2256 261 261 92a7d5e2631302e2d380b784b2bc99bb
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2261/2530
+END
+ENDREP
+id: 0.0.r2261/2725
+type: dir
+pred: 0.0.r2260/2797
+count: 2261
+text: 2261 2676 36 36 5eb20782fc6253aefce814ffdf8b1448
+cpath: /
+copyroot: 0 /
+
+1vt.0.t2260-1 modify false true /old/sipXproxy/main
+
+1xb.0.t2260-1 modify false true /old/sipXproxy/main/doc
+
+
+2725 2866

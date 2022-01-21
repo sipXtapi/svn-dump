@@ -1,0 +1,497 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-12T16:23:18.792542Z
+K 7
+svn:log
+V 26761
+Merged revisions 169-209,211-219,221 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXregistry/branches/user_dworley_redirect
+    ------------------------------------------------------------------------
+    r172 | dworley | 2005-04-06 18:31:58 -0400 (Wed, 06 Apr 2005) | 3 lines
+    Changed paths:
+       A /branches/user_dworley_1 (from /main:168)
+       M /branches/user_dworley_1/src/Makefile.am
+       M /branches/user_dworley_1/src/SipRedirectServer.cpp
+       M /branches/user_dworley_1/src/SipRedirectServer.h
+       M /branches/user_dworley_1/src/SipRegistrar.cpp
+       M /branches/user_dworley_1/src/main.cpp
+    
+    Start working on modularizing redirections.
+    http://track.sipfoundry.org/browse/XRR-14
+    
+    ------------------------------------------------------------------------
+    r173 | dworley | 2005-04-07 14:22:22 -0400 (Thu, 07 Apr 2005) | 6 lines
+    Changed paths:
+       D /branches/user_dworley_1
+       A /branches/user_dworley_redirect (from /branches/user_dworley_1:172)
+    
+    Give this branch a more mnemonic name.
+    Since the branch is for reworking the redirection feature of
+    sipXregistry, especially in order to support call pick-up and related
+    features, I'm calling it "redirect".
+    http://track.sipfoundry.org/browse/XPB-262
+    
+    ------------------------------------------------------------------------
+    r174 | dworley | 2005-04-07 14:24:49 -0400 (Thu, 07 Apr 2005) | 3 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/src/Makefile.am
+       A /branches/user_dworley_redirect/src/SipRedirectRegDB.cpp
+       A /branches/user_dworley_redirect/src/SipRedirectRegDB.h
+       A /branches/user_dworley_redirect/src/SipRedirector.cpp
+       A /branches/user_dworley_redirect/src/SipRedirector.h
+    
+    First installment of modularizing the redirection operations.
+    http://track.sipfoundry.org/browse/XRR-14
+    
+    ------------------------------------------------------------------------
+    r175 | dworley | 2005-04-07 15:59:11 -0400 (Thu, 07 Apr 2005) | 4 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/src/Makefile.am
+       D /branches/user_dworley_redirect/src/SipRedirectRegDB.cpp
+       D /branches/user_dworley_redirect/src/SipRedirectRegDB.h
+       M /branches/user_dworley_redirect/src/SipRedirectServer.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectServer.h
+       M /branches/user_dworley_redirect/src/SipRedirector.cpp
+       M /branches/user_dworley_redirect/src/SipRedirector.h
+       A /branches/user_dworley_redirect/src/SipRedirectorMapping.cpp
+       A /branches/user_dworley_redirect/src/SipRedirectorMapping.h
+       A /branches/user_dworley_redirect/src/SipRedirectorRegDB.cpp (from /branches/user_dworley_redirect/src/SipRedirectRegDB.cpp:174)
+       A /branches/user_dworley_redirect/src/SipRedirectorRegDB.h (from /branches/user_dworley_redirect/src/SipRedirectRegDB.h:174)
+    
+    First cut at SipRedirectorMapping to process mappingrules.xml.
+    Also, change name of SipRedirectRegDB to SipRedirectorRegDB to make
+    its relationship to SipRedirector clear.
+    
+    ------------------------------------------------------------------------
+    r177 | dworley | 2005-04-07 20:59:31 -0400 (Thu, 07 Apr 2005) | 3 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/src/SipRedirectServer.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectServer.h
+       M /branches/user_dworley_redirect/src/SipRedirector.h
+       M /branches/user_dworley_redirect/src/SipRedirectorMapping.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorMapping.h
+       M /branches/user_dworley_redirect/src/SipRedirectorRegDB.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorRegDB.h
+       M /branches/user_dworley_redirect/src/SipRegistrar.cpp
+    
+    Organize mapping-rules and fallback-rules into two instances of one class.
+    (This check-in compiles, but might not run.)
+    
+    ------------------------------------------------------------------------
+    r178 | dworley | 2005-04-08 09:32:19 -0400 (Fri, 08 Apr 2005) | 4 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/src/Makefile.am
+       M /branches/user_dworley_redirect/src/SipRedirectServer.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectServer.h
+       M /branches/user_dworley_redirect/src/SipRedirector.h
+       A /branches/user_dworley_redirect/src/SipRedirectorAliasDB.cpp
+       A /branches/user_dworley_redirect/src/SipRedirectorAliasDB.h
+       M /branches/user_dworley_redirect/src/SipRedirectorMapping.h
+       M /branches/user_dworley_redirect/src/SipRedirectorRegDB.h
+    
+    Add class for Alias redirection.
+    Systematize comments on SipRedirector classes.
+    http://track.sipfoundry.org/browse/XRR-14
+    
+    ------------------------------------------------------------------------
+    r179 | dworley | 2005-04-08 11:25:42 -0400 (Fri, 08 Apr 2005) | 3 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/src/SipRedirectServer.cpp
+       M /branches/user_dworley_redirect/src/SipRedirector.h
+       M /branches/user_dworley_redirect/src/SipRedirectorAliasDB.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorAliasDB.h
+       M /branches/user_dworley_redirect/src/SipRedirectorMapping.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorMapping.h
+       M /branches/user_dworley_redirect/src/SipRedirectorRegDB.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorRegDB.h
+    
+    Extract the request URI in SipRedirectServer and pass it to all of the
+    redirectors, rather than having each redirector extract it separately.
+    
+    ------------------------------------------------------------------------
+    r186 | dworley | 2005-04-22 17:57:55 -0400 (Fri, 22 Apr 2005) | 8 lines
+    Changed paths:
+       A /branches/user_dworley_redirect/doc/developer
+       A /branches/user_dworley_redirect/doc/developer/getargs.pl
+       A /branches/user_dworley_redirect/doc/developer/redirector-test
+       A /branches/user_dworley_redirect/doc/developer/sipsend.pl
+       M /branches/user_dworley_redirect/src/SipRedirectServer.cpp
+       M /branches/user_dworley_redirect/src/SipRedirector.cpp
+       M /branches/user_dworley_redirect/src/SipRedirector.h
+       M /branches/user_dworley_redirect/src/SipRedirectorAliasDB.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorAliasDB.h
+       M /branches/user_dworley_redirect/src/SipRedirectorMapping.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorMapping.h
+       M /branches/user_dworley_redirect/src/SipRedirectorRegDB.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorRegDB.h
+       M /branches/user_dworley_redirect/src/main.cpp
+    
+    First working check-in of new redirector structure.
+    Started shaping up the redirectors to be truly modular.
+    Combine mapping rules and fallback rules redirectors as two objects of
+    one class.
+    Create addContact() to share code between all redirectors, and
+    possibly to later handle the contacts as a list.
+    Create doc/developer directory to hold the testing programs.
+    
+    ------------------------------------------------------------------------
+    r187 | dworley | 2005-04-22 23:30:53 -0400 (Fri, 22 Apr 2005) | 2 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/doc/developer/redirector-test
+    
+    Read the config.log file to get the SIPX_* variable values.
+    
+    ------------------------------------------------------------------------
+    r188 | dworley | 2005-04-22 23:37:48 -0400 (Fri, 22 Apr 2005) | 3 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/doc/developer/redirector-test
+    
+    Clean up how 'wc' and 'tail' are used.
+    Add some comments.
+    
+    ------------------------------------------------------------------------
+    r189 | dworley | 2005-04-24 01:05:03 -0400 (Sun, 24 Apr 2005) | 12 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/doc/developer/redirector-test
+       M /branches/user_dworley_redirect/src/Makefile.am
+       D /branches/user_dworley_redirect/src/SipHuntGroupFilter.cpp
+       D /branches/user_dworley_redirect/src/SipHuntGroupFilter.h
+       M /branches/user_dworley_redirect/src/SipRedirectServer.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectServer.h
+       M /branches/user_dworley_redirect/src/SipRedirector.h
+       M /branches/user_dworley_redirect/src/SipRedirectorAliasDB.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorAliasDB.h
+       A /branches/user_dworley_redirect/src/SipRedirectorHunt.cpp (from /branches/user_dworley_redirect/src/SipHuntGroupFilter.cpp:185)
+       A /branches/user_dworley_redirect/src/SipRedirectorHunt.h (from /branches/user_dworley_redirect/src/SipHuntGroupFilter.h:185)
+       M /branches/user_dworley_redirect/src/SipRedirectorMapping.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorMapping.h
+       M /branches/user_dworley_redirect/src/SipRedirectorRegDB.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorRegDB.h
+    
+    Bring the hunt group reordering into the modular scheme by changing
+    SipHuntGroupFilter into SipRedirectorHunt.
+    Have SipRedirectorHunt return immediately on SUBSCRIBEs.
+    Add the 'method' argument to the redirect modules so they can change
+    their behavior based on the request method.
+    Fix the "fallback rule" SipRedirectorMapping so that it operates only
+    when there are no contacts yet.  (Add the "fallback" parameter to the
+    parameters hash bag.)
+    Add comments to redirector-test so people will know how to run it.
+    Adjust redirector-test so it can test multiple methods rather than
+    just INVITE.
+    
+    ------------------------------------------------------------------------
+    r190 | dworley | 2005-04-24 21:43:52 -0400 (Sun, 24 Apr 2005) | 5 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/doc/developer/redirector-test
+       M /branches/user_dworley_redirect/src/Makefile.am
+       M /branches/user_dworley_redirect/src/SipRedirectServer.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectServer.h
+       M /branches/user_dworley_redirect/src/SipRedirectorHunt.cpp
+       A /branches/user_dworley_redirect/src/SipRedirectorSubscribe.cpp
+       A /branches/user_dworley_redirect/src/SipRedirectorSubscribe.h
+    
+    Add SipRedirectorSubscribe to strip q field parameters off contacts if
+    the method is SUBSCRIBE.  This makes SUBSCRIBEs always fork
+    parallelly, which results in better status reporting and call
+    pick-up/retrieval.
+    
+    ------------------------------------------------------------------------
+    r191 | dworley | 2005-04-25 18:28:56 -0400 (Mon, 25 Apr 2005) | 2 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/doc/developer/redirector-test
+       M /branches/user_dworley_redirect/src/SipRedirectServer.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectServer.h
+    
+    Make a list of the redirectors.
+    
+    ------------------------------------------------------------------------
+    r192 | dworley | 2005-04-28 16:51:54 -0400 (Thu, 28 Apr 2005) | 2 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/doc/developer/redirector-test
+    
+    First cut at global call pick-up test.
+    
+    ------------------------------------------------------------------------
+    r193 | dworley | 2005-04-28 16:57:30 -0400 (Thu, 28 Apr 2005) | 2 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/src/Makefile.am
+       M /branches/user_dworley_redirect/src/SipRedirectServer.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectServer.h
+       M /branches/user_dworley_redirect/src/SipRedirector.h
+       M /branches/user_dworley_redirect/src/SipRedirectorAliasDB.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorAliasDB.h
+       M /branches/user_dworley_redirect/src/SipRedirectorHunt.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorHunt.h
+       M /branches/user_dworley_redirect/src/SipRedirectorMapping.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorMapping.h
+       M /branches/user_dworley_redirect/src/SipRedirectorRegDB.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorRegDB.h
+       M /branches/user_dworley_redirect/src/SipRedirectorSubscribe.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorSubscribe.h
+       M /branches/user_dworley_redirect/src/SipRegistrar.cpp
+       M /branches/user_dworley_redirect/src/SipRegistrar.h
+    
+    First implementation of global call pick-up processor.
+    
+    ------------------------------------------------------------------------
+    r194 | dworley | 2005-04-28 16:58:13 -0400 (Thu, 28 Apr 2005) | 2 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/doc/Redirection.txt
+    
+    Add description of SUBSCRIBE and Global Call Pick-Up redirectors.
+    
+    ------------------------------------------------------------------------
+    r195 | dworley | 2005-04-29 09:48:30 -0400 (Fri, 29 Apr 2005) | 3 lines
+    Changed paths:
+       A /branches/user_dworley_redirect/src/SipRedirectorGlobalPickUp.cpp
+       A /branches/user_dworley_redirect/src/SipRedirectorGlobalPickUp.h
+    
+    Forgot to check in the new files when I checked in the changes for
+    global pick-up.
+    
+    ------------------------------------------------------------------------
+    r196 | dworley | 2005-04-29 17:22:18 -0400 (Fri, 29 Apr 2005) | 4 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/doc/Redirection.txt
+       M /branches/user_dworley_redirect/src/Makefile.am
+       A /branches/user_dworley_redirect/src/RedirectResumeMsg.cpp
+       A /branches/user_dworley_redirect/src/RedirectResumeMsg.h
+       A /branches/user_dworley_redirect/src/RedirectSuspend.cpp
+       A /branches/user_dworley_redirect/src/RedirectSuspend.h
+       M /branches/user_dworley_redirect/src/SipRedirectServer.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectServer.h
+       M /branches/user_dworley_redirect/src/SipRedirector.cpp
+       M /branches/user_dworley_redirect/src/SipRedirector.h
+       M /branches/user_dworley_redirect/src/SipRedirectorAliasDB.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorAliasDB.h
+       M /branches/user_dworley_redirect/src/SipRedirectorGlobalPickUp.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorGlobalPickUp.h
+       M /branches/user_dworley_redirect/src/SipRedirectorHunt.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorHunt.h
+       M /branches/user_dworley_redirect/src/SipRedirectorMapping.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorMapping.h
+       M /branches/user_dworley_redirect/src/SipRedirectorRegDB.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorRegDB.h
+       M /branches/user_dworley_redirect/src/SipRedirectorSubscribe.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorSubscribe.h
+    
+    First cut at implementing the redirection suspend mechanism.
+    The current tests pass with the code in this state, though some
+    crucial features are still missing.
+    
+    ------------------------------------------------------------------------
+    r197 | dworley | 2005-05-01 16:54:24 -0400 (Sun, 01 May 2005) | 21 lines
+    Changed paths:
+       A /branches/user_dworley_redirect/doc/developer/redirector-test-suspend
+       M /branches/user_dworley_redirect/src/Makefile.am
+       M /branches/user_dworley_redirect/src/RedirectResumeMsg.cpp
+       M /branches/user_dworley_redirect/src/RedirectResumeMsg.h
+       M /branches/user_dworley_redirect/src/RedirectSuspend.cpp
+       M /branches/user_dworley_redirect/src/RedirectSuspend.h
+       M /branches/user_dworley_redirect/src/SipRedirectServer.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectServer.h
+       M /branches/user_dworley_redirect/src/SipRedirector.cpp
+       M /branches/user_dworley_redirect/src/SipRedirector.h
+       M /branches/user_dworley_redirect/src/SipRedirectorAliasDB.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorAliasDB.h
+       M /branches/user_dworley_redirect/src/SipRedirectorGlobalPickUp.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorGlobalPickUp.h
+       M /branches/user_dworley_redirect/src/SipRedirectorHunt.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorHunt.h
+       M /branches/user_dworley_redirect/src/SipRedirectorMapping.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorMapping.h
+       M /branches/user_dworley_redirect/src/SipRedirectorRegDB.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorRegDB.h
+       M /branches/user_dworley_redirect/src/SipRedirectorSubscribe.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorSubscribe.h
+       A /branches/user_dworley_redirect/src/SipRedirectorTest.cpp
+       A /branches/user_dworley_redirect/src/SipRedirectorTest.h
+    
+    Get suspend/resume mechanism working, especially implement the
+    resumeRequest method.
+    Implement the "private storage managed by SipRedirectServer" scheme.
+    Construct SipRedirectorTest, the testing redirector.
+    Create redirector-test-suspend (out of redirector-test) to exercise
+    suspend/resume.
+    Correct that I was using two names for the "redirection resume"
+    message type, RESUME_MSG and REDIRECT_RESUME.
+    Implement createCopy for RedirectResumeMsg.
+    Move a few of the definitions around to avoid circular dependencies
+    between the .h files.
+    Create the SipRedirectServer::getInstance method so asynchronous code
+    can find the RedirectServer to invoke its methods.  (Maybe we should
+    replace this with passing in a pointer to the calling RedirectServer.)
+    Pass the redirector number to the redirector when calling various of
+    its methods.
+    Delete obsolete declarations of registrationDBLookUp, aliasDBLookUp,
+    and urlMappingDBLookUp.
+    Begin documenting the possibility of a redirector signaling during its
+    initialization that it will do no work and can be ignored.
+    
+    ------------------------------------------------------------------------
+    r198 | dworley | 2005-05-02 12:05:13 -0400 (Mon, 02 May 2005) | 3 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/src/SipRedirectServer.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectServer.h
+       M /branches/user_dworley_redirect/src/SipRedirector.cpp
+       M /branches/user_dworley_redirect/src/SipRedirector.h
+    
+    First version of methods that allow redirectors to access private
+    storage managed by SipRedirectServer.
+    
+    ------------------------------------------------------------------------
+    r200 | dworley | 2005-05-02 14:21:19 -0400 (Mon, 02 May 2005) | 13 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/doc/developer/redirector-test-suspend
+       M /branches/user_dworley_redirect/src/SipRedirectServer.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectServer.h
+       M /branches/user_dworley_redirect/src/SipRedirector.cpp
+       M /branches/user_dworley_redirect/src/SipRedirector.h
+       M /branches/user_dworley_redirect/src/SipRedirectorGlobalPickUp.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorTest.cpp
+    
+    Modularize the code that cancels a suspended request.
+    Add code to cancel all suspended requests in the SipRedirectServer
+    destructor.
+    Give a 500 response when one of the redirectors returns LOOKUP_ERROR.
+    Write service routine to remove all Contact: headers from a response.
+    Move the increment of mNextSeqNo to a more logical place.
+    Clean up SipRedirectorGlobalPickUp so that if no global pick-up prefix
+    is configured, it does no processing.
+    Enable SipRedirectorTest to generate LOOKUP_ERROR responses for the
+    parameter code "*".
+    Clean up the comments for SipRedirectServerPrivateStorageIterator.
+    Add cases to redirector-test-suspend to test handling of LOOKUP_ERROR.
+    
+    ------------------------------------------------------------------------
+    r205 | dworley | 2005-05-03 14:49:52 -0400 (Tue, 03 May 2005) | 4 lines
+    Changed paths:
+       A /branches/user_dworley_redirect/doc/developer/redirector-test-pick (from /branches/user_dworley_redirect/doc/developer/redirector-test-suspend:204)
+       M /branches/user_dworley_redirect/src/Makefile.am
+       M /branches/user_dworley_redirect/src/SipRedirectServer.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectServer.h
+       M /branches/user_dworley_redirect/src/SipRedirector.cpp
+       M /branches/user_dworley_redirect/src/SipRedirector.h
+       M /branches/user_dworley_redirect/src/SipRedirectorAliasDB.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorAliasDB.h
+       M /branches/user_dworley_redirect/src/SipRedirectorGlobalPickUp.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorGlobalPickUp.h
+       M /branches/user_dworley_redirect/src/SipRedirectorHunt.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorHunt.h
+       M /branches/user_dworley_redirect/src/SipRedirectorMapping.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorMapping.h
+       A /branches/user_dworley_redirect/src/SipRedirectorPickUp.cpp
+       A /branches/user_dworley_redirect/src/SipRedirectorPickUp.h
+       M /branches/user_dworley_redirect/src/SipRedirectorRegDB.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorRegDB.h
+       M /branches/user_dworley_redirect/src/SipRedirectorSubscribe.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorSubscribe.h
+       M /branches/user_dworley_redirect/src/SipRedirectorTest.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorTest.h
+       M /branches/user_dworley_redirect/src/SipRegistrar.h
+    
+    First increment of work on directed call pick-up.
+    Create the redirector.  Set up most of its logic, and it sends
+    SUBSCRIBEs, but it does not receive or process NOTIFYs.
+    
+    ------------------------------------------------------------------------
+    r208 | dworley | 2005-05-06 11:01:12 -0400 (Fri, 06 May 2005) | 2 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/src/SipRegistrar.cpp
+    
+    Correct typo in comment.
+    
+    ------------------------------------------------------------------------
+    r209 | dworley | 2005-05-06 12:07:40 -0400 (Fri, 06 May 2005) | 2 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/doc/developer/redirector-test-pick
+       M /branches/user_dworley_redirect/src/SipRedirectServer.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectServer.h
+       M /branches/user_dworley_redirect/src/SipRedirector.h
+       M /branches/user_dworley_redirect/src/SipRedirectorPickUp.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorPickUp.h
+    
+    First version of directed call pick-up that works.
+    
+    ------------------------------------------------------------------------
+    r212 | dworley | 2005-05-08 11:16:23 -0400 (Sun, 08 May 2005) | 6 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/etc/registrar-config.in
+       M /branches/user_dworley_redirect/src/SipRedirectorGlobalPickUp.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorPickUp.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorPickUp.h
+    
+    Revise the test for recognizing directed call pick-up requests so that
+    we don't recognize the dir. pick-up feature code followed by "*" or
+    "#".
+    Change the name of the configuration items.
+    Insert default values into etc/registrar-config.in.
+    
+    ------------------------------------------------------------------------
+    r213 | dworley | 2005-05-08 12:16:29 -0400 (Sun, 08 May 2005) | 4 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/src/SipRedirectorPickUp.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorPickUp.h
+    
+    Log the delay between sending SUBSCRIBE and receiving NOTIFY.
+    This will allow us to properly tune the delay we allow between getting
+    a pick-up request and deciding which dialog to pick up.
+    
+    ------------------------------------------------------------------------
+    r214 | dworley | 2005-05-08 12:51:25 -0400 (Sun, 08 May 2005) | 3 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/src/SipRedirectServer.cpp
+    
+    Handle CANCEL messages correctly, by finding the corresponding
+    suspended request and terminating processing of it.
+    
+    ------------------------------------------------------------------------
+    r217 | dworley | 2005-05-10 13:48:20 -0400 (Tue, 10 May 2005) | 6 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/src/Makefile.am
+       M /branches/user_dworley_redirect/src/SipRedirectServer.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectServer.h
+       D /branches/user_dworley_redirect/src/SipRedirectorGlobalPickUp.cpp
+       D /branches/user_dworley_redirect/src/SipRedirectorGlobalPickUp.h
+       M /branches/user_dworley_redirect/src/SipRedirectorPickUp.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorPickUp.h
+    
+    Fold the global call pick-up redirector into the directed call pick-up
+    redirector, as well as implementing the "*allcredentials" redirection
+    needed by global call pick-up.
+    Rename the config items yet again.
+    First try at processing CANCELs of suspended requests.
+    
+    ------------------------------------------------------------------------
+    r218 | dworley | 2005-05-11 16:46:35 -0400 (Wed, 11 May 2005) | 7 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/etc/registrar-config.in
+       M /branches/user_dworley_redirect/src/SipRedirectServer.cpp
+       M /branches/user_dworley_redirect/src/SipRedirector.cpp
+       M /branches/user_dworley_redirect/src/SipRedirector.h
+       M /branches/user_dworley_redirect/src/SipRedirectorPickUp.cpp
+       M /branches/user_dworley_redirect/src/SipRedirectorPickUp.h
+       M /branches/user_dworley_redirect/src/SipRedirectorTest.cpp
+    
+    Add call retrieval processing.
+    Properly handle CANCELs of requests that have been suspended.
+    Split the LOOKUP_ERROR return code into LOOKUP_ERROR_REQUEST (to
+    report requests that are invalid) and LOOKUP_ERROR_SERVER (to report
+    internal errors).
+    Add default call retrieve feature code *4.
+    
+    ------------------------------------------------------------------------
+    r219 | dworley | 2005-05-11 18:02:39 -0400 (Wed, 11 May 2005) | 2 lines
+    Changed paths:
+       M /branches/user_dworley_redirect/src/SipRedirectorPickUp.cpp
+    
+    Use OsProcess::getCurrentPID instead of OsTask::getCurrentProcessId.
+    
+
+END

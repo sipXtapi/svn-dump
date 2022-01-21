@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-06-12T19:00:28.154318Z
+K 7
+svn:log
+V 148
+XCF-1076 - Save group supervisor into database, enable read/write from ui.  Separated DbUnit DTD generation utility into its own class w/main method
+END

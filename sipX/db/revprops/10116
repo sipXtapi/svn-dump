@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-13T22:55:08.186931Z
+K 7
+svn:log
+V 114
+Remove duplicated variable from Speex codec plugin, fix typo in struct names and fix few coding style violations.
+
+END

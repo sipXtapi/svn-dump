@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-10-09T15:18:32.781467Z
+K 7
+svn:log
+V 84
+Use C99 printf format specifier instead of hardcoded one in XmlRpcBody::addValue().
+
+END

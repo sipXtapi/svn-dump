@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-10T00:06:51.476059Z
+K 7
+svn:log
+V 339
+XCF-1288 if BLF is configured for the phone primary user set attendant.uri and attendant.reg parameters for Polycom 650 phone
+in theory that should make phone to subscribe to the same resource list that sipXconfig generated based on speed dial configuration for the primaty phone user, I do not have 650 at the moment so I cannot test it
+
+
+END

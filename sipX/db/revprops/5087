@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-09-21T13:50:37.626261Z
+K 7
+svn:log
+V 151
+XCF-642 Fixed - Apply patch from Hannu fixing binary format.  Also fix DHCP default 1=disable so change default and label accordingly.  NICE WORK HANNU
+END

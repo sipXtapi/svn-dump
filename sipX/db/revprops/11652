@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2010-05-08T14:42:37.046043Z
+K 7
+svn:log
+V 112
+sipXmediaAdapterLib: Remove accidentially checked in define - don't use Speex AEC if HAVE_SPEEX is not defined.
+
+END

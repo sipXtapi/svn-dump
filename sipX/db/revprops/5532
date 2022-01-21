@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-11-07T22:34:47.681905Z
+K 7
+svn:log
+V 93
+remove unintended use of JDK 1.5-only construct, we are commited to 1.4 compatibility for now
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-11-07T22:56:13.719488Z
+K 7
+svn:log
+V 154
+XPR-185 remove dependency on Active Record, Rails and related libraries
+XPR-186 compute CDRs in a single pass (without look-ahead or look-back searches) 
+
+END

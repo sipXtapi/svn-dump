@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-03-23T23:06:05.937491Z
+K 7
+svn:log
+V 922
+Merged in Sipfoundry/main up to revision 6423
+
+XCF-937 - Add groups and settings to autoattendant, move sipxvxml velocity template to meaningful directory
+
+autoattendant menu items, disconnect item had extraneous text from T4 migration
+
+XCF-937 Add settings ui and default group to auto attendant management
+
+XCF-937 Tailor special page for auto attendant defaults
+
+AutoRefreshForm improvements: auto refresh checkbox and editing refresh interval implemented.
+In order to use AutoRefreshForm on a page you need to set Border's property useDojo to true 
+
+XCF-957 Generating orbits.xml file was failing when call parking description was empty ("null").
+We are now skipping adding description component if it has not been set by the user.
+
+XCF-959 Add end user presence managemement, but disabled by default until presence server is more multipurpose.  To enable, set preserverServer.enabled=true in sipxconfig.properties.in
+
+END

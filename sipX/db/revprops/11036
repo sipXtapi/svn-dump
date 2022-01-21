@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-05T21:41:27.768481Z
+K 7
+svn:log
+V 107
+Add libspeex VC6 project file to sipXtapi vc6 workspace.
+This is needed for sipXmediaLibTest and others.
+
+
+
+END

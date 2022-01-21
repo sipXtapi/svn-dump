@@ -1,0 +1,279 @@
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: ll.0.r917/105
+type: file
+pred: ll.0.r916/7217
+count: 3
+text: 840 226 198 227 f5f53c80aca6dfeb291bab24a18560d8
+props: 917 0 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /old/sipXtackLib/main/examples/im/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 18
+file ll.0.r917/105
+K 17
+basicImClient.cpp
+V 19
+file lh.0.r916/6903
+END
+ENDREP
+id: lg.0.r917/444
+type: dir
+pred: lg.0.r916/7562
+count: 5
+text: 917 338 93 93 e3b1d016ea692f9827b85919cb798692
+props: 846 297 73 0 f181de05f80f20132ea353bf5a884ada
+cpath: /old/sipXtackLib/main/examples/im
+copyroot: 0 /
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: lk.0.r917/769
+type: file
+pred: lk.0.r916/7855
+count: 3
+text: 840 130 83 72 cf1167624d9d1c30fb0437b6b63269a4
+props: 917 664 92 0 fc52ed4ca4a868ea26309f9cfd8358c1
+cpath: /old/sipXtackLib/main/examples/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 18
+file lk.0.r917/769
+K 2
+im
+V 17
+dir lg.0.r917/444
+END
+ENDREP
+id: lf.0.r917/1087
+type: dir
+pred: lf.0.r916/8178
+count: 5
+text: 917 999 75 75 f79a5ddfafd39925451a8769c8846143
+props: 846 696 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXtackLib/main/examples
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 20
+file dl.0.r772/70283
+K 9
+ChangeLog
+V 21
+file dm.0.r891/128130
+K 7
+INSTALL
+V 21
+file dn.0.r891/155358
+K 7
+LICENSE
+V 21
+file do.0.r891/111455
+K 11
+Makefile.am
+V 21
+file dp.0.r891/156301
+K 4
+NEWS
+V 20
+file dq.0.r772/79111
+K 6
+README
+V 20
+file dr.0.r772/69980
+K 4
+TODO
+V 20
+file ds.0.r772/75936
+K 9
+acsite.m4
+V 20
+file dt.0.r772/28655
+K 14
+ant-targets.am
+V 21
+file du.0.r891/127031
+K 15
+ant-targets.xml
+V 21
+file dv.0.r891/143992
+K 17
+basicimclient.dsp
+V 19
+file le.0.r916/6589
+K 3
+bin
+V 20
+dir l0.0.r891/155979
+K 20
+config.properties.in
+V 20
+file dz.0.r772/75620
+K 12
+configure.ac
+V 19
+file e0.0.r861/3376
+K 3
+doc
+V 20
+dir e1.0.r891/155141
+K 8
+examples
+V 18
+dir lf.0.r917/1087
+K 7
+include
+V 18
+dir e5.0.r916/2848
+K 3
+lib
+V 20
+dir gh.0.r650/115439
+K 4
+meta
+V 20
+dir l6.0.r891/127911
+K 15
+sipXtackLib.dsp
+V 18
+file gj.0.r909/937
+K 18
+sipXtackLib.vcproj
+V 18
+file ld.0.r906/267
+K 15
+siplog2siptrace
+V 20
+dir gk.0.r891/156923
+K 7
+siptest
+V 18
+dir gn.0.r915/2705
+K 11
+siptest.dsp
+V 18
+file kv.0.r909/714
+K 9
+sipviewer
+V 20
+dir hn.0.r891/159552
+K 19
+sipxtacklib.spec.in
+V 19
+file kw.0.r902/2184
+K 3
+src
+V 18
+dir i8.0.r916/6289
+K 15
+syslog2siptrace
+V 20
+dir kk.0.r891/154350
+END
+ENDREP
+id: dk.0.r917/2510
+type: dir
+pred: dk.0.r916/9603
+count: 224
+text: 917 1305 1192 1192 a9964cb2e76bc3f2d3c08c002967ff51
+props: 896 0 894 0 87d8655086cd050aba68a5a27a8aa99f
+cpath: /old/sipXtackLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir kz.0.r895/1308
+K 4
+main
+V 18
+dir dk.0.r917/2510
+K 4
+tags
+V 18
+dir kr.0.r913/2661
+END
+ENDREP
+id: dj.0.r917/2845
+type: dir
+pred: dj.0.r916/9938
+count: 318
+text: 917 2725 107 107 c3736032ab9d8aa52da65331f094bb6a
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 18
+dir dj.0.r917/2845
+END
+ENDREP
+id: 1.0.r917/3099
+type: dir
+pred: 1.0.r916/10192
+count: 916
+text: 917 3001 85 85 b0a3413c560c6281103365a38529720b
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r917/3099
+END
+ENDREP
+id: 0.0.r917/3288
+type: dir
+pred: 0.0.r916/10383
+count: 917
+text: 917 3240 35 35 b4026d2df4dbf7413f1d8244361d5422
+cpath: /
+copyroot: 0 /
+
+lk.0.t916-1 modify false true /old/sipXtackLib/main/examples/Makefile.am
+
+ll.0.t916-1 modify false true /old/sipXtackLib/main/examples/im/Makefile.am
+
+
+3288 3426

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2004-12-19T22:02:50.886684Z
+K 7
+svn:log
+V 32
+Fixed parsing of "file:" URL's.
+
+END

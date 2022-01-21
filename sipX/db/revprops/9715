@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-21T16:20:12.328111Z
+K 7
+svn:log
+V 429
+First step of MprBridge big update.
+
+From now MprBridge is a full featured matrix mixer. That is you could specify transition gain for every input to output port pair.
+
+At this point it is very inefficient, implementing true N*N approach. However it is not noticable on decent x86 systems when working as a SIP client. We'll gradually improve its performance to allow new mix matrix mixer usage in more constrained environments.
+
+END

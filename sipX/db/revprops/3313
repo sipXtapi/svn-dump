@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-12-30T23:25:27.184311Z
+K 7
+svn:log
+V 92
+Dial Plan Configuration prototype added: see sipXconfig/doc/neoconf-prototype/dialplans.html
+END

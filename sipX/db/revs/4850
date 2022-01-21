@@ -1,0 +1,2730 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 20y.1id.r4850/108
+type: file
+pred: 20y.0.r2666/431
+count: 7
+text: 2666 0 407 1188 cd901101e6304d9c35139b951756fd8d
+props: 4850 0 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /main/sipXpublisher/bin/sipstatus.sh.in
+copyroot: 4813 /main/sipXpublisher
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 222.1id.r4821/6619
+K 15
+sipstatus.sh.in
+V 22
+file 20y.1id.r4850/108
+END
+ENDREP
+id: 20x.1id.r4850/474
+type: dir
+pred: 20x.1id.r4821/6983
+count: 18
+text: 4850 362 99 99 649d3d39393c8c74bfe64133ffc54160
+props: 2679 322 107 0 86ba9b69a52a167367b11512c77bc166
+cpath: /main/sipXpublisher/bin
+copyroot: 4813 /main/sipXpublisher
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 20o.0.r2665/10756
+K 9
+ChangeLog
+V 20
+file 20p.0.r2677/179
+K 7
+INSTALL
+V 22
+file 20q.0.r2665/14101
+K 7
+LICENSE
+V 19
+file 20r.0.r2665/82
+K 11
+Makefile.am
+V 23
+file 20s.1id.r4821/7330
+K 4
+NEWS
+V 22
+file 20t.0.r2665/17092
+K 6
+README
+V 22
+file 20u.0.r2665/10441
+K 4
+TODO
+V 22
+file 20v.0.r2665/13792
+K 9
+acsite.m4
+V 21
+file 20w.0.r2665/5453
+K 3
+bin
+V 21
+dir 20x.1id.r4850/474
+K 12
+configure.ac
+V 19
+file 20z.0.r2704/67
+K 3
+doc
+V 22
+dir 21y.1id.r4821/6271
+K 3
+etc
+V 22
+dir 210.1id.r4821/8105
+K 7
+include
+V 22
+dir 215.1id.r4821/4718
+K 4
+meta
+V 20
+dir 228.0.r2686/1984
+K 17
+sipXpublisher.dsp
+V 20
+file 21u.0.r2716/352
+K 21
+sipxpublisher.spec.in
+V 20
+file 21x.0.r2706/167
+K 3
+src
+V 22
+dir 21i.1id.r4821/5427
+END
+ENDREP
+id: 20n.1id.r4850/1460
+type: dir
+pred: 20n.1id.r4821/9093
+count: 109
+text: 4850 717 730 730 30feeb63378bc5146a5027c964ef555d
+props: 4813 990 808 0 0269071e97be9bb2f30d1d441b9afdc0
+cpath: /main/sipXpublisher
+copyroot: 4813 /main/sipXpublisher
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1w5.1ic.r4850/1811
+type: file
+pred: 1w5.0.r2273/968
+count: 9
+text: 2273 0 940 2706 0f33eb9daf22aeea4ab8b1fef0129763
+props: 4850 1703 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /main/sipXproxy/bin/sipproxy.sh.in
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1w4.1ic.r4850/2168
+type: file
+pred: 1w4.0.r2223/1202
+count: 7
+text: 2223 0 401 1174 628ead00d5bb5512651b6eee0d1e1bd8
+props: 4850 2060 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /main/sipXproxy/bin/sipauthproxy.sh.in
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1xa.1ic.r4821/14788
+K 18
+sipauthproxy.sh.in
+V 23
+file 1w4.1ic.r4850/2168
+K 14
+sipproxy.sh.in
+V 23
+file 1w5.1ic.r4850/1811
+END
+ENDREP
+id: 1w3.1ic.r4850/2588
+type: dir
+pred: 1w3.1ic.r4821/15197
+count: 19
+text: 4850 2422 153 153 36df8a3cd8d91f9cef173ec3eee80d86
+props: 2251 0 92 0 7813287a169b784a181741eef57ca2cc
+cpath: /main/sipXproxy/bin
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1vu.0.r2221/14695
+K 9
+ChangeLog
+V 20
+file 1vv.0.r2238/425
+K 7
+INSTALL
+V 22
+file 1vw.0.r2221/19180
+K 7
+LICENSE
+V 19
+file 1vx.0.r2221/82
+K 11
+Makefile.am
+V 24
+file 1vy.1ic.r4821/15538
+K 4
+NEWS
+V 22
+file 1vz.0.r2221/22868
+K 6
+README
+V 22
+file 1w0.0.r2221/14388
+K 4
+TODO
+V 22
+file 1w1.0.r2221/18875
+K 9
+acsite.m4
+V 21
+file 1w2.0.r2221/1636
+K 3
+bin
+V 22
+dir 1w3.1ic.r4850/2588
+K 12
+configure.ac
+V 19
+file 1w9.0.r2272/76
+K 3
+doc
+V 23
+dir 1xb.1ic.r4821/14447
+K 3
+etc
+V 20
+dir 1wa.0.r2283/1455
+K 4
+meta
+V 20
+dir 1xi.0.r2249/2565
+K 17
+sipXauthproxy.dsp
+V 20
+file 1x5.0.r2282/751
+K 20
+sipXforkingProxy.dsp
+V 20
+file 1x6.0.r2282/513
+K 17
+sipxproxy.spec.in
+V 20
+file 1x9.0.r2295/198
+K 3
+src
+V 23
+dir 1wn.1ic.r4821/13672
+END
+ENDREP
+id: 1vt.1ic.r4850/3578
+type: dir
+pred: 1vt.1ic.r4821/16538
+count: 123
+text: 4850 2825 740 740 2017518efe799db15a4c3def82b515a8
+props: 4813 2294 838 0 328d688c9da0111ee3b97f50a41f4fd6
+cpath: /main/sipXproxy
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 2fl.1ig.r4850/3924
+type: file
+pred: 2fl.0.r2903/33277
+count: 2
+text: 2734 1649667 373 589 0332013cdad1b88669af1091d541f6fc
+props: 4850 3816 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /main/sipXvxml/src/prompt/Makefile.unix
+copyroot: 4813 /main/sipXvxml
+
+PLAIN
+K 6
+sf:tab
+V 7
+initial
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 2fk.1ig.r4850/4315
+type: file
+pred: 2fk.0.r2981/290
+count: 10
+text: 2981 0 70 396 1f007a811a0913025e86aee282fa9e0b
+props: 4850 4184 118 0 c39c1963eb6d0cfb0a7b069b68128dda
+cpath: /main/sipXvxml/src/prompt/Makefile.am
+copyroot: 4813 /main/sipXvxml
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 2fk.1ig.r4850/4315
+K 13
+Makefile.unix
+V 23
+file 2fl.1ig.r4850/3924
+K 15
+PromptCache.cpp
+V 21
+file 2h9.0.r3009/2361
+K 13
+PromptCache.h
+V 21
+file 2ha.0.r3009/2601
+K 13
+osbprompt.cpp
+V 21
+file 2fm.0.r2954/1028
+K 28
+osbprompt_playerlistener.cpp
+V 21
+file 2fn.0.r2926/7678
+K 26
+osbprompt_playerlistener.h
+V 21
+file 2fo.0.r2926/8177
+K 17
+osbprompt_tts.cpp
+V 21
+file 2fp.0.r3022/5447
+K 15
+osbprompt_tts.h
+V 21
+file 2fq.0.r3007/1346
+END
+ENDREP
+id: 2fj.1ig.r4850/5035
+type: dir
+pred: 2fj.0.r3022/6160
+count: 40
+text: 4850 4566 456 456 5d109b04318d3312621599135cb95e4c
+props: 2934 615 74 0 c1ba0f9f07bfffbf256def841c2b82f0
+cpath: /main/sipXvxml/src/prompt
+copyroot: 4813 /main/sipXvxml
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 2cv.1ig.r4821/42866
+K 3
+VXI
+V 23
+dir 2cw.1ig.r4821/42518
+K 6
+client
+V 20
+dir 2ds.0.r3017/9102
+K 4
+inet
+V 20
+dir 2ed.0.r3015/1662
+K 3
+jsi
+V 21
+dir 2f2.0.r2956/31712
+K 3
+log
+V 21
+dir 2fe.0.r2956/25709
+K 6
+prompt
+V 22
+dir 2fj.1ig.r4850/5035
+K 3
+rec
+V 20
+dir 2fr.0.r2981/2311
+K 3
+tel
+V 20
+dir 2fx.0.r2981/1602
+K 3
+trd
+V 20
+dir 2g1.0.r3009/3943
+K 5
+value
+V 19
+dir 2g6.0.r2962/623
+END
+ENDREP
+id: 2cu.1ig.r4850/5695
+type: dir
+pred: 2cu.1ig.r4821/43536
+count: 86
+text: 4850 5276 406 406 be17e95917c9c4f7615dd4392cef4620
+props: 2763 3810 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /main/sipXvxml/src
+copyroot: 4813 /main/sipXvxml
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 22n.1ig.r4850/6041
+type: file
+pred: 22n.0.r2904/501
+count: 10
+text: 2904 0 477 1542 8043c8069bd11c7734d6fd8ae907f91f
+props: 4850 5933 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /main/sipXvxml/bin/sipXvxml.sh.in
+copyroot: 4813 /main/sipXvxml
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 2h2.0.r2956/51034
+K 14
+sipXvxml.sh.in
+V 23
+file 22n.1ig.r4850/6041
+END
+ENDREP
+id: 22m.1ig.r4850/6400
+type: dir
+pred: 22m.0.r2956/51375
+count: 23
+text: 4850 6289 98 98 17bf864ab5b34fc3403c5a2c697a2478
+props: 2932 292 75 0 e2b468eeb024a9bdfc3b4717d7561975
+cpath: /main/sipXvxml/bin
+copyroot: 4813 /main/sipXvxml
+
+PLAIN
+K 7
+AUTHORS
+V 22
+file 22e.0.r2903/20704
+K 12
+CONTRIBUTORS
+V 22
+file 2h3.0.r2903/68683
+K 7
+COPYING
+V 22
+file 22f.0.r2956/51695
+K 9
+ChangeLog
+V 22
+file 22g.0.r2956/15190
+K 7
+INSTALL
+V 22
+file 22h.0.r2903/74726
+K 11
+Makefile.am
+V 20
+file 22i.0.r3021/146
+K 4
+NEWS
+V 23
+file 22j.0.r2903/186996
+K 6
+README
+V 22
+file 22k.0.r2903/68375
+K 9
+acsite.m4
+V 22
+file 22l.0.r2903/21604
+K 3
+bin
+V 22
+dir 22m.1ig.r4850/6400
+K 12
+configure.ac
+V 19
+file 22o.0.r2991/76
+K 3
+doc
+V 20
+dir 2gf.0.r3012/1109
+K 3
+etc
+V 19
+dir 22p.0.r2983/369
+K 7
+include
+V 21
+dir 22u.0.r2956/14136
+K 2
+js
+V 20
+dir 23o.0.r3016/9816
+K 4
+meta
+V 21
+dir 2cs.0.r2956/15022
+K 16
+sipxvxml.spec.in
+V 21
+file 2h0.0.r3009/6286
+K 3
+src
+V 22
+dir 2cu.1ig.r4850/5695
+END
+ENDREP
+id: 22d.1ig.r4850/7359
+type: dir
+pred: 22d.1ig.r4821/44499
+count: 194
+text: 4850 6633 713 713 2a5aad384d87a84834af4e26cd734318
+props: 4813 6937 827 0 c0f78b11b82de9d872e0a5de20bdfee6
+cpath: /main/sipXvxml
+copyroot: 4813 /main/sipXvxml
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1yg.1ie.r4850/7703
+type: file
+pred: 1yg.0.r2417/3535
+count: 9
+text: 2417 100 509 1584 dccc917c76552d82880435daff449b25
+props: 4850 7595 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /main/sipXregistry/bin/sipregistrar.sh.in
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1zg.1ie.r4821/49073
+K 18
+sipregistrar.sh.in
+V 23
+file 1yg.1ie.r4850/7703
+END
+ENDREP
+id: 1yf.1ie.r4850/8082
+type: dir
+pred: 1yf.1ie.r4821/49442
+count: 17
+text: 4850 7965 104 104 466d2a5760f904ebf0e2a80ddc3c3be2
+props: 2433 599 83 0 e63c4d5c1aa543a6172cd482740ab7d5
+cpath: /main/sipXregistry/bin
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 21
+file 1y6.0.r2414/7414
+K 9
+ChangeLog
+V 20
+file 1y7.0.r2470/663
+K 7
+INSTALL
+V 22
+file 1y8.0.r2414/11973
+K 7
+LICENSE
+V 20
+file 1y9.0.r2470/440
+K 11
+Makefile.am
+V 24
+file 1ya.1ie.r4821/49790
+K 4
+NEWS
+V 22
+file 1yb.0.r2414/15680
+K 6
+README
+V 21
+file 1yc.0.r2414/7102
+K 4
+TODO
+V 22
+file 1yd.0.r2414/11664
+K 9
+acsite.m4
+V 21
+file 1ye.0.r2414/1353
+K 3
+bin
+V 22
+dir 1yf.1ie.r4850/8082
+K 12
+configure.ac
+V 19
+file 1yk.0.r2463/66
+K 3
+doc
+V 23
+dir 1z6.1ie.r4821/48726
+K 3
+etc
+V 23
+dir 1yl.1ie.r4821/50620
+K 4
+meta
+V 23
+dir 1zk.1ie.r4821/45467
+K 16
+sipXregistry.dsp
+V 20
+file 1z4.0.r2482/352
+K 20
+sipxregistry.spec.in
+V 20
+file 1ze.0.r2450/246
+K 3
+src
+V 23
+dir 1yq.1ie.r4821/47646
+END
+ENDREP
+id: 1y5.1ie.r4850/9035
+type: dir
+pred: 1y5.1ie.r4821/51574
+count: 132
+text: 4850 8327 695 695 35c1282ff996df7745176b51b3ee1e35
+props: 4813 8014 994 0 3c3f8a8865d904475db512612fd2e950
+cpath: /main/sipXregistry
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ug.1i6.r4850/9387
+type: file
+pred: 1ug.0.r1967/34238
+count: 3
+text: 1835 4102 143 243 d22ad79dc29e918cd55102dddc86fed4
+props: 4850 9279 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /main/sipXcommserverLib/src/sipdbtest/sipdbtest.sh.in
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 15
+DisplayTask.cpp
+V 21
+file 1u2.0.r2065/8621
+K 13
+DisplayTask.h
+V 22
+file 1u3.0.r1967/38004
+K 20
+HeartBeatMonitor.cpp
+V 22
+file 1u4.0.r1967/35595
+K 18
+HeartBeatMonitor.h
+V 22
+file 1u5.0.r1967/37659
+K 19
+IMDBTaskMonitor.cpp
+V 22
+file 1u6.0.r1967/35254
+K 17
+IMDBTaskMonitor.h
+V 22
+file 1u7.0.r1967/37314
+K 18
+IMDBWorkerTask.cpp
+V 21
+file 1u8.0.r2065/8880
+K 16
+IMDBWorkerTask.h
+V 22
+file 1u9.0.r1967/38345
+K 14
+ImportTask.cpp
+V 21
+file 1ua.0.r2065/9140
+K 12
+ImportTask.h
+V 22
+file 1ub.0.r1967/34579
+K 17
+KeepAliveTask.cpp
+V 22
+file 1uc.0.r1967/36632
+K 15
+KeepAliveTask.h
+V 22
+file 1ud.0.r1967/39031
+K 11
+Makefile.am
+V 24
+file 1ue.1i6.r4821/54601
+K 8
+main.cpp
+V 22
+file 1uf.0.r1967/34919
+K 15
+sipdbtest.sh.in
+V 23
+file 1ug.1i6.r4850/9387
+END
+ENDREP
+id: 1u1.1i6.r4850/10421
+type: dir
+pred: 1u1.1i6.r4821/55631
+count: 29
+text: 4850 9667 741 741 d56072ef415ee99b4649e0a7de818a07
+props: 1972 285 82 0 fc3a85936477ef4841f3848610f2ceb3
+cpath: /main/sipXcommserverLib/src/sipdbtest
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1t2.1i6.r4821/56001
+K 9
+digitmaps
+V 19
+dir 1t3.0.r2077/802
+K 6
+fastdb
+V 20
+dir 1t5.0.r2094/1243
+K 5
+sipdb
+V 20
+dir 1to.0.r2065/8440
+K 9
+sipdbtest
+V 23
+dir 1u1.1i6.r4850/10421
+K 4
+test
+V 23
+dir 1uh.1i6.r4821/54237
+K 8
+xsdvalid
+V 23
+dir 1vi.1i6.r4821/56759
+END
+ENDREP
+id: 1t1.1i6.r4850/10986
+type: dir
+pred: 1t1.1i6.r4821/57318
+count: 58
+text: 4850 10687 286 286 e25da7b1da9d9760c52535bd86989045
+props: 1837 1172 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /main/sipXcommserverLib/src
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1r0.1i6.r4850/11352
+type: file
+pred: 1r0.0.r2006/246
+count: 4
+text: 2006 0 223 2992 07d0a863d63ecb4e581a16f4d0886120
+props: 4850 11244 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /main/sipXcommserverLib/bin/configpp
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1r1.1i6.r4850/11721
+type: file
+pred: 1r1.0.r1967/55140
+count: 3
+text: 1834 0 64 777 f34e7d5f78bfe838397647bc97ff7602
+props: 4850 11613 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /main/sipXcommserverLib/bin/get_def_addr
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1qz.1i6.r4821/58641
+K 8
+configpp
+V 24
+file 1r0.1i6.r4850/11352
+K 12
+get_def_addr
+V 24
+file 1r1.1i6.r4850/11721
+K 20
+sipx-expires-display
+V 22
+file 1vd.0.r1967/54440
+K 20
+sipx-validate-xml.in
+V 19
+file 1ve.0.r1983/63
+K 8
+ssl-cert
+V 21
+dir 1v6.1i6.r4838/836
+END
+ENDREP
+id: 1qy.1i6.r4850/12286
+type: dir
+pred: 1qy.1i6.r4838/1393
+count: 48
+text: 4850 11986 287 287 b0fce573b92bd8d35bd4eda027db715d
+props: 1972 2087 90 0 717adb1a33f28af3f24597fe9e5960ec
+cpath: /main/sipXcommserverLib/bin
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1qp.0.r1967/49607
+K 9
+ChangeLog
+V 20
+file 1qq.0.r1984/410
+K 7
+INSTALL
+V 21
+file 1qr.0.r2058/2054
+K 7
+LICENSE
+V 19
+file 1qs.0.r1967/82
+K 11
+Makefile.am
+V 24
+file 1qt.1i6.r4821/60461
+K 4
+NEWS
+V 22
+file 1qu.0.r1967/60154
+K 6
+README
+V 22
+file 1qv.0.r1967/49287
+K 4
+TODO
+V 22
+file 1qw.0.r1967/53785
+K 9
+acsite.m4
+V 22
+file 1qx.0.r1967/24543
+K 3
+bin
+V 23
+dir 1qy.1i6.r4850/12286
+K 12
+configure.ac
+V 21
+file 1r5.0.r2047/4753
+K 3
+doc
+V 23
+dir 1uv.1i6.r4821/58284
+K 3
+etc
+V 23
+dir 1r6.1i6.r4821/61203
+K 7
+include
+V 23
+dir 1rc.1i6.r4821/52375
+K 4
+meta
+V 23
+dir 1v3.1i6.r4821/53457
+K 21
+sipXcommserverLib.dsp
+V 20
+file 1us.0.r2046/732
+K 13
+sipdbtest.dsp
+V 20
+file 1ut.0.r2046/491
+K 25
+sipxcommserverlib.spec.in
+V 21
+file 1v2.0.r2092/3751
+K 3
+src
+V 23
+dir 1t1.1i6.r4850/10986
+END
+ENDREP
+id: 1qo.1i6.r4850/13352
+type: dir
+pred: 1qo.1i6.r4838/2457
+count: 191
+text: 4850 12543 796 796 fa4a199c5ea6168c24fd22537832b85d
+props: 4813 9266 936 0 906bcca43d326368ae1df969c442ecf6
+cpath: /main/sipXcommserverLib
+copyroot: 4813 /main/sipXcommserverLib
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 5gj.1i9.r4850/13715
+type: file
+pred: 5gj.0.r4454/289943
+count: 3
+text: 4217 554 29 480 b22ba405677e6a0c851c96e222f6ba36
+props: 4850 13607 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /main/sipXpbx/bin/pd_monitor.in
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 5gh.1i9.r4850/14072
+type: file
+pred: 5gh.0.r4555/6269
+count: 3
+text: 4555 0 356 754 6d126af966f6f1ea38bea732e1e76ec4
+props: 4850 13964 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /main/sipXpbx/bin/autodel
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 5gk.1xv.r4850/14420
+type: file
+pred: 5gk.1xv.r4838/2711
+count: 53
+text: 4838 60 210 13579 f372e0547458931e5bb3495c582e5a30
+props: 4850 14312 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /main/sipXpbx/bin/sipxpbx.in
+copyroot: 4124 /old/sipXpbx/main/bin/sipxpbx.in
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file 6mc.0.r4555/7417
+K 7
+autodel
+V 24
+file 5gh.1i9.r4850/14072
+K 20
+backup-configs.sh.in
+V 22
+file 6on.zp.r4611/3821
+K 22
+backup-mailstore.sh.in
+V 22
+file 6oo.zq.r4555/5449
+K 4
+blat
+V 23
+file 6oa.0.r4454/290288
+K 10
+check-fqdn
+V 21
+file 6od.0.r4555/6792
+K 29
+httpd-sipxchange-config.sh.in
+V 23
+file 5gi.0.r4454/292657
+K 15
+keepalive.sh.in
+V 21
+file 6ma.0.r4456/6331
+K 13
+pd_monitor.in
+V 24
+file 5gj.1i9.r4850/13715
+K 21
+restore-configs.sh.in
+V 21
+file 6op.zr.r4602/135
+K 23
+restore-mailstore.sh.in
+V 22
+file 6oq.zs.r4555/6498
+K 16
+sipx-chkspace.in
+V 22
+file 6oi.zd.r4513/4017
+K 16
+sipx-snapshot.in
+V 20
+file 6md.0.r4631/210
+K 14
+sipx-uninstall
+V 20
+file 6ow.0.r4649/506
+K 10
+sipxpbx.in
+V 24
+file 5gk.1xv.r4850/14420
+K 18
+voicemail_clean.in
+V 20
+file 6or.0.r4476/108
+END
+ENDREP
+id: 5gg.1i9.r4850/15494
+type: dir
+pred: 5gg.1i9.r4838/3783
+count: 102
+text: 4850 14688 793 793 fba2245660f53101df8dce1956bff2ec
+props: 4503 842 206 0 4241088d5fb23e5875312e3f9f2ab159
+cpath: /main/sipXpbx/bin
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4454/288397
+K 9
+ChangeLog
+V 21
+file 5g8.0.r4571/9011
+K 7
+INSTALL
+V 23
+file 5g9.0.r4454/289610
+K 7
+LICENSE
+V 21
+file 5ga.0.r4571/8791
+K 11
+Makefile.am
+V 20
+file 5gb.0.r4667/100
+K 4
+NEWS
+V 23
+file 5gc.0.r4454/299658
+K 6
+README
+V 23
+file 5gd.0.r4454/288092
+K 4
+TODO
+V 23
+file 5ge.0.r4454/289304
+K 9
+acsite.m4
+V 21
+file 5gf.0.r4454/4092
+K 3
+bin
+V 23
+dir 5gg.1i9.r4850/15494
+K 12
+configure.ac
+V 20
+file 5gl.0.r4634/783
+K 3
+doc
+V 22
+dir 5gm.1i9.r4820/2022
+K 3
+etc
+V 25
+dir 5gp.1i9.r4835/1749492
+K 7
+include
+V 23
+dir 5h2.1i9.r4821/64507
+K 4
+meta
+V 21
+dir 6of.z4.r4521/2317
+K 8
+sipXpark
+V 23
+dir 6pl.1i9.r4821/70725
+K 15
+sipxpbx.spec.in
+V 19
+file 6mo.0.r4663/61
+K 3
+src
+V 25
+dir 5hb.1i9.r4835/1746623
+END
+ENDREP
+id: 5g6.1i9.r4850/16477
+type: dir
+pred: 5g6.1i9.r4838/4766
+count: 433
+text: 4850 15732 732 732 7bf93a03bc3f299b4311093c399e173b
+props: 4813 10471 923 0 8e9c0f95f12b335ea36bf9c96969254e
+cpath: /main/sipXpbx
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6zu.1ia.r4850/16805
+type: file
+pred: 6zu.0.r4673/7353698
+count: 1
+text: 4673 340936 39085 44567 755f81e95b62337a700a282ce5525554
+props: 4850 16713 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/javacore/meta/test/dummyapp.jar
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 12
+dummyapp.jar
+V 24
+file 6zu.1ia.r4850/16805
+END
+ENDREP
+id: 6zt.1ia.r4850/17146
+type: dir
+pred: 6zt.0.r4673/7354002
+count: 1
+text: 4850 17081 52 52 6bf029a69700bb38e81f7c792ac6d1c2
+cpath: /main/sipXphone/javacore/meta/test
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6ur.1ia.r4850/17437
+type: file
+pred: 6ur.0.r4673/7415412
+count: 1
+text: 4673 156168 266 362 2add60fd308128719ef2fcf4e778538c
+props: 4850 17345 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/Substitution.class
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6ue.1ia.r4850/17828
+type: file
+pred: 6ue.0.r4673/7415765
+count: 1
+text: 4673 133276 233 241 579507bc2de00d48e85d7c30222a78a6
+props: 4850 17736 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/Pattern.class
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6us.1ia.r4850/18214
+type: file
+pred: 6us.0.r4673/7416113
+count: 1
+text: 4673 156447 1226 2844 2fce614137812817ff47ef00f3bb9f11
+props: 4850 18122 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/Util.class
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6ug.1ia.r4850/18599
+type: file
+pred: 6ug.0.r4673/7416460
+count: 1
+text: 4673 133839 362 574 cba1cb6b212301bfe0e691965179ed0f
+props: 4850 18507 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/PatternMatcher.class
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6ui.1ia.r4850/18992
+type: file
+pred: 6ui.0.r4673/7416815
+count: 1
+text: 4673 135374 7493 13501 34d50e34057817baa2bc399cae84aecc
+props: 4850 18900 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/Perl5Compiler.class
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6uo.1ia.r4850/19387
+type: file
+pred: 6uo.0.r4673/7417172
+count: 1
+text: 4673 152516 1440 2218 86c4299548f6b700360f601e981e2eaa
+props: 4850 19295 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/Perl5StreamInput.class
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6ub.1ia.r4850/19784
+type: file
+pred: 6ub.0.r4673/7417531
+count: 1
+text: 4673 131292 289 331 95f240aa35953dcb9bae9aa191878bfb
+props: 4850 19692 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/MalformedPatternException.class
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6up.1ia.r4850/20188
+type: file
+pred: 6up.0.r4673/7417897
+count: 1
+text: 4673 153969 1504 2624 bc0b1c07faa13974688e8c5d68de7685
+props: 4850 20096 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/Perl5Substitution.class
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6um.1ia.r4850/20586
+type: file
+pred: 6um.0.r4673/7418257
+count: 1
+text: 4673 151371 721 891 935b0ce3f6b3c673cf27a3d74f091856
+props: 4850 20494 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/Perl5Pattern.class
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6un.1ia.r4850/20977
+type: file
+pred: 6un.0.r4673/7418610
+count: 1
+text: 4673 152105 398 468 8a1976c24f5a093c739a38542bdf8b95
+props: 4850 20885 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/Perl5Repetition.class
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6ul.1ia.r4850/21371
+type: file
+pred: 6ul.0.r4673/7418966
+count: 1
+text: 4673 145392 5966 11287 6dfa8e641c43ddd31a8d3117e0bab115
+props: 4850 21279 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/Perl5Matcher.class
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6uc.1ia.r4850/21765
+type: file
+pred: 6uc.0.r4673/7419322
+count: 1
+text: 4673 131594 335 379 2aa007b122568ab1d673bd2ef77c94fa
+props: 4850 21673 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/MatchResult.class
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6uj.1ia.r4850/22155
+type: file
+pred: 6uj.0.r4673/7419674
+count: 1
+text: 4673 142880 1728 2599 8bb764e43ff6553bd368f73a1b35e3b5
+props: 4850 22063 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/Perl5Debug.class
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6uh.1ia.r4850/22546
+type: file
+pred: 6uh.0.r4673/7420027
+count: 1
+text: 4673 134214 1147 2354 1c35183f0ef0bc88047055ca7b4398eb
+props: 4850 22454 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/PatternMatcherInput.class
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6uk.1ia.r4850/22946
+type: file
+pred: 6uk.0.r4673/7420389
+count: 1
+text: 4673 144621 758 1198 5c48247478737f0f7ddffbef9257c4c2
+props: 4850 22854 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/Perl5MatchResult.class
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6uq.1ia.r4850/23342
+type: file
+pred: 6uq.0.r4673/7420747
+count: 1
+text: 4673 155486 669 1009 75ae2a17fcdd6a50cffbfb1fe12a7c44
+props: 4850 23250 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/StringSubstitution.class
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6ua.1ia.r4850/23740
+type: file
+pred: 6ua.0.r4673/7421107
+count: 1
+text: 4673 130316 963 1458 d23406bee26a322a274d2a6c58aa0014
+props: 4850 23648 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/CharStringPointer.class
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6uf.1ia.r4850/24137
+type: file
+pred: 6uf.0.r4673/7421466
+count: 1
+text: 4673 133522 304 507 203894a308c0d21a150005803eaf41fc
+props: 4850 24045 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/PatternCompiler.class
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6ud.1ia.r4850/24531
+type: file
+pred: 6ud.0.r4673/7421822
+count: 1
+text: 4673 131942 1321 2400 81efa09d7b6cc1ed80b2de4e31f3bb4e
+props: 4850 24439 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/OpCode.class
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 23
+CharStringPointer.class
+V 24
+file 6ua.1ia.r4850/23740
+K 31
+MalformedPatternException.class
+V 24
+file 6ub.1ia.r4850/19784
+K 17
+MatchResult.class
+V 24
+file 6uc.1ia.r4850/21765
+K 12
+OpCode.class
+V 24
+file 6ud.1ia.r4850/24531
+K 13
+Pattern.class
+V 24
+file 6ue.1ia.r4850/17828
+K 21
+PatternCompiler.class
+V 24
+file 6uf.1ia.r4850/24137
+K 20
+PatternMatcher.class
+V 24
+file 6ug.1ia.r4850/18599
+K 25
+PatternMatcherInput.class
+V 24
+file 6uh.1ia.r4850/22546
+K 19
+Perl5Compiler.class
+V 24
+file 6ui.1ia.r4850/18992
+K 16
+Perl5Debug.class
+V 24
+file 6uj.1ia.r4850/22155
+K 22
+Perl5MatchResult.class
+V 24
+file 6uk.1ia.r4850/22946
+K 18
+Perl5Matcher.class
+V 24
+file 6ul.1ia.r4850/21371
+K 18
+Perl5Pattern.class
+V 24
+file 6um.1ia.r4850/20586
+K 21
+Perl5Repetition.class
+V 24
+file 6un.1ia.r4850/20977
+K 22
+Perl5StreamInput.class
+V 24
+file 6uo.1ia.r4850/19387
+K 23
+Perl5Substitution.class
+V 24
+file 6up.1ia.r4850/20188
+K 24
+StringSubstitution.class
+V 24
+file 6uq.1ia.r4850/23342
+K 18
+Substitution.class
+V 24
+file 6ur.1ia.r4850/17437
+K 10
+Util.class
+V 24
+file 6us.1ia.r4850/18214
+END
+ENDREP
+id: 6u9.1ia.r4850/25900
+type: dir
+pred: 6u9.0.r4673/7423154
+count: 1
+text: 4850 24826 1061 1061 b780f617e241cc859bcb026fce6a4cc3
+cpath: /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 5
+regex
+V 23
+dir 6u9.1ia.r4850/25900
+END
+ENDREP
+id: 6u8.1ia.r4850/26180
+type: dir
+pred: 6u8.0.r4673/7423397
+count: 1
+text: 4850 26124 43 43 e2636af8bbc39ebb9b271bac86577c18
+cpath: /main/sipXphone/javacore/meta/jar/com/oroinc/text
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 4
+text
+V 23
+dir 6u8.1ia.r4850/26180
+END
+ENDREP
+id: 6u7.1ia.r4850/26449
+type: dir
+pred: 6u7.0.r4673/7423629
+count: 1
+text: 4850 26394 42 42 0ab1bf69509430c14b6963a387b0f4b0
+cpath: /main/sipXphone/javacore/meta/jar/com/oroinc
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 6
+oroinc
+V 23
+dir 6u7.1ia.r4850/26449
+END
+ENDREP
+id: 6u6.1ia.r4850/26715
+type: dir
+pred: 6u6.0.r4673/7423858
+count: 1
+text: 4850 26658 44 44 cf1fad429e3f079115cd6984b086673f
+cpath: /main/sipXphone/javacore/meta/jar/com
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6ze.1ia.r4850/27009
+type: file
+pred: 6ze.0.r4673/7426140
+count: 1
+text: 4673 234857 2672 4243 5eeb929501487784bb4b004716020f8c
+props: 4850 26917 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/javacore/meta/jar/java/util/Hashtable.class
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 15
+Hashtable.class
+V 24
+file 6ze.1ia.r4850/27009
+K 10
+readme.txt
+V 22
+file 6zf.0.r4779/77112
+END
+ENDREP
+id: 6zd.1ia.r4850/27407
+type: dir
+pred: 6zd.0.r4779/77490
+count: 2
+text: 4850 27295 99 99 183fb9384aa3ebad442fbe00642375aa
+cpath: /main/sipXphone/javacore/meta/jar/java/util
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 4
+util
+V 23
+dir 6zd.1ia.r4850/27407
+END
+ENDREP
+id: 6zc.1ia.r4850/27668
+type: dir
+pred: 6zc.0.r4779/77736
+count: 2
+text: 4850 27613 42 42 3173252d251a7aa4650464e96c43f469
+cpath: /main/sipXphone/javacore/meta/jar/java
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6zi.1ia.r4850/27961
+type: file
+pred: 6zi.0.r4673/7432789
+count: 1
+text: 4673 243043 80704 84824 53ee25407ad1beafc17f8f76e3bc7177
+props: 4850 27869 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/javacore/meta/jar/resources/SpeedDialApplet.jar
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 19
+SpeedDialApplet.jar
+V 24
+file 6zi.1ia.r4850/27961
+K 12
+dhtmlMenu.js
+V 22
+file 6zj.0.r4779/84721
+K 9
+fonts.css
+V 22
+file 6zk.0.r4779/84121
+K 21
+license_agreement.txt
+V 22
+file 6zl.0.r4779/84427
+K 29
+sipfoundry-sipxphone-logo.gif
+V 24
+file 7n5.13u.r4753/52659
+END
+ENDREP
+id: 6zh.1ia.r4850/28533
+type: dir
+pred: 6zh.0.r4779/85261
+count: 4
+text: 4850 28253 267 267 c9029c11a7a1643e405bfd0308ed0b14
+cpath: /main/sipXphone/javacore/meta/jar/resources
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 27
+AdjustVolumeForm.properties
+V 22
+file 6tl.0.r4779/17572
+K 27
+CallHandlingForm.properties
+V 22
+file 6tm.0.r4779/17000
+K 22
+CallLogForm.properties
+V 22
+file 6tn.0.r4779/16718
+K 31
+ChangePasswordWizard.properties
+V 22
+file 6to.0.r4779/79480
+K 21
+Conference.properties
+V 22
+file 6tp.0.r4779/17854
+K 21
+ConfigForm.properties
+V 22
+file 6tq.0.r4779/15761
+K 36
+DeploymentPreferencesForm.properties
+V 22
+file 6tr.0.r4779/77941
+K 32
+DevicePreferencesForm.properties
+V 22
+file 6ts.0.r4779/82564
+K 24
+DialByURLForm.properties
+V 22
+file 6tt.0.r4779/72870
+K 21
+DialerForm.properties
+V 22
+file 6tu.0.r4779/75843
+K 22
+LineManager.properties
+V 22
+file 6tv.0.r4779/74281
+K 25
+LocalPrefsForm.properties
+V 22
+file 6tw.0.r4779/73724
+K 23
+PasswordForm.properties
+V 22
+file 6tx.0.r4779/78237
+K 30
+PreferencesMainForm.properties
+V 22
+file 6ty.0.r4779/80458
+K 21
+SearchForm.properties
+V 22
+file 6tz.0.r4779/79771
+K 27
+SpeeddialAddForm.properties
+V 22
+file 6u0.0.r4779/78518
+K 24
+SpeeddialForm.properties
+V 22
+file 6u1.0.r4779/73440
+K 30
+TimePreferencesForm.properties
+V 22
+file 6u2.0.r4779/81575
+K 30
+UserMaintenanceForm.properties
+V 22
+file 6u3.0.r4779/17283
+K 23
+VersionCheck.properties
+V 22
+file 6u4.0.r4779/74868
+K 24
+WebServerForm.properties
+V 22
+file 6u5.0.r4779/15477
+K 3
+com
+V 23
+dir 6u6.1ia.r4850/26715
+K 24
+content-types.properties
+V 22
+file 6v7.0.r4779/73154
+K 15
+help.properties
+V 22
+file 6v8.0.r4779/78805
+K 16
+hints.properties
+V 22
+file 6v9.0.r4779/76803
+K 6
+images
+V 21
+dir 6va.0.r4779/72257
+K 17
+images.properties
+V 22
+file 6zb.0.r4779/82285
+K 4
+java
+V 23
+dir 6zc.1ia.r4850/27668
+K 56
+org.sipfoundry.sipxphone.app.BlindTransferApp.properties
+V 24
+file 6ut.13g.r4779/85470
+K 50
+org.sipfoundry.sipxphone.app.CallLogApp.properties
+V 24
+file 6uu.13h.r4779/16042
+K 55
+org.sipfoundry.sipxphone.app.ChangeVolumeApp.properties
+V 24
+file 6uv.13i.r4779/81165
+K 53
+org.sipfoundry.sipxphone.app.ConferenceApp.properties
+V 24
+file 6uw.13j.r4779/80052
+K 63
+org.sipfoundry.sipxphone.app.ConsultativeTransferApp.properties
+V 24
+file 6ux.13k.r4779/18136
+K 60
+org.sipfoundry.sipxphone.app.DevicePreferencesApp.properties
+V 24
+file 6uy.13l.r4779/81865
+K 52
+org.sipfoundry.sipxphone.app.DialByURLApp.properties
+V 24
+file 6uz.13m.r4779/72466
+K 47
+org.sipfoundry.sipxphone.app.LogoApp.properties
+V 24
+file 6v0.13n.r4779/75151
+K 58
+org.sipfoundry.sipxphone.app.ModalMessageBoxApp.properties
+V 24
+file 6v1.13o.r4779/80749
+K 52
+org.sipfoundry.sipxphone.app.PhonebookApp.properties
+V 24
+file 6v2.13p.r4779/83283
+K 52
+org.sipfoundry.sipxphone.app.SlideshowApp.properties
+V 24
+file 6v3.13q.r4779/76124
+K 52
+org.sipfoundry.sipxphone.app.SpeeddialApp.properties
+V 24
+file 6v4.13r.r4779/83687
+K 51
+org.sipfoundry.sipxphone.app.sys.CoreApp.properties
+V 24
+file 6v5.13s.r4779/79078
+K 63
+org.sipfoundry.sipxphone.sys.app.DeploymentConfigApp.properties
+V 24
+file 6v6.13t.r4779/82857
+K 17
+pinger.properties
+V 22
+file 6zg.0.r4779/76528
+K 9
+resources
+V 23
+dir 6zh.1ia.r4850/28533
+K 38
+settings-ixpressa_x86_linux.properties
+V 22
+file 6zn.0.r4779/85882
+K 38
+settings-ixpressa_x86_win32.properties
+V 22
+file 6zo.0.r4779/75545
+K 45
+settings-xpressa_strongarm_vxworks.properties
+V 22
+file 6zp.0.r4779/74563
+K 19
+settings.properties
+V 22
+file 6zq.0.r4779/16442
+K 15
+tips.properties
+V 22
+file 6zr.0.r4779/74004
+K 19
+transfer.properties
+V 22
+file 6zs.0.r4779/15198
+END
+ENDREP
+id: 6tk.1ia.r4850/32074
+type: dir
+pred: 6tk.0.r4779/89492
+count: 4
+text: 4850 28741 3320 3320 91719e69b26cde84e71f2ced4bf9aa74
+cpath: /main/sipXphone/javacore/meta/jar
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 3
+jar
+V 23
+dir 6tk.1ia.r4850/32074
+K 4
+test
+V 23
+dir 6zt.1ia.r4850/17146
+END
+ENDREP
+id: 6tj.1ia.r4850/32366
+type: dir
+pred: 6tj.0.r4779/89766
+count: 4
+text: 4850 32274 79 79 3688e6fb8110cbd97cf6bef6984bc979
+cpath: /main/sipXphone/javacore/meta
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 10
+.classpath
+V 21
+file 7mg.0.r4721/1039
+K 8
+.project
+V 21
+file 7mh.0.r4721/1196
+K 11
+Makefile.am
+V 24
+file 6tb.1ia.r4821/74442
+K 20
+build-wnt.properties
+V 22
+file 6tc.0.r4779/14642
+K 13
+build-wnt.xml
+V 22
+file 6td.0.r4779/14937
+K 9
+build.xml
+V 20
+file 6te.0.r4811/498
+K 7
+classes
+V 19
+dir 6tf.0.r4805/509
+K 4
+dist
+V 23
+dir 6th.0.r4673/7353150
+K 12
+javacore.iml
+V 21
+file 7me.0.r4692/3048
+K 4
+meta
+V 23
+dir 6tj.1ia.r4850/32366
+K 3
+src
+V 22
+dir 6zv.0.r4794/115498
+K 12
+test-results
+V 23
+dir 7dy.0.r4673/7629166
+K 5
+tests
+V 23
+dir 7dz.0.r4673/7352893
+END
+ENDREP
+id: 6ta.1ia.r4850/33126
+type: dir
+pred: 6ta.1ia.r4821/75268
+count: 34
+text: 4850 32558 555 555 615d2fe87b7a6b0a3c681e6d08000e4d
+props: 4691 2492 42 0 36e19d5208d6fe4b81b1977390a5e6b2
+cpath: /main/sipXphone/javacore
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 7e4.1ia.r4850/33465
+type: file
+pred: 7e4.0.r4673/7681159
+count: 1
+text: 4673 6025888 82557 98496 aa7a3c262bddca84341fba3dc9a8349e
+props: 4850 33373 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/lib/jndi1.2.1.jar
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 7e5.1ia.r4850/33820
+type: file
+pred: 7e5.0.r4673/7681795
+count: 1
+text: 4673 6108458 144247 203504 79ad35c08c93cb1cde51126d01e80409
+props: 4850 33728 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/lib/jtapi13.jar
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 7e7.1ia.r4850/34175
+type: file
+pred: 7e7.0.r4673/7682112
+count: 1
+text: 4673 6458320 22144 50711 1b60f89292353bd2f532b2a74393c670
+props: 4850 34083 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/lib/oromatch.jar
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 7e6.1ia.r4850/34529
+type: file
+pred: 7e6.0.r4673/7682745
+count: 1
+text: 4673 6252718 205589 220393 245099c3f9a6c2f41bf74c02d84850ca
+props: 4850 34437 79 0 c5ace532febc790dbc2ace6a96a9aed0
+cpath: /main/sipXphone/lib/ldap.jar
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 13
+jndi1.2.1.jar
+V 24
+file 7e4.1ia.r4850/33465
+K 11
+jtapi13.jar
+V 24
+file 7e5.1ia.r4850/33820
+K 9
+junit.jar
+V 23
+file 7m9.0.r4687/165069
+K 8
+ldap.jar
+V 24
+file 7e6.1ia.r4850/34529
+K 12
+oromatch.jar
+V 24
+file 7e7.1ia.r4850/34175
+END
+ENDREP
+id: 7e0.1ia.r4850/35036
+type: dir
+pred: 7e0.0.r4687/165534
+count: 3
+text: 4850 34789 234 234 a372906a07a19811ffd3d09476033ce5
+cpath: /main/sipXphone/lib
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 7
+AUTHORS
+V 21
+file 6ql.0.r4779/1091
+K 7
+COPYING
+V 23
+file 6qm.0.r4779/350868
+K 9
+ChangeLog
+V 21
+file 6qn.0.r4779/1579
+K 7
+INSTALL
+V 20
+file 6qo.0.r4788/529
+K 11
+Makefile.am
+V 24
+file 6qp.1ia.r4821/76720
+K 4
+NEWS
+V 23
+file 6qq.0.r4779/351399
+K 11
+QuickConfig
+V 21
+dir 7pc.0.r4800/23557
+K 6
+README
+V 23
+file 6qr.0.r4779/312572
+K 9
+acsite.m4
+V 21
+file 6qs.0.r4779/1333
+K 14
+ant-targets.am
+V 21
+file 6qt.0.r4804/1423
+K 15
+ant-targets.xml
+V 20
+file 6qu.0.r4811/268
+K 12
+applayer.ipr
+V 21
+file 7md.0.r4692/4793
+K 20
+config.properties.in
+V 23
+file 6qv.0.r4779/314640
+K 12
+configure.ac
+V 21
+file 6qw.0.r4804/2925
+K 3
+doc
+V 22
+dir 6qx.0.r4779/314422
+K 7
+include
+V 23
+dir 6r2.1ia.r4821/72557
+K 15
+installer.win32
+V 20
+dir 7oy.0.r4812/1285
+K 8
+javacore
+V 23
+dir 6ta.1ia.r4850/33126
+K 3
+lib
+V 23
+dir 7e0.1ia.r4850/35036
+K 13
+sipXphone.dsp
+V 20
+file 7m7.0.r4797/365
+K 13
+sipXphone.dsw
+V 22
+file 7mc.0.r4801/13353
+K 9
+softphone
+V 23
+dir 7f3.1ia.r4821/76405
+K 3
+src
+V 23
+dir 7i2.1ia.r4821/74131
+END
+ENDREP
+id: 6qk.1ia.r4850/36221
+type: dir
+pred: 6qk.1ia.r4821/77963
+count: 133
+text: 4850 35221 987 987 024a4001dff71768aa211328adb8f8d9
+props: 4813 11644 242 0 911b42856c4ef9badacabafae1761519
+cpath: /main/sipXphone
+copyroot: 4813 /main/sipXphone
+
+PLAIN
+K 13
+svn:eol-style
+V 4
+CRLF
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: gj.1if.r4850/36568
+type: file
+pred: gj.0.r1010/11404
+count: 22
+text: 1010 173 32 14737 97dfff09059e616b5ba8423a8d67bed6
+props: 4850 36462 93 0 03002c8b223c5662de8e388d3bf1d016
+cpath: /main/sipXtackLib/sipXtackLib.dsp
+copyroot: 4813 /main/sipXtackLib
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 20
+file dl.0.r772/70283
+K 9
+ChangeLog
+V 21
+file dm.0.r891/128130
+K 7
+INSTALL
+V 21
+file dn.0.r891/155358
+K 7
+LICENSE
+V 21
+file do.0.r891/111455
+K 11
+Makefile.am
+V 19
+file dp.0.r1036/160
+K 4
+NEWS
+V 20
+file dq.0.r772/79111
+K 6
+README
+V 20
+file dr.0.r772/69980
+K 4
+TODO
+V 20
+file ds.0.r772/75936
+K 9
+acsite.m4
+V 20
+file dt.0.r772/28655
+K 14
+ant-targets.am
+V 21
+file du.0.r891/127031
+K 15
+ant-targets.xml
+V 18
+file dv.0.r1039/83
+K 17
+basicimclient.dsp
+V 19
+file le.0.r916/6589
+K 3
+bin
+V 20
+dir l0.0.r891/155979
+K 20
+config.properties.in
+V 20
+file dz.0.r772/75620
+K 12
+configure.ac
+V 19
+file e0.0.r861/3376
+K 3
+doc
+V 18
+dir e1.0.r961/1098
+K 8
+examples
+V 18
+dir lf.0.r917/1087
+K 7
+include
+V 21
+dir e5.1if.r4849/4520
+K 3
+lib
+V 20
+dir gh.0.r650/115439
+K 4
+meta
+V 20
+dir l6.0.r891/127911
+K 15
+sipXtackLib.dsp
+V 23
+file gj.1if.r4850/36568
+K 18
+sipXtackLib.vcproj
+V 18
+file ld.0.r906/267
+K 19
+sipXtackLibTest.dsp
+V 21
+file mh.0.r1020/15478
+K 15
+siplog2siptrace
+V 22
+dir gk.1if.r4821/81713
+K 7
+siptest
+V 22
+dir gn.1if.r4821/80134
+K 11
+siptest.dsp
+V 18
+file kv.0.r909/714
+K 9
+sipviewer
+V 22
+dir hn.1if.r4821/82573
+K 19
+sipxtacklib.spec.in
+V 18
+file kw.0.r980/478
+K 3
+src
+V 22
+dir i8.1if.r4844/13300
+K 15
+syslog2siptrace
+V 21
+dir kk.1if.r4830/1702
+K 16
+tcpdump2siptrace
+V 19
+file mb.0.r1047/729
+END
+ENDREP
+id: dk.1if.r4850/38140
+type: dir
+pred: dk.1if.r4849/6079
+count: 373
+text: 4850 36823 1304 1304 74e0617ba5b4508e82f6fff3ccf15255
+props: 4813 12140 946 0 60078909234b5ef914fb50a03e621bf8
+cpath: /main/sipXtackLib
+copyroot: 4813 /main/sipXtackLib
+
+PLAIN
+K 6
+config
+V 24
+dir 91.1i4.r4835/1618934
+K 12
+dependencies
+V 19
+file 7rk.0.r4842/79
+K 11
+sipXcallLib
+V 22
+dir va.1i5.r4821/24840
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r4850/13352
+K 10
+sipXconfig
+V 23
+dir 2hf.1i7.r4848/17646
+K 12
+sipXmediaLib
+V 22
+dir mz.1i8.r4821/40400
+K 7
+sipXpbx
+V 23
+dir 5g6.1i9.r4850/16477
+K 9
+sipXphone
+V 23
+dir 6qk.1ia.r4850/36221
+K 11
+sipXportLib
+V 23
+dir 3.1ib.r4835/1618061
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r4850/3578
+K 13
+sipXpublisher
+V 22
+dir 20n.1id.r4850/1460
+K 12
+sipXregistry
+V 22
+dir 1y5.1ie.r4850/9035
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r4850/38140
+K 8
+sipXvxml
+V 22
+dir 22d.1ig.r4850/7359
+K 9
+sipxbuild
+V 21
+file 7rl.0.r4834/1249
+END
+ENDREP
+id: 7q4.0.r4850/39065
+type: dir
+pred: 7q4.0.r4849/7003
+count: 36
+text: 4850 38384 668 668 ef66549c48cda0f317e7d14b1fc6d27f
+props: 4819 0 36 0 7f7837a88a598584dcd9896164d1c688
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r4813/32382
+K 4
+main
+V 21
+dir 7q4.0.r4850/39065
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r4850/39398
+type: dir
+pred: 0.0.r4849/7334
+count: 4850
+text: 4850 39268 117 117 b031ddaa437c575dc70559e48749603e
+cpath: /
+copyroot: 0 /
+
+6un.1ia.t4849-1 modify false true /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/Perl5Repetition.class
+
+1r1.1i6.t4849-1 modify false true /main/sipXcommserverLib/bin/get_def_addr
+
+6ul.1ia.t4849-1 modify false true /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/Perl5Matcher.class
+
+7e6.1ia.t4849-1 modify false true /main/sipXphone/lib/ldap.jar
+
+gj.1if.t4849-1 modify false true /main/sipXtackLib/sipXtackLib.dsp
+
+6uj.1ia.t4849-1 modify false true /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/Perl5Debug.class
+
+1ug.1i6.t4849-1 modify false true /main/sipXcommserverLib/src/sipdbtest/sipdbtest.sh.in
+
+1r0.1i6.t4849-1 modify false true /main/sipXcommserverLib/bin/configpp
+
+6uf.1ia.t4849-1 modify false true /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/PatternCompiler.class
+
+1w4.1ic.t4849-1 modify false true /main/sipXproxy/bin/sipauthproxy.sh.in
+
+6ur.1ia.t4849-1 modify false true /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/Substitution.class
+
+6us.1ia.t4849-1 modify false true /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/Util.class
+
+6ue.1ia.t4849-1 modify false true /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/Pattern.class
+
+6ug.1ia.t4849-1 modify false true /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/PatternMatcher.class
+
+6ub.1ia.t4849-1 modify false true /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/MalformedPatternException.class
+
+6ze.1ia.t4849-1 modify false true /main/sipXphone/javacore/meta/jar/java/util/Hashtable.class
+
+6up.1ia.t4849-1 modify false true /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/Perl5Substitution.class
+
+6um.1ia.t4849-1 modify false true /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/Perl5Pattern.class
+
+7e5.1ia.t4849-1 modify false true /main/sipXphone/lib/jtapi13.jar
+
+7e7.1ia.t4849-1 modify false true /main/sipXphone/lib/oromatch.jar
+
+22n.1ig.t4849-1 modify false true /main/sipXvxml/bin/sipXvxml.sh.in
+
+2fk.1ig.t4849-1 modify false true /main/sipXvxml/src/prompt/Makefile.am
+
+6uc.1ia.t4849-1 modify false true /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/MatchResult.class
+
+1yg.1ie.t4849-1 modify false true /main/sipXregistry/bin/sipregistrar.sh.in
+
+6zu.1ia.t4849-1 modify false true /main/sipXphone/javacore/meta/test/dummyapp.jar
+
+6uh.1ia.t4849-1 modify false true /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/PatternMatcherInput.class
+
+5gj.1i9.t4849-1 modify false true /main/sipXpbx/bin/pd_monitor.in
+
+6uq.1ia.t4849-1 modify false true /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/StringSubstitution.class
+
+6uk.1ia.t4849-1 modify false true /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/Perl5MatchResult.class
+
+20y.1id.t4849-1 modify false true /main/sipXpublisher/bin/sipstatus.sh.in
+
+6ua.1ia.t4849-1 modify false true /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/CharStringPointer.class
+
+6ud.1ia.t4849-1 modify false true /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/OpCode.class
+
+6zi.1ia.t4849-1 modify false true /main/sipXphone/javacore/meta/jar/resources/SpeedDialApplet.jar
+
+2fl.1ig.t4849-1 modify false true /main/sipXvxml/src/prompt/Makefile.unix
+
+7e4.1ia.t4849-1 modify false true /main/sipXphone/lib/jndi1.2.1.jar
+
+5gh.1i9.t4849-1 modify false true /main/sipXpbx/bin/autodel
+
+6ui.1ia.t4849-1 modify false true /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/Perl5Compiler.class
+
+6uo.1ia.t4849-1 modify false true /main/sipXphone/javacore/meta/jar/com/oroinc/text/regex/Perl5StreamInput.class
+
+5gk.1xv.t4849-1 modify false true /main/sipXpbx/bin/sipxpbx.in
+
+1w5.1ic.t4849-1 modify false true /main/sipXproxy/bin/sipproxy.sh.in
+
+
+39398 39543

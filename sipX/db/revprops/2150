@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-10-03T19:11:52.749059Z
+K 7
+svn:log
+V 120
+Need to put the sipxproxy.spec file in the distribution
+so that it gets put in the tarball where rpmbuild can find
+it.
+
+
+END

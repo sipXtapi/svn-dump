@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-09-14T20:09:49.500283Z
+K 7
+svn:log
+V 43
+XCF-1183 Initialize domain in db unit tests
+END

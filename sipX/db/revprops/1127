@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-11-19T13:37:37.686758Z
+K 7
+svn:log
+V 664
+A number of media processing bug fixes and some code clean up:
+
+- Added stubs for setGain/getGain under Windows
+- Fixed a bug where setting the volume ONLY changed the "ringer" 
+  device as opposed to the in-call device.   This was only an issue
+  when a different audio device were used for ringer/in-call.
+- Removed uninteresting console output (osPrintf)
+- Reformatted some code blocks to conform with coding conventions
+  (and readability).
+- Only allow once instance of the MicThread and SpkrThread to run
+  per process.  This change is required in order to run multiple 
+  CallManager/UA instances within the same process space (very
+  useful for testing).
+
+
+END

@@ -1,0 +1,396 @@
+id: g9v.7ob.r11546/0
+type: dir
+pred: g9v.7n5.r11545/286532
+count: 1
+text: 11545 285000 1519 1519 3169dd8f6c02754034d7d5b6cf0d6d12
+cpath: /main/sipXmediaLib/contrib/android/android_2_0_headers/frameworks/base/include/media
+copyfrom: 11545 /main/sipXmediaLib/contrib/android/android_2_0_headers/frameworks/base/media
+
+id: g9x.7oc.r11546/316
+type: dir
+pred: g9x.7n5.r11545/302513
+count: 1
+text: 11545 300664 1836 1836 23703e6e9df6f0d776dae667c5e499b6
+cpath: /main/sipXmediaLib/contrib/android/android_2_0_headers/frameworks/base/include/utils
+copyfrom: 11545 /main/sipXmediaLib/contrib/android/android_2_0_headers/frameworks/base/utils
+
+id: g9u.7oa.r11546/634
+type: dir
+pred: g9u.7n5.r11545/309049
+count: 1
+text: 11545 308270 766 766 1a8fc70365aeddc06d9da525b9882c98
+cpath: /main/sipXmediaLib/contrib/android/android_2_0_headers/frameworks/base/include/binder
+copyfrom: 11545 /main/sipXmediaLib/contrib/android/android_2_0_headers/frameworks/base/binder
+
+PLAIN
+K 6
+binder
+V 22
+dir g9u.7oa.r11546/634
+K 5
+media
+V 20
+dir g9v.7ob.r11546/0
+K 5
+utils
+V 22
+dir g9x.7oc.r11546/316
+END
+ENDREP
+id: gek.7n5.r11546/1082
+type: dir
+count: 0
+text: 11546 952 117 117 f5a5683f588982a0f07e9946ed239f3d
+cpath: /main/sipXmediaLib/contrib/android/android_2_0_headers/frameworks/base/include
+copyroot: 10815 /main
+
+PLAIN
+K 7
+include
+V 23
+dir gek.7n5.r11546/1082
+END
+ENDREP
+id: g9t.7n5.r11546/1349
+type: dir
+pred: g9t.7n5.r11545/309403
+count: 1
+text: 11546 1291 45 45 b17c930862dfa31821f9f2d6ad8d7314
+cpath: /main/sipXmediaLib/contrib/android/android_2_0_headers/frameworks/base
+copyroot: 10815 /main
+
+PLAIN
+K 4
+base
+V 23
+dir g9t.7n5.r11546/1349
+END
+ENDREP
+id: g9s.7n5.r11546/1632
+type: dir
+pred: g9s.7n5.r11545/309666
+count: 1
+text: 11546 1577 42 42 e961073b7f67c58e4a50a03e09f42436
+cpath: /main/sipXmediaLib/contrib/android/android_2_0_headers/frameworks
+copyroot: 10815 /main
+
+PLAIN
+K 10
+frameworks
+V 23
+dir g9s.7n5.r11546/1632
+K 6
+system
+V 25
+dir g9y.7n5.r11545/328982
+END
+ENDREP
+id: g9r.7n5.r11546/1959
+type: dir
+pred: g9r.7n5.r11545/329283
+count: 1
+text: 11546 1855 91 91 895d8989b5db0ee1779614a004abb052
+cpath: /main/sipXmediaLib/contrib/android/android_2_0_headers
+copyroot: 10815 /main
+
+PLAIN
+K 19
+android_2_0_headers
+V 23
+dir g9r.7n5.r11546/1959
+K 16
+android_2_0_libs
+V 25
+dir gaa.7n5.r11545/259475
+END
+ENDREP
+id: g9q.7n5.r11546/2295
+type: dir
+pred: g9q.7n5.r11545/329597
+count: 1
+text: 11546 2171 111 111 79f398a1151c21334c3af3d5cdd3590c
+cpath: /main/sipXmediaLib/contrib/android
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 25
+file f69.7n5.r11405/14854
+K 7
+android
+V 23
+dir g9q.7n5.r11546/2295
+K 8
+libamrnb
+V 21
+dir f32.0.r10343/1936
+K 8
+libamrwb
+V 21
+dir f41.0.r10344/2031
+K 6
+libgsm
+V 22
+dir ebx.0.r10789/36160
+K 7
+libilbc
+V 24
+dir ezs.7n5.r11227/19131
+K 10
+libspandsp
+V 23
+dir f50.7n5.r10835/1654
+K 8
+libspeex
+V 23
+dir fz0.7n5.r11422/7365
+END
+ENDREP
+id: ebw.7n5.r11546/2843
+type: dir
+pred: ebw.7n5.r11545/330123
+count: 46
+text: 11546 2489 341 341 1d31ae6b6c6d42ebd15a49d307f84b08
+props: 11403 0 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /main/sipXmediaLib/contrib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 24
+file g92.7n5.r11535/1710
+K 12
+CONTRIBUTORS
+V 25
+file b41.0.r6469/22054157
+K 9
+ChangeLog
+V 25
+file b42.0.r6469/22025314
+K 7
+INSTALL
+V 24
+file b43.0.r6955/1728056
+K 11
+Makefile.am
+V 23
+file b44.0.r10281/14228
+K 4
+NEWS
+V 25
+file b45.0.r6469/22058814
+K 6
+README
+V 24
+file b46.0.r6955/1727035
+K 4
+TODO
+V 25
+file b47.0.r6469/22057442
+K 9
+acsite.m4
+V 24
+file b48.0.r6955/1726702
+K 17
+autoconf259.patch
+V 23
+file fxj.7n5.r10953/747
+K 3
+bin
+V 22
+dir b49.0.r10443/26912
+K 12
+configure.ac
+V 24
+file b4k.7n5.r11426/1026
+K 7
+contrib
+V 23
+dir ebw.7n5.r11546/2843
+K 3
+doc
+V 23
+dir b4l.7n5.r11139/8114
+K 26
+dtmf5_48khz_16b_signed.wav
+V 23
+file f7a.0.r10516/48478
+K 7
+include
+V 24
+dir b4p.7n5.r11541/16662
+K 3
+lib
+V 24
+dir b8u.0.r6469/22057603
+K 4
+meta
+V 24
+dir b8v.0.r6469/22024982
+K 25
+sipXmediaLib-msvc8.vcproj
+V 25
+file e76.7n5.r11401/20105
+K 16
+sipXmediaLib.dsp
+V 24
+file up.7nl.r11401/19813
+K 16
+sipXmediaLib.vcp
+V 22
+file e6i.0.r9956/38866
+K 19
+sipXmediaLib.vcproj
+V 25
+file b92.7n5.r11401/20311
+K 29
+sipXmediaLibTest-msvc8.vcproj
+V 25
+file e77.7n5.r11246/25524
+K 20
+sipXmediaLibTest.dsp
+V 24
+file mh.7nm.r11405/14608
+K 20
+sipXmediaLibTest.sln
+V 23
+file eaj.0.r8484/543808
+K 20
+sipXmediaLibTest.vcp
+V 22
+file e6j.0.r8865/20512
+K 23
+sipXmediaLibTest.vcproj
+V 25
+file eak.7n5.r11246/25937
+K 20
+sipxmedialib.spec.in
+V 24
+file b93.7n5.r10867/5783
+K 3
+src
+V 23
+dir b94.7n5.r11542/5231
+END
+ENDREP
+id: b40.7n5.r11546/4490
+type: dir
+pred: b40.7n5.r11545/331774
+count: 1450
+text: 11546 3082 1395 1395 a512043dc6a3f72f818ae44f5bd0b7ce
+props: 10826 1148 201 0 e49c2e30517c0b6eecea16b1c465f599
+cpath: /main/sipXmediaLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 24
+file g8y.7n5.r11494/7874
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 23
+dir 9wj.7n5.r11456/2005
+K 10
+readme.txt
+V 24
+file 9ws.7n5.r11483/5210
+K 7
+scripts
+V 23
+dir fxk.7n5.r11535/1538
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r11540/2531
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r11544/3006
+K 12
+sipXmediaLib
+V 23
+dir b40.7n5.r11546/4490
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r11533/5397
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r11512/2157
+K 11
+sipXtackLib
+V 23
+dir boq.7n5.r11528/2552
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r11546/5389
+type: dir
+pred: 9wi.7n5.r11545/332677
+count: 2541
+text: 11546 4730 646 646 03c6451e4530a02e19b64402844f6eba
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 21
+dir fuu.0.r11495/4798
+K 4
+main
+V 23
+dir 9wi.7n5.r11546/5389
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r11546/5728
+type: dir
+pred: 0.0.r11545/333020
+count: 11546
+text: 11546 5557 158 158 881d0238200d36915d3c288a5a5501b0
+cpath: /
+copyroot: 0 /
+
+g9v.7n5.r11545/286532 delete false false /main/sipXmediaLib/contrib/android/android_2_0_headers/frameworks/base/media
+
+g9x.7n5.r11545/302513 delete false false /main/sipXmediaLib/contrib/android/android_2_0_headers/frameworks/base/utils
+
+g9v._1.t11545-1 add false false /main/sipXmediaLib/contrib/android/android_2_0_headers/frameworks/base/include/media
+11545 /main/sipXmediaLib/contrib/android/android_2_0_headers/frameworks/base/media
+g9u.7n5.r11545/309049 delete false false /main/sipXmediaLib/contrib/android/android_2_0_headers/frameworks/base/binder
+
+_0.7n5.t11545-1 add false false /main/sipXmediaLib/contrib/android/android_2_0_headers/frameworks/base/include
+
+g9x._2.t11545-1 add false false /main/sipXmediaLib/contrib/android/android_2_0_headers/frameworks/base/include/utils
+11545 /main/sipXmediaLib/contrib/android/android_2_0_headers/frameworks/base/utils
+g9u._0.t11545-1 add false false /main/sipXmediaLib/contrib/android/android_2_0_headers/frameworks/base/include/binder
+11545 /main/sipXmediaLib/contrib/android/android_2_0_headers/frameworks/base/binder
+
+5728 5877

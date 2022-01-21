@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-11-03T04:21:55.777662Z
+K 7
+svn:log
+V 263
+Improvements to resiprocateLib build
+
+Moved interface from resiprocate logging to sipX logging
+into resiprocateLib wrapper (from bbridge).
+
+Fixed version display in bbridge
+
+First checkin of XML-RPC access to OsConfigDb
+  not tested yet, but disabled by default
+
+
+END

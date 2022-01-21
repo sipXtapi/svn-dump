@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-11-14T00:03:40.156498Z
+K 7
+svn:log
+V 707
+XCF-1217 Changed UI for dial plan page. Activate and Reset are now links to separate pages (they used to be buttons on the same page.)
+New Reset pages allows resetting dial plan to one of the installed templates. Until now sipXconfig only supported a single template.
+New property introduced dialPlanContextImpl.defaultDialPlanId - it keeps the name of the Spring bean with the default template definition. It is only used when new database is initialized and sipXconfig creates default dial plan.
+Minor changes in existing definition of dial plan templates: since sipXconfig has to load all the templates and not just default one all the rules names have to be unique: added country prefix to rules names.
+
+END

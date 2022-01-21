@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2009-03-26T01:18:00.922862Z
+K 7
+svn:log
+V 130
+Fix Visual Studio 6 build.
+MSVC++ 6.0 compiler is old and broken when it comes to casting.
+Do an explicit cast to make VS6 happy.
+
+END

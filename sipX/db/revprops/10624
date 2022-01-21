@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-03-23T18:07:48.749693Z
+K 7
+svn:log
+V 97
+More fixes for static linnking of codec plugins.
+Now PCMA/PCMU and Speex are specifically fixed.
+
+END

@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-12-15T20:58:53.048475Z
+K 7
+svn:log
+V 209
+Merged revisions 223 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXconfig/branches/2.6
+
+The following revisions should not be merged from 2.6: 244, 246, 251
+Updating svnmerge-2.6-revs to reflect that. 
+
+END

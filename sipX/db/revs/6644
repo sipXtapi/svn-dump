@@ -1,0 +1,100 @@
+PLAIN
+K 10
+svn:ignore
+V 10
+build.err
+
+K 17
+svnmerge-cdr-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/cdr
+K 17
+svnmerge-cdr-revs
+V 6
+1-6295
+K 20
+svnmerge-pax737-head
+V 61
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/pax737
+K 20
+svnmerge-pax737-revs
+V 6
+1-3397
+K 25
+svnmerge-pingtel-3.3-head
+V 50
+https://paradise.pingtel.com/rep/sipX/pingtel/main
+K 25
+svnmerge-pingtel-3.3-revs
+V 41
+1-5590,5645,5954,5969,6041,6077,6139,6156
+K 22
+svnmerge-sipx-3.0-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.0
+K 22
+svnmerge-sipx-3.0-revs
+V 51
+1-5315,5348,5357,5382,5417,5451,5474-5478,5508,5621
+K 22
+svnmerge-sipx-3.2-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.2
+K 22
+svnmerge-sipx-3.2-revs
+V 26
+1-6323,6368-6370,6494,6521
+K 30
+svnmerge-sipx-replication-head
+V 67
+https://scm.sipfoundry.org/rep/sipX/branches/sipXconfig/replication
+K 30
+svnmerge-sipx-replication-revs
+V 6
+1-5723
+K 26
+svnmerge-solaris2main-head
+V 57
+https://scm.sipfoundry.org/rep/sipX/branches/solaris_port
+K 26
+svnmerge-solaris2main-revs
+V 6
+1-6454
+END
+ENDREP
+id: 7q4.0.r6644/1058
+type: dir
+pred: 7q4.0.r6643/6384
+count: 1264
+text: 6643 5577 794 794 ddb9c36c59c7c0eb43b4dbc1c4fae59b
+props: 6644 0 1045 0 f48526d9fc950ae70b56de7b0c13d702
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 22
+dir 7pt.0.r6631/138480
+K 4
+main
+V 20
+dir 7q4.0.r6644/1058
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6644/1392
+type: dir
+pred: 0.0.r6643/6718
+count: 6644
+text: 6644 1263 116 116 444652c8f98d9108f1c44559a2ab2357
+cpath: /
+copyroot: 0 /
+
+7q4.0.t6643-1 modify false true /main
+
+
+1392 1535

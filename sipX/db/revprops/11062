@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-09T02:35:27.294178Z
+K 7
+svn:log
+V 215
+Make Windows output driver compatible with Windows versions prior to WinXP.
+To compile for Windows < XP you should either define DONTUSE_SLIST in your sipXmediaLib project settings or specify correct OS type there.
+
+END

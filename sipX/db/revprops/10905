@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-11-07T16:57:21.414114Z
+K 7
+svn:log
+V 60
+Adding UtlIntPtr class to store intptr_t in UTL containers.
+
+END

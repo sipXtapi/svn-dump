@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-10-04T17:41:46.662194Z
+K 7
+svn:log
+V 167
+FIX: set default voicemail number for Grandstream phone based on the sipX dialplan configuration
+refactored similar functionality for Cisco phone to use the same code
+
+END

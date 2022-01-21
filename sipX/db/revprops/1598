@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-02-28T21:37:06.118238Z
+K 7
+svn:log
+V 161
+Remove old code for handling stderr from subjobs and put in a comment
+explaining why the old method didn't work well.
+Set svn:executable on CallScriptDriver.pl.
+
+END

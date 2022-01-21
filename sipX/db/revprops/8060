@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-11-21T19:10:51.691493Z
+K 7
+svn:log
+V 62
+Added a few more simple test cases to the socket unit tests.
+
+
+END

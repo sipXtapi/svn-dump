@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-01T03:07:54.284736Z
+K 7
+svn:log
+V 52
+Add warning about changing the install directories.
+
+END

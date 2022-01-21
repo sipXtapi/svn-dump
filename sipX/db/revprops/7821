@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-25T21:46:04.659733Z
+K 7
+svn:log
+V 127
+incremental - move files to comply with /lib /test structure, move computing Cdrs to Cdr class, basic structure of State class
+
+END

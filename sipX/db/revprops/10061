@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-07T14:08:52.562178Z
+K 7
+svn:log
+V 271
+Video update:
+- support for RGB555, RGB565 and I420 media types in VideoCapture
+- added flag to disable built-in preview in VideoCapture (makes possible to select I420 format and reduces number of additional threads created internally by DirectShow and CPU utilization).
+
+END

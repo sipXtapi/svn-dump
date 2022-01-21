@@ -1,0 +1,106 @@
+id: 7q4.2dh.r5695/0
+type: dir
+pred: 7q4.24b.r5674/11679
+count: 584
+text: 5674 10957 709 709 ae39f2b04585b1ab7483f0a654d07854
+props: 5621 6713 943 0 c81316108b31d327aada4780206567b7
+cpath: /branches/sipXconfig/replication
+copyfrom: 5694 /branches/3.0
+
+PLAIN
+K 11
+replication
+V 19
+dir 7q4.2dh.r5695/0
+END
+ENDREP
+id: 8q1.0.r5695/310
+type: dir
+pred: 8q1.0.r5694/0
+count: 1
+text: 5695 251 46 46 0379cf4e928df63a77b75e3670ffe23b
+cpath: /branches/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 21
+dir 7pv.0.r4813/26770
+K 3
+3.0
+V 23
+dir 7q4.24b.r5674/11679
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 7
+restful
+V 21
+dir 7q0.0.r4813/15683
+K 10
+sipXconfig
+V 19
+dir 8q1.0.r5695/310
+K 23
+sipXconfig-multi-domain
+V 23
+dir 2hf.2aa.r5519/35767
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r5695/975
+type: dir
+pred: 7pt.0.r5694/587
+count: 129
+text: 5695 466 496 496 6a39172756faf8bd122261a6db5be1be
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 7pt.0.r5695/975
+K 4
+main
+V 21
+dir 7q4.0.r5692/20863
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r5695/1254
+type: dir
+pred: 0.0.r5694/865
+count: 5695
+text: 5695 1126 115 115 9e06ca20167a521fe709a5d0c2ed4cb1
+cpath: /
+copyroot: 0 /
+
+7q4._0.t5694-1 add false false /branches/sipXconfig/replication
+5694 /branches/3.0
+
+1254 1396

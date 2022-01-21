@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-29T21:45:56.305395Z
+K 7
+svn:log
+V 237
+Bugfix! -- Defaults for frameSizeMs is set in parent, so use member instead (mFrameSizeMs) as if 0 is passed, incorrect value of 0 will be passed on when
+ initializing device managers, which is erroneous.
+
+ (Another case that I missed)
+
+
+END

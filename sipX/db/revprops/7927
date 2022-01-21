@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-11-02T16:33:44.403092Z
+K 7
+svn:log
+V 167
+XCF-1300 Added support for enabling and disabling ISN dialing from sipXconfig General/SIP Parameters screen.
+Added support for specifying optional ISN dialing prefix.
+
+END

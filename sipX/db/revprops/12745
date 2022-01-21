@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2019-10-22T18:35:06.824088Z
+K 7
+svn:log
+V 72
+Add Opus include and lib paths and compile flags to sipXmediaLib build.
+
+END

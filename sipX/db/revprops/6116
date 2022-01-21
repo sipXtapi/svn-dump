@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-13T20:19:43.943216Z
+K 7
+svn:log
+V 74
+reverting previous commit: casts are needed after all - Eclipse was wrong
+
+END

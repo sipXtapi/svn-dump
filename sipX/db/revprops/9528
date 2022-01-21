@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-11T21:04:07.864570Z
+K 7
+svn:log
+V 165
+Use new audio input/output framework with topology graphs.
+This is initial step to full suport of new input and output frameworks - current usage is rather hackish.
+
+END

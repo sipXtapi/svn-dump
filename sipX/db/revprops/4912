@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-08-26T15:42:41.883366Z
+K 7
+svn:log
+V 210
+Build conventions fixes
+  Correct all version numbers to use three levels (add .0 to them).
+  Pad svn revision numbers to 6 digits in a uniform way.
+Add a missing file in the sipXportLib tests to the tar file
+
+
+END

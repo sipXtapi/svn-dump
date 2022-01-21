@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2009-01-06T20:15:57.832239Z
+K 7
+svn:log
+V 220
+In VS2008, winsock2 defines many of the symbols defined here already, and
+its definitions are the ones we should be using.
+So, I added preprocessor directives to only define these symbols if the
+compiler is not VS2008.
+
+
+END

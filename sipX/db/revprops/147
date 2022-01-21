@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-07-20T13:18:49.822196Z
+K 7
+svn:log
+V 119
+Change the UtlList::remove method to return the removed object,
+and the UtlList::delete method to delete it correctly.
+
+END

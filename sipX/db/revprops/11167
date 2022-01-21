@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-12T15:53:26.095010Z
+K 7
+svn:log
+V 228
+sipXmediaLib: Next step to support Topology without local sound card.
+Now it's a CpTopologyGraphFactoryImpl due to call MpMediaTask::signalFrameStart(). Output drivers now just have an ability to signal provided OsNotification.
+
+END

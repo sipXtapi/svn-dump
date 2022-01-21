@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-01-25T17:06:06.426074Z
+K 7
+svn:log
+V 97
+complete the setting value lifecycle, webpage -> Domain model --> DB --> Domain Model --> webpage
+END

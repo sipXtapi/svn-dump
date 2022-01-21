@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-08-01T15:46:56.098413Z
+K 7
+svn:log
+V 497
+Fixes to mappingrules and fallbackrules for some modifiers
+   [XCS-9] fix syntax of field parameters added by mapping rules
+   [XCS-11] field parameters added by mapping rules now always append
+   [XCS-12] header parameters are now inserted correctly
+
+   All unit tests for the above pass, and illustrate the supported
+   behavior.  We still need better documentation of what that is...
+
+This provides some of the underpingings needed to implement XPR-180
+and some other improvements to routing.
+
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-08-17T19:58:13.420115Z
+K 7
+svn:log
+V 86
+profilepublisher unnec. overrode regression junit task, and did it incorrectly to boot
+END

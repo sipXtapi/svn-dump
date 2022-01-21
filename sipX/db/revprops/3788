@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-04-15T15:11:57.224772Z
+K 7
+svn:log
+V 124
+XCF-335 add explicit options for source and target compatibility to allow for JDK 5.0 compilation
+
+proposed by Hannu Strang
+
+END

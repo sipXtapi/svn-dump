@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-07-05T15:07:31.459963Z
+K 7
+svn:log
+V 96
+Fix XPL-26: OsMsgQ test failure.
+            The problem was a bug in deletion from a hash map.
+
+END

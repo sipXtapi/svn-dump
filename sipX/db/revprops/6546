@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-04-10T22:13:04.418375Z
+K 7
+svn:log
+V 85
+Fix XPR-142: Call Resolver (CDR): strip contact params from contact URLs.
+Strip 'em.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-10-01T05:12:52.927066Z
+K 7
+svn:log
+V 211
+XCF-1226 - FIX BUILD: incorrect reference to buildstamp file potentially exposed by build stamps getting activated again.  Made all references to buildstemp files the same and more resiliant to directory changes
+END

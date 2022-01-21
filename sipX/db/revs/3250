@@ -1,0 +1,103 @@
+id: 4if.0.r3250/0
+type: dir
+count: 0
+cpath: /old/sipXconfig/jboss4-sipXconfig-common
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 4c1.0.r3247/7837
+K 24
+jboss4-sipXconfig-common
+V 17
+dir 4if.0.r3250/0
+K 4
+main
+V 21
+dir 2hf.0.r3248/20192
+K 4
+tags
+V 20
+dir 4b6.0.r3249/1463
+END
+ENDREP
+id: 2he.0.r3250/280
+type: dir
+pred: 2he.0.r3249/1753
+count: 225
+text: 3250 100 167 167 b278849cd9fbc2b09ad0bcaeaccd0a64
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 19
+dir 2he.0.r3250/280
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3250/881
+type: dir
+pred: 1.0.r3249/2358
+count: 3248
+text: 3250 438 430 430 8c3e42457427170bad2a283e4eba286c
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r3250/881
+END
+ENDREP
+id: 0.0.r3250/1073
+type: dir
+pred: 0.0.r3249/2554
+count: 3250
+text: 3250 1025 35 35 d6d7625944a982e581b8f433d5277f0e
+cpath: /
+copyroot: 0 /
+
+_0.0.t3249-1 add false false /old/sipXconfig/jboss4-sipXconfig-common
+
+
+1073 1214

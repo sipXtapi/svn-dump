@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-10-17T18:46:25.653690Z
+K 7
+svn:log
+V 158
+Fix XCF-590.  To avoid exceptions, if the web UI times out, forcing a login, then go to the home page after that rather than trying to execute any callbacks.
+
+END

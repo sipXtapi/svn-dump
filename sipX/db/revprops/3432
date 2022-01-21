@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-01-27T14:56:44.553602Z
+K 7
+svn:log
+V 53
+use xerces sax parser to try to resolve dtd in dbunit
+END

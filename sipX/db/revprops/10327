@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-10-23T18:47:27.207378Z
+K 7
+svn:log
+V 143
+Fixed VC6 project header files path for changed toplogy header path.
+No doubt broke linux and VC >6 versions to be fixed on later iterations.
+
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-22T19:33:09.284377Z
+K 7
+svn:log
+V 94
+XCF-753 fix for ServerSettings page - correct persist strategy for parentSettingName property
+
+END

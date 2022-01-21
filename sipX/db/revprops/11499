@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-01-13T05:25:47.967050Z
+K 7
+svn:log
+V 122
+Unit tests now run on Android! Conversion of sipXport utl tests to use either CPPUNIT or portable unit test framework.  
+
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-10-28T14:42:03.901859Z
+K 7
+svn:log
+V 265
+XCF-733 make sure that aliases for Call Groups are generated every time call group state is saved
+in particular aliases are now generated when call group members order is changed, even if changes to other call group fields (such as name or extension) are not saved
+
+END

@@ -1,0 +1,311 @@
+PLAIN
+K 18
+INSTALLATION.NOTES
+V 23
+file 6mg.0.r4571/100158
+K 18
+Makefile.config.in
+V 23
+file 6mh.1w5.r4982/8759
+K 14
+Makefile.devel
+V 21
+file 6mh.20i.r5086/52
+K 6
+README
+V 21
+file 6mf.y6.r4450/661
+K 18
+buildloop.switches
+V 22
+file 6o2.0.r4618/56832
+K 15
+check-libraries
+V 20
+file 6os.0.r4481/918
+K 14
+clean-check.sh
+V 25
+file 6p1.1i9.r4896/530189
+K 10
+config-xml
+V 26
+file 6mk.1i9.r4884/6151044
+K 12
+eol-check.sh
+V 20
+file 6om.0.r4615/457
+K 24
+find-call-transitions.pl
+V 23
+file 6ov.0.r4571/100413
+K 13
+gen-config.sh
+V 21
+file 6ml.0.r4451/1049
+K 10
+port-usage
+V 22
+file 6mm.0.r4571/99914
+K 14
+profile-driver
+V 20
+file 6pc.0.r4587/456
+K 14
+profile-format
+V 20
+file 6pd.0.r4587/108
+K 7
+sipX.el
+V 22
+file 6mn.0.r4571/97850
+K 11
+test-config
+V 22
+dir 6mx.1i9.r4982/8559
+END
+ENDREP
+id: 6me.1i9.r5227/776
+type: dir
+pred: 6me.1i9.r5086/1178
+count: 91
+text: 5227 0 763 763 111b672381fc136dc4237010ca4150a4
+props: 4503 0 42 0 53dbb2403cdf571d867f8a60d94ee489
+cpath: /main/sipXpbx/doc/developer
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 11
+Doxyfile.in
+V 24
+file 6oj.1i9.r4870/79240
+K 11
+Makefile.am
+V 20
+file 6oh.0.r4632/691
+K 9
+developer
+V 21
+dir 6me.1i9.r5227/776
+K 11
+footer.html
+V 26
+file 6ok.1i9.r4884/6150408
+K 7
+license
+V 21
+dir 5gn.0.r4618/56659
+END
+ENDREP
+id: 5gm.1i9.r5227/1250
+type: dir
+pred: 5gm.1i9.r5086/1656
+count: 108
+text: 5227 1014 223 223 2b64196e64e16c35bf158f7c49f9f0c5
+props: 4547 0 81 0 9d2955fa11968b67f44f1f2a3ba894df
+cpath: /main/sipXpbx/doc
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4454/288397
+K 9
+ChangeLog
+V 21
+file 5g8.0.r4571/9011
+K 7
+INSTALL
+V 23
+file 5g9.0.r4454/289610
+K 7
+LICENSE
+V 21
+file 5ga.0.r4571/8791
+K 11
+Makefile.am
+V 24
+file 5gb.1i9.r5109/53184
+K 4
+NEWS
+V 23
+file 5gc.0.r4454/299658
+K 6
+README
+V 23
+file 5gd.0.r4454/288092
+K 4
+TODO
+V 23
+file 5ge.0.r4454/289304
+K 9
+acsite.m4
+V 21
+file 5gf.0.r4454/4092
+K 3
+bin
+V 22
+dir 5gg.1i9.r5220/7168
+K 12
+configure.ac
+V 23
+file 5gl.1i9.r5089/1499
+K 3
+doc
+V 22
+dir 5gm.1i9.r5227/1250
+K 3
+etc
+V 23
+dir 5gp.1i9.r5109/56771
+K 7
+include
+V 23
+dir 5h2.1i9.r4821/64507
+K 4
+meta
+V 23
+dir 6of.1z3.r4899/67521
+K 14
+sipXconference
+V 23
+dir 86e.1i9.r5109/55218
+K 10
+sipXdialog
+V 24
+dir 7vj.1i9.r4984/258303
+K 8
+sipXpark
+V 22
+dir 6pl.1i9.r5105/2359
+K 12
+sipXpresence
+V 23
+dir 7w9.1i9.r5196/27089
+K 15
+sipxpbx.spec.in
+V 24
+file 6mo.1i9.r5196/24885
+K 3
+src
+V 23
+dir 5hb.1i9.r5196/24647
+END
+ENDREP
+id: 5g6.1i9.r5227/2378
+type: dir
+pred: 5g6.1i9.r5220/8299
+count: 465
+text: 5227 1483 882 882 96a919e696967006c175350b0faa16b5
+props: 4813 10471 923 0 8e9c0f95f12b335ea36bf9c96969254e
+cpath: /main/sipXpbx
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 7
+bbridge
+V 20
+dir 8dl.0.r5226/6274
+K 5
+build
+V 21
+file 7ve.0.r4991/8749
+K 6
+config
+V 21
+dir 91.1i4.r5202/1574
+K 12
+dependencies
+V 21
+file 7rk.0.r5137/3841
+K 11
+sipXcallLib
+V 22
+dir va.1i5.r5196/33857
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r5109/87864
+K 10
+sipXconfig
+V 23
+dir 2hf.1i7.r5224/16293
+K 19
+sipXmediaAdapterLib
+V 20
+dir 89s.0.r5225/1975
+K 12
+sipXmediaLib
+V 21
+dir mz.1i8.r5175/8693
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r5227/2378
+K 9
+sipXphone
+V 23
+dir 6qk.1ia.r5188/12412
+K 11
+sipXportLib
+V 20
+dir 3.1ib.r5203/1965
+K 9
+sipXproxy
+V 23
+dir 1vt.1ic.r5109/51704
+K 13
+sipXpublisher
+V 23
+dir 20n.1id.r5220/11518
+K 12
+sipXregistry
+V 22
+dir 1y5.1ie.r5188/8089
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r5220/25839
+K 8
+sipXvxml
+V 23
+dir 22d.1ig.r5109/52947
+END
+ENDREP
+id: 7q4.0.r5227/3375
+type: dir
+pred: 7q4.0.r5226/7250
+count: 407
+text: 5227 2612 750 750 2e8497ce26a83d07b4b97e33b59fa5c9
+props: 5220 26849 1396 0 7ba5a3bf59dc0b100d9c1bc78fcdbc4d
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 22
+dir 7pt.0.r5094/309547
+K 4
+main
+V 20
+dir 7q4.0.r5227/3375
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r5227/3713
+type: dir
+pred: 0.0.r5226/7588
+count: 5227
+text: 5227 3583 117 117 0414e01cc8439ae04ec23f589f83137b
+cpath: /
+copyroot: 0 /
+
+8c0.1i9.r5005/2457 delete false false /main/sipXpbx/doc/developer/check-svnmerge-properties
+
+
+3713 3856

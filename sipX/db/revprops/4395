@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2004-12-02T21:59:33.740791Z
+K 7
+svn:log
+V 213
+Changed code so that authentication properly distinguishes between
+<realm> and <domain>.  This is particularly important when the
+two are not configured to be the same.
+
+http://track.sipfoundry.org/browse/XVX-100
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-17T17:55:39.179411Z
+K 7
+svn:log
+V 480
+Add another statistic - absDelta - a running delta since the beginning of the series calculated from current value to beginning.  Effectively shows hiccups (double-hits) that occur on some systems (mine) when using Linear mode timer on windows.
+
+Significantly widen the acceptable threshold for single values, as the mean is more interesting and useful.
+
+checkMeanAgainstThresholds took start and end values that were in types not big enough to hold them - updated to use int64_t.
+END

@@ -1,0 +1,82 @@
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 21
+dir 7pv.0.r4813/26770
+K 3
+3.0
+V 22
+dir 7q4.24b.r5424/6545
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 7
+restful
+V 21
+dir 7q0.0.r4813/15683
+K 15
+sipXconfig-soap
+V 24
+dir 2hf.20x.r5286/309278
+K 31
+sipXconfig_unique_sip_usernames
+V 23
+dir 2hf.20y.r5066/55100
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r5435/470
+type: dir
+pred: 7pt.0.r5424/7370
+count: 65
+text: 5435 0 457 457 96dc0bec9941bd942283c2455913d08b
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 7pt.0.r5435/470
+K 4
+main
+V 21
+dir 7q4.0.r5434/21928
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r5435/747
+type: dir
+pred: 0.0.r5434/22269
+count: 5435
+text: 5435 619 115 115 0d886ab1e160ad03a5e7a57c8d731063
+cpath: /
+copyroot: 0 /
+
+7q3.0.r4813/30843 delete false false /branches/user_ping
+
+7q2.0.r4813/19786 delete false false /branches/user_pin
+
+7py.0.r4813/27240 delete false false /branches/lowcarb
+
+
+747 889

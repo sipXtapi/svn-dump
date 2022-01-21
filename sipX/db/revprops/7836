@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-26T17:03:00.449911Z
+K 7
+svn:log
+V 239
+mergefrom user_dworley_redirectors2main 7690(partial),7788,7791,7827
+
+Add join redirector.
+
+Improve error reporting in dialogdisplay.
+
+Fix typos.
+
+Add HttpBody::mBodyPartCount to keep count of the number of components
+of a multipart body.
+
+END

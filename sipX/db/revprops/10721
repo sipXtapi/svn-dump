@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-07-08T18:53:12.472372Z
+K 7
+svn:log
+V 75
+Fix JBE behaviour.
+From this point it actually implements fixed length JB.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-12-29T15:29:10.111673Z
+K 7
+svn:log
+V 66
+automake did not like the PHONY pseudo-target inside a conditional
+END

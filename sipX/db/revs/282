@@ -1,0 +1,126 @@
+PLAIN
+K 10
+svn:ignore
+V 206
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxportlib.spec
+sipxportlib-*.rpm
+sipxportlib-*.tar.gz
+stamp-h1
+textfiles
+Debug
+Release
+
+K 18
+svnmerge-main-head
+V 47
+https://scm.sipfoundry.org/rep/sipXportLib/main
+K 18
+svnmerge-main-revs
+V 5
+1-279
+END
+ENDREP
+id: 3.q.r282/357
+type: dir
+pred: 3.0.r281/5885
+count: 261
+text: 281 5191 681 681 79b3924f85634ff389b3f9c5ef0a4d7f
+props: 282 0 344 0 853ede71b55be99ed73c9dcfe2f4e61a
+cpath: /old/sipXportLib/tags/main-export-B
+copyfrom: 281 /old/sipXportLib/main
+
+PLAIN
+K 5
+2.5.1
+V 17
+dir 3.e.r115/2794
+K 5
+2.5.2
+V 17
+dir 3.h.r169/1469
+K 13
+main-export-A
+V 14
+dir 3.p.r276/0
+K 13
+main-export-B
+V 16
+dir 3.q.r282/357
+END
+ENDREP
+id: an.0.r282/766
+type: dir
+pred: an.0.r276/366
+count: 6
+text: 282 603 150 150 27fb63c42c17510f98235a2beba17509
+cpath: /old/sipXportLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir ar.0.r273/1823
+K 4
+main
+V 17
+dir 3.0.r281/5885
+K 4
+tags
+V 17
+dir an.0.r282/766
+END
+ENDREP
+id: 2.0.r282/1040
+type: dir
+pred: 2.0.r281/6214
+count: 280
+text: 282 922 105 105 fb771b38ceb45a8b58ddf4b757a23893
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r282/1040
+END
+ENDREP
+id: 1.0.r282/1250
+type: dir
+pred: 1.0.r281/6425
+count: 281
+text: 282 1193 44 44 41214ef1aec43074cbbbedb7fab6eca4
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r282/1250
+END
+ENDREP
+id: 0.0.r282/1438
+type: dir
+pred: 0.0.r281/6613
+count: 282
+text: 282 1390 35 35 20ff22e6c50820647e14b370454837db
+cpath: /
+copyroot: 0 /
+
+3._0.t281-1 add false true /old/sipXportLib/tags/main-export-B
+281 /old/sipXportLib/main
+
+1438 1575

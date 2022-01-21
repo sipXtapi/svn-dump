@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-03-01T22:48:30.293372Z
+K 7
+svn:log
+V 98
+Disable OS_MSGQ_REPORTING.  This should only be turned on when
+debugging a possible MsgQ problem.
+
+END

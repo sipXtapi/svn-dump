@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-22T18:57:33.475152Z
+K 7
+svn:log
+V 119
+http://track.sipfoundry.org/browse/XVX-58
+Arrange for 'make install' to copy to_reply.wav to the stdprompts directory.
+
+END

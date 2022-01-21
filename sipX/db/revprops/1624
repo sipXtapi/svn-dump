@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-06T13:15:50.539619Z
+K 7
+svn:log
+V 720
+Modified how the microphone and speaker hooks work.  Previously, those features allowed application developers to replace the microphone source or consume the speaker target.  The microphone data was discarded and the speaker data was never send to the speaker.  Now, decisions are left up to the hook.  In the microphone case, the hook is passed the source microphone data and can modify or replace it.  In the speaker case, the hook may view/modify the speaker data or memset it to 0 to consume it.  API documentation has been updated.
+
+I also modified some documentation formatting in sipXtapi.h and replaced UtlString with const char* as a parameter in one API call.
+
+(Changes in both sipXmediaLib and sipXcallLib)
+
+
+END

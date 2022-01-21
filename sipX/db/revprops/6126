@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-02-14T03:55:31.567741Z
+K 7
+svn:log
+V 184
+XCF-910 - Set lucene lock directories thru system props.  Unfort ant is setting java.io.tmpdir and we are setting it to configure jetty so this property overrides all system properties
+END

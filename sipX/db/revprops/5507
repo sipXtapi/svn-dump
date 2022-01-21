@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-11-04T20:05:47.338595Z
+K 7
+svn:log
+V 122
+XCF-757 replace most of the tables with a new Table component
+all updated tables have "select all" checkbox in the header
+
+END

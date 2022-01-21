@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-09-22T14:52:39.458849Z
+K 7
+svn:log
+V 141
+XCF-662 Search results page, fix sort and remove pager as all items are read in anyway.  If component could page, it should use UserTable.jwc
+END

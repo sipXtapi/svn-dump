@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-03-31T19:25:50.860950Z
+K 7
+svn:log
+V 224
+Merged revisions 157 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXpublisher/branches/2.8
+    
+    r157 | xmlscott | 2005-03-31 11:43:42 -0500 (Thu, 31 Mar 2005) | 1 line
+    invoke upgrade spec in pre and post hooks
+
+END

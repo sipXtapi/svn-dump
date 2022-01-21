@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-01-24T20:54:58.200688Z
+K 7
+svn:log
+V 157
+Update schema specifications for existing xml files when installing
+Add schema checks for aliases and huntgroups,
+http://track.sipfoundry.org/browse/XRR-13
+
+
+END

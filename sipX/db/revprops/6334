@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-03-10T20:52:15.075103Z
+K 7
+svn:log
+V 193
+Heap-alloc the config DB, don't stack-alloc it, since we are passing it to SipRegistrar, which holds onto it for a little while.  Unlikely to cause problems in practice but must be done right.
+
+END

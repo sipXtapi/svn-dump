@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-03-16T18:04:33.768977Z
+K 7
+svn:log
+V 98
+Use VOICE_CALL stream on Android for speaker device so that Java audio controls work on the call.
+
+END

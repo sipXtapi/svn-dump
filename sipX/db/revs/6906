@@ -1,0 +1,306 @@
+id: c8c.3o4.r6906/0
+type: file
+pred: c8c.3it.r6905/1189
+count: 1
+text: 6905 0 1133 1820 fb7ed0c139cead72fe53a45878979f84
+props: 6905 1146 30 0 4160c74de5f4e580dc15660c798ff9fc
+cpath: /main/sipXproxy/bin/sipx-cdrs-export
+copyfrom: 6905 /branches/3.4/sipXproxy/bin/sipx-cdrs-export
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1xa.1ic.r6904/65772
+K 18
+sipauthproxy.sh.in
+V 24
+file 1w4.1ic.r4931/15190
+K 14
+sipproxy.sh.in
+V 22
+file 1w5.1ic.r6680/168
+K 16
+sipx-cdrs-export
+V 20
+file c8c.3o4.r6906/0
+K 22
+sipxcallresolver.sh.in
+V 23
+file 9vj.3ao.r6804/5661
+K 20
+sipxha-distrib.sh.in
+V 23
+file c0p.1ic.r6709/1044
+END
+ENDREP
+id: 1w3.1ic.r6906/607
+type: dir
+pred: 1w3.1ic.r6904/66301
+count: 52
+text: 6906 281 313 313 20d68b3923825257e8bb2ba77406f782
+props: 2251 0 92 0 7813287a169b784a181741eef57ca2cc
+cpath: /main/sipXproxy/bin
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1vu.0.r2221/14695
+K 9
+ChangeLog
+V 20
+file 1vv.0.r2238/425
+K 7
+INSTALL
+V 22
+file 1vw.0.r2221/19180
+K 7
+LICENSE
+V 19
+file 1vx.0.r2221/82
+K 11
+Makefile.am
+V 23
+file 1vy.1ic.r6525/5637
+K 4
+NEWS
+V 22
+file 1vz.0.r2221/22868
+K 6
+README
+V 22
+file 1w0.0.r2221/14388
+K 4
+TODO
+V 22
+file 1w1.0.r2221/18875
+K 9
+acsite.m4
+V 21
+file 1w2.0.r2221/1636
+K 3
+bin
+V 21
+dir 1w3.1ic.r6906/607
+K 12
+configure.ac
+V 23
+file 1w9.1ic.r6690/7106
+K 3
+doc
+V 23
+dir 1xb.1ic.r6904/65528
+K 3
+etc
+V 23
+dir 1wa.1ic.r6826/80254
+K 4
+meta
+V 21
+dir 1xi.1ic.r6253/755
+K 17
+sipXauthproxy.dsp
+V 24
+file 1x5.1ic.r6813/44044
+K 20
+sipXforkingProxy.dsp
+V 24
+file 1x6.1ic.r6813/43781
+K 17
+sipxproxy.spec.in
+V 24
+file 1x9.1ic.r6904/63530
+K 3
+src
+V 22
+dir 1wn.1ic.r6855/9007
+END
+ENDREP
+id: 1vt.1ic.r6906/1612
+type: dir
+pred: 1vt.1ic.r6904/67311
+count: 253
+text: 6906 842 757 757 94f42fb192caeb91a199b8b0e08be43f
+props: 5457 136070 886 0 24c9b2e7838c4b90430aef9bdd7b25c4
+cpath: /main/sipXproxy
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 7
+bbridge
+V 19
+dir 8dl.0.r6648/271
+K 5
+build
+V 20
+file 7ve.0.r6807/105
+K 6
+config
+V 22
+dir 91.1i4.r6839/75863
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 14
+resiprocateLib
+V 20
+dir 8g8.0.r5655/3734
+K 11
+sipXcallLib
+V 22
+dir va.1i5.r6889/59268
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r6826/86163
+K 10
+sipXconfig
+V 23
+dir 2hf.1i7.r6903/17532
+K 19
+sipXmediaAdapterLib
+V 20
+dir 89s.0.r6723/1952
+K 12
+sipXmediaLib
+V 23
+dir mz.1i8.r6839/104565
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r6891/3614
+K 9
+sipXphone
+V 22
+dir 6qk.1ia.r6366/8398
+K 11
+sipXportLib
+V 21
+dir 3.1ib.r6895/21359
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r6906/1612
+K 13
+sipXpublisher
+V 23
+dir 20n.1id.r6690/12779
+K 12
+sipXregistry
+V 23
+dir 1y5.1ie.r6889/63398
+K 11
+sipXtackLib
+V 21
+dir dk.1if.r6897/7369
+K 8
+sipXvxml
+V 22
+dir 22d.1ig.r6690/9615
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 10
+build.err
+
+K 26
+svnmerge-pingtel-main-head
+V 50
+https://paradise.pingtel.com/rep/sipX/pingtel/main
+K 26
+svnmerge-pingtel-main-revs
+V 171
+1-5590,5645,5738,5954,5969,6041,6077,6139,6144,6156,6158,6187,6207-6208,6230,6285,6289,6292-6295,6298-6299,6301,6306,6308-6309,6311,6325-6327,6329,6333,6338,6342,6403,6551
+K 22
+svnmerge-sipx-3.0-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.0
+K 22
+svnmerge-sipx-3.0-revs
+V 51
+1-5315,5348,5357,5382,5417,5451,5474-5478,5508,5621
+K 22
+svnmerge-sipx-3.2-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.2
+K 22
+svnmerge-sipx-3.2-revs
+V 41
+1-6323,6368-6370,6494,6521,6587-6588,6470
+K 22
+svnmerge-sipx-3.4-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.4
+K 22
+svnmerge-sipx-3.4-revs
+V 96
+1-6680,6748,6759,6763-6764,6773,6775,6777-6778,6784,6794-6795,6798,6803,6825,6888,6894,6902,6905
+K 29
+svnmerge-sipx-modularity-head
+V 55
+https://scm.sipfoundry.org/rep/sipX/branches/modularity
+K 29
+svnmerge-sipx-modularity-revs
+V 6
+1-6845
+K 30
+svnmerge-sipx-replication-head
+V 67
+https://scm.sipfoundry.org/rep/sipX/branches/sipXconfig/replication
+K 30
+svnmerge-sipx-replication-revs
+V 6
+1-5723
+K 26
+svnmerge-solaris2main-head
+V 57
+https://scm.sipfoundry.org/rep/sipX/branches/solaris_port
+K 26
+svnmerge-solaris2main-revs
+V 6
+1-6454
+END
+ENDREP
+id: 7q4.0.r6906/3978
+type: dir
+pred: 7q4.0.r6904/69676
+count: 1421
+text: 6906 1851 795 795 cea8376b6f5352b4a91d5ebd62646dae
+props: 6906 2659 1306 0 6624a7a0e45f6f9a876032e66428dc65
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r6905/4785
+K 4
+main
+V 20
+dir 7q4.0.r6906/3978
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6906/4314
+type: dir
+pred: 0.0.r6905/5068
+count: 6906
+text: 6906 4187 114 114 76131d83c724f49f901247f59e6a5294
+cpath: /
+copyroot: 0 /
+
+7q4.0.t6905-1 modify false true /main
+
+c8c._0.t6905-1 add false false /main/sipXproxy/bin/sipx-cdrs-export
+6905 /branches/3.4/sipXproxy/bin/sipx-cdrs-export
+
+4314 4457

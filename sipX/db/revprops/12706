@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2019-09-05T22:58:12.225489Z
+K 7
+svn:log
+V 54
+Fixed printf macro for SipRefreshManager on MSVS 2019
+
+END

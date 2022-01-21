@@ -1,0 +1,37 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-29T16:43:04.813634Z
+K 7
+svn:log
+V 665
+Merged revisions 8573 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8573 | ipse | 2007-01-18 00:24:19 +0300 | 19 lines
+  
+  Bugfix: Timestamp on outgoing RTP packets was calculated from number of frames, captured from mic.
+  On Slow machines this leads to following timestamping (correct delta is 160 for all packets):
+  
+  Timestamp	Delta with next timestamp
+  3902969436	160
+  3902969596	240
+  3902969836	80
+  3902969916	160
+  ...
+  3902950236	160
+  3902950396	240
+  3902950636	80
+  3902950716	320
+  3902951036	0
+  3902951036	160
+  
+  Timetsamp should be calculated from number of audio samples coming to encoder.
+........
+
+END

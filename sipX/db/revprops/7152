@@ -1,0 +1,59 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-08-02T13:46:17.977931Z
+K 7
+svn:log
+V 2443
+Merged revisions 7143-7146 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7143 | bob | 2006-08-01 17:30:02 +0400 | 7 lines
+  
+  A few os lib tweaks:
+  
+  1) STUN: When creating an XOR_MAPPED address, XOR the data in network byte ordering (was XORing with host byte ordering)
+  2) STUN: Removed debug strings in OsNatAgentTask
+  3) OsTimerTask: If you receive a request to stop a timer on your own thread context, process the event directly instead of deadlocking.
+........
+  r7144 | bob | 2006-08-01 17:30:46 +0400 | 2 lines
+  
+  Added a isUserHostEqual check (in addition to isUserHostPortEqual).
+........
+  r7145 | bob | 2006-08-01 17:35:41 +0400 | 4 lines
+  
+  Fix for STUN/TURN: Previously, if you enabled STUN/TURN on an outbound call, we would attempt to wait for a STUN/TURN response prior to starting the packet pump (NetInTask).  Effectively, the responses would queue up and would not be processed until after all of the timeouts.  We now start the NetInTask (without selecting any codecs) after creating the connection
+........
+  r7146 | bob | 2006-08-01 17:46:09 +0400 | 26 lines
+  
+  A number of bug fixes and minor enhancements to sipXtapi/call
+  processing: 
+  
+  1) Added an accessor to get the contactId used when creating a line
+     definition.
+  2) Added the ability to get the conference handle for a call handle.
+  3) Added the ability to find a line given a URL.  Also loosened the
+     logic for finding a line.  We now check for exact matches (user,
+     host, port), followed by user,host) and then just user.
+  4) Added some simple URL parsing/replacement utilities (VERY simple)
+  5) Fixed the tone listener implementation -- It works better then
+     before, however, some bugs still exist:
+     - ToneIds are still in the 0-16 range -- they do not match the
+     SIPX_TONE_ID (translation is needed in both directions -- receiving
+     and sending).
+     - In some cases ToneIds are not received -- I believe we aren't
+     getting/decoding them in mp.  More investigation needed here.
+  6) When acting as the transferee, use the contactId of the
+     SipConnection receiving the REFER method request.  Meaning, if that
+     connection was using a local address (not STUN or relay), then
+     continue to use that local address.
+  7) If we create a new call (as a reaction to a transfer), make sure
+     that new call is associated with the conference in sipXtapi.
+........
+
+END

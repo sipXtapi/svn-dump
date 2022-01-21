@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-10-02T14:30:30.987453Z
+K 7
+svn:log
+V 67
+Removed libspeex generated files from svn and added to ignore list
+
+END

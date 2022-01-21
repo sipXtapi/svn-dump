@@ -1,0 +1,28 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-08-29T22:19:38.621532Z
+K 7
+svn:log
+V 573
+Temporary fix:
+#ifdef out the tests:
+     CallManagerTest::testUATeardown
+     CallManagerTest::testLineMgrUATeardown
+     CallManagerTest::testRefreshMgrUATeardown
+so that sipX will build.
+
+Put parentheses around #define expression.
+
+Do not treat an absent port number as equivalent to the default port number.
+http://track.sipfoundry.org/browse/XSL-96
+
+Remove sipXconference from the process definitions for the time being, because
+it is not done yet.  If it appears in ProcessDefinitions.xml, then
+the config UI will display it as a process (that has not been started).
+
+END

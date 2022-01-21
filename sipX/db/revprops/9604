@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-05-25T23:47:53.703974Z
+K 7
+svn:log
+V 130
+Make visible which mediaInterface is being used at runtime.
+Also, add a way to turn off some unit tests when sandbox is compiled.
+
+END

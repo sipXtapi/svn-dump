@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-04T22:25:17.667579Z
+K 7
+svn:log
+V 210
+Check in new version of OSS input and output drivers for new audio I/O framework.
+This is a big clean up of existing version. Many bugs fixed, clock stability improved too.
+Patch provided by Sergey Kostanbaev.
+
+END

@@ -1,0 +1,39 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-10-31T21:02:04.194658Z
+K 7
+svn:log
+V 901
+Finish reverting rev. 3920, which was a complete mistake.
+sipXregistry/include/RegisterHook.h was deleted in rev. 3926.
+
+Add log-debug to the PHONIES list.
+
+Allow TiXmlBase::SkipWhiteSpace to work correctly when *p == '\0' by
+returning successfully.
+
+Revert rev 3891 (except for an improvement in a debugging print).
+That rev was to work around the bug in XPL-127.  Now that rev 4040 has fixed
+that bug, remove the workaround.
+
+Add test for TinyXML problem XPL-127.
+
+For the time being, force the "no early-only" behavior in all call
+pick-ups.
+
+Fix handling of parameters on the remote contact address in dialog
+event notices.
+
+Add workaround so Snom phones can pick up calls.
+
+Split SipClient::isReadyToRead into two functions:
+SipClient::isReadyToRead, which is a non-blocking test for socket-ready-to-read,
+and SipClient::waitForReadyToRead, which waits.
+http://track.sipfoundry.org/browse/XSL-111
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-06-01T21:11:05.585674Z
+K 7
+svn:log
+V 365
+Make defaults more prominent, using preprocessor definitions to define them (default silence length, default frames to record).
+Clean up formatting. (still needs some tab removal)
+Add description esp. including parameter description for CpMediaInterface::recordMic, as it is not obvious that silence length is in seconds, whereas the record time is in milliseconds.
+END

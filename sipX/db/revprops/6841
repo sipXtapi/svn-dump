@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-05-22T16:06:17.296215Z
+K 7
+svn:log
+V 111
+XCF-823 trim leading and trailing spaces from external rules file names configured in sipxconfig.properties.in
+
+END

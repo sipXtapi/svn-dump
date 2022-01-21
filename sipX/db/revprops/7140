@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+mdm2000
+K 8
+svn:date
+V 27
+2006-08-01T09:09:34.191065Z
+K 7
+svn:log
+V 120
+Use a better approximation of time since boot than always 0 on platforms without /proc/uptime: start at 0 but increase.
+
+END

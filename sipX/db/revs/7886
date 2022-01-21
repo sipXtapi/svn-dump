@@ -1,0 +1,537 @@
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: d5b.5jf.r7886/60
+type: dir
+pred: d5b.1i9.r7551/1784
+count: 3
+text: 7551 1527 244 244 b9bf179677993836f19d8a790bfe464f
+props: 7886 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /branches/user_dworley_redirectors_merge/sipXpbx/src/test/processcgi
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 5k1.1i9.r7322/8947
+K 10
+processcgi
+V 20
+dir d5b.5jf.r7886/60
+K 7
+sipxcgi
+V 24
+dir 5k2.1i9.r5457/143647
+END
+ENDREP
+id: 5k0.5jf.r7886/487
+type: dir
+pred: 5k0.1i9.r7551/2185
+count: 21
+text: 7886 340 134 134 e81b57a539eeddd5f793422b92cbc72f
+props: 7375 37259 48 0 86168c69db02cf3306494c6df91bc2ed
+cpath: /branches/user_dworley_redirectors_merge/sipXpbx/src/test
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 11
+Makefile.am
+V 25
+file 5hc.1i9.r5887/451159
+K 14
+cbadmissioncgi
+V 23
+dir 8xm.1i9.r7629/15641
+K 13
+emailnotifier
+V 23
+dir 5hd.1i9.r5657/15307
+K 10
+mailboxmgr
+V 23
+dir 5hi.1i9.r7707/45211
+K 14
+mediaservercgi
+V 23
+dir 5jf.1i9.r7629/13964
+K 12
+mod_sipxauth
+V 23
+dir 5ji.1i9.r7629/13343
+K 10
+processcgi
+V 23
+dir 5jm.1i9.r7629/12663
+K 14
+replicationcgi
+V 22
+dir 5ju.1i9.r7697/1892
+K 7
+sipxcgi
+V 21
+dir 5jx.0.r4571/94214
+K 4
+test
+V 21
+dir 5k0.5jf.r7886/487
+K 8
+watchdog
+V 22
+dir 5kc.1i9.r7758/2586
+K 10
+wwwcontent
+V 22
+dir 5r8.1i9.r7426/2561
+END
+ENDREP
+id: 5hb.5jf.r7886/1317
+type: dir
+pred: 5hb.1i9.r7758/3385
+count: 204
+text: 7886 761 543 543 6322027f69db39e68e3a4dc649f7e081
+props: 4144 5413 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /branches/user_dworley_redirectors_merge/sipXpbx/src
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4454/288397
+K 9
+ChangeLog
+V 21
+file 5g8.0.r4571/9011
+K 7
+INSTALL
+V 23
+file 5g9.0.r4454/289610
+K 7
+LICENSE
+V 21
+file 5ga.0.r4571/8791
+K 11
+Makefile.am
+V 23
+file 5gb.1i9.r7616/6351
+K 4
+NEWS
+V 23
+file 5gc.0.r4454/299658
+K 6
+README
+V 23
+file 5gd.0.r4454/288092
+K 4
+TODO
+V 23
+file 5ge.0.r4454/289304
+K 3
+bin
+V 22
+dir 5gg.1i9.r7849/4974
+K 6
+config
+V 24
+file d3o.1i9.r7274/13520
+K 12
+configure.ac
+V 23
+file 5gl.1i9.r7696/6698
+K 3
+doc
+V 22
+dir 5gm.1i9.r7804/5832
+K 3
+etc
+V 22
+dir 5gp.1i9.r7598/3275
+K 7
+include
+V 22
+dir 5h2.1i9.r7322/6844
+K 4
+meta
+V 22
+dir 6of.1z3.r7758/1493
+K 14
+sipXconference
+V 23
+dir 86e.1i9.r7707/47482
+K 10
+sipXdialog
+V 22
+dir 7vj.1i9.r7548/6621
+K 8
+sipXpark
+V 23
+dir 6pl.1i9.r7867/13135
+K 12
+sipXpresence
+V 22
+dir 7w9.1i9.r7679/8094
+K 15
+sipxpbx.spec.in
+V 23
+file 6mo.1i9.r7849/3706
+K 3
+src
+V 22
+dir 5hb.5jf.r7886/1317
+END
+ENDREP
+id: 5g6.5jf.r7886/2474
+type: dir
+pred: 5g6.1i9.r7867/14266
+count: 641
+text: 7886 1587 874 874 0f06adac079f8c0d19bc059c3471372d
+props: 7274 14626 838 0 253428b826320ceabffbfa339b5e7dbb
+cpath: /branches/user_dworley_redirectors_merge/sipXpbx
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 11
+Makefile.in
+V 22
+file d0m.421.r7476/352
+K 7
+bbridge
+V 20
+dir 8dl.0.r7696/8716
+K 5
+build
+V 22
+file d5a.0.r7664/15661
+K 6
+config
+V 21
+dir 91.1i4.r7866/1575
+K 12
+configure.ac
+V 22
+file d0n.0.r7696/10199
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 3
+lib
+V 22
+dir cyn.5ja.r7882/1105
+K 14
+msvs6build.bat
+V 20
+file dm4.0.r7715/812
+K 14
+resiprocateLib
+V 21
+dir 8g8.0.r7696/13751
+K 9
+sipXb2bua
+V 22
+dir dau.0.r7443/443096
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r7870/8549
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r7870/18069
+K 10
+sipXconfig
+V 22
+dir 2hf.1i7.r7875/9374
+K 19
+sipXmediaAdapterLib
+V 20
+dir 89s.0.r7761/9455
+K 12
+sipXmediaLib
+V 21
+dir mz.1i8.r7761/7877
+K 7
+sipXpbx
+V 22
+dir 5g6.5jf.r7886/2474
+K 11
+sipXportLib
+V 20
+dir 3.5je.r7884/1293
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r7852/3172
+K 13
+sipXpublisher
+V 22
+dir 20n.1id.r7870/4851
+K 12
+sipXregistry
+V 23
+dir 1y5.1ie.r7870/12568
+K 11
+sipXtackLib
+V 21
+dir dk.5jb.r7877/1988
+K 8
+sipXvxml
+V 23
+dir 22d.1ig.r7867/11456
+K 10
+top.mak.in
+V 21
+file d5l.0.r7330/2797
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 46
+build.err
+configure
+autom4te.cache
+aclocal.m4
+
+K 38
+svnmerge-dworley-URI-parsing2main-head
+V 74
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/dworley-URI-parsing
+K 38
+svnmerge-dworley-URI-parsing2main-revs
+V 6
+1-7477
+K 49
+svnmerge-main2user_dworley_redirectors_merge-head
+V 40
+https://scm.sipfoundry.org/rep/sipX/main
+K 49
+svnmerge-main2user_dworley_redirectors_merge-revs
+V 6
+1-7875
+K 26
+svnmerge-pingtel-main-head
+V 50
+https://paradise.pingtel.com/rep/sipX/pingtel/main
+K 26
+svnmerge-pingtel-main-revs
+V 456
+1-5590,5645,5738,5813,5840,5842,5914,5954,5969,5982,6041,6077,6085,6139,6144,6156,6158,6182,6187,6207-6208,6230,6285,6289,6292-6295,6298-6299,6301,6306,6308-6309,6311,6325-6327,6329,6333,6338,6342,6403,6441,6491,6538-6539,6551,6561,6587,6936-6937,6953,6960-6961,6997,7053,7062-7065,7067-7070,7080,7087,7092-7093,7105,7115-7116,7164,7169-7170,7180,7199,7241-7242,7274,7276-7277,7280,7293,7295,7359-7360,7374,7380-7382,7385,7389,7392,7394,7405,7408,7460,7468
+K 22
+svnmerge-sipx-3.0-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.0
+K 22
+svnmerge-sipx-3.0-revs
+V 51
+1-5315,5348,5357,5382,5417,5451,5474-5478,5508,5621
+K 22
+svnmerge-sipx-3.2-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.2
+K 22
+svnmerge-sipx-3.2-revs
+V 16
+1-6588,6684,7229
+K 22
+svnmerge-sipx-3.4-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.4
+K 22
+svnmerge-sipx-3.4-revs
+V 166
+1-6680,6748,6759,6763-6764,6773,6775,6777-6778,6784,6794-6795,6798,6803,6825,6830,6888,6894,6902,6905,6926,6947,6956,6966,6976,6978,6981,6987,7000,7077-7079,7095,7249
+K 22
+svnmerge-sipx-3.6-head
+V 48
+https://scm.sipfoundry.org/rep/sipX/branches/3.6
+K 22
+svnmerge-sipx-3.6-revs
+V 21
+1-7636,7693-7694,7770
+K 29
+svnmerge-sipx-modularity-head
+V 55
+https://scm.sipfoundry.org/rep/sipX/branches/modularity
+K 29
+svnmerge-sipx-modularity-revs
+V 6
+1-6845
+K 30
+svnmerge-sipx-replication-head
+V 67
+https://scm.sipfoundry.org/rep/sipX/branches/sipXconfig/replication
+K 30
+svnmerge-sipx-replication-revs
+V 6
+1-5723
+K 26
+svnmerge-solaris2main-head
+V 57
+https://scm.sipfoundry.org/rep/sipX/branches/solaris_port
+K 26
+svnmerge-solaris2main-revs
+V 6
+1-6454
+K 43
+svnmerge-user_dworley_redirectors2main-head
+V 69
+https://scm.sipfoundry.org/rep/sipX/branches/user_dworley_redirectors
+K 43
+svnmerge-user_dworley_redirectors2main-revs
+V 106
+1-7213,7345,7348,7350,7361-7362,7444,7456-7457,7469,7472,7509-7510,7518,7588,7668,7788-7791,7823-7824,7827
+K 44
+svnmerge-user_dworley_redirectors2merge-head
+V 69
+https://scm.sipfoundry.org/rep/sipX/branches/user_dworley_redirectors
+K 44
+svnmerge-user_dworley_redirectors2merge-revs
+V 21
+1-7203,7205,7213,7345
+END
+ENDREP
+id: 7q4.5ja.r7886/6423
+type: dir
+pred: 7q4.5ja.r7885/2652
+count: 2000
+text: 7886 2744 1009 1009 3c32963d866939cef0af5dc61fe475a0
+props: 7886 3766 2644 0 b7dd8bc18711baaebf241b29db2f9de7
+cpath: /branches/user_dworley_redirectors_merge
+copyroot: 7876 /branches/user_dworley_redirectors_merge
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r7819/13302
+K 3
+3.6
+V 23
+dir 7q4.50x.r7868/20913
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 16
+proxy_simple_cdr
+V 22
+dir 1vt.5hb.r7859/8981
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 21
+dir 9wi.0.r7794/23342
+K 21
+sipXtapi-media-update
+V 22
+dir 9wi.3ke.r7871/8308
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 21
+dir 7q4.4t1.r7562/240
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 24
+user_dworley_redirectors
+V 22
+dir 7q4.3xw.r7858/7806
+K 30
+user_dworley_redirectors_merge
+V 22
+dir 7q4.5ja.r7886/6423
+K 14
+virtual-domain
+V 22
+dir 7q4.4t6.r7863/5241
+END
+ENDREP
+id: 7pt.0.r7886/7733
+type: dir
+pred: 7pt.0.r7885/3959
+count: 1069
+text: 7886 6714 1006 1006 e50fcb4eacf9173743be416a8ba5b928
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r7886/7733
+K 4
+main
+V 21
+dir 7q4.0.r7881/12444
+K 4
+tags
+V 20
+dir 7q5.0.r7874/3088
+END
+ENDREP
+id: 0.0.r7886/8017
+type: dir
+pred: 0.0.r7885/4243
+count: 7886
+text: 7886 7890 114 114 a3fa5195e64b72f88593eef3383dad26
+cpath: /
+copyroot: 0 /
+
+d5b._0.t7885-1 modify false true /branches/user_dworley_redirectors_merge/sipXpbx/src/test/processcgi
+
+7q4.5ja.t7885-1 modify false true /branches/user_dworley_redirectors_merge
+
+
+8017 8160

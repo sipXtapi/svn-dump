@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2020-07-06T19:53:06.071993Z
+K 7
+svn:log
+V 97
+Needed to scope memory_order_seq_cst to fix build on MSVS2019 (16.6, was not an issue with 16.3)
+
+END

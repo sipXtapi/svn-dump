@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-10-17T21:06:34.799831Z
+K 7
+svn:log
+V 207
+[XPR-182] Enforce use of the authproxy when configured, even
+          when a redirect or a sender provides other routes.
+          with upgrade support
+[XPR-191] Enforce Proxy-Require in the forking proxy.
+
+END

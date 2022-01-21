@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-10-11T02:03:26.881946Z
+K 7
+svn:log
+V 62
+rollback last checkin ejb.xml meta file, was a local test only
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+szuk
+K 8
+svn:date
+V 27
+2006-09-24T07:41:22.472080Z
+K 7
+svn:log
+V 209
+Added some virtual domain support to the registrar.
+ - modified registrar to accept registrations for any of the configured virtual domains and to send different realms when challenging for www authorization
+
+
+END

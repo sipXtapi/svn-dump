@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-06-16T20:43:36.229287Z
+K 7
+svn:log
+V 277
+Add a User-Agent header when sending a Too Many Hops error
+Factor out the code to add the User-Agent header into its own
+  method to make this easier elsewhere.
+Improve the construction of the User-Agent header by storing
+  any added properties as a string rather than a list.
+
+END

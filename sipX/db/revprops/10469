@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-16T18:19:42.109617Z
+K 7
+svn:log
+V 93
+Add resampler to linux and windows builds:
+* automake
+* VC6
+* MSVC2003(VC7)
+* MSVC2005(VC8)
+
+
+END

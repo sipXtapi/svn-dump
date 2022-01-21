@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-13T19:52:13.855267Z
+K 7
+svn:log
+V 225
+Checking in RFC2833/4733 telephone-events codec plugin.
+To all codecs VS2003 projects added "Ignore Import Library" option. This will allow us to add sipXmediaLib project dependency on all plugins projects without any impact.
+END

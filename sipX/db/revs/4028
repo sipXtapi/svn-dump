@@ -1,0 +1,216 @@
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+K 10
+svn:ignore
+V 234
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+bin.eclipse
+build
+config.h
+config.h.in
+config.log
+config.properties
+config.status
+configure
+libtool
+sipxconfig-*.rpm
+sipxconfig-*.tar.gz
+sipxconfig.spec
+stamp-h1
+top.build.dir
+
+K 17
+svnmerge-2.6-head
+V 54
+https://scm.sipfoundry.org/rep/sipXconfig/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 29
+1-204,218,223-251,265,314,459
+K 17
+svnmerge-2.8-head
+V 54
+https://scm.sipfoundry.org/rep/sipXconfig/branches/2.8
+K 17
+svnmerge-2.8-revs
+V 13
+1-829,837-855
+K 18
+svnmerge-main-head
+V 46
+https://scm.sipfoundry.org/rep/sipXconfig/main
+K 18
+svnmerge-main-revs
+V 6
+1-1003
+K 24
+svnmerge-post-2.6.1-revs
+V 5
+1-143
+K 22
+svnmerge-user_pin-head
+V 59
+https://scm.sipfoundry.org/rep/sipXconfig/branches/user_pin
+K 22
+svnmerge-user_pin-revs
+V 5
+1-732
+K 23
+svnmerge-user_ping-head
+V 60
+https://scm.sipfoundry.org/rep/sipXconfig/branches/user_ping
+K 23
+svnmerge-user_ping-revs
+V 5
+1-692
+END
+ENDREP
+id: 2hf.wc.r4028/1043
+type: dir
+pred: 2hf.wc.r4026/0
+count: 765
+text: 4025 62658 1348 1348 48ea595aa5d5de6e308f3a1bc36a91dc
+props: 4028 0 1030 0 c076a900531b234b7521094215a912fe
+cpath: /old/sipXconfig/branches/lowcarb
+copyroot: 4026 /old/sipXconfig/branches/lowcarb
+
+PLAIN
+K 3
+2.6
+V 21
+dir 2hf.jd.r3596/6164
+K 3
+2.8
+V 21
+dir 2hf.r0.r3961/2841
+K 10
+cert-login
+V 22
+dir 2hf.vc.r3888/21063
+K 7
+lowcarb
+V 21
+dir 2hf.wc.r4028/1043
+K 7
+restful
+V 22
+dir 2hf.vj.r3903/20876
+K 8
+user_pin
+V 20
+dir 2hf.um.r3756/915
+K 9
+user_ping
+V 20
+dir 2hf.sw.r3716/786
+END
+ENDREP
+id: 4c1.0.r4028/1599
+type: dir
+pred: 4c1.0.r4026/544
+count: 183
+text: 4028 1310 276 276 2475f2d69393160dad58e35206250dd6
+cpath: /old/sipXconfig/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 4c1.0.r4028/1599
+K 4
+main
+V 20
+dir 2hf.0.r4027/1061
+K 4
+tags
+V 20
+dir 4b6.0.r3962/2744
+END
+ENDREP
+id: 2he.0.r4028/1893
+type: dir
+pred: 2he.0.r4027/1409
+count: 1003
+text: 4028 1767 113 113 cf0fb03c3d9f7e3e5fb1575412e31679
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 20
+dir 2he.0.r4028/1893
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4028/2498
+type: dir
+pred: 1.0.r4027/2013
+count: 4026
+text: 4028 2054 431 431 d01567310e2b0969aa8658730ad7d18d
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4028/2498
+END
+ENDREP
+id: 0.0.r4028/2693
+type: dir
+pred: 0.0.r4027/2208
+count: 4028
+text: 4028 2644 36 36 afaf574c3ebc202a638cbc1621d1cd4e
+cpath: /
+copyroot: 0 /
+
+2hf.wc.t4027-1 modify false true /old/sipXconfig/branches/lowcarb
+
+
+2693 2834

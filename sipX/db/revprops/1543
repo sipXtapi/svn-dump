@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-07T19:25:36.284908Z
+K 7
+svn:log
+V 94
+BuildFix: Error compiling PtMetaEvent.cpp -- I clearly did not test this
+before checking in.
+
+
+END

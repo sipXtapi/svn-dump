@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+apex_li
+K 8
+svn:date
+V 27
+2004-06-08T11:34:31.451337Z
+K 7
+svn:log
+V 93
+UtlHashMap ,UtlHashMapIterator:
+Changed code style .
+passed raghu tests .
+new design method .
+END

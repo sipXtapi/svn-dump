@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+martin
+K 8
+svn:date
+V 27
+2007-03-12T14:01:07.135238Z
+K 7
+svn:log
+V 76
+Remove xerces-c as a dependency for FC5 and FC6. It is now part of 
+Extras.
+
+END

@@ -1,0 +1,37 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-02-03T18:58:02.716622Z
+K 7
+svn:log
+V 738
+Improve usage message.
+
+RpmPackage debug/debuginfo fix
+
+Print status information about what build labels were used and what
+configuration switches that created.
+
+Remove extraneous 'cd' output
+
+Tighten up how the returned status from a subprocess is handled, so
+that if the subprocess returns null or garbage, the test won't produce
+a "unary operator expected" message, nor an invalid result.
+
+Improve some comments on the structure of the label file.
+
+Add --verbose to suppress -s from "make" invocations.
+
+Add --configure to allow ./configure options to be specified on the
+command line.
+
+Allow relative directories as destination argument.
+
+Some more adjustments to ./build so that it displays variables from
+multiple labels correctly.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-09-16T14:11:38.363329Z
+K 7
+svn:log
+V 95
+restore some rpm edit I lost, postgres initdb errors, postgres permission errors, usermod error
+END

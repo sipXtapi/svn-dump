@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-10-31T17:33:46.378190Z
+K 7
+svn:log
+V 95
+Added test point and check if codec info is provide to prevent segv in MpCodecsPerformanceTest
+
+END

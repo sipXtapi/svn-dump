@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-01-14T23:30:54.172778Z
+K 7
+svn:log
+V 153
+Change locking strategy for UtlContainer and UtlIterator classes
+Remove the UtlIterator::remove method
+
+See comments in UtlContainer.h for locking rules
+
+END

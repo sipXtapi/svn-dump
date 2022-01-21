@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-02-24T20:06:04.553403Z
+K 7
+svn:log
+V 195
+XCF-117: fixed new database initialization.
+
+We used to look for domain name in database. It's not necessary since domain name and realm are passed to initialization modules (as PGS properties).
+
+END

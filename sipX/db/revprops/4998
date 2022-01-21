@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-09-07T18:33:51.567992Z
+K 7
+svn:log
+V 403
+XCF-504 Point default registration and outbound proxy settings to DOMAIN_NAME. They can still be changed independently from sipxconfig.properties AND can be changed at the group level.  NOTE: Of admins that do not setup DNS SRV, They are instructed to set DOMAIN_NAME for FQDN and so system will work either way.  Even for users that do not even use DNS, DOMAIN_NAME as an IP address would work as well.
+END

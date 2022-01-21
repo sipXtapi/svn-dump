@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-08-30T18:18:58.778517Z
+K 7
+svn:log
+V 143
+Change MpToneResourceMsg to use uint8_t instead of int to hold the DTMF tone code, as that is what should be used for RFC 2833/4733 tone codes.
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-28T20:03:26.192406Z
+K 7
+svn:log
+V 113
+MprToOutputDevice: Correct frame time only in mixer mode.
+In direct write mode frame time correction is useless.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-25T13:24:30.867978Z
+K 7
+svn:log
+V 92
+Correct return value of MpResamplerBase::resample() in case when (mInputRate==mOutputRate).
+
+END

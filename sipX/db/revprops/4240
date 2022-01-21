@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-10-03T00:03:48.626812Z
+K 7
+svn:log
+V 33
+correct destinations for rpmbuild
+END

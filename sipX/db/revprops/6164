@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-16T18:12:20.970396Z
+K 7
+svn:log
+V 150
+XCF-753 JobStatus page fixed after upgrading to Tapestry 4.
+Injected ExpressionEvaluator that is now needed to create expression based column models.
+
+END

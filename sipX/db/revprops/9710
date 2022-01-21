@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-20T23:47:07.693560Z
+K 7
+svn:log
+V 292
+Totally remove outdated (U)CHAR, (U)SHORT and (U)INT types. Use appropriate C99 integer types or other suitable types instead.
+(U)Int64 is still here, as it is extensively used by SDP code. Though, it is defined to (u)int64_t now. In future these types will be replaced with bare (u)int64_t.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-11T18:29:19.850252Z
+K 7
+svn:log
+V 308
+Make MpInputDeviceManager::getFrame() return frame time of returned frame.
+Sometimes it is useful to know real frame time if fetched frame start. E.g. we may want to synchronize to device driver. Also this fixes issue with failed MpInputDeviceManagerTest when reader requests frame with aliquant frame time.
+
+END

@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-13T13:54:29.147414Z
+K 7
+svn:log
+V 345
+1) Added locking strategy for internal sipXtapi data structures.  2) Fixed
+a bug where some operations failed on inbound calls.  3) Regenerated documentation.
+
+I still need to take another pass on some of the internal documentation.
+Also, the transfer unit tests now fail -- however, the test cases need
+to be updated (as opposed to the code).
+
+
+END

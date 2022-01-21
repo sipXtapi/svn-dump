@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-07-06T15:49:43.594272Z
+K 7
+svn:log
+V 70
+Bug XPB-11: Use new APACHE2_STARTUP varaible instead of APACHE2_HOME
+
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+cypromis
+K 8
+svn:date
+V 27
+2006-09-04T19:44:32.531402Z
+K 7
+svn:log
+V 99
+Change the snom.vm generation so it never uses empty settings (bug reported by SNOM and VoiceWorks)
+END

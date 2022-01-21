@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-06-13T23:50:49.832998Z
+K 7
+svn:log
+V 480
+Wave buffers added to the wave interface via waveInAddBuffer are only good for one run.  Once the wave interface returns them full of data, they must be re-added via waveInAddBuffer once ready to be added back to the pool of buffers that the wave interface uses.  It is also necessary for the buffers to stop being added once the device is about to be disabled (prior to a waveInReset), otherwise a deadlock situation with waveInReset occurs.
+
+Fixes for these issues are included.
+END

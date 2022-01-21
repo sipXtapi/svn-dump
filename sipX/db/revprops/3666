@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-17T17:45:37.252376Z
+K 7
+svn:log
+V 175
+XCF-252 - Nasty bug, a line created for phone a will show up as lines for all other phones and visiting the page actually reassigns all lines to that phone making it permenant
+END

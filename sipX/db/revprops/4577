@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-30T19:58:45.899531Z
+K 7
+svn:log
+V 172
+XCF-131 Do not allow restarting any of the sub-servers in config server group because if rmi isn't started before all other servives, that cannot communication w/each other
+END

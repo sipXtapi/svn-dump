@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2005-03-18T22:45:40.193444Z
+K 7
+svn:log
+V 358
+Merged revisions 210 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXcommserverLib/branches/2.8
+    ------------------------------------------------------------------------
+    r210 | ajorde | 2005-03-18 17:44:21 -0500 (Fri, 18 Mar 2005) | 1 line
+    Changed paths:
+       A /branches/2.8/doc/upgrade.txt
+    
+    Adding documentaion for upgrade script
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-08-07T19:11:19.756182Z
+K 7
+svn:log
+V 69
+Add bridge algorithm files to VS6, VS2003, VS2005 and Llinux builds.
+
+END

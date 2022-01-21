@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-01-29T16:56:15.053529Z
+K 7
+svn:log
+V 389
+Merged revisions 8568-8571,8574 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8568 | kkyzivat | 2007-01-17 06:11:56 +0300 | 2 lines
+  
+  link sipx libs statically -- define SIPXTAPI_STATIC
+........
+  r8574 | kkyzivat | 2007-01-18 00:28:00 +0300 | 3 lines
+  
+  Fixes to correct evc project files now that sdpHelper.cpp is now in sipXtackLib
+........
+
+END

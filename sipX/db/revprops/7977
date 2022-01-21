@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-11-09T06:50:35.120351Z
+K 7
+svn:log
+V 85
+Fixed the --without-openssl option to configure to allow building 
+without openssl.
+
+
+END

@@ -1,0 +1,32 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-03-08T20:31:38.225573Z
+K 7
+svn:log
+V 415
+Merged revisions 8338-8340 via svnmerge from sipXtackLib main branch
+
+........
+  r8338 | dworley | 2006-12-22 00:07:39 +0300 | 15 lines
+  
+  mergefrom pingtel-main 7607-7618
+  
+  Tidy up the code.
+........
+  r8339 | dworley | 2006-12-22 00:18:09 +0300 | 2 lines
+  
+  Tidy up the code.
+........
+  r8340 | dworley | 2006-12-22 01:12:23 +0300 | 6 lines
+  
+  mergefrom pingtel-main 7622-7623
+  
+  Tidy coding.
+........
+
+END

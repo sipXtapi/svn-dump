@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-10-06T19:21:27.678686Z
+K 7
+svn:log
+V 294
+Fix a bug where sipxconfig.sh was exiting because of a bad database version, even when the user was trying to drop/create the database to fix the problem.  Now we only check the database version in configtest and when running the web UI, and not when the user is doing just a database command.
+
+END

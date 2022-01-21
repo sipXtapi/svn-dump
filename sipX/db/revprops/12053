@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2013-02-21T18:59:39.822714Z
+K 7
+svn:log
+V 116
+Fix a leak: the UtlHashMap of the RTCP connections was being deleted, but not the RTCPConnections that it pointed to
+END

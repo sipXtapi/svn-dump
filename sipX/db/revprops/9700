@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-19T00:49:57.647734Z
+K 7
+svn:log
+V 60
+Cleanly remove all codec sets in CpPhoneMediaInterfaceTest.
+
+END

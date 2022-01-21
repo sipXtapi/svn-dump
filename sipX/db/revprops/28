@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+apex_li
+K 8
+svn:date
+V 27
+2004-06-01T14:11:33.359352Z
+K 7
+svn:log
+V 156
+Change Code sytle in  UtlSList ,UtlSListIterator etc .
+Update UtlString (not completely conform to code style now ) 
+Change tab and CRLF all update  file .
+
+END

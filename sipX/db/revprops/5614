@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-11-20T16:09:02.886505Z
+K 7
+svn:log
+V 93
+FIX BUILD Ant syntax error on ant version < 1.6.5.  revise to work on all modern ant versions
+END

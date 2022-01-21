@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-06-07T20:48:55.539917Z
+K 7
+svn:log
+V 52
+subversion police: eol-style, mime-type, eof newline
+END

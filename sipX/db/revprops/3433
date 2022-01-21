@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-01-27T15:16:56.585723Z
+K 7
+svn:log
+V 75
+Remove stylesheets asset defintion.
+
+It is handled by border component now.
+END

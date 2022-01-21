@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-02-08T22:45:13.824959Z
+K 7
+svn:log
+V 507
+XCF-753 - Partial upgrade to Tapestry 4.0
+ - Jar files upgraded manually (e.g. not maven)
+ - Web compiles and login page, test page and home pages works
+ - web test unit  (not ui tests!) tests all pass except 1 OptionalElementTest
+ - Tasks have been organized into PortingTodoTest.java
+ - Had to reformat *.page and *.jwc files to get search and replace tools
+   to work but all are consistent now. Once I'm convinced search/replace is 
+   no longer needed, will wrap xml to something other than infinity
+
+
+
+END

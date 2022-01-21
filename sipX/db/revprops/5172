@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+mdm2000
+K 8
+svn:date
+V 27
+2005-09-24T23:23:56.700035Z
+K 7
+svn:log
+V 75
+Including header files in a different order to help compiles on OS X 10.3.
+
+END

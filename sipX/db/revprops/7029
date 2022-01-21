@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-07-04T13:33:17.250528Z
+K 7
+svn:log
+V 224
+Merged revisions 6935 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r6935 | bob | 2006-06-08 22:30:32 +0400 | 2 lines
+  
+  Removed some asserts and tuntime casting complaints.
+........
+
+END

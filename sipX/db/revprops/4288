@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-10-18T18:35:00.203036Z
+K 7
+svn:log
+V 142
+1.) Fix su command startup to work on Gentoo, discussed w/Dale that's its harmless on Redhat.  2.) Bug XPB-15: Shutdown config server properly
+END

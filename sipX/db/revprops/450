@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-18T21:39:57.341694Z
+K 7
+svn:log
+V 117
+Correct UtlString operator(size_t start, size_t length).
+Add tests for it.
+http://track.sipfoundry.org/browse/XPL-95
+
+END

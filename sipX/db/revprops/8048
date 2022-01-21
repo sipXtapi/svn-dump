@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-11-20T20:52:26.332505Z
+K 7
+svn:log
+V 131
+XCF-1309 - Remove user groups from phonebook members or consumers of they are deleted, make remove by primary key a vararg function
+END

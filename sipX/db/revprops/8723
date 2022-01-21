@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-08T11:12:28.376106Z
+K 7
+svn:log
+V 60
+Correctly count number of contibuting sources in MprBridge.
+
+END

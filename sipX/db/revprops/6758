@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-05-06T19:02:32.544205Z
+K 7
+svn:log
+V 328
+Project clean up, fixed crash on startup, updated to wxWidgets 2.6.3
+
+1) Removed NoVideo build targets from some of the vxproj files (not used - default projects do not include video yet).
+
+2) Fixed a crash on startup (looks like copy and paste error).
+
+3) Updated to wxWidgets 2.6.3 -- see updated INSTALL doc in sipXezPhone.
+
+
+END

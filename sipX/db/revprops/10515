@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-28T21:57:59.185837Z
+K 7
+svn:log
+V 74
+When fromFile file reading cannot open the file, return OS_FILE_NOT_FOUND.
+END

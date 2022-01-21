@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-10-14T19:03:16.688763Z
+K 7
+svn:log
+V 113
+Fixed the order of detach reader/writer from ALSA thread.
+Removed some OSS remnents.
+Added some instrumentation.
+
+END

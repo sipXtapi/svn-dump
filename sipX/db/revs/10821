@@ -1,0 +1,46 @@
+PLAIN
+K 21
+sipXtapi-media-update
+V 20
+dir 9wi.7n7.r10818/0
+END
+ENDREP
+id: fuu.0.r10821/70
+type: dir
+pred: fuu.0.r10818/398
+count: 3
+text: 10821 0 57 57 31c41faa9608a33ed6cc0b324d11cc84
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir fuu.0.r10821/70
+K 4
+main
+V 20
+dir 9wi.7n5.r10815/0
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r10821/383
+type: dir
+pred: 0.0.r10820/782
+count: 10821
+text: 10821 217 153 153 95c201c06395508cf39dd4e56afe6cd3
+cpath: /
+copyroot: 0 /
+
+9wi.7n6.r10817/0 delete false false /branches/sipXtapi-AOL
+
+
+383 527

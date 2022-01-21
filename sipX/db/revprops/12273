@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2014-12-15T06:01:05.243117Z
+K 7
+svn:log
+V 40
+Added MprRecorderTest to Windows builds
+
+END

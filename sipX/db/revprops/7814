@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-10-24T11:09:15.335332Z
+K 7
+svn:log
+V 532
+Merged revisions 7785-7794 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+Also fixed missed merge conflict in sipXmediaFactoryImpl.cpp.
+
+........
+  r7785 | bob | 2006-10-19 07:58:24 +0400 | 2 lines
+  
+  BugFix: Don't drop stun transaction id when creating a response to a turn request.
+........
+  r7794 | bob | 2006-10-20 02:55:51 +0400 | 6 lines
+  
+  A few TURN tweaks:
+  
+  1) Don't fail to parase on TURN_REQUESTED_PORT (not yet used)
+  2) Don't require fingerprint attribute (no longer used)
+........
+
+END

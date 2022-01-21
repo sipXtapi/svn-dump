@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-10-04T04:33:17.878577Z
+K 7
+svn:log
+V 93
+remove unused page from rpm build
+
+patch from Hannu Strang to fix cppunit-1.11 compatibility
+
+END

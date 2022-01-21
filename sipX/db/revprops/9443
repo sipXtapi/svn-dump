@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-28T19:49:32.256337Z
+K 7
+svn:log
+V 131
+MprToOutputDevice: Implement simple version of code for advancing internal current frame time pointer if pushFrame returned error.
+
+END

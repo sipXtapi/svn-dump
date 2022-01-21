@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-28T12:43:42.297155Z
+K 7
+svn:log
+V 167
+Fix MpWBInputOutputDeviceTest after all MprFromFile::playBuffer() changes.
+After this commit Speex is no more directly needed here. We rather use our MpResampler API.
+
+END

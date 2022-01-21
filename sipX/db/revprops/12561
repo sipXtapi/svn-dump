@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-11-06T22:52:15.757913Z
+K 7
+svn:log
+V 72
+Not sure this is needed.  Setup some sipX autoconf flags for sipXsdpLib
+
+END

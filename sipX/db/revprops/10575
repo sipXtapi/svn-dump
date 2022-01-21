@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-31T17:57:38.809257Z
+K 7
+svn:log
+V 69
+Add MpCodecsPerformanceTest to VS6, VS2003, VS2005 and Linux builds.
+
+END

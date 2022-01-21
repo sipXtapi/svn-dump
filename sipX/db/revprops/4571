@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-28T15:32:58.754257Z
+K 7
+svn:log
+V 84
+Clean up tabs.
+Set sf:tab property for many files that are allowed to contain tabs.
+
+END

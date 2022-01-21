@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-04-01T19:11:05.668602Z
+K 7
+svn:log
+V 432
+Merged revisions 490 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXpbx/branches/2.8
+    ------------------------------------------------------------------------
+    r490 | dhsu | 2005-04-01 13:34:03 -0500 (Fri, 01 Apr 2005) | 3 lines
+    Changed paths:
+       M /branches/2.8/src/mailboxmgr/AutoAttendantCGI.cpp
+    
+    Stripped out the "internal" in the filename. Otherwise, it will not find the greeting prompt.
+    
+    
+
+END

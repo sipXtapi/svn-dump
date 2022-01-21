@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-12T22:41:36.483162Z
+K 7
+svn:log
+V 112
+Remove code that reads the <param> children of <target>.
+That was erroneous, and those children can be ignored.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-12-13T14:32:06.519465Z
+K 7
+svn:log
+V 64
+Updates in coordination with sipXmediaLib r84: dmaTask cleanup
+
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-10T23:56:14.913499Z
+K 7
+svn:log
+V 135
+Fix CpTopologyGraphFactoryImpl after last changes.
+Also don't try to bind output connection to specific Bridge port in multicast case.
+
+END

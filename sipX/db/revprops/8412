@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-12-29T19:59:31.571385Z
+K 7
+svn:log
+V 79
+XPL-184: Make client socket blocking in OsSocketTest::testWriteAndAcceptMsg().
+
+END

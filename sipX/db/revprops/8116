@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-26T02:18:36.977428Z
+K 7
+svn:log
+V 222
+Merged revisions 8011 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8011 | bob | 2006-11-17 19:40:55 +0300 | 3 lines
+  
+  Merging from main to sipXtapi.  Changes upto r7991
+........
+
+END

@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-04-05T21:28:34.385166Z
+K 7
+svn:log
+V 251
+Added resource constructors for use in the resource factory for:
+   MprFromInputDevice (currenlty constructs a MprFromMic resource)
+   MprNull
+   MprToOutputDevice (currently constructs a MprToSpkr resource)
+   MprBridge
+   MprFromFile
+   MprToneGen
+
+
+END

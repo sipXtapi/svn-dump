@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-12-09T17:22:44.833316Z
+K 7
+svn:log
+V 150
+- temporarily remove build number and comment from version string (we can revert
+  to long format once build number is available)
+- updated unit test
+
+END

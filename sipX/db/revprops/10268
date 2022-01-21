@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-10-04T18:32:09.567298Z
+K 7
+svn:log
+V 352
+Add new wideband input/output test.
+
+This tests a variety of tones at a variety of sample rates, to test wideband support in flowgraphs.
+
+Note: this test requires a short-circuit cable - male minijack-to-male minijack, so it can record some generated output, and play it back.  It also requires user intervention to properly run and interpret the test.
+END

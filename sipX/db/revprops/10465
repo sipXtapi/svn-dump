@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-16T12:00:32.464342Z
+K 7
+svn:log
+V 100
+Add files, checked in at rev.10461 to VS* projects. This should solve build problems under Windows.
+
+END

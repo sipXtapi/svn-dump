@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-03-21T17:37:33.285535Z
+K 7
+svn:log
+V 392
+XCF-886 accept serial number of AudioCodes gateway instead of MAC Address (serial number is printed on box label, MAC address is not)
+calculate AudioCodes profile name from its serial number
+move validation and translation of devices' (phones and gateways) serial number from common UI code to DeviceDescriptor, which makes possible to support different form of serial number for each device
+
+END

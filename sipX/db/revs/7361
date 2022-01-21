@@ -1,0 +1,202 @@
+PLAIN
+K 11
+Makefile.in
+V 24
+file d0m.45p.r7359/67586
+K 7
+bbridge
+V 24
+dir 8dl.3xw.r7359/116651
+K 6
+config
+V 23
+dir 91.439.r7359/124194
+K 12
+configure.ac
+V 25
+file d0n.3xw.r7359/120995
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 3
+lib
+V 24
+dir cyn.3xw.r7359/152298
+K 14
+resiprocateLib
+V 24
+dir 8g8.3xw.r7359/154131
+K 11
+sipXcallLib
+V 23
+dir va.3ym.r7359/133176
+K 17
+sipXcommserverLib
+V 24
+dir 1qo.3yn.r7359/271749
+K 10
+sipXconfig
+V 24
+dir 2hf.3yo.r7359/236237
+K 19
+sipXmediaAdapterLib
+V 24
+dir 89s.3xw.r7359/242297
+K 12
+sipXmediaLib
+V 23
+dir mz.3yp.r7359/239248
+K 7
+sipXpbx
+V 24
+dir 5g6.3yq.r7359/114545
+K 9
+sipXphone
+V 24
+dir 6qk.3yr.r7359/254976
+K 11
+sipXportLib
+V 21
+dir 3.3ys.r7359/67320
+K 9
+sipXproxy
+V 23
+dir 1vt.3yt.r7359/78203
+K 13
+sipXpublisher
+V 24
+dir 20n.3yu.r7359/120716
+K 12
+sipXregistry
+V 24
+dir 1y5.3yv.r7359/253126
+K 11
+sipXtackLib
+V 23
+dir dk.3yw.r7359/276610
+K 8
+sipXvxml
+V 23
+dir 22d.3yx.r7359/83640
+K 10
+top.mak.in
+V 25
+file d5l.481.r7359/276927
+END
+ENDREP
+id: 7q4.3xw.r7361/980
+type: dir
+pred: 7q4.3xw.r7359/278402
+count: 1612
+text: 7361 0 967 967 65a37e002de1bf6a5f58c4a215298b47
+props: 7359 278212 177 0 747f3fe9cfba979c99260117e051a714
+cpath: /branches/user_dworley_redirectors
+copyroot: 7205 /branches/user_dworley_redirectors
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r7355/19912
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 21
+dir 9wi.0.r7356/17122
+K 21
+sipXtapi-media-update
+V 22
+dir 9wi.3ke.r7357/7722
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 24
+user_dworley_redirectors
+V 21
+dir 7q4.3xw.r7361/980
+END
+ENDREP
+id: 7pt.0.r7361/2018
+type: dir
+pred: 7pt.0.r7359/279452
+count: 874
+text: 7361 1256 749 749 89217b2a0ebd50eb557a3ef52d4d4842
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r7361/2018
+K 4
+main
+V 20
+dir 7q4.0.r7360/9799
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r7361/2301
+type: dir
+pred: 0.0.r7360/10138
+count: 7361
+text: 7361 2174 114 114 2766ec10d889aba830dc1400b2ef7c14
+cpath: /
+copyroot: 0 /
+
+7ve.3xw.r7347/95652 delete false false /branches/user_dworley_redirectors/build
+
+
+2301 2445

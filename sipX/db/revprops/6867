@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-05-29T16:55:52.591810Z
+K 7
+svn:log
+V 471
+Merged revisions 6714-6757,6759-6866 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r6860 | bob | 2006-05-29 17:35:43 +0400 | 3 lines
+  
+  Added some basic recording capabilties -- see TODOs in code.
+   
+........
+  r6862 | bob | 2006-05-29 19:18:02 +0400 | 3 lines
+  
+  Tweaked seed generation in UtlRandom
+........
+  r6863 | bob | 2006-05-29 19:18:46 +0400 | 3 lines
+  
+  Typo fix: 01 should have been 1 in call to record.
+........
+
+END

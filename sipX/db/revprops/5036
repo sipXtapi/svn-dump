@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-09-13T22:03:02.321033Z
+K 7
+svn:log
+V 238
+XCF-615 Changes for jre instead of java and fix some temp file creation errors. NOTE: This fix relies on a checkin coming from portlib coming from pingtel svn r3804 'XCF-615 stop looking for jdk, look for jre which can be jdk' momentarily
+END

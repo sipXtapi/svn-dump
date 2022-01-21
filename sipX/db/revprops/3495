@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-02-07T18:51:07.915970Z
+K 7
+svn:log
+V 105
+Admin screen for configuring forwarding permissions added. Minor changes to E911 routing and user portal.
+END

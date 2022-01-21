@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-05-01T20:35:45.206002Z
+K 7
+svn:log
+V 145
+A number of changes needed to build the softphone both in place and from a 'build' directory under linux (Fedora Core 3).  More testing needed.
+
+
+END

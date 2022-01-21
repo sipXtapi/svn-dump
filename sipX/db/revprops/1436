@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-12-17T14:48:46.299607Z
+K 7
+svn:log
+V 176
+Updated sipXtapi API to use new mechanism to bind to audio devices.
+Updated PlaceCall example to listen for events instead of using
+sleeps (still a hack, but getting better).
+
+
+END

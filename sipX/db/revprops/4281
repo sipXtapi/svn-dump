@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-12T15:28:28.465864Z
+K 7
+svn:log
+V 289
+http://track.sipfoundry.org/browse/XPB-86
+"su -" does not work as documented: it does not unset BASH_ENV.  Using
+"su -l" does not work either, as it causes the subshell to be a login
+shell, which can go through special interactive initialization.  So
+I've added a direct "unset BASH_ENV".
+
+END

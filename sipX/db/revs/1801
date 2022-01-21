@@ -1,0 +1,143 @@
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 1qp.0.r1798/425019
+K 9
+ChangeLog
+V 23
+file 1qq.0.r1798/401586
+K 7
+INSTALL
+V 23
+file 1qr.0.r1798/401372
+K 7
+LICENSE
+V 23
+file 1qs.0.r1798/380771
+K 11
+Makefile.am
+V 23
+file 1qt.0.r1798/423181
+K 4
+NEWS
+V 23
+file 1qu.0.r1798/424867
+K 6
+README
+V 23
+file 1qv.0.r1798/425226
+K 4
+TODO
+V 23
+file 1qw.0.r1798/400566
+K 9
+acsite.m4
+V 23
+file 1qx.0.r1798/401741
+K 3
+bin
+V 22
+dir 1qy.0.r1798/422979
+K 12
+configure.ac
+V 22
+file 1r5.0.r1799/18479
+K 3
+etc
+V 22
+dir 1r6.0.r1798/424712
+K 7
+include
+V 21
+dir 1rc.0.r1799/23774
+K 3
+src
+V 20
+dir 1t1.0.r1800/1141
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+END
+ENDREP
+id: 1qo.0.r1801/689
+type: dir
+pred: 1qo.0.r1800/1939
+count: 3
+text: 1801 0 572 572 c3a52ef09e7d5603196c131caea5384a
+props: 1801 585 91 0 c6fe6524408d5adfd0f6b1b849e5d081
+cpath: /old/sipXcommserverLib/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 19
+dir 1qo.0.r1801/689
+END
+ENDREP
+id: 1qn.0.r1801/960
+type: dir
+pred: 1qn.0.r1800/2162
+count: 4
+text: 1801 909 38 38 bef817bbc85879e079e5f20bdffc704d
+cpath: /old/sipXcommserverLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 19
+dir 1qn.0.r1801/960
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1801/1354
+type: dir
+pred: 1.0.r1800/2560
+count: 1800
+text: 1801 1121 220 220 3aab542870c4b960f656f5b021fcb883
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1801/1354
+END
+ENDREP
+id: 0.0.r1801/1549
+type: dir
+pred: 0.0.r1800/2756
+count: 1801
+text: 1801 1500 36 36 52284f52ba7adf58bbe6a4ab287dc83b
+cpath: /
+copyroot: 0 /
+
+1r2.0.r1798/401169 delete false false /old/sipXcommserverLib/main/config
+
+1qo.0.t1800-1 modify false true /old/sipXcommserverLib/main
+
+
+1549 1690

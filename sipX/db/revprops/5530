@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-11-07T21:36:00.798923Z
+K 7
+svn:log
+V 164
+Storage.remove changed to Storage.revertToDefault - it clarifies the role of this function. As of now we do not need a "real" remove function in Storage interface.
+
+END

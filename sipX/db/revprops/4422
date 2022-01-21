@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-12-27T23:41:09.858173Z
+K 7
+svn:log
+V 100
+Fix how the install prefix is handled.  Add fuller explanation of how to use
+Makefile.developer.in.
+
+END

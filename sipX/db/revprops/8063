@@ -1,0 +1,28 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-11-21T21:15:44.256459Z
+K 7
+svn:log
+V 783
+HA Improvements
+ - [XRR-123] Fix crash during shutdown in HA configuration
+ - Fix crash during HA init if peer is not reachable
+ - Remove inappropriate asserts on some xmlrpc faults.
+   In particular, when older registration data is synced,
+   the recipient was returning an error, and the sender was
+   asserting on receiving that error.  Since this can happen
+   under some partial reorderings or if a server is off line
+   for some time, this is certainly not a reason to crash.
+ - Mark peer incompatible on some severe faults.
+TLS Improvements
+ - Improve logging in TLS/SSL Http server connections
+ - Cache peer status for TLS connections to avoid parsing cert many times
+Move some IMDB errors from stderr (which is lost) to OsSysLog
+Allow assert() to core dump in sipregistrar.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-09-09T14:09:23.304445Z
+K 7
+svn:log
+V 179
+XCF-587 Do not emit error in job status table when sending profiles or restarting unmanaged phones.  Changed name of Generic Phone to Unmanaged phone to be like Unmanaged gateways
+END

@@ -1,0 +1,767 @@
+PLAIN
+K 10
+svn:ignore
+V 17
+.deps
+armopts.s
+
+
+END
+ENDREP
+id: oaz.7n5.r12723/56
+type: dir
+pred: oaz.7n5.r12481/680
+count: 2
+text: 12461 623613 990 990 48948a9d06c4199733bf355a64fce06d
+props: 12723 0 43 0 337b21980623ce5da5a274297ca4e2ef
+cpath: /main/sipXmediaLib/contrib/libopus/opus/celt/arm
+copyroot: 10815 /main
+
+PLAIN
+K 10
+svn:ignore
+V 152
+.deps
+.dirstamp
+test_unit_cwrs32
+test_unit_dft
+test_unit_entropy
+test_unit_laplace
+test_unit_mathops
+test_unit_mdct
+test_unit_rotation
+test_unit_types
+
+
+END
+ENDREP
+id: mbc.7n5.r12723/506
+type: dir
+pred: mbc.7n5.r12481/999
+count: 4
+text: 12461 628660 452 452 b96ea80244ad510d268f965780ef912c
+props: 12723 314 179 0 020d3065af2550e3aff9cc88df1adb37
+cpath: /main/sipXmediaLib/contrib/libopus/opus/celt/tests
+copyroot: 10815 /main
+
+PLAIN
+K 16
+_kiss_fft_guts.h
+V 26
+file ml7.7n5.r12461/638027
+K 6
+arch.h
+V 26
+file mrx.7n5.r12461/638696
+K 3
+arm
+V 21
+dir oaz.7n5.r12723/56
+K 7
+bands.c
+V 26
+file mf3.7n5.r12461/640207
+K 7
+bands.h
+V 26
+file mfe.7n5.r12461/641079
+K 6
+celt.c
+V 26
+file mkh.7n5.r12461/632025
+K 6
+celt.h
+V 26
+file mkn.7n5.r12461/632876
+K 12
+celt.vcxproj
+V 27
+file mll.7n5.r12197/1036056
+K 20
+celt.vcxproj.filters
+V 27
+file mi6.7n5.r12197/1037224
+K 14
+celt_decoder.c
+V 26
+file oby.7n5.r12461/626146
+K 14
+celt_encoder.c
+V 26
+file oiq.7n5.r12461/639789
+K 10
+celt_lpc.c
+V 26
+file mez.7n5.r12461/629839
+K 10
+celt_lpc.h
+V 26
+file mf7.7n5.r12461/632654
+K 13
+cpu_support.h
+V 26
+file omt.7n5.r12461/632244
+K 6
+cwrs.c
+V 26
+file md1.7n5.r12461/638255
+K 6
+cwrs.h
+V 26
+file mdb.7n5.r12461/638915
+K 10
+ecintrin.h
+V 26
+file mqv.7n5.r12461/626567
+K 9
+entcode.c
+V 26
+file mjn.7n5.r12461/626788
+K 9
+entcode.h
+V 26
+file mjr.7n5.r12461/630062
+K 8
+entdec.c
+V 26
+file mi0.7n5.r12461/625243
+K 8
+entdec.h
+V 27
+file mi8.7n5.r12197/1037031
+K 8
+entenc.c
+V 26
+file mhg.7n5.r12461/637370
+K 8
+entenc.h
+V 27
+file mhk.7n5.r12197/1045041
+K 13
+fixed_debug.h
+V 26
+file mgo.7n5.r12461/636923
+K 15
+fixed_generic.h
+V 26
+file mln.7n5.r12461/633095
+K 12
+float_cast.h
+V 26
+file mex.7n5.r12461/629615
+K 10
+kiss_fft.c
+V 26
+file me8.7n5.r12461/625687
+K 10
+kiss_fft.h
+V 26
+file men.7n5.r12461/626345
+K 9
+laplace.c
+V 27
+file mq7.7n5.r12197/1042506
+K 9
+laplace.h
+V 27
+file mqj.7n5.r12197/1042906
+K 9
+mathops.c
+V 26
+file mig.7n5.r12461/637150
+K 9
+mathops.h
+V 26
+file mix.7n5.r12461/638475
+K 6
+mdct.c
+V 26
+file mnh.7n5.r12461/639989
+K 6
+mdct.h
+V 26
+file mnp.7n5.r12461/640862
+K 10
+mfrngcod.h
+V 27
+file mqf.7n5.r12197/1036836
+K 4
+mips
+V 23
+dir ob1.7n5.r12481/1309
+K 7
+modes.c
+V 26
+file mi4.7n5.r12461/636482
+K 7
+modes.h
+V 26
+file mii.7n5.r12461/637589
+K 18
+opus_custom_demo.c
+V 27
+file mgs.7n5.r12197/1040939
+K 12
+os_support.h
+V 26
+file mc7.7n5.r12461/629391
+K 7
+pitch.c
+V 26
+file mql.7n5.r12461/636702
+K 7
+pitch.h
+V 26
+file mqp.7n5.r12461/637807
+K 13
+quant_bands.c
+V 26
+file mox.7n5.r12461/624800
+K 13
+quant_bands.h
+V 26
+file mp7.7n5.r12461/625462
+K 6
+rate.c
+V 26
+file mpv.7n5.r12461/640428
+K 6
+rate.h
+V 26
+file mq3.7n5.r12461/625026
+K 13
+stack_alloc.h
+V 26
+file mkd.7n5.r12461/639132
+K 20
+static_modes_fixed.h
+V 26
+file mjb.7n5.r12461/633322
+K 29
+static_modes_fixed_arm_ne10.h
+V 26
+file onj.7n5.r12461/639357
+K 20
+static_modes_float.h
+V 26
+file mia.7n5.r12461/625911
+K 29
+static_modes_float_arm_ne10.h
+V 26
+file oe3.7n5.r12461/632441
+K 5
+tests
+V 22
+dir mbc.7n5.r12723/506
+K 4
+vq.c
+V 26
+file mdi.7n5.r12461/639571
+K 4
+vq.h
+V 26
+file mdk.7n5.r12461/640646
+K 3
+x86
+V 23
+dir ob2.7n5.r12481/1631
+END
+ENDREP
+id: mba.7n5.r12723/3400
+type: dir
+pred: mba.7n5.r12481/4584
+count: 4
+text: 12723 770 2617 2617 85d731854491fdb52997756229a7618c
+props: 12481 4528 43 0 98a2b6b47578fb4479a310b7ea6c12c7
+cpath: /main/sipXmediaLib/contrib/libopus/opus/celt
+copyroot: 10815 /main
+
+PLAIN
+K 7
+AUTHORS
+V 27
+file mep.7n5.r12197/1035382
+K 7
+COPYING
+V 26
+file mfi.7n5.r12461/712308
+K 9
+ChangeLog
+V 27
+file mn1.7n5.r12197/1106136
+K 7
+INSTALL
+V 26
+file mor.7n5.r12461/711802
+K 11
+Makefile.am
+V 26
+file mq9.7n5.r12461/720202
+K 13
+Makefile.mips
+V 26
+file oen.7n5.r12461/714370
+K 13
+Makefile.unix
+V 26
+file mkj.7n5.r12461/650664
+K 4
+NEWS
+V 27
+file mfm.7n5.r12197/1104291
+K 6
+README
+V 26
+file mlb.7n5.r12461/714782
+K 4
+celt
+V 23
+dir mba.7n5.r12723/3400
+K 15
+celt_headers.mk
+V 26
+file mkb.7n5.r12461/649182
+K 15
+celt_sources.mk
+V 26
+file mr7.7n5.r12461/651103
+K 7
+compile
+V 26
+file mc5.7n5.r12461/649403
+K 11
+config.h.in
+V 26
+file mjv.7n5.r12461/715214
+K 12
+configure.ac
+V 26
+file mrd.7n5.r12461/709123
+K 7
+depcomp
+V 26
+file mit.7n5.r12461/619401
+K 3
+doc
+V 24
+dir mbe.7n5.r12481/16142
+K 7
+include
+V 24
+dir mbf.7n5.r12481/16448
+K 2
+m4
+V 22
+dir mbg.7n5.r12481/386
+K 7
+missing
+V 26
+file mdy.7n5.r12461/719929
+K 22
+opus-uninstalled.pc.in
+V 26
+file mfo.7n5.r12461/712521
+K 7
+opus.m4
+V 27
+file mrf.7n5.r12197/1101805
+K 10
+opus.pc.in
+V 26
+file mgu.7n5.r12461/649955
+K 8
+opus.sln
+V 27
+file mea.7n5.r12197/1035000
+K 15
+opus_headers.mk
+V 26
+file md3.7n5.r12461/714562
+K 15
+opus_sources.mk
+V 26
+file mjt.7n5.r12461/714995
+K 15
+package_version
+V 26
+file mr9.7n5.r12461/650884
+K 4
+silk
+V 24
+dir mbh.7n5.r12481/15000
+K 15
+silk_headers.mk
+V 26
+file mlj.7n5.r12461/719708
+K 15
+silk_sources.mk
+V 26
+file mbq.7n5.r12461/720421
+K 3
+src
+V 23
+dir mbl.7n5.r12481/4901
+K 11
+test-driver
+V 26
+file ocu.7n5.r12461/712061
+K 5
+tests
+V 24
+dir mbm.7n5.r12481/15385
+K 10
+version.mk
+V 27
+file mcb.7n5.r12197/1054066
+K 5
+win32
+V 24
+dir mbn.7n5.r12481/17230
+END
+ENDREP
+id: mb8.7n5.r12723/5300
+type: dir
+pred: mb8.7n5.r12481/19390
+count: 7
+text: 12723 3659 1628 1628 8be46cd57cdea0e0f7b4634d3c805d0f
+props: 12481 19135 242 0 514115815dc31d79ce42644402df2e84
+cpath: /main/sipXmediaLib/contrib/libopus/opus
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file lwa.7n5.r12192/730
+K 10
+README.TXT
+V 23
+file lw7.7n5.r12719/491
+K 6
+libogg
+V 23
+dir qbe.7n5.r12720/4208
+K 10
+libopusenc
+V 26
+dir qny.7n5.r12722/1280917
+K 4
+opus
+V 23
+dir mb8.7n5.r12723/5300
+K 8
+opusfile
+V 23
+dir qjx.7n5.r12721/2492
+END
+ENDREP
+id: lw5.7n5.r12723/5833
+type: dir
+pred: lw5.7n5.r12722/1281378
+count: 14
+text: 12723 5558 262 262 364cd41a65a1b1ca13de27f08561784f
+props: 12481 19798 31 0 2174dc3044360e901d26d78b8a35acaf
+cpath: /main/sipXmediaLib/contrib/libopus
+copyroot: 10815 /main
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file f69.7n5.r12640/4562
+K 7
+android
+V 25
+dir g9q.7n5.r12196/415625
+K 14
+buildFFmpeg.sh
+V 23
+file h4u.7n5.r11741/652
+K 8
+libamrnb
+V 22
+dir f32.7n5.r12479/381
+K 8
+libamrwb
+V 23
+dir f41.7n5.r12477/1608
+K 8
+libg7221
+V 22
+dir pg4.7n5.r12611/180
+K 8
+libg729a
+V 23
+dir pr8.7n5.r12640/4313
+K 6
+libgsm
+V 25
+dir ebx.7n5.r12361/118167
+K 7
+libilbc
+V 22
+dir ezs.7n5.r12480/598
+K 7
+libopus
+V 23
+dir lw5.7n5.r12723/5833
+K 10
+libspandsp
+V 25
+dir f50.7n5.r12361/109423
+K 8
+libspeex
+V 23
+dir fz0.7n5.r12478/2055
+END
+ENDREP
+id: ebw.7n5.r12723/6620
+type: dir
+pred: ebw.7n5.r12722/1282171
+count: 121
+text: 12723 6086 521 521 8aa644da40690115ec6cd7fe7768e460
+props: 12208 0 48 0 86168c69db02cf3306494c6df91bc2ed
+cpath: /main/sipXmediaLib/contrib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 22
+file g92.7n5.r12289/56
+K 12
+CONTRIBUTORS
+V 25
+file b41.0.r6469/22054157
+K 9
+ChangeLog
+V 25
+file b42.0.r6469/22025314
+K 7
+INSTALL
+V 24
+file b43.0.r6955/1728056
+K 11
+Makefile.am
+V 24
+file b44.7n5.r12466/9317
+K 4
+NEWS
+V 25
+file b45.0.r6469/22058814
+K 6
+README
+V 24
+file b46.0.r6955/1727035
+K 4
+TODO
+V 25
+file b47.0.r6469/22057442
+K 9
+acsite.m4
+V 24
+file b48.0.r6955/1726702
+K 17
+autoconf259.patch
+V 23
+file fxj.7n5.r10953/747
+K 3
+bin
+V 22
+dir b49.7n5.r11821/958
+K 12
+configure.ac
+V 24
+file b4k.7n5.r12646/1956
+K 7
+contrib
+V 23
+dir ebw.7n5.r12723/6620
+K 3
+doc
+V 22
+dir b4l.7n5.r11821/663
+K 26
+dtmf5_48khz_16b_signed.wav
+V 23
+file f7a.0.r10516/48478
+K 7
+include
+V 24
+dir b4p.7n5.r12664/12856
+K 3
+lib
+V 24
+dir b8u.0.r6469/22057603
+K 4
+meta
+V 24
+dir b8v.0.r6469/22024982
+K 25
+sipXmediaLib-msvc8.vcproj
+V 24
+file e76.7n5.r11952/3545
+K 16
+sipXmediaLib.dsp
+V 24
+file up.7nl.r11401/19813
+K 16
+sipXmediaLib.vcp
+V 22
+file e6i.0.r9956/38866
+K 19
+sipXmediaLib.vcproj
+V 24
+file b92.7n5.r12138/5904
+K 20
+sipXmediaLib.vcxproj
+V 26
+file nqq.7n5.r12361/119245
+K 29
+sipXmediaLibTest-msvc8.vcproj
+V 24
+file e77.7n5.r12273/3350
+K 20
+sipXmediaLibTest.dsp
+V 23
+file mh.7nm.r12273/3109
+K 20
+sipXmediaLibTest.sln
+V 24
+file eaj.7n5.r12138/5652
+K 20
+sipXmediaLibTest.vcp
+V 22
+file e6j.0.r8865/20512
+K 23
+sipXmediaLibTest.vcproj
+V 24
+file eak.7n5.r12273/3560
+K 24
+sipXmediaLibTest.vcxproj
+V 26
+file nqo.7n5.r12361/119064
+K 20
+sipxmedialib.spec.in
+V 24
+file b93.7n5.r10867/5783
+K 3
+src
+V 23
+dir b94.7n5.r12710/4652
+END
+ENDREP
+id: b40.7n5.r12723/8384
+type: dir
+pred: b40.7n5.r12722/1283941
+count: 1978
+text: 12723 6862 1509 1509 df9d43ccbcec697508b3ce4a3eac5b4e
+props: 12332 3448 1828 0 9538f009da0d305e6e1bb316bb7369dd
+cpath: /main/sipXmediaLib
+copyroot: 10815 /main
+
+PLAIN
+K 10
+Android.mk
+V 23
+file g8y.7n5.r12172/315
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 20
+file ekr.0.r9589/215
+K 6
+config
+V 23
+dir 9wj.7n5.r12638/1198
+K 15
+configure.patch
+V 23
+file o60.7n5.r12434/574
+K 10
+readme.txt
+V 23
+file 9ws.7n5.r12464/516
+K 7
+scripts
+V 23
+dir fxk.7n5.r12171/1617
+K 14
+sipX-msvc8.sln
+V 24
+file e73.7n5.r11406/1007
+K 11
+sipXcallLib
+V 23
+dir 9wt.7n5.r12716/4407
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.7n5.r12711/3268
+K 12
+sipXmediaLib
+V 23
+dir b40.7n5.r12723/8384
+K 11
+sipXportLib
+V 23
+dir bcf.7n5.r12702/5163
+K 10
+sipXsdpLib
+V 23
+dir e7v.7n5.r12682/2896
+K 11
+sipXtackLib
+V 23
+dir boq.7n5.r12709/7434
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.7n5.r12723/9333
+type: dir
+pred: 9wi.7n5.r12722/1284896
+count: 3661
+text: 12723 8626 694 694 84befcb882a5b18e6327cac83e75dff0
+props: 12114 59175 76 0 1dd3880c3272b32f88d1700b38908223
+cpath: /main
+copyroot: 10815 /main
+
+PLAIN
+K 8
+branches
+V 22
+dir fuu.0.r12113/17441
+K 4
+main
+V 23
+dir 9wi.7n5.r12723/9333
+K 11
+sipXecs.old
+V 20
+dir fus.0.r10820/460
+K 4
+tags
+V 18
+dir fut.0.r10813/0
+END
+ENDREP
+id: 0.0.r12723/9731
+type: dir
+pred: 0.0.r12722/1285300
+count: 12723
+text: 12723 9559 159 159 efe93913d37f6db057b3989a6c41dc45
+cpath: /
+copyroot: 0 /
+
+oaz.7n5.t12722-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/celt/arm
+
+mbc.7n5.t12722-1 modify false true /main/sipXmediaLib/contrib/libopus/opus/celt/tests
+
+
+9731 9881

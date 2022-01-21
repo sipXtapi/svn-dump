@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-25T21:29:30.430906Z
+K 7
+svn:log
+V 61
+Switch should cover all possible cases or have default case.
+
+END

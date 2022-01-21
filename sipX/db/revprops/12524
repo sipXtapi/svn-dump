@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-10-16T18:39:21.677203Z
+K 7
+svn:log
+V 129
+Set SPEEXDSP_LIBS when setting SPEEXDSP_STATIC_LIB in configure when using options --enable-speexdsp AND --disable-contrib-speex
+
+END

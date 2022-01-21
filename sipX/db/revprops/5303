@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-10-10T19:17:55.890652Z
+K 7
+svn:log
+V 82
+Fix process manager to use a better temporary directory
+  (and fix the unit test)
+
+END

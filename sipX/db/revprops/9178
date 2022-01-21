@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-27T15:38:56.325769Z
+K 7
+svn:log
+V 57
+XCF-1587 - Allow single character in aor field validation
+END

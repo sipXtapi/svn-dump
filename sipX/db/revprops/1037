@@ -1,0 +1,29 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-06-14T21:16:04.452938Z
+K 7
+svn:log
+V 449
+SipSubscribeClient is now moderately usable.  
+   Implemented SipSubscribeClient and SipRefreshManager
+      unit tests.  
+   Created a bunch of diagnositic members and methods for:
+      SipRefreshManager
+      SipSubscribeClient
+      SipDialogMgr
+      SipDialog
+      SipPublishContentMgr
+  Fixed dozens of bugs identified in the unit tests in:
+      HttpBody
+      SipDialog
+      SipDialogMgr
+      SipRefreshManager
+      SipSubscribeClient
+
+
+END

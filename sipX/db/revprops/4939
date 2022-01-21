@@ -1,0 +1,64 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-08-30T20:01:55.259575Z
+K 7
+svn:log
+V 2365
+-Modifcations to installation and upgrade scripts to deal with new version numbering
+
+-More fixes to the upgrade script
+
+-Added some debug traces.
+        
+-Created the media subsystem adapter libraries.
+        
+-Separated the media subsystem from sipXcallLib.
+        
+-Get config from external and set svn:ignore property.
+        
+-Removed the unittest until we know how we should handle it properly because of the dependency on sipXmediaAdapterLib.
+        
+-Make the callId generation depending on the time.
+        
+-Fixed the error in generating the resource list.
+        
+-Removing MSVC 6 project files -- we are not longer supports MSVC6 -- only MSVC7
+-Setup ability to build under Windows for main line (Debug, Release, Debug_NoVideo, Release_NoVideo):
+        
+        1) Renamed sipxtapi.sln/vcproj to sipxtapi-VoiceEngine.sln/vcproj
+        2) Re-added sipXmediaVoiceEngine project given new path in sipXmediaAdapterLib (was in vendor/gips)
+        3) Updated paths to GIPS interfaces (was relative to ../gips -- now  relative to ../sipXbuild/...)
+        4) Added an "EXCLUDE_STREAMING" #ifndef check to disable streaming -- otherwise we have a dependency on opens source mp layer.
+        
+        5) Removed phonset components from sipXcallLib build -- these are only needed for sipXphone which already doesn't build. 
+        
+        NOTE: sipXtapi Unit tests don't run on main (not even close to working).  We need to finish the merge from sipXtapi before attempting to get these unit test to run.
+        
+-new sln and vcproj files for sipXtapi
+        sipXtapi.sln is the open-source, non-gips solution file
+        
+-new project file for sipXmediaMediaProcessing
+        
+-removed HAVE_GIPS
+        
+-Moved the LinePresenceMonitor module from sipXtackLib to sipXcallLib to support TUI sign-in/out for ACD.
+        
+-Modified to require for the correct libraries to be installed.
+        
+-Latest sipXtapi code
+
+-Fixed compiler warnings in callbacks.cpp under Linux.
+        
+-Verified sipXtapiTestLine unit tests run under linux -- also removed compiler warnings.
+        
+-Verified the transfer and config tests run under linux -- fixed compiler warnings.
+        
+-Fixed stun unit tests (merge problem?) -- Bad STUN addresses never failed, but just kept refreshing (if a new socket was allocated with same pointer as a previous one).
+    
+
+END

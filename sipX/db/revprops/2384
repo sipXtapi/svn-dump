@@ -1,0 +1,41 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-12-03T15:06:39.241150Z
+K 7
+svn:log
+V 915
+Merged revisions 65,72,79,83 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXregistry/branches/2.6
+
+  r65 | dworley | 2004-11-16 17:14:11 -0500 (Tue, 16 Nov 2004) | 3 lines
+  Changed paths:
+     M /branches/2.6/Makefile.am
+     M /branches/2.6/sipxregistry.spec.in
+
+  Propagate the ./configure arguments into the %configure in the .spec.
+  http://paradise:8080/browse/ENG-38
+
+  r72 | dkrzemin | 2004-11-22 14:13:00 -0500 (Mon, 22 Nov 2004) | 1 line
+  Changed paths:
+     M /branches/2.6/sipxregistry.spec.in
+
+  XCF-72 fix - ownership of configuration files changed
+
+  r79 | xmlscott | 2004-11-23 17:17:09 -0500 (Tue, 23 Nov 2004) | 1 line
+  Changed paths:
+     M /branches/2.6/ChangeLog
+
+  add notes for 2.6.1
+
+  r83 | xmlscott | 2004-12-02 17:48:46 -0500 (Thu, 02 Dec 2004) | 1 line
+  Changed paths:
+     M /branches/2.6/etc/registrar-config.in
+
+  fix XRR-25: make default realm explicit based on config.defs
+
+END

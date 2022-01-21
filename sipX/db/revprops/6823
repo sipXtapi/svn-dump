@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-05-16T19:30:22.496526Z
+K 7
+svn:log
+V 127
+Change %lld to %ld in two sprintfs: we have longs, not long longs.
+This corrects crashes when building with VisualStudio 2005.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2014-06-23T22:49:31.035005Z
+K 7
+svn:log
+V 64
+Fixed opus code info initialization
+Fix thanks to Daniel Pocock
+
+END

@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-20T17:43:34.982844Z
+K 7
+svn:log
+V 328
+Merged revisions 8319 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+
+........
+  r8319 | dworley | 2006-12-21 00:18:56 +0300 | 4 lines
+  
+  Fix test OsTimerTest, which was broken by rev. 8318.
+  Add test in OsTimerTask::handleMessage to abort if a message arrives
+  with an invalid msgSubType.
+........
+
+END

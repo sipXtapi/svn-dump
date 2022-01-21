@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-10-21T20:13:13.207962Z
+K 7
+svn:log
+V 231
+XCF-725 notice added when migrating from 2.8 that has user sensistive routing configured: we do not support migration of user sensitive routing from 2.8
+also: ignore warnings when importing Postgres 7 data into Postgres 8 database
+
+END

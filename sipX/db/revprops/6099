@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-02-10T21:12:16.034810Z
+K 7
+svn:log
+V 94
+XCF-753 Remove more deprecated references. update LIB_SRC references to match what's in unison
+END

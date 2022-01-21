@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-09T18:13:32.029720Z
+K 7
+svn:log
+V 325
+Fix XCF-555. Trying to add a hunt group with a name or extension that is used by an existing hunt group is now handled gracefully with an error message on the web page.
+Go beyond this immediate problem to add uniqueness constraints for all "name" columns, except for dialing_rule, which we are not prepared to deal with yet.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-03T13:36:08.041201Z
+K 7
+svn:log
+V 148
+Bugfix: Release internal mutex before deleting it in OsMsgPool destructor.
+Under Linux this caused error message on console and may be memory leak.
+
+END

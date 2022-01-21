@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-10-06T20:54:58.545755Z
+K 7
+svn:log
+V 18
+ignore Makefile.in
+END

@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2013-02-11T21:30:33.389051Z
+K 7
+svn:log
+V 550
+First stage in
+  (1) fixing RTCP to generate correct tinming data in SRs, and
+  (2) fixing RTP/RTCP use distinct SSRCs for each stream
+
+This also adds a bunch of debugging code (some commented out, some not).
+
+Upcoming checkins will
+(1) finish the fix to use distinct SSRCs (there are still some problems
+   remaining in RTCPSession);
+(2) clean up the debug code and remove dead/ifdef'ed out code;
+(3) and FINALLY, add the feature that this is all in support of: adding
+   an adjustment to the SR timing data to aid in audio/video sycnchronization.
+
+
+END

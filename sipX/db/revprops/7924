@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-11-02T06:00:05.648968Z
+K 7
+svn:log
+V 93
+XCF-1299 - Add CSV import to phonebook, make entries on polycom not be speed-dials by default
+END

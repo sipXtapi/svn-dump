@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-07-26T15:00:30.711131Z
+K 7
+svn:log
+V 153
+Remove the text form of the certificate from the sipx.crt file
+  (apache doesn't like it)
+Issue an error messaqe if they don't create an openssl.id file
+
+END

@@ -1,0 +1,214 @@
+PLAIN
+K 13
+svn:externals
+V 75
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.6-export-S/config
+
+K 10
+svn:ignore
+V 187
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxmedialib-*.tar.gz
+sipxmedialib.spec
+stamp-h1
+Debug
+Release
+
+K 18
+svnmerge-main-head
+V 48
+https://scm.sipfoundry.org/rep/sipXmediaLib/main
+K 18
+svnmerge-main-revs
+V 4
+1-51
+END
+ENDREP
+id: mz.57.r1177/438
+type: dir
+pred: mz.4n.r1171/1741
+count: 50
+text: 1171 1053 675 675 bf6c53ca0f9cffda25eeaddea39ee993
+props: 1177 0 425 0 3bdb4d12a51c2f682abbacb55f21642e
+cpath: /old/sipXmediaLib/tags/2.6-export-S
+copyfrom: 1176 /old/sipXmediaLib/branches/2.6
+
+PLAIN
+K 5
+2.5.1
+V 19
+dir mz.4g.r1077/198
+K 5
+2.5.2
+V 20
+dir mz.4h.r1091/1003
+K 12
+2.6-export-A
+V 19
+dir mz.4o.r1122/555
+K 12
+2.6-export-B
+V 19
+dir mz.4p.r1124/555
+K 12
+2.6-export-C
+V 19
+dir mz.4r.r1131/555
+K 12
+2.6-export-D
+V 19
+dir mz.4s.r1132/555
+K 12
+2.6-export-E
+V 19
+dir mz.4t.r1133/555
+K 12
+2.6-export-F
+V 19
+dir mz.4u.r1136/555
+K 12
+2.6-export-G
+V 19
+dir mz.4w.r1140/438
+K 12
+2.6-export-H
+V 19
+dir mz.4x.r1141/438
+K 12
+2.6-export-J
+V 19
+dir mz.4y.r1144/438
+K 12
+2.6-export-K
+V 19
+dir mz.4z.r1150/438
+K 12
+2.6-export-L
+V 19
+dir mz.50.r1157/438
+K 12
+2.6-export-M
+V 19
+dir mz.51.r1158/438
+K 12
+2.6-export-N
+V 19
+dir mz.52.r1160/438
+K 12
+2.6-export-O
+V 19
+dir mz.53.r1172/438
+K 12
+2.6-export-P
+V 19
+dir mz.54.r1173/438
+K 12
+2.6-export-Q
+V 19
+dir mz.55.r1175/438
+K 12
+2.6-export-R
+V 19
+dir mz.56.r1176/438
+K 12
+2.6-export-S
+V 19
+dir mz.57.r1177/438
+K 5
+2.6.1
+V 19
+dir mz.4v.r1138/548
+K 13
+main-export-B
+V 19
+dir mz.4l.r1119/439
+K 13
+main-export-C
+V 19
+dir mz.4m.r1120/439
+END
+ENDREP
+id: uq.0.r1177/1686
+type: dir
+pred: uq.0.r1176/1643
+count: 24
+text: 1177 701 972 972 1f3735c4b8c3148d80b1a527e4e26169
+cpath: /old/sipXmediaLib/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir ux.0.r1171/2051
+K 4
+main
+V 18
+dir mz.0.r1174/557
+K 4
+tags
+V 19
+dir uq.0.r1177/1686
+END
+ENDREP
+id: my.0.r1177/1971
+type: dir
+pred: my.0.r1176/1928
+count: 110
+text: 1177 1849 109 109 683b8d04bf8d2eb85172770836da24fc
+cpath: /old/sipXmediaLib
+copyroot: 0 /
+
+PLAIN
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1177/1971
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1177/2274
+type: dir
+pred: 1.0.r1176/2231
+count: 1176
+text: 1177 2131 130 130 ff5edff28af66512d2c8148ea57487b9
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r1177/2274
+END
+ENDREP
+id: 0.0.r1177/2469
+type: dir
+pred: 0.0.r1176/2426
+count: 1177
+text: 1177 2420 36 36 f6920c10877d8731578a1cf95ac4bcb0
+cpath: /
+copyroot: 0 /
+
+mz._0.t1176-1 add false true /old/sipXmediaLib/tags/2.6-export-S
+1176 /old/sipXmediaLib/branches/2.6
+
+2469 2610

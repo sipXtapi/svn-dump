@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-12-23T20:48:23.839676Z
+K 7
+svn:log
+V 75
+Force libg7221 install by adding SUBDIRS construct to plgg7221 Makefile.am
+
+END

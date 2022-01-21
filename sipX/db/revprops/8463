@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-01-08T04:18:25.632336Z
+K 7
+svn:log
+V 202
+XCF-1434 - make sipx components depend on sipxpbx, not the other way around.  Add support for yum groups, installing a PBX now requires yum groupinstall 'Base sipXpbx' or yum groupinstall 'Full sipXpbx'
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-08-25T08:18:40.745114Z
+K 7
+svn:log
+V 82
+Finished separation of non-const version of getDataPtr() in all MpBuf successors.
+
+END

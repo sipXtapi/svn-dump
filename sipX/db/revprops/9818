@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-10T17:48:26.146421Z
+K 7
+svn:log
+V 86
+Escape '<' and '>' characters in comments, so Doxygen do not treat them as HTML tags.
+
+END

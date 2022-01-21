@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-11T14:51:52.759435Z
+K 7
+svn:log
+V 102
+Removing noise send to standard out: If any of these messages
+were important to you -- use OsSysLog.
+
+
+END

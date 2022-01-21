@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-11-17T19:57:30.221944Z
+K 7
+svn:log
+V 243
+Fix void* -> int conversion bug..
+
+Can't do this now, as it's a compiler bug in gcc 4.1.2.  
+If compiler allowed it, it would break 64bit build.
+
+Instead of that, proper thing to do is cast void* -> int* and deref int*, which is what I did.
+
+
+
+END

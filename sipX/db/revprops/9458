@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-05-02T00:26:51.303623Z
+K 7
+svn:log
+V 152
+Add new headers to sipXmediaLib automake rules:
+sipXmediaLib/include/mp/MpResourceNotificationMsg.h
+sipXmediaLib/include/mp/MpNotificationDispatcher.h
+
+
+END

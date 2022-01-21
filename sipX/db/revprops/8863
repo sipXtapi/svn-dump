@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-02-22T00:53:09.744275Z
+K 7
+svn:log
+V 184
+Add TestOsSysLogListener to sipXportLib unit tests.
+Fix TestOsSysLogListener so that it works in an os-independent way.
+Don't use unlink(filename), use OsFileSystem::remove(filename)
+
+
+END

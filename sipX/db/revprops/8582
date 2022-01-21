@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-18T17:17:50.839407Z
+K 7
+svn:log
+V 79
+XPB-843 comment out tests that fail on FC6 to enable building FC6 distribution
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2005-05-17T18:44:22.003527Z
+K 7
+svn:log
+V 60
+Remove old voicemail and configuration during uninstallation
+END

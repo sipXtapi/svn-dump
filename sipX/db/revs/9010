@@ -1,0 +1,356 @@
+PLAIN
+K 14
+svn:executable
+V 1
+*
+END
+ENDREP
+id: epf.1i7.r9010/43
+type: file
+pred: epf.1i7.r9007/435452
+count: 1
+text: 9007 428596 496 579 cc14c0bcb1b497cb93690c4d21a74c91
+props: 9010 0 30 0 4160c74de5f4e580dc15660c798ff9fc
+cpath: /main/sipXconfig/bin/test/sipx-upgrade-3.6-mailstore-report_test.rb
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 14
+svn:executable
+V 1
+*
+END
+ENDREP
+id: epg.1i7.r9010/373
+type: file
+pred: epg.1i7.r9007/435664
+count: 1
+text: 9007 429105 489 871 1ccadd8df469caa684c8ab5d3c2e5569
+props: 9010 330 30 0 4160c74de5f4e580dc15660c798ff9fc
+cpath: /main/sipXconfig/bin/test/sipx-upgrade-3.6-mailstore_test.rb
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 13
+mailstore-3.6
+V 24
+dir eov.1i7.r9007/435271
+K 41
+sipx-upgrade-3.6-mailstore-report_test.rb
+V 21
+file epf.1i7.r9010/43
+K 34
+sipx-upgrade-3.6-mailstore_test.rb
+V 22
+file epg.1i7.r9010/373
+END
+ENDREP
+id: eou.1i7.r9010/864
+type: dir
+pred: eou.1i7.r9007/436084
+count: 1
+text: 9010 656 195 195 3e56546335e7f512d9f9814ffb81f02b
+cpath: /main/sipXconfig/bin/test
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 8
+.project
+V 23
+file 8ub.1i7.r5769/3074
+K 11
+Makefile.am
+V 25
+file 4c2.1i7.r9007/436453
+K 36
+sipx-upgrade-3.6-mailstore-report.rb
+V 25
+file eos.1i7.r9007/436253
+K 29
+sipx-upgrade-3.6-mailstore.rb
+V 25
+file eot.1i7.r9007/436704
+K 4
+test
+V 21
+dir eou.1i7.r9010/864
+END
+ENDREP
+id: 4bz.1i7.r9010/1336
+type: dir
+pred: 4bz.1i7.r9007/437183
+count: 27
+text: 9010 1054 269 269 0058c80e01a6ea345871702a20d4ce03
+props: 4884 5840041 65 0 65a352752321b1038433e36ba7dc8784
+cpath: /main/sipXconfig/bin
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 2hg.0.r3393/21790
+K 9
+ChangeLog
+V 23
+file 2hh.1i7.r8958/1447
+K 7
+INSTALL
+V 24
+file 2hi.1i7.r5443/27201
+K 7
+LICENSE
+V 23
+file 2hj.0.r3393/851332
+K 11
+Makefile.am
+V 23
+file 2hk.1i7.r8985/1791
+K 4
+NEWS
+V 23
+file 2hl.0.r3393/808567
+K 6
+README
+V 24
+file 2hm.1i7.r5365/24861
+K 4
+TODO
+V 22
+file 2hn.0.r4025/58643
+K 5
+agent
+V 22
+dir bzs.1i7.r8642/5961
+K 14
+ant-targets.am
+V 22
+file 2hp.1i7.r8911/259
+K 15
+ant-targets.xml
+V 23
+file 2hq.1i7.r8969/5475
+K 3
+bin
+V 22
+dir 4bz.1i7.r9010/1336
+K 19
+build.properties.in
+V 23
+file 81e.1i7.r8682/5299
+K 9
+build.xml
+V 22
+file 4h8.1i7.r8985/987
+K 6
+config
+V 24
+file d3l.1i7.r7274/26681
+K 12
+configure.ac
+V 23
+file 2jg.1i7.r8985/1235
+K 16
+dependencies.xml
+V 21
+file 5d9.1i7.r5994/45
+K 3
+doc
+V 22
+dir 2jh.1i7.r8985/1546
+K 3
+etc
+V 25
+dir 4b7.1i7.r4884/5840691
+K 3
+lib
+V 24
+dir 2jy.1i7.r8553/112686
+K 14
+lib.properties
+V 25
+file 81m.1i7.r8553/102226
+K 4
+meta
+V 22
+dir 4ea.1i7.r8969/4333
+K 7
+neoconf
+V 22
+dir 4eo.1i7.r9002/7863
+K 7
+plugins
+V 22
+dir cw4.1i7.r8994/9971
+K 7
+pom.xml
+V 25
+file 90w.2qr.r6329/204642
+K 23
+profilepub_sipagent.dsp
+V 22
+file 4b5.1i7.r4929/429
+K 6
+report
+V 22
+dir e2i.1i7.r8845/3638
+K 18
+sipxconfig.spec.in
+V 25
+file 4bh.1i7.r9007/429942
+K 18
+subant-targets.xml
+V 24
+file 4h9.1i7.r7084/26035
+K 3
+web
+V 22
+dir 4l5.1i7.r8987/7631
+K 15
+web-targets.xml
+V 24
+file 8uq.1i7.r5770/11880
+END
+ENDREP
+id: 2hf.1i7.r9010/2954
+type: dir
+pred: 2hf.1i7.r9007/438807
+count: 2257
+text: 9010 1582 1359 1359 02607feca66f99d4ec7edcc73b42703c
+props: 8956 26344 1043 0 c35e673f529a6960b238bb9dcc6a4bb0
+cpath: /main/sipXconfig
+copyroot: 4813 /main/sipXconfig
+
+PLAIN
+K 11
+Makefile.in
+V 23
+file d0m.421.r8463/2590
+K 5
+build
+V 22
+file d5a.0.r7664/15661
+K 14
+buildmsvs6.bat
+V 20
+file dm4.683.r8357/0
+K 6
+config
+V 21
+dir 91.1i4.r8922/2027
+K 12
+configure.ac
+V 19
+file d0n.0.r8976/82
+K 16
+dependencies.mak
+V 20
+file dxw.0.r8471/894
+K 3
+lib
+V 20
+dir cyn.0.r8852/9225
+K 4
+meta
+V 20
+dir e8u.0.r8922/1019
+K 9
+sipXb2bua
+V 21
+dir dau.0.r7967/44454
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r8672/8278
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r8852/12469
+K 10
+sipXconfig
+V 22
+dir 2hf.1i7.r9010/2954
+K 19
+sipXmediaAdapterLib
+V 21
+dir 89s.0.r8363/16089
+K 12
+sipXmediaLib
+V 23
+dir mz.1i8.r8539/196231
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r8990/4198
+K 11
+sipXportLib
+V 21
+dir 3.1ib.r8949/28637
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r8988/2853
+K 13
+sipXpublisher
+V 24
+dir 20n.1id.r8539/123536
+K 12
+sipXregistry
+V 22
+dir 1y5.1ie.r8877/3105
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r8891/10109
+K 9
+sipXtools
+V 20
+dir dtl.0.r8996/2906
+K 8
+sipXvxml
+V 23
+dir 22d.1ig.r8539/14682
+K 10
+top.mak.in
+V 21
+file d5l.0.r7330/2797
+END
+ENDREP
+id: 7q4.0.r9010/4216
+type: dir
+pred: 7q4.0.r9007/440073
+count: 2524
+text: 9010 3200 1003 1003 20a65e40996059fcc0fdb52e5e06f789
+props: 8949 29893 2738 0 49e455f83023e0a16aa6ae1766e12500
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r9009/9758
+K 4
+main
+V 20
+dir 7q4.0.r9010/4216
+K 4
+tags
+V 20
+dir 7q5.0.r8544/3180
+END
+ENDREP
+id: 0.0.r9010/4555
+type: dir
+pred: 0.0.r9009/10043
+count: 9010
+text: 9010 4429 113 113 ab309fd8c80ad50a329c7a5c2564d539
+cpath: /
+copyroot: 0 /
+
+epf.1i7.t9009-1 modify false true /main/sipXconfig/bin/test/sipx-upgrade-3.6-mailstore-report_test.rb
+
+epg.1i7.t9009-1 modify false true /main/sipXconfig/bin/test/sipx-upgrade-3.6-mailstore_test.rb
+
+
+4555 4699

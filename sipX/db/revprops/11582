@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2010-03-03T22:02:03.152778Z
+K 7
+svn:log
+V 304
+sipXmediaLib: Fixes for Android input driver.
+* Support for incomplete frames, passed to us from hardware.
+* Catch assert() and other SIGSEGV's and cleanup AudioRecord. If we don't do this, it will left as zombie to the OS until user reboots the phone and we won't be able to grab input on the next run.
+
+END

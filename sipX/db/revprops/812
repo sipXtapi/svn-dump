@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-02-24T00:44:12.725907Z
+K 7
+svn:log
+V 209
+Make sure that debugging messages display the port number as it is
+represented in the 'port' variable.  The previous code would translate
+port = 0 into 5060 or 5061, disguising what was happening in the code.
+
+END

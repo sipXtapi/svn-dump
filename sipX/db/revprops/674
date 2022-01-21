@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-06T14:50:46.316106Z
+K 7
+svn:log
+V 49
+Set svn:externals to point to branches/post-2.6.1
+END

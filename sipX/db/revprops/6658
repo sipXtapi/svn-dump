@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-04-25T22:46:44.367519Z
+K 7
+svn:log
+V 541
+XCF-1013 In order to restart services after dial plan replication completes sipXconfig maintains a list of services to restart. It turns out that this list was never cleared, which means that if agreed to restart your services at least one, you basically were agreeing that they will be restarted from now on every time you activate dial plan.
+I changed the EventsToServices class: it now cleans its internal collection of services every time the list of services to restart is retrieved. Also changed the test to verify new implementation.
+
+END

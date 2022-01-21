@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-16T13:24:07.525834Z
+K 7
+svn:log
+V 282
+Use search table instead of many if-then-else to retrieve codec name by type and vice versa. This also simply adding of new codecs - their name is defined at one place.
+
+Note, that default name of telephone events from now is "telephone-events" instead of "audio/telephone-events".
+
+END

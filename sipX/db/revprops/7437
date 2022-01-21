@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-09-07T18:54:15.559937Z
+K 7
+svn:log
+V 100
+XCL-112 - Disable unit tests that segfault on linux systems, see issue for reference to mailing list
+END

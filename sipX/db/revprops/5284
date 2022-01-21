@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-10-05T18:15:36.579205Z
+K 7
+svn:log
+V 559
+-Changed to use the name-addr format for contact field.
+
+-Changed to use name-addr format for presence event subscription.
+
+- Changed the default refresh time interval from 180000 secs to 300 secs. Also changed the default port setting for tcp and udp.
+
+-Added a lot of debugging statement to help figuring out where the memory leak in sipXvxml come from. It turns out that the CpCall object cann't be deleted too quickly. A new interface is added for setting up the number of seconds to be delayed before the CpCall object is removed. The default is 0 secs.
+
+END

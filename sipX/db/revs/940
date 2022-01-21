@@ -1,0 +1,101 @@
+id: dk.47.r940/0
+type: dir
+pred: dk.3l.r937/19579
+count: 174
+text: 937 17843 1089 1089 16852df130c784d14ee7493ca09224cc
+props: 937 18945 621 0 db6ed2bc8c3d23a5ef8765e9f616adf1
+cpath: /old/sipXtackLib/branches/register_hook
+copyfrom: 939 /old/sipXtackLib/branches/2.8
+
+PLAIN
+K 3
+2.6
+V 20
+dir dk.2u.r796/23010
+K 3
+2.8
+V 20
+dir dk.3l.r937/19579
+K 13
+register_hook
+V 16
+dir dk.47.r940/0
+K 8
+user_pin
+V 18
+dir dk.3y.r895/899
+K 9
+user_ping
+V 18
+dir dk.3s.r876/765
+END
+ENDREP
+id: kz.0.r940/469
+type: dir
+pred: kz.0.r937/20000
+count: 42
+text: 940 268 188 188 4cac24b9f3a1cd2fbe522a7bcbc1e1a5
+cpath: /old/sipXtackLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 17
+dir kz.0.r940/469
+K 4
+main
+V 17
+dir dk.0.r938/958
+K 4
+tags
+V 18
+dir kr.0.r939/2714
+END
+ENDREP
+id: dj.0.r940/750
+type: dir
+pred: dj.0.r939/2995
+count: 341
+text: 940 632 105 105 df779d862316100f08eadbdda124ea12
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 17
+dir dj.0.r940/750
+END
+ENDREP
+id: 1.0.r940/1001
+type: dir
+pred: 1.0.r939/3249
+count: 939
+text: 940 904 84 84 f8c921b60fc84faa14651d5791df34c1
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r940/1001
+END
+ENDREP
+id: 0.0.r940/1188
+type: dir
+pred: 0.0.r939/3437
+count: 940
+text: 940 1140 35 35 63452c26ca57e120e8465430cb3e978a
+cpath: /
+copyroot: 0 /
+
+dk._0.t939-1 add false false /old/sipXtackLib/branches/register_hook
+939 /old/sipXtackLib/branches/2.8
+
+1188 1325

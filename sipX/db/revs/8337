@@ -1,0 +1,428 @@
+id: dst.67w.r8337/0
+type: file
+pred: dst.1i9.r8336/393
+count: 2
+text: 8336 0 368 3457 ae3ba451fab89b0a5eb43cbc11b69a17
+props: 7985 1492 30 0 4160c74de5f4e580dc15660c798ff9fc
+cpath: /main/sipXpbx/doc/developer/interop.pingtel.com/scripts/dialog-event-stimulus
+copyfrom: 8336 /main/sipXpbx/doc/developer/interop.pingtel.com/scripts/dialog-event-harvest
+
+PLAIN
+K 7
+crontab
+V 22
+file 91g.1i9.r6105/134
+K 21
+dialog-event-stimulus
+V 20
+file dst.67w.r8337/0
+K 20
+dialog-event-summary
+V 22
+file 91h.1i9.r6720/321
+K 13
+proxy-summary
+V 21
+file c11.1i9.r7542/62
+K 20
+registration-summary
+V 22
+file dhs.1i9.r7560/425
+END
+ENDREP
+id: 91f.1i9.r8337/616
+type: dir
+pred: 91f.1i9.r8336/949
+count: 16
+text: 8337 352 251 251 59d0b2133433aa9a81476cdc151b321e
+cpath: /main/sipXpbx/doc/developer/interop.pingtel.com/scripts
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 8
+Makefile
+V 22
+file dje.1i9.r7932/348
+K 6
+README
+V 24
+file 901.1i9.r7920/19852
+K 12
+http_rootdir
+V 23
+dir 8zk.4yy.r7920/13498
+K 7
+scripts
+V 21
+dir 91f.1i9.r8337/616
+K 12
+sipx_confdir
+V 22
+dir 902.4yz.r7961/1312
+K 10
+sipx_dbdir
+V 21
+dir c12.4zj.r7930/563
+END
+ENDREP
+id: 8zj.1i9.r8337/1105
+type: dir
+pred: 8zj.1i9.r8336/1439
+count: 61
+text: 8337 831 261 261 c55c93c8b85a9f2d15e618a3f9063ec8
+cpath: /main/sipXpbx/doc/developer/interop.pingtel.com
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 18
+INSTALLATION.NOTES
+V 23
+file 6mg.0.r4571/100158
+K 18
+Makefile.config.in
+V 24
+file 6mh.1w5.r8065/23368
+K 14
+Makefile.devel
+V 22
+file 6mh.20i.r6046/515
+K 6
+README
+V 21
+file 6mf.y6.r4450/661
+K 18
+buildloop.switches
+V 22
+file 6o2.0.r4618/56832
+K 15
+check-libraries
+V 20
+file 6os.0.r4481/918
+K 14
+clean-check.sh
+V 25
+file 6p1.1i9.r5457/151339
+K 10
+config-xml
+V 26
+file 6mk.1i9.r4884/6151044
+K 12
+eol-check.sh
+V 20
+file 6om.0.r4615/457
+K 24
+find-call-transitions.pl
+V 23
+file 6ov.0.r4571/100413
+K 13
+gen-config.sh
+V 21
+file 6ml.0.r4451/1049
+K 19
+interop.pingtel.com
+V 22
+dir 8zj.1i9.r8337/1105
+K 10
+port-usage
+V 22
+file 6mm.0.r4571/99914
+K 14
+profile-driver
+V 20
+file 6pc.0.r4587/456
+K 14
+profile-format
+V 20
+file 6pd.0.r4587/108
+K 7
+sipX.el
+V 22
+file 6mn.1i9.r5809/125
+K 12
+tab-check.sh
+V 23
+file 8jg.1i9.r5494/1174
+K 11
+test-config
+V 23
+dir 6mx.1i9.r8065/23163
+END
+ENDREP
+id: 6me.1i9.r8337/2193
+type: dir
+pred: 6me.1i9.r8336/2528
+count: 161
+text: 8337 1314 866 866 abf89e8417a8d8706beec699cb7019e1
+props: 4503 0 42 0 53dbb2403cdf571d867f8a60d94ee489
+cpath: /main/sipXpbx/doc/developer
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 11
+Doxyfile.in
+V 23
+file 6oj.1i9.r7147/7466
+K 11
+Makefile.am
+V 24
+file 6oh.1i9.r7320/54023
+K 9
+developer
+V 22
+dir 6me.1i9.r8337/2193
+K 11
+footer.html
+V 26
+file 6ok.1i9.r4884/6150408
+K 7
+license
+V 21
+dir 5gn.0.r4618/56659
+END
+ENDREP
+id: 5gm.1i9.r8337/2676
+type: dir
+pred: 5gm.1i9.r8336/3012
+count: 183
+text: 8337 2436 227 227 f3518e144099a786f87a6fe1e0e7fd97
+props: 5457 153170 64 0 e19f173046f394aff8f05c9ce51adc16
+cpath: /main/sipXpbx/doc
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4454/288397
+K 9
+ChangeLog
+V 21
+file 5g8.0.r4571/9011
+K 7
+INSTALL
+V 23
+file 5g9.0.r4454/289610
+K 7
+LICENSE
+V 21
+file 5ga.0.r4571/8791
+K 11
+Makefile.am
+V 23
+file 5gb.1i9.r7616/6351
+K 4
+NEWS
+V 23
+file 5gc.0.r4454/299658
+K 6
+README
+V 23
+file 5gd.0.r4454/288092
+K 4
+TODO
+V 23
+file 5ge.0.r4454/289304
+K 3
+bin
+V 22
+dir 5gg.1i9.r8265/1264
+K 6
+config
+V 24
+file d3o.1i9.r7274/13520
+K 12
+configure.ac
+V 23
+file 5gl.1i9.r7696/6698
+K 3
+doc
+V 22
+dir 5gm.1i9.r8337/2676
+K 3
+etc
+V 22
+dir 5gp.1i9.r8272/1262
+K 7
+include
+V 22
+dir 5h2.1i9.r7322/6844
+K 4
+meta
+V 23
+dir 6of.1z3.r8180/61682
+K 14
+sipXconference
+V 23
+dir 86e.1i9.r8180/67646
+K 10
+sipXdialog
+V 22
+dir 7vj.1i9.r7548/6621
+K 8
+sipXpark
+V 22
+dir 6pl.1i9.r8333/4547
+K 12
+sipXpresence
+V 23
+dir 7w9.1i9.r8180/66151
+K 7
+sipXrls
+V 23
+dir e5f.1i9.r8335/26409
+K 15
+sipxpbx.spec.in
+V 23
+file 6mo.1i9.r8260/2174
+K 3
+src
+V 23
+dir 5hb.1i9.r8237/16134
+END
+ENDREP
+id: 5g6.1i9.r8337/3844
+type: dir
+pred: 5g6.1i9.r8336/4181
+count: 664
+text: 8337 2914 917 917 cbf9d03c4808270770596a6503ef1f0b
+props: 7274 14626 838 0 253428b826320ceabffbfa339b5e7dbb
+cpath: /main/sipXpbx
+copyroot: 4813 /main/sipXpbx
+
+PLAIN
+K 11
+Makefile.in
+V 23
+file d0m.421.r8194/1039
+K 7
+bbridge
+V 21
+dir 8dl.0.r8083/18422
+K 5
+build
+V 22
+file d5a.0.r7664/15661
+K 6
+config
+V 21
+dir 91.1i4.r8283/1405
+K 12
+configure.ac
+V 20
+file d0n.0.r8051/327
+K 16
+dependencies.mak
+V 19
+file dxw.0.r8252/81
+K 3
+lib
+V 20
+dir cyn.0.r8329/2472
+K 14
+msvs6build.bat
+V 22
+file dm4.0.r8318/61612
+K 14
+resiprocateLib
+V 21
+dir 8g8.0.r7696/13751
+K 9
+sipXb2bua
+V 21
+dir dau.0.r7967/44454
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r8331/9803
+K 17
+sipXcommserverLib
+V 22
+dir 1qo.1i6.r8306/3043
+K 10
+sipXconfig
+V 22
+dir 2hf.1i7.r8332/7793
+K 19
+sipXmediaAdapterLib
+V 21
+dir 89s.0.r8177/13233
+K 12
+sipXmediaLib
+V 22
+dir mz.1i8.r8309/12843
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r8337/3844
+K 11
+sipXportLib
+V 21
+dir 3.1ib.r8334/11132
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r8322/9794
+K 13
+sipXpublisher
+V 23
+dir 20n.1id.r8180/70541
+K 12
+sipXregistry
+V 23
+dir 1y5.1ie.r8334/13261
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r8326/33530
+K 9
+sipXtools
+V 20
+dir dtl.0.r8324/3048
+K 8
+sipXvxml
+V 22
+dir 22d.1ig.r8260/1937
+K 10
+top.mak.in
+V 21
+file d5l.0.r7330/2797
+END
+ENDREP
+id: 7q4.0.r8337/5144
+type: dir
+pred: 7q4.0.r8336/5482
+count: 2181
+text: 8337 4078 1053 1053 1e2bd0dafdf46709e03b6887f507fe64
+props: 8335 28803 2638 0 d0ebe6938c2d73c3fb52421938edb09a
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r8315/7431
+K 4
+main
+V 20
+dir 7q4.0.r8337/5144
+K 4
+tags
+V 20
+dir 7q5.0.r8275/3149
+END
+ENDREP
+id: 0.0.r8337/5481
+type: dir
+pred: 0.0.r8336/5820
+count: 8337
+text: 8337 5355 113 113 7506ec36dca92fa274fa5ed0456bad55
+cpath: /
+copyroot: 0 /
+
+dst._0.t8336-1 add false false /main/sipXpbx/doc/developer/interop.pingtel.com/scripts/dialog-event-stimulus
+8336 /main/sipXpbx/doc/developer/interop.pingtel.com/scripts/dialog-event-harvest
+dst.1i9.r8336/393 delete false false /main/sipXpbx/doc/developer/interop.pingtel.com/scripts/dialog-event-harvest
+
+
+5481 5624

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-17T05:37:03.813581Z
+K 7
+svn:log
+V 49
+Add MIME-subtypes for G.729 codec to sipXsdpLib.
+
+END

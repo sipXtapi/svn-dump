@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-11-22T23:07:12.179752Z
+K 7
+svn:log
+V 109
+XCF-70 - temp dir for partial cisco files was invalid on RPM installs (../data/...).  Code reviewed by Damian
+END

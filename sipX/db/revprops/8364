@@ -1,0 +1,55 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-12-22T22:29:57.361785Z
+K 7
+svn:log
+V 1541
+Merged revisions 8315,8350,8353,8355,8356,8358 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8315 | kkyzivat | 2006-12-20 01:57:57 +0300 | 1 line
+  
+  Adding WinCE source dir so patch file will be created properly.
+........
+  r8350 | bob | 2006-12-22 20:19:14 +0300 | 16 lines
+  
+  Commiting merge from Wince branch r8018 to r8313 (patch provided by Keith
+      Kyzivat). 
+  
+  - sipXtapi unit tests pass on Windows (subscribe tests still need some help)
+  - sipXportLib tests pass on Windows (except OsProcessMgr tests)
+  - sipXtackLib tests pass on Windows (except known fatal bugs)
+  - sipxMediaAd
+  
+  
+  I made the following additional changes:
+  
+  1) Removed printfs in NetInTask/friends.  In some cases, I converted
+     the printf's back to OsSysLogs.
+  2) Fixed for sipXtackUnit test (addCodecsOffer changed shape)
+........
+  r8353 | bob | 2006-12-22 20:55:48 +0300 | 3 lines
+  
+  Fixed build error under linux (ClassName::method declaration in .h)
+........
+  r8355 | kkyzivat | 2006-12-22 22:39:00 +0300 | 1 line
+  
+  Commiting missed newly-added files for merge from Wince branch r8018 to r8313
+........
+  r8356 | bob | 2006-12-22 23:00:37 +0300 | 4 lines
+  
+  BuildFix -- Not able to build under linux w/o local media support.  We can now, build, but it crashes.  Dan needs to look at 
+  why this is crashing w/o local media.
+........
+  r8358 | kkyzivat | 2006-12-22 23:18:59 +0300 | 1 line
+  
+  Remove unnecessary GetModuleHandle() that immediately followed a LoadLibrary call.
+........
+
+END

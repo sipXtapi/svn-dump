@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+raghu
+K 8
+svn:date
+V 27
+2004-06-03T03:29:42.985957Z
+K 7
+svn:log
+V 176
+Fixed some more issues with compiling under MSVC. Also fixed the warnings that were generetated due to the fact that the old UtlTests wre writtent using bool instead of UtlBool
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2014-11-24T22:11:26.125058Z
+K 7
+svn:log
+V 131
+Fixed some wave file header problems for GSM encoding.
+   fixed block size
+   fixed ave. bytes per second
+   fixed bits per sample
+
+END

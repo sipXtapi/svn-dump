@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-04-01T12:43:41.736508Z
+K 7
+svn:log
+V 113
+XCF-289 Get KPhone to generate kphonerc profiles.  Implement Damian's code review comments on AbstractLine.getUri
+END

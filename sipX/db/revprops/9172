@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-26T21:52:08.138501Z
+K 7
+svn:log
+V 78
+Refactor unit test creating rogue 'out' directory in src directory in ant env.
+END

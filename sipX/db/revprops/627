@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2004-07-06T22:07:41.254603Z
+K 7
+svn:log
+V 423
+Fixed warnings in sipXtackLib.  Mostly char* being assigned quoted
+strings, comparison between signed and unsigned, format type
+mismatches.  Added prototypes in several src/resparse files.
+
+Also, added guards (#ifndef FILENAME_BASED_STRING...) to resparse
+include files; and added extern "C" {}.
+
+Removed some chunks of dead, commented-out, code when found in the
+vicinity of the warnings, to make the code more readable.
+
+
+END

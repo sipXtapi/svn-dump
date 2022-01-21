@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-10-31T21:55:07.393039Z
+K 7
+svn:log
+V 165
+XCF-305 Only run WSDL compilation if source files change, fix XSLT issues w/server-config, awaiting response from ant community for final xslt transformation details
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-10-20T22:43:08.431241Z
+K 7
+svn:log
+V 172
+ENG-311 Addition errors during migration and fix sporadic template1 db in use error.  Be less verbose in migration output and add message that missing tools.jar is optional
+END

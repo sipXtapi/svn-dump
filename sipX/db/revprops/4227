@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-30T21:55:00.453724Z
+K 7
+svn:log
+V 165
+http://track.sipfoundry.org/browse/XPB-53
+Take out instructions for editing Apache config files, as the distribution
+now provides a complete and self-contained set.
+
+END

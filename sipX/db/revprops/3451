@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-01-31T15:14:59.386884Z
+K 7
+svn:log
+V 157
+move generic phone methods from polycom to generic phone impl., separate endpoint from phone, getting messy, web pages will be broken, updating those shortly
+END

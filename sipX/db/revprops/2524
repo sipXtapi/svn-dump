@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2005-05-13T12:58:05.088594Z
+K 7
+svn:log
+V 55
+Remove SipHuntGroupFilter.h, hopefully fixing RPM build
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2018-12-04T16:24:29.919243Z
+K 7
+svn:log
+V 104
+Added compile time conditional logging for output device ticker method invocation and mutex aquisition.
+
+END

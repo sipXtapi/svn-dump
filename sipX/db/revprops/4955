@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-09-01T19:58:58.354819Z
+K 7
+svn:log
+V 85
+Cancel subscription when NOTIFY returns an error
+ (also - fix request URI in NOTIFY)
+
+END

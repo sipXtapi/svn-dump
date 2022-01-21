@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-20T16:13:29.089657Z
+K 7
+svn:log
+V 196
+First cut at adding stun support to sipXtapi, call processing, and audio processing.  No difference should be detectable without enabling stun (sipxConfigEnableStun).  More work is still needed.
+
+
+END

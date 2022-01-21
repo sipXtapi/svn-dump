@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-09-13T20:21:23.509257Z
+K 7
+svn:log
+V 146
+Fix calculateSampleDataSize in MpOutputDriverTest to take the size of the buffer passed in, instead of assuming the size is TEST_SAMPLE_DATA_SIZE.
+END

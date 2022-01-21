@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-06-07T14:43:14.701277Z
+K 7
+svn:log
+V 55
+XCF-1023 - Direct stdout from gem installs to /dev/null
+END

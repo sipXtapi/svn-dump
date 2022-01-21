@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-08-05T20:48:11.890119Z
+K 7
+svn:log
+V 129
+Tweak to the script used to modified the version in sipXtapi.h -- it removed the start of comment resulting in compiler errors.
+
+
+END

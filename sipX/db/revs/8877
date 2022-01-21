@@ -1,0 +1,370 @@
+PLAIN
+K 11
+Makefile.am
+V 25
+file 1zl.1ie.r7320/109811
+K 12
+alias.xsd.in
+V 20
+file 1zm.0.r2414/707
+K 19
+caller-alias.xsd.in
+V 23
+file d59.1ie.r7373/5106
+K 16
+huntgroup.xsd.in
+V 19
+file 1zo.0.r2419/79
+K 19
+registration.xsd.in
+V 25
+file 91m.2oc.r6259/120220
+K 38
+sipx_main_fc2_bldno.configure-switches
+V 21
+file 1zp.0.r2442/1124
+K 38
+sipx_main_fc3_bldno.configure-switches
+V 21
+file 1zq.0.r2442/1445
+K 39
+sipx_main_rhe3_bldno.configure-switches
+V 21
+file 1zr.0.r2442/1766
+K 20
+sipxregistry-3.0.tgz
+V 23
+file 8wv.1ie.r5847/4009
+END
+ENDREP
+id: 1zk.1ie.r8877/535
+type: dir
+pred: 1zk.1ie.r8334/12222
+count: 18
+text: 8877 0 522 522 5af1bb3619409434e718657bf96e98ba
+props: 2433 0 71 0 970628bddb725c5ced241b34e94147e3
+cpath: /main/sipXregistry/meta
+copyroot: 4813 /main/sipXregistry
+
+id: dxt.6ld.r8877/775
+type: file
+pred: dxt.1ie.r8334/11369
+count: 2
+text: 8334 1574 215 982 c4337695738f7371437bdcffbaca126f
+props: 8190 626 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /main/sipXregistry/doc/service-tokens.txt
+copyfrom: 8876 /main/sipXregistry/meta/service-tokens.txt
+
+PLAIN
+K 11
+Doxyfile.in
+V 24
+file 1zh.1ie.r7147/16792
+K 15
+HaScenarios.odt
+V 25
+file 8w8.2e9.r5815/211055
+K 15
+HaScenarios.pdf
+V 25
+file 8w9.2ea.r5815/211340
+K 11
+HaSetup.odt
+V 24
+file 8zd.2oa.r8469/61177
+K 11
+HaSetup.pdf
+V 24
+file 8ze.2ob.r8469/60895
+K 11
+Makefile.am
+V 25
+file 1z7.1ie.r7320/111113
+K 15
+Redirection.txt
+V 24
+file 1z8.1ie.r7375/45818
+K 15
+SyncDesign.html
+V 25
+file 8ox.1ie.r6259/135605
+K 14
+SyncDesign.txt
+V 25
+file 8oy.1ie.r6259/133278
+K 14
+SyncDesign.xml
+V 25
+file 8ow.1ie.r6259/135339
+K 9
+alias.xml
+V 21
+file 1z9.0.r2415/1312
+K 16
+call-pick-up.txt
+V 23
+file 8da.1ie.r5076/9685
+K 16
+caller-alias.xml
+V 23
+file d58.1ie.r7373/6227
+K 9
+developer
+V 23
+dir 200.28x.r7920/40048
+K 17
+fallbackrules.xml
+V 24
+file 1zc.3xs.r7919/32238
+K 11
+footer.html
+V 25
+file 1zi.1ie.r8539/196558
+K 13
+huntgroup.xml
+V 21
+file 1za.0.r2415/1837
+K 16
+mappingrules.xml
+V 24
+file 1zb.1ie.r7919/31973
+K 16
+registration.xml
+V 22
+file 1zd.0.r2414/10316
+K 18
+service-tokens.txt
+V 22
+file dxt.6ld.r8877/775
+END
+ENDREP
+id: 1z6.1ie.r8877/2064
+type: dir
+pred: 1z6.1ie.r8539/197773
+count: 74
+text: 8877 1062 989 989 652828ae90af7c4df356ebd95005b3d9
+props: 5457 186797 69 0 79529bae43531362a7f9a067fcf6bf41
+cpath: /main/sipXregistry/doc
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 21
+file 1y6.0.r2414/7414
+K 9
+ChangeLog
+V 20
+file 1y7.0.r2470/663
+K 7
+INSTALL
+V 22
+file 1y8.0.r2414/11973
+K 7
+LICENSE
+V 20
+file 1y9.0.r2470/440
+K 11
+Makefile.am
+V 24
+file 1ya.1ie.r8363/16318
+K 4
+NEWS
+V 22
+file 1yb.0.r2414/15680
+K 6
+README
+V 21
+file 1yc.0.r2414/7102
+K 4
+TODO
+V 22
+file 1yd.0.r2414/11664
+K 3
+bin
+V 23
+dir 1yf.1ie.r7920/59518
+K 6
+config
+V 24
+file d3t.1ie.r7274/33796
+K 12
+configure.ac
+V 24
+file 1yk.1ie.r7920/39196
+K 3
+doc
+V 22
+dir 1z6.1ie.r8877/2064
+K 3
+etc
+V 23
+dir 1yl.1ie.r8180/73216
+K 7
+include
+V 23
+dir 7v9.1ie.r7920/32157
+K 3
+lib
+V 22
+dir 87u.1ie.r8297/3021
+K 4
+meta
+V 21
+dir 1zk.1ie.r8877/535
+K 16
+sipXregistry.dsp
+V 21
+file 1z4.1ie.r7688/52
+K 20
+sipxregistry.spec.in
+V 24
+file 1ze.1ie.r8463/12614
+K 3
+src
+V 22
+dir 1yq.1ie.r8758/2136
+END
+ENDREP
+id: 1y5.1ie.r8877/3105
+type: dir
+pred: 1y5.1ie.r8758/3178
+count: 286
+text: 8877 2313 779 779 ff4f7b1a1506f59175e2b350696a40c5
+props: 7274 34820 908 0 fb4c6db7f7870bbd14ec49091b13a7c0
+cpath: /main/sipXregistry
+copyroot: 4813 /main/sipXregistry
+
+PLAIN
+K 11
+Makefile.in
+V 23
+file d0m.421.r8463/2590
+K 5
+build
+V 22
+file d5a.0.r7664/15661
+K 14
+buildmsvs6.bat
+V 20
+file dm4.683.r8357/0
+K 6
+config
+V 21
+dir 91.1i4.r8852/8009
+K 12
+configure.ac
+V 21
+file d0n.0.r8471/1110
+K 16
+dependencies.mak
+V 20
+file dxw.0.r8471/894
+K 3
+lib
+V 20
+dir cyn.0.r8852/9225
+K 4
+meta
+V 19
+dir e8u.0.r8802/691
+K 9
+sipXb2bua
+V 21
+dir dau.0.r7967/44454
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r8672/8278
+K 17
+sipXcommserverLib
+V 23
+dir 1qo.1i6.r8852/12469
+K 10
+sipXconfig
+V 22
+dir 2hf.1i7.r8875/9559
+K 19
+sipXmediaAdapterLib
+V 21
+dir 89s.0.r8363/16089
+K 12
+sipXmediaLib
+V 23
+dir mz.1i8.r8539/196231
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r8852/6918
+K 11
+sipXportLib
+V 20
+dir 3.1ib.r8860/4384
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r8852/4225
+K 13
+sipXpublisher
+V 24
+dir 20n.1id.r8539/123536
+K 12
+sipXregistry
+V 22
+dir 1y5.1ie.r8877/3105
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r8806/10802
+K 9
+sipXtools
+V 20
+dir dtl.0.r8363/9820
+K 8
+sipXvxml
+V 23
+dir 22d.1ig.r8539/14682
+K 10
+top.mak.in
+V 21
+file d5l.0.r7330/2797
+END
+ENDREP
+id: 7q4.0.r8877/4365
+type: dir
+pred: 7q4.0.r8875/10818
+count: 2455
+text: 8877 3349 1003 1003 d2e0f4e1d278212a8e7710935492768e
+props: 8772 8319 2734 0 9d9787d30b5842b060bd4f94a02bf676
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r8876/10337
+K 4
+main
+V 20
+dir 7q4.0.r8877/4365
+K 4
+tags
+V 20
+dir 7q5.0.r8544/3180
+END
+ENDREP
+id: 0.0.r8877/4703
+type: dir
+pred: 0.0.r8876/10624
+count: 8877
+text: 8877 4576 114 114 94b0022934ec7fc42bd78de7f2d518b6
+cpath: /
+copyroot: 0 /
+
+dxt._0.t8876-1 add false false /main/sipXregistry/doc/service-tokens.txt
+8876 /main/sipXregistry/meta/service-tokens.txt
+dxt.1ie.r8334/11369 delete false false /main/sipXregistry/meta/service-tokens.txt
+
+
+4703 4847

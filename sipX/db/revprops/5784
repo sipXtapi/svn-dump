@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-12-22T21:27:09.903676Z
+K 7
+svn:log
+V 79
+Patch from Hannu Unlike Cisco, all lines need to have their own local SIP ports
+END

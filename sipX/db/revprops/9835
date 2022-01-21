@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-16T17:15:20.794537Z
+K 7
+svn:log
+V 142
+Wrap calls to setsockopt() with IP_TOS request to #ifndef WIN32 in CpTopologyGraphInterface (this is already done for CpPhoneMediaInterface).
+
+END

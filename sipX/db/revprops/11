@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-05-25T20:52:30.006852Z
+K 7
+svn:log
+V 109
+1) Changes requird to build under WinNT
+2) Removed UtlHashListIterator -- shouldn't have been
+   checked in.
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-03-29T07:14:50.986728Z
+K 7
+svn:log
+V 46
+Fix incorrect platform label in SipUserAgent.
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-01-19T19:33:06.818242Z
+K 7
+svn:log
+V 119
+Add script to check for correct svn:mime-type and svn:eol-style properties.
+http://track.sipfoundry.org/browse/XPB-187
+
+END

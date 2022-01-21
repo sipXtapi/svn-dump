@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-01-05T14:28:45.587370Z
+K 7
+svn:log
+V 58
+placeholder for real ssl keystore for tomcat https support
+END

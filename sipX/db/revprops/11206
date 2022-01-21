@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-22T14:42:27.446527Z
+K 7
+svn:log
+V 107
+sipXmediaLib: Change MpSpeakerSelectBase::reset() to return void to be in line with other reset() methods.
+
+END

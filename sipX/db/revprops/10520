@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-28T23:19:21.527611Z
+K 7
+svn:log
+V 54
+Add dtmf header file to main sipXmediaLib test rules.
+
+END

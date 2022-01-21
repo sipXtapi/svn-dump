@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-03-09T22:02:46.897396Z
+K 7
+svn:log
+V 244
+Enable the Media Server to access VM files via local file access
+instead of HTTPS.  If <mediaserver-url-secure> is configured for
+"local" network access, i.e. Media Server running on same box as
+PBX, use local file access to retrieve VM files.
+
+END

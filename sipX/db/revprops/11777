@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-11-23T10:49:03.890945Z
+K 7
+svn:log
+V 94
+Added support for async. input and concept of reset for stream discontinuities for resources.
+
+END

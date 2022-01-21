@@ -1,0 +1,34 @@
+K 10
+svn:author
+V 5
+howie
+K 8
+svn:date
+V 27
+2004-07-01T20:47:49.196697Z
+K 7
+svn:log
+V 884
+Fix compiler warnings in sipXmediaLib.
+
+A few looked like real bugs, waiting to bite us:
+1) class has virtual methods, but destructor is not virtual
+2) too few arguments for format in printf analogue
+
+The vast majority were harmless, and fell under
+1) unreference variables
+2) comparison between signed and unsigned
+3) order variations between class headers and constructor initializers
+4) type mismatch between format and argument to printf analogue
+5) quoted string passed to char* typed argument
+6) debugging output macros that were disabled by expanding to "(0)"
+
+There were a bunch of complaints about the same four unused static
+functions that operated on "CRITICAL_SECTIONS".  These were actually
+instantiated in a header file, so every file that included something
+that included that header file got a copy of these functions.  I
+cleaned that up, in rtcp/BaseClass{.h,.cpp}
+
+
+
+END

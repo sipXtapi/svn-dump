@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-04-26T18:35:06.075226Z
+K 7
+svn:log
+V 108
+EditAttendantDefaults -> EditAttendantDefaultsTestUi - test was not executed since it was named incorrectly
+
+END

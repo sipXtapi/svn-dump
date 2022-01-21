@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-09-07T14:22:53.035176Z
+K 7
+svn:log
+V 73
+I forgot to check in the removal of the reference to SipRegisterHooks.h.
+
+END

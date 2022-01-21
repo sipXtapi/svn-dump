@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-26T03:48:30.824065Z
+K 7
+svn:log
+V 146
+In the sample code for using an iterator, put warning parens around
+assignments that appear in while clauses:
+    while ((pObj = itor())) { ... }
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-05-09T03:46:03.689302Z
+K 7
+svn:log
+V 77
+compile unit tests under jdk 1.5 as well. leave javac flags to ant preset tag
+END

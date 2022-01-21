@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-04-21T15:48:01.186353Z
+K 7
+svn:log
+V 155
+Remove leaked and obsolte svnmerge properties:
+	svnmerge-main2cdr-head
+	svnmerge-dworley-3.1-head
+	svnmerge-sipx-3.3-head
+
+Do not merge to other branches.
+
+END

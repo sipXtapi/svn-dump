@@ -1,0 +1,35 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2009-01-05T18:32:08.174602Z
+K 7
+svn:log
+V 1096
+Changes:
+
+1) Fixed a bug that caused early termination (via SILENT events) of
+   calls (related the monitor task / socket last read/write state)
+2) Failed to send VQMon reports when using ARS (looked at wrong socket
+   for first/last read/write times)
+3) Added verbose debugging options in the CpMediaMonitorTask to dump
+   state on all manipulators (including timer handler) -- disabled by
+   default, see source for #define
+3) Don't drop video packets if the socket is full, instead block on
+   each write -- more work is required here (e.g. smarter drop alg
+   that doesn't toss key frames).
+4) [GIPS only] Fixed bug where audio RTCP packets dropped by GIPS
+   (incorrect channel id passed in API)
+5) [GIPS only] Set max MTU size to 1200 to avoid UDP fragmentation
+6) [GIPS only] Turn on some of the new GIPS features including
+   bandwidth throttling via RTCP reports -- GIPS should automatically
+   lower the bitrate if it detects delays or excessive packet loss).
+7) [GIPS only] Added the ability to display and override camera images
+   during connection and when no camera is available
+
+
+
+END

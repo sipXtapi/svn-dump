@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-07-17T20:37:53.024296Z
+K 7
+svn:log
+V 551
+Ensure that one can run profile generation unit tests for phone plugins hosted outside neoconf project.
+It required some modifications in ModelEntityResolver which we when loading settings file. Resolver used to only look for settings.dtd file in neoconf/etc directory. This is no longer accessible for plugins - I added the code that looks on the WEB as well (which unfortunatley only works if you run the tests on the machine with access to sipfoundry.org) - this needs a better fix soon.
+Also some examples of Velocity expressions in user.init.vm.
+
+END

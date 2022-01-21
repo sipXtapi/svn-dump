@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-10-01T13:33:17.449940Z
+K 7
+svn:log
+V 113
+FIX BUILD: OrbitFileReader.h was not accounted for in RPM spec file because first header file in root include dir
+END

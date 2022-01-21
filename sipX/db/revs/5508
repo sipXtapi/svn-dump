@@ -1,0 +1,123 @@
+PLAIN
+K 10
+svn:ignore
+V 10
+build.err
+
+K 25
+svnmerge-mirror-main-head
+V 49
+https://paradise.pingtel.com/rep/sipX/mirror/main
+K 25
+svnmerge-mirror-main-revs
+V 456
+1-3404,3415,3440-3441,3444,3449,3454,3466,3508,3519,3523,3528,3546,3550,3554,3588,3594,3601-3603,3608-3612,3615,3619,3623,3666,3670,3672,3674-3675,3677,3683,3692-3693,3703-3706,3720-3721,3725,3739-3740,3745,3754,3758,3807,3837-3838,3892-3894,3897-3898,3915,3923,3926-3928,3934-3935,3955-3962,4012,4049,4054,4064-4065,4085,4097,4100,4139,4141,4150-4153,4156,4172,4175,4195-4198,4200-4201,4215,4230,4262-4268,4275-4276,4278,4280,4283,4285,4289,4296,4303-4304
+K 25
+svnmerge-pingtel-3.0-head
+V 58
+https://paradise.pingtel.com/rep/sipX/pingtel/branches/3.0
+K 25
+svnmerge-pingtel-3.0-revs
+V 66
+1-4306,4310,4372,4384,4426,4451-4452,4525,4544,4552,4584,4586-4587
+K 22
+svnmerge-sipx-3.1-head
+V 40
+https://scm.sipfoundry.org/rep/sipX/main
+K 22
+svnmerge-sipx-3.1-revs
+V 16
+1-5315,5395,5407
+END
+ENDREP
+id: 7q4.24b.r5508/951
+type: dir
+pred: 7q4.24b.r5505/28323
+count: 569
+text: 5505 27595 715 715 16dacb188305edb18093f232d249acc2
+props: 5508 0 938 0 f7f2256c06672613d919d75eaead601a
+cpath: /branches/3.0
+copyroot: 5315 /branches/3.0
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 21
+dir 7pv.0.r4813/26770
+K 3
+3.0
+V 21
+dir 7q4.24b.r5508/951
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 7
+restful
+V 21
+dir 7q0.0.r4813/15683
+K 18
+sipXconfig-bulkops
+V 23
+dir 2hf.274.r5442/22065
+K 15
+sipXconfig-soap
+V 24
+dir 2hf.20x.r5286/309278
+K 31
+sipXconfig_unique_sip_usernames
+V 23
+dir 2hf.20y.r5066/55100
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r5508/1704
+type: dir
+pred: 7pt.0.r5505/29083
+count: 90
+text: 5508 1182 509 509 16ede6a2e3b33ea776da9a84f16907cc
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r5508/1704
+K 4
+main
+V 21
+dir 7q4.0.r5507/52924
+K 4
+tags
+V 22
+dir 7q5.0.r4813/200627
+END
+ENDREP
+id: 0.0.r5508/1987
+type: dir
+pred: 0.0.r5507/53263
+count: 5508
+text: 5508 1858 116 116 05a85a0478f433688ba71c37a085432b
+cpath: /
+copyroot: 0 /
+
+7q4.24b.t5507-1 modify false true /branches/3.0
+
+
+1987 2131

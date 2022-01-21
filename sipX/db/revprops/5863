@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-01-12T03:12:05.741651Z
+K 7
+svn:log
+V 254
+[XRR-86] (partial) implement RegistrarPeer
+http://track.sipfoundry.org/browse/XRR-86
+
+This implements the object, with stubs for the methods it calls in
+RegistrarSync and RegistrarTest.
+
+I still need to do the methods in SipRegistrar for getting these.
+
+
+END

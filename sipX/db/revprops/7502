@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-17T20:58:17.179236Z
+K 7
+svn:log
+V 128
+XCF-1183 change host match generation - each rule has a chance to generate its own host match now, HostPatternProvider removed.
+
+END

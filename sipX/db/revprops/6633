@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-04-24T02:51:54.659273Z
+K 7
+svn:log
+V 80
+XCF-1011 Add admin settings to change timeout actions for invalid user responses
+END

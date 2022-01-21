@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-06T15:12:50.327985Z
+K 7
+svn:log
+V 150
+Fixing Michal's commit:
+- checkstyle fixes
+- commenting HitachiPhoneTest.testGenerateTypicalProfile again - please uncomment when test starts working
+
+END

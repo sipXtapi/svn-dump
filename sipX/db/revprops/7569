@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-09-25T21:43:14.153190Z
+K 7
+svn:log
+V 83
+sipxconfig startup script should be recognizing sipx database version 4 schemas now
+END

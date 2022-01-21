@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-09T15:53:26.610992Z
+K 7
+svn:log
+V 37
+sipXtapi: Fix configure under Linux.
+
+END

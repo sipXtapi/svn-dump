@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-08T02:18:54.652470Z
+K 7
+svn:log
+V 439
+Implement virtual inputs and outputs in Topology graph.
+Virtual inputs and outputs are supposed to be used to mark essential parts of topologies. E.g. we now can create virtual "labels" for abstractions which should be found in every topology in spite of its actual content. With this commit we introduce two such virtual ports - VIRTUAL_NAME_RTP_STREAM_OUTPUT and VIRTUAL_NAME_CONNECTION_PORTS (see MpResourceTopology.h for description).
+
+END

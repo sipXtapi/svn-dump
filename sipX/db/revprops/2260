@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2005-03-17T14:26:19.013245Z
+K 7
+svn:log
+V 370
+Merged revisions 161 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXproxy/branches/2.8
+    ------------------------------------------------------------------------
+    r161 | ajorde | 2005-03-16 11:52:24 -0500 (Wed, 16 Mar 2005) | 1 line
+    Changed paths:
+       M /branches/2.8/sipxproxy.spec.in
+    
+    Replacing upgrade operations with calling upgrade script
+
+END

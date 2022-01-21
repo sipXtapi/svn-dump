@@ -1,0 +1,28 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-11-10T16:46:06.739503Z
+K 7
+svn:log
+V 595
+ Merged revisions 63-105,107-125 via svnmerge from
+ https://scm.sipfoundry.org/rep/sipXconfig/branches/post-2.6.1
+
+NOTE: This was done by hand.  svnmerge -L post-2.6.1 had many conflicts
+which may have been caused by bidirectional merge. This commit was the
+result of executing this command:
+
+     svn merge \
+      https://scm.sipfoundry.org/rep/sipXconfig/main \  
+      https://scm.sipfoundry.org/rep/sipXconfig/branches/post-2.6.1 .
+
+And there was no conflicts or addtional changes that had to be made. 
+There was a merge from main to 2.6.1 done just prior to this merge from
+2.6.1 to main
+
+
+END

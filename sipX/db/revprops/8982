@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-03-05T23:22:50.215891Z
+K 7
+svn:log
+V 222
+XCF-886 generate AudioCodes gateway configuration file using Velocity
+- remove old way of generating AudioCodes configuration from template .ini files
+- add new interface Device with methods common for Gateways and Phones
+
+END

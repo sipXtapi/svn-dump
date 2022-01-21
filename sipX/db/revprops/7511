@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-19T14:03:00.453780Z
+K 7
+svn:log
+V 205
+XCF-1256 since we have multiple tabs on gateway screen we need to keep gateway in the session, in some cases it was not cleared properly and instead of adding new gateways UI was only editing the old ones
+
+END

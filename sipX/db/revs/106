@@ -1,0 +1,78 @@
+id: 3.e.r106/0
+type: dir
+pred: 3.0.r105/4059
+count: 103
+text: 105 3452 594 594 46d98cd18c07e672aedaaaecfb26e6c8
+props: 25 46063 102 0 dfadf7143a0dfad6b98b34bae97deccf
+cpath: /old/sipXportLib/tags/2.5.1
+copyfrom: 105 /old/sipXportLib/main
+
+PLAIN
+K 5
+2.5.1
+V 14
+dir 3.e.r106/0
+END
+ENDREP
+id: an.0.r106/286
+type: dir
+count: 0
+text: 106 239 34 34 659462319b25da7165ebc4cd7fe91bb9
+cpath: /old/sipXportLib/tags
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 17
+dir 3.0.r105/4059
+K 4
+tags
+V 17
+dir an.0.r106/286
+END
+ENDREP
+id: 2.0.r106/501
+type: dir
+pred: 2.0.r105/4322
+count: 104
+text: 106 420 68 68 94a1e7cbd0691134c3f3b307dba1c610
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 16
+dir 2.0.r106/501
+END
+ENDREP
+id: 1.0.r106/707
+type: dir
+pred: 1.0.r105/4531
+count: 105
+text: 106 651 43 43 2e2062aa45f150b203984dda9597237a
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 16
+dir 1.0.r106/707
+END
+ENDREP
+id: 0.0.r106/892
+type: dir
+pred: 0.0.r105/4719
+count: 106
+text: 106 845 34 34 00b96f26818ca0ddaf278f3ace273fb9
+cpath: /
+copyroot: 0 /
+
+_0.0.t105-1 add false false /old/sipXportLib/tags
+
+3._0.t105-1 add false false /old/sipXportLib/tags/2.5.1
+105 /old/sipXportLib/main
+
+892 1027

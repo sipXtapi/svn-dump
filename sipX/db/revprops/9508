@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-10T10:12:54.613840Z
+K 7
+svn:log
+V 86
+MpSineWaveGeneratorDeviceDriver: New line char is not needed when adding log message.
+
+END

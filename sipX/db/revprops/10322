@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-10-12T18:55:44.006873Z
+K 7
+svn:log
+V 454
+Add wideband support to resource test rig MpGenericResourceTest - to allow sample rates other than the old fixed 8000 samples/sec and samplesPerFrame of 80 to be used in resource tests.
+
+Update tests that used the old method to access the sample rate to the new one.
+Currently they all still operate as before, with 8000 samples/sec, and 80 samples/frame, but now can be more easily modified so they can test different sample rates and samples per frame.
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-12T15:13:11.526607Z
+K 7
+svn:log
+V 222
+XCF-1187 added user settings to allow configuring external numbers and calller alias blocking per group and per user
+fix user group display and user edit screen to include all defined groups and not just permission groups
+
+END

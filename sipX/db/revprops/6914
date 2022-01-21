@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-06-06T18:51:10.574237Z
+K 7
+svn:log
+V 135
+XPR-172: Factor out call resolver into a separate RPM. Added MIT license
+text to LICENSE file and included it in the RPM %doc section.
+
+END

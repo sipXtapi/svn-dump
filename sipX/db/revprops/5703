@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-12-04T14:57:18.554692Z
+K 7
+svn:log
+V 175
+support for injecting additional mapping rules from external files 
+file name can be specified in sipxconfig.properties.in file as mappingRule.externalRulesFileName parameter
+
+END

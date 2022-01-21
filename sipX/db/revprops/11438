@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-08-05T19:53:31.569086Z
+K 7
+svn:log
+V 75
+sipXmediaLib: Fix crash when we use RFC4733 tones with G.722 audio stream.
+
+END

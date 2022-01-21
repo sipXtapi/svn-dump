@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-03T22:02:25.077288Z
+K 7
+svn:log
+V 82
+XCF-1092 intercept hibernate exceptions in cases when Lucene index is out of date
+
+END

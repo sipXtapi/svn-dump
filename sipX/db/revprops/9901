@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-07-27T20:31:31.938525Z
+K 7
+svn:log
+V 487
+Update most Microsoft windows Test project files to link to winmm.lib 
+due to r9900 OsDateTime::getCurTime(OsTime&) change, 
+as it now uses functions contained in the winmm.lib library.
+
+Project files for the following compilers are updated:
+Visual Studio 6 (MSVC6)
+Visual Studio 2003
+Visual Studio 2005 (including WinCE6 targets)
+
+Microsoft eVC4 project files have *not* been updated yet, as they are
+a pain to edit by hand it seems.  This will still need to be done for
+that platform.
+
+END

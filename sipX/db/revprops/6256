@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-27T17:01:54.864906Z
+K 7
+svn:log
+V 62
+property change to prepare for merging back registry_ha branch
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-12-01T19:42:10.234424Z
+K 7
+svn:log
+V 90
+audio was broken under WIN32 -- control socket for NetInTask needs to bind on 127.0.0.1.
+
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2020-06-14T22:05:09.647925Z
+K 7
+svn:log
+V 71
+Created Release configuration for sipXtack unit test build on MSVS2019
+
+END

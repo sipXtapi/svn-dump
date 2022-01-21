@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2004-11-19T18:27:46.790869Z
+K 7
+svn:log
+V 130
+Updated check for running "watchdog" process to be compatible
+with RedHat Enterprise.
+
+http://track.sipfoundry.org/browse/XPB-116
+
+END

@@ -1,0 +1,35 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-27T22:01:43.443019Z
+K 7
+svn:log
+V 1016
+mergefrom pingtel-main 7460
+
+mergefrom pingtel-3.6 7441-7448,7452,7457-7458
+Extract the message-processing code from SipAaa::handleMessage as a
+separate method, SipAaa::proxyMessage, as has been done before in the
+forking proxy.
+Partial revert of rev. 6997, so that the tags are taken into account
+in the route-signature mechanism.
+It turns out that the original design allows requests in the "forward"
+direction (the direction of the dialog-creating request) to be
+authenticated, and requests in the "backward" direction to never be
+challenged.
+This mechanism doesn't always work, though, and restores the original
+problem seen in XPR-64.
+Changes to not require authorization of in-dialog requests.
+http://track.sipfoundry.org/browse/XPR-197
+Add UrlMapping::loadMappingsString to load the mappings from a
+supplied string, rather than reading them from a file, for testing
+purposes.
+Type read-only UtlString arguments as 'const UtlString&'.
+Add tests for the straightforward versions of all the cases we care
+about.
+
+END

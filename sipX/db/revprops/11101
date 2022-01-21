@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-13T14:07:59.241291Z
+K 7
+svn:log
+V 191
+sipXmediaLib:We don't have MprRtpStartSendMsg.h instead we have MprRtpStartReceiveMsg.h.
+Linux build was failing because of this. VS builds were silent, but projects were not correct either.
+
+END

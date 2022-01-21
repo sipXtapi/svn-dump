@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-09-29T10:38:25.296343Z
+K 7
+svn:log
+V 176
+Properly initialize member of unit test in setUp method for OsSocketTest.
+Resolves hang of testWriteAndAcceptMsg and 4 failures in testWriteMsg
+when they are run on their own.
+
+END

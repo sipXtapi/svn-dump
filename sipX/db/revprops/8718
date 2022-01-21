@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-02-07T23:07:32.457135Z
+K 7
+svn:log
+V 100
+XPR-179 correctly identify --start, --end, --logdir and --confidir as options that require argument
+
+END

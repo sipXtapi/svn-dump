@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-03-16T13:31:56.055317Z
+K 7
+svn:log
+V 83
+Bugfix: fix bug, introduced in rev.9049.
+Thanks to Jaroslav Libak for pointing to.
+
+END

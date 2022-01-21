@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-01-23T18:20:40.381052Z
+K 7
+svn:log
+V 67
+Resolved compile and build issues for mediaAdapter lib on Android.
+
+END

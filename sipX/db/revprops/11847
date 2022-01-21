@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-01-23T17:59:10.576623Z
+K 7
+svn:log
+V 61
+Android makefile changes to build audio driver lib for 4.0.1
+
+END

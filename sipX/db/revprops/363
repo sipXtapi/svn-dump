@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-01-06T15:32:41.792632Z
+K 7
+svn:log
+V 240
+Merged revisions 360 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6
+
+Lock the iterator list in container subclasses that overwrite
+the remove function from UtlContainer.
+
+http://track.sipfoundry.org/browse/XPR-18
+
+END

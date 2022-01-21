@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-24T21:20:46.399108Z
+K 7
+svn:log
+V 158
+Merged revisions 8063 via svnmerge from https://scm.sipfoundry.org/rep/sipX/main/sipXtackLib
+
+Enabled debug OsSysLog output in HttpRequestContext constructor.
+END

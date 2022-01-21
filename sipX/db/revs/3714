@@ -1,0 +1,306 @@
+id: 543.r0.r3714/0
+type: dir
+count: 0
+cpath: /old/sipXconfig/branches/2.8/neoconf/sipXconfig-profilegenerator
+copyroot: 3639 /old/sipXconfig/branches/2.8
+
+PLAIN
+K 10
+.classpath
+V 23
+file 4ep.r0.r3704/17921
+K 8
+.project
+V 20
+file 4eq.0.r3469/735
+K 19
+.springBeansProject
+V 20
+file 4xc.0.r3469/568
+K 11
+Makefile.am
+V 23
+file 4er.0.r3393/880810
+K 9
+build.xml
+V 23
+file 4es.r0.r3705/17308
+K 3
+etc
+V 22
+dir 4pz.r0.r3699/20902
+K 27
+sipXconfig-profilegenerator
+V 18
+dir 543.r0.r3714/0
+K 3
+src
+V 22
+dir 4ev.r0.r3708/26208
+K 4
+test
+V 22
+dir 4g2.r0.r3708/20450
+END
+ENDREP
+id: 4eo.r0.r3714/562
+type: dir
+pred: 4eo.r0.r3708/26776
+count: 243
+text: 3714 155 394 394 9d57cdf673d5b1443ebc1a0f76d9f3d4
+props: 3257 35273 70 0 3abbb3844767b5e993328a3487bbdfd7
+cpath: /old/sipXconfig/branches/2.8/neoconf
+copyroot: 3639 /old/sipXconfig/branches/2.8
+
+PLAIN
+K 10
+.classpath
+V 23
+file 4do.ia.r3393/22413
+K 8
+.project
+V 23
+file 4dp.ib.r3393/15834
+K 12
+CONTRIBUTORS
+V 22
+file 2hg.0.r3393/21790
+K 9
+ChangeLog
+V 20
+file 2hh.0.r3490/576
+K 7
+INSTALL
+V 22
+file 2hi.r0.r3689/2443
+K 7
+LICENSE
+V 23
+file 2hj.0.r3393/851332
+K 11
+Makefile.am
+V 21
+file 2hk.r0.r3692/774
+K 4
+NEWS
+V 23
+file 2hl.0.r3393/808567
+K 6
+README
+V 21
+file 2hm.0.r3573/5968
+K 4
+TODO
+V 21
+file 2hn.0.r3573/6199
+K 9
+acsite.m4
+V 22
+file 2ho.0.r3393/21475
+K 14
+ant-targets.am
+V 21
+file 2hp.r0.r3685/421
+K 15
+ant-targets.xml
+V 22
+file 2hq.0.r3603/26326
+K 3
+bin
+V 20
+dir 4bz.0.r3500/1858
+K 9
+build.xml
+V 22
+file 4h8.0.r3393/22103
+K 6
+common
+V 22
+dir 2hs.r0.r3695/28298
+K 20
+config.properties.in
+V 22
+file 2jf.r0.r3699/7272
+K 12
+configure.ac
+V 21
+file 2jg.r0.r3644/247
+K 3
+doc
+V 21
+dir 2jh.r0.r3700/2052
+K 3
+etc
+V 22
+dir 4b7.0.r3393/927179
+K 3
+lib
+V 22
+dir 2jy.0.r3554/861448
+K 4
+meta
+V 20
+dir 4ea.0.r3597/2966
+K 7
+neoconf
+V 20
+dir 4eo.r0.r3714/562
+K 16
+profilegenerator
+V 22
+dir 2kj.r0.r3705/13463
+K 23
+profilepub_sipagent.dsp
+V 22
+file 4b5.0.r3393/16177
+K 16
+profilepublisher
+V 22
+dir 485.r0.r3648/38962
+K 13
+profilewriter
+V 22
+dir 4a9.r0.r3656/28245
+K 12
+sipagent-jni
+V 21
+dir 48h.h9.r3500/2967
+K 26
+sipx-jboss-configure.patch
+V 23
+file 4bi.0.r3393/927483
+K 18
+sipxconfig.spec.in
+V 21
+file 4bh.r0.r3644/516
+K 18
+subant-targets.xml
+V 21
+file 4h9.0.r3453/6142
+K 3
+web
+V 21
+dir 4l5.r0.r3710/3310
+END
+ENDREP
+id: 2hf.r0.r3714/2236
+type: dir
+pred: 2hf.r0.r3710/4982
+count: 584
+text: 3714 830 1393 1393 bdb997560eea32747741d3524285641b
+props: 3639 0 647 0 cee414232d58d2302e5f33c28e44a4f0
+cpath: /old/sipXconfig/branches/2.8
+copyroot: 3639 /old/sipXconfig/branches/2.8
+
+PLAIN
+K 3
+2.6
+V 21
+dir 2hf.jd.r3596/6164
+K 3
+2.8
+V 21
+dir 2hf.r0.r3714/2236
+END
+ENDREP
+id: 4c1.0.r3714/2582
+type: dir
+pred: 4c1.0.r3710/5329
+count: 121
+text: 3714 2495 74 74 382143e5ba1b0ded0772826b89cfdd4f
+cpath: /old/sipXconfig/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 4c1.0.r3714/2582
+K 4
+main
+V 20
+dir 2hf.0.r3682/2534
+K 4
+tags
+V 20
+dir 4b6.0.r3713/2194
+END
+ENDREP
+id: 2he.0.r3714/2875
+type: dir
+pred: 2he.0.r3713/2485
+count: 689
+text: 3714 2749 113 113 473c56de6a6287214ce6396c99a6dd99
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 20
+dir 2he.0.r3714/2875
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3714/3479
+type: dir
+pred: 1.0.r3713/3089
+count: 3712
+text: 3714 3035 431 431 59148695077d1ecc6586ab709831d9d1
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3714/3479
+END
+ENDREP
+id: 0.0.r3714/3674
+type: dir
+pred: 0.0.r3713/3284
+count: 3714
+text: 3714 3625 36 36 1ca656a6069b6b3eff196b9e8bc4a86a
+cpath: /
+copyroot: 0 /
+
+_0.r0.t3713-1 add false false /old/sipXconfig/branches/2.8/neoconf/sipXconfig-profilegenerator
+
+
+3674 3815

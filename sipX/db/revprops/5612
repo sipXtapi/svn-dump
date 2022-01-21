@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-11-20T01:00:54.192594Z
+K 7
+svn:log
+V 43
+Add a SOAP API for call groups per XCF-766
+
+END

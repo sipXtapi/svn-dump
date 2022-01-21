@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-19T10:05:52.904590Z
+K 7
+svn:log
+V 81
+Put typedef for MpConnectioId type to MpTypes.h and remove it from other places.
+
+END

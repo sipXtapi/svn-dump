@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2007-03-29T15:37:04.014781Z
+K 7
+svn:log
+V 169
+Recover the old registration-summary script as registration-summary-old.
+Update crontab to list registration-summary-old and restart sipX every day
+(for test purposes).
+
+END

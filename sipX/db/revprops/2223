@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-01-21T14:01:06.553643Z
+K 7
+svn:log
+V 262
+Add configuration integrity check to sipxpbx init script (configtest argument)
+All init scripts now take a --configtest argument; if invoked with that
+argument, they just update and test any configuration files.
+part of http://track.sipfoundry.org/browse/XRR-13
+
+END

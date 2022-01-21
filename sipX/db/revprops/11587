@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2010-03-07T23:26:47.866495Z
+K 7
+svn:log
+V 233
+sipXportLib: Fixes for OsTask under Linux and Android specifically.
+* Use nice priorities instead of RT priorities on Android.
+* Correctly request stack size on all Linux systems.
+* Increase default stack size to a reasonable value.
+
+END

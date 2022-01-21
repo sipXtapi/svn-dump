@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-11-03T04:24:25.313062Z
+K 7
+svn:log
+V 217
+More work on extension uniqueness (XCF-598).  Not enough to ask isAliasInUse, need to add getObjectsWithAlias to the AliasOwner interface because we need to know who is using the alias, not just whether it is in use.
+
+END

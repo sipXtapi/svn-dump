@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-11-24T18:36:44.772885Z
+K 7
+svn:log
+V 76
+Fixed sipXphone runtime error on linux (g_thread_init unresolved external)
+
+
+END

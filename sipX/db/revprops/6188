@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-02-20T22:54:10.036918Z
+K 7
+svn:log
+V 139
+XCF-753 Convert remaining string validators to spring-validators, still need to do toLower translator, unsure if worth using spring adapter
+END

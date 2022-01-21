@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-03-29T01:40:46.633576Z
+K 7
+svn:log
+V 173
+Add sipXmediaAdapterLib to the sipx-uninstall script. Uninstalling
+anything that sipXmediaAdapterLib depended on (portLib, tackLib,
+medialib) failed and was left installed.
+
+END

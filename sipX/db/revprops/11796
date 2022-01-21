@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-11-23T11:57:11.866978Z
+K 7
+svn:log
+V 194
+Cleaned up sipXtapi RTP start/stop send methods.
+  Collectively start/stop sending of all streams in media connection.
+  Partial implementation of method to limit to specific codecs for a call.
+
+END

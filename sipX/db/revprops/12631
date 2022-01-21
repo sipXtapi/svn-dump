@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2018-01-01T22:01:05.412876Z
+K 7
+svn:log
+V 75
+Corrected plgaac info.
+ALgorithmic delay is expressed as samples not time.
+
+END

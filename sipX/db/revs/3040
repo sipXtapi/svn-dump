@@ -1,0 +1,212 @@
+PLAIN
+K 13
+svn:externals
+V 60
+cert  https://scm.sipfoundry.org/rep/sipXpbx/main/etc/cert
+
+
+K 10
+svn:ignore
+V 12
+Makefile.in
+
+END
+ENDREP
+id: 4b7.0.r3040/136
+type: dir
+pred: 4b7.0.r3038/2448
+count: 1
+text: 3038 2285 48 48 96cf28c8e935be5c70bff81e037e627a
+props: 3040 0 123 0 de92f6656cd843c1bea37626da485cdc
+cpath: /old/sipXconfig/main/etc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 24
+file 2hg.0.r3025/7526700
+K 9
+ChangeLog
+V 20
+file 2hh.0.r3032/287
+K 7
+INSTALL
+V 21
+file 2hi.0.r3038/1568
+K 7
+LICENSE
+V 24
+file 2hj.0.r3025/7507227
+K 11
+Makefile.am
+V 21
+file 2hk.0.r3038/1795
+K 4
+NEWS
+V 24
+file 2hl.0.r3025/8230780
+K 6
+README
+V 20
+file 2hm.0.r3039/160
+K 4
+TODO
+V 24
+file 2hn.0.r3025/7543047
+K 9
+acsite.m4
+V 24
+file 2ho.0.r3025/7507648
+K 14
+ant-targets.am
+V 24
+file 2hp.0.r3025/7507430
+K 15
+ant-targets.xml
+V 24
+file 2hq.0.r3025/7526061
+K 9
+build.xml
+V 24
+file 2hr.0.r3025/7537064
+K 6
+common
+V 20
+dir 2hs.0.r3035/1040
+K 20
+config.properties.in
+V 24
+file 2jf.0.r3025/7542821
+K 12
+configure.ac
+V 21
+file 2jg.0.r3038/1334
+K 3
+doc
+V 23
+dir 2jh.0.r3025/7542626
+K 3
+etc
+V 19
+dir 4b7.0.r3040/136
+K 3
+lib
+V 23
+dir 2jy.0.r3025/7550245
+K 16
+profilegenerator
+V 23
+dir 2kj.0.r3025/8230354
+K 23
+profilepub_sipagent.dsp
+V 21
+file 4b5.0.r3028/1912
+K 16
+profilepublisher
+V 20
+dir 485.0.r3037/2502
+K 13
+profilewriter
+V 20
+dir 4a9.0.r3039/1241
+END
+ENDREP
+id: 2hf.0.r3040/1332
+type: dir
+pred: 2hf.0.r3039/2401
+count: 14
+text: 3040 353 966 966 afad8ba9bc0129f6d4b2756d264169fb
+props: 3031 2430 180 0 12058b5d304b927b36c7896295e0d907
+cpath: /old/sipXconfig/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 20
+dir 2hf.0.r3040/1332
+K 4
+tags
+V 19
+dir 4b6.0.r3034/494
+END
+ENDREP
+id: 2he.0.r3040/1637
+type: dir
+pred: 2he.0.r3039/2707
+count: 16
+text: 3040 1551 73 73 1c71eebfda4cdffaea25d4ff09012fff
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 20
+dir 2he.0.r3040/1637
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3040/2238
+type: dir
+pred: 1.0.r3039/3308
+count: 3039
+text: 3040 1794 431 431 61ad3120042eeff9499db4ced93e5cb6
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3040/2238
+END
+ENDREP
+id: 0.0.r3040/2433
+type: dir
+pred: 0.0.r3039/3503
+count: 3040
+text: 3040 2384 36 36 6a8664ac3c9c6b14ee53067743926b57
+cpath: /
+copyroot: 0 /
+
+4b7.0.t3039-1 modify false true /old/sipXconfig/main/etc
+
+
+2433 2574

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-06-23T21:45:43.173671Z
+K 7
+svn:log
+V 50
+Finally remove DSP_type.h from eVC4 project file.
+
+END

@@ -1,0 +1,50 @@
+K 10
+svn:author
+V 4
+woof
+K 8
+svn:date
+V 27
+2006-10-27T17:35:27.974534Z
+K 7
+svn:log
+V 1356
+Support a plus sign in a voice mailbox name, and RFC-4240
+(XPB-769)
+
+If a user on the PBX is configured with a plus sign in the user name 
+portion of the SIP URL (e.g. +13014170700@pbx...), the mailbox name will be
+"+13014170700".
+
+The major issue was the proxy not escaping the plus sign correctly when 
+creating a URI to hand off to sipxVxml.  In HTTP escaping, a plus sign 
+("+") is converted to a space.  As the "digits" portion of the URI was 
+passed as an HTTP parameter embedded in a SIP URL parameter, an unescaped 
+plus sign was being converted into a space by the http server serving 
+the VoiceXML document, and so instead of seeing "mailbox=+13014170700", 
+it would see "mailbox= 13014170700" and would fail looking up a mailbox 
+that doesn't exist.
+
+To support this, three new "magic" words were added to the mappingrules.xml
+processing:
+
+{user-escaped}
+{digits_escaped}
+{vdigits_escaped}
+
+These three words are replaced with HTTP escaped versions of {user}, {digits}
+and {vdigits}.
+
+In addition, RFC-4240 defines the sip parameter "voicexml=" for the URL
+of the voicexml document to execute, rather than the currently used "play=".
+sipXvxml now supports either.
+
+
+Documentation and defaults for voicexml= and {digits-escaped} changes.
+
+Add config support for plus sign in voice mailbox name, and RFC-4240
+Thanks for the code, Damian!
+
+--Woof!
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-09-22T10:54:21.526256Z
+K 7
+svn:log
+V 81
+fix build errors in new bin/sipxssl directory
+fix logging call in mailboxmanager
+
+END

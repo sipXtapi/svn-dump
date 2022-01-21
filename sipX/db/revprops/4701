@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-10-29T14:32:05.685200Z
+K 7
+svn:log
+V 392
+Updated Install document:
+  - suggest going to source of downloads before SIPfoundry
+  - suggest executing "mkdir lib" before running ant on 
+    java project (otherwise build fails)
+
+Updated Readme document:
+   - Whacked old/obsolete content
+   - Added a note on the common "allocator" build error under
+     WIN32
+
+ --This line, and those below, will be ignored--
+
+M    README
+M    INSTALL
+
+END

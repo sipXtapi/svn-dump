@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-03-23T10:31:26.595185Z
+K 7
+svn:log
+V 337
+Big update to improve WinCE support.
+
+Changes included in this commit:
+1. Added Mobile5 target
+2. Corrected definitions concerned to the WinCE
+3. Corrected paths to the pcre.lib cppunit.lib with
+(../mobile5/pcre.lib, ../ppc2003/pcre.lib depending the target)
+4. Corrected LIBC options for the ARM complier.
+5. Other small misc changes.
+
+
+END

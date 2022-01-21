@@ -1,0 +1,257 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 6or.0.r4476/108
+type: file
+pred: 6or.0.r4472/1177
+count: 1
+text: 4472 0 1121 2039 61eb337f6606dc20461e1319f39597e9
+props: 4476 0 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /old/sipXpbx/main/bin/voicemail_clean.in
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file 6mc.0.r4474/1788
+K 7
+autodel
+V 23
+file 5gh.0.r4454/293017
+K 4
+blat
+V 23
+file 6oa.0.r4454/290288
+K 10
+check-fqdn
+V 21
+file 6od.0.r4456/6098
+K 29
+httpd-sipxchange-config.sh.in
+V 23
+file 5gi.0.r4454/292657
+K 15
+keepalive.sh.in
+V 21
+file 6ma.0.r4456/6331
+K 13
+pd_monitor.in
+V 23
+file 5gj.0.r4454/289943
+K 16
+sipx-chkspace.in
+V 24
+file 6oi.zd.r4454/291979
+K 16
+sipx-snapshot.in
+V 23
+file 6md.0.r4454/291633
+K 10
+sipxpbx.in
+V 21
+file 5gk.y4.r4475/215
+K 18
+voicemail_clean.in
+V 20
+file 6or.0.r4476/108
+END
+ENDREP
+id: 5gg.0.r4476/881
+type: dir
+pred: 5gg.0.r4475/1023
+count: 77
+text: 4476 342 526 526 c7723fa4c71dce04f04d9ded51de961b
+props: 4465 1033 111 0 58b2adbe00b15c2d3d5f7ca061e7df89
+cpath: /old/sipXpbx/main/bin
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4454/288397
+K 9
+ChangeLog
+V 21
+file 5g8.0.r4454/4401
+K 7
+INSTALL
+V 23
+file 5g9.0.r4454/289610
+K 7
+LICENSE
+V 19
+file 5ga.0.r4454/82
+K 11
+Makefile.am
+V 23
+file 5gb.0.r4454/294056
+K 4
+NEWS
+V 23
+file 5gc.0.r4454/299658
+K 6
+README
+V 23
+file 5gd.0.r4454/288092
+K 4
+TODO
+V 23
+file 5ge.0.r4454/289304
+K 9
+acsite.m4
+V 21
+file 5gf.0.r4454/4092
+K 3
+bin
+V 19
+dir 5gg.0.r4476/881
+K 12
+configure.ac
+V 23
+file 5gl.0.r4454/288711
+K 3
+doc
+V 20
+dir 5gm.0.r4468/1549
+K 3
+etc
+V 20
+dir 5gp.0.r4473/1209
+K 7
+include
+V 20
+dir 5h2.0.r4454/3129
+K 4
+meta
+V 21
+dir 6of.z4.r4454/3822
+K 15
+sipxpbx.spec.in
+V 21
+file 6mo.0.r4474/1552
+K 3
+src
+V 20
+dir 5hb.0.r4467/3015
+END
+ENDREP
+id: 5g6.0.r4476/1790
+type: dir
+pred: 5g6.0.r4475/1934
+count: 293
+text: 4476 1100 677 677 84fbf58cc517292a61a81c46e54a958f
+props: 4465 2620 453 0 99d99175ec1f50413630934e03ee16bc
+cpath: /old/sipXpbx/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 6o1.0.r4460/2284
+K 4
+main
+V 20
+dir 5g6.0.r4476/1790
+K 4
+tags
+V 20
+dir 5kn.0.r4471/1383
+END
+ENDREP
+id: 5g5.0.r4476/2134
+type: dir
+pred: 5g5.0.r4475/2278
+count: 383
+text: 4476 2008 113 113 973261f6d83535275de9aea61c2057e5
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4476/2134
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4476/2774
+type: dir
+pred: 1.0.r4475/2918
+count: 4474
+text: 4476 2291 470 470 3e04353dd8205f308dadc50d4cf676f4
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4476/2774
+END
+ENDREP
+id: 0.0.r4476/2969
+type: dir
+pred: 0.0.r4475/3113
+count: 4476
+text: 4476 2920 36 36 35dd90bc915eb5a659724a3c6928d2e8
+cpath: /
+copyroot: 0 /
+
+6or.0.t4475-1 modify false true /old/sipXpbx/main/bin/voicemail_clean.in
+
+
+2969 3110

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-24T00:07:45.054051Z
+K 7
+svn:log
+V 95
+XCF-753 DataObjectSource now takes Serializable (was Integer)
+minor FIXME annotations resolved
+
+END

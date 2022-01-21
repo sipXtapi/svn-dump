@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-07-20T18:10:38.858925Z
+K 7
+svn:log
+V 139
+Removed the aes code (previously deleted from the 
+sipXportLib project) references from the MSVS dsp 
+so that the project builds cleanly.
+
+
+END

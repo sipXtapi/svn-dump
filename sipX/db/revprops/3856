@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-29T19:45:45.892868Z
+K 7
+svn:log
+V 63
+Add final newlines.
+
+http://track.sipfoundry.org/browse/XCL-49
+
+END

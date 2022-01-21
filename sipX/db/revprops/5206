@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-27T17:16:23.572663Z
+K 7
+svn:log
+V 159
+XCF-626 Patch from Hannu Strang:
+ Someone had disabled the configuration test, I re-enabled it. Now the configuration passes test and isn't missing any parts.
+
+END

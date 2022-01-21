@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-03-04T20:47:16.924759Z
+K 7
+svn:log
+V 109
+Added dependent Android 2.3 headers.
+  AudioRecord::set and AudioTrack constructor signatures changed in 2.3
+
+END

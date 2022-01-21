@@ -1,0 +1,29 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-04-12T19:07:21.889851Z
+K 7
+svn:log
+V 632
+Forked glib and slashed it down to 6 source files
+and some stubs.  Currently memory
+pooling is turned off (DISABLE_MEM_POOLS) to prevent
+the need for the locking utilities in the g_threads
+library.  Some of these stubs may no longer be needed
+a second round of optimization (i.e. reducing) of these
+stubs and the number of glib header files can probably
+eliminate some more code.
+
+The dsp files have been updated for Windows to eliminate
+the dependency on glib.  The auto* tools config files
+have not been updated yet to eliminate the glib dependency.
+
+Still need to update the INSTALL file to update the
+instructions for Windows.
+
+
+END

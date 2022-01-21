@@ -1,0 +1,1070 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4ra.0.r3402/82
+type: file
+pred: 4ra.0.r3394/7972467
+count: 1
+text: 3394 12722 1455 2814 4a499e288358815d4fe7f88d10f8fb37
+props: 3402 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/commons-codec-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4rm.0.r3402/422
+type: file
+pred: 4rm.0.r3394/7972757
+count: 1
+text: 3394 49312 1160 2011 6dd5a937612cec806b987ad094109f74
+props: 3402 340 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/jwebunit-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4rf.0.r3402/760
+type: file
+pred: 4rf.0.r3394/7973042
+count: 1
+text: 3394 20050 1455 2814 4a499e288358815d4fe7f88d10f8fb37
+props: 3402 678 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/commons-lang-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4re.0.r3402/1102
+type: file
+pred: 4re.0.r3394/7973331
+count: 1
+text: 3394 18582 1455 2814 4a499e288358815d4fe7f88d10f8fb37
+props: 3402 1020 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/commons-fileupload-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4rn.0.r3402/1452
+type: file
+pred: 4rn.0.r3394/7973626
+count: 1
+text: 3394 50485 936 1491 5fd4e5f616bf6f87f8a6cbecdcffe65a
+props: 3402 1370 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/ognl-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4ro.0.r3402/1787
+type: file
+pred: 4ro.0.r3394/7973906
+count: 1
+text: 3394 51434 1348 2690 372b1e91335021ca74173b2ab4dc97dd
+props: 3402 1705 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/oro-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4rp.0.r3402/2122
+type: file
+pred: 4rp.0.r3394/7974186
+count: 1
+text: 3394 52795 966 1542 11611f0435ce0eab3366f5d4fec2e7ed
+props: 3402 2040 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/postgresql-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4rl.0.r3402/2463
+type: file
+pred: 4rl.0.r3394/7974472
+count: 1
+text: 3394 47843 1456 2530 d651f74b15239ea7fa860ca5f0cc6d8a
+props: 3402 2381 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/jaxen-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4rk.0.r3402/2800
+type: file
+pred: 4rk.0.r3394/7974754
+count: 1
+text: 3394 37506 10324 25798 f2977d6c59ee5a986683f8b087344c4e
+props: 3402 2718 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/javassist-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4rr.0.r3402/3143
+type: file
+pred: 4rr.0.r3394/7975042
+count: 1
+text: 3394 55151 1310 2346 2db523bac8899dd751f0eb3fd44f8161
+props: 3402 3061 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/saxpath-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4r7.0.r3402/3482
+type: file
+pred: 4r7.0.r3394/7975326
+count: 1
+text: 3394 5218 1377 2593 ffe8e7b4e01c8cb47bc765a336a211e2
+props: 3402 3400 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/bsf-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4rh.0.r3402/3816
+type: file
+pred: 4rh.0.r3394/7975605
+count: 1
+text: 3394 24074 743 1054 3f384277af136f0b34446c79a84a8a9a
+props: 3402 3734 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/easymock-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4rt.0.r3402/4155
+type: file
+pred: 4rt.0.r3394/7975889
+count: 1
+text: 3394 61120 4634 11358 3b83ef96387f14655fc854ddc3c6bd57
+props: 3402 4073 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/tapestry-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4rc.0.r3402/4496
+type: file
+pred: 4rc.0.r3394/7976175
+count: 1
+text: 3394 15646 1455 2814 4a499e288358815d4fe7f88d10f8fb37
+props: 3402 4414 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/commons-digester-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4ri.0.r3402/4844
+type: file
+pred: 4ri.0.r3394/7977216
+count: 1
+text: 3394 24830 1449 2741 cb8d0550d34268d862eafe62972ccfdf
+props: 3402 4762 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/ehcache-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4r4.0.r3402/5153
+type: file
+pred: 4r4.0.r3394/7976994
+count: 1
+text: 3394 2026 800 1167 a66d79bfc8c17b5d051eed850a1c32a7
+props: 3402 5101 39 0 f2ea0bdf4310dae3aef66de358bcb0e1
+cpath: /old/sipXconfig/main/doc/license/antlr-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4r5.0.r3402/5488
+type: file
+pred: 4r5.0.r3394/7976762
+count: 1
+text: 3394 2839 1019 1603 e11098d37788468a2a139f47d4d15b29
+props: 3402 5406 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/asm-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4rd.0.r3402/5822
+type: file
+pred: 4rd.0.r3394/7976468
+count: 1
+text: 3394 17114 1455 2814 4a499e288358815d4fe7f88d10f8fb37
+props: 3402 5740 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/commons-discovery-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4rb.0.r3402/6171
+type: file
+pred: 4rb.0.r3394/7977500
+count: 1
+text: 3394 14190 1443 2794 1b571cf38082a9061a15062f3f1c6335
+props: 3402 6089 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/commons-dbcp-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4rq.0.r3402/6515
+type: file
+pred: 4rq.0.r3394/7977789
+count: 1
+text: 3394 53774 1364 2674 8602126a0e286bec1c8c531f2c8e4e68
+props: 3402 6433 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/regexp-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4rg.0.r3402/6853
+type: file
+pred: 4rg.0.r3394/7978366
+count: 1
+text: 3394 21518 1455 2814 4a499e288358815d4fe7f88d10f8fb37
+props: 3402 6771 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/commons-logging-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4r9.0.r3402/7200
+type: file
+pred: 4r9.0.r3394/7978072
+count: 1
+text: 3394 11254 1455 2814 4a499e288358815d4fe7f88d10f8fb37
+props: 3402 7118 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/commons-beanutils-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4rv.0.r3402/7549
+type: file
+pred: 4rv.0.r3394/7978658
+count: 1
+text: 3394 66795 1019 1690 8e32b7fe61799b34fae0c58b3fca3c5d
+props: 3402 7467 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/xmlunit-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4rj.0.r3402/7888
+type: file
+pred: 4rj.0.r3394/7978942
+count: 1
+text: 3394 26292 11201 26428 ab0e2a7c09df7fc844fcb1480d01dd2d
+props: 3402 7806 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/hibernate-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4rs.0.r3402/8231
+type: file
+pred: 4rs.0.r3394/7979230
+count: 1
+text: 3394 56474 4633 11357 86d3f3a95c324c9479bd8986968f4327
+props: 3402 8149 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/spring-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4r6.0.r3402/8570
+type: file
+pred: 4r6.0.r3394/7979514
+count: 1
+text: 3394 3871 1334 2666 e888f93167d55cb28ffa60d29788feaa
+props: 3402 8488 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/bcel-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4ru.0.r3402/8905
+type: file
+pred: 4ru.0.r3394/7979794
+count: 1
+text: 3394 65767 1015 1671 56dae1b68eef099fbf240214848e76f4
+props: 3402 8823 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/tidy-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 4r8.0.r3402/9241
+type: file
+pred: 4r8.0.r3394/7980332
+count: 1
+text: 3394 6608 4633 11357 86d3f3a95c324c9479bd8986968f4327
+props: 3402 9159 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXconfig/main/doc/license/cglib-LICENSE.txt
+copyroot: 0 /
+
+PLAIN
+K 15
+LICENSE.mod_ssl
+V 22
+file 4c0.0.r3393/24435
+K 26
+NetComponents-LICENSE.html
+V 22
+file 2jj.0.r3393/23396
+K 18
+Tomcat-LICENSE.txt
+V 22
+file 2jk.0.r3393/25118
+K 17
+antlr-LICENSE.txt
+V 21
+file 4r4.0.r3402/5153
+K 15
+asm-LICENSE.txt
+V 21
+file 4r5.0.r3402/5488
+K 16
+axis-LICENSE.txt
+V 22
+file 2jl.0.r3393/27491
+K 16
+bcel-LICENSE.txt
+V 21
+file 4r6.0.r3402/8570
+K 15
+bsf-LICENSE.txt
+V 21
+file 4r7.0.r3402/3482
+K 17
+cglib-LICENSE.txt
+V 21
+file 4r8.0.r3402/9241
+K 29
+commons-beanutils-LICENSE.txt
+V 21
+file 4r9.0.r3402/7200
+K 25
+commons-codec-LICENSE.txt
+V 19
+file 4ra.0.r3402/82
+K 31
+commons-collections-LICENSE.txt
+V 22
+file 2jm.0.r3393/24765
+K 24
+commons-dbcp-LICENSE.txt
+V 21
+file 4rb.0.r3402/6171
+K 28
+commons-digester-LICENSE.txt
+V 21
+file 4rc.0.r3402/4496
+K 29
+commons-discovery-LICENSE.txt
+V 21
+file 4rd.0.r3402/5822
+K 25
+commons-discovery.LICENSE
+V 22
+file 2jo.0.r3393/27144
+K 30
+commons-fileupload-LICENSE.txt
+V 21
+file 4re.0.r3402/1102
+K 24
+commons-lang-LICENSE.txt
+V 20
+file 4rf.0.r3402/760
+K 27
+commons-logging-LICENSE.txt
+V 21
+file 4rg.0.r3402/6853
+K 23
+commons-logging.LICENSE
+V 22
+file 2jp.0.r3393/24090
+K 24
+commons-pool-LICENSE.txt
+V 22
+file 2jq.0.r3393/23744
+K 17
+dom4j-LICENSE.txt
+V 24
+file 2jr.0.r3394/7980028
+K 20
+easymock-LICENSE.txt
+V 21
+file 4rh.0.r3402/3816
+K 19
+ehcache-LICENSE.txt
+V 21
+file 4ri.0.r3402/4844
+K 21
+hibernate-LICENSE.txt
+V 21
+file 4rj.0.r3402/7888
+K 20
+httpunit-LICENSE.txt
+V 22
+file 4kv.0.r3393/29885
+K 26
+jakarta-regexp-LICENSE.txt
+V 22
+file 2js.0.r3393/27829
+K 21
+javassist-LICENSE.txt
+V 21
+file 4rk.0.r3402/2800
+K 17
+jaxen-LICENSE.txt
+V 21
+file 4rl.0.r3402/2463
+K 16
+jdom-LICENSE.txt
+V 22
+file 2jt.0.r3393/25797
+K 17
+junit-LICENSE.txt
+V 22
+file 4bb.0.r3393/25459
+K 20
+jwebunit-LICENSE.txt
+V 20
+file 4rm.0.r3402/422
+K 17
+log4j-LICENSE.txt
+V 22
+file 2ju.0.r3393/29546
+K 16
+ognl-LICENSE.txt
+V 21
+file 4rn.0.r3402/1452
+K 15
+oro-LICENSE.txt
+V 21
+file 4ro.0.r3402/1787
+K 19
+pgjdbc2-LICENSE.txt
+V 22
+file 2jv.0.r3393/28524
+K 22
+postgresql-LICENSE.txt
+V 21
+file 4rp.0.r3402/2122
+K 18
+regexp-LICENSE.txt
+V 21
+file 4rq.0.r3402/6515
+K 19
+saxpath-LICENSE.txt
+V 21
+file 4rr.0.r3402/3143
+K 18
+spring-LICENSE.txt
+V 21
+file 4rs.0.r3402/8231
+K 25
+taglibs-xtags-LICENSE.txt
+V 22
+file 2jw.0.r3393/28177
+K 20
+tapestry-LICENSE.txt
+V 21
+file 4rt.0.r3402/4155
+K 16
+tidy-LICENSE.txt
+V 21
+file 4ru.0.r3402/8905
+K 20
+velocity-LICENSE.txt
+V 22
+file 4px.0.r3393/26470
+K 14
+wsdl4j.LICENSE
+V 22
+file 2jx.0.r3393/26135
+K 19
+xmlunit-LICENSE.txt
+V 21
+file 4rv.0.r3402/7549
+END
+ENDREP
+id: 2ji.0.r3402/11993
+type: dir
+pred: 2ji.0.r3394/7983152
+count: 8
+text: 3402 9496 2484 2484 ec249901fbb6887e63221018eb3d947e
+cpath: /old/sipXconfig/main/doc/license
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 23
+file 4ds.if.r3393/31511
+K 11
+Makefile.am
+V 22
+file 4c4.0.r3393/57527
+K 9
+build.xml
+V 22
+file 4c5.0.r3393/57839
+K 7
+license
+V 21
+dir 2ji.0.r3402/11993
+K 3
+src
+V 21
+dir 4c6.0.r3400/12423
+END
+ENDREP
+id: 2jh.0.r3402/12394
+type: dir
+pred: 2jh.0.r3400/12820
+count: 62
+text: 3402 12174 207 207 b37babf5070b14682f9628b985d9d662
+props: 3257 35588 87 0 07b17d8219e8f132e94bbfb51edf9fea
+cpath: /old/sipXconfig/main/doc
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 23
+file 4do.ia.r3393/22413
+K 8
+.project
+V 23
+file 4dp.ib.r3393/15834
+K 12
+CONTRIBUTORS
+V 22
+file 2hg.0.r3393/21790
+K 9
+ChangeLog
+V 23
+file 2hh.0.r3393/884062
+K 7
+INSTALL
+V 22
+file 2hi.0.r3393/61972
+K 7
+LICENSE
+V 23
+file 2hj.0.r3393/851332
+K 11
+Makefile.am
+V 23
+file 2hk.0.r3393/926572
+K 4
+NEWS
+V 23
+file 2hl.0.r3393/808567
+K 6
+README
+V 23
+file 2hm.0.r3393/925626
+K 4
+TODO
+V 23
+file 2hn.0.r3393/925939
+K 9
+acsite.m4
+V 22
+file 2ho.0.r3393/21475
+K 14
+ant-targets.am
+V 20
+file 2hp.0.r3396/365
+K 15
+ant-targets.xml
+V 23
+file 2hq.0.r3393/888525
+K 3
+bin
+V 22
+dir 4bz.0.r3393/808265
+K 9
+build.xml
+V 22
+file 4h8.0.r3393/22103
+K 6
+common
+V 20
+dir 2hs.0.r3401/4732
+K 20
+config.properties.in
+V 24
+file 2jf.0.r3394/7983789
+K 12
+configure.ac
+V 24
+file 2jg.0.r3394/7972182
+K 3
+doc
+V 21
+dir 2jh.0.r3402/12394
+K 3
+etc
+V 22
+dir 4b7.0.r3393/927179
+K 3
+lib
+V 22
+dir 2jy.0.r3395/299266
+K 4
+meta
+V 21
+dir 4ea.0.r3393/21222
+K 7
+neoconf
+V 21
+dir 4eo.0.r3400/33270
+K 16
+profilegenerator
+V 20
+dir 2kj.0.r3401/3325
+K 23
+profilepub_sipagent.dsp
+V 22
+file 4b5.0.r3393/16177
+K 16
+profilepublisher
+V 20
+dir 485.0.r3401/6864
+K 13
+profilewriter
+V 20
+dir 4a9.0.r3401/5770
+K 12
+sipagent-jni
+V 23
+dir 48h.h9.r3393/888174
+K 26
+sipx-jboss-configure.patch
+V 23
+file 4bi.0.r3393/927483
+K 18
+sipxconfig.spec.in
+V 23
+file 4bh.0.r3393/926250
+K 18
+subant-targets.xml
+V 22
+file 4h9.0.r3393/22758
+K 3
+web
+V 21
+dir 4l5.0.r3400/23973
+END
+ENDREP
+id: 2hf.0.r3402/14042
+type: dir
+pred: 2hf.0.r3401/8523
+count: 291
+text: 3402 12621 1408 1408 a812353b436c2c4b3ddaf46cfce8fe8b
+props: 3343 0 454 0 540b223cc91917032329e7c4d0a3ed42
+cpath: /old/sipXconfig/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 4c1.0.r3344/10857
+K 4
+main
+V 21
+dir 2hf.0.r3402/14042
+K 4
+tags
+V 20
+dir 4b6.0.r3387/1816
+END
+ENDREP
+id: 2he.0.r3402/14392
+type: dir
+pred: 2he.0.r3401/8871
+count: 377
+text: 3402 14264 115 115 48f898b3bbf4f97c20e2e1ab5f7f98d6
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r3402/14392
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3402/14999
+type: dir
+pred: 1.0.r3401/9476
+count: 3400
+text: 3402 14554 432 432 098b609410468586efe7b4b91fad2fbf
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 19
+dir 1.0.r3402/14999
+END
+ENDREP
+id: 0.0.r3402/15197
+type: dir
+pred: 0.0.r3401/9672
+count: 3402
+text: 3402 15147 37 37 004349ab47361039038617e3c41dfcab
+cpath: /
+copyroot: 0 /
+
+4rv.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/xmlunit-LICENSE.txt
+
+4rj.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/hibernate-LICENSE.txt
+
+4rs.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/spring-LICENSE.txt
+
+4rp.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/postgresql-LICENSE.txt
+
+4r6.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/bcel-LICENSE.txt
+
+4rl.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/jaxen-LICENSE.txt
+
+4rk.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/javassist-LICENSE.txt
+
+4rr.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/saxpath-LICENSE.txt
+
+4ru.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/tidy-LICENSE.txt
+
+4r7.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/bsf-LICENSE.txt
+
+4rh.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/easymock-LICENSE.txt
+
+4rt.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/tapestry-LICENSE.txt
+
+4rc.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/commons-digester-LICENSE.txt
+
+4ri.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/ehcache-LICENSE.txt
+
+4rd.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/commons-discovery-LICENSE.txt
+
+4r8.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/cglib-LICENSE.txt
+
+4r5.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/asm-LICENSE.txt
+
+4r4.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/antlr-LICENSE.txt
+
+4rb.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/commons-dbcp-LICENSE.txt
+
+4ra.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/commons-codec-LICENSE.txt
+
+4rm.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/jwebunit-LICENSE.txt
+
+4rf.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/commons-lang-LICENSE.txt
+
+4rq.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/regexp-LICENSE.txt
+
+4re.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/commons-fileupload-LICENSE.txt
+
+4rg.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/commons-logging-LICENSE.txt
+
+4r9.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/commons-beanutils-LICENSE.txt
+
+4rn.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/ognl-LICENSE.txt
+
+4ro.0.t3401-1 modify false true /old/sipXconfig/main/doc/license/oro-LICENSE.txt
+
+
+15197 15340

@@ -1,0 +1,230 @@
+PLAIN
+K 13
+svn:externals
+V 68
+config https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi/config
+
+K 16
+svnmerge-blocked
+V 30
+/main/sipXmediaAdapterLib:8363
+K 19
+svnmerge-integrated
+V 32
+/main/sipXmediaAdapterLib:1-7992
+END
+ENDREP
+id: b2p.0.r9040/231
+type: dir
+pred: b2p.0.r9037/11366
+count: 58
+text: 9037 10091 1262 1262 ce0605f18a631b1b563ffa6d1962404e
+props: 9040 0 218 0 a1444831eb036c63bfe150da9bb28964
+cpath: /branches/sipXtapi/sipXmediaAdapterLib
+copyroot: 0 /
+
+PLAIN
+K 11
+LICENSE.txt
+V 22
+file dwx.0.r8142/57330
+K 12
+Makefile.gnu
+V 21
+file ekr.0.r8727/1855
+K 14
+build_evc4.bat
+V 21
+file e6c.0.r8504/2231
+K 14
+buildmsvs6.bat
+V 22
+file dm4.66u.r8992/654
+K 6
+config
+V 20
+dir 9wj.0.r8547/1557
+K 10
+readme.txt
+V 21
+file 9ws.0.r8727/2061
+K 14
+sipX-msvc8.sln
+V 22
+file e73.0.r8917/16736
+K 11
+sipXcallLib
+V 20
+dir 9wt.0.r9037/9190
+K 19
+sipXmediaAdapterLib
+V 19
+dir b2p.0.r9040/231
+K 12
+sipXmediaLib
+V 21
+dir b40.0.r9032/16797
+K 11
+sipXportLib
+V 21
+dir bcf.0.r9038/16979
+K 10
+sipXsdpLib
+V 20
+dir e7v.0.r9037/6743
+K 11
+sipXtackLib
+V 20
+dir boq.0.r9039/7571
+K 11
+wcevars.bat
+V 23
+file e6o.0.r8355/543935
+END
+ENDREP
+id: 9wi.0.r9040/1112
+type: dir
+pred: 9wi.0.r9039/8450
+count: 383
+text: 9040 469 630 630 d74eb6c982a7f104f3fddd93f42c3202
+cpath: /branches/sipXtapi
+copyroot: 0 /
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r8066/42815
+K 3
+3.6
+V 22
+dir 7q4.50x.r8955/2083
+K 7
+bbridge
+V 22
+dir 7q4.68z.r8427/2781
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 10
+freeswitch
+V 24
+dir 7q4.6ae.r8814/262358
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 25
+media-server-localization
+V 24
+dir 7q4.6da.r8995/377729
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 20
+dir 9wi.0.r9040/1112
+K 21
+sipXtapi-media-update
+V 23
+dir 9wi.3ke.r8871/11907
+K 14
+sipXtapi.wince
+V 24
+dir 9wi.662.r8313/638537
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 21
+dir 7q4.4t1.r7562/240
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 24
+user_dworley_redirectors
+V 22
+dir 7q4.3xw.r7858/7806
+K 30
+user_dworley_redirectors_merge
+V 22
+dir 7q4.5ja.r7925/6442
+K 14
+virtual-domain
+V 24
+dir 7q4.4t6.r8010/314955
+END
+ENDREP
+id: 7pt.0.r9040/2441
+type: dir
+pred: 7pt.0.r9039/9781
+count: 1684
+text: 9040 1274 1154 1154 64f207651fa4c2355c8865a8fda45a2f
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r9040/2441
+K 4
+main
+V 21
+dir 7q4.0.r9036/21601
+K 4
+tags
+V 20
+dir 7q5.0.r8544/3180
+END
+ENDREP
+id: 0.0.r9040/2725
+type: dir
+pred: 0.0.r9039/10066
+count: 9040
+text: 9040 2598 114 114 42f1d7eb3db07617d2fa515c1a129d4e
+cpath: /
+copyroot: 0 /
+
+b2p.0.t9039-1 modify false true /branches/sipXtapi/sipXmediaAdapterLib
+
+
+2725 2869

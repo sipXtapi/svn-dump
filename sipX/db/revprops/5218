@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-28T15:43:44.658440Z
+K 7
+svn:log
+V 83
+Accidentally checked in experimental bad pool settings in last checkin -- fix that
+
+END

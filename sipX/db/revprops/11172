@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-12T21:51:40.986879Z
+K 7
+svn:log
+V 190
+sipXmediaAdapterLib: Use MpMMTimerWnt to provide ticks for MediaTask if compiling with DISABLE_LOCAL_AUDIO.
+Essentially, this works under Windows only for now. Linux support is coming soon.
+
+END

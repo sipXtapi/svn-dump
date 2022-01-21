@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-02-14T19:22:38.126516Z
+K 7
+svn:log
+V 91
+Make hibernate beans that are loaded from dynamic mappings not lazy like all other mappings
+END

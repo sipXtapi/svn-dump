@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-05-20T05:24:17.759556Z
+K 7
+svn:log
+V 98
+Fixed build problems for sipXezPhone on MSVS6.
+
+Added some hints on how to build wxWidgets 2.6.X
+
+
+END

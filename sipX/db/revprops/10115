@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-13T22:09:53.971476Z
+K 7
+svn:log
+V 89
+More codecs plugins cleanup - rename modes* variable to defaultFmtps and make it static.
+
+END

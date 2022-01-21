@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-04-13T18:25:56.029751Z
+K 7
+svn:log
+V 114
+Still XPR-143: Account for the fact that a host name could have a port number too - strip it before address lookup
+END

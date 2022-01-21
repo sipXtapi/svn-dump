@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-12-20T15:21:21.833824Z
+K 7
+svn:log
+V 121
+Get error reporting in MailboxManager::updateMessageStates working correctly.
+http://track.sipfoundry.org/browse/XPB-150
+
+END

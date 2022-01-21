@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-11-07T16:02:50.063211Z
+K 7
+svn:log
+V 75
+XCF-774 last call in a hunt group is allowed to be routed to user voicemail
+END

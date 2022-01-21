@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-01-18T22:05:15.878002Z
+K 7
+svn:log
+V 330
+usage checks removed from checkstyle.xml
+from Hannu Strang:
+The ClassCastException errors with checkstyle seem to be caused by the usage checks. They have been removed from checkstyle 4.x any way because of being incompatible with Java 5.0 and also otherwise broken (see checkstyle release notes and discussions about the issue).
+
+END

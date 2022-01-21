@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-03-07T23:08:13.842707Z
+K 7
+svn:log
+V 461
+Bugfix: Fix hang issue in thread destructor under Linux.
+If thread is started and then destroyed (stopped) quickly, then hanging was very likely on fast machines.
+
+This fix add two synchronization points to thread startup code:
+1) Parent thread wait for thread to really start.
+2) New thread wait for the end of initialization, done in parent thread.
+
+So, OsTaskLinux::doLinuxCreateTask() exit only when all initialization is done and thread is up and running.
+
+END

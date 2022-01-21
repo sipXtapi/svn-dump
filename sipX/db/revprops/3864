@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-05-01T22:36:31.234253Z
+K 7
+svn:log
+V 143
+XCF-356 clear current rule before activating "add" or "select" gateway page
+added UI tests for adding, removing, selecting and moving gateways
+
+END

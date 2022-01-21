@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-02-10T16:40:50.459227Z
+K 7
+svn:log
+V 74
+Remove deadlock in HttpConnectionMap that showed up on the build system. 
+
+END

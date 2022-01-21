@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-03-04T04:38:30.373589Z
+K 7
+svn:log
+V 100
+FIX BUILD : presence in user portal checked for unlocalized text, test on html id existance instead.
+END

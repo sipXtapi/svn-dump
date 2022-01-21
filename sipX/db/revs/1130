@@ -1,0 +1,80 @@
+PLAIN
+K 3
+2.6
+V 20
+dir mz.4n.r1123/1944
+END
+ENDREP
+id: ux.0.r1130/51
+type: dir
+pred: ux.0.r1128/16595
+count: 8
+text: 1130 0 38 38 4eea7ab0fad62b5de46a10f27067a92b
+cpath: /old/sipXmediaLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 17
+dir ux.0.r1130/51
+K 4
+main
+V 18
+dir mz.0.r1129/425
+K 4
+tags
+V 19
+dir uq.0.r1124/1080
+END
+ENDREP
+id: my.0.r1130/332
+type: dir
+pred: my.0.r1129/766
+count: 63
+text: 1130 212 107 107 37385a3e85b752fb802802ded892c37c
+cpath: /old/sipXmediaLib
+copyroot: 0 /
+
+PLAIN
+K 12
+sipXmediaLib
+V 18
+dir my.0.r1130/332
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r1130/630
+type: dir
+pred: 1.0.r1129/1066
+count: 1129
+text: 1130 488 129 129 92906c14bfbe5d1cfae05cb7a55ab8e1
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r1130/630
+END
+ENDREP
+id: 0.0.r1130/822
+type: dir
+pred: 0.0.r1129/1261
+count: 1130
+text: 1130 774 35 35 06aedc70aeccfdc890b5f8da963e2e47
+cpath: /
+copyroot: 0 /
+
+mz.4i.r1128/16221 delete false false /old/sipXmediaLib/branches/post-2.6.1
+
+
+822 961

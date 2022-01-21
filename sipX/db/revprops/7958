@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-07T22:25:36.976838Z
+K 7
+svn:log
+V 282
+Now correct buffer size is passed to decode() method.
+And decoders behavioiur is changed to assert when not enough buffer is available. This should warn developers of the problem instead of just crushing.
+Sometimes we should rework this part of code to solve this problem for ever.
+
+END

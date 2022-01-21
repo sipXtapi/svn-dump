@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-05-25T19:13:22.421447Z
+K 7
+svn:log
+V 246
+Implemented, tested and resolved issues for the SipDialog and 
+SipDialogMgr unit tests.
+
+Resolved a complier warning in SipDialogEvent.cpp on windows.
+
+Added unit tests to windows build/dsp files
+
+Added SipDialogEvent to windows build.dsp files
+
+
+END

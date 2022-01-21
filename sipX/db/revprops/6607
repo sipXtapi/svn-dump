@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-04-18T20:36:24.809172Z
+K 7
+svn:log
+V 171
+XPR-134: More detailed configration checking of Postgres config,
+proxy and authproxy config, and call resolver config.
+
+Perform purging independent of the --daily switch.
+
+END

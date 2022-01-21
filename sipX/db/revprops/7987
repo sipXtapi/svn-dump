@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-13T16:42:31.035519Z
+K 7
+svn:log
+V 96
+Avoid runtime warnings: Change (MpBufPtr == NULL) check to recomended MpBufPtr::isValid() call.
+
+END

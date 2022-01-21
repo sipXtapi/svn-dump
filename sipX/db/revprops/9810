@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-07-09T14:02:55.956960Z
+K 7
+svn:log
+V 242
+Bridge mixer upgraded: new mixing algorithm implemented.
+Now it tries to optimize mixing operations, requiring about O(N) additions instead of O(N*N) as before. Though, it is still far from optimal, and requires more tuning and optimization.
+
+END

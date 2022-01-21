@@ -1,0 +1,76 @@
+PLAIN
+K 3
+2.6
+V 19
+dir dk.2u.r700/4104
+END
+ENDREP
+id: kz.0.r704/50
+type: dir
+pred: kz.0.r703/20992
+count: 10
+text: 704 0 37 37 e9772c0a53e881e74dd12d275ffac4c0
+cpath: /old/sipXtackLib/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 16
+dir kz.0.r704/50
+K 4
+main
+V 18
+dir dk.0.r702/1429
+K 4
+tags
+V 18
+dir kr.0.r699/1074
+END
+ENDREP
+id: dj.0.r704/326
+type: dir
+pred: dj.0.r703/21276
+count: 105
+text: 704 208 105 105 bb0d684688d5fc64b0ffc33551477874
+cpath: /old/sipXtackLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 11
+sipXtackLib
+V 17
+dir dj.0.r704/326
+END
+ENDREP
+id: 1.0.r704/578
+type: dir
+pred: 1.0.r703/21533
+count: 703
+text: 704 481 84 84 b99d5de4faad6e13ec6b3c3fe101f05d
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 16
+dir 1.0.r704/578
+END
+ENDREP
+id: 0.0.r704/764
+type: dir
+pred: 0.0.r703/21724
+count: 704
+text: 704 717 34 34 2af5da54e6a57b8019f051656e72d407
+cpath: /
+copyroot: 0 /
+
+dk.2m.r703/20625 delete false false /old/sipXtackLib/branches/post-2.6.1
+
+
+764 900

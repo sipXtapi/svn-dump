@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-02-09T21:52:34.543875Z
+K 7
+svn:log
+V 251
+org/sipfoundry/sipxconfig/site/tapestry.xml: bean factory containing global definitions of beans used on tapestry pages added
+validators for phone number and phone number sequence defined and used on pages
+proper mark-up and capitalization for labels
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-09-17T11:25:51.563108Z
+K 7
+svn:log
+V 70
+If sipXtapi INFO context is null, don't touch its mutex when logging.
+
+END

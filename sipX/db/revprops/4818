@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-07-08T17:10:16.507286Z
+K 7
+svn:log
+V 50
+fix string constant to cast correctly to UtlString
+END

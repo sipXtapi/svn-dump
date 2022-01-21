@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-08-20T17:25:30.949240Z
+K 7
+svn:log
+V 221
+- Use Multithreaded DLL and Debug Multithreaded DLL runtime
+  libraries instead of the non-DLL versions.  This results in 
+  smaller executables, but more importantly works with binary
+  distributions of PCRE and glib.
+
+
+
+END

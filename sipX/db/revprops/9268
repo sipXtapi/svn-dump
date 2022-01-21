@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-04-06T17:07:00.340781Z
+K 7
+svn:log
+V 360
+Added MprFromFileConstructor.h, MprFromInputDeviceConstructor.h, MprNullConstructor.h, MprToneGenConstructor.h, and MprToOutputDeviceConstructor.h to sipXmediaLib msvc8 project.
+
+Updated all projects to add _CRT_SECURE_NO_DEPRECATE preprocessor definition.
+Changed intermediate directory for *Test projects, to fix collisions between library and test targets.
+
+END

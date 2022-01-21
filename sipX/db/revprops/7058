@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+cypromis
+K 8
+svn:date
+V 27
+2006-07-11T17:01:16.631981Z
+K 7
+svn:log
+V 35
+make the xargs call xpg4 compliant
+
+END

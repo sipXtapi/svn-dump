@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-04-10T15:42:48.670028Z
+K 7
+svn:log
+V 177
+Change the design spec to reflect that we now base connect time on the 200 OK rather than the ACK to the 200 OK.  Rename the design spec to avoid confusion with the user guide.
+
+END

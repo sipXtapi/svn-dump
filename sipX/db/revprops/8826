@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-20T16:08:19.005857Z
+K 7
+svn:log
+V 138
+Initialized merge tracking for sipXportLib starting from revision 7992
+Source branch: http://scm.sipfoundry.org/rep/sipX/main/sipXportLib
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+raghu
+K 8
+svn:date
+V 27
+2004-06-03T16:11:03.277103Z
+K 7
+svn:log
+V 174
+Moving the UtlString, UtlSList, UtlDList, their iterators from the failed sources to check sources. This is being done due to the fact that castor has fixed the bugs in these
+END

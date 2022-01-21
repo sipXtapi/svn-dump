@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-04-02T20:20:28.504709Z
+K 7
+svn:log
+V 115
+ringer_off parameter needs to be set to 'on' in order for the phone to ring (applying patch from mossmanp, thanks)
+
+END

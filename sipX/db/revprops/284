@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-09T15:13:50.502413Z
+K 7
+svn:log
+V 100
+Add locking to creating and deleting container iterators.
+http://track.sipfoundry.org/browse/XPR-18
+
+END

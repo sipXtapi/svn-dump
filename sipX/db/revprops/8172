@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-11-30T22:54:28.336457Z
+K 7
+svn:log
+V 291
+Merged revisions 8139 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r8139 | bob | 2006-11-28 22:50:13 +0300 | 3 lines
+  
+  More fixes to UtlStrings which were getting memset (whacked UtlContainable vtable resulting in crashes on comparisons).
+........
+
+END

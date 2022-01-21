@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-04-05T20:01:22.803314Z
+K 7
+svn:log
+V 273
+Add 
+sipXmediaLib\include\mp\MpResourceFactory.h
+sipXmediaLib\include\mp\MpAudioResourceConstructor.h
+sipXmediaLib\include\mp\MpResourceConstructor.h
+sipXmediaLib\include\mp\MprBridgeConstructor.h
+sipXmediaLib\src\mp\MpTopologyFactory.cpp
+
+To MSVC8 projects (win32 and CE)
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2019-10-07T19:39:40.740376Z
+K 7
+svn:log
+V 108
+Removed opusfile/missing as it dragged in artifical dependency on newer than required versions of autotools
+
+END

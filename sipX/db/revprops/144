@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-07-16T18:22:18.435508Z
+K 7
+svn:log
+V 231
+Added a += operator for const char to UtlString (and a unit test).  I found
+some code in the sipXvxml project that relies on that functionality.  This 
+also fixes the problem where the media server exits immediately upon startup.
+
+
+END

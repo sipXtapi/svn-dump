@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-04-25T20:24:08.442303Z
+K 7
+svn:log
+V 134
+XCF-1009 Added new settings for 1.6.5 regarding getting SIP and STNP settings from DHCP, section 2.1.4 in polycom 1.6.5 release notes.
+END

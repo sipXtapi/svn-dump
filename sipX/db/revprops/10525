@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-29T12:54:43.915077Z
+K 7
+svn:log
+V 64
+Fix sipXmediaLibTest VS2003 project, broken by previous commit.
+
+END

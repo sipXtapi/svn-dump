@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-02-13T02:26:57.690321Z
+K 7
+svn:log
+V 47
+FIX BUILD: add lg-nortel to sipxconfig rpm spec
+END

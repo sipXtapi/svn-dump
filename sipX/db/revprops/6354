@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-03-14T18:41:48.274691Z
+K 7
+svn:log
+V 113
+XCF-951 - Show how to change pin and aliases from existing SOAP API, will add convience method in main line (3.4)
+END

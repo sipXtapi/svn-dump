@@ -1,0 +1,275 @@
+PLAIN
+K 14
+svn:executable
+V 1
+*
+END
+ENDREP
+id: epm.0.r9200/43
+type: file
+pred: epm.0.r9055/3546
+count: 1
+text: 9055 1177 1093 1765 f9ab1aa495173b9b8e515aea86285668
+props: 9200 0 30 0 4160c74de5f4e580dc15660c798ff9fc
+cpath: /main/sipXtools/src/sipx-readroute
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file dtz.0.r9180/2542
+K 16
+expire-spread.in
+V 21
+file dyo.0.r8231/2315
+K 3
+man
+V 20
+dir du0.0.r9180/3639
+K 17
+monitor-spread.in
+V 19
+file dyp.0.r8231/82
+K 14
+polycom-config
+V 21
+file dv8.0.r8056/6649
+K 8
+regtimes
+V 21
+file eop.0.r9063/2495
+K 10
+sipdb-dump
+V 21
+file dvs.0.r8088/3658
+K 14
+sipx-alias2dot
+V 21
+file erh.0.r9180/2331
+K 14
+sipx-readroute
+V 19
+file epm.0.r9200/43
+K 10
+sipx-stats
+V 20
+file dzs.0.r8324/399
+K 7
+sipxcar
+V 21
+file du6.0.r8170/1918
+K 8
+sipxproc
+V 19
+file du7.0.r8052/63
+K 4
+test
+V 20
+dir du8.0.r8170/1696
+END
+ENDREP
+id: dty.0.r9200/841
+type: dir
+pred: dty.0.r9180/4431
+count: 22
+text: 9200 273 555 555 652ff3bc9ef5fc674823dfb03f302c35
+props: 8056 8771 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /main/sipXtools/src
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 22
+file dtm.0.r8017/25775
+K 12
+CONTRIBUTORS
+V 22
+file dtn.0.r8017/32046
+K 9
+ChangeLog
+V 22
+file dto.0.r8017/26436
+K 7
+INSTALL
+V 22
+file dtp.0.r8017/26296
+K 7
+LICENSE
+V 22
+file dtq.0.r8017/25320
+K 11
+Makefile.am
+V 21
+file dtr.0.r8363/9100
+K 4
+NEWS
+V 22
+file dts.0.r8017/31907
+K 6
+README
+V 22
+file dtt.0.r8017/32191
+K 4
+TODO
+V 22
+file dtu.0.r8017/25918
+K 6
+config
+V 22
+file dtv.0.r8017/26097
+K 12
+configure.ac
+V 19
+file dtw.0.r8957/51
+K 17
+sipxtools.spec.in
+V 19
+file dtx.0.r8308/59
+K 3
+src
+V 19
+dir dty.0.r9200/841
+END
+ENDREP
+id: dtl.0.r9200/1603
+type: dir
+pred: dtl.0.r9180/5196
+count: 26
+text: 9200 1057 533 533 20c6b7c0ebdbe129988f34e5370dc9d7
+props: 8056 9591 74 0 05eebabc7a5a5886abd63f34e9888b91
+cpath: /main/sipXtools
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.in
+V 23
+file d0m.421.r8463/2590
+K 5
+build
+V 22
+file d5a.0.r7664/15661
+K 14
+buildmsvs6.bat
+V 20
+file dm4.683.r8357/0
+K 6
+config
+V 21
+dir 91.1i4.r8922/2027
+K 12
+configure.ac
+V 19
+file d0n.0.r8976/82
+K 16
+dependencies.mak
+V 20
+file dxw.0.r8471/894
+K 3
+lib
+V 20
+dir cyn.0.r9146/1492
+K 4
+meta
+V 20
+dir e8u.0.r9078/2167
+K 9
+sipXb2bua
+V 21
+dir dau.0.r7967/44454
+K 11
+sipXcallLib
+V 21
+dir va.1i5.r8672/8278
+K 17
+sipXcommserverLib
+V 22
+dir 1qo.1i6.r9188/2395
+K 10
+sipXconfig
+V 23
+dir 2hf.1i7.r9199/36735
+K 19
+sipXmediaAdapterLib
+V 21
+dir 89s.0.r8363/16089
+K 12
+sipXmediaLib
+V 21
+dir mz.1i8.r9167/7446
+K 7
+sipXpbx
+V 22
+dir 5g6.1i9.r9192/4724
+K 11
+sipXportLib
+V 21
+dir 3.1ib.r9193/10814
+K 9
+sipXproxy
+V 22
+dir 1vt.1ic.r9186/1730
+K 13
+sipXpublisher
+V 24
+dir 20n.1id.r8539/123536
+K 12
+sipXregistry
+V 23
+dir 1y5.1ie.r9058/16711
+K 11
+sipXtackLib
+V 22
+dir dk.1if.r9195/11861
+K 9
+sipXtools
+V 20
+dir dtl.0.r9200/1603
+K 8
+sipXvxml
+V 22
+dir 22d.1ig.r9182/1428
+K 10
+top.mak.in
+V 21
+file d5l.0.r7330/2797
+END
+ENDREP
+id: 7q4.0.r9200/2831
+type: dir
+pred: 7q4.0.r9199/37996
+count: 2640
+text: 9200 1817 1001 1001 e658c36e1a4981dd8c921d69a5bc0882
+props: 9167 8704 2759 0 ed667145f784d45613478030ddfa9854
+cpath: /main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 7pt.0.r9198/12303
+K 4
+main
+V 20
+dir 7q4.0.r9200/2831
+K 4
+tags
+V 20
+dir 7q5.0.r8544/3180
+END
+ENDREP
+id: 0.0.r9200/3169
+type: dir
+pred: 0.0.r9199/38337
+count: 9200
+text: 9200 3042 114 114 7712d3a31cb85055c6a454ea3f7aea66
+cpath: /
+copyroot: 0 /
+
+epm.0.t9199-1 modify false true /main/sipXtools/src/sipx-readroute
+
+
+3169 3313

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-05-17T18:03:19.627132Z
+K 7
+svn:log
+V 84
+remove the rpm build in the sipXpark subdir - it seems to be breaking the parent rpm
+END

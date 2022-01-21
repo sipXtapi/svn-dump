@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-02-24T15:53:25.886297Z
+K 7
+svn:log
+V 47
+Added basic conference unit test for sipXtapi
+
+
+END

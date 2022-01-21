@@ -1,0 +1,386 @@
+DELTA 6431 0 318
+SVNENDREP
+DELTA 6431 365 66584
+SVNENDREP
+id: 9w0.2p5.r6441/60
+type: file
+pred: 9w0.2p5.r6431/66962
+count: 1
+text: 6441 28 4 0 d41d8cd98f00b204e9800998ecf8427e
+cpath: /branches/cdr/sipXproxy/src/cdr/log/test.log
+copyroot: 4813 /main/sipXproxy
+
+id: 9vx.2p5.r6441/262
+type: file
+pred: 9vx.2p5.r6431/67151
+count: 1
+text: 6441 0 4 0 d41d8cd98f00b204e9800998ecf8427e
+cpath: /branches/cdr/sipXproxy/src/cdr/log/development.log
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 15
+development.log
+V 22
+file 9vx.2p5.r6441/262
+K 14
+production.log
+V 24
+file 9vy.2p5.r6431/67340
+K 10
+server.log
+V 24
+file 9vz.2p5.r6431/67526
+K 8
+test.log
+V 21
+file 9w0.2p5.r6441/60
+END
+ENDREP
+id: 9vw.2p5.r6441/673
+type: dir
+pred: 9vw.2p5.r6431/67915
+count: 1
+text: 6441 471 189 189 4171518759557ddae719f1be40a9d029
+cpath: /branches/cdr/sipXproxy/src/cdr/log
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 3
+app
+V 21
+dir 9u4.2p5.r6439/723
+K 16
+call_resolver.rb
+V 23
+file 9tu.2p5.r6430/4887
+K 6
+config
+V 22
+dir 9uu.2p5.r6398/7011
+K 13
+exceptions.rb
+V 24
+file 9v8.2p5.r6421/10909
+K 3
+log
+V 21
+dir 9vw.2p5.r6441/673
+K 7
+main.rb
+V 23
+file 9tv.2p5.r6402/5846
+K 4
+test
+V 22
+dir 9u9.2p5.r6430/4687
+K 8
+utils.rb
+V 23
+file 9va.2p5.r6405/8563
+END
+ENDREP
+id: 9tt.2p5.r6441/1217
+type: dir
+pred: 9tt.2p5.r6439/1266
+count: 13
+text: 6441 871 333 333 36353b03b97e5607ef403ca5e506a0da
+cpath: /branches/cdr/sipXproxy/src/cdr
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 11
+Makefile.am
+V 24
+file 1wo.1ic.r4821/11237
+K 3
+cdr
+V 22
+dir 9tt.2p5.r6441/1217
+K 3
+cse
+V 22
+dir 1xp.2p5.r6435/1726
+K 12
+sipauthproxy
+V 22
+dir 1wp.2p5.r6410/7193
+K 15
+sipforkingproxy
+V 23
+dir 1wt.2p5.r6410/11026
+K 4
+test
+V 22
+dir 1wy.2p5.r6393/6076
+END
+ENDREP
+id: 1wn.2p5.r6441/1681
+type: dir
+pred: 1wn.2p5.r6439/1731
+count: 64
+text: 6441 1412 256 256 727b4e0d1ee152164130d2f795c16970
+props: 2127 1384 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /branches/cdr/sipXproxy/src
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1vu.0.r2221/14695
+K 9
+ChangeLog
+V 20
+file 1vv.0.r2238/425
+K 7
+INSTALL
+V 22
+file 1vw.0.r2221/19180
+K 7
+LICENSE
+V 19
+file 1vx.0.r2221/82
+K 11
+Makefile.am
+V 23
+file 1vy.2p5.r6415/6448
+K 4
+NEWS
+V 22
+file 1vz.0.r2221/22868
+K 6
+README
+V 22
+file 1w0.0.r2221/14388
+K 4
+TODO
+V 22
+file 1w1.0.r2221/18875
+K 9
+acsite.m4
+V 21
+file 1w2.0.r2221/1636
+K 3
+bin
+V 22
+dir 1w3.2p5.r6415/6205
+K 12
+configure.ac
+V 23
+file 1w9.2p5.r6435/2490
+K 3
+doc
+V 23
+dir 1xb.2p5.r6423/75088
+K 3
+etc
+V 21
+dir 1wa.2p5.r6419/849
+K 4
+meta
+V 21
+dir 1xi.2p5.r6311/431
+K 17
+sipXauthproxy.dsp
+V 26
+file 1x5.1ic.r4884/5502003
+K 20
+sipXforkingProxy.dsp
+V 26
+file 1x6.1ic.r4884/5501742
+K 17
+sipxproxy.spec.in
+V 23
+file 1x9.2p5.r6415/5267
+K 3
+src
+V 22
+dir 1wn.2p5.r6441/1681
+END
+ENDREP
+id: 1vt.2p5.r6441/2700
+type: dir
+pred: 1vt.2p5.r6439/2750
+count: 202
+text: 6441 1928 759 759 7fcad3dc7df6f692462ff0e1ee3d4547
+props: 6297 1817 894 0 d4fac472ddbcb483c4cb5efaa4411bcc
+cpath: /branches/cdr/sipXproxy
+copyroot: 4813 /main/sipXproxy
+
+PLAIN
+K 7
+bbridge
+V 22
+dir 8dl.2oy.r6297/5525
+K 5
+build
+V 23
+file 7ve.0.r6259/115402
+K 6
+config
+V 21
+dir 91.2pg.r6420/1216
+K 12
+dependencies
+V 21
+file 7rk.0.r5414/3368
+K 14
+resiprocateLib
+V 20
+dir 8g8.0.r5655/3734
+K 11
+sipXcallLib
+V 22
+dir va.2oz.r6403/33729
+K 17
+sipXcommserverLib
+V 22
+dir 1qo.2p0.r6416/3492
+K 10
+sipXconfig
+V 23
+dir 2hf.2p1.r6424/74865
+K 19
+sipXmediaAdapterLib
+V 23
+dir 89s.2oy.r6403/63271
+K 12
+sipXmediaLib
+V 22
+dir mz.2p2.r6403/61971
+K 7
+sipXpbx
+V 23
+dir 5g6.2p3.r6403/18600
+K 9
+sipXphone
+V 23
+dir 6qk.387.r6403/78058
+K 11
+sipXportLib
+V 21
+dir 3.2p4.r6403/14142
+K 9
+sipXproxy
+V 22
+dir 1vt.2p5.r6441/2700
+K 13
+sipXpublisher
+V 23
+dir 20n.2p6.r6403/21036
+K 12
+sipXregistry
+V 23
+dir 1y5.2p7.r6403/70407
+K 11
+sipXtackLib
+V 22
+dir dk.2p8.r6403/98432
+K 8
+sipXvxml
+V 25
+dir 22d.2p9.r6332/4707990
+END
+ENDREP
+id: 7q4.2oy.r6441/3765
+type: dir
+pred: 7q4.2oy.r6439/3815
+count: 1154
+text: 6441 2945 807 807 af3173b2afc48afb0563910475fa2dfc
+props: 6424 75940 2075 0 6b988bb2e3489a2e4cda2f9f626cdc78
+cpath: /branches/cdr
+copyroot: 6295 /branches/cdr
+
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r6440/2203
+K 3
+cdr
+V 22
+dir 7q4.2oy.r6441/3765
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 7
+restful
+V 21
+dir 7q0.0.r4813/15683
+K 10
+sipXconfig
+V 22
+dir 8q1.0.r6325/197137
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r6441/4570
+type: dir
+pred: 7pt.0.r6440/3004
+count: 497
+text: 6441 4001 556 556 6931471fd8dbe980295644370b7ca855
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r6441/4570
+K 4
+main
+V 20
+dir 7q4.0.r6437/7017
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r6441/4851
+type: dir
+pred: 0.0.r6440/3285
+count: 6441
+text: 6441 4724 114 114 9910ea936564d11a8e6a63be78d9dbda
+cpath: /
+copyroot: 0 /
+
+9w0.2p5.t6440-1 modify true false /branches/cdr/sipXproxy/src/cdr/log/test.log
+
+9vx.2p5.t6440-1 modify true false /branches/cdr/sipXproxy/src/cdr/log/development.log
+
+
+4851 4994

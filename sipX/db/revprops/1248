@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-03-09T23:14:10.133625Z
+K 7
+svn:log
+V 38
+Increased MAX_PLAYLIST_LENGTH to 40.
+
+
+END

@@ -1,0 +1,428 @@
+PLAIN
+END
+ENDREP
+id: bde.3ke.r7815/17
+type: dir
+pred: bde.3ke.r7814/6786
+count: 25
+text: 7814 6604 169 169 5691f1c54d9078043ae9400603d2c73c
+props: 7815 0 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /branches/sipXtapi-media-update/sipXportLib/include
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 25
+file bcg.0.r6469/21591964
+K 9
+ChangeLog
+V 25
+file bch.0.r6469/21535752
+K 7
+INSTALL
+V 26
+file bci.3ke.r7153/1424826
+K 11
+Makefile.am
+V 25
+file bcj.0.r6469/21599591
+K 4
+NEWS
+V 25
+file bck.0.r6469/21599943
+K 6
+README
+V 26
+file bcl.3ke.r7153/1422233
+K 4
+TODO
+V 25
+file bcm.0.r6469/21597743
+K 9
+acsite.m4
+V 26
+file bcn.3ke.r7153/1420456
+K 3
+bin
+V 24
+dir bco.0.r6469/21599429
+K 12
+configure.ac
+V 24
+file bd3.0.r6711/4505206
+K 3
+doc
+V 24
+dir bd4.3ke.r7811/328591
+K 7
+include
+V 20
+dir bde.3ke.r7815/17
+K 4
+meta
+V 24
+dir bhw.0.r6469/21535422
+K 18
+sipXportLib.vcproj
+V 25
+file bi1.3ke.r7811/267234
+K 19
+sipXportLibTest.sln
+V 25
+file bi2.0.r6469/21599763
+K 22
+sipXportLibTest.vcproj
+V 22
+file bi3.3ke.r7450/618
+K 29
+sipXportLib_NoSecurity.vcproj
+V 25
+file bi4.3ke.r7811/328825
+K 19
+sipxportlib.spec.in
+V 26
+file bi5.3ke.r7153/1425209
+K 3
+src
+V 23
+dir bi6.3ke.r7814/12182
+K 12
+syslogviewer
+V 25
+dir bom.3ke.r7153/1423073
+END
+ENDREP
+id: bcf.3ke.r7815/1247
+type: dir
+pred: bcf.3ke.r7814/13364
+count: 39
+text: 7815 298 936 936 8ed38567f1ffd39383bc41776601bffd
+props: 6718 0 110 0 d239bb82cadefea8ebc85ad6b3eed562
+cpath: /branches/sipXtapi-media-update/sipXportLib
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+END
+ENDREP
+id: bq1.3ke.r7815/1541
+type: dir
+pred: bq1.3ke.r7811/345945
+count: 14
+text: 7811 345801 131 131 3d22dc76be5725dcb310ecd7fda8fb2b
+props: 7815 1524 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /branches/sipXtapi-media-update/sipXtackLib/include
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 25
+file bor.0.r6469/22114347
+K 9
+ChangeLog
+V 25
+file bos.0.r6469/22149247
+K 7
+INSTALL
+V 26
+file bot.3ke.r7153/1804415
+K 11
+Makefile.am
+V 25
+file bou.0.r6469/22154175
+K 4
+NEWS
+V 25
+file bov.0.r6469/22121423
+K 6
+README
+V 26
+file bow.3ke.r7153/1804797
+K 4
+TODO
+V 25
+file box.0.r6469/22151942
+K 9
+acsite.m4
+V 26
+file boy.3ke.r7153/1797836
+K 14
+ant-targets.am
+V 24
+file boz.0.r6711/5226484
+K 15
+ant-targets.xml
+V 25
+file bp0.0.r6469/22149418
+K 3
+bin
+V 24
+dir bp1.0.r6469/22120299
+K 8
+cert8.db
+V 25
+file bp3.0.r6469/22154413
+K 20
+config.properties.in
+V 26
+file bpd.3ke.r7153/1800621
+K 12
+configure.ac
+V 24
+file bpe.0.r6711/5179318
+K 3
+doc
+V 25
+dir bpf.3ke.r7153/1804099
+K 8
+examples
+V 23
+dir bpw.3ke.r7036/14037
+K 7
+include
+V 22
+dir bq1.3ke.r7815/1541
+K 7
+key3.db
+V 25
+file bt7.0.r6469/22151521
+K 3
+lib
+V 24
+dir bt8.0.r6469/22119550
+K 22
+mcohen@pingtel.com.p12
+V 25
+file btb.0.r6469/22121180
+K 4
+meta
+V 24
+dir btc.0.r6469/22073901
+K 9
+secmod.db
+V 25
+file btj.0.r6469/22151225
+K 18
+sipXtackLib.vcproj
+V 26
+file btk.3ke.r7025/1439600
+K 19
+sipXtackLibTest.sln
+V 26
+file btl.3ke.r7025/1451067
+K 22
+sipXtackLibTest.vcproj
+V 25
+file btm.3ke.r7673/214612
+K 29
+sipXtackLib_NoSecurity.vcproj
+V 23
+file btn.3ke.r7294/5327
+K 15
+siplog2siptrace
+V 23
+dir bto.3ke.r7036/11753
+K 7
+siptest
+V 24
+dir btr.3ke.r7673/229081
+K 9
+sipviewer
+V 25
+dir buv.3ke.r7153/1806866
+K 19
+sipxtacklib.spec.in
+V 26
+file bvi.3ke.r7153/1805178
+K 3
+src
+V 24
+dir bvj.3ke.r7811/339661
+K 15
+syslog2siptrace
+V 23
+dir byz.3ke.r7036/13090
+K 16
+tcpdump2siptrace
+V 25
+file bz3.0.r6469/22149596
+K 32
+user_cert_mcohen@pingtel.com.der
+V 25
+file bz4.0.r6469/22150908
+END
+ENDREP
+id: boq.3ke.r7815/3478
+type: dir
+pred: boq.3ke.r7811/347891
+count: 23
+text: 7815 1831 1634 1634 e1f9b996ba59f9140ebdb27b186ee984
+props: 6718 1600 110 0 d239bb82cadefea8ebc85ad6b3eed562
+cpath: /branches/sipXtapi-media-update/sipXtackLib
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+K 6
+config
+V 25
+dir 9wj.3ke.r7153/1429876
+K 10
+readme.txt
+V 23
+file 9ws.3ke.r7309/8937
+K 11
+sipXcallLib
+V 24
+dir 9wt.3ke.r7811/333172
+K 19
+sipXmediaAdapterLib
+V 23
+dir b2p.3ke.r7814/15700
+K 12
+sipXmediaLib
+V 23
+dir b40.3ke.r7812/12842
+K 11
+sipXportLib
+V 22
+dir bcf.3ke.r7815/1247
+K 11
+sipXtackLib
+V 22
+dir boq.3ke.r7815/3478
+END
+ENDREP
+id: 9wi.3ke.r7815/4104
+type: dir
+pred: 9wi.3ke.r7814/16781
+count: 112
+text: 7815 3762 329 329 0c77d16a21dfd81202e17789f30d0def
+props: 7814 16336 432 0 9d4db0d5d643c250acb933c362effc1c
+cpath: /branches/sipXtapi-media-update
+copyroot: 6715 /branches/sipXtapi-media-update
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 22
+dir 7q4.3ib.r7575/4152
+K 3
+3.6
+V 23
+dir 7q4.50x.r7809/15547
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 16
+proxy_simple_cdr
+V 21
+dir 1vt.5hb.r7808/872
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 21
+dir 9wi.0.r7794/23342
+K 21
+sipXtapi-media-update
+V 22
+dir 9wi.3ke.r7815/4104
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 21
+dir 7q4.4t1.r7562/240
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 24
+user_dworley_redirectors
+V 22
+dir 7q4.3xw.r7792/3727
+K 14
+virtual-domain
+V 22
+dir 7q4.4t6.r7757/5623
+END
+ENDREP
+id: 7pt.0.r7815/5328
+type: dir
+pred: 7pt.0.r7814/18008
+count: 1035
+text: 7815 4375 940 940 deb34e7b7af455d4ca61570fddc7f061
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r7815/5328
+K 4
+main
+V 21
+dir 7q4.0.r7810/25297
+K 4
+tags
+V 20
+dir 7q5.0.r7783/3024
+END
+ENDREP
+id: 0.0.r7815/5611
+type: dir
+pred: 0.0.r7814/18294
+count: 7815
+text: 7815 5484 114 114 5c5bcc77428d7442d01ecd69a75fb5e5
+cpath: /
+copyroot: 0 /
+
+bq1.3ke.t7814-1 modify false true /branches/sipXtapi-media-update/sipXtackLib/include
+
+bde.3ke.t7814-1 modify false true /branches/sipXtapi-media-update/sipXportLib/include
+
+
+5611 5755

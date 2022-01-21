@@ -1,0 +1,28 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-12-20T19:05:11.506155Z
+K 7
+svn:log
+V 558
+Improved time format and easier interfaces for current time.
+
+  Added a getCurTime interface to OsDateTime that returns
+  the current time in the quicker and more compact OsTime form.
+
+  Added a conversion constructor from OsTime to OsDateTime
+
+  Added output methods getIsoTimeStringZ and getIsoTimeStringZus
+  to return the time value as an ISO format UtlString:
+   2002-08-26T19:21:32.000Z (the 'us' version returns 6
+  fraction digits, the other returns 3)
+
+Changed OsSysLog to use the ISO format timestamps.
+  http://track.sipfoundry.org/browse/XPL-75
+
+
+END

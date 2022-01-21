@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2020-06-18T08:20:32.659710Z
+K 7
+svn:log
+V 83
+Fixed Release configuration for libogg on MSVS2019 issue with input directory path
+
+END

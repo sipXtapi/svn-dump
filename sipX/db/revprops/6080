@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-02-09T22:20:06.503999Z
+K 7
+svn:log
+V 148
+XCF-753 - Disable test targets that do not work fo precommit target 'passes'.  Fix test target in web.  Use hivemind:spring to spring bean injection
+END

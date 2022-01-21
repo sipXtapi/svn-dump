@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-03-08T21:10:01.144673Z
+K 7
+svn:log
+V 251
+Merged revisions 8431 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main/sipXtackLib
+
+........
+  r8431 | mdm2000 | 2007-01-03 09:17:47 +0300 | 2 lines
+  
+  Make sure sockaddr_in structures get zeroed out, which is necessary on OS X.
+........
+
+END

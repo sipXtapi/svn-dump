@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-11-22T20:25:29.772764Z
+K 7
+svn:log
+V 174
+XCF-Add setting to control language for polycom phones.  Only useful if admins extract localization files themselves, but I plan to alter firmware upload page to address this
+END

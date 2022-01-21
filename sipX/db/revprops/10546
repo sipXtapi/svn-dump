@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-01-30T00:27:24.793494Z
+K 7
+svn:log
+V 314
+Fix some bugs in MprBufferRecorder.
+* enable() now operate as usual, sending message to resource and doing everything in handleEnable();
+* buffer capacity is now set correctly - previously it may cause memory corruption;
+* recorder state is set to FINISHED on the same processing interval after buffer was filled.
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-02-23T20:25:17.715857Z
+K 7
+svn:log
+V 94
+WEB UI unit tests fixed.
+
+Run UI tests in WEB module before committing changes to repository.
+
+END

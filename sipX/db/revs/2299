@@ -1,0 +1,64 @@
+id: 1y4.0.r2299/0
+type: dir
+count: 0
+cpath: /old/sipXregistry
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 12
+sipXregistry
+V 17
+dir 1y4.0.r2299/0
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2299/392
+type: dir
+pred: 1.0.r2298/3720
+count: 2298
+text: 2299 77 302 302 29f9440a1bc31fcb9ff786e900db5d91
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r2299/392
+END
+ENDREP
+id: 0.0.r2299/583
+type: dir
+pred: 0.0.r2298/3915
+count: 2299
+text: 2299 535 35 35 9a66d747c77f7918f40ad13b85cdb7b5
+cpath: /
+copyroot: 0 /
+
+_0.0.t2298-1 add false false /old/sipXregistry
+
+
+583 722

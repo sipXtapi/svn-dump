@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2004-11-29T05:51:17.323655Z
+K 7
+svn:log
+V 162
+Proposed container for SIP request context variables for
+for the SIP request API to be used in the status server API
+and potentially in the redirect server API.
+
+
+END

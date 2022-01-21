@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-02-23T18:52:07.937438Z
+K 7
+svn:log
+V 47
+Change all GIPS_CODEC_ID_* to SIPX_CODEC_ID_*.
+
+END

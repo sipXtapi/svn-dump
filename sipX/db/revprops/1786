@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-06-13T00:46:42.947978Z
+K 7
+svn:log
+V 380
+Merge changes from 2.8
+  Add CONFIGURE_OPTIONS configuration variable to the set available in LocalizeSipXconfig.
+  Add --configopts argument to all <project>-config installation record scripts.
+
+  This allows the options that were passed to configure at build time to be available
+  later at run time.
+
+  (this generalizes a mechanism Dale added to the rpm builds some time ago)
+
+END

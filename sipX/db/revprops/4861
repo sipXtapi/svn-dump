@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-07-15T19:59:27.772236Z
+K 7
+svn:log
+V 101
+XML/RPC library added.
+XML/RPC client interceptor defined to enable easy access to XML/RPC services.
+
+END

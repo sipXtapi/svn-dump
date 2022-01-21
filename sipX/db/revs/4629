@@ -1,0 +1,321 @@
+PLAIN
+K 13
+svn:externals
+V 75
+config https://scm.sipfoundry.org/rep/sipXportLib/tags/2.8-export-N/config
+
+K 10
+svn:ignore
+V 181
+BUILDSTAMP
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+sipxpbx-*.rpm
+sipxpbx-*.tar.gz
+sipxpbx.spec
+
+K 17
+svnmerge-2.6-head
+V 51
+https://scm.sipfoundry.org/rep/sipXpbx/branches/2.6
+K 17
+svnmerge-2.6-revs
+V 61
+1-307,310-311,316-317,321-324,326,337,341,343,351,366-367,391
+K 18
+svnmerge-main-head
+V 43
+https://scm.sipfoundry.org/rep/sipXpbx/main
+K 18
+svnmerge-main-revs
+V 9
+1-433,435
+END
+ENDREP
+id: 5g6.10p.r4629/602
+type: dir
+pred: 5g6.zt.r4614/6291
+count: 369
+text: 4614 5600 678 678 a4555c9a79f69011d7636f1088b5a72d
+props: 4629 0 589 0 1f099086c447bbfc08cac654bf09c4de
+cpath: /old/sipXpbx/tags/2.8-export-N
+copyfrom: 4628 /old/sipXpbx/branches/2.8
+
+PLAIN
+K 5
+2.5.1
+V 22
+dir 5g6.y3.r4102/11489
+K 5
+2.5.2
+V 21
+dir 5g6.y5.r4134/2397
+K 12
+2.6-export-A
+V 20
+dir 5g6.yr.r4360/659
+K 12
+2.6-export-B
+V 20
+dir 5g6.yt.r4367/659
+K 12
+2.6-export-C
+V 20
+dir 5g6.yz.r4378/659
+K 12
+2.6-export-D
+V 20
+dir 5g6.z0.r4380/659
+K 12
+2.6-export-E
+V 20
+dir 5g6.z1.r4382/659
+K 12
+2.6-export-F
+V 20
+dir 5g6.z2.r4384/659
+K 12
+2.6-export-G
+V 20
+dir 5g6.z6.r4393/546
+K 12
+2.6-export-H
+V 20
+dir 5g6.z7.r4396/546
+K 12
+2.6-export-J
+V 20
+dir 5g6.z8.r4400/546
+K 12
+2.6-export-K
+V 20
+dir 5g6.z9.r4405/550
+K 12
+2.6-export-L
+V 20
+dir 5g6.za.r4407/550
+K 12
+2.6-export-M
+V 20
+dir 5g6.zb.r4408/550
+K 12
+2.6-export-N
+V 20
+dir 5g6.zc.r4411/550
+K 12
+2.6-export-O
+V 20
+dir 5g6.zg.r4437/550
+K 12
+2.6-export-P
+V 20
+dir 5g6.zh.r4439/550
+K 12
+2.6-export-Q
+V 20
+dir 5g6.zi.r4441/550
+K 12
+2.6-export-R
+V 20
+dir 5g6.zj.r4445/550
+K 12
+2.6-export-S
+V 20
+dir 5g6.zk.r4446/550
+K 12
+2.6-export-T
+V 20
+dir 5g6.zl.r4461/550
+K 12
+2.6-export-U
+V 20
+dir 5g6.zn.r4469/550
+K 5
+2.6.1
+V 20
+dir 5g6.z3.r4387/652
+K 5
+2.6.2
+V 21
+dir 5g6.zo.r4485/4105
+K 12
+2.8-export-A
+V 20
+dir 5g6.zu.r4536/598
+K 12
+2.8-export-B
+V 20
+dir 5g6.zx.r4553/598
+K 12
+2.8-export-C
+V 21
+dir 5g6.102.r4570/598
+K 12
+2.8-export-D
+V 21
+dir 5g6.106.r4581/598
+K 12
+2.8-export-E
+V 21
+dir 5g6.107.r4586/598
+K 12
+2.8-export-F
+V 21
+dir 5g6.109.r4594/602
+K 12
+2.8-export-G
+V 21
+dir 5g6.10b.r4599/602
+K 12
+2.8-export-H
+V 21
+dir 5g6.10d.r4603/602
+K 12
+2.8-export-I
+V 21
+dir 5g6.10e.r4604/602
+K 12
+2.8-export-J
+V 21
+dir 5g6.10f.r4606/602
+K 12
+2.8-export-K
+V 21
+dir 5g6.10g.r4609/602
+K 12
+2.8-export-L
+V 21
+dir 5g6.10i.r4619/602
+K 12
+2.8-export-M
+V 21
+dir 5g6.10o.r4628/602
+K 12
+2.8-export-N
+V 21
+dir 5g6.10p.r4629/602
+K 13
+main-export-B
+V 20
+dir 5g6.yl.r4323/547
+K 13
+main-export-C
+V 20
+dir 5g6.yp.r4354/547
+END
+ENDREP
+id: 5kn.0.r4629/2622
+type: dir
+pred: 5kn.0.r4628/2577
+count: 49
+text: 4629 859 1750 1750 04561e133fe3bbc52c7d739abedf2a9f
+cpath: /old/sipXpbx/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 6o1.0.r4623/8404
+K 4
+main
+V 20
+dir 5g6.0.r4627/1330
+K 4
+tags
+V 20
+dir 5kn.0.r4629/2622
+END
+ENDREP
+id: 5g5.0.r4629/2910
+type: dir
+pred: 5g5.0.r4628/2865
+count: 536
+text: 4629 2784 113 113 6a95a9e7811e84c6266f623fd9778861
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4629/2910
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4629/3550
+type: dir
+pred: 1.0.r4628/3505
+count: 4627
+text: 4629 3067 470 470 f65c172a556185188b52209e4fd19b34
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4629/3550
+END
+ENDREP
+id: 0.0.r4629/3745
+type: dir
+pred: 0.0.r4628/3700
+count: 4629
+text: 4629 3696 36 36 ec0282c25288e7d025ce2734a8df056e
+cpath: /
+copyroot: 0 /
+
+5g6._0.t4628-1 add false true /old/sipXpbx/tags/2.8-export-N
+4628 /old/sipXpbx/branches/2.8
+
+3745 3886

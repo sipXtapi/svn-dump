@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-26T14:34:57.156493Z
+K 7
+svn:log
+V 222
+mergefrom user_dworley_redirectors2main 7509,7588,7651(partial),7751(partial)
+
+Add support for NAPTR records.
+Add routines supporting use of DNS NAPTR records.
+Make sure that all the necessary code sees -DRES_PARSE_NAPTR.
+
+END

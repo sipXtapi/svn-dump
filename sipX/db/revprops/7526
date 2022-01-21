@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-20T15:09:41.559351Z
+K 7
+svn:log
+V 170
+XCF-1295 add support for retrievin music on hold URI
+Snom phones now set sipXpark server as their default music on hold source.
+See: SnomPhone.SnomLineDefaults.getMohUri
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-05-24T20:21:58.637140Z
+K 7
+svn:log
+V 171
+XCF-325 complete. make backupplan timer unittest more thurough, add verbiage to backup web page, send application init event on app load, not on first hit to tapestry page
+END

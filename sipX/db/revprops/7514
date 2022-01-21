@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-09-19T17:18:38.533745Z
+K 7
+svn:log
+V 324
+XCF-1058 Change default logging format to resemble standard sipx logs. Pring full ISO8601 time stamp (date included)
+example: "2006-09-19 13:12:07,761":DEBUG:LazySipxReplicationContextImpl:87:Waiting for work
+introduce new category to make possible changing sipXconfig logging level without changing libraries logging level
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-02-12T23:53:29.734783Z
+K 7
+svn:log
+V 99
+Document registration tests and dialog event tests.
+
+Overhaul dialog-event.cgi so it really works.
+
+END

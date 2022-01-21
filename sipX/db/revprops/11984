@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2012-10-29T10:43:57.222852Z
+K 7
+svn:log
+V 42
+Removed commented out code in TLS socket.
+
+END

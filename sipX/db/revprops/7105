@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-07-21T17:44:26.344512Z
+K 7
+svn:log
+V 168
+For XCF-1144: (1) fix the UI logic for associating intercom configurations with groups, (2) add a unit test for persisting the association of intercoms to phone groups
+
+END

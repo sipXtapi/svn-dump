@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-07-21T01:05:33.951411Z
+K 7
+svn:log
+V 130
+Added splitter before the "to output device" resource in topology graph
+to leave a tap for AEC to observe output to the speaker.
+
+
+END

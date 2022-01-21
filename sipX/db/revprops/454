@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-20T15:54:51.421499Z
+K 7
+svn:log
+V 79
+BugFix: Broke all UDP responses to requests.  sipXtapi unit tests
+caught this.
+
+END

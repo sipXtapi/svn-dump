@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-01-20T23:08:44.906057Z
+K 7
+svn:log
+V 252
+XCF-883 Fixed performance bottleneck, we were loading model files many times, cache was ineefective.  ALSO  Add performance unit test infrastructure.  To run type 'ant test-performance' in neoconf project.  will promote to root project if it catches on
+END

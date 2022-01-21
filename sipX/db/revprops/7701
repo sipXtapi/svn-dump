@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-10-08T20:22:57.873463Z
+K 7
+svn:log
+V 295
+Manually merged sipXportLib changes from main (revision 7673) to the sipXtapi branch.  Unit tests (port and sipXtapi) run under windows: one exception: process manager tests currently fail -- not sure if these ever worked on windows.
+
+I still need to fix the linux build/makefiles (coming up)
+
+
+
+END

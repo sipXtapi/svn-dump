@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-06-14T18:34:30.172804Z
+K 7
+svn:log
+V 75
+RPM installation broken, arguments to sipx-upgrade mismatch expected values
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-29T23:27:51.822995Z
+K 7
+svn:log
+V 240
+sipXmediaLib: Better fix for MpMMTimerPosix deadlock problem.
+Now we can receive signal only while waiting for message from the MediaTask queue. This should prevent MpMediaTask::signalFrameStart() from blocking and solve deadlocks problem.
+
+END

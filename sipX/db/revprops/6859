@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-05-29T03:10:35.022371Z
+K 7
+svn:log
+V 348
+Fix syslog2siptrace so it extracts Via branch parameters using
+SipMessage::getViaFieldSubField rather than SipMessage::getViaField,
+which doesn't do the right thing.
+Add test to SipMessageTest.cpp to check that getViaFieldSubField works
+correctly if a Via header contains more than one value.
+
+This fixes http://track.sipfoundry.org/browse/XSL-127
+
+END

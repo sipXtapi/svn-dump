@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+mcohen
+K 8
+svn:date
+V 27
+2005-03-02T22:13:08.724605Z
+K 7
+svn:log
+V 56
+Fix for XPH 75 - Muting the audio when mic gain is <= 1
+
+END

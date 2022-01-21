@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-03-14T23:30:01.492150Z
+K 7
+svn:log
+V 244
+XCF-1553 fix reset superadmin task by moving task trigger from CoreContextImpl
+ResetAdministratorInitTaskListener is now a separate class injected with CoreContext. In this way CoreContext accessed through correctly configured hibernate proxy.
+
+END

@@ -1,0 +1,1702 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1vx.0.r2221/82
+type: file
+pred: 1vx.0.r2097/65444
+count: 1
+text: 2097 449 11212 26430 7fbc338309ac38fefcd64b04bb903e34
+props: 2221 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/LICENSE
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1x9.0.r2221/389
+type: file
+pred: 1x9.0.r2192/1027
+count: 5
+text: 2192 507 493 2302 5a1fd7bcfb6641b504a5aaa717ea277d
+props: 2221 307 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/sipxproxy.spec.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1xo.0.r2221/702
+type: file
+pred: 1xo.0.r2199/22389
+count: 1
+text: 2199 10314 1312 3544 e116d91ddd47e3009e7f794d737a6020
+props: 2221 623 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXproxy/main/meta/call_detail_record.xsd
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1xj.0.r2221/1029
+type: file
+pred: 1xj.0.r2206/18590
+count: 3
+text: 2206 2926 677 8219 70b4884af56bd9d1e3e522a40237faf6
+props: 2221 950 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXproxy/main/meta/call_event.xsd
+copyroot: 0 /
+
+PLAIN
+K 22
+call_detail_record.xsd
+V 20
+file 1xo.0.r2221/702
+K 14
+call_event.xsd
+V 21
+file 1xj.0.r2221/1029
+END
+ENDREP
+id: 1xi.0.r2221/1386
+type: dir
+pred: 1xi.0.r2206/18897
+count: 3
+text: 2221 1268 105 105 ad9226bc87400f119f0cc07c9a1c09f9
+cpath: /old/sipXproxy/main/meta
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1w2.0.r2221/1636
+type: file
+pred: 1w2.0.r2097/72742
+count: 1
+text: 2097 12392 56 64 2af585c49272869c469f0b5da782c309
+props: 2221 1554 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/acsite.m4
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1vv.0.r2221/1946
+type: file
+pred: 1vv.0.r2188/3543
+count: 4
+text: 2188 0 161 533 da1b1dce8e1a5c89ba267917e9d91280
+props: 2221 1864 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/ChangeLog
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1wr.0.r2221/2253
+type: file
+pred: 1wr.0.r2188/2415
+count: 9
+text: 2188 185 2200 39173 eea7082067c4af8f047fae9a469acf17
+props: 2221 2171 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/sipauthproxy/SipAaa.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1wi.9v.r2221/2583
+type: file
+pred: 1wi.9v.r2152/973
+count: 9
+text: 2140 0 72 3158 1dd2fd33e1f8b12c87ce2570a3860c44
+props: 2221 2501 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/sipauthproxy/SipAaa.h
+copyroot: 2152 /old/sipXproxy/main/src/sipauthproxy/SipAaa.h
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ws.0.r2221/2954
+type: file
+pred: 1ws.0.r2210/2916
+count: 13
+text: 2210 1019 1115 22804 08b3d4f97b2d6c6bd68da46acf6165ba
+props: 2221 2872 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/sipauthproxy/sipauthproxymain.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1xx.0.r2221/3296
+type: file
+pred: 1xx.0.r2206/19376
+count: 1
+text: 2206 7797 3269 10489 9059770b501d959405dd29fe136ec6bd
+props: 2221 3214 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/sipauthproxy/AuthProxyCseObserver.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1wq.0.r2221/3642
+type: file
+pred: 1wq.0.r2210/3178
+count: 9
+text: 2210 689 302 528 d4883e7d475d8340c3281def5b3e7d9f
+props: 2221 3560 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/sipauthproxy/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1wj.9w.r2221/3970
+type: file
+pred: 1wj.9w.r2152/1512
+count: 3
+text: 2130 103 21 383 f53065e0402bbed474c7cd37ffdaccdf
+props: 2221 3888 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/sipauthproxy/version.h
+copyroot: 2152 /old/sipXproxy/main/src/sipauthproxy/version.h
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1xy.0.r2221/4345
+type: file
+pred: 1xy.0.r2206/19914
+count: 1
+text: 2206 11079 893 2082 e1bb8e9157a2023e93ee4b96a7cdd9b6
+props: 2221 4263 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/sipauthproxy/AuthProxyCseObserver.h
+copyroot: 0 /
+
+PLAIN
+K 24
+AuthProxyCseObserver.cpp
+V 21
+file 1xx.0.r2221/3296
+K 22
+AuthProxyCseObserver.h
+V 21
+file 1xy.0.r2221/4345
+K 11
+Makefile.am
+V 21
+file 1wq.0.r2221/3642
+K 10
+SipAaa.cpp
+V 21
+file 1wr.0.r2221/2253
+K 8
+SipAaa.h
+V 22
+file 1wi.9v.r2221/2583
+K 20
+sipauthproxymain.cpp
+V 21
+file 1ws.0.r2221/2954
+K 9
+version.h
+V 22
+file 1wj.9w.r2221/3970
+END
+ENDREP
+id: 1wp.0.r2221/4958
+type: dir
+pred: 1wp.0.r2210/3779
+count: 22
+text: 2221 4606 339 339 8ae9c9e243dd622784367ecf11184068
+props: 2127 280 72 0 05b8f9434837338b06ca07e18a6edce2
+cpath: /old/sipXproxy/main/src/sipauthproxy
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1wz.0.r2221/5274
+type: file
+pred: 1wz.0.r2153/1107
+count: 6
+text: 2153 344 22 7506 b01992c5aadc89dab260ebb808639200
+props: 2221 5192 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/test/ForwardRulesTest.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1x2.0.r2221/5600
+type: file
+pred: 1x2.0.r2097/69298
+count: 1
+text: 2097 63969 727 1626 3739452c3440dd3ece62176580858210
+props: 2221 5521 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXproxy/main/src/test/rulesdata/simple.xml
+copyroot: 0 /
+
+PLAIN
+K 10
+simple.xml
+V 21
+file 1x2.0.r2221/5600
+END
+ENDREP
+id: 1x1.0.r2221/5911
+type: dir
+pred: 1x1.0.r2097/69588
+count: 1
+text: 2221 5851 47 47 c0188cac2a645ab9feec3ad94918c39c
+cpath: /old/sipXproxy/main/src/test/rulesdata
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1xw.0.r2221/6173
+type: file
+pred: 1xw.0.r2206/20744
+count: 2
+text: 2206 17705 857 11400 466c1f79704fa8a3c82ddcdb8d7b29d2
+props: 2221 6091 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/test/CallStateEventBuilder_XMLTest.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1x0.0.r2221/6520
+type: file
+pred: 1x0.0.r2204/6517
+count: 9
+text: 2204 5699 502 979 6b8ab35bb89d4ff93909adbfd804e43c
+props: 2221 6438 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/test/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 33
+CallStateEventBuilder_XMLTest.cpp
+V 21
+file 1xw.0.r2221/6173
+K 20
+ForwardRulesTest.cpp
+V 21
+file 1wz.0.r2221/5274
+K 11
+Makefile.am
+V 21
+file 1x0.0.r2221/6520
+K 9
+rulesdata
+V 20
+dir 1x1.0.r2221/5911
+END
+ENDREP
+id: 1wy.0.r2221/6979
+type: dir
+pred: 1wy.0.r2206/21231
+count: 15
+text: 2221 6759 207 207 d109d835264690fcabf238b65f35b174
+props: 2127 595 53 0 afc0537c0f2ece55c5ae2c7289c4a330
+cpath: /old/sipXproxy/main/src/test
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1wo.0.r2221/7288
+type: file
+pred: 1wo.0.r2199/23039
+count: 2
+text: 2199 12026 54 108 db0460161833b4ecaa0dcbca8cb0f412
+props: 2221 7206 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1xq.0.r2221/7605
+type: file
+pred: 1xq.0.r2206/21459
+count: 3
+text: 2206 3632 497 8459 aece19e432a207d379eb7f00b834f2d8
+props: 2221 7523 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/cse/CallStateEventBuilder.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1xs.0.r2221/7941
+type: file
+pred: 1xs.0.r2206/21714
+count: 3
+text: 2206 4678 2353 13554 507fef7847a484fe51663fce503e276a
+props: 2221 7859 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/cse/CallStateEventBuilder_XML.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1xv.0.r2221/8283
+type: file
+pred: 1xv.0.r2204/7717
+count: 2
+text: 2204 3891 21 247 30f0ba9bfd99387053a52e91d5620c66
+props: 2221 8201 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/cse/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1xr.0.r2221/8602
+type: file
+pred: 1xr.0.r2206/21975
+count: 3
+text: 2206 4158 491 6759 5316850336b6facb26d28383b04a4a5e
+props: 2221 8520 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/cse/CallStateEventBuilder.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1xt.0.r2221/8936
+type: file
+pred: 1xt.0.r2206/22228
+count: 3
+text: 2206 7060 708 5281 5d85b0cdc3e1b2b1b31a421a4f6af65a
+props: 2221 8854 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/cse/CallStateEventBuilder_XML.h
+copyroot: 0 /
+
+PLAIN
+K 25
+CallStateEventBuilder.cpp
+V 21
+file 1xq.0.r2221/7605
+K 23
+CallStateEventBuilder.h
+V 21
+file 1xr.0.r2221/8602
+K 29
+CallStateEventBuilder_XML.cpp
+V 21
+file 1xs.0.r2221/7941
+K 27
+CallStateEventBuilder_XML.h
+V 21
+file 1xt.0.r2221/8936
+K 11
+Makefile.am
+V 21
+file 1xv.0.r2221/8283
+END
+ENDREP
+id: 1xp.0.r2221/9489
+type: dir
+pred: 1xp.0.r2206/22786
+count: 3
+text: 2221 9192 284 284 5632c630eb362074fc0f12a406914ee1
+props: 2199 25309 38 0 a758c7f77a3bdbe0064eee34a1dab069
+cpath: /old/sipXproxy/main/src/cse
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1wu.0.r2221/9798
+type: file
+pred: 1wu.0.r2153/1734
+count: 6
+text: 2153 50 50 19539 82a31e3cff55f8c9f779d0468061b35c
+props: 2221 9716 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/sipforkingproxy/ForwardRules.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1wm.9y.r2221/10134
+type: file
+pred: 1wm.9y.r2152/2282
+count: 5
+text: 2130 198 21 2089 587183d5fc1bed6afe8c32bdba160e73
+props: 2221 10052 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/sipforkingproxy/SipRouter.h
+copyroot: 2152 /old/sipXproxy/main/src/sipforkingproxy/SipRouter.h
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1ww.0.r2221/10522
+type: file
+pred: 1ww.0.r2210/4014
+count: 12
+text: 2210 2503 384 33447 3a0aa302638a33f7021de056613fa362
+props: 2221 10440 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/sipforkingproxy/SipForkingProxyMain.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1xz.0.r2221/10871
+type: file
+pred: 1xz.0.r2206/23329
+count: 1
+text: 2206 13340 2120 6201 66496ed43108c41b024a0ec345f4f519
+props: 2221 10789 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/sipforkingproxy/ForkingProxyCseObserver.cpp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1wl.9x.r2221/11225
+type: file
+pred: 1wl.9x.r2152/2590
+count: 5
+text: 2130 152 21 3660 790f9f3a9034980d07db62331a6e4c86
+props: 2221 11143 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/sipforkingproxy/ForwardRules.h
+copyroot: 2152 /old/sipXproxy/main/src/sipforkingproxy/ForwardRules.h
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1wv.0.r2221/11619
+type: file
+pred: 1wv.0.r2210/4281
+count: 9
+text: 2210 2158 317 565 752ef4f988e5ca8870d730d82f8ebba9
+props: 2221 11537 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/sipforkingproxy/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1y0.0.r2221/11953
+type: file
+pred: 1y0.0.r2206/23877
+count: 1
+text: 2206 15473 892 2127 72b80c4ce2723044e9d14820be5fbeac
+props: 2221 11871 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/sipforkingproxy/ForkingProxyCseObserver.h
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1wx.0.r2221/12304
+type: file
+pred: 1wx.0.r2153/2253
+count: 6
+text: 2153 271 46 13199 8917d92118c413aa30b51e4460c84bde
+props: 2221 12222 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/src/sipforkingproxy/SipRouter.cpp
+copyroot: 0 /
+
+PLAIN
+K 27
+ForkingProxyCseObserver.cpp
+V 22
+file 1xz.0.r2221/10871
+K 25
+ForkingProxyCseObserver.h
+V 22
+file 1y0.0.r2221/11953
+K 16
+ForwardRules.cpp
+V 21
+file 1wu.0.r2221/9798
+K 14
+ForwardRules.h
+V 23
+file 1wl.9x.r2221/11225
+K 11
+Makefile.am
+V 22
+file 1wv.0.r2221/11619
+K 23
+SipForkingProxyMain.cpp
+V 22
+file 1ww.0.r2221/10522
+K 13
+SipRouter.cpp
+V 22
+file 1wx.0.r2221/12304
+K 11
+SipRouter.h
+V 23
+file 1wm.9y.r2221/10134
+END
+ENDREP
+id: 1wt.0.r2221/12988
+type: dir
+pred: 1wt.0.r2210/4958
+count: 17
+text: 2221 12558 417 417 967a21c4a49019cb989081720b68f14b
+props: 2127 883 68 0 0911098a6c87bb684cd8e2810d3274d4
+cpath: /old/sipXproxy/main/src/sipforkingproxy
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file 1wo.0.r2221/7288
+K 3
+cse
+V 20
+dir 1xp.0.r2221/9489
+K 12
+sipauthproxy
+V 20
+dir 1wp.0.r2221/4958
+K 15
+sipforkingproxy
+V 21
+dir 1wt.0.r2221/12988
+K 4
+test
+V 20
+dir 1wy.0.r2221/6979
+END
+ENDREP
+id: 1wn.0.r2221/13449
+type: dir
+pred: 1wn.0.r2210/5420
+count: 29
+text: 2221 13227 209 209 ce7fb82e0c475954eb6b80ca6c8c2cb0
+props: 2127 1384 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXproxy/main/src
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 4
+CRLF
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1x6.0.r2221/13753
+type: file
+pred: 1x6.0.r2201/572
+count: 5
+text: 2201 0 544 5475 733c1dd2476d6a847205147cf6713c23
+props: 2221 13673 67 0 40862581c28acc44b2153a4f7a6c3f75
+cpath: /old/sipXproxy/main/sipXforkingProxy.dsp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 4
+CRLF
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1x5.0.r2221/14071
+type: file
+pred: 1x5.0.r2200/479
+count: 5
+text: 2200 0 454 5156 03423f0823249b7e17c3f5da132f2cce
+props: 2221 13991 67 0 40862581c28acc44b2153a4f7a6c3f75
+cpath: /old/sipXproxy/main/sipXauthproxy.dsp
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1w0.0.r2221/14388
+type: file
+pred: 1w0.0.r2097/73240
+count: 1
+text: 2097 12358 4 0 d41d8cd98f00b204e9800998ecf8427e
+props: 2221 14306 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/README
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1vu.0.r2221/14695
+type: file
+pred: 1vu.0.r2097/73441
+count: 1
+text: 2097 0 239 244 4a768a2b46bbe127d4fb3d4737656fe5
+props: 2221 14613 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/CONTRIBUTORS
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1w9.0.r2221/15008
+type: file
+pred: 1w9.0.r2207/2516
+count: 13
+text: 2207 471 373 1906 7be2753c9299831cf030ae859d7cde07
+props: 2221 14926 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/configure.ac
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 9
+text/html
+END
+ENDREP
+id: 1xm.0.r2221/15322
+type: file
+pred: 1xm.0.r2199/26243
+count: 1
+text: 2199 10004 35 23 55c3322fdf6aca9c6796a350bdc10c24
+props: 2221 15242 67 0 0c06cf5f4ba661b255b0e5ba6bcaaa80
+cpath: /old/sipXproxy/main/doc/footer.html
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1xk.0.r2221/15640
+type: file
+pred: 1xk.0.r2199/27652
+count: 1
+text: 2199 218 7615 23449 b41d2b39d8618a2ebcbc475943a9a694
+props: 2221 15558 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/doc/Doxyfile.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1xf.0.r2221/15961
+type: file
+pred: 1xf.0.r2206/25238
+count: 3
+text: 2206 620 1567 22581 54b488622f6806fce262bada0e0558ef
+props: 2221 15879 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/doc/cdr/call-state-events.txt
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1xh.0.r2221/16293
+type: file
+pred: 1xh.0.r2199/26652
+count: 2
+text: 2199 9536 440 3165 5dfb59e85a33466968e3f5d39d491c75
+props: 2221 16214 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXproxy/main/doc/cdr/call_event_examples.xml
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1xg.0.r2221/16626
+type: file
+pred: 1xg.0.r2207/2750
+count: 3
+text: 2207 2090 397 11050 5bd7e4943f67374fbff24b520c80e4cf
+props: 2221 16547 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXproxy/main/doc/cdr/call-state-events.xml
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1xd.0.r2221/16960
+type: file
+pred: 1xd.0.r2195/20993
+count: 1
+text: 2195 0 259 630 769646909b45734375c5e666d71f2826
+props: 2221 16878 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/doc/cdr/Makefile
+copyroot: 0 /
+
+PLAIN
+K 8
+Makefile
+V 22
+file 1xd.0.r2221/16960
+K 22
+call-state-events.html
+V 21
+file 1xe.0.r2207/2946
+K 21
+call-state-events.txt
+V 22
+file 1xf.0.r2221/15961
+K 21
+call-state-events.xml
+V 22
+file 1xg.0.r2221/16626
+K 23
+call_event_examples.xml
+V 22
+file 1xh.0.r2221/16293
+END
+ENDREP
+id: 1xc.0.r2221/17475
+type: dir
+pred: 1xc.0.r2207/3474
+count: 5
+text: 2221 17195 267 267 f5904e02ba2fbc727a77c2d407f587ee
+props: 2195 21659 72 0 06d2bca1ab799d759f72db07d6659ab8
+cpath: /old/sipXproxy/main/doc/cdr
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1xl.0.r2221/17785
+type: file
+pred: 1xl.0.r2207/3701
+count: 2
+text: 2207 869 25 133 0fb0e99acf327c365ba5b63d4d58581c
+props: 2221 17703 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/doc/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 9
+text/html
+END
+ENDREP
+id: 1xn.0.r2221/18099
+type: file
+pred: 1xn.0.r2199/28127
+count: 1
+text: 2199 10052 249 259 0ec387af23907f0339431f1a210bfa14
+props: 2221 18019 67 0 0c06cf5f4ba661b255b0e5ba6bcaaa80
+cpath: /old/sipXproxy/main/doc/header.html
+copyroot: 0 /
+
+PLAIN
+K 11
+Doxyfile.in
+V 22
+file 1xk.0.r2221/15640
+K 11
+Makefile.am
+V 22
+file 1xl.0.r2221/17785
+K 3
+cdr
+V 21
+dir 1xc.0.r2221/17475
+K 11
+footer.html
+V 22
+file 1xm.0.r2221/15322
+K 11
+header.html
+V 22
+file 1xn.0.r2221/18099
+END
+ENDREP
+id: 1xb.0.r2221/18569
+type: dir
+pred: 1xb.0.r2207/4165
+count: 5
+text: 2221 18337 219 219 a112c47c83931dd6e03ab60469e1f472
+props: 2199 28517 44 0 266664cab18215a0f9ddf0b038aa6adf
+cpath: /old/sipXproxy/main/doc
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1w1.0.r2221/18875
+type: file
+pred: 1w1.0.r2097/74428
+count: 1
+text: 2097 12375 4 0 d41d8cd98f00b204e9800998ecf8427e
+props: 2221 18793 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/TODO
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1vw.0.r2221/19180
+type: file
+pred: 1vw.0.r2097/74618
+count: 1
+text: 2097 269 167 287 b1482f7803b8f97436df0c4ae8b1291d
+props: 2221 19098 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/INSTALL
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1xa.0.r2221/19490
+type: file
+pred: 1xa.0.r2213/115
+count: 4
+text: 2213 0 89 843 d88e1220c7e8eb6550f6511b265d8c2f
+props: 2221 19408 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/bin/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 0
+
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1w5.0.r2221/19828
+type: file
+pred: 1w5.0.r2159/374
+count: 5
+text: 2159 0 346 779 02db6f6f9556c32677dc952c14952311
+props: 2221 19721 94 0 3caf7fa5ef5a1e1eabc4ec47c023e3f3
+cpath: /old/sipXproxy/main/bin/sipproxy.sh.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 0
+
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1w4.0.r2221/20170
+type: file
+pred: 1w4.0.r2158/376
+count: 5
+text: 2158 0 348 785 2b35612ee39768d33a5e83d3d9962840
+props: 2221 20063 94 0 3caf7fa5ef5a1e1eabc4ec47c023e3f3
+cpath: /old/sipXproxy/main/bin/sipauthproxy.sh.in
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 1xa.0.r2221/19490
+K 18
+sipauthproxy.sh.in
+V 22
+file 1w4.0.r2221/20170
+K 14
+sipproxy.sh.in
+V 22
+file 1w5.0.r2221/19828
+END
+ENDREP
+id: 1w3.0.r2221/20571
+type: dir
+pred: 1w3.0.r2213/500
+count: 11
+text: 2221 20409 149 149 f7eebb83db28d3490a1c1737a27016cc
+props: 2164 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXproxy/main/bin
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1vy.0.r2221/20873
+type: file
+pred: 1vy.0.r2212/341
+count: 27
+text: 2212 0 317 1992 d604e82594b513f4322c765daf6b5a39
+props: 2221 20791 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/Makefile.am
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1wc.0.r2221/21182
+type: file
+pred: 1wc.0.r2131/443
+count: 2
+text: 2131 0 415 4433 27d766be20b8da84a2b4d2fd5590e575
+props: 2221 21103 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXproxy/main/etc/authrules.xml.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 8
+text/xml
+END
+ENDREP
+id: 1wd.0.r2221/21499
+type: file
+pred: 1wd.0.r2129/355
+count: 3
+text: 2129 0 327 1777 54b62c9d5276d759af754d3dd8a8f022
+props: 2221 21420 66 0 5f9d7af798a891d7029f72bdc0c0e2d6
+cpath: /old/sipXproxy/main/etc/forwardingrules.xml.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1we.0.r2221/21825
+type: file
+pred: 1we.0.r2206/26902
+count: 3
+text: 2206 2741 157 637 71ce2800c400a0c3d55fd921b38194d7
+props: 2221 21743 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/etc/proxy-config.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1wb.0.r2221/22148
+type: file
+pred: 1wb.0.r2206/27141
+count: 2
+text: 2206 2636 77 695 d5eaabd2cb6072601ab392a61b299dbd
+props: 2221 22066 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/etc/authproxy-config.in
+copyroot: 0 /
+
+PLAIN
+K 19
+authproxy-config.in
+V 22
+file 1wb.0.r2221/22148
+K 16
+authrules.xml.in
+V 22
+file 1wc.0.r2221/21182
+K 22
+forwardingrules.xml.in
+V 22
+file 1wd.0.r2221/21499
+K 15
+proxy-config.in
+V 22
+file 1we.0.r2221/21825
+END
+ENDREP
+id: 1wa.0.r2221/22617
+type: dir
+pred: 1wa.0.r2206/27606
+count: 5
+text: 2221 22392 212 212 9ce48c65edb35aea4f81b0296f3df3da
+cpath: /old/sipXproxy/main/etc
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 1vz.0.r2221/22868
+type: file
+pred: 1vz.0.r2097/77368
+count: 1
+text: 2097 12341 4 0 d41d8cd98f00b204e9800998ecf8427e
+props: 2221 22786 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXproxy/main/NEWS
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 1vu.0.r2221/14695
+K 9
+ChangeLog
+V 21
+file 1vv.0.r2221/1946
+K 7
+INSTALL
+V 22
+file 1vw.0.r2221/19180
+K 7
+LICENSE
+V 19
+file 1vx.0.r2221/82
+K 11
+Makefile.am
+V 22
+file 1vy.0.r2221/20873
+K 4
+NEWS
+V 22
+file 1vz.0.r2221/22868
+K 6
+README
+V 22
+file 1w0.0.r2221/14388
+K 4
+TODO
+V 22
+file 1w1.0.r2221/18875
+K 9
+acsite.m4
+V 21
+file 1w2.0.r2221/1636
+K 3
+bin
+V 21
+dir 1w3.0.r2221/20571
+K 12
+configure.ac
+V 22
+file 1w9.0.r2221/15008
+K 3
+doc
+V 21
+dir 1xb.0.r2221/18569
+K 3
+etc
+V 21
+dir 1wa.0.r2221/22617
+K 4
+meta
+V 20
+dir 1xi.0.r2221/1386
+K 17
+sipXauthproxy.dsp
+V 22
+file 1x5.0.r2221/14071
+K 20
+sipXforkingProxy.dsp
+V 22
+file 1x6.0.r2221/13753
+K 17
+sipxproxy.spec.in
+V 20
+file 1x9.0.r2221/389
+K 3
+src
+V 21
+dir 1wn.0.r2221/13449
+END
+ENDREP
+id: 1vt.0.r2221/23846
+type: dir
+pred: 1vt.0.r2217/371
+count: 80
+text: 2221 23091 742 742 21727b0b494ce2b1c0427bc8391c2b0d
+props: 2217 0 358 0 6d445b0766a3f85fd0c51808b7ec3b23
+cpath: /old/sipXproxy/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 1x8.0.r2214/1619
+K 4
+main
+V 21
+dir 1vt.0.r2221/23846
+K 4
+tags
+V 20
+dir 1x7.0.r2220/1644
+END
+ENDREP
+id: 1vs.0.r2221/24190
+type: dir
+pred: 1vs.0.r2220/1931
+count: 125
+text: 2221 24063 114 114 63aa446abb3932c6b7e4936aa90a364c
+cpath: /old/sipXproxy
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 21
+dir 1vs.0.r2221/24190
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2221/24626
+type: dir
+pred: 1.0.r2220/2364
+count: 2220
+text: 2221 24351 262 262 2a0b88e41fe1e7ca7e87dbe78ba2c1da
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 19
+dir 1.0.r2221/24626
+END
+ENDREP
+id: 0.0.r2221/24824
+type: dir
+pred: 0.0.r2220/2559
+count: 2221
+text: 2221 24774 37 37 f01fc3343043ccefe1704297b5c6fe33
+cpath: /
+copyroot: 0 /
+
+1wl.9x.t2220-1 modify false true /old/sipXproxy/main/src/sipforkingproxy/ForwardRules.h
+
+1ws.0.t2220-1 modify false true /old/sipXproxy/main/src/sipauthproxy/sipauthproxymain.cpp
+
+1vz.0.t2220-1 modify false true /old/sipXproxy/main/NEWS
+
+1xo.0.t2220-1 modify false true /old/sipXproxy/main/meta/call_detail_record.xsd
+
+1xl.0.t2220-1 modify false true /old/sipXproxy/main/doc/Makefile.am
+
+1x0.0.t2220-1 modify false true /old/sipXproxy/main/src/test/Makefile.am
+
+1xa.0.t2220-1 modify false true /old/sipXproxy/main/bin/Makefile.am
+
+1vx.0.t2220-1 modify false true /old/sipXproxy/main/LICENSE
+
+1x2.0.t2220-1 modify false true /old/sipXproxy/main/src/test/rulesdata/simple.xml
+
+1wr.0.t2220-1 modify false true /old/sipXproxy/main/src/sipauthproxy/SipAaa.cpp
+
+1xh.0.t2220-1 modify false true /old/sipXproxy/main/doc/cdr/call_event_examples.xml
+
+1xf.0.t2220-1 modify false true /old/sipXproxy/main/doc/cdr/call-state-events.txt
+
+1wm.9y.t2220-1 modify false true /old/sipXproxy/main/src/sipforkingproxy/SipRouter.h
+
+1vv.0.t2220-1 modify false true /old/sipXproxy/main/ChangeLog
+
+1xs.0.t2220-1 modify false true /old/sipXproxy/main/src/cse/CallStateEventBuilder_XML.cpp
+
+1x6.0.t2220-1 modify false true /old/sipXproxy/main/sipXforkingProxy.dsp
+
+1xd.0.t2220-1 modify false true /old/sipXproxy/main/doc/cdr/Makefile
+
+1wc.0.t2220-1 modify false true /old/sipXproxy/main/etc/authrules.xml.in
+
+1x5.0.t2220-1 modify false true /old/sipXproxy/main/sipXauthproxy.dsp
+
+1wd.0.t2220-1 modify false true /old/sipXproxy/main/etc/forwardingrules.xml.in
+
+1w0.0.t2220-1 modify false true /old/sipXproxy/main/README
+
+1xx.0.t2220-1 modify false true /old/sipXproxy/main/src/sipauthproxy/AuthProxyCseObserver.cpp
+
+1y0.0.t2220-1 modify false true /old/sipXproxy/main/src/sipforkingproxy/ForkingProxyCseObserver.h
+
+1xn.0.t2220-1 modify false true /old/sipXproxy/main/doc/header.html
+
+1we.0.t2220-1 modify false true /old/sipXproxy/main/etc/proxy-config.in
+
+1wu.0.t2220-1 modify false true /old/sipXproxy/main/src/sipforkingproxy/ForwardRules.cpp
+
+1w1.0.t2220-1 modify false true /old/sipXproxy/main/TODO
+
+1xg.0.t2220-1 modify false true /old/sipXproxy/main/doc/cdr/call-state-events.xml
+
+1ww.0.t2220-1 modify false true /old/sipXproxy/main/src/sipforkingproxy/SipForkingProxyMain.cpp
+
+1vy.0.t2220-1 modify false true /old/sipXproxy/main/Makefile.am
+
+1xv.0.t2220-1 modify false true /old/sipXproxy/main/src/cse/Makefile.am
+
+1xr.0.t2220-1 modify false true /old/sipXproxy/main/src/cse/CallStateEventBuilder.h
+
+1wv.0.t2220-1 modify false true /old/sipXproxy/main/src/sipforkingproxy/Makefile.am
+
+1wq.0.t2220-1 modify false true /old/sipXproxy/main/src/sipauthproxy/Makefile.am
+
+1wj.9w.t2220-1 modify false true /old/sipXproxy/main/src/sipauthproxy/version.h
+
+1wx.0.t2220-1 modify false true /old/sipXproxy/main/src/sipforkingproxy/SipRouter.cpp
+
+1x9.0.t2220-1 modify false true /old/sipXproxy/main/sipxproxy.spec.in
+
+1w5.0.t2220-1 modify false true /old/sipXproxy/main/bin/sipproxy.sh.in
+
+1wb.0.t2220-1 modify false true /old/sipXproxy/main/etc/authproxy-config.in
+
+1w2.0.t2220-1 modify false true /old/sipXproxy/main/acsite.m4
+
+1xz.0.t2220-1 modify false true /old/sipXproxy/main/src/sipforkingproxy/ForkingProxyCseObserver.cpp
+
+1wi.9v.t2220-1 modify false true /old/sipXproxy/main/src/sipauthproxy/SipAaa.h
+
+1xt.0.t2220-1 modify false true /old/sipXproxy/main/src/cse/CallStateEventBuilder_XML.h
+
+1xw.0.t2220-1 modify false true /old/sipXproxy/main/src/test/CallStateEventBuilder_XMLTest.cpp
+
+1vu.0.t2220-1 modify false true /old/sipXproxy/main/CONTRIBUTORS
+
+1xk.0.t2220-1 modify false true /old/sipXproxy/main/doc/Doxyfile.in
+
+1xj.0.t2220-1 modify false true /old/sipXproxy/main/meta/call_event.xsd
+
+1wo.0.t2220-1 modify false true /old/sipXproxy/main/src/Makefile.am
+
+1xy.0.t2220-1 modify false true /old/sipXproxy/main/src/sipauthproxy/AuthProxyCseObserver.h
+
+1w9.0.t2220-1 modify false true /old/sipXproxy/main/configure.ac
+
+1w4.0.t2220-1 modify false true /old/sipXproxy/main/bin/sipauthproxy.sh.in
+
+1xm.0.t2220-1 modify false true /old/sipXproxy/main/doc/footer.html
+
+1vw.0.t2220-1 modify false true /old/sipXproxy/main/INSTALL
+
+1wz.0.t2220-1 modify false true /old/sipXproxy/main/src/test/ForwardRulesTest.cpp
+
+1xq.0.t2220-1 modify false true /old/sipXproxy/main/src/cse/CallStateEventBuilder.cpp
+
+
+24824 24967

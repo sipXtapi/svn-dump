@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-09-30T17:01:37.387244Z
+K 7
+svn:log
+V 364
+Merging bug fix made to legacy source base:
+
+Change 45940 by bandreasen@bob_frogger_all on 2004/09/27 11:59:43
+
+Fix for digitmap bug:
+	
+Prior to this check-in, dialing "*123456" with the following digitmap resulted in a "vdigits" of "345" instead of "456".  The code was not looking for escaped *s and botched the results string.
+	
+*123xxx : sip:{vdigits}@proxy
+
+
+
+END

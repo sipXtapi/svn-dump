@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-04-26T20:53:11.772582Z
+K 7
+svn:log
+V 235
+Fix HA installation script to install stunnel startup script correctly in
+/etc/init.d.
+
+Add database patching check to only apply patches that weren't applied before.
+
+Remove trailing whitespace from call resolver purge age parameter.
+
+END

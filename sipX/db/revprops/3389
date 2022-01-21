@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-01-18T22:32:49.273819Z
+K 7
+svn:log
+V 72
+Generating authrules.xml, mappingrules.xml and fallbackrules.xml added.
+
+END

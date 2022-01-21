@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-05-12T14:40:24.009796Z
+K 7
+svn:log
+V 213
+XCF-371 - relax restrictions when validating dial and call patterns in custom dialing rules.
+New validation - validSipUrlUser defined accepting the following regex: ([a-zA-Z0-9_.!~*'()&=+$,;?/-]|%[0-9a-fA-F]{2})+
+
+END

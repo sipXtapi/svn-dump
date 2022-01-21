@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-10-03T21:49:17.698416Z
+K 7
+svn:log
+V 80
+Check for codecs in install directory in unit test if they are not found in bin
+
+END

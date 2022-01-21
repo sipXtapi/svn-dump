@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-03-26T17:45:20.228974Z
+K 7
+svn:log
+V 129
+XPR-224 add default value of SIP_CALLRESOLVER_MAX_CALL_LEN to callresolver-config
+removed deprecated SIP_CALLRESOLVER_DAILY_RUN 
+
+END

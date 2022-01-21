@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-10-27T04:31:22.559962Z
+K 7
+svn:log
+V 274
+XCF-713: Implement search on the ManageUsers page.
+You can now enter a search string that will match user names, first names, last names, or aliaes.  Searching is case-insensitive and uses wildcards.  For example, the search string "cn" will match the last name "McNamara".
+
+END

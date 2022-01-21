@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-02-05T14:14:21.116200Z
+K 7
+svn:log
+V 164
+sipXmediaAdapterLib: Generate RFC4733 packets in addition to in-band tones with startTone() in Topology and implement start/stopChannelTone() methods for Topology.
+
+END

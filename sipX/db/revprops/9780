@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2007-07-02T17:28:48.826347Z
+K 7
+svn:log
+V 117
+-created define DEFAULT_BRIDGE_MAX_IN_OUTPUTS so that users can build in a custom default bridge size (default is 10)
+END

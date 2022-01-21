@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-08-09T13:32:06.857783Z
+K 7
+svn:log
+V 115
+Remove unused merge properties.
+(Their values are the same as in main rev 6844, which is the base of this
+branch.)
+
+END

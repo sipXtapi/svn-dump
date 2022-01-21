@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2019-10-07T20:38:05.540133Z
+K 7
+svn:log
+V 190
+Seems to be a problem with the winsock check in opusfile/configure.ac on some slightly older versions of autoconf.
+Disabling the check as we disable http in opusfile for sipX builds anyway.
+
+END

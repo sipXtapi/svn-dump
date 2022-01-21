@@ -1,0 +1,36 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-10T00:37:44.493941Z
+K 7
+svn:log
+V 856
+Visual Studio 6.0 is broken when it comes to statically initializing
+an array of structs containing object references.
+
+To get MpResourceTopology compiling properly under VS6, ResourceDef
+and ConnectionDef had to be altered to store const char* instead of 
+const UtlString&.
+
+All other known compilers can properly initialize an array of structs
+containing object references.  This is an obscure bug that it apprears
+only a few others have run into.  Microsoft does not seem to acknowledge
+this bug either way (that I can find).
+
+Note: this means reduced functionality under VS6 -- only static names 
+and types can be used in ResourceDef and ConnectionDef structs.
+
+
+See these links for related reading:
+
+http://www.daniweb.com/forums/thread151664.html
+http://www.gidforums.com/t-5133.html
+http://www.garagegames.com/mg/forums/result.thread.php?qt=20062
+
+
+
+END

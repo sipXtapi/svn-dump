@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-08-24T19:15:45.234915Z
+K 7
+svn:log
+V 295
+Somewhat large sipXtapi update:
+ - More infrastructure for RTP over TCP
+ - Ability to plug in external transports
+ - API tweaked for binary backwards comp
+ - Many Bug fixes
+ - Regenerated docs
+
+NOTE: I did cut a binary/source snapshot before this check-in
+      and will make that avavailable.
+
+
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-12-20T00:31:10.198334Z
+K 7
+svn:log
+V 41
+Added libg7221 subdir to codecs makefile
+
+END

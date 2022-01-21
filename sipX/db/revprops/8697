@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+urtho
+K 8
+svn:date
+V 27
+2007-02-04T04:13:03.169506Z
+K 7
+svn:log
+V 75
+first attempt at accept-language hinting in OpenVXI subdialog HTTP fetching
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-08-23T18:29:20.728898Z
+K 7
+svn:log
+V 75
+incorp. junit into project to remove cumbersome and problematic junit setup
+END

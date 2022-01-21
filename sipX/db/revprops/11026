@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-04T21:30:15.714801Z
+K 7
+svn:log
+V 158
+Fix for VC6 brokenness in C++ standards.
+VC6 doesn't seem to understand variable initializers.
+So - instead assign to variable instead of using initializer.
+
+
+END

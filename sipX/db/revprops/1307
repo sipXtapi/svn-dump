@@ -1,0 +1,29 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-05-04T15:47:27.904229Z
+K 7
+svn:log
+V 629
+Merged revisions 207,217 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXmediaLib/branches/2.8
+    ------------------------------------------------------------------------
+    r207 | mardy | 2005-03-24 12:59:29 -0500 (Thu, 24 Mar 2005) | 2 lines
+    Changed paths:
+       M /branches/2.8/src/mp/MprFromMic.cpp
+    
+    Squelch unnecesary console output noise.
+    
+    ------------------------------------------------------------------------
+    r217 | mardy | 2005-03-29 16:15:36 -0500 (Tue, 29 Mar 2005) | 2 lines
+    Changed paths:
+       M /branches/2.8/src/mp/dmaTaskPosix.cpp
+    
+    Remove modification of UID.
+    
+
+END

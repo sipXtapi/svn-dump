@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-05-18T07:41:30.764699Z
+K 7
+svn:log
+V 244
+Partial implementation of SipSubscribeServer along with interface
+definitions for SipSubscribeServerEventHandler and
+SipSubscriptionMgr.
+
+Added additional test to SipDialog Unit test and fixed some
+bugs in SipDialog identify by the unit test.
+
+
+END

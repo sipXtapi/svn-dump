@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-11-18T22:49:36.675672Z
+K 7
+svn:log
+V 41
+Fix 64-bit warnings and some formatting.
+
+END

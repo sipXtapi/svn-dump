@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-13T00:15:45.611324Z
+K 7
+svn:log
+V 291
+XCF-1409 permission refactoring to prepare for localized names of built-in permissions
+PermissionName is now used to keep the internal name of built in permission that corresponds to setting name.
+SettingPermission is a new subclass of Permission that has localizable label and description.
+
+END

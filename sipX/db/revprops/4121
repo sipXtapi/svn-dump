@@ -1,0 +1,32 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-07-25T16:57:22.507553Z
+K 7
+svn:log
+V 646
+Removed the includes of all of the new Utl classes from OsDefs.h
+  and put in the (much smaller number of) includes that required
+  elsewhere.
+
+Replaced OsBoolean with UtlBoolean (we had both, and they were the same)
+
+Replaced UTL_NPOS with UTL_NOT_FOUND (we had both, and they were the same)
+
+OsDefs.h now has only those definitions that are actually
+  in some way platform dependent.
+
+It is likely that:
+
+ - Many files that include OsDefs.h don't need to any more.
+
+ - This submission will break builds for non-Linux files
+   that now need to explicitly include the Utl* classes
+   they need.  I tried to find these, but probably missed some.
+
+
+END

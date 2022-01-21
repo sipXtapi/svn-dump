@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-04T19:52:09.074202Z
+K 7
+svn:log
+V 261
+Fix how the retrieve CGI function gets the mailbox number to retrieve
+from, viz., use the 'mailbox' parameter in preference to the 'From:'
+address.  This allows mappings to URIs that retrieve from specified
+mailboxes.
+http://track.sipfoundry.org/browse/XPB-256
+
+END

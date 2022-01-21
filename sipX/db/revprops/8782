@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2007-02-14T18:52:01.405165Z
+K 7
+svn:log
+V 107
+Do no start ftp server unless network is available, causes error in install.log for anaconda based installs
+END

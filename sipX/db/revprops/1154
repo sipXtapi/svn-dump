@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-12-13T16:40:22.124989Z
+K 7
+svn:log
+V 94
+Enabled VAD checking in G729ab wrapper -- this is required to stop sending audio on silence.
+
+
+END

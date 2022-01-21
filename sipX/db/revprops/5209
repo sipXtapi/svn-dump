@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-09-27T18:11:07.102439Z
+K 7
+svn:log
+V 122
+Added snom/phone.xml to the list of model files validated by test-models task
+Minor fixes in phone.xml for DTD compliance
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-03-11T19:12:00.231036Z
+K 7
+svn:log
+V 126
+If when calling OsTaskBase::waitUntilShutDown() and already in SHUTDOWN
+state, just return.
+Clean up / improve error logging.
+
+END

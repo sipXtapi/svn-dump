@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2005-03-06T11:59:15.751902Z
+K 7
+svn:log
+V 273
+Microphone hook is now invoked with default microphone data supplied from the device.  This allows application to view, modify, or replace source data.  Previously, all microphone data was discarded.
+
+Also, fixed a possible crash in MicThreadWnt, when out of mic buffers.
+
+
+END

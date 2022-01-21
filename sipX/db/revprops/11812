@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-12-15T06:59:46.082123Z
+K 7
+svn:log
+V 202
+Fixed for passive Session Timer on UAS side - include refresher parameter in Session-Expires header in 200 OK
+  Polycom HDX fails to send ACK because we send Session-Expires with no refresher parameter
+
+END

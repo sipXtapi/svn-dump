@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-12-18T22:16:29.572256Z
+K 7
+svn:log
+V 330
+XPR-157 new process CallResolver added to the list of managed sipX services
+- new '--daemon' option added to sipxcallresolver.sh - watchdog is using it to start callresolver in service mode
+- remove check that sipxcallresolver.sh has to be run by root user (there may be still some code that requires it but it needs to be fixed)
+
+END

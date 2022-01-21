@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-23T16:39:08.548017Z
+K 7
+svn:log
+V 345
+XCF-118 - Fixed. Xtags taglib uses an old xalan xsl procesessor and seems to make a transformation the first time, but fails on subsequent. Could be fault of XSL xtag which we cannot find the source for. The rest for the application uses JDOM for XSLT and so I ported the 2 spots were we use the xtagxsl tag to a simple XSLT static function call
+END

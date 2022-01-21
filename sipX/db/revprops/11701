@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-04-06T05:02:52.518383Z
+K 7
+svn:log
+V 30
+Use shared pcre lib in sdpLib
+
+END

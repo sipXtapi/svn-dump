@@ -1,0 +1,363 @@
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: b2.0.r380/82
+type: file
+pred: b2.0.r350/1255
+count: 1
+text: 350 100 65 78 7fa05e37e497444936a688c0610d13ba
+props: 380 0 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/config/sipX-buildstamp.h.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: aw.0.r380/398
+type: file
+pred: aw.0.r259/1459
+count: 1
+text: 259 0 384 623 9872a97c4ea65a04b74c1bb0b720a2ea
+props: 380 316 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/config/apache_version.awk
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: b0.0.r380/715
+type: file
+pred: b0.0.r359/294
+count: 3
+text: 359 0 170 1658 aef1c7e8111a266cbf217e25bfccb544
+props: 380 633 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/config/sipXcommon.mak.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: b3.0.r380/1031
+type: file
+pred: b3.0.r356/547
+count: 4
+text: 356 501 22 1622 1f9fae6248dc39f449c4a26ead3ecd05
+props: 380 949 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/config/sipXprojtop.mak
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 9a.0.r380/1347
+type: file
+pred: 9a.0.r359/530
+count: 38
+text: 359 195 75 13962 cd1a632128392503faf65de05996081f
+props: 380 1265 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/config/sipXlib.m4
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: b1.0.r380/1661
+type: file
+pred: b1.0.r350/2156
+count: 1
+text: 350 0 87 95 c0da77df4bcc6a5ad1c01bec50edf60c
+props: 380 1579 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/config/sipX-buildstamp.cpp.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: av.0.r380/2008
+type: file
+pred: av.0.r350/1873
+count: 2
+text: 350 178 129 2703 b2f77b5549a73c84123bf81082c599f9
+props: 380 1900 95 0 7233ebd5ce9d657a2a2657a19dd1a54f
+cpath: /old/sipXportLib/main/config/sipX-config.in
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 95.0.r380/2326
+type: file
+pred: 95.0.r377/707
+count: 45
+text: 377 0 683 34442 be4e2bedc426494145278601ef996004
+props: 380 2244 69 0 e633e113662c2a9d9f5029228814692a
+cpath: /old/sipXportLib/main/config/general.m4
+copyroot: 0 /
+
+PLAIN
+K 18
+apache_version.awk
+V 18
+file aw.0.r380/398
+K 10
+general.m4
+V 19
+file 95.0.r380/2326
+K 22
+sipX-buildstamp.cpp.in
+V 19
+file b1.0.r380/1661
+K 20
+sipX-buildstamp.h.in
+V 17
+file b2.0.r380/82
+K 14
+sipX-config.in
+V 19
+file av.0.r380/2008
+K 17
+sipXcommon.mak.in
+V 18
+file b0.0.r380/715
+K 10
+sipXlib.m4
+V 19
+file 9a.0.r380/1347
+K 15
+sipXprojtop.mak
+V 19
+file b3.0.r380/1031
+END
+ENDREP
+id: 91.0.r380/2944
+type: dir
+pred: 91.0.r377/1325
+count: 92
+text: 380 2557 374 374 f7ea1ec3730ec550ec15463dbe71f0c3
+props: 358 0 161 0 ebc1a9362b3b594e296e14a3a1bcf1aa
+cpath: /old/sipXportLib/main/config
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 19
+file 4.0.r22/520744
+K 9
+ChangeLog
+V 17
+file 5.0.r310/497
+K 7
+INSTALL
+V 18
+file 6.0.r343/1277
+K 7
+LICENSE
+V 19
+file 7.0.r22/418615
+K 11
+Makefile.am
+V 18
+file 8.0.r355/1362
+K 4
+NEWS
+V 19
+file 9.0.r22/520483
+K 6
+README
+V 16
+file a.0.r99/462
+K 4
+TODO
+V 18
+file b.0.r25/34332
+K 9
+acsite.m4
+V 19
+file c.0.r22/469495
+K 3
+bin
+V 17
+dir as.0.r357/778
+K 6
+config
+V 18
+dir 91.0.r380/2944
+K 12
+configure.ac
+V 17
+file d.0.r347/987
+K 3
+doc
+V 16
+dir ac.0.r357/74
+K 7
+include
+V 17
+dir e.0.r379/3314
+K 15
+sipXportLib.dsp
+V 19
+file 4c.0.r370/2094
+K 19
+sipxportlib.spec.in
+V 20
+file aq.0.r378/38464
+K 3
+src
+V 19
+dir 4d.0.r378/38244
+K 12
+syslogviewer
+V 18
+dir 8y.0.r337/1290
+END
+ENDREP
+id: 3.0.r380/3857
+type: dir
+pred: 3.0.r379/4226
+count: 319
+text: 380 3163 681 681 a89821622c89ef9045f8e50e2101f281
+props: 378 39341 386 0 a73d844f89b3a53e902a691c7e328422
+cpath: /old/sipXportLib/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir ar.0.r375/22709
+K 4
+main
+V 17
+dir 3.0.r380/3857
+K 4
+tags
+V 18
+dir an.0.r376/1198
+END
+ENDREP
+id: 2.0.r380/4192
+type: dir
+pred: 2.0.r379/4562
+count: 378
+text: 380 4072 107 107 59a9f292ff11391f303650240f036de6
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 17
+dir 2.0.r380/4192
+END
+ENDREP
+id: 1.0.r380/4403
+type: dir
+pred: 1.0.r379/4774
+count: 379
+text: 380 4346 44 44 5980c01d96220dbcac5420f1acc95bd1
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r380/4403
+END
+ENDREP
+id: 0.0.r380/4591
+type: dir
+pred: 0.0.r379/4963
+count: 380
+text: 380 4543 35 35 8f15c8d4067b9cb567084240d03375af
+cpath: /
+copyroot: 0 /
+
+b1.0.t379-1 modify false true /old/sipXportLib/main/config/sipX-buildstamp.cpp.in
+
+av.0.t379-1 modify false true /old/sipXportLib/main/config/sipX-config.in
+
+95.0.t379-1 modify false true /old/sipXportLib/main/config/general.m4
+
+b2.0.t379-1 modify false true /old/sipXportLib/main/config/sipX-buildstamp.h.in
+
+aw.0.t379-1 modify false true /old/sipXportLib/main/config/apache_version.awk
+
+b0.0.t379-1 modify false true /old/sipXportLib/main/config/sipXcommon.mak.in
+
+b3.0.t379-1 modify false true /old/sipXportLib/main/config/sipXprojtop.mak
+
+9a.0.t379-1 modify false true /old/sipXportLib/main/config/sipXlib.m4
+
+
+4591 4728

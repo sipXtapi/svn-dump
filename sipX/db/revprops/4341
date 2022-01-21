@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-10T19:04:22.576888Z
+K 7
+svn:log
+V 94
+Change remove() to removeAt().
+Add lots of logging.
+http://track.sipfoundry.org/browse/XVX-85
+
+END

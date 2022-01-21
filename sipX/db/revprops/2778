@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-09-09T15:40:28.425736Z
+K 7
+svn:log
+V 167
+Move configuration of SIPXVXMLDATA to the common config macros (see
+config/sipXlib.m4) so that it is visible in sipXpbx.
+See http://track.sipfoundry.org/browse/XPB-33
+
+END

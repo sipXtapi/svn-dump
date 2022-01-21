@@ -1,0 +1,190 @@
+id: 6me.0.r4158/0
+type: dir
+count: 0
+cpath: /old/sipXpbx/main/doc/developer
+copyroot: 0 /
+
+PLAIN
+K 9
+developer
+V 17
+dir 6me.0.r4158/0
+K 7
+license
+V 22
+dir 5gn.0.r4094/299673
+END
+ENDREP
+id: 5gm.0.r4158/185
+type: dir
+pred: 5gm.0.r4094/299881
+count: 1
+text: 4158 91 81 81 f422cd6c9856374d7be62110c7e6362a
+cpath: /old/sipXpbx/main/doc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4094/345033
+K 9
+ChangeLog
+V 20
+file 5g8.0.r4133/458
+K 7
+INSTALL
+V 21
+file 5g9.0.r4143/3730
+K 7
+LICENSE
+V 23
+file 5ga.0.r4094/296233
+K 11
+Makefile.am
+V 21
+file 5gb.0.r4143/7891
+K 4
+NEWS
+V 23
+file 5gc.0.r4094/344891
+K 6
+README
+V 20
+file 5gd.0.r4149/243
+K 4
+TODO
+V 23
+file 5ge.0.r4094/299180
+K 9
+acsite.m4
+V 23
+file 5gf.0.r4094/300422
+K 3
+bin
+V 20
+dir 5gg.0.r4155/1058
+K 12
+configure.ac
+V 21
+file 5gl.0.r4137/2575
+K 3
+doc
+V 19
+dir 5gm.0.r4158/185
+K 3
+etc
+V 20
+dir 5gp.0.r4156/1354
+K 7
+include
+V 21
+dir 5h2.0.r4151/18040
+K 3
+src
+V 20
+dir 5hb.0.r4157/9398
+END
+ENDREP
+id: 5g6.0.r4158/949
+type: dir
+pred: 5g6.0.r4157/10224
+count: 57
+text: 4158 346 590 590 bdca2d5dde94b017a4316e49edcea291
+props: 4144 8225 241 0 62cd57c97efeb37d89369c2aee464908
+cpath: /old/sipXpbx/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 19
+dir 5g6.0.r4158/949
+K 4
+tags
+V 20
+dir 5kn.0.r4134/2736
+END
+ENDREP
+id: 5g5.0.r4158/1251
+type: dir
+pred: 5g5.0.r4157/10530
+count: 65
+text: 4158 1165 73 73 987dea23a820d92ad1a5865bf5e73eb7
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4158/1251
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4158/1889
+type: dir
+pred: 1.0.r4157/11170
+count: 4156
+text: 4158 1406 470 470 c743f0f98802bca39f962280e78676a4
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4158/1889
+END
+ENDREP
+id: 0.0.r4158/2085
+type: dir
+pred: 0.0.r4157/11368
+count: 4158
+text: 4158 2036 36 36 b0a9c1571263c0386fb17fe7e91e3127
+cpath: /
+copyroot: 0 /
+
+_0.0.t4157-1 add false false /old/sipXpbx/main/doc/developer
+
+
+2085 2227

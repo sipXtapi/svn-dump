@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2007-02-05T01:24:05.407165Z
+K 7
+svn:log
+V 185
+Add unit test for NetBase64Codec
+Add checks for invalid input to NetBase64Codec decoders;
+all decoders now return whether or not the input was valid,
+and do not decode any data if not.
+
+END

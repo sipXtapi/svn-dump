@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-04-07T21:23:59.752606Z
+K 7
+svn:log
+V 73
+For call setup get the contact id for the callee from the 200 OK response
+END

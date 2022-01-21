@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-03T05:00:40.683376Z
+K 7
+svn:log
+V 338
+Fix data race in NetInTask.
+Sending data over socket is not a synchronization point, it's more like simple mem-to-mem copying. Here data is sent by one thread and received by other, so access to data must be synchronized. Lack of this synchronization may lead to such a bad things like using of partially initalized OsEvent objects, etc.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-09-14T15:45:08.845810Z
+K 7
+svn:log
+V 90
+remove unnec. http integration and cert and allow configure to use html dir from httpd rpm
+END

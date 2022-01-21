@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-05-29T21:13:57.819472Z
+K 7
+svn:log
+V 124
+Add mechanism to query media interface for it's type.
+Print current media interface type correctly in Media Adapter tests.
+
+
+END

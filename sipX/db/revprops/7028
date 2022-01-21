@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-07-04T12:50:10.762321Z
+K 7
+svn:log
+V 337
+Merged revisions 6959 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r6959 | bob | 2006-06-13 02:56:58 +0400 | 5 lines
+  
+  Changes needed to build PlaceCall/ReceiveCall under MacOS (and linux)
+   - Add ExternalTransport.cpp/.h to projects
+   - Add CA_LIBS (CoreAudio libs) to ReceiveCall
+........
+
+
+END

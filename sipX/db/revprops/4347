@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-11T20:57:03.567524Z
+K 7
+svn:log
+V 77
+Update error messages to a consistent format and to always call echo_failure.
+END

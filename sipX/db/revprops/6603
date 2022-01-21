@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-04-17T23:53:31.229217Z
+K 7
+svn:log
+V 57
+change argument to a prefix so that logs can be found too
+END

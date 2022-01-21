@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-05-03T11:30:26.644788Z
+K 7
+svn:log
+V 82
+Fixed svn properties on the sipXtapi branch (eol style and mimetype was not set)
+
+
+END

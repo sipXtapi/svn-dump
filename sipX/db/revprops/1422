@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-12-08T20:28:03.322351Z
+K 7
+svn:log
+V 116
+Create first version of software SIP call generator by copying PlaceCall.
+http://track.sipfoundry.org/browse/XVX-35
+
+END

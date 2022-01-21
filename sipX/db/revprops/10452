@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-01-11T18:00:11.041779Z
+K 7
+svn:log
+V 210
+Update VS2005 build for changes made to vs2003 build in r10449 to put them back in sync.
+
+VS2005 build: Add sipXmediaLib\include\mp\codecs\PlgDefsV1.h to sipXmediaLib project file and all codecs' project files.
+END

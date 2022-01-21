@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-09T17:58:50.918469Z
+K 7
+svn:log
+V 382
+Change how SIPX_HOME's value is written to Makefiles, etc. so that it
+refers to ${prefix}.  The current code captures the value of ${prefix}
+at line 33 in sipXlib.m4, at which time it is NONE if no --prefix argument
+has been provided to ./configure, as the default value for ${prefix} has
+not been applied yet.
+See http://track.sipfoundry.org/browse/XVX-25
+
+Improve a text message.
+
+END

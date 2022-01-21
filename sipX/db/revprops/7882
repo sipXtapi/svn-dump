@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-30T23:14:16.980415Z
+K 7
+svn:log
+V 209
+mergefrom user_dworley_redirectors2main 7345
+
+Remove "config" externals, in preparation for merging with the latest
+main, which has the new build system, and replaces these
+subdirectories with symbolic links.
+
+END

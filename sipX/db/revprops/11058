@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2008-12-09T01:12:48.902526Z
+K 7
+svn:log
+V 363
+
+If unit test fails while sine input device driver is still added 
+to device manager, prior to this change, the device manager would assert
+failure in it's destructor because it asserts that there are no
+devices connected when it is destroyed.
+
+To fix this issue, I catch the cppunit exception and remove the device
+from the manager, then rethrow the exception.
+
+
+END

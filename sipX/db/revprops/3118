@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-10-21T18:00:45.023954Z
+K 7
+svn:log
+V 133
+Bug XCF-47: Config server not listing registrations.  Also touchup README and INSTALL for postgres and running w/o other sipx servers
+END

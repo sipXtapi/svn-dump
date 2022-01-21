@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-10-07T16:19:23.098534Z
+K 7
+svn:log
+V 584
+XCF-1196 nasty problem in Group.inheritSettingsForEdit: If bean from which settings to be inherited were retrieved happened to be the member of the group that we were editing, than changing the value of the setting was also changing the default value of the settings. Since the default value was the same as the value, subsequent  edits were removing the setting. It lead to strange UI behavior with default group values randomly reverting to previous defaults.
+Fixed by simplifying GroupSettingModel and cleaning the model in the settings that serve as base settings for the group.
+
+
+END

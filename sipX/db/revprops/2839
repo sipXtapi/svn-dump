@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2004-11-05T19:50:07.364782Z
+K 7
+svn:log
+V 161
+http://track.sipfoundry.org/browse/XVX-52
+
+Modified SBlogVswprintf so that it now exclusively uses vswprintf which will not allow the output buffer to overflow.
+
+END

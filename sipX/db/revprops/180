@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2004-08-16T20:20:57.420714Z
+K 7
+svn:log
+V 226
+Add preliminary support for rpms:
+* rpm spec file
+* lower req. of autoconf to 2.57, issue warning about 2.58
+* lower rew. of automake to 1.6
+* autoconf macros for openssl and pcre find header from respective *-devel packages
+
+
+END

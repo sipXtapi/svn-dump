@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-06-16T18:13:20.631188Z
+K 7
+svn:log
+V 153
+Add checks for installed CA certificates
+Create the ssl/authorities configuration directory at
+  install time rather than just during cert installation.
+
+END

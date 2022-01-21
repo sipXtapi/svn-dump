@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-11-11T17:53:33.599963Z
+K 7
+svn:log
+V 129
+Delete duplicate copy of the Media Server Web UI in
+sipXpbx/src/mediaservercgi/userui
+http://track.sipfoundry.org/browse/XPB-124
+
+END

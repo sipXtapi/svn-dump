@@ -1,0 +1,29 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-23T18:45:28.976988Z
+K 7
+svn:log
+V 677
+Merged revisions 358-359 via svnmerge from
+https://scm.sipfoundry.org/rep/sipXcallLib/branches/2.8
+    ------------------------------------------------------------------------
+    r358 | dworley | 2005-03-23 13:35:49 -0500 (Wed, 23 Mar 2005) | 2 lines
+    Changed paths:
+       M /branches/2.8/examples/CallScript/src/README
+    
+    Update build instructions for CallScript.
+    
+    ------------------------------------------------------------------------
+    r359 | dworley | 2005-03-23 13:40:02 -0500 (Wed, 23 Mar 2005) | 2 lines
+    Changed paths:
+       M /branches/2.8/examples/CallScript/src/CallScriptDriver.pl
+    
+    Improve messages from CallScriptDriver.pl.
+    
+
+END

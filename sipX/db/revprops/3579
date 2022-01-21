@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-02-24T16:54:13.624876Z
+K 7
+svn:log
+V 59
+Code form v8_mods patches copied to profilegen_create.sql.
+
+END

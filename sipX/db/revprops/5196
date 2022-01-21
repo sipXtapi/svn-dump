@@ -1,0 +1,34 @@
+K 10
+svn:author
+V 4
+dhsu
+K 8
+svn:date
+V 27
+2005-09-26T20:32:56.196107Z
+K 7
+svn:log
+V 667
+-Fixed the issue of not playing the default prompts.
+        
+  http://track.sipfoundry.org/browse/XPB-330
+        
+-Changed to read in sign-in/out code as well as customized audio from sipxpresence-config file.
+        
+-Set the default stun server to NULL so that StunDiscoveryRequest will not be sent out.
+        
+-Changed the error message to warning message
+
+-Changed the default setting for OsStunDatagramSocket constructor
+
+-Added some debug messages
+
+-Freed up the memory after being used
+         
+-Removed the deletion of Connection because it will cause the transfer crash. It will be deleted in the destructor of CpMediaInterface
+
+        
+        
+    
+
+END

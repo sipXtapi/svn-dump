@@ -1,0 +1,208 @@
+PLAIN
+K 5
+2.5.1
+V 22
+dir 5g6.y3.r4102/11489
+K 5
+2.5.2
+V 21
+dir 5g6.y5.r4134/2397
+K 12
+2.6-export-A
+V 20
+dir 5g6.yr.r4360/659
+K 12
+2.6-export-B
+V 20
+dir 5g6.yt.r4367/659
+K 12
+2.6-export-C
+V 20
+dir 5g6.yz.r4378/659
+K 12
+2.6-export-D
+V 20
+dir 5g6.z0.r4380/659
+K 12
+2.6-export-E
+V 20
+dir 5g6.z1.r4382/659
+K 12
+2.6-export-F
+V 20
+dir 5g6.z2.r4384/659
+K 12
+2.6-export-G
+V 20
+dir 5g6.z6.r4393/546
+K 12
+2.6-export-H
+V 20
+dir 5g6.z7.r4396/546
+K 12
+2.6-export-J
+V 20
+dir 5g6.z8.r4400/546
+K 12
+2.6-export-K
+V 20
+dir 5g6.z9.r4405/550
+K 12
+2.6-export-L
+V 20
+dir 5g6.za.r4407/550
+K 12
+2.6-export-M
+V 20
+dir 5g6.zb.r4408/550
+K 12
+2.6-export-N
+V 20
+dir 5g6.zc.r4411/550
+K 12
+2.6-export-O
+V 20
+dir 5g6.zg.r4437/550
+K 12
+2.6-export-P
+V 20
+dir 5g6.zh.r4439/550
+K 12
+2.6-export-Q
+V 20
+dir 5g6.zi.r4441/550
+K 12
+2.6-export-R
+V 20
+dir 5g6.zj.r4445/550
+K 12
+2.6-export-S
+V 20
+dir 5g6.zk.r4446/550
+K 12
+2.6-export-T
+V 20
+dir 5g6.zl.r4461/550
+K 12
+2.6-export-U
+V 20
+dir 5g6.zn.r4469/550
+K 5
+2.6.1
+V 20
+dir 5g6.z3.r4387/652
+K 13
+main-export-B
+V 20
+dir 5g6.yl.r4323/547
+K 13
+main-export-C
+V 20
+dir 5g6.yp.r4354/547
+END
+ENDREP
+id: 5kn.0.r4470/1098
+type: dir
+pred: 5kn.0.r4469/1938
+count: 31
+text: 4470 0 1085 1085 639982c62bf9d15be9fd51bcf3fa768a
+cpath: /old/sipXpbx/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 6o1.0.r4460/2284
+K 4
+main
+V 20
+dir 5g6.0.r4468/2464
+K 4
+tags
+V 20
+dir 5kn.0.r4470/1098
+END
+ENDREP
+id: 5g5.0.r4470/1384
+type: dir
+pred: 5g5.0.r4469/2226
+count: 377
+text: 4470 1258 113 113 30ca9a05fd37dc17a34fb19f43a78fd8
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4470/1384
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4470/2024
+type: dir
+pred: 1.0.r4469/2866
+count: 4468
+text: 4470 1541 470 470 c73f2c62e15c1346b6b47b7748c4cfa5
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4470/2024
+END
+ENDREP
+id: 0.0.r4470/2219
+type: dir
+pred: 0.0.r4469/3061
+count: 4470
+text: 4470 2170 36 36 c4cec2847f2ce08bd96fab378a68e60a
+cpath: /
+copyroot: 0 /
+
+5g6.zm.r4466/0 delete false false /old/sipXpbx/tags/2.6.2
+
+
+2219 2360

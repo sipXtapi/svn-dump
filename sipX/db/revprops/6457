@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-03-29T17:20:11.668236Z
+K 7
+svn:log
+V 191
+Add pgpatch.sh script that factors out initialization and
+database setup code from sipxconfig.sh to be shared by
+sipXconfig and sipXproxy.
+
+Update sipx-uninstall to uninstall ruby corrcetly.
+
+END

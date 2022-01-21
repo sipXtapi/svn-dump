@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-12T14:23:26.127345Z
+K 7
+svn:log
+V 230
+Checking in Speaker Selection resource and framework to insert it to Topology.
+It's disabled by default, because it is not needed by client applications and there is no open-source SpeakerSelector algorithm implementation anyway.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-05-17T16:01:27.002855Z
+K 7
+svn:log
+V 82
+XCF-997 - Default attendant was not saving values.  Wasnt using decorated settings
+END

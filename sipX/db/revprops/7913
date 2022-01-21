@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-11-01T03:05:07.126973Z
+K 7
+svn:log
+V 81
+Fix handling of SipRedirectorPrivateStorage::TYPE and
+SipRedirectorPickUp::TYPE.
+
+END

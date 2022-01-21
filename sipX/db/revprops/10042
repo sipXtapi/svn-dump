@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-05T20:32:57.560905Z
+K 7
+svn:log
+V 116
+Remove HAVE_GSM and HAVE_SPEEX defines from sipXtackLlib - they are not needed here in the face of ongoing changes.
+
+END

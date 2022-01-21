@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-11-07T21:18:32.196800Z
+K 7
+svn:log
+V 122
+XCF-758 default values for bridge and coference parameters calculated (SIP domain name, organizer code, participant code)
+
+END

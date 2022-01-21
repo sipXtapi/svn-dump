@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-05-11T09:24:39.291840Z
+K 7
+svn:log
+V 308
+First pass coding of the core utilities for the new
+SUBSCIBE server and client.  The client is implemented,
+but not tested.  Unit tests exist for some of the core
+utilities.  This stuff is being checked in so that it
+can be reviewed and so that dependent applications
+currently being developed can proceed.
+
+
+END

@@ -1,0 +1,159 @@
+PLAIN
+K 7
+depcomp
+V 20
+file 94.0.r22/466148
+K 10
+general.m4
+V 20
+file 95.0.r22/467272
+K 10
+install-sh
+V 19
+file 96.0.r23/18939
+K 7
+missing
+V 20
+file 98.0.r22/466428
+K 13
+mkinstalldirs
+V 19
+file 99.0.r23/17995
+K 10
+sipXlib.m4
+V 20
+file 9a.0.r22/466708
+END
+ENDREP
+id: 91.0.r24/262
+type: dir
+pred: 91.0.r23/19558
+count: 4
+text: 24 0 249 249 9a60a0d175931e9e6d1e9700c2e62f4c
+cpath: /old/sipXportLib/main/config
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 19
+file 4.0.r22/520744
+K 9
+ChangeLog
+V 19
+file 5.0.r22/469231
+K 7
+INSTALL
+V 19
+file 6.0.r22/468962
+K 7
+LICENSE
+V 19
+file 7.0.r22/418615
+K 11
+Makefile.am
+V 19
+file 8.0.r22/520210
+K 4
+NEWS
+V 19
+file 9.0.r22/520483
+K 6
+README
+V 19
+file a.0.r22/521014
+K 4
+TODO
+V 19
+file b.0.r22/465601
+K 9
+acsite.m4
+V 19
+file c.0.r22/469495
+K 6
+config
+V 16
+dir 91.0.r24/262
+K 12
+configure.ac
+V 19
+file d.0.r22/419434
+K 7
+include
+V 17
+dir e.0.r23/17828
+K 15
+sipXportLib.dsp
+V 20
+file 4c.0.r22/465318
+K 3
+src
+V 18
+dir 4d.0.r23/24849
+K 12
+syslogviewer
+V 19
+dir 8y.0.r22/419217
+END
+ENDREP
+id: 3.0.r24/1013
+type: dir
+pred: 3.0.r23/25607
+count: 21
+text: 24 422 578 578 bfa289736f40ba5955e570e93b5181e6
+cpath: /old/sipXportLib/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 16
+dir 3.0.r24/1013
+END
+ENDREP
+id: 2.0.r24/1216
+type: dir
+pred: 2.0.r23/25815
+count: 22
+text: 24 1168 35 35 a1c5326706e5bc230166ce1ccd0f916c
+cpath: /old/sipXportLib
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXportLib
+V 16
+dir 2.0.r24/1216
+END
+ENDREP
+id: 1.0.r24/1421
+type: dir
+pred: 1.0.r23/26024
+count: 23
+text: 24 1365 43 43 0a180c8de4131ee2826641c9c0d3822f
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 16
+dir 1.0.r24/1421
+END
+ENDREP
+id: 0.0.r24/1605
+type: dir
+pred: 0.0.r23/26212
+count: 24
+text: 24 1558 34 34 8a245f323b1a3c114a8339991af908cc
+cpath: /
+copyroot: 0 /
+
+92.0.r23/18232 delete false false /old/sipXportLib/main/config/config.guess
+
+93.0.r23/18467 delete false false /old/sipXportLib/main/config/config.sub
+
+97.0.r23/18703 delete false false /old/sipXportLib/main/config/ltmain.sh
+
+
+1605 1739

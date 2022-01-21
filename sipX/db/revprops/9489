@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-08T12:31:51.760198Z
+K 7
+svn:log
+V 153
+Next version of OSS device driver for new framework.
+* Alpha version support of half-duplex devices (need more testing).
+* Big clean up and style fixes.
+
+END

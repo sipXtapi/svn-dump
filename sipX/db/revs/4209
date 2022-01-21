@@ -1,0 +1,250 @@
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 6mp.y8.r4209/60
+type: dir
+pred: 6mp.0.r4198/8135
+count: 5
+text: 4198 7972 150 150 152ac5690cb973cecf2889b25007a1e4
+props: 4209 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpbx/branches/post-2.6.1/bin/sipxssl
+copyroot: 4205 /old/sipXpbx/branches/post-2.6.1
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 6mc.0.r4190/20837
+K 7
+autodel
+V 23
+file 5gh.0.r4094/339900
+K 29
+httpd-sipxchange-config.sh.in
+V 21
+file 5gi.0.r4198/8362
+K 15
+keepalive.sh.in
+V 21
+file 6ma.0.r4143/6597
+K 13
+pd_monitor.in
+V 23
+file 5gj.0.r4094/339075
+K 16
+sipx-snapshot.in
+V 21
+file 6md.0.r4143/6832
+K 10
+sipxpbx.in
+V 23
+file 5gk.y4.r4190/19858
+K 7
+sipxssl
+V 19
+dir 6mp.y8.r4209/60
+END
+ENDREP
+id: 5gg.y8.r4209/724
+type: dir
+pred: 5gg.0.r4198/9006
+count: 26
+text: 4209 332 379 379 e7750e17567053227264d3f5d475b546
+props: 4144 5693 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpbx/branches/post-2.6.1/bin
+copyroot: 4205 /old/sipXpbx/branches/post-2.6.1
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4094/345033
+K 9
+ChangeLog
+V 20
+file 5g8.0.r4133/458
+K 7
+INSTALL
+V 20
+file 5g9.0.r4200/123
+K 7
+LICENSE
+V 23
+file 5ga.0.r4094/296233
+K 11
+Makefile.am
+V 21
+file 5gb.0.r4198/9226
+K 4
+NEWS
+V 23
+file 5gc.0.r4094/344891
+K 6
+README
+V 21
+file 5gd.0.r4191/3404
+K 4
+TODO
+V 23
+file 5ge.0.r4094/299180
+K 9
+acsite.m4
+V 23
+file 5gf.0.r4094/300422
+K 3
+bin
+V 20
+dir 5gg.y8.r4209/724
+K 12
+configure.ac
+V 22
+file 5gl.0.r4190/19627
+K 3
+doc
+V 21
+dir 5gm.y8.r4208/1148
+K 3
+etc
+V 20
+dir 5gp.0.r4202/1783
+K 7
+include
+V 21
+dir 5h2.0.r4151/18040
+K 15
+sipxpbx.spec.in
+V 21
+file 6mo.0.r4198/7494
+K 3
+src
+V 21
+dir 5hb.y8.r4207/2032
+END
+ENDREP
+id: 5g6.y8.r4209/1647
+type: dir
+pred: 5g6.y8.r4208/2018
+count: 107
+text: 4209 992 642 642 aecd463b4549b71ffc132dbb291e94f9
+props: 4180 3032 254 0 35f60484cc30a3f5e68a0cbc3d8302ff
+cpath: /old/sipXpbx/branches/post-2.6.1
+copyroot: 4205 /old/sipXpbx/branches/post-2.6.1
+
+PLAIN
+K 10
+post-2.6.1
+V 21
+dir 5g6.y8.r4209/1647
+END
+ENDREP
+id: 6o1.0.r4209/1975
+type: dir
+pred: 6o1.0.r4208/2347
+count: 5
+text: 4209 1915 47 47 f966c8a3996525d605cbea18d5cc7855
+cpath: /old/sipXpbx/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 6o1.0.r4209/1975
+K 4
+main
+V 20
+dir 5g6.0.r4203/3827
+K 4
+tags
+V 20
+dir 5kn.0.r4134/2736
+END
+ENDREP
+id: 5g5.0.r4209/2263
+type: dir
+pred: 5g5.0.r4208/2635
+count: 116
+text: 4209 2137 113 113 5d4e01e70036634b5e034aabe26e6421
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4209/2263
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4209/2903
+type: dir
+pred: 1.0.r4208/3275
+count: 4207
+text: 4209 2420 470 470 4c41ab07b14d7842a7463dbeb80a90cb
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4209/2903
+END
+ENDREP
+id: 0.0.r4209/3098
+type: dir
+pred: 0.0.r4208/3470
+count: 4209
+text: 4209 3049 36 36 6ca41c1274138bf5b45f8fa43a8794e5
+cpath: /
+copyroot: 0 /
+
+6mp.y8.t4208-1 modify false true /old/sipXpbx/branches/post-2.6.1/bin/sipxssl
+
+
+3098 3239

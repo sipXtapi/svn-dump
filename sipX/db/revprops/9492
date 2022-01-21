@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-05-08T13:19:48.480079Z
+K 7
+svn:log
+V 246
+Beta version of half-duplex device support in OSS device driver.
+Tested with mic-only headset and worked fine.
+Some half-duplex devices do not support signed 16 bit audio (e.g. Logitech QuickCam MP with internal mic), and they are not supported.
+
+END

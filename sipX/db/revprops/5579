@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-11-14T18:09:39.407975Z
+K 7
+svn:log
+V 262
+Another indexing optimization:
+- since hibernate knows the difference between adding and updating the object we only need to remove old data from index (open index reader) when object is updated, when a new instance is added we just add a new entry to the index
+
+END

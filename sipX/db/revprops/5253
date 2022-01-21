@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2005-10-03T01:31:01.578461Z
+K 7
+svn:log
+V 59
+Added back the MSVS dsp file for the sipXmediaLib
+project.
+
+END

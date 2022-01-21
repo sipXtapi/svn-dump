@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-02-16T20:39:28.498140Z
+K 7
+svn:log
+V 48
+Clean up svn: properties and EOLs on XML files.
+
+END

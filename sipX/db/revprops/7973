@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2006-11-08T16:02:42.174995Z
+K 7
+svn:log
+V 87
+The HttpServer has its realm hard coded to "xpressa" when check basic authentication.
+
+
+END

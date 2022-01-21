@@ -1,0 +1,266 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-04-19T20:04:52.215946Z
+K 7
+svn:log
+V 12320
+Merged revisions 9257-9367 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/main
+
+................
+  r9259 | dkrzemin | 2007-04-05 18:00:47 -0400 (Thu, 05 Apr 2007) | 3 lines
+  
+  XPB-1008 acount for multiple 'setup' and 'end' events on the same call leg: it fixes several problems related to calculating call duration
+  improve handling of the 'failed' event so that calls do not get treated as failed prematurely (it resulted in some calls never showing up in Acive window, they were still displayed in Historic CDR list)
+................
+  r9261 | dworley | 2007-04-05 23:14:59 -0400 (Thu, 05 Apr 2007) | 2 lines
+  
+  Copy the Interop server configuration files from SIPfoundry Main rev. 9260.
+................
+  r9262 | dworley | 2007-04-05 23:22:32 -0400 (Thu, 05 Apr 2007) | 4 lines
+  
+  Revert to rev. 9241, before the changes to update the configuration
+  for the "Big-P" code base.  Rev. 9241 is the last version that is
+  compatible with the SIPfoundry Main code base.
+................
+  r9269 | lazyboy | 2007-04-06 14:02:17 -0400 (Fri, 06 Apr 2007) | 1 line
+  
+  XCF-1608 - Workaround hibernate known limitation regarding null in maps. Allow settings values set to NULL and rewrite them to be blank in collection, then return NULL back when getting setting value.  This ineffect means we cannot distinguish blank strings from NULL but this is acceptable
+................
+  r9270 | lazyboy | 2007-04-06 14:03:28 -0400 (Fri, 06 Apr 2007) | 1 line
+  
+  XCF-1608 more files to last commit
+................
+  r9272 | dkrzemin | 2007-04-06 15:17:11 -0400 (Fri, 06 Apr 2007) | 2 lines
+  
+  XCF-1573 fix Confirm PIN label (patch from Gheorghe Arama - thanks!)
+................
+  r9274 | dworley | 2007-04-06 16:09:20 -0400 (Fri, 06 Apr 2007) | 4 lines
+  
+  mergefrom pingtel-main 8148
+  
+  Remove some preprocessor symbol definitions that are no longer being used.
+................
+  r9276 | dkrzemin | 2007-04-06 17:54:10 -0400 (Fri, 06 Apr 2007) | 2 lines
+  
+  "call-park" should actually be "call_park" (patch from Paul Mossman - thanks!)
+................
+  r9281 | xmlscott | 2007-04-09 07:53:50 -0400 (Mon, 09 Apr 2007) | 1 line
+  
+  [XPB-975] be tolerant of blank lines in SDP
+................
+  r9283 | dkrzemin | 2007-04-09 13:34:09 -0400 (Mon, 09 Apr 2007) | 2 lines
+  
+  Partially revert changes introduced in revision 9125. Looks like sipXconfig cannot compute AudioCodes gateway MAC address from the gateway's serial number. sipXconfig will require user to enter device MAC address directly. 
+................
+  r9284 | lazyboy | 2007-04-09 13:50:20 -0400 (Mon, 09 Apr 2007) | 1 line
+  
+  XCF-1624 - Upgrade polycom 2.0 support to 2.1 (still need to change labels to 1.X and 2.X) by taking a whole new approach to polycom profiles. according to a whitepaper published by polycom, we should be installing pristine copies of the profile templates shipped with polycom firmware and only be generate configuration settings that sipxconfig supports.  Therefore we can remove boilerplate content from our velocity files.  This also means that uploading new firmware will provide a new set of pristine templates automatically
+................
+  r9290 | lih | 2007-04-09 16:15:12 -0400 (Mon, 09 Apr 2007) | 10 lines
+  
+  XPB-756: Starting sipXpbx changes file ownership and permission of /user/bin/sipXvxml
+  
+  Apply Misha's patch
+  
+  sipxpbx checks if sipXvxml has the right ownership and permission
+  if it does not, change it so that it has the right ownership and permission.
+  Otherwise, leave it alone.
+  
+  (The previous version changes sipXvxml without doing the check first.) 
+................
+  r9297 | woof | 2007-04-09 17:55:36 -0400 (Mon, 09 Apr 2007) | 12 lines
+  
+  Revamp MpStreamPlaylistPlayer to support unlimited number of prompt entries.
+  
+  Previous version used a fixed sized array, with a MAX of 40 prompts.
+  This isn't big enough for some of the existing VoiceXML scripts
+  (dial by name, for example).  Rather than just making it bigger, I
+  reworked the code to use a UtlSList instead of an array. 
+  
+  Fixes XPB-245 (When dialbyname finds too many matches, sometimes, the transfer
+  using dialbyname doesn't complete.)
+  
+  --Woof!
+................
+  r9298 | dkrzemin | 2007-04-09 18:01:02 -0400 (Mon, 09 Apr 2007) | 2 lines
+  
+  XCF-886 allow for downloading AC auxilary files
+................
+  r9299 | woof | 2007-04-09 18:19:27 -0400 (Mon, 09 Apr 2007) | 23 lines
+  
+  Fixed XPB-867 Media Server crashes when receives an INVITE with multipart/mixed content type SDP
+  
+  Merged contribution from Huijun Yang.  He writes:
+  
+  By adding the following line in SipMessageTest::testMultipartBody(), ( please
+  see attached patch for details), I was able to reproduce the crash. 
+  
+  sdpBody->findMediaType("audio", 0); 
+  
+  Here is the cause: 
+  
+  - In SipMessage::getSdpBody, it forcely cast the pointer to object of
+    MimeBodyPart to SdpBody*. It is wrong, as an object of MimeBodyPart is NOT
+  an object of SdpBody. It caused an invalid memory access and resulted in the
+  crash. 
+  
+  - Also, MimeBodyPart is a subclass of HttpBody. Because HttpBody has
+    user-defined constructor, according C++ rule, MimeBodyPart MUST invoke
+  HttpBody constructor during base initialization. 
+  
+  Verified the fix, and the modified test case SipMessageTest::testMultipartBody
+  passed without crash.
+................
+  r9302 | lazyboy | 2007-04-10 09:52:07 -0400 (Tue, 10 Apr 2007) | 1 line
+  
+  XCF-1628 - Do not reset speeddial or phonebook schema each restart, enough time has passed from incompatible schema
+................
+  r9303 | lazyboy | 2007-04-10 10:31:35 -0400 (Tue, 10 Apr 2007) | 1 line
+  
+  XCF-1627 - Add 'Save and Update Phones' button to user speed dial page
+................
+  r9304 | lazyboy | 2007-04-10 14:30:35 -0400 (Tue, 10 Apr 2007) | 1 line
+  
+  ENG-782 Add abiity to specify a remote host to communicate with
+................
+  r9307 | martin | 2007-04-10 16:10:59 -0400 (Tue, 10 Apr 2007) | 2 lines
+  
+  Italian GUI translation contribiuted by Nextel Italia (thanks!)
+................
+  r9308 | lazyboy | 2007-04-10 16:14:36 -0400 (Tue, 10 Apr 2007) | 1 line
+  
+  XCF-1435 - Do not validate the speed dial form unless attempting to save speed dail entries
+................
+  r9309 | lazyboy | 2007-04-10 16:17:33 -0400 (Tue, 10 Apr 2007) | 1 line
+  
+  Remove invalid option 'r' to filetail logger, error only showed when ruby was put into debug mode
+................
+  r9310 | lazyboy | 2007-04-10 17:12:28 -0400 (Tue, 10 Apr 2007) | 1 line
+  
+  XCF-1129 - Look for existing line on phone with imported user id, if so, do not add another line, the exiting line and line postion is untouched (e.g. if it is the second line, it will continue to be the second line)
+................
+  r9315 | lazyboy | 2007-04-11 09:00:24 -0400 (Wed, 11 Apr 2007) | 1 line
+  
+  XCF-1577 - Purge all but N backups on next backup, where N is the alotted backup count
+................
+  r9321 | dworley | 2007-04-11 11:33:45 -0400 (Wed, 11 Apr 2007) | 3 lines
+  
+  Remove dialing rule for '0' from fallbackrules, as it is handled in
+  mappingrules.
+................
+  r9323 | lazyboy | 2007-04-11 13:38:26 -0400 (Wed, 11 Apr 2007) | 1 line
+  
+  XCF-1532 - Load voicemails lazily to avoid tapestry bug that attempts to use table model before page as initialized it
+................
+  r9324 | dworley | 2007-04-11 13:40:50 -0400 (Wed, 11 Apr 2007) | 2 lines
+  
+  Add test of call pick-up directed toward a forked call.
+................
+  r9328 | lazyboy | 2007-04-11 15:32:25 -0400 (Wed, 11 Apr 2007) | 1 line
+  
+  Remove checkstyle warning about System.err
+................
+  r9329 | lazyboy | 2007-04-11 15:34:30 -0400 (Wed, 11 Apr 2007) | 1 line
+  
+  Fix localization glitch that chopped off resource strings 
+................
+  r9330 | lazyboy | 2007-04-11 15:38:28 -0400 (Wed, 11 Apr 2007) | 1 line
+  
+  XCF-1530 Return 404 when a file resource is not available
+................
+  r9331 | lazyboy | 2007-04-11 17:00:24 -0400 (Wed, 11 Apr 2007) | 1 line
+  
+  XCF-1548 - Make minor voicemail string changes, except explicit delete button on saved and inbox page.  that would leave 'move to' choice box with one 1 element which would be silly
+................
+  r9336 | lazyboy | 2007-04-12 10:08:55 -0400 (Thu, 12 Apr 2007) | 1 line
+  
+  XCF-1598 - Use number for label when generating resource list xml configuration, label is not longer required as at least one phone, lgnortel phone does not show a label.  Plus using the number as the label is often exactly what the user wants
+................
+  r9337 | lazyboy | 2007-04-12 10:09:59 -0400 (Thu, 12 Apr 2007) | 1 line
+  
+  XCF-1609 - Allow base phone class to delete profile when phone is deleted.  this was introduced when phonebook support was added
+................
+  r9339 | lazyboy | 2007-04-12 11:28:51 -0400 (Thu, 12 Apr 2007) | 1 line
+  
+  XCF-1649 - Highlight current ACD historic report as active tab
+................
+  r9345 | lazyboy | 2007-04-12 15:48:28 -0400 (Thu, 12 Apr 2007) | 1 line
+  
+  XCF-1645 Remove extraneous granstream configuration settings, gs was writing text files by default (not binary)
+................
+  r9350 | dkrzemin | 2007-04-12 18:26:49 -0400 (Thu, 12 Apr 2007) | 3 lines
+  
+  Initialized merge tracking via "svnmerge" with revisions "8603" from 
+  https://scm.sipfoundry.org/rep/sipX/branches/freeswitch
+................
+  r9351 | dkrzemin | 2007-04-12 18:33:15 -0400 (Thu, 12 Apr 2007) | 2 lines
+  
+  Fix svnmerge property.
+................
+  r9352 | dkrzemin | 2007-04-12 18:54:54 -0400 (Thu, 12 Apr 2007) | 33 lines
+  
+  Merged revisions 8607-8610,8613-8615,8617,8619-8625,8627,8629-8637,8640-8661,8663-8668,8670-8686,8688-8813,8815-9259,9261-9348,9350-9351 via svnmerge from 
+  https://scm.sipfoundry.org/rep/sipX/branches/freeswitch
+  
+  ........
+    r8607 | urtho | 2007-01-23 16:19:35 -0500 (Tue, 23 Jan 2007) | 1 line
+    
+    Polish UI translation
+  ........
+    r9277 | urtho | 2007-04-06 19:55:34 -0400 (Fri, 06 Apr 2007) | 1 line
+    
+    updated Polish UI translation
+  ........
+    r9300 | urtho | 2007-04-09 20:07:59 -0400 (Mon, 09 Apr 2007) | 1 line
+    
+    complete web/ Polish UI translation, neoconf translation is next
+  ........
+    r9301 | urtho | 2007-04-09 20:29:29 -0400 (Mon, 09 Apr 2007) | 1 line
+    
+    Updated Polish translation of neoconf
+  ........
+    r9311 | urtho | 2007-04-10 20:21:46 -0400 (Tue, 10 Apr 2007) | 1 line
+    
+    partial Polish SNOM config translation
+  ........
+    r9332 | urtho | 2007-04-11 18:47:12 -0400 (Wed, 11 Apr 2007) | 1 line
+    
+    Polish UI translation cleanup phase 1 of 2
+  ........
+    r9347 | urtho | 2007-04-12 17:02:43 -0400 (Thu, 12 Apr 2007) | 1 line
+    
+    Completed (all existing properties files) Polish UI translation
+  ........
+................
+  r9353 | martin | 2007-04-12 21:14:34 -0400 (Thu, 12 Apr 2007) | 2 lines
+  
+  Change lable "Files" -> "Device Files"
+................
+  r9356 | lazyboy | 2007-04-13 15:29:59 -0400 (Fri, 13 Apr 2007) | 7 lines
+  
+  NT-95 
+  1. Statistics about abandoned calls where missing because query looked at pickup time which would never be set, should be looking at terminate time
+  2. Add descriptions and help text about the report information in general and many reports for data that may not be obvisous
+  3. Fix report on total signed-in time, was much higher than it should have been due to a grouping across SQL join than cannot work in one SQL command.  I had to split agent total signin time into a separate report called 'Agent Availablity Summary' to which I added max sign in time.
+  4. Separate statistics about queue calls summary across 3 reports, calls that were answered and not answered, then finer level of details about answered and unansered into respective reports.  Again, limitation of grouping data across a join
+................
+  r9357 | lazyboy | 2007-04-13 15:59:34 -0400 (Fri, 13 Apr 2007) | 1 line
+  
+  Fix from grammatical errors on ACD historic reports descriptions
+................
+  r9358 | lazyboy | 2007-04-13 17:50:30 -0400 (Fri, 13 Apr 2007) | 1 line
+  
+  XCF-1641 supervisor page was only adding to groups list, not setting it
+................
+  r9359 | lazyboy | 2007-04-13 18:08:25 -0400 (Fri, 13 Apr 2007) | 1 line
+  
+  XCF-1635 - Allow CSV import format to drop commas for trailing columns
+................
+
+END

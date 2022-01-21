@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-05-08T23:08:57.898899Z
+K 7
+svn:log
+V 339
+new resource messaging approach to playBuffer implemented.
+PlayFile now properly fixed so it uses playBuffer underneath.
+Broke out and did some code cleanup of the audio file reading routines - for code-reuse (needed static audio file reading code).
+
+Tested with CallFlowGraph and TopologyFlowGraph under windows XP, compiled using vs2005.
+END

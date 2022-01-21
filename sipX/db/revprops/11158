@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-08T12:56:26.688540Z
+K 7
+svn:log
+V 88
+sipXmediaLib: Fix L16 codec output dll name.
+Thanks to David Suh for pointing this out.
+
+END

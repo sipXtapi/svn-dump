@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-07-27T08:16:56.451890Z
+K 7
+svn:log
+V 608
+Merged revisions 7125,7127 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7125 | bob | 2006-07-27 00:04:42 +0400 | 3 lines
+  
+  Start processing inbound audio immediately -- don't wait for a 183/200.  I need to track down who made this change and why.
+........
+  r7127 | bob | 2006-07-27 00:09:48 +0400 | 6 lines
+  
+  WIP: A number of turn-related parsing update to allow compability with behave-turn-01.  Not everything is here yet, but making progress.
+  
+  I also fixed a few issues in the contact database, where we were creating incorrect RELAY contacts.
+........
+
+END

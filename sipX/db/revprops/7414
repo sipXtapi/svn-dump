@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-09-05T18:08:25.824066Z
+K 7
+svn:log
+V 433
+[XPR-180] Allow From header rewriting - complete
+  This last change modifies the behavior so that wildcard caller
+  aliases are NOT used when the callers identity is from some other
+  domain.
+
+  Implementing this moved the tracking of the authoritative domains
+  from SipRegistrarServer (which is the registry side) up to
+  SipRegistrar (which is really the main module) so that it could be
+  shared easily from the redirect server.
+
+END

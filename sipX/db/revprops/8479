@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2007-01-09T22:31:50.076731Z
+K 7
+svn:log
+V 91
+XCF-1417 add mapping rule that routes resource list URI ( ~~rl~. ) to Resource List Server
+
+END

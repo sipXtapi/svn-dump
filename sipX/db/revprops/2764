@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-08-31T18:53:08.050170Z
+K 7
+svn:log
+V 43
+Remove catch of signal 63, formatting fixes
+END

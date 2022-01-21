@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-10-30T16:51:15.927956Z
+K 7
+svn:log
+V 101
+When copying a NAPTR record, access the "naptr" element of the union,
+rather than the "srv" element.
+
+END

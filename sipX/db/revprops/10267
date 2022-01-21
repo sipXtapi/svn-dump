@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-10-04T18:10:10.402313Z
+K 7
+svn:log
+V 144
+Fix FlowGraphTest, GenericResourceTest, MediaTaskTest to they compile and run with dynamic codec loading functionality - specifying codec paths.
+END

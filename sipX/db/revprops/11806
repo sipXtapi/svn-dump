@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2011-12-07T03:29:32.461902Z
+K 7
+svn:log
+V 83
+Added member flag for encoder to request RTP marker bit to be set
+  needed for AAC
+
+END

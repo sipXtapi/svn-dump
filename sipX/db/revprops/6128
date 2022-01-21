@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-02-14T14:52:26.258929Z
+K 7
+svn:log
+V 184
+Add support for a single-system installation
+  (do not generate the registry and authproxy addresses, since
+   they are used only in an HA configuration)
+Really fix the comment lines.
+
+END

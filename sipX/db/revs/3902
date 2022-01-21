@@ -1,0 +1,622 @@
+PLAIN
+K 28
+GetRegistrationsXMLBean.java
+V 23
+file 2l4.0.r3393/180065
+K 17
+ResourceBean.java
+V 23
+file 2l8.0.r3393/182418
+K 4
+util
+V 22
+dir 2l9.0.r3393/183174
+END
+ENDREP
+id: 2l2.0.r3902/169
+type: dir
+pred: 2l2.0.r3679/61816
+count: 10
+text: 3902 0 156 156 cef25947199968b765ebb30b5fd6fa65
+cpath: /old/sipXconfig/main/profilegenerator/commserver/src/com/pingtel/commserver/beans
+copyroot: 0 /
+
+PLAIN
+K 5
+beans
+V 19
+dir 2l2.0.r3902/169
+K 7
+utility
+V 22
+dir 2lb.0.r3393/179752
+END
+ENDREP
+id: 2l1.0.r3902/483
+type: dir
+pred: 2l1.0.r3679/62138
+count: 11
+text: 3902 391 79 79 b5c45ecf82ea8593aa5045d8391b66aa
+cpath: /old/sipXconfig/main/profilegenerator/commserver/src/com/pingtel/commserver
+copyroot: 0 /
+
+PLAIN
+K 10
+commserver
+V 19
+dir 2l1.0.r3902/483
+END
+ENDREP
+id: 2l0.0.r3902/757
+type: dir
+pred: 2l0.0.r3679/62419
+count: 11
+text: 3902 699 45 45 6f108fb145e19860d5063e27e51bc19e
+cpath: /old/sipXconfig/main/profilegenerator/commserver/src/com/pingtel
+copyroot: 0 /
+
+PLAIN
+K 7
+pingtel
+V 19
+dir 2l0.0.r3902/757
+END
+ENDREP
+id: 2kz.0.r3902/1016
+type: dir
+pred: 2kz.0.r3679/62685
+count: 11
+text: 3902 962 41 41 186557dfdb713cf0231f976976496a67
+cpath: /old/sipXconfig/main/profilegenerator/commserver/src/com
+copyroot: 0 /
+
+PLAIN
+K 3
+com
+V 20
+dir 2kz.0.r3902/1016
+K 4
+test
+V 22
+dir 4bv.0.r3856/164566
+END
+ENDREP
+id: 2ky.0.r3902/1302
+type: dir
+pred: 2ky.0.r3856/164858
+count: 13
+text: 3902 1214 75 75 3a95d0ffe35499b5e6221fbad9a2b214
+cpath: /old/sipXconfig/main/profilegenerator/commserver/src
+copyroot: 0 /
+
+PLAIN
+K 25
+authproxy-config-defs.xml
+V 23
+file 4bk.0.r3393/186738
+K 21
+proxy-config-defs.xml
+V 23
+file 4bq.0.r3393/185312
+K 25
+registrar-config-defs.xml
+V 23
+file 4br.0.r3393/186376
+K 28
+statusserver-config-defs.xml
+V 23
+file 4bs.0.r3393/188518
+END
+ENDREP
+id: 4bj.0.r3902/1754
+type: dir
+pred: 4bj.0.r3856/166490
+count: 4
+text: 3902 1498 243 243 d1c3be96e5460a93fcaf5d83d5166c01
+cpath: /old/sipXconfig/main/profilegenerator/commserver/etc
+copyroot: 0 /
+
+PLAIN
+K 9
+build.xml
+V 23
+file 2kx.0.r3393/190044
+K 3
+etc
+V 20
+dir 4bj.0.r3902/1754
+K 3
+src
+V 20
+dir 2ky.0.r3902/1302
+END
+ENDREP
+id: 2kw.0.r3902/2079
+type: dir
+pred: 2kw.0.r3856/166823
+count: 18
+text: 3902 1951 115 115 db73f732f68eed3676961eeaefd45140
+props: 3055 2420 58 0 9bd913181988d6d5d50f744ca439a2c9
+cpath: /old/sipXconfig/main/profilegenerator/commserver
+copyroot: 0 /
+
+PLAIN
+K 21
+globalconfig_cmd.html
+V 23
+file 2u6.0.r3393/354301
+K 21
+registrations_cmd.jsp
+V 23
+file 2u7.0.r3393/353921
+K 20
+serverconfig_cmd.jsp
+V 23
+file 2u8.0.r3393/353541
+END
+ENDREP
+id: 2u3.0.r3902/2512
+type: dir
+pred: 2u3.0.r3393/354888
+count: 2
+text: 3902 2328 171 171 9c98b436838f13bb5ca507a5985f4628
+cpath: /old/sipXconfig/main/profilegenerator/webui/site/commserver/command
+copyroot: 0 /
+
+PLAIN
+K 7
+command
+V 20
+dir 2u3.0.r3902/2512
+K 26
+definitions_add_popup.html
+V 23
+file 2u9.0.r3393/351683
+K 5
+error
+V 22
+dir 2ub.0.r3856/224252
+K 21
+globaldefinitions.jsp
+V 22
+file 2ue.0.r3767/13132
+K 26
+globaldefinitions_save.jsp
+V 23
+file 2uf.0.r3393/350943
+K 4
+help
+V 22
+dir 2ug.0.r3856/223702
+K 6
+images
+V 21
+dir 361.0.r3392/60862
+K 10
+index.html
+V 23
+file 367.0.r3393/352430
+K 9
+main.html
+V 23
+file 368.0.r3393/212526
+K 15
+navigation.html
+V 23
+file 369.0.r3393/349132
+K 24
+registration_details.jsp
+V 23
+file 36a.0.r3856/225361
+K 6
+script
+V 22
+dir 36b.0.r3856/224864
+K 16
+serverconfig.jsp
+V 22
+file 36e.0.r3767/12852
+K 21
+serverconfig_save.jsp
+V 23
+file 36f.0.r3393/350569
+K 10
+status.jsp
+V 23
+file 36g.0.r3393/355187
+K 4
+xslt
+V 22
+dir 36k.0.r3393/348109
+END
+ENDREP
+id: 2u2.0.r3902/3493
+type: dir
+pred: 2u2.0.r3856/226580
+count: 13
+text: 3902 2724 756 756 54b4c4c8efc658efce9bac71a2d04611
+cpath: /old/sipXconfig/main/profilegenerator/webui/site/commserver
+copyroot: 0 /
+
+PLAIN
+K 6
+_notes
+V 22
+dir 2u0.0.r3856/227401
+K 10
+commserver
+V 20
+dir 2u2.0.r3902/3493
+K 5
+image
+V 21
+dir 36n.0.r3392/66725
+K 9
+index.jsp
+V 23
+file 4b9.0.r3856/226788
+K 5
+login
+V 22
+dir 370.0.r3856/249708
+K 5
+style
+V 22
+dir 3b5.0.r3856/173441
+K 2
+ui
+V 20
+dir 3b9.0.r3895/5443
+K 4
+xslt
+V 22
+dir 42x.0.r3856/253257
+END
+ENDREP
+id: 2tz.0.r3902/4022
+type: dir
+pred: 2tz.0.r3895/5966
+count: 37
+text: 3902 3698 311 311 b3cde6836ad6a2022535a3f5d658f95b
+cpath: /old/sipXconfig/main/profilegenerator/webui/site
+copyroot: 0 /
+
+PLAIN
+K 9
+build.xml
+V 22
+file 2tp.0.r3742/85768
+K 4
+meta
+V 22
+dir 2tq.0.r3856/352023
+K 4
+site
+V 20
+dir 2tz.0.r3902/4022
+K 3
+src
+V 21
+dir 448.0.r3875/15707
+END
+ENDREP
+id: 2to.0.r3902/4380
+type: dir
+pred: 2to.0.r3895/6324
+count: 48
+text: 3902 4214 153 153 34c19e3da398b3beea2603656505a32b
+props: 3055 3058 58 0 9bd913181988d6d5d50f744ca439a2c9
+cpath: /old/sipXconfig/main/profilegenerator/webui
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 22
+file 4dt.ij.r3875/3871
+K 8
+.project
+V 24
+file 4du.ik.r3393/201010
+K 11
+Makefile.am
+V 23
+file 4bd.0.r3393/209687
+K 14
+authentication
+V 20
+dir 2kk.0.r3582/2580
+K 9
+build.xml
+V 23
+file 2kv.0.r3393/806918
+K 10
+commserver
+V 20
+dir 2kw.0.r3902/2079
+K 6
+deploy
+V 21
+dir 2lh.0.r3767/22899
+K 3
+ejb
+V 20
+dir 2lt.0.r3900/8834
+K 4
+meta
+V 22
+dir 2sa.0.r3856/172841
+K 4
+soap
+V 22
+dir 2sv.0.r3856/168860
+K 5
+webui
+V 20
+dir 2to.0.r3902/4380
+END
+ENDREP
+id: 2kj.0.r3902/5085
+type: dir
+pred: 2kj.0.r3900/9539
+count: 140
+text: 3902 4622 450 450 6752b20e9262526954c4d3ccf95f38d9
+props: 3150 117388 59 0 cf767147ee0d0b2bf8fb1622b541bbec
+cpath: /old/sipXconfig/main/profilegenerator
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 22
+file 2hg.0.r3393/21790
+K 9
+ChangeLog
+V 20
+file 2hh.0.r3490/576
+K 7
+INSTALL
+V 20
+file 2hi.0.r3772/466
+K 7
+LICENSE
+V 23
+file 2hj.0.r3393/851332
+K 11
+Makefile.am
+V 21
+file 2hk.0.r3840/3353
+K 4
+NEWS
+V 23
+file 2hl.0.r3393/808567
+K 6
+README
+V 21
+file 2hm.0.r3573/5968
+K 4
+TODO
+V 21
+file 2hn.0.r3573/6199
+K 9
+acsite.m4
+V 22
+file 2ho.0.r3393/21475
+K 14
+ant-targets.am
+V 23
+file 2hp.0.r3742/119328
+K 15
+ant-targets.xml
+V 20
+file 2hq.0.r3788/170
+K 3
+bin
+V 19
+dir 4bz.0.r3641/393
+K 9
+build.xml
+V 22
+file 4h8.0.r3393/22103
+K 6
+common
+V 22
+dir 2hs.0.r3856/104949
+K 20
+config.properties.in
+V 21
+file 2jf.0.r3890/9446
+K 12
+configure.ac
+V 19
+file 2jg.0.r3722/68
+K 3
+doc
+V 20
+dir 2jh.0.r3857/9608
+K 3
+etc
+V 22
+dir 4b7.0.r3393/927179
+K 3
+lib
+V 21
+dir 2jy.0.r3857/13718
+K 4
+meta
+V 20
+dir 4ea.0.r3859/3594
+K 7
+neoconf
+V 20
+dir 4eo.0.r3901/1552
+K 16
+profilegenerator
+V 20
+dir 2kj.0.r3902/5085
+K 23
+profilepub_sipagent.dsp
+V 22
+file 4b5.0.r3393/16177
+K 16
+profilepublisher
+V 22
+dir 485.0.r3856/405168
+K 13
+profilewriter
+V 22
+dir 4a9.0.r3856/111977
+K 12
+sipagent-jni
+V 21
+dir 48h.h9.r3826/5317
+K 26
+sipx-jboss-configure.patch
+V 23
+file 4bi.0.r3393/927483
+K 18
+sipxconfig.spec.in
+V 20
+file 4bh.0.r3650/477
+K 18
+subant-targets.xml
+V 21
+file 4h9.0.r3453/6142
+K 3
+web
+V 20
+dir 4l5.0.r3899/7226
+END
+ENDREP
+id: 2hf.0.r3902/6631
+type: dir
+pred: 2hf.0.r3901/3087
+count: 644
+text: 3902 5324 1294 1294 4e80b470aa1ab2af24ef7de36596f3ba
+props: 3884 34833 919 0 b6db61a7c7314b6bbb61c600bc1c23dd
+cpath: /old/sipXconfig/main
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 4c1.0.r3897/15804
+K 4
+main
+V 20
+dir 2hf.0.r3902/6631
+K 4
+tags
+V 20
+dir 4b6.0.r3877/2678
+END
+ENDREP
+id: 2he.0.r3902/6982
+type: dir
+pred: 2he.0.r3901/3439
+count: 877
+text: 3902 6855 114 114 915982315e1b3761c0536ab64ab4b14b
+cpath: /old/sipXconfig
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 20
+dir 2he.0.r3902/6982
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r3902/7586
+type: dir
+pred: 1.0.r3901/4044
+count: 3900
+text: 3902 7142 431 431 a95cbbec1dce65234a0bff921c4a2826
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r3902/7586
+END
+ENDREP
+id: 0.0.r3902/7781
+type: dir
+pred: 0.0.r3901/4240
+count: 3902
+text: 3902 7732 36 36 94e255ac1f9c9eeae127b986c7bfd140
+cpath: /
+copyroot: 0 /
+
+2l6.0.r3393/182024 delete false false /old/sipXconfig/main/profilegenerator/commserver/src/com/pingtel/commserver/beans/ProcessDialPlansBean.java
+
+36h.0.r3856/173643 delete false false /old/sipXconfig/main/profilegenerator/webui/site/commserver/update_dialplan.jsp
+
+4bp.0.r3856/165334 delete false false /old/sipXconfig/main/profilegenerator/commserver/etc/gateway.xslt
+
+2u5.0.r3393/353164 delete false false /old/sipXconfig/main/profilegenerator/webui/site/commserver/command/gateways_cmd.html
+
+2u4.0.r3393/352789 delete false false /old/sipXconfig/main/profilegenerator/webui/site/commserver/command/dialplan_cmd.html
+
+2l7.0.r3393/181234 delete false false /old/sipXconfig/main/profilegenerator/commserver/src/com/pingtel/commserver/beans/ProcessGatewaysBean.java
+
+2l3.0.r3393/181628 delete false false /old/sipXconfig/main/profilegenerator/commserver/src/com/pingtel/commserver/beans/GetDestinationsXMLBean.java
+
+36i.0.r3393/348405 delete false false /old/sipXconfig/main/profilegenerator/webui/site/commserver/update_gateway.jsp
+
+4by.0.r3393/186023 delete false false /old/sipXconfig/main/profilegenerator/commserver/etc/fallbackrules.xslt
+
+4bm.0.r3393/185670 delete false false /old/sipXconfig/main/profilegenerator/commserver/etc/destinations.xml
+
+4bt.0.r3856/165057 delete false false /old/sipXconfig/main/profilegenerator/commserver/etc/viewdigitmaps.xslt
+
+4bl.0.r3393/187100 delete false false /old/sipXconfig/main/profilegenerator/commserver/etc/authrules.xslt
+
+4bo.0.r3393/187808 delete false false /old/sipXconfig/main/profilegenerator/commserver/etc/forwardingrules.xslt
+
+36j.0.r3856/225077 delete false false /old/sipXconfig/main/profilegenerator/webui/site/commserver/viewdigitmaps.jsp
+
+4bn.0.r3856/165606 delete false false /old/sipXconfig/main/profilegenerator/commserver/etc/dialplan.xslt
+
+2l5.0.r3393/180839 delete false false /old/sipXconfig/main/profilegenerator/commserver/src/com/pingtel/commserver/beans/ProcessDestinationsBean.java
+
+
+7781 7922

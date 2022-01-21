@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-06-07T21:44:34.251490Z
+K 7
+svn:log
+V 291
+Simple dependency management between ant projects based on ideas from: http://www.exubero.com/ant/dependencies.html
+
+In web project instead of
+
+ant default install
+
+One can now call
+
+ant default.deps install
+
+And ant will make sure that neoconf project is build before building web project.
+
+END

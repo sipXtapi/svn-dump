@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-03-09T21:12:22.698501Z
+K 7
+svn:log
+V 165
+Closing sipXconfig/3.3 branch:
+svn merge https://scm.sipfoundry.org/rep/sipX/main/sipXconfig@6325 https://scm.sipfoundry.org/rep/sipX/branches/sipXconfig/3.3@6325 .
+
+END

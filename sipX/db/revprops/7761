@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2006-10-16T20:29:55.703353Z
+K 7
+svn:log
+V 74
+Fixed the MSVS6 dsp files so that the release configuration works again.
+
+
+END

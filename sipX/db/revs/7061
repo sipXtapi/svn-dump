@@ -1,0 +1,98 @@
+PLAIN
+K 3
+2.6
+V 21
+dir 7pu.0.r4813/23285
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r6684/6307
+K 3
+3.4
+V 23
+dir 7q4.3ib.r7056/13223
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r6919/2247
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 21
+dir 9wi.0.r6974/28863
+K 21
+sipXtapi-media-update
+V 23
+dir 9wi.3ke.r7054/34018
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 21
+user_dworley_redirect
+V 21
+dir 7q1.0.r4813/16183
+END
+ENDREP
+id: 7pt.0.r7061/667
+type: dir
+pred: 7pt.0.r7056/14173
+count: 725
+text: 7061 0 654 654 e6e96bfd921eafdd84f5a0e9bf50b9bc
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 7pt.0.r7061/667
+K 4
+main
+V 21
+dir 7q4.0.r7060/18369
+K 4
+tags
+V 21
+dir 7q5.0.r5758/18354
+END
+ENDREP
+id: 0.0.r7061/945
+type: dir
+pred: 0.0.r7060/18708
+count: 7061
+text: 7061 818 114 114 030637da64d63c38867050046fc928b1
+cpath: /
+copyroot: 0 /
+
+7q4.39l.r6816/2732 delete false false /branches/solaris_port
+
+
+945 1087

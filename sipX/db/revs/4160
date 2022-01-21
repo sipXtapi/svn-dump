@@ -1,0 +1,241 @@
+id: 6mf.y6.r4160/0
+type: file
+pred: 6mf.0.r4159/19982
+count: 1
+text: 4159 0 698 821 0a2eb8e2335bdeefeac5b87c0da2cc82
+cpath: /old/sipXpbx/main/doc/developer/README
+copyfrom: 4159 /old/sipXpbx/main/doc/developer/!README!
+
+PLAIN
+K 18
+INSTALLATION.NOTES
+V 22
+file 6mg.0.r4159/21144
+K 8
+Makefile
+V 22
+file 6mh.0.r4159/21318
+K 6
+README
+V 19
+file 6mf.y6.r4160/0
+K 11
+build-notes
+V 22
+file 6mi.0.r4159/20638
+K 12
+build-script
+V 22
+file 6mj.0.r4159/20141
+K 10
+config-xml
+V 22
+file 6mk.0.r4159/20472
+K 13
+gen-config.sh
+V 22
+file 6ml.0.r4159/20806
+K 10
+port-usage
+V 22
+file 6mm.0.r4159/20976
+K 7
+sipX.el
+V 22
+file 6mn.0.r4159/20309
+END
+ENDREP
+id: 6me.0.r4160/632
+type: dir
+pred: 6me.0.r4159/21899
+count: 2
+text: 4160 220 399 399 4c538144325adbf01608bea379781fce
+cpath: /old/sipXpbx/main/doc/developer
+copyroot: 0 /
+
+PLAIN
+K 9
+developer
+V 19
+dir 6me.0.r4160/632
+K 7
+license
+V 22
+dir 5gn.0.r4094/299673
+END
+ENDREP
+id: 5gm.0.r4160/901
+type: dir
+pred: 5gm.0.r4159/22170
+count: 3
+text: 4160 805 83 83 39364cf3e4b0c3b1afcac19247b8119e
+cpath: /old/sipXpbx/main/doc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4094/345033
+K 9
+ChangeLog
+V 20
+file 5g8.0.r4133/458
+K 7
+INSTALL
+V 21
+file 5g9.0.r4143/3730
+K 7
+LICENSE
+V 23
+file 5ga.0.r4094/296233
+K 11
+Makefile.am
+V 21
+file 5gb.0.r4143/7891
+K 4
+NEWS
+V 23
+file 5gc.0.r4094/344891
+K 6
+README
+V 20
+file 5gd.0.r4149/243
+K 4
+TODO
+V 23
+file 5ge.0.r4094/299180
+K 9
+acsite.m4
+V 23
+file 5gf.0.r4094/300422
+K 3
+bin
+V 20
+dir 5gg.0.r4155/1058
+K 12
+configure.ac
+V 21
+file 5gl.0.r4137/2575
+K 3
+doc
+V 19
+dir 5gm.0.r4160/901
+K 3
+etc
+V 20
+dir 5gp.0.r4156/1354
+K 7
+include
+V 21
+dir 5h2.0.r4151/18040
+K 3
+src
+V 20
+dir 5hb.0.r4157/9398
+END
+ENDREP
+id: 5g6.0.r4160/1665
+type: dir
+pred: 5g6.0.r4159/22938
+count: 59
+text: 4160 1062 590 590 5598532b3784a8c3de50fe63c9e854b6
+props: 4144 8225 241 0 62cd57c97efeb37d89369c2aee464908
+cpath: /old/sipXpbx/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 20
+dir 5g6.0.r4160/1665
+K 4
+tags
+V 20
+dir 5kn.0.r4134/2736
+END
+ENDREP
+id: 5g5.0.r4160/1970
+type: dir
+pred: 5g5.0.r4159/23244
+count: 67
+text: 4160 1883 74 74 4b306996090ff4dea99a4378e3c4e7f2
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4160/1970
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4160/2608
+type: dir
+pred: 1.0.r4159/23884
+count: 4158
+text: 4160 2125 470 470 95e5e255eeb40123d3d9bd97f5e42262
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4160/2608
+END
+ENDREP
+id: 0.0.r4160/2804
+type: dir
+pred: 0.0.r4159/24082
+count: 4160
+text: 4160 2755 36 36 633a781366d63fd64bf707103b44ab8b
+cpath: /
+copyroot: 0 /
+
+6mf._0.t4159-1 add false false /old/sipXpbx/main/doc/developer/README
+4159 /old/sipXpbx/main/doc/developer/!README!
+6mf.0.r4159/19982 delete false false /old/sipXpbx/main/doc/developer/!README!
+
+
+2804 2946

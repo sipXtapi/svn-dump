@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-03-04T00:27:53.252320Z
+K 7
+svn:log
+V 60
+XCF-210 remove limit of 10 rows for gateways and dialplans.
+
+END

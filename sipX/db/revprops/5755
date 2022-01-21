@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-12-16T20:20:38.503791Z
+K 7
+svn:log
+V 210
+XCF-814 problems with snapshot page
+- snapshot script was changed - need to pass a file name explicitely to use it from UI
+- race condition fixed - page generation needs to wait for snapshot file to be created
+
+END

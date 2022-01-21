@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-04-16T03:12:08.394159Z
+K 7
+svn:log
+V 134
+Redo the CDR config UI for better usability.
+Introduce a separate CSE purge age param and rename the CDR purge age param per XPR-147.
+
+END

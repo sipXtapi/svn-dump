@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-08-28T20:30:08.462512Z
+K 7
+svn:log
+V 146
+Remove commented out codec validation code from CpTopologyGraphInterface and CpPhoneMediaInterface.
+It sohuld be done elsewhere if really needed.
+
+END

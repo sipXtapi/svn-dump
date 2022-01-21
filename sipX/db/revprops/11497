@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2010-01-13T00:36:42.888880Z
+K 7
+svn:log
+V 69
+First pass at getting non-CPPUNIT test framework working on Android
+
+
+END

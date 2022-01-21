@@ -1,0 +1,143 @@
+id: 7q4.68z.r8426/0
+type: dir
+pred: 7q4.0.r8425/8743
+count: 2226
+text: 8425 7680 1050 1050 1047fa06ce6f96d7ae6c535a28bf36ad
+props: 8362 20173 2653 0 ea4d76c77207170315b2b147e3155376
+cpath: /branches/bbridge
+copyfrom: 8425 /main
+
+PLAIN
+K 3
+2.6
+V 20
+dir 7pu.0.r7204/7516
+K 3
+2.8
+V 20
+dir 7pv.0.r5753/4355
+K 3
+3.0
+V 22
+dir 7q4.24b.r6438/6740
+K 3
+3.2
+V 22
+dir 7q4.2pk.r7229/9790
+K 3
+3.4
+V 23
+dir 7q4.3ib.r8066/42815
+K 3
+3.6
+V 23
+dir 7q4.50x.r8312/14143
+K 7
+bbridge
+V 19
+dir 7q4.68z.r8426/0
+K 10
+cert-login
+V 21
+dir 7pw.0.r4813/14400
+K 15
+kbrose_identity
+V 21
+dir 7px.0.r4813/31800
+K 10
+modularity
+V 22
+dir 7q4.3lm.r7265/4897
+K 16
+proxy_simple_cdr
+V 23
+dir 1vt.5hb.r7955/13127
+K 13
+register_hook
+V 21
+dir 7pz.0.r4813/15206
+K 14
+releng-nextgen
+V 23
+dir 7q4.3xt.r7298/29159
+K 11
+repro-proxy
+V 22
+dir 7q4.2lz.r6184/3751
+K 10
+sipXconfig
+V 18
+dir 8q1.0.r6703/63
+K 8
+sipXtapi
+V 20
+dir 9wi.0.r8416/6477
+K 21
+sipXtapi-media-update
+V 22
+dir 9wi.3ke.r8420/5003
+K 14
+sipXtapi.wince
+V 24
+dir 9wi.662.r8313/638537
+K 12
+solaris_port
+V 21
+dir 7q4.3wa.r7250/889
+K 24
+user_dworley_URI_parsing
+V 21
+dir 7q4.4t1.r7562/240
+K 21
+user_dworley_localize
+V 23
+dir 7q4.2cv.r5688/33487
+K 24
+user_dworley_redirectors
+V 22
+dir 7q4.3xw.r7858/7806
+K 30
+user_dworley_redirectors_merge
+V 22
+dir 7q4.5ja.r7925/6442
+K 14
+virtual-domain
+V 24
+dir 7q4.4t6.r8010/314955
+END
+ENDREP
+id: 7pt.0.r8426/1337
+type: dir
+pred: 7pt.0.r8420/6343
+count: 1375
+text: 8426 229 1095 1095 3b4cad01b486c69bb711179c4d8ef648
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 7pt.0.r8426/1337
+K 4
+main
+V 20
+dir 7q4.0.r8425/8743
+K 4
+tags
+V 20
+dir 7q5.0.r8275/3149
+END
+ENDREP
+id: 0.0.r8426/1619
+type: dir
+pred: 0.0.r8425/9080
+count: 8426
+text: 8426 1493 113 113 1abb9a3a8c8cf977422fdafed9eea67e
+cpath: /
+copyroot: 0 /
+
+7q4._0.t8425-1 add false false /branches/bbridge
+8425 /main
+
+1619 1762

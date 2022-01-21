@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2017-11-28T16:33:45.158687Z
+K 7
+svn:log
+V 56
+Fixed use of status and added test point to OsEventTest
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-11-26T23:33:14.267332Z
+K 7
+svn:log
+V 152
+Add proper static codecs de-initialization.
+This fixes problems with sipXtapi unittests, which issues multiple sipxInitialize() and sipxUnInitialize().
+
+END

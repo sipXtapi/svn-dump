@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2019-10-16T00:22:38.233215Z
+K 7
+svn:log
+V 110
+Generate a real signal to be recorded in two MprRecorder unit test where previously it was recording silence.
+
+END

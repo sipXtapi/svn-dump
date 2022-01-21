@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2004-12-18T00:03:27.364189Z
+K 7
+svn:log
+V 275
+We are now distributing necessary DTD with sipXconfig.
+The fix is based on Stephen Jones's suggestion.
+Our local Apache server is used to provide necessary DTDs for JBoss.
+profilewriter component installs them in directory accessible through http://localhost:8090/phone/dtd/
+
+END

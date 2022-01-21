@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-02-20T11:22:26.551817Z
+K 7
+svn:log
+V 299
+Fix bug in generating output RTP stream.
+Mark bit in RTP header was set to 1 for all packets encoded with frame-based codecs with frame size >10ms (like Speex, iLBC, etc). According to RFC3551 Mark bit MUST be set to 0 for frames during talkspurt and for all frames if encoder does not support DTX.
+
+END

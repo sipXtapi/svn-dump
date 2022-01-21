@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-10-24T12:05:18.109834Z
+K 7
+svn:log
+V 175
+Print status information about what build labels were used
+  and what configuration switches that created.
+Remove extraneous 'cd' output
+Fix a spelling error in usage message
+
+END

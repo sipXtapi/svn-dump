@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-04-20T21:14:00.487149Z
+K 7
+svn:log
+V 246
+XCF-977 Default all DST rules to US is a timezone string does not contain the workd 'Europe' in it.  Looking for US string in timezone turns out to be inconsistent on machines.  Code as is was would default to all zeros which was not very helpful
+END

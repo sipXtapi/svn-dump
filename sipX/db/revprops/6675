@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-04-27T16:21:31.029153Z
+K 7
+svn:log
+V 74
+XPB-585: Fix unknown constant name, also test if CA file actually exists.
+
+END

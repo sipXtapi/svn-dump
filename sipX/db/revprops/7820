@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-10-25T19:42:23.256305Z
+K 7
+svn:log
+V 119
+XCF-1299 - Generate directory of users for polycom phones from user groups only (no csv yes) and for all polycom phones
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-03-17T03:57:23.588590Z
+K 7
+svn:log
+V 228
+XCF-238 Remove 2nd copy of sipxconfig.properties that gets put in jar, remove duplicate version property in VersionInfo.java, in unittests, call TestUtil to generate sipxconfig.properties for testing props used in web unit tests
+END

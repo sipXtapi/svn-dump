@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-08-10T15:18:12.401720Z
+K 7
+svn:log
+V 106
+Methods should not be defined inside class declaration. This breaks Doxygen formating among other things.
+
+END

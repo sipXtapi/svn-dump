@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-12-21T15:33:41.580079Z
+K 7
+svn:log
+V 293
+sipXmediaLib: Fix crash when compiling with -O2 in 64-bit Linux.
+Seems gcc does some magic with alignment or smth. and does not like casting a struct to a type of it's single member. So we have to declare MpDataBuf as a friend for MpBufPtr to be able access MpBufPtr::mpBuffer by usual means.
+
+END

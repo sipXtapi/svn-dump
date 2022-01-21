@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-05-03T21:34:39.853892Z
+K 7
+svn:log
+V 446
+Merged revisions 84-85 by hand from
+http://paradise/rep/sipXportLib/branches/sipxtapi
+    ------------------------------------------------------------------------
+    r84 | ajorde | 2005-04-05 09:44:14 -0400 (Tue, 05 Apr 2005) | 1 line
+
+    Adding method to retrieve task Id
+    ------------------------------------------------------------------------
+    r85 | ajorde | 2005-04-05 10:36:27 -0400 (Tue, 05 Apr 2005) | 1 line
+
+    Fix linux build
+
+END

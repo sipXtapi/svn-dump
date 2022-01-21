@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-10-22T19:08:39.163140Z
+K 7
+svn:log
+V 261
+http://track.sipfoundry.org/browse/XPB-90
+Set up so that all processes run with CWD being SIPX_LOGDIR, so their core
+files are stored where they should be.
+This includes changes so the watchdog looks for its config file in
+SIPX_CONFDIR, rather than in its CWD.
+
+END

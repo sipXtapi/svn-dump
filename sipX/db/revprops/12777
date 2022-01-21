@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2020-06-19T08:35:48.561133Z
+K 7
+svn:log
+V 75
+added patterns to svn ignore in mediaLib for artifacts created by MSVS2019
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-04-06T17:41:24.018115Z
+K 7
+svn:log
+V 95
+Unify the two Connection::getState routines, correcting the broken
+one.
+Clean up tab handling.
+
+END

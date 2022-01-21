@@ -1,0 +1,151 @@
+PLAIN
+K 13
+svn:externals
+V 70
+config https://scm.sipfoundry.org/rep/sipXportLib/branches/2.6/config
+
+K 10
+svn:ignore
+V 158
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+sipxvxml-*.tar.gz
+sipxvxml.spec
+stamp-h1
+
+K 18
+svnmerge-main-head
+V 44
+https://scm.sipfoundry.org/rep/sipXvxml/main
+K 18
+svnmerge-main-revs
+V 5
+1-107
+END
+ENDREP
+id: 22d.fx.r2845/401
+type: dir
+pred: 22d.0.r2840/2067
+count: 90
+text: 2840 1345 709 709 f5b4a6d70756b6e018e96a348958781a
+props: 2845 0 388 0 46413af66a7130f5da856f8d9a2782df
+cpath: /old/sipXvxml/branches/2.6
+copyfrom: 2844 /old/sipXvxml/main
+
+PLAIN
+K 3
+2.6
+V 20
+dir 22d.fx.r2845/401
+K 10
+post-2.6.1
+V 21
+dir 22d.fs.r2843/8457
+END
+ENDREP
+id: 2h1.0.r2845/738
+type: dir
+pred: 2h1.0.r2843/8787
+count: 13
+text: 2845 644 81 81 6661f9f1a8a18cdcb95483b6cacb92d6
+cpath: /old/sipXvxml/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 19
+dir 2h1.0.r2845/738
+K 4
+main
+V 20
+dir 22d.0.r2840/2067
+K 4
+tags
+V 19
+dir 2gd.0.r2844/838
+END
+ENDREP
+id: 22c.0.r2845/1024
+type: dir
+pred: 22c.0.r2844/1121
+count: 112
+text: 2845 900 111 111 a2b4aeb1cc93b42476adba47f0650788
+cpath: /old/sipXvxml
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r2845/1024
+END
+ENDREP
+id: 1.0.r2845/1583
+type: dir
+pred: 1.0.r2844/1680
+count: 2844
+text: 2845 1181 389 389 f2b97d27a87eebfa59c14eca996a26f2
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r2845/1583
+END
+ENDREP
+id: 0.0.r2845/1778
+type: dir
+pred: 0.0.r2844/1875
+count: 2845
+text: 2845 1729 36 36 dfb24a19d5138a8204cd774500a04aa0
+cpath: /
+copyroot: 0 /
+
+22d._0.t2844-1 add false true /old/sipXvxml/branches/2.6
+2844 /old/sipXvxml/main
+
+1778 1919

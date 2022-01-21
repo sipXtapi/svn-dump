@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 5
+mardy
+K 8
+svn:date
+V 27
+2005-03-21T19:31:41.528659Z
+K 7
+svn:log
+V 210
+Removed "bargein" property change in prompt statements that
+play back the default and recorded AA greetings.  This is the
+same type of problem as reported in XPB-210.
+http://track.sipfoundry.org/browse/XVX-110
+
+END

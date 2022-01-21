@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-21T14:28:14.111409Z
+K 7
+svn:log
+V 126
+XCF-1181/XCF-1182 make Park time-out and Transfer key advanced parameters: displayed after admin clicks on Show Advanced link.
+END

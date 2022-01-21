@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-17T20:47:51.350862Z
+K 7
+svn:log
+V 642
+Video support update:
+
+* abstracted out MpVideoEncoder/MpVideoDecoder instead of MpeH264/MpdH264;
+* AVCodec-based support for rfc2190 H.263 codec. This is currently  set to be default, until video codec selection will not be made configurable at runtime. H.263 payload has been tested with X-Lite, and they are interoperable.
+
+
+Since rfc2190 is now moved to "historic" status, it might seem that implementing it is of little value, but still there are some applications which use it, so it's good thing to be able to talk with them. Still, implementing rfc4629 (update of rfc2429) is important, so at some time we'll have to take care of it.
+
+END

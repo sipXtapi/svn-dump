@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-02-10T16:14:41.919543Z
+K 7
+svn:log
+V 143
+Removed sipXconfigContext. 
+
+Use global.getApplicationContext() if you nead application context.
+USe global.beanName to retrieve Spring bean.
+
+
+END

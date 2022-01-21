@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-04-05T19:43:52.490835Z
+K 7
+svn:log
+V 205
+Implemented MpResourceFactory and MpResourceConstuctor with 
+the first concrete resource constructor: MprBridgeConstructor.
+  It seems to work.
+
+Added new files to autotools and MSVS6 project files only.
+
+
+END

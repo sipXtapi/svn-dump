@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+msl
+K 8
+svn:date
+V 27
+2006-03-29T22:02:43.795482Z
+K 7
+svn:log
+V 118
+Use portable functions to build sipxBuildTime and sipxBuildHost as per Michal's comments
+Resolves XPL-156 and XPL-157
+
+END

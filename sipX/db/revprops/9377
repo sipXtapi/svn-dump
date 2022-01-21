@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-18T07:49:59.762317Z
+K 7
+svn:log
+V 177
+Test output driver implemented, it records all passed data to internal memory buffer and make it available from outside.
+It's not included in any build now, will do this later.
+
+END

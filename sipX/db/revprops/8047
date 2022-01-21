@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-11-20T20:15:30.075562Z
+K 7
+svn:log
+V 129
+XCF-1371 - DND per line setting was not being used in polycom profile, but it was captured in settings descriptor file and web ui
+END

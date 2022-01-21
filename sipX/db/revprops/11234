@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2009-01-30T21:22:26.081506Z
+K 7
+svn:log
+V 285
+sipXmediaLib: Big MprRecorder refactoring.
+* It now emits notification messages as other resources do.
+* It is now much simpler in code with the same capabilities.
+* It now correctly work with its own messaging - it must not access internal variables from outside of MediaTask thread.
+
+END

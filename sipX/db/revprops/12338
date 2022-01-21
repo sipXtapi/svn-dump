@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2016-08-03T19:24:23.334065Z
+K 7
+svn:log
+V 117
+When resuming multicast RTP stream, we must reset the codec, AGC, VAD, Dejitter and PLC.
+Fix thanks to Mike Remski.
+
+
+END

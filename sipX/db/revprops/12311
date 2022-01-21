@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2015-06-02T00:14:10.013756Z
+K 7
+svn:log
+V 149
+Updated MprRecorder test to cover cases where GSM had odd number of frames and it requires more than one media frames to push out another GSM frame.
+
+END

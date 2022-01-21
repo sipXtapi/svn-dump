@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-11-07T16:21:12.506125Z
+K 7
+svn:log
+V 62
+Add defines for vsnprintf() and va_copy() missing on Windows.
+
+END

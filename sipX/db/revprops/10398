@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-12-11T13:19:47.508750Z
+K 7
+svn:log
+V 116
+Use pthread's rw_lock for OsRWMutex on Linux instead of sipX implementation, based on two semaphores and one mutex.
+
+END

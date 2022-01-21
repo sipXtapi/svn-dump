@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+ajorde
+K 8
+svn:date
+V 27
+2006-03-29T19:31:58.792810Z
+K 7
+svn:log
+V 101
+Add installation of call resolver to build and .spec.in file.
+Adapt installation and startup script.
+
+END

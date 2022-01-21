@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2004-09-22T20:33:55.763133Z
+K 7
+svn:log
+V 151
+- A number of modifications to build/run under Windows (getting very close).
+- Delete a bunch of obsolete/dead code
+- Removed non-dependant libraries
+
+
+END

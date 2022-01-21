@@ -1,0 +1,43 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2006-08-21T11:31:23.998106Z
+K 7
+svn:log
+V 1091
+Recorded merge of revisions 7166 via svnmerge from 
+https://scm.sipfoundry.org/rep/sipX/branches/sipXtapi
+
+........
+  r7166 | bob | 2006-08-03 16:58:02 +0400 | 3 lines
+  
+  Removed a blocker to our ICEish implementation from working.  In the CpPhoneMediaInterface, we issued a connect() to the target IP/port.  This effectively filter all inbound messages from different sources -- including STUN connectivity checks.  
+........
+
+
+
+Blocked revisions 7167,7200,7236,7239 via svnmerge
+
+........
+  r7167 | bob | 2006-08-03 17:01:40 +0400 | 3 lines
+  
+  Updated sipXtapi docs
+........
+  r7200 | bob | 2006-08-05 19:30:39 +0400 | 3 lines
+  
+  updated doxygen docs for the sipXtapi branch
+........
+  r7236 | bob | 2006-08-10 23:53:32 +0400 | 3 lines
+  
+  Fixed a compiler error under MSVC 8 -- strchr returns a const char* which cannot be automatically casted to a char*.
+........
+  r7239 | bob | 2006-08-11 03:31:53 +0400 | 2 lines
+  
+  Merged Alexander Chemeris's fix for a sipxConfigGetAllLocalNetworkIps stack corruption reported by Charlie Hedlin (r7233) from sipXtapi-media-update.
+........
+
+END

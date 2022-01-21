@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+szuk
+K 8
+svn:date
+V 27
+2006-10-29T04:24:27.641374Z
+K 7
+svn:log
+V 88
+Allow contact uri to equal request uri if the mapped uri contains a 
+"route" parameter.
+
+END

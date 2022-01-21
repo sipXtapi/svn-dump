@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2006-05-16T21:07:20.616955Z
+K 7
+svn:log
+V 150
+restore use of TCP now that cross-subnet connections are fixed
+correct definition of errno
+allow non-blocking connect in-progress indication in Linux
+
+END

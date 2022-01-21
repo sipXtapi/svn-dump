@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2008-02-18T17:56:49.517229Z
+K 7
+svn:log
+V 76
+added sdp transport protocol types defined in draft-fiscl-mmusic-sdp-dtls-04
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2005-03-16T15:40:05.343470Z
+K 7
+svn:log
+V 128
+Remove PHP files from the list wwwcontent in Makefile.am, now that
+I've deleted them.
+http://track.sipfoundry.org/browse/XPB-45
+
+END

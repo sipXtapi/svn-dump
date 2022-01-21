@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2005-05-10T13:35:40.864996Z
+K 7
+svn:log
+V 150
+Remove custom headers from generated html because the default one 
+generates better page titles for bookmarks.
+Move the home page link to the footer.
+
+END

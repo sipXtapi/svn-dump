@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-10-08T20:52:15.318124Z
+K 7
+svn:log
+V 129
+Make constructor parameter for setting speed of tone generation (faster than normal, slower than normal) more clear in it's name.
+END

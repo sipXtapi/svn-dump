@@ -1,0 +1,31 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2007-02-28T20:59:59.518564Z
+K 7
+svn:log
+V 735
+Added more test cases to MpAudioBufTest
+
+Fixed problem with MpAudioBuf::compareSamples identified in unit test
+where it falsely said two buffers were the same.
+
+Fixed a bunch of problems in the MpInputDeviceManager and unit test:
+    was deleting key twice instead of key and value in hashMap
+    unit test used buffer pool with chunks too small causing overwrite
+
+Note: MpInputDeviceManager  unit test still is hanging 1 in 10 times on
+windows most likely due to some race or unsafe shutdown of the device driver
+or the manager.
+
+Fixed problems with sipXmediaLib/src/mp/MprSineWaveGeneratorDeviceDriver.cpp
+    was shutting down its reader task twice
+
+removed duplicate implementation inline and in cpp file for MpInputDeviceDriver.
+
+
+END

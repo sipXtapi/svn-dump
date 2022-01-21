@@ -1,0 +1,761 @@
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 5h4.0.r4144/60
+type: dir
+pred: 5h4.0.r4121/21441
+count: 5
+text: 4121 21278 150 150 9ae5168d2a3d4dc295b81730111ada78
+props: 4144 0 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpbx/main/include/processcgi
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 5h8.0.r4144/351
+type: dir
+pred: 5h8.0.r4096/333
+count: 2
+text: 4094 298357 96 96 775b201a24920c50fade005282888989
+props: 4144 291 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpbx/main/include/sipxcgi
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 5h3.0.r4094/298668
+K 10
+processcgi
+V 18
+dir 5h4.0.r4144/60
+K 7
+sipxcgi
+V 19
+dir 5h8.0.r4144/351
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 5h2.0.r4144/779
+type: dir
+pred: 5h2.0.r4121/21817
+count: 5
+text: 4144 579 127 127 0c7cdcc3c6e275f5b00c0a5aed87f59c
+props: 4144 719 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpbx/main/include
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 27
+.deps
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 5k2.0.r4144/1066
+type: dir
+pred: 5k2.0.r4110/894
+count: 9
+text: 4110 628 253 253 53ac49368fb89f7689811cb5ff9d6158
+props: 4144 1000 53 0 afc0537c0f2ece55c5ae2c7289c4a330
+cpath: /old/sipXpbx/main/src/test/sipxcgi
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 23
+file 5k1.0.r4094/303608
+K 7
+sipxcgi
+V 20
+dir 5k2.0.r4144/1066
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 5k0.0.r4144/1457
+type: dir
+pred: 5k0.0.r4110/1224
+count: 9
+text: 4144 1296 88 88 719c4cb32b776e0f0b202f00197efc55
+props: 4144 1397 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpbx/main/src/test
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 5r8.0.r4144/1739
+type: dir
+pred: 5r8.0.r4142/973
+count: 4
+text: 4142 623 337 337 03fcce5abb509367a2bda6cf9d859e99
+props: 4144 1679 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpbx/main/src/wwwcontent
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 42
+.deps
+.libs
+Makefile
+Makefile.in
+watchdog
+
+END
+ENDREP
+id: 5kc.0.r4144/2048
+type: dir
+pred: 5kc.0.r4143/4764
+count: 9
+text: 4143 4197 554 554 bc0fb5d7f068ce6329612edd0a80d22e
+props: 4144 1967 68 0 329f30c68e0293c8e9c349d228a6e226
+cpath: /old/sipXpbx/main/src/watchdog
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 33
+.deps
+.libs
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 5hi.0.r4144/2348
+type: dir
+pred: 5hi.0.r4121/39568
+count: 9
+text: 4121 35910 3645 3645 49525b9850d327ba1d609e2bf0a11853
+props: 4144 2276 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /old/sipXpbx/main/src/mailboxmgr
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 45
+.deps
+.libs
+Makefile
+Makefile.in
+process.cgi
+
+END
+ENDREP
+id: 5jm.0.r4144/2666
+type: dir
+pred: 5jm.0.r4121/40768
+count: 4
+text: 4121 40562 193 193 4d1dbfea7fd98201de261481fcfe6337
+props: 4144 2582 71 0 7b00ee65217789eac21a597c1eeee17e
+cpath: /old/sipXpbx/main/src/processcgi
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 33
+.deps
+.libs
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 5ji.0.r4144/2970
+type: dir
+pred: 5ji.0.r4127/2690
+count: 8
+text: 4127 2527 150 150 19b89ea972e8f2cd07295829285151a0
+props: 4144 2898 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /old/sipXpbx/main/src/mod_sipxauth
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 33
+.deps
+.libs
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 5jx.0.r4144/3274
+type: dir
+pred: 5jx.0.r4096/2863
+count: 3
+text: 4095 63934 97 97 6ad055696f39ebdfcde179d1f3b89d53
+props: 4144 3202 59 0 f26680c30fa4eabf64229c61979b40d0
+cpath: /old/sipXpbx/main/src/sipxcgi
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 5hd.0.r4144/3560
+type: dir
+pred: 5hd.0.r4121/42619
+count: 5
+text: 4121 42418 188 188 dc611e47d5b378006e1dd2748a7e0710
+props: 4144 3500 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpbx/main/src/emailnotifier
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 5ko.0.r4144/3855
+type: dir
+pred: 5ko.0.r4113/3590
+count: 3
+text: 4113 1994 1532 1532 4ae3da07697fc121c6d87b5c3a070e52
+props: 4144 3795 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpbx/main/src/mediaservercgi/userui
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 22
+file 5jg.0.r4118/10872
+K 8
+main.cpp
+V 22
+file 5jh.0.r4121/42853
+K 6
+userui
+V 20
+dir 5ko.0.r4144/3855
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 49
+.deps
+.libs
+Makefile
+Makefile.in
+mediaserver.cgi
+
+END
+ENDREP
+id: 5jf.0.r4144/4326
+type: dir
+pred: 5jf.0.r4121/43244
+count: 9
+text: 4144 4098 127 127 0dbdac47e72986ace47595848ae26557
+props: 4144 4238 75 0 c4a41af983ecef3da2d6c9b30328ff44
+cpath: /old/sipXpbx/main/src/mediaservercgi
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 49
+.deps
+.libs
+Makefile
+Makefile.in
+replication.cgi
+
+END
+ENDREP
+id: 5ju.0.r4144/4649
+type: dir
+pred: 5ju.0.r4143/5339
+count: 8
+text: 4143 5239 87 87 4a7a1b7dcdabcba66f52831f70e5d812
+props: 4144 4561 75 0 6e00389606184b84721ad322111f5b54
+cpath: /old/sipXpbx/main/src/replicationcgi
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 25
+file 5hc.0.r4122/12894907
+K 13
+emailnotifier
+V 20
+dir 5hd.0.r4144/3560
+K 10
+mailboxmgr
+V 20
+dir 5hi.0.r4144/2348
+K 14
+mediaservercgi
+V 20
+dir 5jf.0.r4144/4326
+K 12
+mod_sipxauth
+V 20
+dir 5ji.0.r4144/2970
+K 10
+processcgi
+V 20
+dir 5jm.0.r4144/2666
+K 15
+replication.cgi
+V 21
+dir 5jr.0.r4121/43837
+K 14
+replicationcgi
+V 20
+dir 5ju.0.r4144/4649
+K 7
+sipxcgi
+V 20
+dir 5jx.0.r4144/3274
+K 4
+test
+V 20
+dir 5k0.0.r4144/1457
+K 8
+watchdog
+V 20
+dir 5kc.0.r4144/2048
+K 10
+wwwcontent
+V 20
+dir 5r8.0.r4144/1739
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 5hb.0.r4144/5473
+type: dir
+pred: 5hb.0.r4143/6106
+count: 25
+text: 4144 4881 519 519 c4aa487ded95e9a09349b8e8f105c6fe
+props: 4144 5413 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpbx/main/src
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 5gg.0.r4144/5753
+type: dir
+pred: 5gg.0.r4143/7672
+count: 15
+text: 4143 7320 339 339 db1ab3afdd55c9c6d0e0d861ef024bb3
+props: 4144 5693 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpbx/main/bin
+copyroot: 0 /
+
+PLAIN
+K 10
+svn:ignore
+V 110
+Makefile
+Makefile.in
+ca.conf
+ca_cert.pem
+index.txt
+openssl.id
+openssl.tmpl
+serial
+sipx.conf
+sipx.csr
+sipx.key
+
+END
+ENDREP
+id: 5qy.0.r4144/6123
+type: dir
+pred: 5qy.0.r4141/922
+count: 5
+text: 4141 686 223 223 c4914ed7e6a732b2b215b003398b3533
+props: 4144 5973 137 0 658ad0a51dafdb2303089b8f66412f3c
+cpath: /old/sipXpbx/main/etc/cert
+copyroot: 0 /
+
+PLAIN
+K 11
+Makefile.am
+V 21
+file 5r4.0.r4143/8120
+K 25
+ProcessDefinitions.xml.in
+V 21
+file 5gq.0.r4124/3813
+K 15
+WatchDog.xml.in
+V 21
+file 5gr.0.r4127/3680
+K 21
+autoattendant.vxml.in
+V 23
+file 5gs.0.r4094/341866
+K 4
+cert
+V 20
+dir 5qy.0.r4144/6123
+K 22
+forwardmessage.vxml.in
+V 23
+file 5gt.0.r4094/341041
+K 38
+httpd-sipxchange-common-ssl.conf.in.in
+V 21
+file 5gu.0.r4119/4250
+K 34
+httpd-sipxchange-common.conf.in.in
+V 21
+file 5gv.0.r4119/4512
+K 43
+httpd-sipxchange-mediaserver-ssl.conf.in.in
+V 21
+file 5r5.0.r4119/5047
+K 39
+httpd-sipxchange-mediaserver.conf.in.in
+V 25
+file 5r6.0.r4122/12896802
+K 13
+login.vxml.in
+V 23
+file 5gw.0.r4094/340776
+K 30
+login_no_autoattendant.vxml.in
+V 23
+file 5gx.0.r4094/342139
+K 18
+resourcemap.xml.in
+V 23
+file 5gy.0.r4094/342421
+K 12
+root.vxml.in
+V 23
+file 5gz.0.r4094/342980
+K 19
+savemessage.vxml.in
+V 23
+file 5h0.0.r4094/343244
+K 31
+savemessage_no_operator.vxml.in
+V 23
+file 5h1.0.r4094/341582
+K 19
+voicemail.xml.in.in
+V 25
+file 5r7.0.r4122/12896557
+END
+ENDREP
+PLAIN
+K 10
+svn:ignore
+V 21
+Makefile
+Makefile.in
+
+END
+ENDREP
+id: 5gp.0.r4144/7400
+type: dir
+pred: 5gp.0.r4143/9346
+count: 11
+text: 4144 6346 981 981 cab337dae350741d4f5c6c88a0d81d45
+props: 4144 7340 47 0 c348519a2f02d6470452d3eca58ed415
+cpath: /old/sipXpbx/main/etc
+copyroot: 0 /
+
+PLAIN
+K 12
+CONTRIBUTORS
+V 23
+file 5g7.0.r4094/345033
+K 9
+ChangeLog
+V 20
+file 5g8.0.r4133/458
+K 7
+INSTALL
+V 21
+file 5g9.0.r4143/3730
+K 7
+LICENSE
+V 23
+file 5ga.0.r4094/296233
+K 11
+Makefile.am
+V 21
+file 5gb.0.r4143/7891
+K 4
+NEWS
+V 23
+file 5gc.0.r4094/344891
+K 6
+README
+V 21
+file 5gd.0.r4124/5275
+K 4
+TODO
+V 23
+file 5ge.0.r4094/299180
+K 9
+acsite.m4
+V 23
+file 5gf.0.r4094/300422
+K 3
+bin
+V 20
+dir 5gg.0.r4144/5753
+K 12
+configure.ac
+V 21
+file 5gl.0.r4137/2575
+K 3
+doc
+V 22
+dir 5gm.0.r4094/299881
+K 3
+etc
+V 20
+dir 5gp.0.r4144/7400
+K 7
+include
+V 19
+dir 5h2.0.r4144/779
+K 3
+src
+V 20
+dir 5hb.0.r4144/5473
+END
+ENDREP
+PLAIN
+K 13
+svn:externals
+V 63
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+
+K 10
+svn:ignore
+V 126
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+build
+config.h
+config.h.in
+config.log
+config.status
+configure
+libtool
+stamp-h1
+
+END
+ENDREP
+id: 5g6.0.r4144/8479
+type: dir
+pred: 5g6.0.r4143/10173
+count: 43
+text: 4144 7620 592 592 4dfc5c213d39e4b5d1785dd3956cbf6b
+props: 4144 8225 241 0 62cd57c97efeb37d89369c2aee464908
+cpath: /old/sipXpbx/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 20
+dir 5g6.0.r4144/8479
+K 4
+tags
+V 20
+dir 5kn.0.r4134/2736
+END
+ENDREP
+id: 5g5.0.r4144/8784
+type: dir
+pred: 5g5.0.r4143/10479
+count: 51
+text: 4144 8697 74 74 a7410d9fbdf19c2309307c31ffb99852
+cpath: /old/sipXpbx
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 10
+sipXconfig
+V 21
+dir 2he.0.r4092/22888
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 7
+sipXpbx
+V 20
+dir 5g5.0.r4144/8784
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 20
+dir 20m.0.r2732/3268
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+K 8
+sipXvxml
+V 20
+dir 22c.0.r3023/3274
+END
+ENDREP
+id: 1.0.r4144/9422
+type: dir
+pred: 1.0.r4143/11119
+count: 4142
+text: 4144 8939 470 470 26adad98e59e5e5ab67ec03eefbd50dc
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 18
+dir 1.0.r4144/9422
+END
+ENDREP
+id: 0.0.r4144/9618
+type: dir
+pred: 0.0.r4143/11317
+count: 4144
+text: 4144 9569 36 36 943afb8e36d40ebeaeefeb400842f1d4
+cpath: /
+copyroot: 0 /
+
+5k0.0.t4143-1 modify false true /old/sipXpbx/main/src/test
+
+5r8.0.t4143-1 modify false true /old/sipXpbx/main/src/wwwcontent
+
+5qy.0.t4143-1 modify false true /old/sipXpbx/main/etc/cert
+
+5gg.0.t4143-1 modify false true /old/sipXpbx/main/bin
+
+5gp.0.t4143-1 modify false true /old/sipXpbx/main/etc
+
+5k2.0.t4143-1 modify false true /old/sipXpbx/main/src/test/sipxcgi
+
+5hd.0.t4143-1 modify false true /old/sipXpbx/main/src/emailnotifier
+
+5jf.0.t4143-1 modify false true /old/sipXpbx/main/src/mediaservercgi
+
+5ju.0.t4143-1 modify false true /old/sipXpbx/main/src/replicationcgi
+
+5h2.0.t4143-1 modify false true /old/sipXpbx/main/include
+
+5h4.0.t4143-1 modify false true /old/sipXpbx/main/include/processcgi
+
+5hb.0.t4143-1 modify false true /old/sipXpbx/main/src
+
+5kc.0.t4143-1 modify false true /old/sipXpbx/main/src/watchdog
+
+5jm.0.t4143-1 modify false true /old/sipXpbx/main/src/processcgi
+
+5hi.0.t4143-1 modify false true /old/sipXpbx/main/src/mailboxmgr
+
+5h8.0.t4143-1 modify false true /old/sipXpbx/main/include/sipxcgi
+
+5ji.0.t4143-1 modify false true /old/sipXpbx/main/src/mod_sipxauth
+
+5ko.0.t4143-1 modify false true /old/sipXpbx/main/src/mediaservercgi/userui
+
+5jx.0.t4143-1 modify false true /old/sipXpbx/main/src/sipxcgi
+
+5g6.0.t4143-1 modify false true /old/sipXpbx/main
+
+
+9618 9760

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-02-14T23:55:53.807164Z
+K 7
+svn:log
+V 361
+XCF-753 declare For loop in SettingsFieldset as volatile - it will prevent For component from trying to squezee the settings in the 
+hidden field
+it is quite safe not to do that since setting list does not depend on any of the form parameters, it only changes when someone changes the model and restarts sipXconfig
+this fixes most of the settings based screens
+
+END

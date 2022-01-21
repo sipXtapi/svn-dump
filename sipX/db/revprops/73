@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 8
+xmlscott
+K 8
+svn:date
+V 27
+2004-06-17T17:34:06.615380Z
+K 7
+svn:log
+V 378
+Move the insert() method back to UtlContainer.
+Needed for http://track.sipfoundry.org/browse/XSL-3
+
+The ambiguities this created in UtlHashMap are partially resolved
+by substituting an internal value whenever a value=NULL is stored
+in the hash map.  There are still UtlHashMap interfaces in which the
+return value can be ambiguous if you ever store NULL values.
+Caveat caller.
+
+
+END

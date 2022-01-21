@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-05T12:38:47.626338Z
+K 7
+svn:log
+V 88
+iLBC decoder could now be configured to work in 20ms or 30ms mode at construction time.
+
+END

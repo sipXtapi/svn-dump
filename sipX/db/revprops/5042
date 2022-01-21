@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-09-15T00:39:17.911826Z
+K 7
+svn:log
+V 603
+Fix Visit.logout so that we log users out properly.  Previously we were just clearing out the userId property on the Visit object.  That's not good enough since some pages cache the userId.  Instead we now call engine.restart to invalidate the session.  This fixes XCF-622: call forwarding page doesn't pay attention to who is logged in.
+In Border.logout, don't try to navigate to the home page after logging out because that will cause exceptions, since the session has been invalidated.  When the page renders this will cause a new Session to be constructed, as well as redirecting to the login page.
+
+END

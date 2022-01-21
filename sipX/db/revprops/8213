@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-12-07T21:17:09.943040Z
+K 7
+svn:log
+V 135
+XCF-1388 Adding Phones from the User Phone tab automatically adds line for the current user
+Minor formating fixes on EditPhone screen.
+
+END

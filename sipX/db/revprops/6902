@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2006-06-05T21:43:58.283082Z
+K 7
+svn:log
+V 352
+Fix XPR-174: Duration in the CDR raw file is not correctly formatted.
+Introduce a new script in sipXproxy for exporting CDR data, sipx-cdrs-export, rather than trying to repair the manual instructions for exporting CDR data.  This has the additional benefit that the exported CSV file now has column headers, which previously had to be added manually.
+
+END

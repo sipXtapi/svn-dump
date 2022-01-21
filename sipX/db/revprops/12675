@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dpetrie
+K 8
+svn:date
+V 27
+2018-02-26T23:37:00.139954Z
+K 7
+svn:log
+V 201
+Round up samples per frame count if its not an integer in MprEncode.
+Some codecs have 44100 samples per sec. rates (or fractions of).
+This is not 10 and 20 ms frames are not integer number of samples.
+
+END

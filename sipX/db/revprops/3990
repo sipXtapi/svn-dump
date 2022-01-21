@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-06-02T14:30:56.179290Z
+K 7
+svn:log
+V 194
+XCF-407 Potential fix, 1.) keytool wasn't being found, 2.) error in script went on to create checksum and shouldn't 3.) if truststore is deleted, always generate a new one no matter the checksum
+END

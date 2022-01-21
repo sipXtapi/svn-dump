@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-10-14T14:41:01.184973Z
+K 7
+svn:log
+V 233
+1.) superadmin not given correct permissions after migration, 2.) relaxing phone description contraint was attempted each time system starts, 3.) reset superadmin password to blank only worked if superadmin user didn't exists already
+END

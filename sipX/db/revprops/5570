@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-11-11T23:35:05.221572Z
+K 7
+svn:log
+V 161
+XCF-405 new screen in Diagnostic->Snapshot which allows downlaoding files created by sipx-snapshot
+--www, --credentials and --logs options are supported from UI
+
+END

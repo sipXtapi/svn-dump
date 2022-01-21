@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-09-16T12:45:01.603650Z
+K 7
+svn:log
+V 199
+No need for explicit operator= in MpCodecInfo class - it is perfectly fine with default operator=.
+And past implementation was not correct, as it did not copy some of fields, e.g. mIsSignalingCodec.
+
+END

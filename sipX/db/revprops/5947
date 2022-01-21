@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-01-24T17:43:08.835754Z
+K 7
+svn:log
+V 83
+Add interop.pingtel.com to hold the configuration for the interoperability
+server.
+
+END

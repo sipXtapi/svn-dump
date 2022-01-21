@@ -1,0 +1,94 @@
+PLAIN
+K 13
+svn:externals
+V 62
+config https://scm.sipfoundry.org/rep/sipXportLib/main/config
+
+END
+ENDREP
+id: 20n.0.r2550/104
+type: dir
+pred: 20n.0.r2549/70739
+count: 1
+text: 2549 70164 562 562 aaae7d9efc206128a54ae0ae3aa56f58
+props: 2550 0 91 0 c6fe6524408d5adfd0f6b1b849e5d081
+cpath: /old/sipXpublisher/main
+copyroot: 0 /
+
+PLAIN
+K 4
+main
+V 19
+dir 20n.0.r2550/104
+END
+ENDREP
+id: 20m.0.r2550/374
+type: dir
+pred: 20m.0.r2549/70937
+count: 2
+text: 2550 323 38 38 8ef5e143120cf7b20ff42619e923d956
+cpath: /old/sipXpublisher
+copyroot: 0 /
+
+PLAIN
+K 11
+sipXcallLib
+V 19
+dir v9.0.r1796/3478
+K 17
+sipXcommserverLib
+V 20
+dir 1qn.0.r2095/3408
+K 12
+sipXmediaLib
+V 19
+dir my.0.r1320/3462
+K 11
+sipXportLib
+V 17
+dir 2.0.r598/2420
+K 9
+sipXproxy
+V 20
+dir 1vs.0.r2298/3287
+K 13
+sipXpublisher
+V 19
+dir 20m.0.r2550/374
+K 12
+sipXregistry
+V 20
+dir 1y4.0.r2547/3507
+K 11
+sipXtackLib
+V 20
+dir dj.0.r1066/12619
+END
+ENDREP
+id: 1.0.r2550/894
+type: dir
+pred: 1.0.r2549/71459
+count: 2549
+text: 2550 532 349 349 ac2db3523228ce9976564718ccac4b6d
+cpath: /old
+copyroot: 0 /
+
+PLAIN
+K 3
+old
+V 17
+dir 1.0.r2550/894
+END
+ENDREP
+id: 0.0.r2550/1087
+type: dir
+pred: 0.0.r2549/71656
+count: 2550
+text: 2550 1039 35 35 ee9103cc47e30252b21ad06d214b6221
+cpath: /
+copyroot: 0 /
+
+20n.0.t2549-1 modify false true /old/sipXpublisher/main
+
+
+1087 1229

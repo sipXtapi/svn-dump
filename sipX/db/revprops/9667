@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+kkyzivat
+K 8
+svn:date
+V 27
+2007-06-06T20:21:46.465295Z
+K 7
+svn:log
+V 111
+Update vs2005 (msvc8) project files: change incorrect CRT_SECURE_NO_WARNINGS to correct CRT_SECURE_NO_DEPRECATE
+END

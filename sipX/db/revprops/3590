@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2005-02-25T23:25:43.735516Z
+K 7
+svn:log
+V 165
+XCF-166 Remove lingering form buttons from previous pages.  could not remove 40px lost in top of content frame because there was no outter most frame to send page to
+END

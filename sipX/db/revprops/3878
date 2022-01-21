@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2005-05-04T22:16:45.826186Z
+K 7
+svn:log
+V 86
+Isolate prompt selection in a separate component: needed for music on hold selection.
+
+END

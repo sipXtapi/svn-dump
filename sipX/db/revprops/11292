@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 3
+bob
+K 8
+svn:date
+V 27
+2009-03-08T15:32:41.478531Z
+K 7
+svn:log
+V 446
+- Various changes to build/link with GIPS VoiceEngine/VideoEngine on MacOS.
+- Disabled UPNP by default
+- Added VisualSlick edit projects for sipXportLib, sipXtackLib, sipXmediaPluginMgr, sipXcallLib, and sipXmdiaVoiceEngine
+- Worked around a pthread lock leak by release locking before removing it
+
+Note: This changeset will break the linux build, I will look at that shortly.  Automake/Autoconf changes required for MacOS specific link options
+
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+jaro
+K 8
+svn:date
+V 27
+2007-05-03T23:17:48.667150Z
+K 7
+svn:log
+V 178
+Fixed a memory leak in sipxCallUnsubscribe, semaphore in SIPX_INSTANCE_DATA wasn't deleted. 
+Also made semaphore deletion thread safe by adding global lock gSubscribeAccessLock.
+
+END

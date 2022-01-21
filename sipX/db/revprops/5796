@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 8
+wgillett
+K 8
+svn:date
+V 27
+2005-12-28T23:45:11.050626Z
+K 7
+svn:log
+V 583
+Attempt to fix XPR-81 and XPB-458 -- "attempt" because I can't easily verify that these code changes actually fix the bugs. In SipAaa::isAuthorized, don't reuse record objects, to avoid crashing.
+Add a unit test for the isAuthorized method. This is the first unit test for the auth proxy! To make unit testing possible, split the isAuthorized method into two overloaded methods, one of which is a wrapper that calls the other. The wrapper method uses the PermissionsDB but the inner method does not, allowing it to be called from a unit test without instantiating the PermissionsDB.
+
+END

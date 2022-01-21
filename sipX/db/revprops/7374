@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+dkrzemin
+K 8
+svn:date
+V 27
+2006-08-29T21:40:47.704895Z
+K 7
+svn:log
+V 449
+XCF-1187 back-end for generating caller-alias data set
+- support for per-gateway default and per-user external number
+- generics in CoreContext and GatewayContext
+- updated SipUrl facility - needed to generate more identity and alias URIs
+- change in extension dataset - it now uses new USer.getNumericAliases method and it only adds first numeric alias (we used to add all numeric aliases to extension dataset but they were ignored by IMDB anyway)
+
+END

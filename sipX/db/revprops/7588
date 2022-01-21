@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2006-09-27T13:56:00.106694Z
+K 7
+svn:log
+V 50
+Add routines supporting use of DNS NAPTR records.
+
+END

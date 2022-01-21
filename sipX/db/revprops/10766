@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2008-08-09T14:40:02.090554Z
+K 7
+svn:log
+V 48
+Add handling of unknown bridge algorithm types.
+
+END

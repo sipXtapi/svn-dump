@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-08-19T16:27:51.902342Z
+K 7
+svn:log
+V 98
+Remove GIPS NetEQ dependencies: Remove mentions of GIPS codecs from sipXmediaLib's codec factory.
+
+END

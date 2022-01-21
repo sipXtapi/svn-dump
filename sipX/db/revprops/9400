@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+ipse
+K 8
+svn:date
+V 27
+2007-04-20T10:14:18.262875Z
+K 7
+svn:log
+V 71
+Turn back erroneously removed iLBC initialization code to MpdSipxILBC.
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+sgodin
+K 8
+svn:date
+V 27
+2008-09-17T17:06:11.655305Z
+K 7
+svn:log
+V 96
+-added --disable-stream-player configure option, so that sixXtackLib is not required for linking
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+lazyboy
+K 8
+svn:date
+V 27
+2006-03-24T14:47:11.238942Z
+K 7
+svn:log
+V 44
+Get log4j logger working in 'ant run' target
+END

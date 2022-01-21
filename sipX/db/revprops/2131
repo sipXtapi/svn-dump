@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dworley
+K 8
+svn:date
+V 27
+2004-09-09T23:05:09.290193Z
+K 7
+svn:log
+V 140
+Add explanation of why "sos" and "911" need to be listed in authrules.xml,
+but 9911 does not.
+See http://track.sipfoundry.org/browse/XPR-11
+
+END
